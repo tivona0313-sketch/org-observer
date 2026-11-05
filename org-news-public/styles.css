@@ -7,3 +7,4 @@
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 .article-summary,.reader-section p,.reader-section li{color:#707b64}.page-heading p,.context-note{color:#7b866f}.source-card p{color:#74835f}.reader-question p{color:#5a6f46}.learning-pick>p{color:#758266}.company-meta small,.card-bottom{color:#818c73}
 @media(min-width:701px){.article-summary{font-size:13px}.article-title{font-size:17px}.card-bottom,.company-meta small,.tag{font-size:10px}.context-note{font-size:11px}}
+@media(min-width:701px){.sidebar{overflow-y:auto;overscroll-behavior:contain}.sidebar>*{flex-shrink:0}}

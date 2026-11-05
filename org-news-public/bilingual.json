@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Google Translate · machine translation",
-  "generatedAt": "2026-11-05T04:48:17.981000+00:00",
-  "revision": "95b3081126660e2a4c685c31772e74e88d7544848205f5054630c645db6af44f",
+  "generatedAt": "2026-11-05T11:14:57.980446+00:00",
+  "revision": "2aaee621d3630f5618e0cd37ba1e1290dad589de2e1e27fc4df40c9f74b5a619",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,26 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-25fa4dd18ec78a48a923": {
+      "original": {
+        "title": "Setting a new standard for responsible AI infrastructure",
+        "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+        "sourceTitle": "Setting a new standard for responsible AI infrastructure",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "为负责任的人工智能基础设施设定新标准",
+        "summary": "OpenAI 推出了国家社区契约和计算校园政策蓝图，以保护当地资源、创造就业机会并指导负责任的人工智能基础设施开发。",
+        "sourceTitle": "为负责任的人工智能基础设施设定新标准",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Setting a new standard for responsible AI infrastructure",
+        "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+        "sourceTitle": "Setting a new standard for responsible AI infrastructure",
+        "source": "OpenAI News"
       }
     },
     "rss-ebcb473680819ed5ad4c": {

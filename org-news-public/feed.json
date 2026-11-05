@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "id": "rss-25fa4dd18ec78a48a923",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "date": "2026-11-05",
+      "categories": [
+        "人才结构",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Setting a new standard for responsible AI infrastructure",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-ebcb473680819ed5ad4c",
       "title": "Take a closer look at art with the Courtauld",
       "summary": "Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
@@ -1458,35 +1475,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-05T05:08:48.365704+00:00",
-      "lastSuccess": "2026-11-05T05:08:48.642759+00:00",
+      "attemptedAt": "2026-11-05T11:14:56.650641+00:00",
+      "lastSuccess": "2026-11-05T11:14:56.807955+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-05T05:08:48.366261+00:00",
-      "lastSuccess": "2026-11-05T05:08:48.602254+00:00",
+      "attemptedAt": "2026-11-05T11:14:56.651228+00:00",
+      "lastSuccess": "2026-11-05T11:14:56.734063+00:00",
       "count": 14
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-05T05:08:48.366580+00:00",
-      "lastSuccess": "2026-11-05T05:08:48.520155+00:00",
+      "attemptedAt": "2026-11-05T11:14:56.651607+00:00",
+      "lastSuccess": "2026-11-05T11:14:56.789101+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-05T05:08:48.366875+00:00",
-      "lastSuccess": "2026-11-05T05:08:49.544003+00:00",
+      "attemptedAt": "2026-11-05T11:14:56.652004+00:00",
+      "lastSuccess": "2026-11-05T11:14:57.758494+00:00",
       "count": 7
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-05T05:08:49.544771+00:00",
-  "nextRefresh": "2026-11-05T10:17:00+00:00",
+  "lastRefresh": "2026-11-05T11:14:57.759582+00:00",
+  "nextRefresh": "2026-11-05T16:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "95b3081126660e2a4c685c31772e74e88d7544848205f5054630c645db6af44f"
+  "bilingualRevision": "2aaee621d3630f5618e0cd37ba1e1290dad589de2e1e27fc4df40c9f74b5a619"
 }

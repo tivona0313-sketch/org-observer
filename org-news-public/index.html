@@ -38,9 +38,9 @@
     <div id="home-intro">
       <div class="hero-grid">
         <article class="hero-feature">
-          <div class="hero-top"><span class="pill">本期精选</span><span>组织 × AI</span></div>
-          <div class="hero-body"><div class="hero-kicker">MICROSOFT · 2026.10.27</div><h2>AI 转型的下一步：<br>从工具采用，到工作方式重构。</h2><p>微软提出以业务结果为起点，将人、组织知识与智能体治理连接起来。</p></div>
-          <div class="hero-bottom"><button class="hero-button" data-open="ms-frontier-2026">阅读精选 <span data-icon="arrow"></span></button><span>官方观点 · 中文摘要</span></div>
+          <div class="hero-top"><span class="pill" id="hero-kind">最新资讯</span><span id="hero-scope">组织 × AI</span></div>
+          <div class="hero-body"><div class="hero-kicker" id="hero-kicker">正在读取资讯</div><h2 id="hero-title">看见变化，读懂组织。</h2><p id="hero-summary">按原文发布日期展示最新内容；采集时间与文章发布日期分别记录。</p></div>
+          <div class="hero-bottom"><button class="hero-button" id="hero-open" disabled><span id="hero-action">读取资讯中</span> <span data-icon="arrow"></span></button><span id="hero-boundary">每一条信息，都有出处</span></div>
           <div class="hero-decoration" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><span class="orbit-dot"></span><span class="orbit-word">人<br>组织<br>AI</span></div>
         </article>
         <article class="learning-pick"><div class="section-overline"><span data-icon="spark"></span> 今日学习提问</div><h2>当 AI 承担更多执行，<br>人应该擅长什么？</h2><p>从人才培养、判断能力到协作方式，读一组有联系的案例。</p><div class="topic-stack"><span>人才标准</span><span>人机协作</span><span>持续学习</span></div><button class="text-button" data-collection="human-ai">开始主题阅读 <span data-icon="arrow"></span></button><div class="pick-footer"><span>精选阅读路径</span><span>3 篇 · 可分次阅读</span></div></article>
@@ -50,7 +50,7 @@
     <div id="content-layout" class="content-layout">
       <section class="main-column" aria-labelledby="list-heading">
         <div id="feed-controls">
-          <div class="section-heading"><h2 id="list-heading">精选资讯 <span id="result-count"></span></h2><label class="sort-label">排序 <select id="sort"><option value="newest">发布日期 ↓</option><option value="oldest">发布日期 ↑</option></select></label></div>
+          <div class="section-heading"><h2 id="list-heading">最新资讯 <span id="result-count"></span></h2><label class="sort-label">排序 <select id="sort"><option value="newest">发布日期 ↓</option><option value="oldest">发布日期 ↑</option></select></label></div>
           <div class="category-tabs" id="category-tabs" aria-label="资讯主题"></div>
           <div class="filter-row"><div class="filter-options"><select id="company-filter" aria-label="按公司筛选"><option value="all">全部公司</option></select><select id="period-filter" aria-label="按发布日期筛选"><option value="all">全部时间</option><option value="30">近 30 天</option><option value="90">近 90 天</option><option value="365">近一年</option></select><label class="unread-toggle"><input type="checkbox" id="unread-only">只看未读</label></div><button id="clear-filters" class="quiet-button">重置</button></div>
           <div id="context-note" class="context-note"></div>
@@ -74,6 +74,6 @@
 </dialog>
 <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
 <script src="./data.js"></script>
-<script src="./app.js"></script>
+<script src="./app.js?v=20261105-home"></script>
 </body>
 </html>

@@ -40,7 +40,7 @@
       personal.archived = stored.archived && typeof stored.archived==="object" && !Array.isArray(stored.archived) ? stored.archived : {};
     }
   } catch { storageAvailable = false; }
-  let state = {view:"home",category:"全部",company:"all",period:"all",unread:false,query:"",sort:"newest",collection:null,includeLive:false};
+  let state = {view:"home",category:"全部",company:"all",period:"all",unread:false,query:"",sort:"newest",collection:null};
   let live = [], sourceStates = [], service = null, connected = false, staticFeed = false, pending = false, toastTimer, pollTimer, activeArticle = null, serviceFingerprint = "";
   const cloudFeed = () => staticFeed && service?.deploymentMode === "github-actions";
   try { const cached = JSON.parse(localStorage.getItem("org-observer-live-v1") || "[]"); if(Array.isArray(cached)) live = cached.filter(validArticle); } catch {}
@@ -67,7 +67,7 @@
     sources:["信息来源","有出处，也有边界。","查看订阅运行状态、内容更新时间，以及不同信息的证据边界。"]
   };
   function navigate(view, options={}) {
-    state={...state,view,category:"全部",company:"all",period:"all",unread:false,query:"",collection:null,includeLive:false,...options};
+    state={...state,view,category:"全部",company:"all",period:"all",unread:false,query:"",collection:null,...options};
     syncControls(); render(); window.scrollTo({top:0,behavior:"instant"});
   }
   function syncControls() {
@@ -82,7 +82,7 @@
     $("week-dots").innerHTML=Array.from({length:7},(_,i)=>{const d=new Date();d.setDate(d.getDate()-6+i);const key=localDay(d);return `<span class="${personal.readDays.includes(key)?"done":""}" title="${key}${personal.readDays.includes(key)?" 已阅读":" 尚未阅读"}"></span>`;}).join("");
   }
   function filteredArticles() {
-    let articles=state.view==="home" ? (state.includeLive?allArticles():data.articles) : state.view==="live" ? allArticles().filter(a=>a.live) : allArticles();
+    let articles=state.view==="live" ? allArticles().filter(a=>a.live) : allArticles();
     if(state.view==="saved") articles=articles.filter(a=>personal.saved.includes(a.id));
     if(state.view==="history") articles=articles.filter(a=>personal.reads[a.id]);
     if(state.collection){const collection=data.collections.find(c=>c.id===state.collection);articles=articles.filter(a=>collection?.ids.includes(a.id));}
@@ -105,7 +105,20 @@
     if(state.view==="saved"&&!personal.saved.length){title="把值得再读的内容留在这里";copy="点击资讯卡片右上角的书签，就能加入收藏。";}
     if(state.view==="history"&&!Object.keys(personal.reads).length){title="你的阅读旅程，从一篇开始";copy="打开文章后，这里会自动记录阅读足迹。";}
     if(state.view==="live"&&!live.length){title=pending?"正在检查官方订阅源":connected?"本次订阅暂无匹配资讯":staticFeed?"静态发布包暂无订阅快照":"订阅服务暂未连接";copy=pending?"首次检查可能需要十几秒，精选内容仍可正常阅读。":connected?"可查看来源状态，了解检查结果。":staticFeed?"当前发布包未包含订阅数据，精选内容仍可正常阅读。":"可以继续阅读精选内容；连接服务后可获取订阅更新。";}
-    return `<div class="empty"><span>${icon("book")}</span><h3>${title}</h3><p>${copy}</p><button class="solid-button" ${state.view==="live"?'data-view="sources"':'data-reset="true"'}>${state.view==="live"?"查看来源状态":"回到全部精选"}</button></div>`;
+    return `<div class="empty"><span>${icon("book")}</span><h3>${title}</h3><p>${copy}</p><button class="solid-button" ${state.view==="live"?'data-view="sources"':'data-reset="true"'}>${state.view==="live"?"查看来源状态":"查看全部资讯"}</button></div>`;
+  }
+  function renderHomeFeature() {
+    const article=allArticles().sort((a,b)=>dated(b)-dated(a))[0];
+    if(!article)return;
+    $("hero-kind").textContent=article.live?"最新订阅":"中文精选";
+    $("hero-scope").textContent=article.categories.slice(0,2).join(" × ");
+    $("hero-kicker").textContent=`${article.company} · ${formatDate(article.date)} 发布`;
+    $("hero-title").textContent=article.title;
+    $("hero-summary").textContent=article.summary;
+    $("hero-open").dataset.open=article.id;
+    $("hero-open").disabled=false;
+    $("hero-action").textContent=article.live?"阅读原文摘录":"阅读精选";
+    $("hero-boundary").textContent=article.live?"RSS 原文 · 待核验":"中文整理 · 原文有出处";
   }
   function render() {
     const info=viewInfo[state.view]; $("breadcrumb-current").textContent=info[0]; $("page-title").textContent=info[1];$("page-subtitle").textContent=info[2];
@@ -117,16 +130,16 @@
     if(listView){
       $("category-tabs").innerHTML=data.categories.map(c=>`<button data-category="${c}" class="${c===state.category?"active":""}" aria-pressed="${c===state.category}">${c}</button>`).join("");
       const articles=filteredArticles(), collection=data.collections.find(c=>c.id===state.collection);
-      $("list-heading").firstChild.textContent=collection?`${collection.title} `:state.company!=="all"?`${state.company} · 资讯 `:state.view==="home"?"精选资讯 ":`${info[0]} `;
+      $("list-heading").firstChild.textContent=collection?`${collection.title} `:state.company!=="all"?`${state.company} · 资讯 `:state.view==="home"?"最新资讯 ":`${info[0]} `;
       $("result-count").textContent=`${articles.length} 篇`;
       $("context-note").textContent=collection?collection.description:state.view==="live"?`${connected?"自动聚合原文标题与摘录":staticFeed?"公网静态快照":"当前显示本机缓存"} · 不自动翻译、不代表编辑核验 · ${pending?"正在检查更新…":"按来源发布日期排序"}`:state.view==="history"?"按最近阅读时间排序；读过的文章仍可再次打开。":`精选整理于 ${formatDate(data.curatedAt)} · 按原文发布日期展示，历史案例单独标注。`;
       $("feed").innerHTML=articles.length?articles.map(card).join(""):renderEmpty();
-      if(state.includeLive)$("context-note").textContent="公司全部收录 · 包含中文精选与官方订阅摘录，信息类型分别标注。";
+      if(state.view==="home"&&!collection)$("context-note").textContent=`按原文发布日期展示最新订阅与中文精选 · RSS 保留原文语言，待核验 · 中文精选整理于 ${formatDate(data.curatedAt)}`;
       $("sort").disabled=state.view==="history";
     }else if(state.view==="companies") renderCompanies();
     else if(state.view==="topics") renderTopics();
     else renderSources();
-    updateStats();updateCloudCopy();
+    renderHomeFeature();updateStats();updateCloudCopy();
   }
   function renderCompanies() {
     $("alternate-content").innerHTML=`<div class="company-grid">${data.companies.map(c=>{const n=allArticles().filter(a=>a.company===c.name).length;return `<article class="company-card"><div class="company-card-head"><span class="company-monogram">${esc(c.initial)}</span><div><h3>${esc(c.name)}</h3><small>${esc(c.region)} · ${c.feed?"官方订阅 + 资料观察":"精选资料观察"}</small></div></div><p>${esc(c.focus)}</p><small>${n?`当前收录 ${n} 篇`:"暂无收录，不代表没有变化"}</small><div class="controls"><button class="text-button" data-company="${esc(c.name)}">查看资讯 ${icon("arrow")}</button><a href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">官方信息入口 ↗</a></div></article>`;}).join("")}</div>`;
@@ -237,8 +250,8 @@
     if(button.dataset.track){markRead(button.dataset.track);return;}
     if(button.dataset.category){state.category=button.dataset.category;render();return;}
     if(button.dataset.categoryShortcut){navigate("home",{category:button.dataset.categoryShortcut});return;}
-    if(button.dataset.companyShortcut){navigate("home",{company:button.dataset.companyShortcut,includeLive:true});return;}
-    if(button.dataset.company){navigate("home",{company:button.dataset.company,includeLive:true});return;}
+    if(button.dataset.companyShortcut){navigate("home",{company:button.dataset.companyShortcut});return;}
+    if(button.dataset.company){navigate("home",{company:button.dataset.company});return;}
     if(button.dataset.collection){navigate("home",{collection:button.dataset.collection});return;}
     if(button.dataset.reset){navigate("home");return;}
   });
@@ -250,7 +263,7 @@
   $("period-filter").addEventListener("change",e=>{state.period=e.target.value;render();});
   $("unread-only").addEventListener("change",e=>{state.unread=e.target.checked;render();});
   $("sort").addEventListener("change",e=>{state.sort=e.target.value;render();});
-  $("clear-filters").addEventListener("click",()=>{state={...state,category:"全部",company:"all",period:"all",unread:false,query:"",collection:null,includeLive:false};syncControls();render();});
+  $("clear-filters").addEventListener("click",()=>{state={...state,category:"全部",company:"all",period:"all",unread:false,query:"",collection:null};syncControls();render();});
   $("refresh").addEventListener("click",refresh);
   document.addEventListener("keydown",e=>{if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==="k"){e.preventDefault();if($("reader").open)$("reader").close();$("search").focus();}});
   $("company-filter").innerHTML+=[...data.companies].map(c=>`<option value="${esc(c.name)}">${esc(c.name)}</option>`).join("");

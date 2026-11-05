@@ -2,19 +2,19 @@ window.ORG_DATA = {
   curatedAt: "2026-11-03",
   categories: ["全部", "组织架构", "组织形态", "人才结构", "人才标准", "运营模式", "技术创新", "组织文化"],
   companies: [
-    {name:"Microsoft",initial:"M",region:"美国",focus:"人机协作 · 工作方式 · AI 平台",url:"https://blogs.microsoft.com/",feed:"microsoft"},
-    {name:"Anthropic",initial:"A",region:"美国",focus:"人才培养 · AI 原生工作 · 安全研究",url:"https://www.anthropic.com/news"},
-    {name:"Amazon",initial:"a",region:"美国",focus:"组织层级 · 人才结构 · 经营文化",url:"https://www.aboutamazon.com/"},
-    {name:"阿里巴巴",initial:"阿",region:"中国",focus:"AI 组织整合 · 云与模型 · 企业应用",url:"https://www.alibabacloud.com/en/press-room"},
-    {name:"腾讯",initial:"腾",region:"中国",focus:"项目组织 · 业务协作 · 人才发展",url:"https://www.tencent.com/zh-cn/articles.html"},
-    {name:"Google",initial:"G",region:"美国",focus:"技术创新 · AI 研究 · 产品协同",url:"https://blog.google/",feed:"google"},
-    {name:"OpenAI",initial:"O",region:"美国",focus:"模型研究 · 企业应用 · AI 治理",url:"https://openai.com/news/",feed:"openai"},
-    {name:"Meta",initial:"m",region:"美国",focus:"AI 研发 · 开源生态 · 产品创新",url:"https://about.fb.com/news/",feed:"meta"}
+    {name:"Microsoft",initial:"M",region:"美国",focus:"人机协作 · 工作方式 · AI 平台",focusEn:"Human–AI collaboration · Ways of working · AI platforms",url:"https://blogs.microsoft.com/",feed:"microsoft"},
+    {name:"Anthropic",initial:"A",region:"美国",focus:"人才培养 · AI 原生工作 · 安全研究",focusEn:"Talent development · AI-native work · Safety research",url:"https://www.anthropic.com/news"},
+    {name:"Amazon",initial:"a",region:"美国",focus:"组织层级 · 人才结构 · 经营文化",focusEn:"Management layers · Workforce composition · Operating culture",url:"https://www.aboutamazon.com/"},
+    {name:"阿里巴巴",initial:"阿",region:"中国",focus:"AI 组织整合 · 云与模型 · 企业应用",focusEn:"AI team integration · Cloud and models · Enterprise applications",url:"https://www.alibabacloud.com/en/press-room"},
+    {name:"腾讯",initial:"腾",region:"中国",focus:"项目组织 · 业务协作 · 人才发展",focusEn:"Project organization · Business collaboration · Talent development",url:"https://www.tencent.com/zh-cn/articles.html"},
+    {name:"Google",initial:"G",region:"美国",focus:"技术创新 · AI 研究 · 产品协同",focusEn:"Technology innovation · AI research · Product coordination",url:"https://blog.google/",feed:"google"},
+    {name:"OpenAI",initial:"O",region:"美国",focus:"模型研究 · 企业应用 · AI 治理",focusEn:"Model research · Enterprise applications · AI governance",url:"https://openai.com/news/",feed:"openai"},
+    {name:"Meta",initial:"m",region:"美国",focus:"AI 研发 · 开源生态 · 产品创新",focusEn:"AI research and development · Open-source ecosystem · Product innovation",url:"https://about.fb.com/news/",feed:"meta"}
   ],
   collections: [
-    {id:"human-ai",title:"当 AI 成为同事",description:"从工程师的真实工作变化，到企业人才培养与人机分工，理解 AI 如何进入组织。",ids:["anthropic-academy-2026","ms-wti-2026","anthropic-work-2025"]},
-    {id:"org-design",title:"组织为什么重新划界",description:"比较模型、产品、平台团队的组织方式，观察协作边界与决策权的变化。",ids:["ms-copilot-2026","alibaba-ath-2026","tencent-project-2026"]},
-    {id:"culture-action",title:"从文化口号到管理动作",description:"把 CEO 的公开表述与后续组织行动放在一起，追踪人才结构与经营方式。",ids:["amazon-ai-2025","amazon-workforce-2025","ms-frontier-2026"]}
+    {id:"human-ai",title:"当 AI 成为同事",titleEn:"When AI becomes a colleague",description:"从工程师的真实工作变化，到企业人才培养与人机分工，理解 AI 如何进入组织。",descriptionEn:"Explore how AI enters organizations through changes in engineers' work, talent development, and the division of work between people and AI.",ids:["anthropic-academy-2026","ms-wti-2026","anthropic-work-2025"]},
+    {id:"org-design",title:"组织为什么重新划界",titleEn:"Why organizational boundaries change",description:"比较模型、产品、平台团队的组织方式，观察协作边界与决策权的变化。",descriptionEn:"Compare how model, product, and platform teams are organized, and track changes in collaboration boundaries and decision rights.",ids:["ms-copilot-2026","alibaba-ath-2026","tencent-project-2026"]},
+    {id:"culture-action",title:"从文化口号到管理动作",titleEn:"From cultural statements to management actions",description:"把 CEO 的公开表述与后续组织行动放在一起，追踪人才结构与经营方式。",descriptionEn:"Connect CEOs' public statements with subsequent organizational actions to track changes in workforce composition and operating practices.",ids:["amazon-ai-2025","amazon-workforce-2025","ms-frontier-2026"]}
   ],
   articles: [
     {

@@ -7,6 +7,7 @@ import os
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from translate_feed import prepare_bilingual, write_snapshots
 
 ROOT = Path(__file__).resolve().parents[1]
 spec = importlib.util.spec_from_file_location("org_news_server", ROOT / "org-news/server.py")
@@ -60,9 +61,8 @@ def refresh(output):
         # A local validation run must not claim a live cloud scheduler.
         "deploymentMode": "github-actions" if os.environ.get("GITHUB_ACTIONS") == "true" else "static-snapshot",
     }
-    temporary = output.with_suffix(".tmp")
-    temporary.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    temporary.replace(output)
+    bilingual = prepare_bilingual(payload["articles"], output.parent)
+    write_snapshots(output, payload, bilingual)
     print(f'Updated {output.name}: {len(payload["articles"])} articles; {succeeded}/4 sources succeeded')
     return payload
 

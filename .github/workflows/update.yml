@@ -11,6 +11,7 @@ on:
       - 'org-news-public/**'
       - 'org-news/server.py'
       - 'scripts/update_feed.py'
+      - 'scripts/translate_feed.py'
       - '.github/workflows/update.yml'
 
 permissions:
@@ -36,7 +37,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Fetch official feeds
+      - name: Fetch official feeds and translate new content
         run: python scripts/update_feed.py
       - name: Save feed history
         env:
@@ -45,10 +46,10 @@ jobs:
           GIT_COMMITTER_NAME: github-actions[bot]
           GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
         run: |
-          git add org-news-public/feed.json
+          git add org-news-public/feed.json org-news-public/bilingual.json
           if ! git diff --cached --quiet; then
             git commit -m "$(cat <<'EOF'
-          Update official RSS snapshot
+          Update bilingual official RSS snapshot
           EOF
           )"
             git push origin HEAD:main

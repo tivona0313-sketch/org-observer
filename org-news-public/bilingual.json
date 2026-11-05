@@ -1,0 +1,2184 @@
+{
+  "schemaVersion": 1,
+  "provider": "Google Translate · machine translation",
+  "generatedAt": "2026-11-05T04:48:17.981000+00:00",
+  "revision": "95b3081126660e2a4c685c31772e74e88d7544848205f5054630c645db6af44f",
+  "articles": {
+    "ms-frontier-2026": {
+      "original": {
+        "title": "微软：AI 转型应从业务结果出发，连接人、组织知识与智能体治理",
+        "summary": "微软商业业务负责人提出以业务结果为起点的转型路径，将 Copilot、组织知识平台与智能体治理连接起来，并介绍企业应用案例。",
+        "sourceTitle": "The platform approach to becoming Frontier",
+        "source": "Microsoft 官方博客",
+        "points": [
+          "将 human ambition、intelligence 与 trust 作为转型的三个支撑要素。",
+          "把 AI 嵌入业务流程，同时强调对智能体的管理、可观察性与安全控制。",
+          "文章以企业客户案例说明应用方向，属于厂商对自身平台与客户实践的介绍。"
+        ],
+        "takeaway": "可以沿着“希望改善什么结果—需要什么上下文—谁负责验收”阅读案例，把工具能力与工作方式分开分析。",
+        "question": "我们正在采用的 AI 工具，改变了哪个具体工作环节？如何判断它真正创造了价值？",
+        "caveat": "这是微软的观点与客户案例汇总。案例中的成效不应直接外推到所有企业，也不代表独立因果评估。"
+      },
+      "zh": {
+        "title": "微软：AI 转型应从业务结果出发，连接人、组织知识与智能体治理",
+        "summary": "微软商业业务负责人提出以业务结果为起点的转型路径，将 Copilot、组织知识平台与智能体治理连接起来，并介绍企业应用案例。",
+        "sourceTitle": "成为 Frontier 的平台方法",
+        "source": "Microsoft 官方博客",
+        "points": [
+          "将 human ambition、intelligence 与 trust 作为转型的三个支撑要素。",
+          "把 AI 嵌入业务流程，同时强调对智能体的管理、可观察性与安全控制。",
+          "文章以企业客户案例说明应用方向，属于厂商对自身平台与客户实践的介绍。"
+        ],
+        "takeaway": "可以沿着“希望改善什么结果—需要什么上下文—谁负责验收”阅读案例，把工具能力与工作方式分开分析。",
+        "question": "我们正在采用的 AI 工具，改变了哪个具体工作环节？如何判断它真正创造了价值？",
+        "caveat": "这是微软的观点与客户案例汇总。案例中的成效不应直接外推到所有企业，也不代表独立因果评估。"
+      },
+      "en": {
+        "title": "Microsoft: AI transformation should start from business results and connect people, organizational knowledge and intelligent agent governance",
+        "summary": "The head of Microsoft's commercial business proposed a transformation path starting from business results, connecting Copilot, organizational knowledge platform and intelligent agent governance, and introduced enterprise application cases.",
+        "sourceTitle": "The platform approach to becoming Frontier",
+        "source": "Microsoft official blog",
+        "points": [
+          "Consider human ambition, intelligence and trust as the three supporting elements of transformation.",
+          "Embed AI into business processes while emphasizing the management, observability and security control of intelligent agents.",
+          "The article illustrates the application direction with enterprise customer cases, which is an introduction by manufacturers to their own platforms and customer practices."
+        ],
+        "takeaway": "You can read the case along the lines of \"what results you want to improve - what context is needed - who is responsible for acceptance\", and analyze tool capabilities and working methods separately.",
+        "question": "What specific work aspects are being changed by the AI ​​tools we are adopting? How to tell if it actually creates value?",
+        "caveat": "This is a summary of Microsoft’s views and customer cases. The results in the cases should not be directly extrapolated to all enterprises, nor do they represent independent causal assessments."
+      }
+    },
+    "anthropic-academy-2026": {
+      "original": {
+        "title": "Anthropic 推出 Frontier Academy：围绕真实业务项目培养 AI 工程人才",
+        "summary": "Anthropic 宣布投入 1 亿美元，计划到 2027 年底培养 1 万名 Frontier Deployed Engineers。培训围绕真实企业项目和实践考核展开。",
+        "sourceTitle": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+        "source": "Anthropic 官方",
+        "points": [
+          "候选者需具备软件工程基础、LLM 实践、帮助他人采用 AI 的经验，以及解决业务问题的主动性。",
+          "计划将集中训练、模拟企业部署与 12 周的真实项目实践连接起来。",
+          "通过实践考核后授予相应认证，参与方式为组织提名。"
+        ],
+        "takeaway": "人才标准正在把技术基础、业务理解与落地能力放在同一张评价表里。学习设计也可以围绕真实项目与可检验结果展开。",
+        "question": "团队培养 AI 能力时，是否每个人都带着一个真实问题，并有清晰的成果验收方式？",
+        "caveat": "培训投入与人数是公告中的承诺和目标，不能视作已经完成的结果；认证也不等同于组织转型成效。"
+      },
+      "zh": {
+        "title": "Anthropic 推出 Frontier Academy：围绕真实业务项目培养 AI 工程人才",
+        "summary": "Anthropic 宣布投入 1 亿美元，计划到 2027 年底培养 1 万名 Frontier Deployed Engineers。培训围绕真实企业项目和实践考核展开。",
+        "sourceTitle": "Anthropic投资1亿美元培训1万名工程师，解决企业AI人才缺口",
+        "source": "Anthropic 官方",
+        "points": [
+          "候选者需具备软件工程基础、LLM 实践、帮助他人采用 AI 的经验，以及解决业务问题的主动性。",
+          "计划将集中训练、模拟企业部署与 12 周的真实项目实践连接起来。",
+          "通过实践考核后授予相应认证，参与方式为组织提名。"
+        ],
+        "takeaway": "人才标准正在把技术基础、业务理解与落地能力放在同一张评价表里。学习设计也可以围绕真实项目与可检验结果展开。",
+        "question": "团队培养 AI 能力时，是否每个人都带着一个真实问题，并有清晰的成果验收方式？",
+        "caveat": "培训投入与人数是公告中的承诺和目标，不能视作已经完成的结果；认证也不等同于组织转型成效。"
+      },
+      "en": {
+        "title": "Anthropic launches Frontier Academy: cultivating AI engineering talent around real business projects",
+        "summary": "Anthropic announced a $100 million investment to train 10,000 Frontier Deployed Engineers by the end of 2027. The training is centered around real enterprise projects and practical assessments.",
+        "sourceTitle": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+        "source": "Anthropic official",
+        "points": [
+          "Candidates will need a foundation in software engineering, LLM practices, experience helping others adopt AI, and initiative to solve business problems.",
+          "The program connects intensive training, simulated enterprise deployments, and 12 weeks of real-world project practice.",
+          "The corresponding certification will be awarded after passing the practical assessment, and the participation method is organization nomination."
+        ],
+        "takeaway": "Talent standards are putting technical foundation, business understanding and implementation capabilities in the same evaluation form. Learning design can also be built around real projects with testable results.",
+        "question": "When the team develops AI capabilities, does everyone have a real problem in mind and a clear way to accept the results?",
+        "caveat": "Training investment and number of people are commitments and goals in the announcement and cannot be regarded as completed results; certification is not equivalent to the effectiveness of organizational transformation."
+      }
+    },
+    "alibaba-ath-2026": {
+      "original": {
+        "title": "阿里巴巴披露 ATH 事业群整合：将核心 AI 团队与产品纳入统一组织",
+        "summary": "阿里云在半年进展公告中回顾：阿里巴巴于 3 月成立由 CEO 吴泳铭领导的 Alibaba Token Hub 事业群，整合通义实验室、MaaS、千问、悟空与 AI 创新业务。",
+        "sourceTitle": "Alibaba Positions for Accelerated AI Growth in Second Half of 2026",
+        "source": "阿里云新闻中心",
+        "points": [
+          "组织整合围绕创造、交付和应用 token 的共同任务展开。",
+          "基础模型、模型服务与应用团队被放在同一事业群之下。",
+          "该信息来自 6 月 30 日发布的阶段回顾，相关组织事件发生于 3 月。"
+        ],
+        "takeaway": "可以观察基础能力与业务应用如何共享目标，以及组织整合是否进一步改变产品协作和资源分配。",
+        "question": "把相关团队放进同一组织后，哪些跨团队决策应当变得更清晰？",
+        "caveat": "公告确认组织整合的公开表述，但未单独量化组织调整带来的效率变化。"
+      },
+      "zh": {
+        "title": "阿里巴巴披露 ATH 事业群整合：将核心 AI 团队与产品纳入统一组织",
+        "summary": "阿里云在半年进展公告中回顾：阿里巴巴于 3 月成立由 CEO 吴泳铭领导的 Alibaba Token Hub 事业群，整合通义实验室、MaaS、千问、悟空与 AI 创新业务。",
+        "sourceTitle": "阿里巴巴预计 2026 年下半年人工智能将加速增长",
+        "source": "阿里云新闻中心",
+        "points": [
+          "组织整合围绕创造、交付和应用 token 的共同任务展开。",
+          "基础模型、模型服务与应用团队被放在同一事业群之下。",
+          "该信息来自 6 月 30 日发布的阶段回顾，相关组织事件发生于 3 月。"
+        ],
+        "takeaway": "可以观察基础能力与业务应用如何共享目标，以及组织整合是否进一步改变产品协作和资源分配。",
+        "question": "把相关团队放进同一组织后，哪些跨团队决策应当变得更清晰？",
+        "caveat": "公告确认组织整合的公开表述，但未单独量化组织调整带来的效率变化。"
+      },
+      "en": {
+        "title": "Alibaba reveals ATH business group integration: bringing core AI team and products into unified organization",
+        "summary": "Alibaba Cloud reviewed in its half-year progress announcement: Alibaba established the Alibaba Token Hub business group led by CEO Wu Yongming in March, integrating Tongyi Labs, MaaS, Qianwen, Wukong and AI innovation businesses.",
+        "sourceTitle": "Alibaba Positions for Accelerated AI Growth in Second Half of 2026",
+        "source": "Alibaba Cloud News Center",
+        "points": [
+          "Organizational integration revolves around the shared mission of creating, delivering, and applying tokens.",
+          "The basic model, model service and application teams are placed under the same business group.",
+          "This information comes from a phase review published on June 30, with the relevant organizational events occurring in March."
+        ],
+        "takeaway": "You can observe how underlying capabilities and business applications share goals, and whether organizational integration further changes product collaboration and resource allocation.",
+        "question": "Which cross-team decisions should become clearer by bringing related teams into the same organization?",
+        "caveat": "The announcement confirmed public statements about organizational integration but did not separately quantify the efficiency changes resulting from the organizational changes."
+      }
+    },
+    "tencent-project-2026": {
+      "original": {
+        "title": "媒体观察：腾讯部分团队试行项目负责制，管理角色随业务任务调整",
+        "summary": "《中国企业家》报道，腾讯微信事业群部分部门正在试行项目负责制，将固定分组与管理头衔转向围绕项目组织工作。报道也呈现了员工对实际变化的不同看法。",
+        "sourceTitle": "腾讯正在“消灭”小组长",
+        "source": "中国企业家／中国经济网转载",
+        "points": [
+          "报道引述多位在职、离职员工，描述部分部门的项目组织尝试。",
+          "讨论重点包括项目责任、汇报层级与结果导向。",
+          "报道同时记录了“头衔变化是否等于权力变化”的质疑，尚不能据此判断全公司范围的效果。"
+        ],
+        "takeaway": "读组织调整时，不只看组织图和岗位名称，还要追问授权、资源与责任是否一起变化。",
+        "question": "如果把组长改称项目负责人，哪些决策权必须同步调整才有意义？",
+        "caveat": "单一媒体报道，经中国经济网转载；不是腾讯官方确认，不应泛化为全集团已统一执行。"
+      },
+      "zh": {
+        "title": "媒体观察：腾讯部分团队试行项目负责制，管理角色随业务任务调整",
+        "summary": "《中国企业家》报道，腾讯微信事业群部分部门正在试行项目负责制，将固定分组与管理头衔转向围绕项目组织工作。报道也呈现了员工对实际变化的不同看法。",
+        "sourceTitle": "腾讯正在“消灭”小组长",
+        "source": "中国企业家／中国经济网转载",
+        "points": [
+          "报道引述多位在职、离职员工，描述部分部门的项目组织尝试。",
+          "讨论重点包括项目责任、汇报层级与结果导向。",
+          "报道同时记录了“头衔变化是否等于权力变化”的质疑，尚不能据此判断全公司范围的效果。"
+        ],
+        "takeaway": "读组织调整时，不只看组织图和岗位名称，还要追问授权、资源与责任是否一起变化。",
+        "question": "如果把组长改称项目负责人，哪些决策权必须同步调整才有意义？",
+        "caveat": "单一媒体报道，经中国经济网转载；不是腾讯官方确认，不应泛化为全集团已统一执行。"
+      },
+      "en": {
+        "title": "Media Observation: Some teams at Tencent are piloting a project responsibility system, and management roles are adjusted according to business tasks",
+        "summary": "\"China Entrepreneur\" reported that some departments of Tencent's WeChat business group are piloting a project responsibility system, shifting fixed groupings and management titles to organizing work around projects. Reports also present different perspectives from employees on actual changes.",
+        "sourceTitle": "Tencent is “eliminating” team leaders",
+        "source": "Chinese Entrepreneur/Reprinted by China Economic Net",
+        "points": [
+          "The report quoted multiple current and former employees to describe the attempts of some departments to organize projects.",
+          "Discussions focused on project responsibilities, reporting levels and results orientation.",
+          "The report also recorded doubts about \"whether the change in title equals a change in power.\" The company-wide effect cannot yet be judged based on this."
+        ],
+        "takeaway": "When reading about organizational adjustments, not only look at the organization chart and job titles, but also ask whether authorization, resources, and responsibilities have changed together.",
+        "question": "If the team leader is renamed the project leader, which decision-making rights must be adjusted simultaneously to make sense?",
+        "caveat": "A single media report was reprinted by China Economic Net; it is not officially confirmed by Tencent and should not be generalized to mean that the entire group has implemented it uniformly."
+      }
+    },
+    "ms-wti-2026": {
+      "original": {
+        "title": "2026 工作趋势报告：员工的 AI 能力，需要组织制度接得住",
+        "summary": "微软 Work Trend Index 将关注点放在个人 AI 能力与组织准备度之间的差距，强调管理支持、评价方式、激励机制与持续学习的重要性。",
+        "sourceTitle": "Agents, human agency, and the opportunity for every organization",
+        "source": "Microsoft WorkLab",
+        "points": [
+          "报告讨论员工能力与组织支持之间的不匹配，提出重新设计工作方式。",
+          "把人类判断、质量控制和目标设定视为人机协作的重要能力。",
+          "提出将实践中的反馈沉淀成组织知识，让企业形成持续学习的系统。"
+        ],
+        "takeaway": "团队的 AI 学习可以同时检查工具使用、经理示范、质量标准和激励，而非只看培训参与情况。",
+        "question": "团队成员学会使用 AI 后，现有目标、权限或流程是否允许他们真正改变工作？",
+        "caveat": "报告包含厂商研究与自报问卷，相关性不能直接证明因果；其中部分样本限定为已经在工作中使用 AI 的人。"
+      },
+      "zh": {
+        "title": "2026 工作趋势报告：员工的 AI 能力，需要组织制度接得住",
+        "summary": "微软 Work Trend Index 将关注点放在个人 AI 能力与组织准备度之间的差距，强调管理支持、评价方式、激励机制与持续学习的重要性。",
+        "sourceTitle": "代理、人力机构以及每个组织的机会",
+        "source": "微软工作实验室",
+        "points": [
+          "报告讨论员工能力与组织支持之间的不匹配，提出重新设计工作方式。",
+          "把人类判断、质量控制和目标设定视为人机协作的重要能力。",
+          "提出将实践中的反馈沉淀成组织知识，让企业形成持续学习的系统。"
+        ],
+        "takeaway": "团队的 AI 学习可以同时检查工具使用、经理示范、质量标准和激励，而非只看培训参与情况。",
+        "question": "团队成员学会使用 AI 后，现有目标、权限或流程是否允许他们真正改变工作？",
+        "caveat": "报告包含厂商研究与自报问卷，相关性不能直接证明因果；其中部分样本限定为已经在工作中使用 AI 的人。"
+      },
+      "en": {
+        "title": "2026 Work Trend Report: Employees’ AI capabilities require organizational systems that can accommodate them",
+        "summary": "Microsoft Work Trend Index focuses on the gap between individual AI capabilities and organizational readiness, emphasizing the importance of management support, evaluation methods, incentive mechanisms, and continuous learning.",
+        "sourceTitle": "Agents, human agency, and the opportunity for every organization",
+        "source": "Microsoft WorkLab",
+        "points": [
+          "The report discusses the mismatch between employee capabilities and organizational support and proposes redesigning the way work is done.",
+          "Consider human judgment, quality control, and goal setting as important capabilities for human-machine collaboration.",
+          "It is proposed to precipitate feedback from practice into organizational knowledge so that enterprises can form a continuous learning system."
+        ],
+        "takeaway": "AI learning for teams can simultaneously examine tool usage, manager demonstrations, quality standards, and incentives rather than just training participation.",
+        "question": "Once team members learn to use AI, do existing goals, permissions, or processes allow them to actually change their work?",
+        "caveat": "The report contains vendor studies and self-reported questionnaires, and correlation cannot directly prove cause and effect; some of the samples are limited to people who are already using AI at work."
+      }
+    },
+    "ms-copilot-2026": {
+      "original": {
+        "title": "微软统一消费与商业 Copilot 组织，强化产品、平台与模型协同",
+        "summary": "微软公布 Copilot 领导与组织调整，将消费端和商业端 Copilot 作为统一工作推进；Jacob Andreou 负责体验，Mustafa Suleyman 聚焦超级智能与模型工作。",
+        "sourceTitle": "Announcing Copilot leadership update",
+        "source": "Microsoft 官方博客",
+        "points": [
+          "统一工作覆盖 Copilot 体验、平台、Microsoft 365 应用与 AI 模型。",
+          "Jacob Andreou 负责设计、产品、增长与工程，向 Satya Nadella 汇报。",
+          "通过 Copilot 领导团队协调模型、产品和基础设施，组织边界与产品系统形态相对应。"
+        ],
+        "takeaway": "观察组织设计如何映射产品体系：哪些能力统一建设，哪些职责需要明确分工。",
+        "question": "我们的组织边界是在支持完整的用户体验，还是制造了额外的交接？",
+        "caveat": "公告能确认调整方案与职责表述，实际协同效果需后续证据验证。"
+      },
+      "zh": {
+        "title": "微软统一消费与商业 Copilot 组织，强化产品、平台与模型协同",
+        "summary": "微软公布 Copilot 领导与组织调整，将消费端和商业端 Copilot 作为统一工作推进；Jacob Andreou 负责体验，Mustafa Suleyman 聚焦超级智能与模型工作。",
+        "sourceTitle": "宣布副驾驶领导层更新",
+        "source": "Microsoft 官方博客",
+        "points": [
+          "统一工作覆盖 Copilot 体验、平台、Microsoft 365 应用与 AI 模型。",
+          "Jacob Andreou 负责设计、产品、增长与工程，向 Satya Nadella 汇报。",
+          "通过 Copilot 领导团队协调模型、产品和基础设施，组织边界与产品系统形态相对应。"
+        ],
+        "takeaway": "观察组织设计如何映射产品体系：哪些能力统一建设，哪些职责需要明确分工。",
+        "question": "我们的组织边界是在支持完整的用户体验，还是制造了额外的交接？",
+        "caveat": "公告能确认调整方案与职责表述，实际协同效果需后续证据验证。"
+      },
+      "en": {
+        "title": "Microsoft unifies consumer and commercial Copilot organizations to strengthen product, platform and model collaboration",
+        "summary": "Microsoft announced Copilot leadership and organizational adjustments, promoting consumer-side and commercial-side Copilot as unified work; Jacob Andreou is responsible for experience, and Mustafa Suleyman focuses on super intelligence and model work.",
+        "sourceTitle": "Announcing Copilot leadership update",
+        "source": "Microsoft official blog",
+        "points": [
+          "The unification effort covers the Copilot experience, platform, Microsoft 365 applications and AI models.",
+          "Jacob Andreou is responsible for design, product, growth and engineering, reporting to Satya Nadella.",
+          "The Copilot leadership team coordinates models, products, and infrastructure, with organizational boundaries corresponding to the product system shape."
+        ],
+        "takeaway": "Observe how the organizational design maps the product system: which capabilities are built in a unified manner, and which responsibilities require a clear division of labor.",
+        "question": "Are our organizational boundaries supporting the full user experience, or creating additional handoffs?",
+        "caveat": "The announcement can confirm the adjustment plan and statement of responsibilities, and the actual synergy effect needs to be verified by subsequent evidence."
+      }
+    },
+    "anthropic-work-2025": {
+      "original": {
+        "title": "Anthropic 内部研究：工程师能力边界扩大，也开始担心技能与协作流失",
+        "summary": "Anthropic 对内部工程师和研究人员的调查与访谈发现，AI 帮助员工跨越原有专业边界，同时带来了技术深度、指导关系与同事协作的挑战。",
+        "sourceTitle": "How AI is transforming work at Anthropic",
+        "source": "Anthropic 研究团队",
+        "points": [
+          "研究包含 132 名工程师和研究人员的调查、53 次深入访谈，以及 Claude Code 使用数据。",
+          "一些员工能承担原本不熟悉的工作，但担心缺少练习会削弱深入判断能力。",
+          "部分受访者表示，过去向同事请教的问题现在先交给 AI，可能减少指导和交流机会。"
+        ],
+        "takeaway": "提效之外，团队还需要主动保留知识传递、同行讨论和独立判断的机会。",
+        "question": "哪些工作可以交给 AI？哪些练习、交流与复盘值得刻意保留下来？",
+        "caveat": "2025 年的单公司内部研究，自报结果存在偏差；不能当作当下所有岗位的普遍效果。"
+      },
+      "zh": {
+        "title": "Anthropic 内部研究：工程师能力边界扩大，也开始担心技能与协作流失",
+        "summary": "Anthropic 对内部工程师和研究人员的调查与访谈发现，AI 帮助员工跨越原有专业边界，同时带来了技术深度、指导关系与同事协作的挑战。",
+        "sourceTitle": "人工智能如何改变 Anthropic 的工作方式",
+        "source": "Anthropic 研究团队",
+        "points": [
+          "研究包含 132 名工程师和研究人员的调查、53 次深入访谈，以及 Claude Code 使用数据。",
+          "一些员工能承担原本不熟悉的工作，但担心缺少练习会削弱深入判断能力。",
+          "部分受访者表示，过去向同事请教的问题现在先交给 AI，可能减少指导和交流机会。"
+        ],
+        "takeaway": "提效之外，团队还需要主动保留知识传递、同行讨论和独立判断的机会。",
+        "question": "哪些工作可以交给 AI？哪些练习、交流与复盘值得刻意保留下来？",
+        "caveat": "2025 年的单公司内部研究，自报结果存在偏差；不能当作当下所有岗位的普遍效果。"
+      },
+      "en": {
+        "title": "Anthropic internal research: Engineers’ ability boundaries are expanding, and they are beginning to worry about the loss of skills and collaboration",
+        "summary": "Anthropic's surveys and interviews with internal engineers and researchers found that AI helps employees transcend professional boundaries while creating challenges for technical depth, mentoring relationships, and collaboration with colleagues.",
+        "sourceTitle": "How AI is transforming work at Anthropic",
+        "source": "Anthropic Research Team",
+        "points": [
+          "The study included surveys of 132 engineers and researchers, 53 in-depth interviews, and Claude Code usage data.",
+          "Some employees are able to take on otherwise unfamiliar tasks but worry that lack of practice will impair their ability to make in-depth judgments.",
+          "Some respondents said that questions that they used to ask colleagues for advice are now handed over to AI, which may reduce opportunities for guidance and communication."
+        ],
+        "takeaway": "In addition to improving efficiency, teams also need to proactively retain opportunities for knowledge transfer, peer discussion, and independent judgment.",
+        "question": "What jobs can be handed over to AI? Which exercises, exchanges and reviews are worth deliberately retaining?",
+        "caveat": "In an internal study of a single company in 2025, the self-reported results are biased; they cannot be regarded as a general effect for all current positions."
+      }
+    },
+    "amazon-workforce-2025": {
+      "original": {
+        "title": "亚马逊公布企业岗位调整，将减少层级与增加责任归属列为方向",
+        "summary": "亚马逊公开员工信称，企业岗位将净减少约 1.4 万个，同时继续在战略领域招聘；公司将其解释为减少官僚流程、压缩层级和重新配置资源。",
+        "sourceTitle": "Staying nimble and continuing to strengthen our organizations",
+        "source": "About Amazon",
+        "points": [
+          "调整包含部分领域缩减与其他领域招聘，不能简单等同于停止招聘。",
+          "公司将速度、责任归属与更精简的组织结构作为主要解释。",
+          "公告同时说明内部转岗与离职支持安排，影响因岗位和地区而异。"
+        ],
+        "takeaway": "分析人才变化时，同时观察减少了哪些岗位、增加了哪些能力，以及组织的责任边界是否变化。",
+        "question": "组织精简时，是否同步明确了保留团队的授权、工作负荷与结果责任？",
+        "caveat": "历史案例；人数为当时公告口径。官方对原因与效果的描述不等同于独立验证，也不能全部归因于 AI。"
+      },
+      "zh": {
+        "title": "亚马逊公布企业岗位调整，将减少层级与增加责任归属列为方向",
+        "summary": "亚马逊公开员工信称，企业岗位将净减少约 1.4 万个，同时继续在战略领域招聘；公司将其解释为减少官僚流程、压缩层级和重新配置资源。",
+        "sourceTitle": "保持灵活性并继续加强我们的组织",
+        "source": "关于亚马逊",
+        "points": [
+          "调整包含部分领域缩减与其他领域招聘，不能简单等同于停止招聘。",
+          "公司将速度、责任归属与更精简的组织结构作为主要解释。",
+          "公告同时说明内部转岗与离职支持安排，影响因岗位和地区而异。"
+        ],
+        "takeaway": "分析人才变化时，同时观察减少了哪些岗位、增加了哪些能力，以及组织的责任边界是否变化。",
+        "question": "组织精简时，是否同步明确了保留团队的授权、工作负荷与结果责任？",
+        "caveat": "历史案例；人数为当时公告口径。官方对原因与效果的描述不等同于独立验证，也不能全部归因于 AI。"
+      },
+      "en": {
+        "title": "Amazon announced corporate job adjustments, including reducing hierarchies and increasing responsibility.",
+        "summary": "Amazon's public letter to employees stated that the company will reduce its corporate positions by about 14,000 net positions while continuing to recruit in strategic areas; the company explained this as reducing bureaucratic processes, compressing layers, and reallocating resources.",
+        "sourceTitle": "Staying nimble and continuing to strengthen our organizations",
+        "source": "About Amazon",
+        "points": [
+          "Adjustments include reductions in some areas and recruitment in other areas, and cannot simply be equated to stopping recruitment.",
+          "Companies cited speed, ownership of responsibility and a leaner organizational structure as key explanations.",
+          "The announcement also explains the internal transfer and resignation support arrangements, and the impact will vary by position and region."
+        ],
+        "takeaway": "When analyzing talent changes, also observe which positions have been reduced, which capabilities have been added, and whether the organization's responsibility boundaries have changed.",
+        "question": "When the organization is streamlined, are the mandates, workloads, and results responsibilities of the retained teams clearly defined?",
+        "caveat": "Historical case; the number of people is based on the announcement at that time. Official descriptions of causes and effects do not amount to independent verification, nor can they be entirely attributed to AI."
+      }
+    },
+    "amazon-ai-2025": {
+      "original": {
+        "title": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
+        "summary": "亚马逊 CEO 在公开员工信中讨论生成式 AI 与智能体，预期部分岗位需求减少、其他岗位需求增加，并鼓励员工学习工具、参加培训和重思工作方式。",
+        "sourceTitle": "Message from CEO Andy Jassy: Some thoughts on Generative AI",
+        "source": "About Amazon",
+        "points": [
+          "将智能体视为可在不同工作阶段协作的软件系统。",
+          "信中预计广泛使用 AI 会在未来几年改变企业员工规模与岗位组合。",
+          "对员工的要求包括保持好奇、学习、实验，以及围绕客户需求重新设计工作。"
+        ],
+        "takeaway": "把管理层对未来的判断与实际发生的变化分开记录，再持续跟踪后续组织动作。",
+        "question": "我们是否为员工的 AI 学习提供了时间、真实任务和反馈，而不只是提出要求？",
+        "caveat": "2025 年公开信中的前瞻判断，不是已实现结果；应结合后续事实持续复核。"
+      },
+      "zh": {
+        "title": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
+        "summary": "亚马逊 CEO 在公开员工信中讨论生成式 AI 与智能体，预期部分岗位需求减少、其他岗位需求增加，并鼓励员工学习工具、参加培训和重思工作方式。",
+        "sourceTitle": "首席执行官安迪·贾西 (Andy Jassy) 致辞：关于生成式人工智能的一些想法",
+        "source": "关于亚马逊",
+        "points": [
+          "将智能体视为可在不同工作阶段协作的软件系统。",
+          "信中预计广泛使用 AI 会在未来几年改变企业员工规模与岗位组合。",
+          "对员工的要求包括保持好奇、学习、实验，以及围绕客户需求重新设计工作。"
+        ],
+        "takeaway": "把管理层对未来的判断与实际发生的变化分开记录，再持续跟踪后续组织动作。",
+        "question": "我们是否为员工的 AI 学习提供了时间、真实任务和反馈，而不只是提出要求？",
+        "caveat": "2025 年公开信中的前瞻判断，不是已实现结果；应结合后续事实持续复核。"
+      },
+      "en": {
+        "title": "Andy Jassy talks about generative AI: Job mix will change, employees should take the initiative to learn and experiment",
+        "summary": "Amazon’s CEO discussed generative AI and intelligent agents in a public letter to employees, anticipating a decrease in demand for some positions and an increase in demand for other positions, and encouraged employees to learn tools, participate in training and rethink the way they work.",
+        "sourceTitle": "Message from CEO Andy Jassy: Some thoughts on Generative AI",
+        "source": "About Amazon",
+        "points": [
+          "Think of agents as software systems that collaborate in different stages of work.",
+          "The letter predicts that widespread use of AI will change the size of corporate workforces and job mix in the coming years.",
+          "Requirements for employees include being curious, learning, experimenting, and redesigning work around customer needs."
+        ],
+        "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
+        "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
+        "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-ebcb473680819ed5ad4c": {
+      "original": {
+        "title": "Take a closer look at art with the Courtauld",
+        "summary": "Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
+        "sourceTitle": "Take a closer look at art with the Courtauld",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "与考陶尔德一起近距离观察艺术",
+        "summary": "通过 Google 艺术与文化和考陶德艺术学院的新项目“观看的艺术”以新的方式审视艺术。",
+        "sourceTitle": "与考陶尔德一起近距离观察艺术",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Take a closer look at art with the Courtauld",
+        "summary": "Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
+        "sourceTitle": "Take a closer look at art with the Courtauld",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-6ca7ade89b448d15482d": {
+      "original": {
+        "title": "We're sharing our framework for building safer and more helpful AI for health.",
+        "summary": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…",
+        "sourceTitle": "We're sharing our framework for building safer and more helpful AI for health.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "我们正在分享我们的框架，以构建更安全、更有益的健康人工智能。",
+        "summary": "我们中的许多人都因为健康问题而求助于人工智能，或者接受了使用它的医生的护理。健康技术的采用正在加速并影响账单……",
+        "sourceTitle": "我们正在分享我们的框架，以构建更安全、更有益的健康人工智能。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "We're sharing our framework for building safer and more helpful AI for health.",
+        "summary": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…",
+        "sourceTitle": "We're sharing our framework for building safer and more helpful AI for health.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-981785a01550309d0739": {
+      "original": {
+        "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+        "sourceTitle": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务",
+        "summary": "DevRev 使用 GPT-6.1 Sol 为计算机和操作员提供动力，平衡企业服务的推理、速度和成本。",
+        "sourceTitle": "DevRev 使用 GPT-6.1 Sol 提供自主自助服务",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+        "sourceTitle": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-4bbda0ce74fa502d3f00": {
+      "original": {
+        "title": "Advancing research and partnering with universities in Singapore",
+        "summary": "Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
+        "sourceTitle": "Advancing research and partnering with universities in Singapore",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "推进研究并与新加坡大学合作",
+        "summary": "谷歌正在投资新的研究拨款和能力建设计划，以推进人工智能在科学领域的发展，并支持新加坡的下一代科学领袖。",
+        "sourceTitle": "推进研究并与新加坡大学合作",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Advancing research and partnering with universities in Singapore",
+        "summary": "Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.",
+        "sourceTitle": "Advancing research and partnering with universities in Singapore",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-fc87a45dcfbf03d41725": {
+      "original": {
+        "title": "Heimstaden is changing residential real estate management with AI",
+        "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+        "sourceTitle": "Heimstaden is changing residential real estate management with AI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+        "summary": "了解 Heimstaden 如何使用 OpenAI 的 ChatGPT Enterprise 和 Codex 来转变整个欧洲的物业管理、削减成本并赋予员工权力。",
+        "sourceTitle": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Heimstaden is changing residential real estate management with AI",
+        "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+        "sourceTitle": "Heimstaden is changing residential real estate management with AI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-cbb0fcae787c165c5bda": {
+      "original": {
+        "title": "New research shows how Guided Learning supports students",
+        "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+        "sourceTitle": "New research shows how Guided Learning supports students",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "新研究表明引导式学习如何支持学生",
+        "summary": "新的研究表明，引导式学习可以带来更高的学习收益，以及 Google Classroom 的新功能。",
+        "sourceTitle": "新研究表明引导式学习如何支持学生",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "New research shows how Guided Learning supports students",
+        "summary": "New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.",
+        "sourceTitle": "New research shows how Guided Learning supports students",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-f0d23aa208df96d78828": {
+      "original": {
+        "title": "We’re providing funding for organizations building AI for teachers.",
+        "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+        "sourceTitle": "We’re providing funding for organizations building AI for teachers.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "我们正在为为教师构建人工智能的组织提供资金。",
+        "summary": "Google.org 正在资助五个组织为教师构建人工智能工具。了解这些举措如何支持教育工作者和学生。获取详细信息。",
+        "sourceTitle": "我们正在为为教师构建人工智能的组织提供资金。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "We’re providing funding for organizations building AI for teachers.",
+        "summary": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+        "sourceTitle": "We’re providing funding for organizations building AI for teachers.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-2b728cf359cf7fb3768d": {
+      "original": {
+        "title": "AI in the learning era",
+        "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+        "sourceTitle": "AI in the learning era",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "学习时代的人工智能",
+        "summary": "阅读 Google 2026 AI in the Learning Era 活动的公告。",
+        "sourceTitle": "学习时代的人工智能",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "AI in the learning era",
+        "summary": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+        "sourceTitle": "AI in the learning era",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-f2497d2da3243c287b78": {
+      "original": {
+        "title": "Designing responsible AI for learning",
+        "summary": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
+        "sourceTitle": "Designing responsible AI for learning",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "设计负责任的人工智能学习",
+        "summary": "我们正在将引导式学习功能引入搜索和 Google Classroom，并改进我们的学校控制方法。",
+        "sourceTitle": "设计负责任的人工智能学习",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Designing responsible AI for learning",
+        "summary": "We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.",
+        "sourceTitle": "Designing responsible AI for learning",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-31aaaae73a614a69444d": {
+      "original": {
+        "title": "Expanding AI educator training to new countries",
+        "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+        "sourceTitle": "Expanding AI educator training to new countries",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "将人工智能教育者培训扩展到新的国家",
+        "summary": "庆祝来自马来西亚、印度、菲律宾和英国的教育工作者故事，以及新的 GES 会议以及扩展到西班牙、巴西、澳大利亚和撒哈拉以南非洲地区的活动……",
+        "sourceTitle": "将人工智能教育者培训扩展到新的国家",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Expanding AI educator training to new countries",
+        "summary": "A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…",
+        "sourceTitle": "Expanding AI educator training to new countries",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-25493a43cba550c7fe81": {
+      "original": {
+        "title": "Accelerating engineering for the physical world",
+        "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+        "sourceTitle": "Accelerating engineering for the physical world",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "加速物理世界的工程",
+        "summary": "了解 ChatGPT 和 Codex 如何帮助工程师加速物理世界中的 CAD、PCB 设计、仿真和其他工作流程。",
+        "sourceTitle": "加速物理世界的工程",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Accelerating engineering for the physical world",
+        "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+        "sourceTitle": "Accelerating engineering for the physical world",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-34e7d62615202d0de65f": {
+      "original": {
+        "title": "How Cisco defends at machine speed with OpenAI",
+        "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+        "sourceTitle": "How Cisco defends at machine speed with OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "思科如何利用 OpenAI 以机器速度进行防御",
+        "summary": "思科将网络智能与 OpenAI 模型相结合，增强企业安全性。了解它如何构建更具适应性的防御。",
+        "sourceTitle": "思科如何利用 OpenAI 以机器速度进行防御",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Cisco defends at machine speed with OpenAI",
+        "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+        "sourceTitle": "How Cisco defends at machine speed with OpenAI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-019edb616369c3322f4c": {
+      "original": {
+        "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+        "sourceTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官",
+        "summary": "Jill Hazelbaker 将加入 OpenAI，担任首席企业事务官，领导公司的全球传播和企业定位。",
+        "sourceTitle": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+        "sourceTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-996c88dfa31d64c0a9d6": {
+      "original": {
+        "title": "The latest AI news we announced in October 2026",
+        "summary": "Here are Google’s latest AI updates from October 2026",
+        "sourceTitle": "The latest AI news we announced in October 2026",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "我们于 2026 年 10 月公布的最新 AI 新闻",
+        "summary": "以下是 Google 自 2026 年 10 月起最新的 AI 更新",
+        "sourceTitle": "我们于 2026 年 10 月公布的最新 AI 新闻",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "The latest AI news we announced in October 2026",
+        "summary": "Here are Google’s latest AI updates from October 2026",
+        "sourceTitle": "The latest AI news we announced in October 2026",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-0d297090385ad5a72451": {
+      "original": {
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+        "sourceTitle": "Preparing our next security sprint to harden OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "准备下一次安全冲刺以强化 OpenAI",
+        "summary": "OpenAI 正在与 Cathedral Systems 一起准备下一次内部安全冲刺，以使用 AI 测试和加强其防御能力。",
+        "sourceTitle": "准备下一次安全冲刺以强化 OpenAI",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+        "sourceTitle": "Preparing our next security sprint to harden OpenAI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-5a014341bc3fc0f1d8b6": {
+      "original": {
+        "title": "LifeVal",
+        "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+        "sourceTitle": "LifeVal",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "生命值",
+        "summary": "LifeVal 是一个衡量人工智能如何帮助人们完成日常任务（从寻找托儿服务到管理财务和政府文书工作）的基准。",
+        "sourceTitle": "生命值",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "LifeVal",
+        "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+        "sourceTitle": "LifeVal",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-4094d4340f9e66f9e2fc": {
+      "original": {
+        "title": "Qodo builds context into AI code review with Codex",
+        "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+        "sourceTitle": "Qodo builds context into AI code review with Codex",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中",
+        "summary": "Qodo 将公司知识和编码标准引入 Codex，帮助开发人员在打开拉取请求之前捕获跨存储库的 P0 问题。",
+        "sourceTitle": "Qodo 使用 Codex 将上下文构建到 AI 代码审查中",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Qodo builds context into AI code review with Codex",
+        "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+        "sourceTitle": "Qodo builds context into AI code review with Codex",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-945f879ef3a469b4aebe": {
+      "original": {
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+        "sourceTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "OpenAI 任命 Dan Driscoll 为国家安全现代化高级顾问",
+        "summary": "OpenAI 任命 Dan Driscoll 就负责任的人工智能提供建议，以促进国家安全现代化、网络弹性以及与美国盟友的合作。",
+        "sourceTitle": "OpenAI 任命 Dan Driscoll 为国家安全现代化高级顾问",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+        "sourceTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-cbcd682a693800b6056a": {
+      "original": {
+        "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+        "summary": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+        "sourceTitle": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "我们收到了来自“捕日者计划”原型卫星的第一份回复。",
+        "summary": "本周，我们达到了“Hello World”里程碑：有史以来第一个来自在轨数据中心级 TPU 的 AI 响应。",
+        "sourceTitle": "我们收到了来自“捕日者计划”原型卫星的第一份回复。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+        "summary": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+        "sourceTitle": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-84abd1857de5dfd951d9": {
+      "original": {
+        "title": "Making it easier for websites to express AI training preferences",
+        "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+        "sourceTitle": "Making it easier for websites to express AI training preferences",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "让网站更容易表达人工智能训练偏好",
+        "summary": "OpenAI 将尊重共享的 robots.txt 信号，以帮助网站运营商向参与的提供商传达他们的 AI 培训偏好。",
+        "sourceTitle": "让网站更容易表达人工智能训练偏好",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Making it easier for websites to express AI training preferences",
+        "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+        "sourceTitle": "Making it easier for websites to express AI training preferences",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-574dbaf7fc8731e40575": {
+      "original": {
+        "title": "Fair use benefits everyone",
+        "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+        "sourceTitle": "Fair use benefits everyone",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "合理使用使每个人受益",
+        "summary": "OpenAI 分享了创作者、学者、无障碍倡导者和法律专家等人的法庭简报摘录，内容涉及合理使用如何支持人工智能培训和创新。",
+        "sourceTitle": "合理使用使每个人受益",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Fair use benefits everyone",
+        "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+        "sourceTitle": "Fair use benefits everyone",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-7ff097b88dbb7fb2e75d": {
+      "original": {
+        "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "summary": "Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
+        "sourceTitle": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "您现在可以直接在 Gemini 中生成、预览和编辑文档、PDF、演示文稿、电子表格等。",
+        "summary": "直接在 Gemini 中生成、编辑和预览 PDF 或文档。立即使用新的全屏编辑器来优化您的文件。看看双子座有什么新东西。",
+        "sourceTitle": "您现在可以直接在 Gemini 中生成、预览和编辑文档、PDF、演示文稿、电子表格等。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "summary": "Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
+        "sourceTitle": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-1facaa3c3baefce41216": {
+      "original": {
+        "title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+        "summary": "Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.",
+        "sourceTitle": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "科罗拉多州的学生参加了谷歌黑客马拉松，以应对能源网格的挑战。",
+        "summary": "Google Colorado Impact 黑客马拉松的学生构建了 SolarSnap 等人工智能工具来实现能源网格的现代化。在这里查看获胜的创新。",
+        "sourceTitle": "科罗拉多州的学生参加了谷歌黑客马拉松，以应对能源网格的挑战。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+        "summary": "Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.",
+        "sourceTitle": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-bfe4fa6b3e5fe5f12268": {
+      "original": {
+        "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+        "summary": "Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.",
+        "sourceTitle": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Gemini Notebook 提供数百本教科书，帮助学生学习更多内容。",
+        "summary": "将 OpenStax 和 S Chand 中的教科书添加到 Google Gemini Notebook。立即生成自定义学习指南和测验。请参阅可用目录。",
+        "sourceTitle": "Gemini Notebook 提供数百本教科书，帮助学生学习更多内容。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+        "summary": "Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.",
+        "sourceTitle": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-78f16d28b1ed69b60235": {
+      "original": {
+        "title": "Equipping healthcare professionals with practical AI skills",
+        "summary": "Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients.",
+        "sourceTitle": "Equipping healthcare professionals with practical AI skills",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "为医疗保健专业人员配备实用的人工智能技能",
+        "summary": "新的 Google AI for Healthcare Professionals 证书由 Google 临床医生打造，可帮助医疗保健专业人员优先考虑患者。",
+        "sourceTitle": "为医疗保健专业人员配备实用的人工智能技能",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Equipping healthcare professionals with practical AI skills",
+        "summary": "Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients.",
+        "sourceTitle": "Equipping healthcare professionals with practical AI skills",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-e8b654ca9543c3054765": {
+      "original": {
+        "title": "How to use Gemini to update your resume",
+        "summary": "Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.",
+        "sourceTitle": "How to use Gemini to update your resume",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "如何使用Gemini更新你的简历",
+        "summary": "使用 Gemini 将原始笔记转化为高影响力、ATS 友好的简历要点。请按照以下四个步骤完善您的职业档案。获取详细信息。",
+        "sourceTitle": "如何使用Gemini更新你的简历",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "How to use Gemini to update your resume",
+        "summary": "Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.",
+        "sourceTitle": "How to use Gemini to update your resume",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-3454fea505b4cd51ebd8": {
+      "original": {
+        "title": "How Gemini is helping students and teachers in the classroom",
+        "summary": "New studies from the UK and Italy show how Gemini can boost student learning and help teachers facilitate more active learning in the classroom.",
+        "sourceTitle": "How Gemini is helping students and teachers in the classroom",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Gemini 如何在课堂上帮助学生和老师",
+        "summary": "英国和意大利的新研究表明，双子座如何促进学生学习并帮助教师促进课堂上更积极的学习。",
+        "sourceTitle": "Gemini 如何在课堂上帮助学生和老师",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "How Gemini is helping students and teachers in the classroom",
+        "summary": "New studies from the UK and Italy show how Gemini can boost student learning and help teachers facilitate more active learning in the classroom.",
+        "sourceTitle": "How Gemini is helping students and teachers in the classroom",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-ce1b34a80db9a6e7c540": {
+      "original": {
+        "title": "Partnering with Singapore to bring frontier AI to public health",
+        "summary": "Google announced a new research hub and initiatives to support clinicians, advance research, and help Singaporeans live healthier lives.",
+        "sourceTitle": "Partnering with Singapore to bring frontier AI to public health",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "与新加坡合作将前沿人工智能引入公共卫生领域",
+        "summary": "谷歌宣布了一个新的研究中心和举措，以支持临床医生、推进研究并帮助新加坡人过上更健康的生活。",
+        "sourceTitle": "与新加坡合作将前沿人工智能引入公共卫生领域",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Partnering with Singapore to bring frontier AI to public health",
+        "summary": "Google announced a new research hub and initiatives to support clinicians, advance research, and help Singaporeans live healthier lives.",
+        "sourceTitle": "Partnering with Singapore to bring frontier AI to public health",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-9349f418e7bc7ab45091": {
+      "original": {
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+        "sourceTitle": "An updated Model Spec for more capable and beneficial AI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "更新后的模型规格，提供更强大、更有益的人工智能",
+        "summary": "OpenAI 更新后的模型规范概述了五个核心价值观，以指导更强大的人工智能走向正确的判断、人类的代理和忠实于人类的意图。",
+        "sourceTitle": "更新后的模型规格，提供更强大、更有益的人工智能",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+        "sourceTitle": "An updated Model Spec for more capable and beneficial AI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-0f01adb2acab0a67ba71": {
+      "original": {
+        "title": "How we detect frontier model misalignment",
+        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "sourceTitle": "How we detect frontier model misalignment",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "我们如何检测前沿模型错位",
+        "summary": "OpenAI 使用分层监控来检测前沿模型错位和未经授权的代理行为，以便响应人员可以在事件升级之前进行干预。",
+        "sourceTitle": "我们如何检测前沿模型错位",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How we detect frontier model misalignment",
+        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+        "sourceTitle": "How we detect frontier model misalignment",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-d948735545c20cf30721": {
+      "original": {
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+        "sourceTitle": "How Ropes & Gray is developing AI for transactional diligence",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Ropes & Gray 如何开发用于交易尽职调查的人工智能",
+        "summary": "Ropes & Gray 正在通过 OpenAI 开发用于交易尽职调查的人工智能。律师在向客户提供建议之前会审查分组文件、摘要和报告。",
+        "sourceTitle": "Ropes & Gray 如何开发用于交易尽职调查的人工智能",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+        "sourceTitle": "How Ropes & Gray is developing AI for transactional diligence",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-85f94c0fe8f02a81789b": {
+      "original": {
+        "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+        "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+        "sourceTitle": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Credit Saison 在 ChatGPT Enterprise 试点中实现了 954% 的投资回报率",
+        "summary": "Credit Saison 的 ChatGPT Enterprise 试点实现了 954% 的投资回报率。了解领导者和员工如何帮助将结果转化为全公司的采用。",
+        "sourceTitle": "Credit Saison 在 ChatGPT Enterprise 试点中实现了 954% 的投资回报率",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+        "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+        "sourceTitle": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-41804386d21a770b2b19": {
+      "original": {
+        "title": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+        "summary": "Nous croyons que l’avenir appartient à tous. C’est pourquoi Meta s’associe à INCA, un organisme à but non lucratif fondé en 1918 qui aide les personnes atteintes de cécité au Canada à réaliser leurs rê ves, afin de permettre à davantage de personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada de bénéficier des avantages des lunettes IA.…",
+        "sourceTitle": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "L'avenir appartient à tous：Meta et INCA s'associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse Vision au Canada",
+        "summary": "Nous croyons que l’avenir appartient à tous。这是 1918 年 INCA 的 Meta 协会，联合国有机体，但非盈利性基金，旨在帮助加拿大人的参与，实现加拿大人的梦想，并为加拿大人的利益、来源和利益提供有利条件受益于 IA 的月光优势。...",
+        "sourceTitle": "L'avenir appartient à tous：Meta et INCA s'associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse Vision au Canada",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+        "summary": "Nous croyons que l’avenir appartient à tous. C’est pourquoi Meta s’associe à INCA, un organisme à but non lucratif fondé en 1918 qui aide les personnes atteintes de cécité au Canada à réaliser leurs rê ves, afin de permettre à davantage de personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada de bénéficier des avantages des lunettes IA.…",
+        "sourceTitle": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+        "source": "Meta Newsroom"
+      }
+    },
+    "rss-fe3342fed45e766d5791": {
+      "original": {
+        "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+        "summary": "We believe the future is for everyone. That’s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision. The goal of the partnership is to help people who are blind, Deafblind or have…",
+        "sourceTitle": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "未来属于每个人：Meta 和 CNIB 合作支持盲人、聋哑人或视力低下的加拿大人",
+        "summary": "我们相信未来属于每个人。因此，Meta 与 CNIB（一家成立于 1918 年的非营利组织，旨在帮助受失明影响的加拿大人实现梦想）合作，帮助更多失明、聋哑或弱视的加拿大人受益于人工智能眼镜。该合作伙伴关系的目标是帮助盲人、聋盲人或有……",
+        "sourceTitle": "未来属于每个人：Meta 和 CNIB 合作支持盲人、聋哑人或视力低下的加拿大人",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+        "summary": "We believe the future is for everyone. That’s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision. The goal of the partnership is to help people who are blind, Deafblind or have…",
+        "sourceTitle": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+        "source": "Meta Newsroom"
+      }
+    },
+    "rss-c2494667117d789fe0c0": {
+      "original": {
+        "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+        "summary": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And... The post Introducing the Microsoft Cop…",
+        "sourceTitle": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "Microsoft Copilot 线束简介：释放真正多模型代理工作的潜力",
+        "summary": "如果你想竞争，你需要多模式。如果您想利用不同人工智能模型所提供的一切优势，您需要一个出色的工具。但构建一个能够跨多个模型和表面无缝运行的系统非常困难。您需要解决性能、质量和成本问题。还有...介绍微软警察的帖子...",
+        "sourceTitle": "Microsoft Copilot 线束简介：释放真正多模型代理工作的潜力",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+        "summary": "If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And... The post Introducing the Microsoft Cop…",
+        "sourceTitle": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-70900e9483bbbec4b24c": {
+      "original": {
+        "title": "Ads in AI Mode expand to new markets.",
+        "summary": "Google is expanding AI Mode ads to 10 new countries, including Canada and India. See how these relevant sponsored results improve your search experience.",
+        "sourceTitle": "Ads in AI Mode expand to new markets.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "AI 模式下的广告扩展到新市场。",
+        "summary": "Google 正在将 AI 模式广告扩展到 10 个新国家/地区，其中包括加拿大和印度。了解这些相关的赞助结果如何改善您的搜索体验。",
+        "sourceTitle": "AI 模式下的广告扩展到新市场。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Ads in AI Mode expand to new markets.",
+        "summary": "Google is expanding AI Mode ads to 10 new countries, including Canada and India. See how these relevant sponsored results improve your search experience.",
+        "sourceTitle": "Ads in AI Mode expand to new markets.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-f1b1625f67db9cc81d99": {
+      "original": {
+        "title": "Dive into new topics with immersive explorations in the Gemini app.",
+        "summary": "Today, we are rolling out immersive explorations in the new Gemini student hub.",
+        "sourceTitle": "Dive into new topics with immersive explorations in the Gemini app.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "在 Gemini 应用程序中通过沉浸式探索深入了解新主题。",
+        "summary": "今天，我们将在新的双子座学生中心推出沉浸式探索。",
+        "sourceTitle": "在 Gemini 应用程序中通过沉浸式探索深入了解新主题。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Dive into new topics with immersive explorations in the Gemini app.",
+        "summary": "Today, we are rolling out immersive explorations in the new Gemini student hub.",
+        "sourceTitle": "Dive into new topics with immersive explorations in the Gemini app.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-a395c7da350b5086cc15": {
+      "original": {
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "sourceTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
+        "summary": "OpenAI 和 ServiceNow 扩大了合作伙伴关系，将 OpenAI 模型和代理引入 ServiceNow，并将 ServiceNow 工作流程引入 ChatGPT 和 Codex。",
+        "sourceTitle": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+        "sourceTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-e2ed7680c50ae3f074e0": {
+      "original": {
+        "title": "The future of the firm",
+        "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+        "sourceTitle": "The future of the firm",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "公司的未来",
+        "summary": "人工智能如何进入组织结构图——在我们之下、旁边和之间。",
+        "sourceTitle": "公司的未来",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "The future of the firm",
+        "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+        "sourceTitle": "The future of the firm",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-709cc8e2bd467b791689": {
+      "original": {
+        "title": "Legora is building the agentic operating system for legal work",
+        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "sourceTitle": "Legora is building the agentic operating system for legal work",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Legora正在构建法律工作代理操作系统",
+        "summary": "了解 Legora 如何使用 OpenAI 模型、ChatGPT 和 Codex 来加速法律工作流程、扩大合同分析并使律师能够专注于更高价值的工作。",
+        "sourceTitle": "Legora正在构建法律工作代理操作系统",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Legora is building the agentic operating system for legal work",
+        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+        "sourceTitle": "Legora is building the agentic operating system for legal work",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-0581385f35cc1b6867a0": {
+      "original": {
+        "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+        "summary": "Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
+        "sourceTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "Meta 与五所美国大学合作，加速医学和科学突破",
+        "summary": "Meta 正在为使用我们的模型解决科学和医学领域关键问题的美国大学带来超级智能模型、研究资金和直接研究人员合作。 Meta 与五所美国大学合作加速医学和科学突破的帖子首先出现在 Meta Newsroom 上。",
+        "sourceTitle": "Meta 与五所美国大学合作，加速医学和科学突破",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+        "summary": "Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
+        "sourceTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+        "source": "Meta Newsroom"
+      }
+    },
+    "rss-13347cc46aef6df7e315": {
+      "original": {
+        "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+        "summary": "Today we’re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+        "sourceTitle": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "Muse 现已在新加坡上市：全球首款专为所有人打造的个人人工智能代理",
+        "summary": "今天我们宣布 Muse 现已在新加坡推出。 Muse 现已登陆新加坡：世界上第一个为所有人打造的个人人工智能代理一文首先出现在 Meta Newsroom 上。",
+        "sourceTitle": "Muse 现已在新加坡上市：全球首款专为所有人打造的个人人工智能代理",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+        "summary": "Today we’re announcing Muse is now available in Singapore. The post Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+        "sourceTitle": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+        "source": "Meta Newsroom"
+      }
+    },
+    "rss-16681fd606d5f6994d06": {
+      "original": {
+        "title": "Evernote turns AI-driven discovery into paid subscriptions",
+        "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+        "sourceTitle": "Evernote turns AI-driven discovery into paid subscriptions",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Evernote 将人工智能驱动的发现转变为付费订阅",
+        "summary": "Evernote 使用 ChatGPT 广告向人工智能工作人员介绍其笔记应用程序。该团队跟踪了免费试用导致付费订阅的频率。",
+        "sourceTitle": "Evernote 将人工智能驱动的发现转变为付费订阅",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Evernote turns AI-driven discovery into paid subscriptions",
+        "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+        "sourceTitle": "Evernote turns AI-driven discovery into paid subscriptions",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-1e3ebf94e41ebe19793b": {
+      "original": {
+        "title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+        "sourceTitle": "Retell uses OpenAI models to help power 100M monthly calls",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+        "summary": "GPT-6 Astra 在 Retell 的语音代理基准测试中名列前茅，而 Codex 帮助其达到每名员工 160 万美元的年收入运行率。",
+        "sourceTitle": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+        "sourceTitle": "Retell uses OpenAI models to help power 100M monthly calls",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-c417f8e3d39d0b893c07": {
+      "original": {
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+        "sourceTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "OpenAI 扩大与 Oracle 的合作伙伴关系，将其应用程序引入 ChatGPT",
+        "summary": "OpenAI 和 Oracle 正在扩大合作伙伴关系，将业务应用程序和 AI 代理引入 ChatGPT 并为新的 Oracle 产品提供支持。",
+        "sourceTitle": "OpenAI 扩大与 Oracle 的合作伙伴关系，将其应用程序引入 ChatGPT",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+        "sourceTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-c44dc9ed271ff418b14a": {
+      "original": {
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+        "sourceTitle": "How Check Point accelerates vulnerability research with Daybreak",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Check Point 如何利用 Daybreak 加速漏洞研究",
+        "summary": "借助 OpenAI Daybreak，Check Point 加快了新安全保护背后的研究速度，使其分析师能够更快地将漏洞情报转化为客户防御。",
+        "sourceTitle": "Check Point 如何利用 Daybreak 加速漏洞研究",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+        "sourceTitle": "How Check Point accelerates vulnerability research with Daybreak",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-a2c86f83567732fb85f8": {
+      "original": {
+        "title": "Introducing a Voluntary Exit Offer",
+        "summary": "Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Microsoft employees today. Today, we’re introducing a new Voluntary Exit Offer (VEO) to eligible employees within participating organizations. This offer gives eligible employees who may be considering a future outside the company a new choice to make that tra…",
+        "sourceTitle": "Introducing a Voluntary Exit Offer",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "推出自愿退出优惠",
+        "summary": "执行副总裁兼首席人力官 Amy Coleman 今天与 Microsoft 员工分享了以下沟通内容。今天，我们向参与组织内符合条件的员工推出新的自愿退出提议 (VEO)。此优惠为可能正在考虑在公司之外的未来的符合资格的员工提供了一个新的选择，以实现这一目标……",
+        "sourceTitle": "推出自愿退出优惠",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "Introducing a Voluntary Exit Offer",
+        "summary": "Amy Coleman, Executive Vice President and Chief People Officer, shared the below communication with Microsoft employees today. Today, we’re introducing a new Voluntary Exit Offer (VEO) to eligible employees within participating organizations. This offer gives eligible employees who may be considering a future outside the company a new choice to make that tra…",
+        "sourceTitle": "Introducing a Voluntary Exit Offer",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-a9c488820a62ac4adcd9": {
+      "original": {
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "sourceTitle": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+        "summary": "Greptile 如何使用 GPT-6 Astra 来测试用户工作流程，使用 Daybreak 来增强安全性，使用 Codex 来减少返工。",
+        "sourceTitle": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+        "sourceTitle": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-8eb6001a836a6e50b8fb": {
+      "original": {
+        "title": "Working with academic communities to build scientific understanding",
+        "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+        "sourceTitle": "Working with academic communities to build scientific understanding",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "与学术界合作建立科学理解",
+        "summary": "OpenAI 分享了挂谷猜想、指数时间假说和量子色动力学的模型结果，以及研究人员如何验证和构建它们。",
+        "sourceTitle": "与学术界合作建立科学理解",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Working with academic communities to build scientific understanding",
+        "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+        "sourceTitle": "Working with academic communities to build scientific understanding",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-7d972df501d01ba1f64a": {
+      "original": {
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+        "sourceTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性",
+        "summary": "CodeRabbit 使用 GPT-6.1 Sol 来调查复杂代码库中的安全风险。其安全代理可帮助开发人员审查调查结果和建议的修复方案。",
+        "sourceTitle": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+        "sourceTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-742d30efdc4090c11a97": {
+      "original": {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+        "sourceTitle": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟",
+        "summary": "了解 OpenAI 工程师如何使用 Codex Ultrafast 在几分钟内调查事件。探索更快的安全分析、代码重构和日常工作流程。",
+        "sourceTitle": "Ultrafast 如何将 OpenAI 的事件调查时间从几小时缩短至几分钟",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+        "sourceTitle": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-f8c156dba7886826388b": {
+      "original": {
+        "title": "Securing our frontier model training environment",
+        "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+        "sourceTitle": "Securing our frontier model training environment",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "确保我们的前沿模型训练环境的安全",
+        "summary": "OpenAI 解释了我们如何加强对前沿模型训练和评估的遏制，包括离线环境和高计算红队。",
+        "sourceTitle": "确保我们的前沿模型训练环境的安全",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Securing our frontier model training environment",
+        "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+        "sourceTitle": "Securing our frontier model training environment",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-3b5a2a6a27ab5490f80a": {
+      "original": {
+        "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+        "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+        "sourceTitle": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Anima 借助 GPT-6 和 GPT-Live 帮助诊所将呼叫等待时间减少 75%",
+        "summary": "Anima 扩展了护理团队可以使用 OpenAI 模型做的事情，使他们更有能力应对患者。",
+        "sourceTitle": "Anima 借助 GPT-6 和 GPT-Live 帮助诊所将呼叫等待时间减少 75%",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+        "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+        "sourceTitle": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-1a543055a02f9816518c": {
+      "original": {
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+        "sourceTitle": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+        "summary": "OpenAI 和波兰的 NASK 正在人工智能安全和技术研究方面开展合作，以加强保障措施并支持更具弹性的数字生态系统。",
+        "sourceTitle": "OpenAI 与波兰 NSK 合作推进人工智能安全",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+        "sourceTitle": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-eda525050cea8fce4b13": {
+      "original": {
+        "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+        "sourceTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work",
+        "summary": "Uber 正在向 30,000 多名员工推出 ChatGPT Work，帮助团队研究、分析数据、创建演示文稿并完成复杂的工作流程。",
+        "sourceTitle": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+        "sourceTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-95dedf578de78f3ec264": {
+      "original": {
+        "title": "OpenAI models are coming to Google Cloud",
+        "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+        "sourceTitle": "OpenAI models are coming to Google Cloud",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "OpenAI 模型即将登陆 Google Cloud",
+        "summary": "OpenAI 和 Google Cloud 正在将前沿模型和 Codex 工作流程引入 Gemini 的 Model Garden，可通过 Google Cloud Marketplace 获取。",
+        "sourceTitle": "OpenAI 模型即将登陆 Google Cloud",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "OpenAI models are coming to Google Cloud",
+        "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+        "sourceTitle": "OpenAI models are coming to Google Cloud",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-de9db6f384cbc7887755": {
+      "original": {
+        "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+        "sourceTitle": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "修补地球：特工发现关键漏洞时进行全球响应协调",
+        "summary": "Patch the Planet 将安全研究人员、维护人员和事件响应人员联系起来，帮助解决开源领域的关键漏洞。",
+        "sourceTitle": "修补地球：特工发现关键漏洞时进行全球响应协调",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+        "sourceTitle": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-64ddfb139fec8a1cb459": {
+      "original": {
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+        "sourceTitle": "Using thousands of AI agents to uncover new leads in biological data",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "使用数千个人工智能代理来发现生物数据中的新线索",
+        "summary": "了解 OpenAI、PerturbAI 和 Scripps Research 如何使用分布式 AI 代理从数百万脑细胞的数据中发现有前景的研究线索。",
+        "sourceTitle": "使用数千个人工智能代理来发现生物数据中的新线索",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+        "sourceTitle": "Using thousands of AI agents to uncover new leads in biological data",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-e270f5ba4688033de075": {
+      "original": {
+        "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+        "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+        "sourceTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "前沿人工智能的民主治理，第二部分：赋予网络防御者权力",
+        "summary": "OpenAI 勾勒出一个蓝图，为网络防御者提供前沿人工智能、更强大的保障、现代化的网络安全和更具弹性的公共机构。",
+        "sourceTitle": "前沿人工智能的民主治理，第二部分：赋予网络防御者权力",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+        "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+        "sourceTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-130b99afb50dd1d71a0d": {
+      "original": {
+        "title": "Advancing digital sovereignty with greater control and choice",
+        "summary": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more important as advanced cloud and AI capabilities move into public servi…",
+        "sourceTitle": "Advancing digital sovereignty with greater control and choice",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "通过更大的控制和选择推进数字主权",
+        "summary": "在我与政府、关键基础设施和受监管行业的领导者的对话中，有一个优先事项始终占据首位：将技术应用于最重要的系统，同时保持这些系统所需的控制。随着先进的云和人工智能功能进入公共服务领域，这一挑战变得越来越重要……",
+        "sourceTitle": "通过更大的控制和选择推进数字主权",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "Advancing digital sovereignty with greater control and choice",
+        "summary": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more important as advanced cloud and AI capabilities move into public servi…",
+        "sourceTitle": "Advancing digital sovereignty with greater control and choice",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-1725d137aa3debc0d8ae": {
+      "original": {
+        "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+        "sourceTitle": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94%",
+        "summary": "Schlotzsky’s 和 Cinnabon 的一家独立特许经营商将菜单重新定价时间缩短了 95%，并建立了一个可以释放 10 万美元现金流的工作流程。",
+        "sourceTitle": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94%",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+        "sourceTitle": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-aa8847d44cbae3328f3c": {
+      "original": {
+        "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+        "sourceTitle": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Terminal X 与 GPT-6.1 的高级投资者判断相符 88.6%",
+        "summary": "Terminal X 的评估代理根据 54 个标准的标准对输出进行评级，使用 GPT-6.1 Sol 捕获基金授权的 25% 的偏差。",
+        "sourceTitle": "Terminal X 与 GPT-6.1 的高级投资者判断相符 88.6%",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+        "sourceTitle": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-1cfb6291fa158d05a5ba": {
+      "original": {
+        "title": "OpenAI acquires Orchestra Bio",
+        "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+        "sourceTitle": "OpenAI acquires Orchestra Bio",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "OpenAI 收购 Orchestra Bio",
+        "summary": "OpenAI 正在收购 Orchestra Bio，将人工智能驱动的操作引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法。",
+        "sourceTitle": "OpenAI 收购 Orchestra Bio",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "OpenAI acquires Orchestra Bio",
+        "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+        "sourceTitle": "OpenAI acquires Orchestra Bio",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-d5edcab10a18dcceb353": {
+      "original": {
+        "title": "Securing the agentic insider",
+        "summary": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well. And with the global race on innovation, the challenge will compound as models become even more... The post Securing the …",
+        "sourceTitle": "Securing the agentic insider",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "确保代理内部人员的安全",
+        "summary": "过去几个月，随着越来越多的事件被公开披露，人们对人工智能安全的担忧不断增加。这些事件暴露了模型已经变得多么强大，以及如果处理不当它们将如何构成重大威胁。随着全球创新竞赛的展开，随着模型变得更加复杂，挑战将变得更加复杂……",
+        "sourceTitle": "确保代理内部人员的安全",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "Securing the agentic insider",
+        "summary": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well. And with the global race on innovation, the challenge will compound as models become even more... The post Securing the …",
+        "sourceTitle": "Securing the agentic insider",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-9732b2763df5a67ab945": {
+      "original": {
+        "title": "How Itaú is building generative AI for its entire customer base",
+        "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors.",
+        "sourceTitle": "How Itaú is building generative AI for its entire customer base",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Itaú 如何为其整个客户群构建生成式人工智能",
+        "summary": "借助对话界面 ia.i 和 IARA 治理平台，Itaú 正在将其人工智能优先战略应用于巴西监管最严格的行业之一的客户和员工。",
+        "sourceTitle": "Itaú 如何为其整个客户群构建生成式人工智能",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Itaú is building generative AI for its entire customer base",
+        "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors.",
+        "sourceTitle": "How Itaú is building generative AI for its entire customer base",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-d3b9ba6f7bd01af06315": {
+      "original": {
+        "title": "How Localiza reorganized work around generative AI",
+        "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+        "sourceTitle": "How Localiza reorganized work around generative AI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Localiza 如何围绕生成式人工智能重组工作",
+        "summary": "了解 Localiza 如何使用 ChatGPT Enterprise、OpenAI API、Codex 和 60 多个专业代理来重新组织工作并构建 AI 原生移动体验。",
+        "sourceTitle": "Localiza 如何围绕生成式人工智能重组工作",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Localiza reorganized work around generative AI",
+        "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+        "sourceTitle": "How Localiza reorganized work around generative AI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-86dbfdb5b436c283839e": {
+      "original": {
+        "title": "How Grupo Boticário uses AI to strengthen human connections",
+        "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
+        "sourceTitle": "How Grupo Boticário uses AI to strengthen human connections",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Grupo Boticário 如何利用人工智能加强人际关系",
+        "summary": "该集团在巴拉那州的一家复方药房起步近 50 年后，运营着一个专有代理平台，可以自主解决经销商高达 80% 的运营请求，使销售人员能够发挥咨询作用。",
+        "sourceTitle": "Grupo Boticário 如何利用人工智能加强人际关系",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Grupo Boticário uses AI to strengthen human connections",
+        "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
+        "sourceTitle": "How Grupo Boticário uses AI to strengthen human connections",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-9e63539289a31c8631b6": {
+      "original": {
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "sourceTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍",
+        "summary": "两名工程师在几周内与 Codex 一起发布了 Stack Overflow for Agents，其 ChatGPT 插件帮助推动代理创建量增长了 10 倍。",
+        "sourceTitle": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "sourceTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-32165ee6af8945a5bd83": {
+      "original": {
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "sourceTitle": "Bringing GPT-Rosalind to academic research labs",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "将 GPT-Rosalind 引入学术研究实验室",
+        "summary": "推出 Rosalind 学术计划，为符合条件的学术实验室提供 GPT-Rosalind 赞助访问权限和推进生命科学研究的工具。",
+        "sourceTitle": "将 GPT-Rosalind 引入学术研究实验室",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+        "sourceTitle": "Bringing GPT-Rosalind to academic research labs",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-a60f4a701f887ae8f46b": {
+      "original": {
+        "title": "Teaching students to think and learn through questions",
+        "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "sourceTitle": "Teaching students to think and learn through questions",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "教学生通过问题思考和学习",
+        "summary": "通过 AI 为教育工作者提供巴西葡萄牙语庆祝教师节，了解学习模式如何帮助教师支持主动、循序渐进的学习。",
+        "sourceTitle": "教学生通过问题思考和学习",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Teaching students to think and learn through questions",
+        "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+        "sourceTitle": "Teaching students to think and learn through questions",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-94eadcab22c41e356a1d": {
+      "original": {
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+        "sourceTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "沙利文克伦威尔将法律专业知识纳入协议审查",
+        "summary": "Sullivan & Cromwell 与 OpenAI 合作开发了协议分析器，这是一种用于识别协议草案中问题的人工智能工具。",
+        "sourceTitle": "沙利文克伦威尔将法律专业知识纳入协议审查",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+        "sourceTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-144647f83aa6804e0beb": {
+      "original": {
+        "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+        "summary": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance appeared first on Meta Newsroom .",
+        "sourceTitle": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "超过四分之三的小企业主表示人工智能提高了他们的生产力，但大多数人需要更多指导",
+        "summary": "针对九个亚太地区市场的新 Meta 研究表明，人工智能如何帮助小型企业发展、与更大的竞争对手竞争并接触跨境客户。超过四分之三的小企业主表示人工智能提高了他们的生产力，但大多数人需要更多指导，这篇文章首先出现在 Meta Newsroom 上。",
+        "sourceTitle": "超过四分之三的小企业主表示人工智能提高了他们的生产力，但大多数人需要更多指导",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+        "summary": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. The post More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance appeared first on Meta Newsroom .",
+        "sourceTitle": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+        "source": "Meta Newsroom"
+      }
+    },
+    "rss-57c3309db5bedcdec4e0": {
+      "original": {
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "sourceTitle": "Amp puts AI agents to work beyond code with OpenAI models",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作",
+        "summary": "了解 Amp 如何利用 GPT-6 Astra、Ultrafast、GPT-Live-1 和 ChatGPT 登录来拓展代理功能的前沿。",
+        "sourceTitle": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+        "sourceTitle": "Amp puts AI agents to work beyond code with OpenAI models",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-a8b8c31de898145e14c8": {
+      "original": {
+        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+        "sourceTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上",
+        "summary": "借助用于网络安全的 GPT-6 Astra 和 GPT-6.1 Sol、Codex 和 Daybreak，该 AI 实验室构建了能够持续关注并随着使用不断改进的代理。",
+        "sourceTitle": "Third Moment Research 如何运行 10,000 个代理长达 36 个小时以上",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+        "sourceTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-94ee28b93f9d2d830319": {
+      "original": {
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+        "sourceTitle": "How Block is building AI-powered security with OpenAI technology",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Block 如何利用 OpenAI 技术构建人工智能驱动的安全",
+        "summary": "Block 正在利用 OpenAI 构建人工智能驱动的安全性。其安全团队可以更快地调查威胁并在几分钟内提出补丁建议。",
+        "sourceTitle": "Block 如何利用 OpenAI 技术构建人工智能驱动的安全",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+        "sourceTitle": "How Block is building AI-powered security with OpenAI technology",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-200a5d3dd39c6bfb7a20": {
+      "original": {
+        "title": "The EU’s next chapter in AI is agentic",
+        "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+        "sourceTitle": "The EU’s next chapter in AI is agentic",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "欧盟人工智能的下一章是代理",
+        "summary": "新的分析显示了欧盟企业和小型企业中代理人工智能的采用如何增长，以及更深入的使用可以释放更多价值。",
+        "sourceTitle": "欧盟人工智能的下一章是代理",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "The EU’s next chapter in AI is agentic",
+        "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+        "sourceTitle": "The EU’s next chapter in AI is agentic",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-fb9782751b5c994c8a85": {
+      "original": {
+        "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+        "summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision – in collaboration with the some of Italy’s leading sight loss charities – the Associazione Nazionale S…",
+        "sourceTitle": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "Meta、米兰布雷拉美术馆和 EssilorLuxottica 通过 AI 眼镜扩大艺术接触范围",
+        "summary": "今天，Meta、Pinacoteca di Brera 和 EssilorLuxottica 很自豪地推出“感知艺术——发现超越眼睛的杰作”。该试点项目旨在探索人工智能眼镜如何让盲人或弱视人士更容易接触艺术——与意大利一些领先的视力丧失慈善机构——国家协会合作……",
+        "sourceTitle": "Meta、米兰布雷拉美术馆和 EssilorLuxottica 通过 AI 眼镜扩大艺术接触范围",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+        "summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision – in collaboration with the some of Italy’s leading sight loss charities – the Associazione Nazionale S…",
+        "sourceTitle": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+        "source": "Meta Newsroom"
+      }
+    },
+    "rss-8d45898e533e591d4241": {
+      "original": {
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "sourceTitle": "Higgsfield takes AI video from 1 minute to over 10",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Higgsfield 将 AI 视频从 1 分钟缩短至 10 多分钟",
+        "summary": "Higgsfield 通过 GPT-6 Astra 为创作者带来更长的视频，通过 GPT-Image-2.5 带来精确的视觉效果，并通过 GPT-Live 为声音电影制作提供途径。",
+        "sourceTitle": "Higgsfield 将 AI 视频从 1 分钟缩短至 10 多分钟",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Higgsfield takes AI video from 1 minute to over 10",
+        "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "sourceTitle": "Higgsfield takes AI video from 1 minute to over 10",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-677117a6476c9ea93f69": {
+      "original": {
+        "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+        "summary": "We’re introducing new AI-powered tools that help you shape what you see in Feed and Reels by telling us what you’re interested in, in your own words. The post Your Algorithm, Your Words: New Ways to Shape What You See on Facebook appeared first on Meta Newsroom .",
+        "sourceTitle": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "你的算法，你的话语：塑造你在 Facebook 上看到的内容的新方法",
+        "summary": "我们正在推出新的人工智能工具，通过用您自己的话告诉我们您感兴趣的内容，帮助您塑造您在 Feed 和 Reels 中看到的内容。你的算法，你的话语：塑造你在 Facebook 上看到的内容的新方法首先出现在 Meta Newsroom 上。",
+        "sourceTitle": "你的算法，你的话语：塑造你在 Facebook 上看到的内容的新方法",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+        "summary": "We’re introducing new AI-powered tools that help you shape what you see in Feed and Reels by telling us what you’re interested in, in your own words. The post Your Algorithm, Your Words: New Ways to Shape What You See on Facebook appeared first on Meta Newsroom .",
+        "sourceTitle": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+        "source": "Meta Newsroom"
+      }
+    },
+    "rss-9bf93d58cc35db9987f8": {
+      "original": {
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "sourceTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍",
+        "summary": "在 Codex 中使用 GPT-6 Astra，Asana 使其浏览器代理在测试中成本降低了 76 倍，速度提高了 5 倍，从而为客户提供功能更强大的模型。",
+        "sourceTitle": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "sourceTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-db7b9e6fe248e3146f87": {
+      "original": {
+        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+        "sourceTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+        "summary": "在招聘、工程和运营方面，Oracle 通过 ChatGPT Work 和 Codex 将专业知识转化为快速、可重复的工作流程。",
+        "sourceTitle": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+        "sourceTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-855092fba1df7e8a668b": {
+      "original": {
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+        "sourceTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Pollo AI 通过 OpenAI 将创意转化为活动",
+        "summary": "借助 GPT-5.6、GPT-6 Astra 和 GPT‑Image‑2.5，Pollo AI 帮助创作者将大胆的想法转化为详细的图像和电影视频广告。",
+        "sourceTitle": "Pollo AI 通过 OpenAI 将创意转化为活动",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+        "sourceTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-d9e485b409fe8517ac6e": {
+      "original": {
+        "title": "Disrupting AI-enabled “false front” operations",
+        "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+        "sourceTitle": "Disrupting AI-enabled “false front” operations",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "破坏人工智能支持的“假面”操作",
+        "summary": "OpenAI 扰乱了两项人工智能影响力行动，这些行动利用假面记者和智囊团传播地缘政治信息。",
+        "sourceTitle": "破坏人工智能支持的“假面”操作",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Disrupting AI-enabled “false front” operations",
+        "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+        "sourceTitle": "Disrupting AI-enabled “false front” operations",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-661f64ddb5f472a2675e": {
+      "original": {
+        "title": "Helping teens learn, plan, and shape the future of AI",
+        "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+        "sourceTitle": "Helping teens learn, plan, and shape the future of AI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "帮助青少年学习、规划和塑造人工智能的未来",
+        "summary": "College Planner 将加入 ChatGPT for Teens，帮助学生管理大学申请，同时提供新的抽认卡、测验和青少年人工智能委员会。",
+        "sourceTitle": "帮助青少年学习、规划和塑造人工智能的未来",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Helping teens learn, plan, and shape the future of AI",
+        "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+        "sourceTitle": "Helping teens learn, plan, and shape the future of AI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-ebb413cc5359756bf923": {
+      "original": {
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+        "sourceTitle": "How Jump Trading is scaling quant research with ChatGPT",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
+        "summary": "Jump Trading 使用 OpenAI 来扩展定量研究。了解运行时间较长的 AI 工作流程如何将多个数据源与人工审核相结合。",
+        "sourceTitle": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+        "sourceTitle": "How Jump Trading is scaling quant research with ChatGPT",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-3f1df7d1e497a618a33d": {
+      "original": {
+        "title": "Microsoft 365 and LinkedIn leadership update",
+        "summary": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning. SATYA NADELLA MESSAGE After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky has decided to leave Microsoft and embark on his next chapter. As Ryan and I... T…",
+        "sourceTitle": "Microsoft 365 and LinkedIn leadership update",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "Microsoft 365 和 LinkedIn 领导力更新",
+        "summary": "今天上午，LinkedIn 董事长兼首席执行官萨蒂亚·纳德拉 (Satya Nadella) 以及 LinkedIn 和 Microsoft 365 执行副总裁 Ryan Roslansky 与 Microsoft 和 LinkedIn 员工分享了以下内容。萨蒂亚·纳德拉 (SATYA NADELLA) 致辞 在 LinkedIn 和 Microsoft 工作了近 18 年后，Ryan Roslansky 决定离开 Microsoft，开始他的下一个篇章。正如瑞安和我……T……",
+        "sourceTitle": "Microsoft 365 和 LinkedIn 领导力更新",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "Microsoft 365 and LinkedIn leadership update",
+        "summary": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning. SATYA NADELLA MESSAGE After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky has decided to leave Microsoft and embark on his next chapter. As Ryan and I... T…",
+        "sourceTitle": "Microsoft 365 and LinkedIn leadership update",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-a818078acf2d71e32781": {
+      "original": {
+        "title": "New Microsoft data innovations unlock what only your business knows",
+        "summary": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from... The post N…",
+        "sourceTitle": "New Microsoft data innovations unlock what only your business knows",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "新的 Microsoft 数据创新解锁了只有您的企业才知道的内容",
+        "summary": "每个组织都拥有自己独特的知识：其业务运营方式、长期积累的数据、员工的专业知识以及数千个日常决策背后的背景。随着强大的人工智能模型变得越来越广泛，这种独特的商业智能比以往任何时候都更加重要。差异将来自...后N...",
+        "sourceTitle": "新的 Microsoft 数据创新解锁了只有您的企业才知道的内容",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "New Microsoft data innovations unlock what only your business knows",
+        "summary": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from... The post N…",
+        "sourceTitle": "New Microsoft data innovations unlock what only your business knows",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-bb8739a9d6a76e6df066": {
+      "original": {
+        "title": "Introducing the new Copilot with Home, Code and Autopilot",
+        "summary": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducin…",
+        "sourceTitle": "Introducing the new Copilot with Home, Code and Autopilot",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "推出带有 Home、Code 和 Autopilot 的全新 Copilot",
+        "summary": "我们正在重新构想 Microsoft Copilot，以支持不断发展的工作，并帮助扩展每个个人和每个组织在实现人类雄心的过程中可以实现的目标。今天，我们将推出新的 Copilot，将人们依赖的工具与他们构建、定制和扩展人工智能所需的下一代功能连接起来……",
+        "sourceTitle": "推出带有 Home、Code 和 Autopilot 的全新 Copilot",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "Introducing the new Copilot with Home, Code and Autopilot",
+        "summary": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... The post Introducin…",
+        "sourceTitle": "Introducing the new Copilot with Home, Code and Autopilot",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-bdfbcd1e218247afd5ad": {
+      "original": {
+        "title": "What we’ve learned from Microsoft’s own AI transformation",
+        "summary": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:... The post What we’ve learned f…",
+        "sourceTitle": "What we’ve learned from Microsoft’s own AI transformation",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "我们从微软自己的人工智能转型中学到了什么",
+        "summary": "人工智能正在以比任何组织完全掌握的速度更快地重塑工作。在各个行业中，讨论已经从人工智能可以做什么转向公司如何利用人工智能创造商业价值并扩大人们能够实现的目标。在微软，我们相信成功的组织将是我们所说的前沿公司：......我们学到了什么......",
+        "sourceTitle": "我们从微软自己的人工智能转型中学到了什么",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "What we’ve learned from Microsoft’s own AI transformation",
+        "summary": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:... The post What we’ve learned f…",
+        "sourceTitle": "What we’ve learned from Microsoft’s own AI transformation",
+        "source": "Microsoft official blog"
+      }
+    }
+  }
+}

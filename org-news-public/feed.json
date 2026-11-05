@@ -1487,5 +1487,6 @@
   "refreshing": false,
   "lastRefresh": "2026-11-05T04:14:01.243053+00:00",
   "nextRefresh": "2026-11-05T04:17:00+00:00",
-  "deploymentMode": "github-actions"
+  "deploymentMode": "github-actions",
+  "bilingualRevision": "95b3081126660e2a4c685c31772e74e88d7544848205f5054630c645db6af44f"
 }

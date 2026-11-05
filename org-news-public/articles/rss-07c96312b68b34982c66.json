@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-07c96312b68b34982c66",
+  "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+  "sourceTitle": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T22:56:21.182238+00:00",
+  "fetchedAt": "2026-11-05T22:56:22.801571+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+  "language": "en",
+  "originalTitle": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Google Vids, our video creation and editing tool, now runs on Google's newest video generation model: Omni 1.2 Flash. Starting today, anyone with a Google account or Google Workspace subscription can generate up to three 15-second videos per month in Vids at no cost.",
+      "id": "p1",
+      "zh": "谷歌维兹,我们的视频创作和编辑工具,现在运行在谷歌最新的视频生成模式上:奥姆尼1.2闪电侠.从今天开始任何拥有Google账户或Google Workspace订阅的用户都可以免费在Vids每月生成最多3个15秒的视频.",
+      "en": "Google Vids, our video creation and editing tool, now runs on Google's newest video generation model: Omni 1.2 Flash. Starting today, anyone with a Google account or Google Workspace subscription can generate up to three 15-second videos per month in Vids at no cost."
+    },
+    {
+      "kind": "paragraph",
+      "text": "With Omni 1.2 in Google Vids, you can now bring your ideas to life in so many more ways:",
+      "id": "p2",
+      "zh": "与Omni 1.2 在谷歌维兹,你现在可以用更多方式 将你的想法付诸实践:",
+      "en": "With Omni 1.2 in Google Vids, you can now bring your ideas to life in so many more ways:"
+    },
+    {
+      "kind": "list",
+      "text": "Create your product promos in one go. Produce professional, quick-turn social content and promotional materials without a single cut.",
+      "id": "p3",
+      "zh": "一次创建你的产品bauros。生产专业,快速转会的社会内容和宣传材料,没有单一的剪切.",
+      "en": "Create your product promos in one go. Produce professional, quick-turn social content and promotional materials without a single cut."
+    },
+    {
+      "kind": "list",
+      "text": "Transform static imagery into engaging videos. Upload reference images from anything — a trip, a school project, or learning materials — and your characters and scenes will stay consistent, from the first frame to the last.",
+      "id": "p4",
+      "zh": "将静态图像转换成视频从任何东西上传参考图像——一次旅行,学校项目,或学习材料 - 和你的人物和场景将保持一致,从第一帧到最后一帧。",
+      "en": "Transform static imagery into engaging videos. Upload reference images from anything — a trip, a school project, or learning materials — and your characters and scenes will stay consistent, from the first frame to the last."
+    },
+    {
+      "kind": "list",
+      "text": "Make clips that sound more natural. With improved speech narration, your social clips, concept explainers, and teaser videos feel like something you recorded yourself.",
+      "id": "p5",
+      "zh": "制作更自然的片段。随着语音描述的改进,你的社交剪辑,概念解释者,和嘲笑者视频 感觉像的东西 你录了自己。",
+      "en": "Make clips that sound more natural. With improved speech narration, your social clips, concept explainers, and teaser videos feel like something you recorded yourself."
+    },
+    {
+      "kind": "paragraph",
+      "text": "If you can describe it, you can make it. Try Google Vids out at vids.new.",
+      "id": "p6",
+      "zh": "如果你能描述出来,你可以做到这一点。试试Google Vids在vids. new.",
+      "en": "If you can describe it, you can make it. Try Google Vids out at vids.new."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "谷歌维兹,我们的视频创作和编辑工具,现在运行在谷歌最新的视频生成模式上:奥姆尼1.2闪电侠.从今天开始任何拥有Google账户或Google Workspace订阅的用户都可以免费在Vids每月生成最多3个15秒的视频.",
+      "en": "Google Vids, our video creation and editing tool, now runs on Google's newest video generation model: Omni 1.2 Flash. Starting today, anyone with a Google account or Google Workspace subscription can generate up to three 15-second videos per month in Vids at no cost."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "与Omni 1.2 在谷歌维兹,你现在可以用更多方式 将你的想法付诸实践:",
+      "en": "With Omni 1.2 in Google Vids, you can now bring your ideas to life in so many more ways:"
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "将静态图像转换成视频从任何东西上传参考图像——一次旅行,学校项目,或学习材料 - 和你的人物和场景将保持一致,从第一帧到最后一帧。",
+      "en": "Transform static imagery into engaging videos. Upload reference images from anything — a trip, a school project, or learning materials — and your characters and scenes will stay consistent, from the first frame to the last."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "制作更自然的片段。随着语音描述的改进,你的社交剪辑,概念解释者,和嘲笑者视频 感觉像的东西 你录了自己。",
+      "en": "Make clips that sound more natural. With improved speech narration, your social clips, concept explainers, and teaser videos feel like something you recorded yourself."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "f829d5edb1861479d0db9cfb088cba86d56190622e834e9425b3f7e523f07b53"
+}

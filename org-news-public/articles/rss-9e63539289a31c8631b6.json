@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-9e63539289a31c8631b6",
+  "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "sourceTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:16.514714+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:16.789317+00:00"
+}

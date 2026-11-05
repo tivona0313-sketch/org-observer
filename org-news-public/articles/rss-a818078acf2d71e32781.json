@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-a818078acf2d71e32781",
+  "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+  "sourceTitle": "New Microsoft data innovations unlock what only your business knows",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:48:22.363597+00:00",
+  "fetchedAt": "2026-11-05T11:29:00.800740+00:00",
+  "finalURL": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+  "language": "en",
+  "originalTitle": "New Microsoft data innovations unlock what only your business knows",
+  "author": "Jessica Hawk",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions.",
+      "id": "p1",
+      "zh": "每个组织都有独特的知识:它的经营方式,它积累的数据 随着时间的推移,人民的专门知识和成千上万日常决策背后的背景。",
+      "en": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from how effectively organizations combine those models with the data, expertise and business context that make them unique.",
+      "id": "p2",
+      "zh": "随着强大的AI模型越来越普及,那个独特的商业情报 比以往任何时候都更重要不同之处在于各组织如何有效地将这些模型与数据结合起来,专门知识和业务环境使它们具有独特性。",
+      "en": "As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from how effectively organizations combine those models with the data, expertise and business context that make them unique."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Turning that intelligence into lasting advantage requires three elements to work together: human ambition to set the direction, intelligence grounded in the organization’s unique knowledge and trust to provide the foundation for operating at scale. Microsoft’s approach is designed to bring those elements together so organizations can build on what they know and create greater value over time.",
+      "id": "p3",
+      "zh": "将这种智慧转化为持久的优势,需要三个要素共同努力:人类的雄心壮志 确定方向,以本组织独特的知识和信任为基础的情报,为大规模运作提供基础。微软的做法旨在将这些要素汇集在一起,使各组织能够借助于它们所知道的,并随着时间的推移创造更大的价值。",
+      "en": "Turning that intelligence into lasting advantage requires three elements to work together: human ambition to set the direction, intelligence grounded in the organization’s unique knowledge and trust to provide the foundation for operating at scale. Microsoft’s approach is designed to bring those elements together so organizations can build on what they know and create greater value over time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "That value can compound through a continuous learning loop, where AI draws on an organization’s data and expertise, improves the systems and experiences it creates and generates better outcomes over time without making the organization dependent on any single model provider.",
+      "id": "p4",
+      "zh": "这个值可以通过不断的学习循环来复合,在大赦国际利用一个组织的数据和专门知识的情况下,改进它创造的系统和经验,并随着时间的推移产生更好的结果,而不会使本组织依赖于任何单一的模型提供者。",
+      "en": "That value can compound through a continuous learning loop, where AI draws on an organization’s data and expertise, improves the systems and experiences it creates and generates better outcomes over time without making the organization dependent on any single model provider."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today at the European Microsoft Fabric + SQL Community Conference in Barcelona, we are introducing advances across Microsoft Fabric and Azure Databases that help organizations put their data estate at the heart of a successful AI strategy.",
+      "id": "p5",
+      "zh": "今天,在巴塞罗那举行的欧洲微软Fabric + SQL社区会议上,我们正在介绍微软Fabric和Azure数据库的进展,帮助各组织将数据产业置于AI战略成功的核心。",
+      "en": "Today at the European Microsoft Fabric + SQL Community Conference in Barcelona, we are introducing advances across Microsoft Fabric and Azure Databases that help organizations put their data estate at the heart of a successful AI strategy."
+    },
+    {
+      "kind": "heading",
+      "text": "Fabric IQ: Bring your unique business context into Microsoft Copilot",
+      "id": "p6",
+      "zh": "纤维智商 :将您独特的商业环境带入微软Copilot系统",
+      "en": "Fabric IQ: Bring your unique business context into Microsoft Copilot"
+    },
+    {
+      "kind": "paragraph",
+      "text": "As Microsoft Copilot evolves across Home, Code and Autopilot, access to trusted business context becomes essential. Fabric IQ brings governed business context into Copilot, grounding experiences in the Power BI semantic models, metrics, relationships and business definitions organizations already trust.",
+      "id": "p7",
+      "zh": "随着微软Copilot在全家演进,代码和自动驾驶,进入信任的商业环境变得至关重要。Faburic IQ将管理下的经营环境引入了Copilot,将经验定位在 Power BI语义模型,计量,各组织已经信任这种关系和业务定义。",
+      "en": "As Microsoft Copilot evolves across Home, Code and Autopilot, access to trusted business context becomes essential. Fabric IQ brings governed business context into Copilot, grounding experiences in the Power BI semantic models, metrics, relationships and business definitions organizations already trust."
+    },
+    {
+      "kind": "paragraph",
+      "text": "With Fabric IQ in Microsoft Copilot Chat and Cowork now generally available, users can ask business questions and receive answers grounded in governed Power BI data, while Cowork can use those insights as part of broader multistep work. Integration with the new Code experience is coming through the Frontier program.",
+      "id": "p8",
+      "zh": "微软的Copilot聊天和合作中 Fabric IQ 现在普遍可以使用,用户可以根据受管的Power BI数据提出商业问题并获得答案,合作可以将这些见解作为更广泛的多步骤工作的一部分。与新法典的结合正在通过边境方案进行。",
+      "en": "With Fabric IQ in Microsoft Copilot Chat and Cowork now generally available, users can ask business questions and receive answers grounded in governed Power BI data, while Cowork can use those insights as part of broader multistep work. Integration with the new Code experience is coming through the Frontier program."
+    },
+    {
+      "kind": "paragraph",
+      "text": "That means when someone asks Copilot for the latest sales forecast or another critical business metric, the answer can be grounded in the same semantic model that powers the organization’s reports, helping avoid confusion about which number is correct. For Power BI customers, this extends the semantic foundation they already have into Microsoft Copilot while preserving existing access controls and governance.",
+      "id": "p9",
+      "zh": "这意味着当有人问Copilot 关于最新销售预测 或另一个关键的商业衡量标准,答案可以基于赋予该组织报告权力的同一语义模式,帮助避免对哪个数字的正确性产生混淆。对于电力BI客户,这扩展了他们已经拥有的语义基础到Microsoft Copilot,同时保留了现有的访问控制和治理.",
+      "en": "That means when someone asks Copilot for the latest sales forecast or another critical business metric, the answer can be grounded in the same semantic model that powers the organization’s reports, helping avoid confusion about which number is correct. For Power BI customers, this extends the semantic foundation they already have into Microsoft Copilot while preserving existing access controls and governance."
+    },
+    {
+      "kind": "paragraph",
+      "text": "I experienced this myself recently as I was preparing for a sales review and asked Copilot, “What’s our latest sales forecast?” With Fabric IQ, that answer was grounded in the same governed Power BI semantic model that powers the team’s sales reporting, using the same business definitions and metrics my team already trusts. So, instead of spending the meeting uncovering and debating whose number was right, the team was able to get straight to what the numbers mean and focus on what we do next. That’s exactly the kind of experience we want to create.",
+      "id": "p10",
+      "zh": "最近我在准备销售审查时 亲身体验到这个 然后问了Copilot“我们的最新销售预测是什么?” 与法布里克智商,答案基于同样的强力BI语义模型 授权团队的销售报告,使用同样的业务定义和度量衡 我的团队已经信任。这么说吧而不是花时间开会 发现和辩论谁的号码是正确的,团队能够直截了当地了解数字的含义,并专注于我们下一步的工作。这正是我们想要创造的体验。",
+      "en": "I experienced this myself recently as I was preparing for a sales review and asked Copilot, “What’s our latest sales forecast?” With Fabric IQ, that answer was grounded in the same governed Power BI semantic model that powers the team’s sales reporting, using the same business definitions and metrics my team already trusts. So, instead of spending the meeting uncovering and debating whose number was right, the team was able to get straight to what the numbers mean and focus on what we do next. That’s exactly the kind of experience we want to create."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For Fabric and Power BI customers, this capability is on by default in Copilot Chat and Cowork and extends the semantic foundation they already have into Microsoft Copilot while preserving existing access controls and governance.",
+      "id": "p11",
+      "zh": "对于Fabric和Power BI的客户,此功能默认在 Copilot Chat 和 Cowork 中运行, 并扩展它们已经拥有的语义基础到 Microsoft Copilot, 同时保留现有的访问控制与治理问题。",
+      "en": "For Fabric and Power BI customers, this capability is on by default in Copilot Chat and Cowork and extends the semantic foundation they already have into Microsoft Copilot while preserving existing access controls and governance."
+    },
+    {
+      "kind": "heading",
+      "text": "IQ Sharing in Microsoft Fabric: Share unique business context without giving up control",
+      "id": "p12",
+      "zh": "微软 Fabric 中的 IQ 共享 :在不放弃控制的情况下共享独有的商业环境",
+      "en": "IQ Sharing in Microsoft Fabric: Share unique business context without giving up control"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Business knowledge does not stop at the boundary of a team or business unit. Organizations increasingly need to collaborate across customers, partners and broader ecosystems while maintaining control over the information they share.",
+      "id": "p13",
+      "zh": "业务知识不停留在团队或业务单位的边界上.各组织日益需要相互协作。合作伙伴和更广泛的生态系统,同时保持对其共享信息的控制。",
+      "en": "Business knowledge does not stop at the boundary of a team or business unit. Organizations increasingly need to collaborate across customers, partners and broader ecosystems while maintaining control over the information they share."
+    },
+    {
+      "kind": "paragraph",
+      "text": "IQ Sharing in Fabric, now in preview as part of Fabric IQ, breaks down company boundaries by enabling organizations to securely share data and the business context that gives it meaning, while maintaining governance over the underlying assets. Starting with key Fabric IQ artifacts and context, IQ Share is designed to evolve beyond preview to help customers discover, share and activate trusted context wherever it’s needed.",
+      "id": "p14",
+      "zh": "福布利克的智商共享,现在作为Fabric IQ的一部分在预览中,打破公司界限,使各组织能够安全地分享数据及其具有意义的商业环境,保持对基本资产的治理。从关键Fabric IQ的文物和背景开始,IQ Share旨在超越预览,帮助客户发现,共享并激活任何需要的可信上下文 。",
+      "en": "IQ Sharing in Fabric, now in preview as part of Fabric IQ, breaks down company boundaries by enabling organizations to securely share data and the business context that gives it meaning, while maintaining governance over the underlying assets. Starting with key Fabric IQ artifacts and context, IQ Share is designed to evolve beyond preview to help customers discover, share and activate trusted context wherever it’s needed."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Together with OneLake mirroring and shortcuts, these investments create a more open foundation for sharing governed data and context across organizations, platforms and ecosystems.",
+      "id": "p15",
+      "zh": "与OneLake镜像和快捷键,这些投资为各组织之间分享受管理的数据和背景创造了更加开放的基础,平台和生态系统。",
+      "en": "Together with OneLake mirroring and shortcuts, these investments create a more open foundation for sharing governed data and context across organizations, platforms and ecosystems."
+    },
+    {
+      "kind": "heading",
+      "text": "Observability in Microsoft Fabric: Maintain visibility and control as AI scales",
+      "id": "p16",
+      "zh": "微软 Fabric 中的可观察性 :保持能见度和控制作为AI 尺度",
+      "en": "Observability in Microsoft Fabric: Maintain visibility and control as AI scales"
+    },
+    {
+      "kind": "paragraph",
+      "text": "As organizations put more workloads on their unified data platform, they need to understand system health and address issues before they affect business and AI outcomes.",
+      "id": "p17",
+      "zh": "由于各组织在其统一数据平台上的工作量增加,他们需要了解系统健康,在影响商业和AI结果之前解决各种问题。",
+      "en": "As organizations put more workloads on their unified data platform, they need to understand system health and address issues before they affect business and AI outcomes."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Observability in Fabric helps teams move from reactive troubleshooting to proactive operations. Cross-workspace monitoring and an enhanced Monitor Hub provide a unified view across jobs, capacities, workspaces and workloads, while Operations Agents and Activator help teams investigate issues, identify root causes with AI and automate responses.",
+      "id": "p18",
+      "zh": "在Fabric的可观察性帮助团队从反应性故障排除转向主动行动.跨工作空间监测和加强监测中心为各种工作提供统一的看法,能力,工作空间和工作量,行动代理人和活动者帮助小组调查问题,以大赦国际和自动对策查明根源。",
+      "en": "Observability in Fabric helps teams move from reactive troubleshooting to proactive operations. Cross-workspace monitoring and an enhanced Monitor Hub provide a unified view across jobs, capacities, workspaces and workloads, while Operations Agents and Activator help teams investigate issues, identify root causes with AI and automate responses."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Together, these capabilities help organizations maintain oversight as they scale data and AI.",
+      "id": "p19",
+      "zh": "{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起 {\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起这些能力有助于各组织在扩大数据和AI规模时保持监督。",
+      "en": "Together, these capabilities help organizations maintain oversight as they scale data and AI."
+    },
+    {
+      "kind": "heading",
+      "text": "Fabric Apps: Build applications directly on governed business data",
+      "id": "p20",
+      "zh": "Fabric Apps : (美国英语).直接在管理下的业务数据上构建应用程序",
+      "en": "Fabric Apps: Build applications directly on governed business data"
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI is transforming how applications are created, but enterprises still need a secure, governed path from idea to production. Fabric Apps brings application development directly to governed data in Microsoft Fabric, helping organizations build and scale AI-powered business applications faster.",
+      "id": "p21",
+      "zh": "AI正在改变如何创建应用程序,但企业仍需要安全,从思想到生产的道路。Fabric Apps将应用开发直接引入微软Fabric的受管理数据,帮助组织更快地建立和扩展AI驱动的商业应用程序.",
+      "en": "AI is transforming how applications are created, but enterprises still need a secure, governed path from idea to production. Fabric Apps brings application development directly to governed data in Microsoft Fabric, helping organizations build and scale AI-powered business applications faster."
+    },
+    {
+      "kind": "paragraph",
+      "text": "With new capabilities for data connectivity, transactional workloads, backend logic, storage and policy-controlled access, developers can move from prototype to production on a unified data foundation. These experiences bring application creation closer to where enterprise data and insights already live, helping more people turn data into action.",
+      "id": "p22",
+      "zh": "有了新的数据连通能力,交易工作量,后端逻辑,储存和由政策控制的准入,开发人员可以在统一的数据基础上从原型转向生产.这些经验使应用程序的创建更接近于企业数据和见解已经存在的地方,帮助更多的人将数据转化为行动。",
+      "en": "With new capabilities for data connectivity, transactional workloads, backend logic, storage and policy-controlled access, developers can move from prototype to production on a unified data foundation. These experiences bring application creation closer to where enterprise data and insights already live, helping more people turn data into action."
+    },
+    {
+      "kind": "heading",
+      "text": "Agentic data engineering: Automate the work, stay in control",
+      "id": "p23",
+      "zh": "代理数据工程:工作自动化,保持控制状态",
+      "en": "Agentic data engineering: Automate the work, stay in control"
+    },
+    {
+      "kind": "paragraph",
+      "text": "A continuous learning loop is only as good as the data behind it, which must be prepared, refined and improved without pause. As those environments become more complex, organizations need automation that can take on more of that work without pushing people or controls out of the loop.",
+      "id": "p24",
+      "zh": "不断学习的循环 和它背后的数据一样好必须准备好的,不断完善和完善。随着这些环境变得更加复杂,各组织需要自动化,能够承担更多的工作,而不将人或控制推向圈外。",
+      "en": "A continuous learning loop is only as good as the data behind it, which must be prepared, refined and improved without pause. As those environments become more complex, organizations need automation that can take on more of that work without pushing people or controls out of the loop."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Earlier this year, we shared our vision for autonomous data engineering. Now, new agentic data engineering features in Fabric bring that vision to life, bringing autonomous execution to complex data engineering initiatives while keeping organizations in control. Engineers define the outcome and set the boundaries. Inside those limits, the agent plans and executes the work, validates the results and refines the approach.",
+      "id": "p25",
+      "zh": "今年早些时候,我们分享了我们自主数据工程的愿景。现在,Fabric的新的代理数据工程特性 使这个视觉生命,将自动执行纳入复杂的数据工程举措,同时控制各组织。工程师定义结果并设定界限.在这些限度内,代理人计划并执行工作,考核结果,细化办法.",
+      "en": "Earlier this year, we shared our vision for autonomous data engineering. Now, new agentic data engineering features in Fabric bring that vision to life, bringing autonomous execution to complex data engineering initiatives while keeping organizations in control. Engineers define the outcome and set the boundaries. Inside those limits, the agent plans and executes the work, validates the results and refines the approach."
+    },
+    {
+      "kind": "heading",
+      "text": "SQL Server on Azure Local: Keep critical data and workloads where you need them",
+      "id": "p26",
+      "zh": "Azure 本地端的 SQL 服务器 :将关键数据和工作量保留在需要的地方",
+      "en": "SQL Server on Azure Local: Keep critical data and workloads where you need them"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Maintaining control over business knowledge also means having flexibility over where critical data and workloads run.",
+      "id": "p27",
+      "zh": "保持对业务知识的控制,还意味着对关键数据和工作量所处位置具有灵活性。",
+      "en": "Maintaining control over business knowledge also means having flexibility over where critical data and workloads run."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Now generally available, SQL Server on Azure Local brings SQL Server and Azure services into local environments, giving organizations more choice to run workloads closer to their applications and operations. SQL Server on Azure Local with disconnected operations, now in preview, extends that flexibility to environments where cloud connectivity is interrupted, restricted or unavailable.",
+      "id": "p28",
+      "zh": "现在普遍可以使用,Azure Llocal上的 SQL 服务器将 SQL 服务器和 Azure 服务带入本地环境,给予各组织更多的选择,使其更接近于其应用和业务来管理工作量。Azure local上的 SQL 服务器已断开操作,现在在预览中,将这种灵活性扩大到云层连接中断的环境,限制或无法使用。",
+      "en": "Now generally available, SQL Server on Azure Local brings SQL Server and Azure services into local environments, giving organizations more choice to run workloads closer to their applications and operations. SQL Server on Azure Local with disconnected operations, now in preview, extends that flexibility to environments where cloud connectivity is interrupted, restricted or unavailable."
+    },
+    {
+      "kind": "paragraph",
+      "text": "These options give organizations operating across regulated, local, edge and disconnected environments greater choice over where their critical data and workloads reside and operate.",
+      "id": "p29",
+      "zh": "这些备选办法使在受监管的、当地,边缘和脱节的环境更能选择它们的关键数据和工作量在哪些地方存在和运作。",
+      "en": "These options give organizations operating across regulated, local, edge and disconnected environments greater choice over where their critical data and workloads reside and operate."
+    },
+    {
+      "kind": "heading",
+      "text": "Database Hub in Fabric: Simplify database management with agentic assistance",
+      "id": "p30",
+      "zh": "Fabric 数据库枢纽 :利用代理协助简化数据库管理",
+      "en": "Database Hub in Fabric: Simplify database management with agentic assistance"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Intelligent applications depend on operational data. Teams need a clear view of the databases that power those applications and practical tools to manage them.",
+      "id": "p31",
+      "zh": "智能应用依赖于操作数据.各小组需要清楚了解为这些应用程序提供动力的数据库以及管理这些应用程序的实用工具。",
+      "en": "Intelligent applications depend on operational data. Teams need a clear view of the databases that power those applications and practical tools to manage them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Building on its introduction at FabCon Atlanta, Database Hub in Fabric is now in public preview. It provides a central control plane for managing SQL Server, Azure SQL, PostgreSQL, Cosmos DB and SQL databases in Fabric, helping administrators monitor and govern their database estate.",
+      "id": "p32",
+      "zh": "在法布康亚特兰大介绍的基础上位于Fabric的数据库枢纽现已公开预览.它提供了管理SQL Server的中央控制平面,阿苏雷SQL,邮递SQL,Fabric的宇宙数据库和SQL数据库,帮助管理员监测和管理他们的数据库产业。",
+      "en": "Building on its introduction at FabCon Atlanta, Database Hub in Fabric is now in public preview. It provides a central control plane for managing SQL Server, Azure SQL, PostgreSQL, Cosmos DB and SQL databases in Fabric, helping administrators monitor and govern their database estate."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Complementing this management experience, specialist database agents for SQL and PostgreSQL in Database Hub in Fabric and Visual Studio Code, coming soon to public preview, help teams investigate issues, understand performance bottlenecks and identify optimization opportunities within their development environment.",
+      "id": "p33",
+      "zh": "作为这种管理经验的补充,Fabric和Visual Studio代码数据库枢纽SQL和PostgreSQL的专家数据库代理商,即将公开预览,帮助小组调查问题,了解业绩瓶颈,并找出其发展环境中的优化机会。",
+      "en": "Complementing this management experience, specialist database agents for SQL and PostgreSQL in Database Hub in Fabric and Visual Studio Code, coming soon to public preview, help teams investigate issues, understand performance bottlenecks and identify optimization opportunities within their development environment."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Together, these capabilities help teams understand their database estate and make more informed operational decisions.",
+      "id": "p34",
+      "zh": "{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起 {\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起这些能力有助于各小组了解其数据库产业,并作出更知情的业务决定。",
+      "en": "Together, these capabilities help teams understand their database estate and make more informed operational decisions."
+    },
+    {
+      "kind": "heading",
+      "text": "Build AI on the knowledge that makes your business different",
+      "id": "p35",
+      "zh": "在知识上建立人工智能 让你的生意不同",
+      "en": "Build AI on the knowledge that makes your business different"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our goal is straightforward: help organizations use the best AI models and tools available while turning their proprietary data, expertise and workflows into an advantage that grows more valuable over time. That direction is reflected across today’s announcements as the data foundation comes into focus.",
+      "id": "p36",
+      "zh": "我们的目标是直接的:帮助各组织在转换其专有数据时使用现有最佳AI模型和工具,将专门知识和工作流程变成一种随着时间推移而更加宝贵的优势。随着数据基础的集中,这一方向在今天的通告中得到了反映。",
+      "en": "Our goal is straightforward: help organizations use the best AI models and tools available while turning their proprietary data, expertise and workflows into an advantage that grows more valuable over time. That direction is reflected across today’s announcements as the data foundation comes into focus."
+    },
+    {
+      "kind": "paragraph",
+      "text": "At Ignite, we’ll broaden this story across the full Microsoft Frontier ecosystem, connecting data, applications, agents, governance and infrastructure into one system that turns AI ambition into business outcomes.",
+      "id": "p37",
+      "zh": "在伊格内特,我们将会在微软前沿生态系统中拓宽这个故事,连接数据,应用程序,探员们,治理与基础设施成为将AI抱负转化为业务成果的体系.",
+      "en": "At Ignite, we’ll broaden this story across the full Microsoft Frontier ecosystem, connecting data, applications, agents, governance and infrastructure into one system that turns AI ambition into business outcomes."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the complete set of announcements across Microsoft Fabric and Azure Databases in today’s blog from Arun Ulagaratchagan, Executive Vice President of Azure Data.",
+      "id": "p38",
+      "zh": "Arun Ulagaratchagan博客的微软Fabric和Azure数据库,Azure Data执行副总裁.",
+      "en": "Explore the complete set of announcements across Microsoft Fabric and Azure Databases in today’s blog from Arun Ulagaratchagan, Executive Vice President of Azure Data."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Jessica Hawk leads Azure Product Marketing at Microsoft, driving strategy and storytelling across the full Azure portfolio. Her team defines how Azure shows up in the market — helping customers and developers tap into the platform’s full potential across cloud, data, AI and developer innovation.",
+      "id": "p39",
+      "zh": "杰西卡·霍克领导微软的Azure产品营销,驾驶策略和讲故事 穿越整个Azure组合。她的团队定义了Azure如何在市场上出现——帮助客户和开发商在云端挖掘平台的全部潜力,数据,AI与开发者创新.",
+      "en": "Jessica Hawk leads Azure Product Marketing at Microsoft, driving strategy and storytelling across the full Azure portfolio. Her team defines how Azure shows up in the market — helping customers and developers tap into the platform’s full potential across cloud, data, AI and developer innovation."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "随着强大的AI模型越来越普及,那个独特的商业情报 比以往任何时候都更重要不同之处在于各组织如何有效地将这些模型与数据结合起来,专门知识和业务环境使它们具有独特性。",
+      "en": "As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from how effectively organizations combine those models with the data, expertise and business context that make them unique."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "这个值可以通过不断的学习循环来复合,在大赦国际利用一个组织的数据和专门知识的情况下,改进它创造的系统和经验,并随着时间的推移产生更好的结果,而不会使本组织依赖于任何单一的模型提供者。",
+      "en": "That value can compound through a continuous learning loop, where AI draws on an organization’s data and expertise, improves the systems and experiences it creates and generates better outcomes over time without making the organization dependent on any single model provider."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "今天,在巴塞罗那举行的欧洲微软Fabric + SQL社区会议上,我们正在介绍微软Fabric和Azure数据库的进展,帮助各组织将数据产业置于AI战略成功的核心。",
+      "en": "Today at the European Microsoft Fabric + SQL Community Conference in Barcelona, we are introducing advances across Microsoft Fabric and Azure Databases that help organizations put their data estate at the heart of a successful AI strategy."
+    },
+    {
+      "paragraphId": "p33",
+      "zh": "作为这种管理经验的补充,Fabric和Visual Studio代码数据库枢纽SQL和PostgreSQL的专家数据库代理商,即将公开预览,帮助小组调查问题,了解业绩瓶颈,并找出其发展环境中的优化机会。",
+      "en": "Complementing this management experience, specialist database agents for SQL and PostgreSQL in Database Hub in Fabric and Visual Studio Code, coming soon to public preview, help teams investigate issues, understand performance bottlenecks and identify optimization opportunities within their development environment."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "607f4b68b181823ea989e2ca8c080d367a25e1ea98f5322feb7084a2090530ba"
+}

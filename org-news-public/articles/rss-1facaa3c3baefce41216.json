@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-1facaa3c3baefce41216",
+  "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
+  "sourceTitle": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:26.534715+00:00",
+  "fetchedAt": "2026-11-05T11:28:35.069653+00:00",
+  "finalURL": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
+  "language": "en",
+  "originalTitle": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+  "author": "John Tribbia",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We held the second annual Colorado Impact Hackathon at our Boulder offices, in partnership with CU Boulder and the Colorado Energy Office.",
+      "id": "p1",
+      "zh": "我们在博尔德的办公室举办了第二届科罗拉多州影响哈卡顿年度活动,与CU Boulder和科罗拉多能源局合作。",
+      "en": "We held the second annual Colorado Impact Hackathon at our Boulder offices, in partnership with CU Boulder and the Colorado Energy Office."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Participating students tackled a crucial challenge: How can we create a clean, secure, and resilient electric grid in Colorado? The winning projects addressed this head on:",
+      "id": "p2",
+      "zh": "参加学习的学生面临一项关键的挑战:我们怎么能创造干净的,安全,科罗拉多州有弹性电网吗?获胜的项目针对这个主题:",
+      "en": "Participating students tackled a crucial challenge: How can we create a clean, secure, and resilient electric grid in Colorado? The winning projects addressed this head on:"
+    },
+    {
+      "kind": "list",
+      "text": "First place: SolarSnap, an AI app that helps homeowners find the ideal setup for solar panels using their phone’s camera",
+      "id": "p3",
+      "zh": "首选:索拉纳普,帮助屋主找到太阳能电池板使用手机相机的理想设置的AI应用程序",
+      "en": "First place: SolarSnap, an AI app that helps homeowners find the ideal setup for solar panels using their phone’s camera"
+    },
+    {
+      "kind": "list",
+      "text": "Second place: Grid Watch, an AI-managed battery network designed to keep power on during wildfire shutoffs while reducing electricity costs.",
+      "id": "p4",
+      "zh": "第二位为:网格监视器,一个由AI管理的电池网络,旨在在野火关闭时保持供电,同时降低电费。",
+      "en": "Second place: Grid Watch, an AI-managed battery network designed to keep power on during wildfire shutoffs while reducing electricity costs."
+    },
+    {
+      "kind": "list",
+      "text": "Third place: Grid Guard, providing predictive capabilities for targeted grid hardening",
+      "id": "p5",
+      "zh": "第三位 :网格警卫提供目标电网加固的预测能力",
+      "en": "Third place: Grid Guard, providing predictive capabilities for targeted grid hardening"
+    },
+    {
+      "kind": "paragraph",
+      "text": "At the event, Colorado Attorney General Phil Weiser and CU Boulder Vice Chancellor for Sustainability Andrew Mayock highlighted the importance of bold innovation to shape Colorado’s clean energy future.",
+      "id": "p6",
+      "zh": "在活动中,科罗拉多州总检察长Phil Weiser和CU Boulder 负责可持续性的副州长Andrew Mayock强调了大胆创新以塑造科罗拉多州清洁的重要性。能源未来。",
+      "en": "At the event, Colorado Attorney General Phil Weiser and CU Boulder Vice Chancellor for Sustainability Andrew Mayock highlighted the importance of bold innovation to shape Colorado’s clean energy future."
+    },
+    {
+      "kind": "paragraph",
+      "text": "From mitigating wildfire risks to tackling energy backlogs, events like these demonstrate how collaboration between students, public leaders, and technologists can drive meaningful change for Colorado.",
+      "id": "p7",
+      "zh": "从减轻野火风险到解决能源积压,像这样的事件 证明学生之间的协作,公众领袖,科技专家可以推动科罗拉多州有意义的变革。",
+      "en": "From mitigating wildfire risks to tackling energy backlogs, events like these demonstrate how collaboration between students, public leaders, and technologists can drive meaningful change for Colorado."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The students from the winning team, SolarSnap, with their Google Guide Sarah Bonnet.",
+      "id": "p8",
+      "zh": "胜球队的学生们索拉纳普,与他们的谷歌指南 莎拉·博奈特。",
+      "en": "The students from the winning team, SolarSnap, with their Google Guide Sarah Bonnet."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Brin Enterkin (Impact Hackathon Lead @ Google), Megan Christensen (State of Colorado Energy Office), Phil Weiser (Colorado Attorney General), Erick Mueller (CU Head of Entrepreneurship & Innovation), Betsy Klein (Associate Director of CU Deming Center for Entrepreneurship), Beth Hartmen (Director of CU External Engagement in Sustainability)",
+      "id": "p9",
+      "zh": "Brin Enterkin(影响Hackathon铅@谷歌),梅根·克里斯滕森(科罗拉多州能源办公室)Phil Weiser(哥伦比亚总检察长),Erick Mueller(CU 创业和创新主任),Betsy Klein(CU 德明创业中心协理主任),Beth Hartmen(CU外部参与可持续性组织主任)",
+      "en": "Brin Enterkin (Impact Hackathon Lead @ Google), Megan Christensen (State of Colorado Energy Office), Phil Weiser (Colorado Attorney General), Erick Mueller (CU Head of Entrepreneurship & Innovation), Betsy Klein (Associate Director of CU Deming Center for Entrepreneurship), Beth Hartmen (Director of CU External Engagement in Sustainability)"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Colorado Attorney General Phil Weiser and Brin Enterkin pause for a quick selfie after his closing keynote.",
+      "id": "p10",
+      "zh": "科罗拉多州总检察长菲尔·魏瑟和布林·艾特金在结束主题演讲后暂停了一下,以快速自拍.",
+      "en": "Colorado Attorney General Phil Weiser and Brin Enterkin pause for a quick selfie after his closing keynote."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Students get to experience being a Googler for a day by hacking away at hard problems.",
+      "id": "p11",
+      "zh": "学生们通过黑客调查困难问题 来体验成为一天的谷歌手的经历。",
+      "en": "Students get to experience being a Googler for a day by hacking away at hard problems."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Andrew Mayock, Vice Chancellor of Sustainability at CU Boulder, kicked off the day with an inspiring opening keynote.",
+      "id": "p12",
+      "zh": "安德鲁·马约克联邦博尔德市可持续发展事务副总理,以鼓舞人心的开场白踢出了今天的场面。",
+      "en": "Andrew Mayock, Vice Chancellor of Sustainability at CU Boulder, kicked off the day with an inspiring opening keynote."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们在博尔德的办公室举办了第二届科罗拉多州影响哈卡顿年度活动,与CU Boulder和科罗拉多能源局合作。",
+      "en": "We held the second annual Colorado Impact Hackathon at our Boulder offices, in partnership with CU Boulder and the Colorado Energy Office."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "参加学习的学生面临一项关键的挑战:我们怎么能创造干净的,安全,科罗拉多州有弹性电网吗?获胜的项目针对这个主题:",
+      "en": "Participating students tackled a crucial challenge: How can we create a clean, secure, and resilient electric grid in Colorado? The winning projects addressed this head on:"
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "胜球队的学生们索拉纳普,与他们的谷歌指南 莎拉·博奈特。",
+      "en": "The students from the winning team, SolarSnap, with their Google Guide Sarah Bonnet."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "Brin Enterkin(影响Hackathon铅@谷歌),梅根·克里斯滕森(科罗拉多州能源办公室)Phil Weiser(哥伦比亚总检察长),Erick Mueller(CU 创业和创新主任),Betsy Klein(CU 德明创业中心协理主任),Beth Hartmen(CU外部参与可持续性组织主任)",
+      "en": "Brin Enterkin (Impact Hackathon Lead @ Google), Megan Christensen (State of Colorado Energy Office), Phil Weiser (Colorado Attorney General), Erick Mueller (CU Head of Entrepreneurship & Innovation), Betsy Klein (Associate Director of CU Deming Center for Entrepreneurship), Beth Hartmen (Director of CU External Engagement in Sustainability)"
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "39026d691f53b63855bd6d894f1ad3bb6809f9fda7d68976402483534f69a46b"
+}

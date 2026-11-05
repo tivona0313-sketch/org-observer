@@ -1,0 +1,299 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-bb8739a9d6a76e6df066",
+  "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+  "sourceTitle": "Introducing the new Copilot with Home, Code and Autopilot",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:48:22.864666+00:00",
+  "fetchedAt": "2026-11-05T11:29:01.665363+00:00",
+  "finalURL": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+  "language": "en",
+  "originalTitle": "Introducing the new Copilot with Home, Code and Autopilot",
+  "author": "Jared Spataro",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI across work.",
+      "id": "p1",
+      "zh": "我们重新构思微软Copilot, 以便随着工作的发展, 帮助扩展每个人和每个组织在人的抱负流中能够实现的目标。今天我们引进了新的Copilot, 将人们所依赖的工具与下一代的能力联系起来,在整个工作中定制和扩展人工智能。",
+      "en": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI across work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Copilot app now has three new capabilities: Home is your new starting point, where Chat and Cowork come together — and with Office in Copilot, the full power of Word, Excel and PowerPoint is now built into the experience. Code lets everyone build their own solutions with the tools to run them safely, and it’s powered by the same underlying technology as GitHub Copilot. And Autopilot is a persistent, proactive and personal agent that keeps working even when you’re not. Home and Code will start rolling out in our Frontier program in the coming weeks and Autopilot is expanding to private preview at the end of the month.",
+      "id": "p2",
+      "zh": "Copilot应用软件现在有三个新能力:家是你的新起点,恰克和同事的聚会 和办公室的Copilot,即言语的全能者,Excel和PowerPoint现在已载入经验中。代码让每个人都用工具 建立自己的解决方案 安全运行它们,由与GitHub Copilot相同的技术提供动力。自动驾驶员是坚持不懈的,即使你没有工作, 也继续工作。未来几周内,\"家园与代码\"将开始在我们的边境计划中推出,Autopilot正在月末扩展至私人预览.",
+      "en": "The Copilot app now has three new capabilities: Home is your new starting point, where Chat and Cowork come together — and with Office in Copilot, the full power of Word, Excel and PowerPoint is now built into the experience. Code lets everyone build their own solutions with the tools to run them safely, and it’s powered by the same underlying technology as GitHub Copilot. And Autopilot is a persistent, proactive and personal agent that keeps working even when you’re not. Home and Code will start rolling out in our Frontier program in the coming weeks and Autopilot is expanding to private preview at the end of the month."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’re also excited to share new FinOps for AI capabilities to help you manage spend and get the most value from Copilot and agents.",
+      "id": "p3",
+      "zh": "协助你管理开支, 并从Copilot及代理商处获得最大价值。",
+      "en": "We’re also excited to share new FinOps for AI capabilities to help you manage spend and get the most value from Copilot and agents."
+    },
+    {
+      "kind": "paragraph",
+      "text": "YouTube Video",
+      "id": "p4",
+      "zh": "YouTube 视频",
+      "en": "YouTube Video"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Click here to load media",
+      "id": "p5",
+      "zh": "单击这里装入媒体",
+      "en": "Click here to load media"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Watch the audio-described version.",
+      "id": "p6",
+      "zh": "观看音频描述版本.",
+      "en": "Watch the audio-described version."
+    },
+    {
+      "kind": "heading",
+      "text": "A new experience for every mode of work",
+      "id": "p7",
+      "zh": "每种工作方式的新经验",
+      "en": "A new experience for every mode of work"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Home is your new starting point in Copilot, where Chat and Cowork come together in one place. As work moves constantly between meetings, chats, documents, emails, apps and agents, Home is where you get your bearings, keeping you grounded and moving forward. You can review recent activity, get suggestions on what Copilot can help with, and pick up work right where you left off. Chat is instant and conversational — ready for quick questions, lookups, draft-creation and keeping you in the loop on every turn. Cowork is for work you delegate. You define the task and it runs end-to-end to return a completed result: an RFP response, a launch kit, a customer briefing, a financial close package or any other complex work worth iterating on. And coming soon, you won’t need to choose a mode: simply state what you need to accomplish, and Copilot will route the work to Chat, Cowork or Code — whichever capability is right for the job.",
+      "id": "p8",
+      "zh": "家是你的新起点 在Copilot,恰克和同事在一个地方相聚随着工作不断在会议之间进行,聊天时,文档,电子邮件,应用程序和智能体,家是你的轴心所在,让你被禁足,继续前进你可以回顾一下最近的活动,得到建议 关于什么Copilot可以帮助,并捡起工作的权利 你离开的地方。聊天是即时的和对话的——准备快速提问,仰视,草稿的制作 让你在每一个回合都保持循环合作是你们委托的工作您定义了任务, 并按端对端返回完成的结果 :一项RFP反应,一个发射箱,向客户介绍情况,(a) 财务结账一揽子计划或值得延长的任何其他复杂工作。马上就要来了您不需要选择模式 :只要说明你需要完成什么,和Copilot将引导 工作聊天,合作或守则——无论何种能力都适合工作。",
+      "en": "Home is your new starting point in Copilot, where Chat and Cowork come together in one place. As work moves constantly between meetings, chats, documents, emails, apps and agents, Home is where you get your bearings, keeping you grounded and moving forward. You can review recent activity, get suggestions on what Copilot can help with, and pick up work right where you left off. Chat is instant and conversational — ready for quick questions, lookups, draft-creation and keeping you in the loop on every turn. Cowork is for work you delegate. You define the task and it runs end-to-end to return a completed result: an RFP response, a launch kit, a customer briefing, a financial close package or any other complex work worth iterating on. And coming soon, you won’t need to choose a mode: simply state what you need to accomplish, and Copilot will route the work to Chat, Cowork or Code — whichever capability is right for the job."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’re also bringing the full power of Word, Excel and PowerPoint to Copilot with Office in Copilot. Now you can get to real work fast: no broken formatting, no stray versions, no rebuilding the context in another app. From Home you can ask Copilot to draft a launch brief, model a budget, build a deck, or pick up a file your team is already working on, and it creates or updates a real, editable document, workbook or presentation — live for your whole team, not just you. Refine it side by side with your conversation, or @mention a teammate and their edits show up as they make them — things stay in sync between Copilot and the Office apps, so progress travels with you wherever you work.",
+      "id": "p9",
+      "zh": "也带来了言语的力量,Excel和PowerPoint与办公室的Copilot。现在,你可以得到真正的工作快:格式没有断裂,没有错误的版本,无法在另一个应用程序中重建上下文 。从家你可以请Copilot 起草一个发射简报,以预算为模式,盖甲板,或者拿起你的团队已经在工作的文件,它创造或更新一个真实的,可编辑文档,工作手册或介绍——为你整个团队现场直播,不仅仅是你。把它和你的谈话同时完善或@mention 一个队友和他们的编辑在他们制作时出现—— 事情在Copilot和Office apps之间保持同步,所以,进步 与你一起旅行 无论你在哪里工作。",
+      "en": "We’re also bringing the full power of Word, Excel and PowerPoint to Copilot with Office in Copilot. Now you can get to real work fast: no broken formatting, no stray versions, no rebuilding the context in another app. From Home you can ask Copilot to draft a launch brief, model a budget, build a deck, or pick up a file your team is already working on, and it creates or updates a real, editable document, workbook or presentation — live for your whole team, not just you. Refine it side by side with your conversation, or @mention a teammate and their edits show up as they make them — things stay in sync between Copilot and the Office apps, so progress travels with you wherever you work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "If you haven’t used Copilot in the Office apps lately, take another look. PowerPoint now keeps decks on-brand automatically and enables you to fine-tune slides and images or quickly apply a custom template. When Copilot or another collaborator makes edits in Excel, you can see exactly what changed and why, so you’re up to speed quickly, and Copilot recommends the best chart to visualize your data. And across Microsoft 365, Skills help bring specialized expertise directly into the apps, like financial skills in Excel and legal skills in Word, and enable organizations to scale best practices through reusable, role-specific workflows.",
+      "id": "p10",
+      "zh": "如果你最近没有在办公室应用软件中使用Copilot,再看一眼,好吗?PowerPoint现在将甲板自动保留在品牌上,使您能够对幻灯片和图像进行微调或快速应用自定义模板.当Copilot或其他合作者在Excel编辑时,你可以看到到底什么变化和原因,所以,你应该快速前进,和Copilot推荐最佳图表来可视化您的数据。横跨微软365,技能有助于将专业知识直接带入应用软件,就像在Excel的财务技能和在Word的法律技能,并使各组织能够通过可重复使用的方式推广最佳做法,特定角色的工作流程。",
+      "en": "If you haven’t used Copilot in the Office apps lately, take another look. PowerPoint now keeps decks on-brand automatically and enables you to fine-tune slides and images or quickly apply a custom template. When Copilot or another collaborator makes edits in Excel, you can see exactly what changed and why, so you’re up to speed quickly, and Copilot recommends the best chart to visualize your data. And across Microsoft 365, Skills help bring specialized expertise directly into the apps, like financial skills in Excel and legal skills in Word, and enable organizations to scale best practices through reusable, role-specific workflows."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Code moves solution-building outside the realm of developers alone. To date, the unit of knowledge work has been the file: the document, the spreadsheet, the deck. Those aren’t going anywhere, but Code adds a fourth: small, purpose-built solutions anyone can create to get a job done. Learning to build them is becoming as basic a skill as writing a memo or modeling a budget.",
+      "id": "p11",
+      "zh": "代码将解析器构建移到开发者单独范畴之外.迄今为止,知识工作单位的档案:文件,电子表格,甲板。 甲板。 。他们不会去任何地方,但代码增加了第四个:{\\fn华文楷体\\fs16\\1cHE0E0E0}小任何人都可以创造出一个有目的的解决方案来完成这项工作。学习如何建造这些设施,正变得像撰写备忘录或为预算建模一样,是一种基本的技能。",
+      "en": "Code moves solution-building outside the realm of developers alone. To date, the unit of knowledge work has been the file: the document, the spreadsheet, the deck. Those aren’t going anywhere, but Code adds a fourth: small, purpose-built solutions anyone can create to get a job done. Learning to build them is becoming as basic a skill as writing a memo or modeling a budget."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Describe an app, tracker, dashboard, automation or workflow in natural language, and Copilot chooses an approach and builds it — from persistent desktop widgets for quick reference and interactive dashboards for exploring data and testing outcomes to cloud-hosted internal apps you can share with your team.",
+      "id": "p12",
+      "zh": "描述一个应用,跟踪器,仪表板,自然语言的自动化或工作流程,和“Copilot”选择并构建一个方法——从持久性桌面部件到快速参考和交互式仪表板,以探索数据和测试结果。云端托管的内部应用程序,可以与团队共享.",
+      "en": "Describe an app, tracker, dashboard, automation or workflow in natural language, and Copilot chooses an approach and builds it — from persistent desktop widgets for quick reference and interactive dashboards for exploring data and testing outcomes to cloud-hosted internal apps you can share with your team."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Powered by the same underlying technology as GitHub Copilot, Code runs in a sandboxed environment and can be hosted securely within your tenant. With Microsoft IQ, everything you create is grounded in the context of your work, and plugins sync automatically. Your software developers continue to use GitHub Copilot for their day-to-day work with more connectivity into the Copilot platform. Code is rolling out to Frontier at the end of the month, with broad availability in the coming weeks. It will be in preview for Microsoft 365 Premium and Pro subscribers later this year.",
+      "id": "p13",
+      "zh": "由与GitHub Copilot相同的基础技术提供动力,代码运行在沙箱环境中,并且可以在房客内部安全地托管.与微软智商,你创造的一切 都以你的工作为背景和插件自动同步。您的软件开发者继续使用GitHub Copilot进行日常工作,与Copilot平台的连接更多.密码在月底传到边境并在未来几周内广泛提供。今年晚些时候,微软365 Premium 和 Pro 的订阅者将进行预览。",
+      "en": "Powered by the same underlying technology as GitHub Copilot, Code runs in a sandboxed environment and can be hosted securely within your tenant. With Microsoft IQ, everything you create is grounded in the context of your work, and plugins sync automatically. Your software developers continue to use GitHub Copilot for their day-to-day work with more connectivity into the Copilot platform. Code is rolling out to Frontier at the end of the month, with broad availability in the coming weeks. It will be in preview for Microsoft 365 Premium and Pro subscribers later this year."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As it gets easier and faster than ever to build in Copilot, we’re introducing Microsoft Copilot Managed Runtime: hosting infrastructure that lets code run safely right inside your company’s Microsoft 365 environment. It’s governed by IT but easy for everyone else: share an app with teammates, connect it to live data and access it from anywhere. This same foundation enables apps built in Cowork, Code and Copilot Studio, and we’re opening it up to third-party and pro-code developers, too. Copilot Managed Runtime is now in preview and will also be accessible inside Code.",
+      "id": "p14",
+      "zh": "随着它变得比以往更容易和更快 在Copilot中建设,我们介绍微软Copilot管理运行时间:托管允许代码安全运行的基础设施, 位于您公司的微软 365 环境内。但对于其他人来说,和队友分享一个应用程序,连接到现场数据,然后从任何地方访问。同样的基础可以让应用程序在Cowork中建立,代码和Copilot工作室,我们向第三方和支持代码的开发者开放,我也一样。Copilot管理运行时间现已进入预览阶段,在代码内也可访问.",
+      "en": "As it gets easier and faster than ever to build in Copilot, we’re introducing Microsoft Copilot Managed Runtime: hosting infrastructure that lets code run safely right inside your company’s Microsoft 365 environment. It’s governed by IT but easy for everyone else: share an app with teammates, connect it to live data and access it from anywhere. This same foundation enables apps built in Cowork, Code and Copilot Studio, and we’re opening it up to third-party and pro-code developers, too. Copilot Managed Runtime is now in preview and will also be accessible inside Code."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Autopilot, previously called Scout, is your digital teammate. And it works for you: Give it a name, a role and a goal, and it goes to work — watching channels, following up on threads, running recurring work and picking a project back up days later, without waiting for a prompt. It can do things like set up and manage a full supplier review process: building the schedule and workback plan, then handling prep, meetings and follow-ups on its own, right down to reaching out to stakeholders for updates. And Autopilot is cloud-hosted, so it keeps working while you sleep or your attention is elsewhere — no constant monitoring required.",
+      "id": "p15",
+      "zh": "自动驾驶,之前叫做童子军,是你的数字队友。对你有用:给它一个名字,一个角色和一个目标,然后它开始工作——看频道,跟踪线条,进行经常性的工作 并选择一个项目 几天后,而不等待一个迅速。它可以做一些事情,例如建立和管理一个全面的供应商审查程序:制定时间表和工作计划,然后处理准备,各次会议和后续行动直接联系利益攸关方了解最新情况。自动驾驶是云端的,因此,它继续工作 当你睡觉或你的注意力在别处—— 不需要不断的监测。",
+      "en": "Autopilot, previously called Scout, is your digital teammate. And it works for you: Give it a name, a role and a goal, and it goes to work — watching channels, following up on threads, running recurring work and picking a project back up days later, without waiting for a prompt. It can do things like set up and manage a full supplier review process: building the schedule and workback plan, then handling prep, meetings and follow-ups on its own, right down to reaching out to stakeholders for updates. And Autopilot is cloud-hosted, so it keeps working while you sleep or your attention is elsewhere — no constant monitoring required."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Autopilot lives in your tenant with its own identity, memory, computer and workspace, and it’s built on Microsoft IQ so it understands how your organization actually works. It shows up where people already work — Teams, Outlook, chats, channels and documents — so you can @mention it like a colleague, with permissions, audit and governance behind it. You set the objective and boundaries; Autopilot handles the rest while keeping you informed and in control.",
+      "id": "p16",
+      "zh": "自动驾驶员以自己的身份住在房客那里记忆,计算机和工作空间,以微软智商为基础,它显示出人们已经工作的地方——团队,展望聊天时,频道和文件——这样你就可以像同事一样把它写成 @mention:经许可,背后的审计和治理。你确定了目标和界限;自动驾驶员处理其余的事务,同时随时向您通报情况并进行控制.",
+      "en": "Autopilot lives in your tenant with its own identity, memory, computer and workspace, and it’s built on Microsoft IQ so it understands how your organization actually works. It shows up where people already work — Teams, Outlook, chats, channels and documents — so you can @mention it like a colleague, with permissions, audit and governance behind it. You set the objective and boundaries; Autopilot handles the rest while keeping you informed and in control."
+    },
+    {
+      "kind": "heading",
+      "text": "Expanding your business context",
+      "id": "p17",
+      "zh": "扩展您的商业环境",
+      "en": "Expanding your business context"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Copilot is grounded in Microsoft IQ, the unified intelligence platform for enterprise AI across your Microsoft stack, connecting how the business operates with the knowledge it holds into one real-time view for Copilot and your agents, governed and secure.",
+      "id": "p18",
+      "zh": "Copilot基于微软智商,企业AI的统一智能平台 横跨你的微软堆栈,将业务运作方式与它掌握的知识联系起来,成为Copilot和你的代理人的实时视野,管理与安全。",
+      "en": "Copilot is grounded in Microsoft IQ, the unified intelligence platform for enterprise AI across your Microsoft stack, connecting how the business operates with the knowledge it holds into one real-time view for Copilot and your agents, governed and secure."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today we are expanding the business context available to Copilot. Fabric IQ brings trusted context from your data, including the 20+ million semantic models in Power BI into Copilot. It grounds Chat and Cowork, and is generally available in both today, with Code integration coming through the Frontier program soon. Rolling out over the next month in public preview, Copilot is now grounded in data and workflows from Dynamics 365 and Power Platform. So, when a salesperson is working on a proposal, for instance, Copilot can incorporate data like deal history and support tickets right into the document, with no app-switching or distracting lookups required.",
+      "id": "p19",
+      "zh": "今天,我们正在扩大向Copilot提供的业务环境。Fabric IQ从您的数据中带来了可信任的背景,包括Power BI中的2000+百万语义模型进入Copilot.它使聊天和同事,和一般在今天的两种情况,即将通过边境计划实现代码整合。下个月在公开预览会上推出Copilot现在基于Dynamics 365和Power平台的数据和工作流程.这么说吧当一个推销员在做一个提议时,举例来说,Copilot可以将交易历史等数据纳入文件,并右侧支持罚单.不需要操作或分散视线",
+      "en": "Today we are expanding the business context available to Copilot. Fabric IQ brings trusted context from your data, including the 20+ million semantic models in Power BI into Copilot. It grounds Chat and Cowork, and is generally available in both today, with Code integration coming through the Frontier program soon. Rolling out over the next month in public preview, Copilot is now grounded in data and workflows from Dynamics 365 and Power Platform. So, when a salesperson is working on a proposal, for instance, Copilot can incorporate data like deal history and support tickets right into the document, with no app-switching or distracting lookups required."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You also need a trusted way to connect Copilot to the actions and data that move your business forward. Plugins extend what Copilot can do, bringing together skills, connectors and other capabilities so users can complete more workflows without leaving the apps they use every day. Rolling out now and generally available across surfaces in the coming weeks, a new plugin registry will bring Microsoft, partner and custom-built plugins together in one unified catalog. IT can approve and manage plugins centrally, while developers and partners can publish once to extend Copilot across supported experiences. The result is a simpler way to introduce trusted capabilities at scale, with the control your organization needs.",
+      "id": "p20",
+      "zh": "您还需要一个可信赖的方法, 将 Copilot 连接到推进您业务的动作和数据 。插件扩展了“Copilot”所能做的,将各种技能结合起来,连接器和其他能力使得用户可以完成更多的工作流程而无需每天离开他们使用的应用.在接下来的几周里 整个地表都可以看到一个新的插件注册将带来微软,伙伴和自定义的插件一起在一个统一的目录中。IT可以集中批准和管理插件,开发者和合作伙伴可以发布一次,将Copilot扩展至所支持的经验。结果是更简单的方式 引入信任的能力 在规模,控制你的组织需要。",
+      "en": "You also need a trusted way to connect Copilot to the actions and data that move your business forward. Plugins extend what Copilot can do, bringing together skills, connectors and other capabilities so users can complete more workflows without leaving the apps they use every day. Rolling out now and generally available across surfaces in the coming weeks, a new plugin registry will bring Microsoft, partner and custom-built plugins together in one unified catalog. IT can approve and manage plugins centrally, while developers and partners can publish once to extend Copilot across supported experiences. The result is a simpler way to introduce trusted capabilities at scale, with the control your organization needs."
+    },
+    {
+      "kind": "heading",
+      "text": "Managing AI spend",
+      "id": "p21",
+      "zh": "管理大赦国际的开支",
+      "en": "Managing AI spend"
+    },
+    {
+      "kind": "paragraph",
+      "text": "For everyday AI — quick answers, first drafts, summaries and analysis — you want the best possible quality at a fixed cost. A user subscription license (USL) gives you exactly that: Copilot in Chat and across Word, Excel, PowerPoint, Outlook and Teams; model selection; and new capabilities and models. Auto is at the heart of the USL. Auto weighs accuracy, speed and cost on each request to route to the model best suited for the job. Agentic work requires a different type of spend, one that gives you the best quality possible with the most advanced models. Usage-based billing (UBB) lets you have full control to choose models and match cost to value. Cowork, Code, and Autopilot, new long-running agentic capabilities, and frontier models like Astra and Fable all run on UBB. As AI capabilities and the ways people use them continue to evolve, we’re evolving Copilot pricing alongside them. Read more here.",
+      "id": "p22",
+      "zh": "对于每天的AI——快速的答案,初稿,总结和分析——你要以固定成本获得尽可能高的质量。用户订阅许可(USL)给出的正是:在聊天和跨字的Copilot,埃塞尔,PowerPoint, 电源点,展望和团队;模型选择;以及新的能力和模式。汽车是USL的核心.自动计算精确度,向最适合工作的模型行驶的每个请求的速度和成本.代理工作需要另一种类型的开支,用最先进的模型给你最好的品质基于用法的计费(UBB)允许您完全控制选择模型,并匹配成本与价值.同事们,代码,和自动驾驶,新的长期代理能力,Astra和Fable等前沿模型都运行在UBB上.随着AI能力以及人们使用它们的方式不断演变,我们正和他们一起发展Copilot定价。在这儿多读读。",
+      "en": "For everyday AI — quick answers, first drafts, summaries and analysis — you want the best possible quality at a fixed cost. A user subscription license (USL) gives you exactly that: Copilot in Chat and across Word, Excel, PowerPoint, Outlook and Teams; model selection; and new capabilities and models. Auto is at the heart of the USL. Auto weighs accuracy, speed and cost on each request to route to the model best suited for the job. Agentic work requires a different type of spend, one that gives you the best quality possible with the most advanced models. Usage-based billing (UBB) lets you have full control to choose models and match cost to value. Cowork, Code, and Autopilot, new long-running agentic capabilities, and frontier models like Astra and Fable all run on UBB. As AI capabilities and the ways people use them continue to evolve, we’re evolving Copilot pricing alongside them. Read more here."
+    },
+    {
+      "kind": "paragraph",
+      "text": "FinOps for AI is a shared discipline for managing AI spend and optimizing it for business value. We are committed to enabling organizations to make the most of their AI spend, and, today, we are introducing new capabilities across Agent 365, Insights and Microsoft Copilot to help do that. Cost management in Agent 365 is expanding beyond Cowork and Work IQ APIs to include Code and Copilot Managed Runtime, with support for agents built in Microsoft Copilot Studio planned for October. Admins can manage spending policies at scale with API access; route credit requests from end users into existing approval and automation workflows; and set which model families are available to different groups of users — those settings also shape which models Auto can select from. Business leaders and admins can understand which Cowork tasks are generating the strongest outcomes and determine where to sustain, expand or optimize usage. And finally, end users can view credit usage, remaining balances and usage history directly in Microsoft Copilot, so they can better manage their own AI usage within organizational guardrails. We are committed to investing in FinOps for AI to help organizations stay in control of spend, understand value and optimize their AI investments for impact.",
+      "id": "p23",
+      "zh": "FinOps for AI是管理AI支出并优化其商业价值的共享学科.我们致力于使各组织能够充分利用其大赦国际的开支,还有,今天,我们...我们正在引入新的能力 通过365号智能体,Insights和微软Copilot帮助完成这项工作.Agent 365的成本管理正在扩展,超越 Cowork and Work IQ API, 包括代码和Copilot管理运行时间,在微软Copilot工作室建造的代理商的支持下,计划于10月投入使用。管理人员可使用API, 大规模管理开支政策;将终端用户的路由信用请求纳入现有核准和自动化工作流程;并设定哪些模式家庭可供不同用户群体使用——这些设置也塑造了Model Auto可以选择哪些模式家庭.企业领导和管理人员可以了解哪些合作任务正在产生最强的成果,并确定在何处持续,扩展或优化使用。终于终端用户可以查看信用使用情况,微软Copilot的剩余余额和使用历史,这样他们就可以在组织护栏内更好地管理自己的人工智能使用.我们承诺为AI投资FinOps,以帮助各组织控制开支,了解其价值并优化其AI投资以产生效果.",
+      "en": "FinOps for AI is a shared discipline for managing AI spend and optimizing it for business value. We are committed to enabling organizations to make the most of their AI spend, and, today, we are introducing new capabilities across Agent 365, Insights and Microsoft Copilot to help do that. Cost management in Agent 365 is expanding beyond Cowork and Work IQ APIs to include Code and Copilot Managed Runtime, with support for agents built in Microsoft Copilot Studio planned for October. Admins can manage spending policies at scale with API access; route credit requests from end users into existing approval and automation workflows; and set which model families are available to different groups of users — those settings also shape which models Auto can select from. Business leaders and admins can understand which Cowork tasks are generating the strongest outcomes and determine where to sustain, expand or optimize usage. And finally, end users can view credit usage, remaining balances and usage history directly in Microsoft Copilot, so they can better manage their own AI usage within organizational guardrails. We are committed to investing in FinOps for AI to help organizations stay in control of spend, understand value and optimize their AI investments for impact."
+    },
+    {
+      "kind": "heading",
+      "text": "A sneak peek at what’s next",
+      "id": "p24",
+      "zh": "偷看接下来会是什么",
+      "en": "A sneak peek at what’s next"
+    },
+    {
+      "kind": "paragraph",
+      "text": "These announcements are just the beginning. We’re excited to share future Copilot experiences that make Copilot more personalized and proactive, and help the team move forward together.",
+      "id": "p25",
+      "zh": "这些公告只是开始。我们很高兴分享未来Copilot的经验 让Copilot更加个性化和积极主动帮助团队一起前进",
+      "en": "These announcements are just the beginning. We’re excited to share future Copilot experiences that make Copilot more personalized and proactive, and help the team move forward together."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Coming soon in Home, Today is a proactive, personalized command center across mail, calendar, Teams threads, meetings and tasks. It shows you what you missed, what needs attention now and what can wait. Today doesn’t just surface the work, it gets work done. The draft is written and ready for you to edit; the schedule change is already proposed; and the forgotten follow-up is waiting for you to send it, complete with context so you can catch up quickly. Today enters private preview in October in Copilot, and will be coming to Outlook and Teams as well.",
+      "id": "p26",
+      "zh": "马上就到家了今天是一个积极的,个人化指挥中心通过邮件,日历,团队线索,会议和任务。它显示你错过了什么现在需要注意的是什么,还有什么可以等待的。今天不只是工作表面,它得到的工作完成。草案已编写完毕,可供您编辑;已提议更改时间表;被遗忘的追随者正等着你送来,完成上下文后,您可以快速赶上。今天10月在Copilot处进入私人预览并且也将来到展望和团队。",
+      "en": "Coming soon in Home, Today is a proactive, personalized command center across mail, calendar, Teams threads, meetings and tasks. It shows you what you missed, what needs attention now and what can wait. Today doesn’t just surface the work, it gets work done. The draft is written and ready for you to edit; the schedule change is already proposed; and the forgotten follow-up is waiting for you to send it, complete with context so you can catch up quickly. Today enters private preview in October in Copilot, and will be coming to Outlook and Teams as well."
+    },
+    {
+      "kind": "paragraph",
+      "text": "YouTube Video",
+      "id": "p27",
+      "zh": "YouTube 视频",
+      "en": "YouTube Video"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Click here to load media",
+      "id": "p28",
+      "zh": "单击这里装入媒体",
+      "en": "Click here to load media"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Watch the audio-described version.",
+      "id": "p29",
+      "zh": "观看音频描述版本.",
+      "en": "Watch the audio-described version."
+    },
+    {
+      "kind": "paragraph",
+      "text": "And now when you invoke @Copilot in Teams, your entire team gets the shared context and permissions of the channel, group chat or meeting. Ask why a product decision was made, and Copilot pulls the background from across conversations — no digging, no re-explaining. When that decision ripples into manufacturing, packaging and launch timing, Copilot goes further: it offers to prepare a cross-functional review with dependencies, owners, open questions and decisions, so everyone can see how their work connects and what still needs resolving. The team stays aligned and the project keeps moving forward. The @Copilot capability will be in private preview in Teams by the end of the month.",
+      "id": "p30",
+      "zh": "现在,当你引用 @ Copilot在团队,您的整个团队获得频道的共享上下文和权限,分组聊天或会面。问为什么做出产品决定,Copilot从各种对话中调出背景——不挖洞,没有重新解释。当那个决定波及到制造业时,包装和发射时间,Copilot更进一步:它提出准备一个具有依赖性的跨职能审查,拥有者,问题和决定,所以每个人都可以看到他们的工作是怎样联系在一起的,需要解决的是什么。团队保持对齐,项目继续前进.@Copilot能力将在月底之前在Teams中进行私下预览.",
+      "en": "And now when you invoke @Copilot in Teams, your entire team gets the shared context and permissions of the channel, group chat or meeting. Ask why a product decision was made, and Copilot pulls the background from across conversations — no digging, no re-explaining. When that decision ripples into manufacturing, packaging and launch timing, Copilot goes further: it offers to prepare a cross-functional review with dependencies, owners, open questions and decisions, so everyone can see how their work connects and what still needs resolving. The team stays aligned and the project keeps moving forward. The @Copilot capability will be in private preview in Teams by the end of the month."
+    },
+    {
+      "kind": "paragraph",
+      "text": "YouTube Video",
+      "id": "p31",
+      "zh": "YouTube 视频",
+      "en": "YouTube Video"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Click here to load media",
+      "id": "p32",
+      "zh": "单击这里装入媒体",
+      "en": "Click here to load media"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Watch the audio-described version.",
+      "id": "p33",
+      "zh": "观看音频描述版本.",
+      "en": "Watch the audio-described version."
+    },
+    {
+      "kind": "heading",
+      "text": "Get started",
+      "id": "p34",
+      "zh": "开始吧",
+      "en": "Get started"
+    },
+    {
+      "kind": "paragraph",
+      "text": "With the new Copilot, you now have one place to ask, delegate, build, automate and more. It’s rolling out now through the Frontier program, with new capabilities arriving continuously. Check back here for the latest.",
+      "id": "p35",
+      "zh": "和新的Copilot,你现在有一个地方可以问,代表,建造,自动化和更多。现在它正在通过边境计划展开,新能力不断到达。检查一下这里的最新消息。",
+      "en": "With the new Copilot, you now have one place to ask, delegate, build, automate and more. It’s rolling out now through the Frontier program, with new capabilities arriving continuously. Check back here for the latest."
+    },
+    {
+      "kind": "paragraph",
+      "text": "There is so much more coming to Copilot. Join us at Microsoft Ignite — November 17–20 in San Francisco and online — to learn about the latest Copilot innovation and how it’s empowering people and organizations to reimagine work and get value from AI.",
+      "id": "p36",
+      "zh": "Copilot还有好多事要做与我们一起在微软Ignite(11月17日-20日在旧金山和在线)了解最新的Copilot创新,以及它如何增强人们和组织的能力。Reimagine 工作,并从 AI 获得价值。",
+      "en": "There is so much more coming to Copilot. Join us at Microsoft Ignite — November 17–20 in San Francisco and online — to learn about the latest Copilot innovation and how it’s empowering people and organizations to reimagine work and get value from AI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Jared Spataro leads Microsoft’s AI at Work efforts, helping every organization leverage AI and agents to solve their unique business problems, reduce costs and drive net-new value creation. His team conducts research to help predict and shape what the future of work and business will look like across industries, while also delivering new products and features within Copilot, Copilot Studio, Microsoft 365, Dynamics 365 and Power Platform.",
+      "id": "p37",
+      "zh": "Jared Spataro领导微软在工作上的AI,帮助每个组织利用人工智能和代理人来解决其独特的业务问题,降低成本,推动净新价值创造。他的团队开展研究 帮助预测和塑造 未来的工作和企业 将像跨行业,同时也在Copilot中提供新产品和新特性,Copilot工作室,微软365,动态365和动力平台.",
+      "en": "Jared Spataro leads Microsoft’s AI at Work efforts, helping every organization leverage AI and agents to solve their unique business problems, reduce costs and drive net-new value creation. His team conducts research to help predict and shape what the future of work and business will look like across industries, while also delivering new products and features within Copilot, Copilot Studio, Microsoft 365, Dynamics 365 and Power Platform."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "Copilot应用软件现在有三个新能力:家是你的新起点,恰克和同事的聚会 和办公室的Copilot,即言语的全能者,Excel和PowerPoint现在已载入经验中。代码让每个人都用工具 建立自己的解决方案 安全运行它们,由与GitHub Copilot相同的技术提供动力。",
+      "en": "The Copilot app now has three new capabilities: Home is your new starting point, where Chat and Cowork come together — and with Office in Copilot, the full power of Word, Excel and PowerPoint is now built into the experience. Code lets everyone build their own solutions with the tools to run them safely, and it’s powered by the same underlying technology as GitHub Copilot."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "如果你最近没有在办公室应用软件中使用Copilot,再看一眼,好吗?PowerPoint现在将甲板自动保留在品牌上,使您能够对幻灯片和图像进行微调或快速应用自定义模板.当Copilot或其他合作者在Excel编辑时,你可以看到到底什么变化和原因,所以,你应该快速前进,和Copilot推荐最佳图表来可视化您的数据。横跨微软365,技能有助于将专业知识直接带入应用软件,就像在Excel的财务技能和在Word的法律技能,并使各组织能够通过可重复使用的方式推广最佳做法,特定角色的工作流程。",
+      "en": "If you haven’t used Copilot in the Office apps lately, take another look. PowerPoint now keeps decks on-brand automatically and enables you to fine-tune slides and images or quickly apply a custom template."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "代码将解析器构建移到开发者单独范畴之外.迄今为止,知识工作单位的档案:文件,电子表格,甲板。甲板。",
+      "en": "Code moves solution-building outside the realm of developers alone. To date, the unit of knowledge work has been the file: the document, the spreadsheet, the deck."
+    },
+    {
+      "paragraphId": "p23",
+      "zh": "FinOps for AI是管理AI支出并优化其商业价值的共享学科.我们致力于使各组织能够充分利用其大赦国际的开支,还有,今天,我们...我们正在引入新的能力 通过365号智能体,Insights和微软Copilot帮助完成这项工作.Agent 365的成本管理正在扩展,超越 Cowork and Work IQ API, 包括代码和Copilot管理运行时间,在微软Copilot工作室建造的代理商的支持下,计划于10月投入使用。管理人员可使用API, 大规模管理开支政策;将终端用户的路由信用请求纳入现有核准和自动化工作流程;并设定哪些模式家庭可供不同用户群体使用——这些设置也塑造了Model Auto可以选择哪些模式家庭.企业领导和管理人员可以了解哪些合作任务正在产生最强的成果,并确定在何处持续,扩展或优化使用。",
+      "en": "FinOps for AI is a shared discipline for managing AI spend and optimizing it for business value. We are committed to enabling organizations to make the most of their AI spend, and, today, we are introducing new capabilities across Agent 365, Insights and Microsoft Copilot to help do that."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "de64a29c664f5a67d0c29fdb1922e2a7b6c0657034599862a480e5c39bc38617"
+}

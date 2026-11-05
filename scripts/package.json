@@ -1,0 +1,9 @@
+{
+  "name": "org-observer-content",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "defuddle": "0.19.6",
+    "jsdom": "26.1.0"
+  }
+}

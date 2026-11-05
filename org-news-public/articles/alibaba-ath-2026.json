@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "alibaba-ath-2026",
+  "url": "https://www.alibabacloud.com/en/press-room/alibaba-positions-for-accelerated-ai-growth-in-sec",
+  "sourceTitle": "阿里巴巴披露 ATH 事业群整合：将核心 AI 团队与产品纳入统一组织",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:45:22.444595+00:00",
+  "fetchedAt": "2026-11-05T11:28:16.767235+00:00",
+  "finalURL": "https://www.alibabacloud.com/en/press-room/alibaba-positions-for-accelerated-ai-growth-in-sec",
+  "language": "en",
+  "originalTitle": "Alibaba Positions for Accelerated AI Growth in Second Half of 2026",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Organizational alignment, model advancements and global infrastructure expansion support responsible and scalable growth",
+      "id": "p1",
+      "zh": "组织调整、示范性进步和全球基础设施扩展支持 负责任和可扩展的增长",
+      "en": "Organizational alignment, model advancements and global infrastructure expansion support responsible and scalable growth"
+    },
+    {
+      "kind": "paragraph",
+      "text": "HANGZHOU, China, June 30, 2026 – Alibaba today announced major milestones from the first half of 2026, reflecting continued progress in its AI strategy and reinforcing the foundation for sustainable growth in the evolving AI landscape. As enterprises move from early-stage experimentation toward broader AI adoption, Alibaba has aligned its core AI operations, introduced updated models and expanded its global infrastructure. Alibaba Cloud now operates 105 availability zones across 32 regions, supporting customers with scalable and reliable AI and cloud services worldwide. With full-stack capabilities spanning proprietary chips, cloud infrastructure, foundation models and applications, Alibaba is strategically positioned to lead in the next phase of AI adoption.",
+      "id": "p2",
+      "zh": "韩卓,中国6月30日 (中文(简体) ).2026年 — 阿里巴巴今天宣布了2026年上半年的重大里程碑,反映其AI战略的持续进展,并在不断变化的AI格局中加强可持续增长的基础。随着企业从早期实验转向更广泛的AI收养,阿里巴巴调整了核心AI操作,引进了最新的模型并扩大了其全球基础设施。Alibaba Cloud目前运营着32个地区的105个供应区,向世界各地的客户提供可扩展和可靠的人工智能和云服务。拥有跨越专利芯片的全存储能力,云基础设施,基础模型和应用,阿里巴巴在下一阶段AI的通过中处于领先的战略地位.",
+      "en": "HANGZHOU, China, June 30, 2026 – Alibaba today announced major milestones from the first half of 2026, reflecting continued progress in its AI strategy and reinforcing the foundation for sustainable growth in the evolving AI landscape. As enterprises move from early-stage experimentation toward broader AI adoption, Alibaba has aligned its core AI operations, introduced updated models and expanded its global infrastructure. Alibaba Cloud now operates 105 availability zones across 32 regions, supporting customers with scalable and reliable AI and cloud services worldwide. With full-stack capabilities spanning proprietary chips, cloud infrastructure, foundation models and applications, Alibaba is strategically positioned to lead in the next phase of AI adoption."
+    },
+    {
+      "kind": "heading",
+      "text": "Rebuilding Around AI: Alibaba Token Hub",
+      "id": "p3",
+      "zh": "在AI周围重建:阿里巴巴·托肯枢纽",
+      "en": "Rebuilding Around AI: Alibaba Token Hub"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In March, Alibaba established the Alibaba Token Hub (ATH) Business Group under Chief Executive Officer Eddie Wu, unifying its Tongyi Laboratory, MaaS (Model-as-a-Service) Business Line, Qwen Business Unit, Wukong Business Unit and AI Innovation Business Unit. As a move to bring its core AI teams and products together under one umbrella, ATH is organized around a single organizing mission: to create, deliver, and apply tokens.",
+      "id": "p4",
+      "zh": "3月时,阿里巴巴成立了阿里巴巴·托肯(英语:Alibaba Token Hub (ATH))商业集团,由首席执行官Eddie Wu,统一其通义实验室,MaaS(服务模式)业务线,Quen商业股,武康商务股和AI创新商务股.作为将核心AI团队和产品统一在一个伞下的行动,ATH组织围绕一个单一的组织任务:创建,交付,并使用各种迹象。",
+      "en": "In March, Alibaba established the Alibaba Token Hub (ATH) Business Group under Chief Executive Officer Eddie Wu, unifying its Tongyi Laboratory, MaaS (Model-as-a-Service) Business Line, Qwen Business Unit, Wukong Business Unit and AI Innovation Business Unit. As a move to bring its core AI teams and products together under one umbrella, ATH is organized around a single organizing mission: to create, deliver, and apply tokens."
+    },
+    {
+      "kind": "heading",
+      "text": "Advanced Frontier AI Models",
+      "id": "p5",
+      "zh": "高级前沿AI模型",
+      "en": "Advanced Frontier AI Models"
+    },
+    {
+      "kind": "paragraph",
+      "text": "• Qwen3.7-Max (May): A next-generation large language model with advanced agentic coding, complex reasoning and long-horizon task execution. According to Artificial Analysis, it outperforms leading Chinese models and matches top global systems. • HappyHorse 1.1 (June): A video generation model with improved motion realism, consistency and visual quality. Since the debut of HappyHorse 1.0 in April, it has been widely adopted across short-form content, advertising, brand marketing and gaming cinematics. • HappyOyster 1.0 (June): An interactive world model featuring enhanced environmental interaction, expanded controls and rewindable storylines, enabling faster production of interactive films, games and visual experiences.",
+      "id": "p6",
+      "zh": "• Quen3.7-Max(5月):下一代大语言模型 高级代理编码,复杂的推理和长视距任务执行.根据人工分析,它的表现超过了领先的中国模型,并匹配顶级全球系统.• HappyHorse 1.1(6月):一个视频生成模型 与运动现实主义改进,一致性和视觉质量。自从4月HappyHosse 1.0的首映后它在短文中被广泛采用,广告,品牌营销和游戏电影。• 快乐牡蛎1.0(6月):一种互动的世界模式,其特点是加强环境互动,扩大控制和可倒转的故事线,能够更快地制作交互式电影,游戏和视觉体验。",
+      "en": "• Qwen3.7-Max (May): A next-generation large language model with advanced agentic coding, complex reasoning and long-horizon task execution. According to Artificial Analysis, it outperforms leading Chinese models and matches top global systems. • HappyHorse 1.1 (June): A video generation model with improved motion realism, consistency and visual quality. Since the debut of HappyHorse 1.0 in April, it has been widely adopted across short-form content, advertising, brand marketing and gaming cinematics. • HappyOyster 1.0 (June): An interactive world model featuring enhanced environmental interaction, expanded controls and rewindable storylines, enabling faster production of interactive films, games and visual experiences."
+    },
+    {
+      "kind": "heading",
+      "text": "Expanding the Qwen Ecosystem",
+      "id": "p7",
+      "zh": "扩大Quen生态系统",
+      "en": "Expanding the Qwen Ecosystem"
+    },
+    {
+      "kind": "paragraph",
+      "text": "• Qwen App: Upgraded in January, the consumer AI assistant integrates services across Taobao, Alipay, Fliggy, and Amap into a unified conversational interface, enabling seamless task execution across shopping, payments, travel and navigation. • Qwen Glasses: Unveiled at MWC Barcelona, it offers real-time translation, HD capture, transcription, visual recognition and payments. In China, users can order food and hail rides via voice commands. • Wukong Platform: Introduced in March, this enterprise-grade agentic platform supports complex, multi-step workflows and serves as Alibaba’s primary solution for autonomous enterprise operations.",
+      "id": "p8",
+      "zh": "• Quen App:1月升级,消费者AI助理整合了整个桃宝的服务,阿里帕伊,我叫艾丽帕伊 Alipay,弗莱吉,和阿玛普进入一个统一的谈话界面,能够无缝地完成整个购物任务,支付额,旅行和导航。• Quen眼镜:在巴塞罗那MWC未见消息,它提供实时翻译,HD捕捉,转录,视觉识别和支付。在中国用户可以通过语音命令订购食物和冰雹骑行.• 武功平台:3月份介绍的,这个企业级代理平台支持复杂,多步骤工作流程,并作为阿里巴巴自主企业业务的主要解决方案。",
+      "en": "• Qwen App: Upgraded in January, the consumer AI assistant integrates services across Taobao, Alipay, Fliggy, and Amap into a unified conversational interface, enabling seamless task execution across shopping, payments, travel and navigation. • Qwen Glasses: Unveiled at MWC Barcelona, it offers real-time translation, HD capture, transcription, visual recognition and payments. In China, users can order food and hail rides via voice commands. • Wukong Platform: Introduced in March, this enterprise-grade agentic platform supports complex, multi-step workflows and serves as Alibaba’s primary solution for autonomous enterprise operations."
+    },
+    {
+      "kind": "heading",
+      "text": "Scaling Global AI Infrastructure",
+      "id": "p9",
+      "zh": "扩大全球AI基础设施",
+      "en": "Scaling Global AI Infrastructure"
+    },
+    {
+      "kind": "paragraph",
+      "text": "As part of its US$53 billion AI infrastructure commitment, Alibaba expanded its global cloud footprint with new data centers in Japan, Malaysia, France and Mexico. This brings Alibaba Cloud to 105 availability zones across 32 regions. The new data centers deliver a comprehensive suite of enterprise-grade cloud computing services, providing a secure, scalable and robust cloud and AI infrastructure to support customers worldwide in their digital innovation journeys. By prioritizing strict data privacy and sovereignty, the infrastructure adheres to local regulatory frameworks and standards regarding cybersecurity, resilience and data governance.",
+      "id": "p10",
+      "zh": "作为其530亿美元AI基础设施承诺的一部分,阿里巴巴在日本建立了新的数据中心,扩大了其全球云足迹,马来西亚法国和墨西哥。这使得阿里巴巴云在32个区域达到105个可用区.新数据中心提供一套企业级云计算服务,提供安全的,具有可扩展性和强力的云体和人工智能基础设施,以支持世界各地的客户进行数字创新旅程。通过将严格的数据隐私和主权列为优先事项,基础设施遵守关于网络安全的地方监管框架和标准,复原力和数据治理。",
+      "en": "As part of its US$53 billion AI infrastructure commitment, Alibaba expanded its global cloud footprint with new data centers in Japan, Malaysia, France and Mexico. This brings Alibaba Cloud to 105 availability zones across 32 regions. The new data centers deliver a comprehensive suite of enterprise-grade cloud computing services, providing a secure, scalable and robust cloud and AI infrastructure to support customers worldwide in their digital innovation journeys. By prioritizing strict data privacy and sovereignty, the infrastructure adheres to local regulatory frameworks and standards regarding cybersecurity, resilience and data governance."
+    },
+    {
+      "kind": "heading",
+      "text": "Driving Impact in Healthcare and Agriculture",
+      "id": "p11",
+      "zh": "保健和农业的驱动力影响",
+      "en": "Driving Impact in Healthcare and Agriculture"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Alibaba is advancing medical AI through making diagnostics more reliable, affordable, and universally accessible. In early 2026, Alibaba DAMO Academy launched two AI-powered screening tools: MAOSS for early detection of fatty liver disease, and COCA for colorectal cancer screening – both achieving high diagnostic accuracy. In addition, Alibaba is driving intelligent farming in partnership with customers. Muyuan Group, a global leader in livestock farming, has partnered with Alibaba Cloud to build an intelligent swine-farming AI model, leveraging Alibaba’s Qwen LLM and advanced computing capabilities. This partnership aims to accelerate AI applications across key operational areas, including feed nutrition, breeding stock improvement, and livestock management. These advancements reflect Alibaba’s broader commitment to applying AI at scale across industries, delivering tangible value to enterprises and consumers alike. Looking ahead, the company will continue to build on its first-half momentum to accelerate innovation, expand global reach, and unlock the next wave of AI-driven growth.",
+      "id": "p12",
+      "zh": "阿里巴巴通过让诊断更加可靠来推进医学AI,买得起的,并且可以普遍获得。在2026年初,Alibaba DAMO Academy推出了两个人工智能动力筛选工具:早期发现脂肪肝病的MAOSS,以及子宫颈癌筛查的COCA——两者都实现了高诊断精度.临Τ阿里巴巴正与顾客合作驾驶智能农作.慕容集团,在畜牧业方面居全球领先地位,曾与阿里巴巴·云合作打造智能猪养殖AI模型,利用阿里巴巴的Quen LLM和先进的计算能力.这一伙伴关系旨在加速AI在关键业务领域的应用,包括饲料营养,繁殖种群改良,和牲畜管理。这些进步反映了阿里巴巴对在工业中大规模应用AI的广泛承诺,为企业和消费者提供有形价值。展望未来,公司将继续发展其上半年的势头,以加速创新,扩大全球范围,并解锁下一波AI驱动的增长.",
+      "en": "Alibaba is advancing medical AI through making diagnostics more reliable, affordable, and universally accessible. In early 2026, Alibaba DAMO Academy launched two AI-powered screening tools: MAOSS for early detection of fatty liver disease, and COCA for colorectal cancer screening – both achieving high diagnostic accuracy. In addition, Alibaba is driving intelligent farming in partnership with customers. Muyuan Group, a global leader in livestock farming, has partnered with Alibaba Cloud to build an intelligent swine-farming AI model, leveraging Alibaba’s Qwen LLM and advanced computing capabilities. This partnership aims to accelerate AI applications across key operational areas, including feed nutrition, breeding stock improvement, and livestock management. These advancements reflect Alibaba’s broader commitment to applying AI at scale across industries, delivering tangible value to enterprises and consumers alike. Looking ahead, the company will continue to build on its first-half momentum to accelerate innovation, expand global reach, and unlock the next wave of AI-driven growth."
+    },
+    {
+      "kind": "heading",
+      "text": "About Alibaba Group",
+      "id": "p13",
+      "zh": "关于阿里巴巴集团",
+      "en": "About Alibaba Group"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Alibaba Group is a global technology company focused on AI + Cloud and consumption. We provide the technology infrastructure and marketing reach to help merchants, brands, retailers and other businesses to engage with their users and customers and operate efficiently. We empower consumers and enterprises with our full-stack AI capabilities and services. Our AI technology based on Qwen (Chinese: Qianwen), a family of large language and multimodal models, powers the intelligence behind our services across enterprise solutions, e-commerce and other Internet platforms.",
+      "id": "p14",
+      "zh": "阿里巴巴集团是一家专注于AI+云和消费的全球技术公司.我们提供技术基础设施和营销范围 来帮助商人,品牌,零售商和其他企业与其用户和客户进行接触并高效运作。我们赋予消费者和企业充分的能力和服务。我们基于Quen的AI技术(中文:⁇ 文,由大型语言和多式联运模式组成的家庭,通过企业解决方案 授权我们服务背后的情报电子商务及其他互联网平台.",
+      "en": "Alibaba Group is a global technology company focused on AI + Cloud and consumption. We provide the technology infrastructure and marketing reach to help merchants, brands, retailers and other businesses to engage with their users and customers and operate efficiently. We empower consumers and enterprises with our full-stack AI capabilities and services. Our AI technology based on Qwen (Chinese: Qianwen), a family of large language and multimodal models, powers the intelligence behind our services across enterprise solutions, e-commerce and other Internet platforms."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "组织调整、示范性进步和全球基础设施扩展支持 负责任和可扩展的增长",
+      "en": "Organizational alignment, model advancements and global infrastructure expansion support responsible and scalable growth"
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "韩卓,中国6月30日 (中文(简体) ).2026年 — 阿里巴巴今天宣布了2026年上半年的重大里程碑,反映其AI战略的持续进展,并在不断变化的AI格局中加强可持续增长的基础。随着企业从早期实验转向更广泛的AI收养,阿里巴巴调整了核心AI操作,引进了最新的模型并扩大了其全球基础设施。",
+      "en": "HANGZHOU, China, June 30, 2026 – Alibaba today announced major milestones from the first half of 2026, reflecting continued progress in its AI strategy and reinforcing the foundation for sustainable growth in the evolving AI landscape. As enterprises move from early-stage experimentation toward broader AI adoption, Alibaba has aligned its core AI operations, introduced updated models and expanded its global infrastructure."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "3月时,阿里巴巴成立了阿里巴巴·托肯(英语:Alibaba Token Hub (ATH))商业集团,由首席执行官Eddie Wu,统一其通义实验室,MaaS(服务模式)业务线,Quen商业股,武康商务股和AI创新商务股.作为将核心AI团队和产品统一在一个伞下的行动,ATH组织围绕一个单一的组织任务:创建,交付,并使用各种迹象。",
+      "en": "In March, Alibaba established the Alibaba Token Hub (ATH) Business Group under Chief Executive Officer Eddie Wu, unifying its Tongyi Laboratory, MaaS (Model-as-a-Service) Business Line, Qwen Business Unit, Wukong Business Unit and AI Innovation Business Unit. As a move to bring its core AI teams and products together under one umbrella, ATH is organized around a single organizing mission: to create, deliver, and apply tokens."
+    },
+    {
+      "paragraphId": "p12",
+      "zh": "阿里巴巴通过让诊断更加可靠来推进医学AI,买得起的,并且可以普遍获得。在2026年初,Alibaba DAMO Academy推出了两个人工智能动力筛选工具:早期发现脂肪肝病的MAOSS,以及子宫颈癌筛查的COCA——两者都实现了高诊断精度.临Τ阿里巴巴正与顾客合作驾驶智能农作.慕容集团,在畜牧业方面居全球领先地位,曾与阿里巴巴·云合作打造智能猪养殖AI模型,利用阿里巴巴的Quen LLM和先进的计算能力.这一伙伴关系旨在加速AI在关键业务领域的应用,包括饲料营养,繁殖种群改良,和牲畜管理。",
+      "en": "Alibaba is advancing medical AI through making diagnostics more reliable, affordable, and universally accessible. In early 2026, Alibaba DAMO Academy launched two AI-powered screening tools: MAOSS for early detection of fatty liver disease, and COCA for colorectal cancer screening – both achieving high diagnostic accuracy."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "b41d1d2864744b8b60ae69e94fc5e065616468b55a74105d6ce898b04bd3bd60"
+}

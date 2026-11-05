@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-3f1df7d1e497a618a33d",
+  "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+  "sourceTitle": "Microsoft 365 and LinkedIn leadership update",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:48:21.790039+00:00",
+  "fetchedAt": "2026-11-05T11:28:58.525650+00:00",
+  "finalURL": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+  "language": "en",
+  "originalTitle": "Microsoft 365 and LinkedIn leadership update",
+  "author": "Microsoft Corporate Blogs",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning.",
+      "id": "p1",
+      "zh": "萨特雅·纳德拉主席兼首席执行官,和瑞安罗斯兰斯基,LinkedIn和微软365的执行副总裁,今天早上与微软和LinkedIn公司员工分享了以下通信。",
+      "en": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning."
+    },
+    {
+      "kind": "heading",
+      "text": "SATYA NADELLA MESSAGE",
+      "id": "p2",
+      "zh": "萨蒂娅·纳德拉小姐",
+      "en": "SATYA NADELLA MESSAGE"
+    },
+    {
+      "kind": "paragraph",
+      "text": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky has decided to leave Microsoft and embark on his next chapter.",
+      "id": "p3",
+      "zh": "在LinkedIn和微软公司工作近18年后,瑞安·罗斯兰斯基决定离开微软,开始他的下一章.",
+      "en": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky has decided to leave Microsoft and embark on his next chapter."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As Ryan and I have been discussing our roadmap and work ahead, we felt this was the right moment for this change. Ryan will stay through the end of the calendar year as an advisor to me and will support on the transition.",
+      "id": "p4",
+      "zh": "莱恩和我一直在讨论我们的路线图 和今后的工作,我们觉得现在正是改变的时刻。瑞安会作为我的顾问在日历年终 支持过渡",
+      "en": "As Ryan and I have been discussing our roadmap and work ahead, we felt this was the right moment for this change. Ryan will stay through the end of the calendar year as an advisor to me and will support on the transition."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ryan leaves the organization in a strong position. With Copilot, we are executing rapidly against our vision to build a new OS for work that spans every model, every form factor, and every task, with Office fully embedded in Copilot and vice versa! Over the past year, Ryan’s team has done critical work bringing together the product, engineering, and design foundations that have made this next phase possible. Last week’s launch was an important milestone in that journey, and the strong response from customers, partners, and the broader ecosystem reinforced both how far we’ve come and how much opportunity remains ahead.",
+      "id": "p5",
+      "zh": "瑞安让组织处于很强的地位.与Copilot,我们正在快速执行 我们的愿景 建立一个新的操作系统 工作跨度 每一个模式,每一个形式因素,和一切任务,办公室完全嵌入了Copilot,反之亦然!在过去的一年里,瑞安的团队做了关键的工作 将产品集中起来,工学,并设计使下一阶段成为可能的基础。上星期的发射是这次旅程中的一个重要里程碑,以及顾客的强烈反应,合作伙伴,以及未来有多少机会。",
+      "en": "Ryan leaves the organization in a strong position. With Copilot, we are executing rapidly against our vision to build a new OS for work that spans every model, every form factor, and every task, with Office fully embedded in Copilot and vice versa! Over the past year, Ryan’s team has done critical work bringing together the product, engineering, and design foundations that have made this next phase possible. Last week’s launch was an important milestone in that journey, and the strong response from customers, partners, and the broader ecosystem reinforced both how far we’ve come and how much opportunity remains ahead."
+    },
+    {
+      "kind": "paragraph",
+      "text": "At LinkedIn, we remain focused on our core vision of creating economic opportunity for every member of the global workforce, helping our 1.3 billion members access the knowledge, insights, and opportunities they need to navigate rapidly changing professional and labor markets.",
+      "id": "p6",
+      "zh": "在 LinkedIn 中,我们仍然专注于我们的核心愿景,即为全球劳动力的每一个成员创造经济机会,帮助我们13亿会员获得知识,洞察力,他们需要掌握迅速变化的专业市场和劳动力市场。",
+      "en": "At LinkedIn, we remain focused on our core vision of creating economic opportunity for every member of the global workforce, helping our 1.3 billion members access the knowledge, insights, and opportunities they need to navigate rapidly changing professional and labor markets."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Effective today we will make the following changes:",
+      "id": "p7",
+      "zh": "从今天起,我们将作出以下改变:",
+      "en": "Effective today we will make the following changes:"
+    },
+    {
+      "kind": "list",
+      "text": "Sumit Chauhan and Lan Ye will report to Charles Lamanna.",
+      "id": "p8",
+      "zh": "苏密特·乔汉和兰叶会向查尔斯·拉曼纳报告.",
+      "en": "Sumit Chauhan and Lan Ye will report to Charles Lamanna."
+    },
+    {
+      "kind": "list",
+      "text": "Jon Friedman will report to Jacob Andreou.",
+      "id": "p9",
+      "zh": "乔恩·弗里德曼将向雅各·安德烈欧报告.",
+      "en": "Jon Friedman will report to Jacob Andreou."
+    },
+    {
+      "kind": "list",
+      "text": "Dan Shapero will continue as CEO of LinkedIn and Mohak Shroff will continue in his role, both reporting to me.",
+      "id": "p10",
+      "zh": "丹·沙佩罗将继续担任LinkedIn的CEO 莫哈克·舍罗夫继续他的角色,都向我汇报了",
+      "en": "Dan Shapero will continue as CEO of LinkedIn and Mohak Shroff will continue in his role, both reporting to me."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Over his nearly two decades at Microsoft, Ryan has helped shape how people around the world find opportunity, build their careers, and get their work done. I’ve always appreciated his clarity of thinking and I’m deeply grateful for everything Ryan has built, for the leaders and teams he has developed, and for his friendship and counsel.",
+      "id": "p11",
+      "zh": "在他在微软的近20年里瑞安帮助塑造了世界各地人们如何寻找机会,培养他们的事业,并完成他们的工作。我非常感激他所创造的一切,为他所培养的领导人和团队,以及他的友谊和忠告。",
+      "en": "Over his nearly two decades at Microsoft, Ryan has helped shape how people around the world find opportunity, build their careers, and get their work done. I’ve always appreciated his clarity of thinking and I’m deeply grateful for everything Ryan has built, for the leaders and teams he has developed, and for his friendship and counsel."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Please join me in thanking Ryan for his extraordinary contributions to LinkedIn and Microsoft, and in wishing him the very best in what comes next.",
+      "id": "p12",
+      "zh": "请与我一起感谢莱恩对LinkedIn和微软的非凡贡献,并祝愿他在接下来的事业中一切顺利。",
+      "en": "Please join me in thanking Ryan for his extraordinary contributions to LinkedIn and Microsoft, and in wishing him the very best in what comes next."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Satya",
+      "id": "p13",
+      "zh": "萨特雅",
+      "en": "Satya"
+    },
+    {
+      "kind": "heading",
+      "text": "RYAN ROSLANSKY MESSAGE",
+      "id": "p14",
+      "zh": "瑞安·罗斯兰斯基(英语:Ryan Roslansky Message)",
+      "en": "RYAN ROSLANSKY MESSAGE"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Team,",
+      "id": "p15",
+      "zh": "团队,",
+      "en": "Team,"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In 1996, as a college freshman, I taught myself to code so a few friends and I could help other students find a place to live around campus. I didn’t know much. I did know the internet was about to change how people found things, and I wanted to be as close to that as possible.",
+      "id": "p16",
+      "zh": "1996年,农历甲A年,农历甲A年.作为大学新生,我教自己编个密码 好让几个朋友 帮其他学生找地方住到校园里我对此事所知不多。我确实知道互联网会改变人们的发现方式,我想尽可能接近这一点。",
+      "en": "In 1996, as a college freshman, I taught myself to code so a few friends and I could help other students find a place to live around campus. I didn’t know much. I did know the internet was about to change how people found things, and I wanted to be as close to that as possible."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In 2009, Jeff Weiner made me his first hire at LinkedIn. I’ve spent the nearly 18 years since working on a much bigger version of that same idea: helping people find opportunity, and then helping them do great work once they have it.",
+      "id": "p17",
+      "zh": "2009年,农历甲A年.Jeff Weiner让我在LinkedIn工作我花了近18年时间来研究一个更大的相同想法:帮助人们找到机会,然后帮助他们做伟大的工作 一旦他们得到了它。",
+      "en": "In 2009, Jeff Weiner made me his first hire at LinkedIn. I’ve spent the nearly 18 years since working on a much bigger version of that same idea: helping people find opportunity, and then helping them do great work once they have it."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This has (obviously) been the best professional experience of my life.",
+      "id": "p18",
+      "zh": "这(显然)是我一生中最好的专业经验。",
+      "en": "This has (obviously) been the best professional experience of my life."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As a product manager, I got to build dozens of features that are still around today (some good, some not so good!). When I became CEO in 2020, the world was months into a pandemic that changed what work even meant. Nobody hands you a playbook for that. This team wrote one anyway. Since then, LinkedIn has passed a billion members and nearly tripled its business, and every bit of that belongs to the people who built it.",
+      "id": "p19",
+      "zh": "作为一名产品经理,我得打造数十个今天仍在周围的特征(有些不错,有些不怎么好!)当我在2020年成为CEO时,世界数月后开始流行,这改变了工作的意义。没人会帮你拿一本游戏本这个团队写了一个反正。从那时起,LinkedIn已经通过十亿会员 并且几乎增加了两倍的业务,并且这些都属于建造它的人。",
+      "en": "As a product manager, I got to build dozens of features that are still around today (some good, some not so good!). When I became CEO in 2020, the world was months into a pandemic that changed what work even meant. Nobody hands you a playbook for that. This team wrote one anyway. Since then, LinkedIn has passed a billion members and nearly tripled its business, and every bit of that belongs to the people who built it."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Last year, Satya asked me to help build the future of M365. Once again, the old rules didn’t apply. AI was rapidly changing how professionals work, and the world’s largest productivity suite needed to lead the way. That meant figuring out what Copilot, and the future of work, should look like as one ecosystem.",
+      "id": "p20",
+      "zh": "去年,我们...萨特雅要我帮助建设M365的未来.再说一次,旧规则并不适用。大赦国际正在迅速改变专业人员的工作方式,和世界上最大的生产力组合 需要引领道路。那意味着找出什么是Copilot,和工作前途,应该看起来像一个生态系统。",
+      "en": "Last year, Satya asked me to help build the future of M365. Once again, the old rules didn’t apply. AI was rapidly changing how professionals work, and the world’s largest productivity suite needed to lead the way. That meant figuring out what Copilot, and the future of work, should look like as one ecosystem."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We still have a ways to go, but the progress over the past year has been inspiring to watch. A lot of talented people set aside their own roadmaps to make that happen. Thank you. I know it wasn’t easy.",
+      "id": "p21",
+      "zh": "我们还有一条路要走,但过去一年的进展令人振奋地看到。许多有才华的人为了实现这个目标而搁置了自己的路线图.谢谢。我知道这并不容易。",
+      "en": "We still have a ways to go, but the progress over the past year has been inspiring to watch. A lot of talented people set aside their own roadmaps to make that happen. Thank you. I know it wasn’t easy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Satya, thank you. When LinkedIn joined Microsoft, you gave us room to build, and then trusted many of us with a lot more. I’ve learned more from you than I can fit in an email, and I’m grateful for the friendship that came with it.",
+      "id": "p22",
+      "zh": "萨特雅,谢谢当LinkedIn加入微软时,你给了我们空间建造,然后就更信任我们中的许多人我从你身上学到的比邮件还多,感谢大家的友谊,",
+      "en": "Satya, thank you. When LinkedIn joined Microsoft, you gave us room to build, and then trusted many of us with a lot more. I’ve learned more from you than I can fit in an email, and I’m grateful for the friendship that came with it."
+    },
+    {
+      "kind": "paragraph",
+      "text": "All of which made this a hard decision. I know what it would take for me to lead the next phase of this work well: being in Redmond full time, every day. But my life and my family’s life are here in the Bay Area. My wife Leigh gives her time to more local organizations than I can keep track of. Our youngest daughter just started high school, and our dog Buddy remains deeply committed to the trails on the Peninsula!",
+      "id": "p23",
+      "zh": "这一切使这个决定变得艰难.我知道我需要什么才能很好地领导这项工作的下一阶段:在雷蒙德全职,每天都这样但我的生活和家人的生活都在这里湾区。我妻子莉给她的时间 更多的地方组织,我无法追踪。我们小女儿刚上高中我们的狗巴迪仍然深深的 致力于半岛上的足迹!",
+      "en": "All of which made this a hard decision. I know what it would take for me to lead the next phase of this work well: being in Redmond full time, every day. But my life and my family’s life are here in the Bay Area. My wife Leigh gives her time to more local organizations than I can keep track of. Our youngest daughter just started high school, and our dog Buddy remains deeply committed to the trails on the Peninsula!"
+    },
+    {
+      "kind": "paragraph",
+      "text": "I thought about this for a long time. It’s the right call. The work now goes to leaders who are set up to take it further. I can’t wait to see what they do with it.",
+      "id": "p24",
+      "zh": "我考虑过很久了这是正确的决定。这项工作现在要交给为进一步开展这项工作而成立的领导人。我迫不及待想看看他们拿它做什么。",
+      "en": "I thought about this for a long time. It’s the right call. The work now goes to leaders who are set up to take it further. I can’t wait to see what they do with it."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Over the years, people have asked me what’s kept me so energized and motivated in this work. I think the answer is that I got to spend my career working where doing good and doing well are the same thing. In technology, that’s the best place to operate.",
+      "id": "p25",
+      "zh": "多年来,人们问我,是什么让我在这项工作中充满活力和动力。我认为,答案是,我必须花我的职业生涯 在做好事和做好事是一回事。在技术方面,这是最佳的经营场所。",
+      "en": "Over the years, people have asked me what’s kept me so energized and motivated in this work. I think the answer is that I got to spend my career working where doing good and doing well are the same thing. In technology, that’s the best place to operate."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Most companies start by focusing on doing well, so doing good becomes a compromise. It’s the last slide of the PowerPoint, or a separate.org. But when doing good is built into the product itself, it becomes a real competitive advantage. When we build valuable products, people find jobs, they hire, they learn skills, they start companies, they run companies. That creates value for members, customers and the world. And for our business too.",
+      "id": "p26",
+      "zh": "大部分公司从注重做好事开始所以做好事就是一种妥协。这是PowerPoint的最后一张幻灯片,或者一个单独的. org.但是,当做好事 被构建在产品本身,成为真正的竞争优势。当我们建造有价值的产品时,人们找工作,他们雇用,他们学习技能,他们创办公司,他们经营公司。这为成员创造了价值,顾客和世界。也是为了我们的事",
+      "en": "Most companies start by focusing on doing well, so doing good becomes a compromise. It’s the last slide of the PowerPoint, or a separate.org. But when doing good is built into the product itself, it becomes a real competitive advantage. When we build valuable products, people find jobs, they hire, they learn skills, they start companies, they run companies. That creates value for members, customers and the world. And for our business too."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Not many companies get to work this way, and not many people get the chance to build something like it. We do.",
+      "id": "p27",
+      "zh": "没有多少公司可以这样工作,很少有人有机会造出类似的东西。没错",
+      "en": "Not many companies get to work this way, and not many people get the chance to build something like it. We do."
+    },
+    {
+      "kind": "paragraph",
+      "text": "That matters more now than it ever has. Technology will continue to touch every job on the planet, and the people building it will decide what kind of world it helps create. I can’t think of a better group to figure that out than the people reading this note.",
+      "id": "p28",
+      "zh": "这比以前更重要了技术将继续触及地球上的每一项工作,建造它的人会决定它能帮助创造什么样的世界。我想不出比阅读这篇留言的人更好的团体。",
+      "en": "That matters more now than it ever has. Technology will continue to touch every job on the planet, and the people building it will decide what kind of world it helps create. I can’t think of a better group to figure that out than the people reading this note."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Thank you for the best 18 years I could have asked for.",
+      "id": "p29",
+      "zh": "谢谢你给我18年的好机会",
+      "en": "Thank you for the best 18 years I could have asked for."
+    },
+    {
+      "kind": "paragraph",
+      "text": "RR",
+      "id": "p30",
+      "zh": "资源",
+      "en": "RR"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "萨特雅·纳德拉主席兼首席执行官,和瑞安罗斯兰斯基,LinkedIn和微软365的执行副总裁,今天早上与微软和LinkedIn公司员工分享了以下通信。",
+      "en": "Satya Nadella, Chairman and CEO, and Ryan Roslansky, Executive Vice President of LinkedIn and Microsoft 365, shared the below communications with Microsoft and LinkedIn employees this morning."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "在LinkedIn和微软公司工作近18年后,瑞安·罗斯兰斯基决定离开微软,开始他的下一章.",
+      "en": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky has decided to leave Microsoft and embark on his next chapter."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "在 LinkedIn 中,我们仍然专注于我们的核心愿景,即为全球劳动力的每一个成员创造经济机会,帮助我们13亿会员获得知识,洞察力,他们需要掌握迅速变化的专业市场和劳动力市场。",
+      "en": "At LinkedIn, we remain focused on our core vision of creating economic opportunity for every member of the global workforce, helping our 1.3 billion members access the knowledge, insights, and opportunities they need to navigate rapidly changing professional and labor markets."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "丹·沙佩罗将继续担任LinkedIn的CEO 莫哈克·舍罗夫继续他的角色,都向我汇报了",
+      "en": "Dan Shapero will continue as CEO of LinkedIn and Mohak Shroff will continue in his role, both reporting to me."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "ad6e530a54f896b66da965efae6f145ddf435558ef58d4e61c54b364a1603a85"
+}

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-8d45898e533e591d4241",
+  "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+  "sourceTitle": "Higgsfield takes AI video from 1 minute to over 10",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:17.618993+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:17.894511+00:00"
+}

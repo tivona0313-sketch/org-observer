@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-130b99afb50dd1d71a0d",
+  "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+  "sourceTitle": "Advancing digital sovereignty with greater control and choice",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:48:04.005562+00:00",
+  "fetchedAt": "2026-11-05T11:28:51.461030+00:00",
+  "finalURL": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+  "language": "en",
+  "originalTitle": "Advancing digital sovereignty with greater control and choice",
+  "author": "Douglas Phillips",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require.",
+      "id": "p1",
+      "zh": "在我和政府领导人的谈话中关键基础设施和受管制工业,一项优先工作始终处于首位:将技术投入到它们最重要的系统上,同时维持这些系统所需的控制。",
+      "en": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential operations. Organizations are considering more than where data resides. They also seek to understand who can access and operate their systems, how sensitive digital assets remain protected, which technology dependencies matter most and whether critical services can continue as regulatory, geopolitical, security or network conditions change. Digital sovereignty should give organizations greater control and security over the technology they depend on, while continuing to innovate.",
+      "id": "p2",
+      "zh": "随着先进的云和人工智能能力进入公共服务领域,这一挑战变得越来越重要。管制程序和基本业务。各组织考虑的比数据所在的要多。他们还试图了解谁可以进入和操作他们的系统,如何保护敏感的数字资产,哪些技术依赖关系最为重要,关键服务是否能够继续作为监管服务,地缘政治,安全或网络条件发生变化。数字主权应使各组织对其依赖的技术有更大的控制和安全性,继续创新。",
+      "en": "This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential operations. Organizations are considering more than where data resides. They also seek to understand who can access and operate their systems, how sensitive digital assets remain protected, which technology dependencies matter most and whether critical services can continue as regulatory, geopolitical, security or network conditions change. Digital sovereignty should give organizations greater control and security over the technology they depend on, while continuing to innovate."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Last year, we introduced Microsoft Sovereign Cloud to give customers more choice in how they address these requirements. Since then, we have continued to turn our commitments into practical capabilities across public cloud and customer-operated environments, while expanding how we enable partners to address sovereignty requirements in their local markets. Today, we are sharing the next stage of that work.",
+      "id": "p3",
+      "zh": "去年,我们...我们引入了微软主权云 给客户更多的选择 他们如何满足这些要求。从那时起,我们继续将我们的承诺转化为实际能力,跨越公共云层和客户经营的环境,• 扩大我们如何使伙伴能够满足其当地市场的主权要求。今天,我们...我们正在分享下一阶段的工作。",
+      "en": "Last year, we introduced Microsoft Sovereign Cloud to give customers more choice in how they address these requirements. Since then, we have continued to turn our commitments into practical capabilities across public cloud and customer-operated environments, while expanding how we enable partners to address sovereignty requirements in their local markets. Today, we are sharing the next stage of that work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "YouTube Video",
+      "id": "p4",
+      "zh": "YouTube 视频",
+      "en": "YouTube Video"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Click here to load media",
+      "id": "p5",
+      "zh": "单击这里装入媒体",
+      "en": "Click here to load media"
+    },
+    {
+      "kind": "heading",
+      "text": "A continuum of control, built around the workload",
+      "id": "p6",
+      "zh": "不断的控制,围绕工作量编制",
+      "en": "A continuum of control, built around the workload"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our approach to digital sovereignty starts with the workload. Each workload carries different requirements for data, operations, technology dependencies, continuity and risk. Microsoft Sovereign Cloud is designed to make it easier for organizations to apply the appropriate level of control to each workload without forcing every application into the same deployment model.",
+      "id": "p7",
+      "zh": "我们处理数字主权的办法始于工作量。每项工作量对数据都有不同的要求,业务,技术依赖性,连续性和风险。微软主权云旨在方便各组织对每一工作量实行适当程度的控制,而不会迫使每个应用程序进入同样的部署模式。",
+      "en": "Our approach to digital sovereignty starts with the workload. Each workload carries different requirements for data, operations, technology dependencies, continuity and risk. Microsoft Sovereign Cloud is designed to make it easier for organizations to apply the appropriate level of control to each workload without forcing every application into the same deployment model."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Those needs can vary widely across organizations. A public-facing digital service may benefit from the scale and pace of innovation in the public cloud. A system supporting essential operations may need to continue running locally if connectivity is disrupted. An AI workload handling highly sensitive data may require models, data and processing to remain within a customer-controlled environment.",
+      "id": "p8",
+      "zh": "这些需要可能因组织而异。公众化的数字服务可能得益于公共云中创新的规模和速度。如果连接中断,支持必要业务的系统可能需要继续在当地运行。人工智能处理高度敏感数据的工作量可能需要模型,将数据与处理保持在客户控制的环境中。",
+      "en": "Those needs can vary widely across organizations. A public-facing digital service may benefit from the scale and pace of innovation in the public cloud. A system supporting essential operations may need to continue running locally if connectivity is disrupted. An AI workload handling highly sensitive data may require models, data and processing to remain within a customer-controlled environment."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Microsoft Sovereign Cloud is designed around this workload-based approach, providing a continuum of management, control and options across Sovereign Public Cloud, Sovereign Private Cloud and the Sovereign Partner Ecosystem. Organizations can apply the level of control appropriate to each workload while maintaining a consistent approach to governance and operations across their digital estate. Sovereign Public Cloud adds capabilities for workloads that require greater control and transparency while continuing to benefit from the scale and innovation of Azure.",
+      "id": "p9",
+      "zh": "微软\"主权云\"是围绕这种基于工作量的方法设计的,提供连续的管理,控制与选择 跨越主权公共云,主权私人云与主权伙伴生态系统.各组织可以对每项工作量实行适当的控制,同时对其数字产业的治理和业务采取一致的做法。主权公共云增加了工作量能力,这些工作量需要更大的控制和透明度,同时继续受益于Azure的规模和创新。",
+      "en": "Microsoft Sovereign Cloud is designed around this workload-based approach, providing a continuum of management, control and options across Sovereign Public Cloud, Sovereign Private Cloud and the Sovereign Partner Ecosystem. Organizations can apply the level of control appropriate to each workload while maintaining a consistent approach to governance and operations across their digital estate. Sovereign Public Cloud adds capabilities for workloads that require greater control and transparency while continuing to benefit from the scale and innovation of Azure."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sovereign Private Cloud extends cloud capabilities into customer-operated environments, including connected and disconnected operations. The Sovereign Partner Ecosystem broadens the continuum through independently operated environments, specialized partners, locally relevant expertise and technologies that support customers’ sovereignty requirements.",
+      "id": "p10",
+      "zh": "主权私人云将云能力延伸至客户操作的环境,包括连接和断开的操作。主权伙伴生态系统通过独立操作的环境扩大连续体,专业伙伴,支持客户主权要求的当地相关专门知识和技术。",
+      "en": "Sovereign Private Cloud extends cloud capabilities into customer-operated environments, including connected and disconnected operations. The Sovereign Partner Ecosystem broadens the continuum through independently operated environments, specialized partners, locally relevant expertise and technologies that support customers’ sovereignty requirements."
+    },
+    {
+      "kind": "paragraph",
+      "text": "These are not isolated destinations. Customers can combine public cloud, private cloud and partner capabilities across their digital estate, applying different levels of control to different workloads as their operating needs evolve.",
+      "id": "p11",
+      "zh": "这些不是孤立的目的地。顾客可以结合公共云私人云和伙伴能力跨越其数字产业,随着业务需求的发展,对不同的工作量实行不同程度的控制。",
+      "en": "These are not isolated destinations. Customers can combine public cloud, private cloud and partner capabilities across their digital estate, applying different levels of control to different workloads as their operating needs evolve."
+    },
+    {
+      "kind": "heading",
+      "text": "Making control more visible in Sovereign Public Cloud",
+      "id": "p12",
+      "zh": "让控制在主权公共云中更加明显",
+      "en": "Making control more visible in Sovereign Public Cloud"
+    },
+    {
+      "kind": "paragraph",
+      "text": "For many workloads, the public cloud provides a combination of scale, innovation, integrated security and compliance. Organizations can benefit from these capabilities while applying additional sovereignty controls for residency, confidentiality, operator access, policy and continuity. Our work in Sovereign Public Cloud makes these controls easier to understand, apply and demonstrate.",
+      "id": "p13",
+      "zh": "对于许多工作量,公众云提供了一种组合的尺度,创新,综合安全和遵守。各组织可以受益于这些能力,同时对居留地实施更多的主权控制,保密,操作员访问,政策和连续性。我们在\"主权公共云\"的工作 使这些控制更容易理解,应用和演示。",
+      "en": "For many workloads, the public cloud provides a combination of scale, innovation, integrated security and compliance. Organizations can benefit from these capabilities while applying additional sovereignty controls for residency, confidentiality, operator access, policy and continuity. Our work in Sovereign Public Cloud makes these controls easier to understand, apply and demonstrate."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sovereign Control Panel, entering public preview at Microsoft Ignite, brings these signals together in a unified Azure portal experience. It helps organizations understand their sovereignty posture, apply and manage controls, identify gaps and risks and take action to address them. It also supports business continuity readiness by helping customers understand workload dependencies and assess portability across operating environments when required.",
+      "id": "p14",
+      "zh": "主权控制小组,输入 Microsoft Ignite 的公开预览,在统一的Azure门户网站体验中把这些信号集中起来.它帮助各组织理解其主权姿态,应用和管理控制,查明差距和风险,并采取行动消除这些差距和风险。它还通过帮助客户了解工作量依赖性,并在必要时评估各业务环境中的可移动性,支持业务连续性准备。",
+      "en": "Sovereign Control Panel, entering public preview at Microsoft Ignite, brings these signals together in a unified Azure portal experience. It helps organizations understand their sovereignty posture, apply and manage controls, identify gaps and risks and take action to address them. It also supports business continuity readiness by helping customers understand workload dependencies and assess portability across operating environments when required."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This visibility complements controls across the operator-access lifecycle. Just-in-time Access and Customer Lockbox give customers additional control over access to their environments. For customers in the European Union (EU) and the European Free Trade Association (EFTA), we are rolling out Data Guardian, which adds European-resident oversight by a trusted EU partner for qualifying Microsoft engineer remote access to in-scope production systems. Production Touch Ledger, also launched with phased rollout in the EU and EFTA, creates tamper-evident records of that access and the actions performed.",
+      "id": "p15",
+      "zh": "这种能见度补充了整个操作员使用寿命周期的控制。即时访问和客户锁盒为客户提供了对其环境访问的额外控制.对于欧洲联盟(欧盟)和欧洲自由贸易联盟(欧贸联)的客户,我们正在推出数据卫报,它增加了欧洲居民的监督,由一个可信赖的欧盟伙伴负责,使微软工程师能够远程访问范围内生产系统。生产触摸仪,还在欧盟和欧洲自由贸易联盟分阶段推出,创造了篡改性的记录 访问和采取的行动。",
+      "en": "This visibility complements controls across the operator-access lifecycle. Just-in-time Access and Customer Lockbox give customers additional control over access to their environments. For customers in the European Union (EU) and the European Free Trade Association (EFTA), we are rolling out Data Guardian, which adds European-resident oversight by a trusted EU partner for qualifying Microsoft engineer remote access to in-scope production systems. Production Touch Ledger, also launched with phased rollout in the EU and EFTA, creates tamper-evident records of that access and the actions performed."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Azure Key Vault Managed Hardware Security Module (HSM) already gives customers dedicated, single-tenant protection and control over the encryption keys used by supported Azure services. Last year, we committed to extending that control beyond Microsoft infrastructure. External key management with Azure Managed HSM is now generally available, allowing customers to keep the root encryption key in hardware they own and operate on-premises or through a trusted third party. This gives organizations another option for workloads that require physical control of key hardware outside Microsoft infrastructure.",
+      "id": "p16",
+      "zh": "Azure Key Vault 管理硬件安全模块(HSM)已经给予客户专用的,单租户保护和控制被支持的Azure服务所使用的加密密钥.去年,我们...我们承诺将这种控制扩展到微软基础设施之外。Azure Managed HSM的外部关键管理现已普遍提供,允许客户将根加密密钥保存在他们拥有的硬件中,并在-premise上或通过信任的第三方进行操作.这为各组织提供了另一种工作量选择,这些工作量要求对微软基础设施之外的关键硬件进行实际控制。",
+      "en": "Azure Key Vault Managed Hardware Security Module (HSM) already gives customers dedicated, single-tenant protection and control over the encryption keys used by supported Azure services. Last year, we committed to extending that control beyond Microsoft infrastructure. External key management with Azure Managed HSM is now generally available, allowing customers to keep the root encryption key in hardware they own and operate on-premises or through a trusted third party. This gives organizations another option for workloads that require physical control of key hardware outside Microsoft infrastructure."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Azure confidential computing helps protect supported data while it is processed in a hardware-based and attested trusted execution environment. We are also increasing transparency into the technologies that underpin that trust. Azure Confidential Clean Rooms, now in limited preview, applies confidential computing to approved multiparty collaboration, allowing participants to analyze shared sensitive data while limiting broader exposure of the underlying information.",
+      "id": "p17",
+      "zh": "Azure 机密计算有助于保护支持的数据,同时它在基于硬件且经过验证的可信执行环境中进行处理.我们还正在增加支持这种信任的技术的透明度。阿苏尔保密清洁室,现在在有限的预览中,将保密计算适用于核准的多方合作,允许参与者分析共享的敏感数据,同时限制基础信息的广泛曝光.",
+      "en": "Azure confidential computing helps protect supported data while it is processed in a hardware-based and attested trusted execution environment. We are also increasing transparency into the technologies that underpin that trust. Azure Confidential Clean Rooms, now in limited preview, applies confidential computing to approved multiparty collaboration, allowing participants to analyze shared sensitive data while limiting broader exposure of the underlying information."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Together, these capabilities provide additional technical and operational controls that can support a broader digital sovereignty strategy aligned to an organization’s legal, policy, security, resilience and business requirements.",
+      "id": "p18",
+      "zh": "{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起 {\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起这些能力提供了额外的技术和业务控制,可以支持与一个组织的法律相一致的更广泛的数字主权战略,政策,保安人员,复原能力和业务要求。",
+      "en": "Together, these capabilities provide additional technical and operational controls that can support a broader digital sovereignty strategy aligned to an organization’s legal, policy, security, resilience and business requirements."
+    },
+    {
+      "kind": "heading",
+      "text": "Designing for resilience and operational independence",
+      "id": "p19",
+      "zh": "设计复原力和业务独立性",
+      "en": "Designing for resilience and operational independence"
+    },
+    {
+      "kind": "paragraph",
+      "text": "For some workloads, digital sovereignty also means maintaining critical operations as connectivity, geopolitical and operating conditions change. Resilience must be designed from the start so essential workloads can continue operating through disruption.",
+      "id": "p20",
+      "zh": "就一些工作量而言,数字主权还意味着维持关键业务作为连通性,地缘政治和业务条件发生变化。必须从一开始就设计复原力,以便基本工作量能够继续受到干扰。",
+      "en": "For some workloads, digital sovereignty also means maintaining critical operations as connectivity, geopolitical and operating conditions change. Resilience must be designed from the start so essential workloads can continue operating through disruption."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To help customers prepare for these scenarios, we are publishing new sovereign business continuity guidance and architecture patterns. These resources help organizations translate resilience requirements into architectures they can plan, implement and test before they are needed.",
+      "id": "p21",
+      "zh": "为了帮助客户为这些场景做好准备,我们正在发布新的主权 业务连续性指导和架构模式。这些资源有助于各组织将复原力要求转化为它们能够规划的结构,在需要它们之前实施和测试。",
+      "en": "To help customers prepare for these scenarios, we are publishing new sovereign business continuity guidance and architecture patterns. These resources help organizations translate resilience requirements into architectures they can plan, implement and test before they are needed."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For many workloads, the scale and geographic reach of the public cloud provide a strong foundation for resilience across locations and operating conditions. For workloads that require greater operational independence, Sovereign Private Cloud extends that continuum into customer-operated environments. It supports connected and disconnected operating models. The ability to transition workloads from connected to disconnected operations is entering public preview, giving organizations greater flexibility to sustain critical services as connectivity and operating requirements change.",
+      "id": "p22",
+      "zh": "对于许多工作量,公共云的规模和地理范围为不同地点和业务条件的复原力奠定了坚实的基础。对于需要提高业务独立性的工作量,主权私人云将这个连续体延伸至客户操作的环境.它支持连接和断开的操作模型.从连接到断开操作的工作量转换能力正在进入公众预览阶段,随着连通性和业务要求的改变,各组织在维持关键服务方面有更大的灵活性。",
+      "en": "For many workloads, the scale and geographic reach of the public cloud provide a strong foundation for resilience across locations and operating conditions. For workloads that require greater operational independence, Sovereign Private Cloud extends that continuum into customer-operated environments. It supports connected and disconnected operating models. The ability to transition workloads from connected to disconnected operations is entering public preview, giving organizations greater flexibility to sustain critical services as connectivity and operating requirements change."
+    },
+    {
+      "kind": "heading",
+      "text": "Bringing more of the application lifecycle under local control",
+      "id": "p23",
+      "zh": "将更多的应用周期置于当地控制之下",
+      "en": "Bringing more of the application lifecycle under local control"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Operational independence requires more than infrastructure. Increasingly, organizations need data, development tools, model capabilities and productivity services their applications depend on to operate within the same customer-controlled environment.",
+      "id": "p24",
+      "zh": "业务独立需要的不仅仅是基础设施。越来越,各组织需要数据,发展工具,模型能力和生产力服务,其应用依赖于在同一客户控制的环境中运作。",
+      "en": "Operational independence requires more than infrastructure. Increasingly, organizations need data, development tools, model capabilities and productivity services their applications depend on to operate within the same customer-controlled environment."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sovereign Private Cloud, built on Azure Local, extends Microsoft cloud capabilities into environments that customers operate and control. SQL Server on Azure Local is already generally available for connected and disconnected deployments. DocumentDB and Blob Storage on Azure Local are both entering public preview, giving organizations more choice in how they run and manage critical data within customer-controlled environments.",
+      "id": "p25",
+      "zh": "主权的二等兵云建造于当地阿苏尔,将微软云能力扩展至客户运行和控制的环境.Azure local上的 SQL 服务器一般已经可用于连接和断开的部署.Azure Local上的文档DB和Blob存储都进入了公开预览,给予各组织在客户控制的环境中如何操作和管理关键数据更多的选择权。",
+      "en": "Sovereign Private Cloud, built on Azure Local, extends Microsoft cloud capabilities into environments that customers operate and control. SQL Server on Azure Local is already generally available for connected and disconnected deployments. DocumentDB and Blob Storage on Azure Local are both entering public preview, giving organizations more choice in how they run and manage critical data within customer-controlled environments."
+    },
+    {
+      "kind": "paragraph",
+      "text": "GitHub Enterprise Local will become generally available at Microsoft Ignite as a validated GitHub Enterprise Server appliance on Azure Local, helping organizations keep repositories, code and development artifacts under local control. Developers can also use GitHub Copilot with locally hosted models for inference, bringing AI-assisted development closer to their code and data within the environments they control.",
+      "id": "p26",
+      "zh": "GitHub Entertainment Local将在微软Ignite作为Azure Local上的经过验证的GitHub Entertainment Server应用程序而普遍使用,帮助组织保存储存库,由当地控制的密码和开发文物。开发者还可以使用 GitHub Copilot器, 并使用本地主机模型进行推理,在他们控制的环境中,使AI辅助开发更接近他们的代码和数据.",
+      "en": "GitHub Enterprise Local will become generally available at Microsoft Ignite as a validated GitHub Enterprise Server appliance on Azure Local, helping organizations keep repositories, code and development artifacts under local control. Developers can also use GitHub Copilot with locally hosted models for inference, bringing AI-assisted development closer to their code and data within the environments they control."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The local application environment is expanding with Foundry Local. At Ignite, Foundry Local will become generally available for connected and disconnected operations on Azure Local, with an expanded model catalog that includes Microsoft, partner, open-weight and open-source models. Local inference and agentic retrieval will also enable users to interact with local enterprise data using natural language and receive responses grounded in that data. Integration with Microsoft 365 Local, available in preview for approved customers, extends this functionality to locally operated Microsoft SharePoint and Exchange servers.",
+      "id": "p27",
+      "zh": "本地应用环境随着Foundry Local而不断扩大.在伊格内特,Azure Local上的连接和断开操作一般可以使用,还有一个包括微软在内的扩大型号目录,搭档,开口量级和开源型号.本地推理和代理检索还将使用户能够使用自然语言与当地企业数据互动,并收到基于这些数据的答复。与 Microsoft 365 Local, 合并可供核准客户预览,将这一功能扩展至本地运行的Microsoft SharePoint和Exchange服务器.",
+      "en": "The local application environment is expanding with Foundry Local. At Ignite, Foundry Local will become generally available for connected and disconnected operations on Azure Local, with an expanded model catalog that includes Microsoft, partner, open-weight and open-source models. Local inference and agentic retrieval will also enable users to interact with local enterprise data using natural language and receive responses grounded in that data. Integration with Microsoft 365 Local, available in preview for approved customers, extends this functionality to locally operated Microsoft SharePoint and Exchange servers."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Confidential virtual machines on Azure Local are generally available, extending confidential computing capabilities to customer-controlled infrastructure. Hardware-encrypted memory and hardware-based isolation help protect sensitive data while it is being processed. Workload attestation adds assurance before sensitive data or keys are released. For regulated, sensitive and mission-critical workloads, these safeguards provide another layer of protection while giving organizations greater control over where their data and applications run.",
+      "id": "p28",
+      "zh": "Azure Local上的机密虚拟机一般可以使用,将保密计算能力扩大到客户控制的基础设施。硬件加密的内存和基于硬件的隔离有助于在处理过程中保护敏感数据.工作量证明在释放敏感数据或密钥之前增加了保证。对于受管制者来说,敏感和任务关键的工作量,这些保障措施提供了另一层保护,同时让各组织对其数据和应用进行更大的控制。",
+      "en": "Confidential virtual machines on Azure Local are generally available, extending confidential computing capabilities to customer-controlled infrastructure. Hardware-encrypted memory and hardware-based isolation help protect sensitive data while it is being processed. Workload attestation adds assurance before sensitive data or keys are released. For regulated, sensitive and mission-critical workloads, these safeguards provide another layer of protection while giving organizations greater control over where their data and applications run."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Azure Local will support multitenancy, allowing organizations to separate resources, governance and management across multiple tenants while sharing the underlying infrastructure. This significantly expands what customers with distinct business units or security boundaries can achieve with Sovereign Private Cloud. Multitenancy also creates new opportunities for local operators and service providers to deliver differentiated sovereign cloud services on Azure Local infrastructure.",
+      "id": "p29",
+      "zh": "Azure 本地公司将支持多重租赁,允许各组织分开资源,多个租户的治理和管理,同时共享基本的基础设施。这大大扩展了拥有不同业务单位或安全边界的客户在主权私人云号下能够实现的目标.多种经营也为当地运营商和服务提供商在Azure地方基础设施上提供不同的主权云服务创造了新的机会。",
+      "en": "Azure Local will support multitenancy, allowing organizations to separate resources, governance and management across multiple tenants while sharing the underlying infrastructure. This significantly expands what customers with distinct business units or security boundaries can achieve with Sovereign Private Cloud. Multitenancy also creates new opportunities for local operators and service providers to deliver differentiated sovereign cloud services on Azure Local infrastructure."
+    },
+    {
+      "kind": "paragraph",
+      "text": "These additions bring more of the application lifecycle under local control, spanning data, development, productivity, AI and operations. Organizations can determine what runs locally based on the requirements of each workload.",
+      "id": "p30",
+      "zh": "这些添加使更多的应用生命周期受到当地控制,横跨数据,发展,发展,生产力,AI与业务.各组织可以根据每一工作量的需要,决定在当地开展哪些工作。",
+      "en": "These additions bring more of the application lifecycle under local control, spanning data, development, productivity, AI and operations. Organizations can determine what runs locally based on the requirements of each workload."
+    },
+    {
+      "kind": "heading",
+      "text": "Extending the continuum through partners",
+      "id": "p31",
+      "zh": "通过合作伙伴扩大连续体",
+      "en": "Extending the continuum through partners"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Navigating sovereignty is increasingly complex. Regulatory, security, operational and business requirements vary across countries, industries and workloads. Organizations must translate these needs into technology and operating models that work in their local context. Meeting these needs often requires a combination of technology, local operating authority, sector expertise and specialized solutions.",
+      "id": "p32",
+      "zh": "主权的导航越来越复杂。监管,保安人员,不同国家的业务和业务要求各不相同,工业与工作量。各组织必须将这些需求转化为在当地范围内发挥作用的技术和业务模式。满足这些需要往往需要综合各种技术,地方业务当局,部门专门知识和专业解决办法。",
+      "en": "Navigating sovereignty is increasingly complex. Regulatory, security, operational and business requirements vary across countries, industries and workloads. Organizations must translate these needs into technology and operating models that work in their local context. Meeting these needs often requires a combination of technology, local operating authority, sector expertise and specialized solutions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Sovereign Partner Ecosystem broadens the ways customers can address these requirements. National Partner Clouds, including Bleu Cloud in France and Delos Cloud in Germany, provide independently operated environments for customers that require a different ownership and operating model. Software partners can enhance Azure Local environments with capabilities across security, identity, observability, backup and recovery, migration, data, networking and applications. Digital sovereignty specialized partners combine Microsoft technologies with local knowledge and implementation expertise. Platform co-innovation partners expand infrastructure choice from datacenter to the edge.",
+      "id": "p33",
+      "zh": "主权伙伴生态系统拓宽了客户满足这些要求的方式。国家伙伴云,包括法国的布莱乌云和德国的德洛斯云为需要不同所有权和运营模式的客户提供独立运营的环境。软件伙伴可以加强具有全安全能力的Azure当地环境,身份证明,观察者,备份和恢复,移徙,数据,联网和应用。数字主权专业合作伙伴将微软技术与当地知识和实施专门知识相结合。平台共同创新合作伙伴将基础设施的选择从数据中心扩大到边缘。",
+      "en": "The Sovereign Partner Ecosystem broadens the ways customers can address these requirements. National Partner Clouds, including Bleu Cloud in France and Delos Cloud in Germany, provide independently operated environments for customers that require a different ownership and operating model. Software partners can enhance Azure Local environments with capabilities across security, identity, observability, backup and recovery, migration, data, networking and applications. Digital sovereignty specialized partners combine Microsoft technologies with local knowledge and implementation expertise. Platform co-innovation partners expand infrastructure choice from datacenter to the edge."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This ecosystem gives customers the flexibility to combine technology, operating models and trusted expertise based on the requirements of each workload.",
+      "id": "p34",
+      "zh": "这种生态系统为客户提供了结合技术的灵活性,业务模式和根据每项工作量要求所信任的专门知识。",
+      "en": "This ecosystem gives customers the flexibility to combine technology, operating models and trusted expertise based on the requirements of each workload."
+    },
+    {
+      "kind": "heading",
+      "text": "The next chapter of digital sovereignty",
+      "id": "p35",
+      "zh": "数字主权的下一章",
+      "en": "The next chapter of digital sovereignty"
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI is amplifying both the opportunity and the impact of technology choices. As AI systems and agents interact with sensitive data, business processes and essential infrastructure, they also expand the security considerations organizations need to manage. Organizations need clear control over where these systems run, who can operate them, what actions they can take and how critical services continue when conditions change.",
+      "id": "p36",
+      "zh": "大赦国际正在扩大技术选择的机会和影响。由于AI系统和代理 与敏感数据互动,商业进程和基本基础设施,它们也扩大了各组织需要管理的安全考虑。各组织需要对这些系统运行地点进行明确的控制,他们能操作它们,当条件发生变化时,它们可以采取哪些行动以及如何继续提供关键服务。",
+      "en": "AI is amplifying both the opportunity and the impact of technology choices. As AI systems and agents interact with sensitive data, business processes and essential infrastructure, they also expand the security considerations organizations need to manage. Organizations need clear control over where these systems run, who can operate them, what actions they can take and how critical services continue when conditions change."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Microsoft Sovereign Cloud brings these choices together as a continuum of control across the public cloud, customer-operated environments and our partner ecosystem. It gives organizations the flexibility to apply the appropriate level of control to each workload while continuing to benefit from cloud capabilities and ongoing innovation.",
+      "id": "p37",
+      "zh": "微软\"主权云\"将这些选择集为一体,作为整个公共云的连续控制,客户经营的环境和我们的伙伴生态系统。它使各组织能够灵活地对每项工作量实行适当程度的控制,同时继续受益于云能力和持续的创新。",
+      "en": "Microsoft Sovereign Cloud brings these choices together as a continuum of control across the public cloud, customer-operated environments and our partner ecosystem. It gives organizations the flexibility to apply the appropriate level of control to each workload while continuing to benefit from cloud capabilities and ongoing innovation."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We will continue to expand this continuum so organizations can innovate with cloud and AI while maintaining the control, confidentiality, resilience and operational authority their most important workloads require.",
+      "id": "p38",
+      "zh": "我们将继续扩大这个连续体,以便各组织在保持控制的同时,能够用云和AI进行创新,保密,其最重要的工作量需要复原力和业务权威。",
+      "en": "We will continue to expand this continuum so organizations can innovate with cloud and AI while maintaining the control, confidentiality, resilience and operational authority their most important workloads require."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Douglas Phillips leads global engineering efforts for Microsoft’s specialized, sovereign and private clouds. He is responsible for Microsoft’s global strategy, products and operations that bring Microsoft’s industry-leading solutions, including Azure, our adaptive cloud portfolio and Microsoft 365 collaboration suite, to customers with additional sovereignty, security, edge and compliance requirements.",
+      "id": "p39",
+      "zh": "道格拉斯·菲利普斯领导着微软专业的全球性工程工作,主权与私云.他负责微软的全球策略,带来微软行业主导解决方案的产品和操作,包括阿苏尔,我们的适应性云投资组合 和微软365合作套房,对拥有额外主权的客户,保安人员,边缘和合规要求。",
+      "en": "Douglas Phillips leads global engineering efforts for Microsoft’s specialized, sovereign and private clouds. He is responsible for Microsoft’s global strategy, products and operations that bring Microsoft’s industry-leading solutions, including Azure, our adaptive cloud portfolio and Microsoft 365 collaboration suite, to customers with additional sovereignty, security, edge and compliance requirements."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Learn more",
+      "id": "p40",
+      "zh": "学多点",
+      "en": "Learn more"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "随着先进的云和人工智能能力进入公共服务领域,这一挑战变得越来越重要。管制程序和基本业务。",
+      "en": "This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential operations. Organizations are considering more than where data resides."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "去年,我们...我们引入了微软主权云 给客户更多的选择 他们如何满足这些要求。从那时起,我们继续将我们的承诺转化为实际能力,跨越公共云层和客户经营的环境,• 扩大我们如何使伙伴能够满足其当地市场的主权要求。",
+      "en": "Last year, we introduced Microsoft Sovereign Cloud to give customers more choice in how they address these requirements. Since then, we have continued to turn our commitments into practical capabilities across public cloud and customer-operated environments, while expanding how we enable partners to address sovereignty requirements in their local markets."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "微软\"主权云\"是围绕这种基于工作量的方法设计的,提供连续的管理,控制与选择 跨越主权公共云,主权私人云与主权伙伴生态系统.各组织可以对每项工作量实行适当的控制,同时对其数字产业的治理和业务采取一致的做法。主权公共云增加了工作量能力,这些工作量需要更大的控制和透明度,同时继续受益于Azure的规模和创新。",
+      "en": "Microsoft Sovereign Cloud is designed around this workload-based approach, providing a continuum of management, control and options across Sovereign Public Cloud, Sovereign Private Cloud and the Sovereign Partner Ecosystem. Organizations can apply the level of control appropriate to each workload while maintaining a consistent approach to governance and operations across their digital estate."
+    },
+    {
+      "paragraphId": "p33",
+      "zh": "主权伙伴生态系统拓宽了客户满足这些要求的方式。国家伙伴云,包括法国的布莱乌云和德国的德洛斯云为需要不同所有权和运营模式的客户提供独立运营的环境。",
+      "en": "The Sovereign Partner Ecosystem broadens the ways customers can address these requirements. National Partner Clouds, including Bleu Cloud in France and Delos Cloud in Germany, provide independently operated environments for customers that require a different ownership and operating model."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "e6fdcefb00b1e73c4339944145b37fff3f0446f5c7f582233f5025e27e18478f"
+}

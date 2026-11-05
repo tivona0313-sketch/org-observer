@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-f0d23aa208df96d78828",
+  "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+  "sourceTitle": "We’re providing funding for organizations building AI for teachers.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:05.279340+00:00",
+  "fetchedAt": "2026-11-05T11:28:28.778110+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+  "language": "en",
+  "originalTitle": "We’re providing funding for organizations building AI for teachers.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Google.org has long supported teachers and students, including free AI training for educators. Today, Google.org is providing over $9.5 million in funding across five organizations building with and for educators, aiming to help millions of students reach their full potential:",
+      "id": "p1",
+      "zh": "Google.org长期支持师生,包括对教育工作者进行免费的人工智能培训。今天,我们...Google.org正在提供超过950万美元的资金,用于5个组织与教育工作者一起建设和为教育工作者建设,旨在帮助数百万学生充分发挥潜力:",
+      "en": "Google.org has long supported teachers and students, including free AI training for educators. Today, Google.org is providing over $9.5 million in funding across five organizations building with and for educators, aiming to help millions of students reach their full potential:"
+    },
+    {
+      "kind": "list",
+      "text": "The City University of New York: Helping educators build digital and computational literacy through the Computing Integrated Teacher Education (CITE) initiative",
+      "id": "p2",
+      "zh": "纽约市立大学:通过计算综合师范教育倡议,帮助教育工作者建立数字和计算知识水平",
+      "en": "The City University of New York: Helping educators build digital and computational literacy through the Computing Integrated Teacher Education (CITE) initiative"
+    },
+    {
+      "kind": "list",
+      "text": "Fab AI: Collaborating with Google DeepMind and the Gates Foundation to build open models that help teachers plan lessons and support early reading",
+      "id": "p3",
+      "zh": "Fab AI: (法语).与Google DeepMind和Gates基金会合作,建立开放模式,帮助教师规划课程和支持早期阅读",
+      "en": "Fab AI: Collaborating with Google DeepMind and the Gates Foundation to build open models that help teachers plan lessons and support early reading"
+    },
+    {
+      "kind": "list",
+      "text": "Krause Center for Innovation: Helping school districts bring responsible AI education into classrooms",
+      "id": "p4",
+      "zh": "克劳兹创新中心:帮助校区将负责任的人工智能教育带入课堂",
+      "en": "Krause Center for Innovation: Helping school districts bring responsible AI education into classrooms"
+    },
+    {
+      "kind": "list",
+      "text": "Teaching Lab: Piloting Coherence OS, an operating system that gives teachers and leaders real-time support",
+      "id": "p5",
+      "zh": "教学实验室:试验一致性操作系统,向教师和领导人提供实时支持的操作系统;",
+      "en": "Teaching Lab: Piloting Coherence OS, an operating system that gives teachers and leaders real-time support"
+    },
+    {
+      "kind": "list",
+      "text": "1EdTech Global: Building public infrastructure for trusted learning standards",
+      "id": "p6",
+      "zh": "1EdTech 全球:为可信的学习标准建设公共基础设施",
+      "en": "1EdTech Global: Building public infrastructure for trusted learning standards"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Google.org长期支持师生,包括对教育工作者进行免费的人工智能培训。今天,我们...Google.org正在提供超过950万美元的资金,用于5个组织与教育工作者一起建设和为教育工作者建设,旨在帮助数百万学生充分发挥潜力:",
+      "en": "Google.org has long supported teachers and students, including free AI training for educators. Today, Google.org is providing over $9.5 million in funding across five organizations building with and for educators, aiming to help millions of students reach their full potential:"
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "纽约市立大学:通过计算综合师范教育倡议,帮助教育工作者建立数字和计算知识水平",
+      "en": "The City University of New York: Helping educators build digital and computational literacy through the Computing Integrated Teacher Education (CITE) initiative"
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "Fab AI: (法语).与Google DeepMind和Gates基金会合作,建立开放模式,帮助教师规划课程和支持早期阅读",
+      "en": "Fab AI: Collaborating with Google DeepMind and the Gates Foundation to build open models that help teachers plan lessons and support early reading"
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "1EdTech 全球:为可信的学习标准建设公共基础设施",
+      "en": "1EdTech Global: Building public infrastructure for trusted learning standards"
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "0410d43d6ac95c60ae351a701e83e6846985c4d08680ef36f21765f886bb8bf8"
+}

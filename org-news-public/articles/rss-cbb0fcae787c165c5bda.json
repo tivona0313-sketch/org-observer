@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-cbb0fcae787c165c5bda",
+  "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+  "sourceTitle": "New research shows how Guided Learning supports students",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:46:56.636544+00:00",
+  "fetchedAt": "2026-11-05T11:28:27.418739+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+  "language": "en",
+  "originalTitle": "New research shows how Guided Learning supports students",
+  "author": "Sofie Cornelis",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We’re sharing two new studies that show how Guided Learning supports students and teachers in real-world settings. Alongside these findings, today we’re starting to roll out Guided Learning in Google Classroom, giving teachers even more control over how and when this tool is used in their classrooms.",
+      "id": "p1",
+      "zh": "我们分享了两项新的研究,除了这些发现之外,今天我们开始在Google教室推出《指导学习》,使教师更能掌握如何和何时在课堂上使用这一工具。",
+      "en": "We’re sharing two new studies that show how Guided Learning supports students and teachers in real-world settings. Alongside these findings, today we’re starting to roll out Guided Learning in Google Classroom, giving teachers even more control over how and when this tool is used in their classrooms."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Guided Learning is designed to help students work through complex concepts step by step, prioritizing deep understanding over providing direct answers.",
+      "id": "p2",
+      "zh": "指导性学习旨在帮助学生通过复杂的概念逐步工作,将深刻理解置于提供直接答案之上。",
+      "en": "Guided Learning is designed to help students work through complex concepts step by step, prioritizing deep understanding over providing direct answers."
+    },
+    {
+      "kind": "heading",
+      "text": "Boosting statistics scores",
+      "id": "p3",
+      "zh": "推动统计分数",
+      "en": "Boosting statistics scores"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To see how Guided Learning impacts real performance, we conducted a randomized controlled trial (RCT) with more than 300 students at the University of Tokyo. We wanted to test whether Guided Learning provided extra value beyond standard study tools. All students were given half a day to independently study a statistics lesson using standard online resources. Half of the group was also given access to Guided Learning in the Gemini app.",
+      "id": "p4",
+      "zh": "要了解《指导学习》如何影响实际业绩,我们进行了随机控制试验 东京大学有300多名学生我们想测试《指导学习》是否提供了超出标准研究工具的额外价值。所有学生都得到半天时间,利用标准在线资源独立学习统计课程。该组有一半人还获得了Gemini应用的《指导学习》。",
+      "en": "To see how Guided Learning impacts real performance, we conducted a randomized controlled trial (RCT) with more than 300 students at the University of Tokyo. We wanted to test whether Guided Learning provided extra value beyond standard study tools. All students were given half a day to independently study a statistics lesson using standard online resources. Half of the group was also given access to Guided Learning in the Gemini app."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Instead of looking for quick answers, students used Guided Learning to dig deeper. They frequently asked for practice quizzes, step-by-step help, and custom visual aids. When we compared pre- and post-test scores, the difference was clear. Students using only standard web tools improved their scores by 5.3 percentage points. But students with access to Guided Learning improved by 8.1 percentage points, representing 1.5x higher learning gains in just a single study session. While that number might seem modest — these gains were achieved in just half a day of study, pointing to growing evidence that when technology guides students rather than shortcutting the process, it can lead to more learning.",
+      "id": "p5",
+      "zh": "而不是寻找快速的答案,学生们用《指导学习》来更深入地挖掘。他们经常要求进行练习测验,步步相助,和定制的视觉辅助工具。当我们比较测试前和测试后得分时,区别是显而易见的。只使用标准网络工具的学生的分数提高了5.3个百分点.但是,获得指导性学习的学生提高了8.1个百分点,仅在一个学习班中代表1.5x高等教育收益。虽然这个数字似乎不大,但这些成就是在仅仅半天的学习中取得的,指出越来越多的证据表明,当技术引导学生而不是缩短进程时,它可以导致更多的学习。",
+      "en": "Instead of looking for quick answers, students used Guided Learning to dig deeper. They frequently asked for practice quizzes, step-by-step help, and custom visual aids. When we compared pre- and post-test scores, the difference was clear. Students using only standard web tools improved their scores by 5.3 percentage points. But students with access to Guided Learning improved by 8.1 percentage points, representing 1.5x higher learning gains in just a single study session. While that number might seem modest — these gains were achieved in just half a day of study, pointing to growing evidence that when technology guides students rather than shortcutting the process, it can lead to more learning."
+    },
+    {
+      "kind": "heading",
+      "text": "Giving teachers more insight and control",
+      "id": "p6",
+      "zh": "提高教师的洞察力和控制力",
+      "en": "Giving teachers more insight and control"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Bringing Guided Learning into Google Classroom requires a specialized approach that is purpose-built for the classroom, keeps teachers in control, and grounds the experience in relevant lesson materials.",
+      "id": "p7",
+      "zh": "把有指导的学习带入谷歌教室需要一种专为课堂设计的专门方法,保持教师的控制,并在相关教材中说明经验。",
+      "en": "Bringing Guided Learning into Google Classroom requires a specialized approach that is purpose-built for the classroom, keeps teachers in control, and grounds the experience in relevant lesson materials."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To test this experience, we partnered with Ark and ran a four-week pilot across three UK secondary schools, allowing teachers to use Guided Learning in Google Classroom across four different subjects. Feedback from post-pilot surveys and interviews was encouraging: teachers found Guided Learning handled initial student questions effectively during independent work, so they had more time to offer targeted, one-on-one help. Meanwhile, the majority of surveyed students said they felt comfortable asking Gemini for help when stuck, and over half said it helped them solve problems on their own.",
+      "id": "p8",
+      "zh": "为了检验这种经历,我们和方舟子合作,在英国的三所中学 试飞了四周,允许教师在Google教室中跨四个不同的科目使用《指导学习》。试点后调查和访谈的反馈令人鼓舞:教师发现,指导学习在独立工作期间有效地处理了学生的最初问题,因此,他们有更多的时间提供目标,一对一的帮助。同时,大多数被调查的学生说,当Gemini被困时,他们很舒服地向Gemini寻求帮助,半数以上的人说,这帮助他们自己解决问题。",
+      "en": "To test this experience, we partnered with Ark and ran a four-week pilot across three UK secondary schools, allowing teachers to use Guided Learning in Google Classroom across four different subjects. Feedback from post-pilot surveys and interviews was encouraging: teachers found Guided Learning handled initial student questions effectively during independent work, so they had more time to offer targeted, one-on-one help. Meanwhile, the majority of surveyed students said they felt comfortable asking Gemini for help when stuck, and over half said it helped them solve problems on their own."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We also received important feedback on areas of improvement. Some teachers wanted clearer visibility into how their students were engaging with the course materials so they could better tailor future lessons. Others voiced a desire to keep their students focused on specific assignments during class time and reduce distractions. We took this feedback back to the team and made direct improvements — including adding insights for educators to show how their students interacted with Guided Learning, and improving the ability for teachers to anchor conversations on uploaded curriculum.",
+      "id": "p9",
+      "zh": "我们还收到了关于改进领域的重要反馈。一些教师希望更清楚地了解他们的学生是如何使用教材的,以便他们能更好地调整今后的课程。其他人表示,希望学生在课时专心执行具体任务,减少分散注意力。我们把这个反馈带回团队,并做了直接的改进——包括给教育工作者增加深刻的见解,以显示他们的学生如何与《指导学习》互动,提高教师在上传课程中进行对话的能力。",
+      "en": "We also received important feedback on areas of improvement. Some teachers wanted clearer visibility into how their students were engaging with the course materials so they could better tailor future lessons. Others voiced a desire to keep their students focused on specific assignments during class time and reduce distractions. We took this feedback back to the team and made direct improvements — including adding insights for educators to show how their students interacted with Guided Learning, and improving the ability for teachers to anchor conversations on uploaded curriculum."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Shaped by real educator and student feedback in the classroom, today we're rolling out teacher-led Guided Learning globally in Google Classroom. This feature will help teachers assign their students a Guided Learning experience that will coach students step-by-step on their course materials and track student progress with actionable insights.",
+      "id": "p10",
+      "zh": "由真正的教育家和学生在课堂上的反馈所塑造,今天我们在Google教室 推出由教师牵头的《指南学习》这一功能将帮助教师为其学生分配指导性学习经验,指导学生逐步学习教材,并跟踪学生的学习进度。可操作的洞察力。",
+      "en": "Shaped by real educator and student feedback in the classroom, today we're rolling out teacher-led Guided Learning globally in Google Classroom. This feature will help teachers assign their students a Guided Learning experience that will coach students step-by-step on their course materials and track student progress with actionable insights."
+    },
+    {
+      "kind": "paragraph",
+      "text": "By grounding our tools in learning science, working alongside educators, and conducting research in real classroom settings, we're eager to continue innovating on tools that support active learning and a deeper understanding.",
+      "id": "p11",
+      "zh": "通过在学习科学方面奠定我们的工具基础,与教育工作者一起工作,并在真正的课堂环境中进行研究,我们渴望继续创新 支持积极学习和加深理解的工具。",
+      "en": "By grounding our tools in learning science, working alongside educators, and conducting research in real classroom settings, we're eager to continue innovating on tools that support active learning and a deeper understanding."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们分享了两项新的研究,除了这些发现之外,今天我们开始在Google教室推出《指导学习》,使教师更能掌握如何和何时在课堂上使用这一工具。",
+      "en": "We’re sharing two new studies that show how Guided Learning supports students and teachers in real-world settings. Alongside these findings, today we’re starting to roll out Guided Learning in Google Classroom, giving teachers even more control over how and when this tool is used in their classrooms."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "指导性学习旨在帮助学生通过复杂的概念逐步工作,将深刻理解置于提供直接答案之上。",
+      "en": "Guided Learning is designed to help students work through complex concepts step by step, prioritizing deep understanding over providing direct answers."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "要了解《指导学习》如何影响实际业绩,我们进行了随机控制试验 东京大学有300多名学生我们想测试《指导学习》是否提供了超出标准研究工具的额外价值。所有学生都得到半天时间,利用标准在线资源独立学习统计课程。",
+      "en": "To see how Guided Learning impacts real performance, we conducted a randomized controlled trial (RCT) with more than 300 students at the University of Tokyo. We wanted to test whether Guided Learning provided extra value beyond standard study tools."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "而不是寻找快速的答案,学生们用《指导学习》来更深入地挖掘。他们经常要求进行练习测验,步步相助,和定制的视觉辅助工具。",
+      "en": "Instead of looking for quick answers, students used Guided Learning to dig deeper. They frequently asked for practice quizzes, step-by-step help, and custom visual aids."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "8a17b5af17788f3767ac188f26297b2d0392231e719bd877e25373c7b1b0ec79"
+}

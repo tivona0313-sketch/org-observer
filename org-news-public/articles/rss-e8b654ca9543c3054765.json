@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-e8b654ca9543c3054765",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+  "sourceTitle": "How to use Gemini to update your resume",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:35.814137+00:00",
+  "fetchedAt": "2026-11-05T11:37:24.074923+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+  "language": "en",
+  "originalTitle": "How to use Gemini to update your resume",
+  "author": "Kimberly Fusaro",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "In four simple steps:",
+      "id": "p1",
+      "zh": "四个简单的步骤:",
+      "en": "In four simple steps:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1. Open Gemini and ramble at it about all your past roles. 2. Add this prompt: “Act as a professional resume writer. Use my raw, unedited notes about my past work and turn it into four high-impact resume bullets for a _______ role. Start each bullet with a strong action verb. Keep the tone executive, clear, and ATS-friendly.\" 3. Chat back and forth to adjust details, tone, and focus. 4. Copy and paste it into your resume when it’s done.",
+      "id": "p2",
+      "zh": "一、导 言打开Gemini 并大声疾呼 关于你所有过去的角色。2. 将第1款改为第2款。添加此提示 :“担任职业履历作家。用我的生来,关于我过去的工作的未经编辑的笔记, 并把它变成四个高影响 恢复子弹的作用。以强烈的动作动词启动每颗子弹.保持音调高管,清楚了吗?并方便苯丙胺类兴奋剂。\"来回聊天来调整细节语气,和焦点。4个。复制并粘贴到您的履历上。",
+      "en": "1. Open Gemini and ramble at it about all your past roles. 2. Add this prompt: “Act as a professional resume writer. Use my raw, unedited notes about my past work and turn it into four high-impact resume bullets for a _______ role. Start each bullet with a strong action verb. Keep the tone executive, clear, and ATS-friendly.\" 3. Chat back and forth to adjust details, tone, and focus. 4. Copy and paste it into your resume when it’s done."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "一、导 言打开Gemini 并大声疾呼 关于你所有过去的角色。2. 将第1款改为第2款。",
+      "en": "1. Open Gemini and ramble at it about all your past roles. 2."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "5148c228def22d0e8a1302873f04f5a50c399b464bdcdfba8b42bbf3aca183f1"
+}

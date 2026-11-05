@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-bfe4fa6b3e5fe5f12268",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+  "sourceTitle": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:31.950348+00:00",
+  "fetchedAt": "2026-11-05T11:28:35.216441+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+  "language": "en",
+  "originalTitle": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+  "author": "Priya Venkatraman",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses.",
+      "id": "p1",
+      "zh": "上个月,我们介绍专家情报,一个跨Google倡议,帮助您通过Google AI产品与您信任的源头进行接触.虽然你已经可以添加从Google Play Books购买的符合资格的电子书,今天,我们正在扩大这种经验,以便学生们能够方便地为自己的课程添加材料。",
+      "en": "Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source. Gemini Notebook also lets you transform textbook content into tailored study guides, practice quizzes, flashcards, and more.",
+      "id": "p2",
+      "zh": "学生现在可以从美国提供商那里获得数百本教科书.和印度,包括OpenStax,打开教科书库,和S Chand出版社,在Gemini笔记簿上免费一旦你加入了一本教科书,每一个答案都直接依据在教科书上,内置引用,并直接链接回原源。Gemini笔记本还让你将教科书内容转化为定制的学习指南,练习测验,闪卡,还有更多",
+      "en": "Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source. Gemini Notebook also lets you transform textbook content into tailored study guides, practice quizzes, flashcards, and more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To explore and add these textbooks, select “Add sources” within your notebook and select “Textbooks” to see the available catalog.",
+      "id": "p3",
+      "zh": "为了探索和补充这些教科书,在笔记本中选择“添加源”,并选择“文本本”,以查看可用的目录。",
+      "en": "To explore and add these textbooks, select “Add sources” within your notebook and select “Textbooks” to see the available catalog."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "上个月,我们介绍专家情报,一个跨Google倡议,帮助您通过Google AI产品与您信任的源头进行接触.虽然你已经可以添加从Google Play Books购买的符合资格的电子书,今天,我们正在扩大这种经验,以便学生们能够方便地为自己的课程添加材料。",
+      "en": "Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "学生现在可以从美国提供商那里获得数百本教科书.和印度,包括OpenStax,打开教科书库,和S Chand出版社,在Gemini笔记簿上免费一旦你加入了一本教科书,每一个答案都直接依据在教科书上,内置引用,并直接链接回原源。Gemini笔记本还让你将教科书内容转化为定制的学习指南,练习测验,闪卡,还有更多",
+      "en": "Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "为了探索和补充这些教科书,在笔记本中选择“添加源”,并选择“文本本”,以查看可用的目录。",
+      "en": "To explore and add these textbooks, select “Add sources” within your notebook and select “Textbooks” to see the available catalog."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "9f28ecfaa5e1425e5df2317900d1552875abbd678fbaad602048bfcb2228c957"
+}

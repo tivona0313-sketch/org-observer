@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-981785a01550309d0739",
+  "url": "https://openai.com/index/devrev-enterprise-self-service",
+  "sourceTitle": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:26:49.522243+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:26:49.788660+00:00"
+}

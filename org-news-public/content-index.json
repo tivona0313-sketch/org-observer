@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-05T11:48:54.359362+00:00",
+  "articles": {
+    "ms-frontier-2026": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+      "sourceTitle": "微软：AI 转型应从业务结果出发，连接人、组织知识与智能体治理",
+      "contentHash": "2b3c73fe3842ee4a1291bea0cd6ee88dff4e62d76657eda5c96011c918639e19",
+      "fetchedAt": "2026-11-05T11:28:17.050015+00:00"
+    },
+    "anthropic-academy-2026": {
+      "status": "ready",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "sourceTitle": "Anthropic 推出 Frontier Academy：围绕真实业务项目培养 AI 工程人才",
+      "contentHash": "ba01c3a8a326a6009a0e1bb882a62e55162ff1a620c3ec2bb8868e1e769ed8e8",
+      "fetchedAt": "2026-11-05T11:28:16.976609+00:00"
+    },
+    "alibaba-ath-2026": {
+      "status": "ready",
+      "url": "https://www.alibabacloud.com/en/press-room/alibaba-positions-for-accelerated-ai-growth-in-sec",
+      "sourceTitle": "阿里巴巴披露 ATH 事业群整合：将核心 AI 团队与产品纳入统一组织",
+      "contentHash": "b41d1d2864744b8b60ae69e94fc5e065616468b55a74105d6ce898b04bd3bd60",
+      "fetchedAt": "2026-11-05T11:28:16.767235+00:00"
+    },
+    "tencent-project-2026": {
+      "status": "unavailable",
+      "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260522_2982969.shtml",
+      "sourceTitle": "媒体观察：腾讯部分团队试行项目负责制，管理角色随业务任务调整",
+      "error": "redirect_outside_source"
+    },
+    "ms-wti-2026": {
+      "status": "ready",
+      "url": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
+      "sourceTitle": "2026 工作趋势报告：员工的 AI 能力，需要组织制度接得住",
+      "contentHash": "a6481fdba9ad78acb853670acf887428f696b336dac0c4abeec6a7f01e34340f",
+      "fetchedAt": "2026-11-05T11:28:21.210237+00:00"
+    },
+    "ms-copilot-2026": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
+      "sourceTitle": "微软统一消费与商业 Copilot 组织，强化产品、平台与模型协同",
+      "contentHash": "1f7f67138e45fbeb3b960ebe0ef03a7f2aaea5b080b042391522249001e7fc6d",
+      "fetchedAt": "2026-11-05T11:28:19.235473+00:00"
+    },
+    "anthropic-work-2025": {
+      "status": "ready",
+      "url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "sourceTitle": "Anthropic 内部研究：工程师能力边界扩大，也开始担心技能与协作流失",
+      "contentHash": "c8ed74bb129392a563abcd9a0f0816e89d83cc824bdb5cde59c0a96edcb3595a",
+      "fetchedAt": "2026-11-05T11:28:19.381357+00:00"
+    },
+    "amazon-workforce-2025": {
+      "status": "ready",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction",
+      "sourceTitle": "亚马逊公布企业岗位调整，将减少层级与增加责任归属列为方向",
+      "contentHash": "ce5eacd0c0587760e1b2dd584d7e2591d0fd810c1d6469d1dea55787729fbdb1",
+      "fetchedAt": "2026-11-05T11:28:22.189801+00:00"
+    },
+    "amazon-ai-2025": {
+      "status": "ready",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-on-generative-ai",
+      "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
+      "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772",
+      "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
+    },
+    "rss-25fa4dd18ec78a48a923": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "sourceTitle": "Setting a new standard for responsible AI infrastructure",
+      "error": "http_403"
+    },
+    "rss-ebcb473680819ed5ad4c": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+      "sourceTitle": "Take a closer look at art with the Courtauld",
+      "contentHash": "7a3559a1391b7659f34f1c81bfcbee3cf016c90c83eb82c08470f61a330aa529",
+      "fetchedAt": "2026-11-05T11:28:24.278876+00:00"
+    },
+    "rss-6ca7ade89b448d15482d": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+      "sourceTitle": "We're sharing our framework for building safer and more helpful AI for health.",
+      "contentHash": "d4690ec09b41495e91a655c98a8c45fc4ae652b7d49a22f4feaf7947bc0cdb8c",
+      "fetchedAt": "2026-11-05T11:28:25.449144+00:00"
+    },
+    "rss-981785a01550309d0739": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "sourceTitle": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "error": "http_403"
+    },
+    "rss-4bbda0ce74fa502d3f00": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+      "sourceTitle": "Advancing research and partnering with universities in Singapore",
+      "contentHash": "99b1288d028d9dd3158a5942c93c0d39a9c80146e8f467ec09748fcc5fe7ace9",
+      "fetchedAt": "2026-11-05T11:28:25.350591+00:00"
+    },
+    "rss-fc87a45dcfbf03d41725": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/heimstaden",
+      "sourceTitle": "Heimstaden is changing residential real estate management with AI",
+      "error": "http_403"
+    },
+    "rss-cbb0fcae787c165c5bda": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
+      "sourceTitle": "New research shows how Guided Learning supports students",
+      "contentHash": "8a17b5af17788f3767ac188f26297b2d0392231e719bd877e25373c7b1b0ec79",
+      "fetchedAt": "2026-11-05T11:28:27.418739+00:00"
+    },
+    "rss-f0d23aa208df96d78828": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "sourceTitle": "We’re providing funding for organizations building AI for teachers.",
+      "contentHash": "0410d43d6ac95c60ae351a701e83e6846985c4d08680ef36f21765f886bb8bf8",
+      "fetchedAt": "2026-11-05T11:28:28.778110+00:00"
+    },
+    "rss-2b728cf359cf7fb3768d": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "sourceTitle": "AI in the learning era",
+      "contentHash": "f42c02432ddf965ba6fb9964967663ac51e9d51bd5def514819db0af438bd683",
+      "fetchedAt": "2026-11-05T11:37:24.076407+00:00"
+    },
+    "rss-f2497d2da3243c287b78": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "sourceTitle": "Designing responsible AI for learning",
+      "contentHash": "d0556e81171cb385ca16e9d38b5276e29cc7b04f126b37249b1d1a2de5899bdb",
+      "fetchedAt": "2026-11-05T11:28:28.690742+00:00"
+    },
+    "rss-31aaaae73a614a69444d": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+      "sourceTitle": "Expanding AI educator training to new countries",
+      "contentHash": "7d25b039efa02df8b653249c5f054a0320a094a9b562b99393133597d7c097f2",
+      "fetchedAt": "2026-11-05T11:28:30.359456+00:00"
+    },
+    "rss-25493a43cba550c7fe81": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "sourceTitle": "Accelerating engineering for the physical world",
+      "error": "http_403"
+    },
+    "rss-34e7d62615202d0de65f": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/cisco-cyber",
+      "sourceTitle": "How Cisco defends at machine speed with OpenAI",
+      "error": "http_403"
+    },
+    "rss-019edb616369c3322f4c": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "sourceTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "error": "http_403"
+    },
+    "rss-996c88dfa31d64c0a9d6": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "sourceTitle": "The latest AI news we announced in October 2026",
+      "contentHash": "d69496faa4f0719b3b7b2c613a688da8350e8a6ce775aa6f9f0e21c3248dc0f1",
+      "fetchedAt": "2026-11-05T11:28:31.869379+00:00"
+    },
+    "rss-0d297090385ad5a72451": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "sourceTitle": "Preparing our next security sprint to harden OpenAI",
+      "error": "http_403"
+    },
+    "rss-5a014341bc3fc0f1d8b6": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/lifeval",
+      "sourceTitle": "LifeVal",
+      "error": "http_403"
+    },
+    "rss-4094d4340f9e66f9e2fc": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "sourceTitle": "Qodo builds context into AI code review with Codex",
+      "error": "http_403"
+    },
+    "rss-945f879ef3a469b4aebe": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "sourceTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "error": "http_403"
+    },
+    "rss-cbcd682a693800b6056a": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "sourceTitle": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "contentHash": "3b5da28d464f7499ec74593b5f5b65bcd43f7be840a24b656053d62d3876ee6d",
+      "fetchedAt": "2026-11-05T11:28:32.001488+00:00"
+    },
+    "rss-84abd1857de5dfd951d9": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "sourceTitle": "Making it easier for websites to express AI training preferences",
+      "error": "http_403"
+    },
+    "rss-574dbaf7fc8731e40575": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "sourceTitle": "Fair use benefits everyone",
+      "error": "http_403"
+    },
+    "rss-7ff097b88dbb7fb2e75d": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+      "sourceTitle": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "contentHash": "e6e86aefbc06cd77f6c39c9f19d6eda2ea9b2677c4d801276432ad71d839cc1b",
+      "fetchedAt": "2026-11-05T11:28:33.553817+00:00"
+    },
+    "rss-1facaa3c3baefce41216": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
+      "sourceTitle": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+      "contentHash": "39026d691f53b63855bd6d894f1ad3bb6809f9fda7d68976402483534f69a46b",
+      "fetchedAt": "2026-11-05T11:28:35.069653+00:00"
+    },
+    "rss-bfe4fa6b3e5fe5f12268": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+      "sourceTitle": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+      "contentHash": "9f28ecfaa5e1425e5df2317900d1552875abbd678fbaad602048bfcb2228c957",
+      "fetchedAt": "2026-11-05T11:28:35.216441+00:00"
+    },
+    "rss-78f16d28b1ed69b60235": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
+      "sourceTitle": "Equipping healthcare professionals with practical AI skills",
+      "contentHash": "3dbd350392e16a4eae181ef0a25cb64b19fd2142b788793f42a40ad0a0404e5f",
+      "fetchedAt": "2026-11-05T11:28:36.695633+00:00"
+    },
+    "rss-e8b654ca9543c3054765": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
+      "sourceTitle": "How to use Gemini to update your resume",
+      "contentHash": "5148c228def22d0e8a1302873f04f5a50c399b464bdcdfba8b42bbf3aca183f1",
+      "fetchedAt": "2026-11-05T11:37:24.074923+00:00"
+    },
+    "rss-3454fea505b4cd51ebd8": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+      "sourceTitle": "How Gemini is helping students and teachers in the classroom",
+      "contentHash": "2c76ae23fa2320a159ed431ac514d34053fd99cc5a9d4664398bfe21804c5c34",
+      "fetchedAt": "2026-11-05T11:28:38.085312+00:00"
+    },
+    "rss-ce1b34a80db9a6e7c540": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+      "sourceTitle": "Partnering with Singapore to bring frontier AI to public health",
+      "contentHash": "6cc703a452a77d241d159473fe55c3fd81695cb720e0b70cb31fb1b0c31c1421",
+      "fetchedAt": "2026-11-05T11:28:38.472538+00:00"
+    },
+    "rss-9349f418e7bc7ab45091": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/updated-model-spec",
+      "sourceTitle": "An updated Model Spec for more capable and beneficial AI",
+      "error": "http_403"
+    },
+    "rss-0f01adb2acab0a67ba71": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "sourceTitle": "How we detect frontier model misalignment",
+      "error": "http_403"
+    },
+    "rss-d948735545c20cf30721": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "sourceTitle": "How Ropes & Gray is developing AI for transactional diligence",
+      "error": "http_403"
+    },
+    "rss-85f94c0fe8f02a81789b": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/credit-saison",
+      "sourceTitle": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "error": "http_403"
+    },
+    "rss-41804386d21a770b2b19": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
+      "sourceTitle": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+      "contentHash": "38dcf76dfcf7a8932666b7a423e731eba6989a503debdd854f5b4d67853b5f49",
+      "fetchedAt": "2026-11-05T11:28:44.907283+00:00"
+    },
+    "rss-fe3342fed45e766d5791": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+      "sourceTitle": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+      "contentHash": "da2b617a5a23adf256184604dcd27fa36a904eebf6f6df1daf49422a2687a6bf",
+      "fetchedAt": "2026-11-05T11:28:43.531630+00:00"
+    },
+    "rss-c2494667117d789fe0c0": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+      "sourceTitle": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "contentHash": "4c94840ab584b5189260022f7e2254c1f4d2ab46c2d5b5e9e9ced7c9fd9b49fb",
+      "fetchedAt": "2026-11-05T11:28:40.608655+00:00"
+    },
+    "rss-70900e9483bbbec4b24c": {
+      "status": "ready",
+      "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+      "sourceTitle": "Ads in AI Mode expand to new markets.",
+      "contentHash": "b1455489d304fddecb098d1e360b8094cd2f72a11ebc2e7e6d9b4ac0ab609ccd",
+      "fetchedAt": "2026-11-05T11:28:43.428864+00:00"
+    },
+    "rss-f1b1625f67db9cc81d99": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+      "sourceTitle": "Dive into new topics with immersive explorations in the Gemini app.",
+      "contentHash": "9691d22d2abd391513742b8e4e6cdcee5290b814f423d62a1227dac182ab9438",
+      "fetchedAt": "2026-11-05T11:28:46.797786+00:00"
+    },
+    "rss-a395c7da350b5086cc15": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "sourceTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "error": "http_403"
+    },
+    "rss-e2ed7680c50ae3f074e0": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "sourceTitle": "The future of the firm",
+      "error": "http_403"
+    },
+    "rss-709cc8e2bd467b791689": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/legora",
+      "sourceTitle": "Legora is building the agentic operating system for legal work",
+      "error": "http_403"
+    },
+    "rss-0581385f35cc1b6867a0": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+      "sourceTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+      "contentHash": "37112cc27006c41f3181e7708a1775fa3f7764869d5b717668b5aa95f591f458",
+      "fetchedAt": "2026-11-05T11:28:50.988229+00:00"
+    },
+    "rss-13347cc46aef6df7e315": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
+      "sourceTitle": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
+      "contentHash": "ee81e782c28a1f4061a509d6dda2d75e3613df37db9c945000c83ff682c2bc9d",
+      "fetchedAt": "2026-11-05T11:28:50.292987+00:00"
+    },
+    "rss-16681fd606d5f6994d06": {
+      "status": "unavailable",
+      "url": "https://openai.com/ads/customers/evernote",
+      "sourceTitle": "Evernote turns AI-driven discovery into paid subscriptions",
+      "error": "http_403"
+    },
+    "rss-1e3ebf94e41ebe19793b": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/retell-ai",
+      "sourceTitle": "Retell uses OpenAI models to help power 100M monthly calls",
+      "error": "http_403"
+    },
+    "rss-c417f8e3d39d0b893c07": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "sourceTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "error": "http_403"
+    },
+    "rss-c44dc9ed271ff418b14a": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "sourceTitle": "How Check Point accelerates vulnerability research with Daybreak",
+      "error": "http_403"
+    },
+    "rss-a2c86f83567732fb85f8": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
+      "sourceTitle": "Introducing a Voluntary Exit Offer",
+      "contentHash": "f6ddfeb4831536d514f2d346f7a924d555373f4f9c2f269ee2aaaba5308c3f38",
+      "fetchedAt": "2026-11-05T11:28:49.169570+00:00"
+    },
+    "rss-a9c488820a62ac4adcd9": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "sourceTitle": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "error": "http_403"
+    },
+    "rss-8eb6001a836a6e50b8fb": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "sourceTitle": "Working with academic communities to build scientific understanding",
+      "error": "http_403"
+    },
+    "rss-7d972df501d01ba1f64a": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "sourceTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "error": "http_403"
+    },
+    "rss-742d30efdc4090c11a97": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "sourceTitle": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "error": "http_403"
+    },
+    "rss-f8c156dba7886826388b": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "sourceTitle": "Securing our frontier model training environment",
+      "error": "http_403"
+    },
+    "rss-3b5a2a6a27ab5490f80a": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/anima",
+      "sourceTitle": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "error": "http_403"
+    },
+    "rss-1a543055a02f9816518c": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "sourceTitle": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "error": "http_403"
+    },
+    "rss-eda525050cea8fce4b13": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "sourceTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "error": "http_403"
+    },
+    "rss-95dedf578de78f3ec264": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "sourceTitle": "OpenAI models are coming to Google Cloud",
+      "error": "http_403"
+    },
+    "rss-de9db6f384cbc7887755": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "sourceTitle": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "error": "http_403"
+    },
+    "rss-64ddfb139fec8a1cb459": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "sourceTitle": "Using thousands of AI agents to uncover new leads in biological data",
+      "error": "http_403"
+    },
+    "rss-e270f5ba4688033de075": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "sourceTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "error": "http_403"
+    },
+    "rss-130b99afb50dd1d71a0d": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "sourceTitle": "Advancing digital sovereignty with greater control and choice",
+      "contentHash": "e6fdcefb00b1e73c4339944145b37fff3f0446f5c7f582233f5025e27e18478f",
+      "fetchedAt": "2026-11-05T11:28:51.461030+00:00"
+    },
+    "rss-1725d137aa3debc0d8ae": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "sourceTitle": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "error": "http_403"
+    },
+    "rss-aa8847d44cbae3328f3c": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/terminal-x",
+      "sourceTitle": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "error": "http_403"
+    },
+    "rss-1cfb6291fa158d05a5ba": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "sourceTitle": "OpenAI acquires Orchestra Bio",
+      "error": "http_403"
+    },
+    "rss-d5edcab10a18dcceb353": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "sourceTitle": "Securing the agentic insider",
+      "contentHash": "6de4eaf6b73acc504de8bac57f83c509e6a96038a1dcaaaa7889dde6540ed11a",
+      "fetchedAt": "2026-11-05T11:28:52.504120+00:00"
+    },
+    "rss-9732b2763df5a67ab945": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "sourceTitle": "How Itaú is building generative AI for its entire customer base",
+      "error": "http_403"
+    },
+    "rss-d3b9ba6f7bd01af06315": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/localiza-generative-ai",
+      "sourceTitle": "How Localiza reorganized work around generative AI",
+      "error": "http_403"
+    },
+    "rss-86dbfdb5b436c283839e": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/grupo-boticario",
+      "sourceTitle": "How Grupo Boticário uses AI to strengthen human connections",
+      "error": "http_403"
+    },
+    "rss-9e63539289a31c8631b6": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "sourceTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "error": "http_403"
+    },
+    "rss-32165ee6af8945a5bd83": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "sourceTitle": "Bringing GPT-Rosalind to academic research labs",
+      "error": "http_403"
+    },
+    "rss-a60f4a701f887ae8f46b": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "sourceTitle": "Teaching students to think and learn through questions",
+      "error": "http_403"
+    },
+    "rss-94eadcab22c41e356a1d": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "sourceTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "error": "http_403"
+    },
+    "rss-144647f83aa6804e0beb": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+      "sourceTitle": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+      "contentHash": "fecf1c52473a1a8a7c4d09c63a1ad3765e55b395ed73cafb5e4eb9066f9774d2",
+      "fetchedAt": "2026-11-05T11:28:56.418444+00:00"
+    },
+    "rss-57c3309db5bedcdec4e0": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "sourceTitle": "Amp puts AI agents to work beyond code with OpenAI models",
+      "error": "http_403"
+    },
+    "rss-a8b8c31de898145e14c8": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/third-moment-research",
+      "sourceTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "error": "http_403"
+    },
+    "rss-94ee28b93f9d2d830319": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "sourceTitle": "How Block is building AI-powered security with OpenAI technology",
+      "error": "http_403"
+    },
+    "rss-200a5d3dd39c6bfb7a20": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "sourceTitle": "The EU’s next chapter in AI is agentic",
+      "error": "http_403"
+    },
+    "rss-fb9782751b5c994c8a85": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+      "sourceTitle": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+      "contentHash": "81caa00c4e8d50ffe6bde9ec5e6a832ccff03e1054a3c1a33694554130783fbe",
+      "fetchedAt": "2026-11-05T11:28:59.249318+00:00"
+    },
+    "rss-8d45898e533e591d4241": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "sourceTitle": "Higgsfield takes AI video from 1 minute to over 10",
+      "error": "http_403"
+    },
+    "rss-677117a6476c9ea93f69": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+      "sourceTitle": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+      "contentHash": "822cbb06fcc4d132f2d250e7d8f791ec74596cfe329a4b122ecd403b52b9a576",
+      "fetchedAt": "2026-11-05T11:28:59.245385+00:00"
+    },
+    "rss-9bf93d58cc35db9987f8": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "sourceTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "error": "http_403"
+    },
+    "rss-db7b9e6fe248e3146f87": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/oracle",
+      "sourceTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "error": "http_403"
+    },
+    "rss-855092fba1df7e8a668b": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/pollo-ai",
+      "sourceTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "error": "http_403"
+    },
+    "rss-d9e485b409fe8517ac6e": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "sourceTitle": "Disrupting AI-enabled “false front” operations",
+      "error": "http_403"
+    },
+    "rss-661f64ddb5f472a2675e": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "sourceTitle": "Helping teens learn, plan, and shape the future of AI",
+      "error": "http_403"
+    },
+    "rss-ebb413cc5359756bf923": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/jump-trading",
+      "sourceTitle": "How Jump Trading is scaling quant research with ChatGPT",
+      "error": "http_403"
+    },
+    "rss-3f1df7d1e497a618a33d": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
+      "sourceTitle": "Microsoft 365 and LinkedIn leadership update",
+      "contentHash": "ad6e530a54f896b66da965efae6f145ddf435558ef58d4e61c54b364a1603a85",
+      "fetchedAt": "2026-11-05T11:28:58.525650+00:00"
+    },
+    "rss-a818078acf2d71e32781": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "sourceTitle": "New Microsoft data innovations unlock what only your business knows",
+      "contentHash": "607f4b68b181823ea989e2ca8c080d367a25e1ea98f5322feb7084a2090530ba",
+      "fetchedAt": "2026-11-05T11:29:00.800740+00:00"
+    },
+    "rss-bb8739a9d6a76e6df066": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "sourceTitle": "Introducing the new Copilot with Home, Code and Autopilot",
+      "contentHash": "de64a29c664f5a67d0c29fdb1922e2a7b6c0657034599862a480e5c39bc38617",
+      "fetchedAt": "2026-11-05T11:29:01.665363+00:00"
+    },
+    "rss-bdfbcd1e218247afd5ad": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+      "sourceTitle": "What we’ve learned from Microsoft’s own AI transformation",
+      "contentHash": "90e55fa2c437cd1a8a4f767b2f47b27200ea36690ff70a119323ad61a26d196c",
+      "fetchedAt": "2026-11-05T11:29:01.651113+00:00"
+    }
+  }
+}

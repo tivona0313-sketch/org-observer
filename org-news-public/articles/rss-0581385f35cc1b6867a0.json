@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-0581385f35cc1b6867a0",
+  "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+  "sourceTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:58.565971+00:00",
+  "fetchedAt": "2026-11-05T11:28:50.988229+00:00",
+  "finalURL": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
+  "language": "en",
+  "originalTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
+  "author": "heathera",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We believe the future is for everyone, including America’s universities, professors, students, and the communities who benefit from their research. That’s why Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to academia through partnerships with five US universities: California Institute of Technology, The Ohio State University College of Medicine, Louisiana State University, Indiana University, and UTHealth Houston.",
+      "id": "p1",
+      "zh": "我们认为未来是每个人的,包括美国的大学,教授们,学生们,以及受益于其研究的社区。所以Meta会引进超级智能模型,研究资金,并通过与美国五所大学的伙伴关系,指导研究人员与学术界合作:加州理工学院,俄亥俄州立大学医学院路易斯安那州立大学,印第安纳大学,和UTHEH休斯顿。",
+      "en": "We believe the future is for everyone, including America’s universities, professors, students, and the communities who benefit from their research. That’s why Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to academia through partnerships with five US universities: California Institute of Technology, The Ohio State University College of Medicine, Louisiana State University, Indiana University, and UTHealth Houston."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’re expanding our academic partnerships by granting $2 million across these five schools to support research that uses our models to accelerate breakthroughs in medicine, physics, chemistry, biology, computer science, and mathematics.",
+      "id": "p2",
+      "zh": "我们通过在这五所学校中拨款200万美元来扩大学术伙伴关系,支持利用我们的模型来加速医学突破的研究,物理学,化学,生物学,计算机科学,和数学",
+      "en": "We’re expanding our academic partnerships by granting $2 million across these five schools to support research that uses our models to accelerate breakthroughs in medicine, physics, chemistry, biology, computer science, and mathematics."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In medicine and healthcare, researchers will work on a diverse set of projects using Meta’s models, glasses, and mixed reality headsets to address existing gaps in medicine and healthcare. Here are a few examples of how they’re being used:",
+      "id": "p3",
+      "zh": "在医药和保健方面,研究人员将利用Meta的模型来研究一系列不同的项目,眼镜和混合现实耳机,以解决在医药和保健方面的现有差距。以下是如何使用这些工具的几个例子:",
+      "en": "In medicine and healthcare, researchers will work on a diverse set of projects using Meta’s models, glasses, and mixed reality headsets to address existing gaps in medicine and healthcare. Here are a few examples of how they’re being used:"
+    },
+    {
+      "kind": "heading",
+      "text": "Monitoring for Infant Tracheostomies",
+      "id": "p4",
+      "zh": "婴儿排泄物监测",
+      "en": "Monitoring for Infant Tracheostomies"
+    },
+    {
+      "kind": "paragraph",
+      "text": "When tracheostomy tubes become dislodged in infant patients, it’s a life-threatening emergency compounded by the fact that babies with tracheostomies can’t cry out for help. And continuous direct observation by trained staff isn’t always possible.",
+      "id": "p5",
+      "zh": "当气管切除管在婴儿患者中被拆散时,患有气管切除术的婴儿无法呼救,由训练有素的工作人员持续直接观察并不总是可能的。",
+      "en": "When tracheostomy tubes become dislodged in infant patients, it’s a life-threatening emergency compounded by the fact that babies with tracheostomies can’t cry out for help. And continuous direct observation by trained staff isn’t always possible."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Dr. Michael Dunham from Louisiana State University is leading the Eyes-On project, which is developing a computer vision system to continuously detect tracheostomy tube displacement and signs of distress in infants who cannot reliably vocalize. The system is exploring usage of our open weight SAM models for tracking and is designed for integration with bedside cameras and edge computing. A proof-of-concept has been published, with more work to come.",
+      "id": "p6",
+      "zh": "医生。来自路易斯安那州立大学的迈克尔·邓汉姆 正在领导眼球项目它正在开发一个计算机视觉系统,以不断检测气管切除管的转移和无法可靠地发出声音的婴儿的危难迹象。该系统正在探索使用我们的开放重量SAM模型进行跟踪,并旨在与床边摄像机和边缘计算相结合。概念证明已经公布,还要做更多的工作",
+      "en": "Dr. Michael Dunham from Louisiana State University is leading the Eyes-On project, which is developing a computer vision system to continuously detect tracheostomy tube displacement and signs of distress in infants who cannot reliably vocalize. The system is exploring usage of our open weight SAM models for tracking and is designed for integration with bedside cameras and edge computing. A proof-of-concept has been published, with more work to come."
+    },
+    {
+      "kind": "heading",
+      "text": "Conversational AI for Dementia Care",
+      "id": "p7",
+      "zh": "痴呆症护理对话AI",
+      "en": "Conversational AI for Dementia Care"
+    },
+    {
+      "kind": "paragraph",
+      "text": "People with dementia often experience communication difficulties that standard conversational AI systems handle poorly, leading to frustration rather than support. Dr. David Crandall at Indiana University is developing a project that aims to develop multimodal AI methods for analyzing conversations involving older adults living with dementia, and to use this understanding to help conversational agents — including social robots — adapt their interactions to individual users. The research tests whether AI systems can be made sensitive to the communication patterns of people with cognitive differences.",
+      "id": "p8",
+      "zh": "患有痴呆症的人经常遇到沟通困难,标准的对话AI系统处理不当,导致挫折而不是支持。医生。印第安纳大学的David Crandall正在开发一个项目,旨在开发用于分析老年痴呆症患者的对话的多式人工智能方法,并利用这种理解来帮助对话代理人——包括社交机器人——使其互动适应个人用户.研究测试AI系统能否对认知差异人物的交流模式保持敏感.",
+      "en": "People with dementia often experience communication difficulties that standard conversational AI systems handle poorly, leading to frustration rather than support. Dr. David Crandall at Indiana University is developing a project that aims to develop multimodal AI methods for analyzing conversations involving older adults living with dementia, and to use this understanding to help conversational agents — including social robots — adapt their interactions to individual users. The research tests whether AI systems can be made sensitive to the communication patterns of people with cognitive differences."
+    },
+    {
+      "kind": "heading",
+      "text": "Identifying Heart Failure Risk Earlier",
+      "id": "p9",
+      "zh": "早期识别心脏衰竭风险",
+      "en": "Identifying Heart Failure Risk Earlier"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Heart failure with preserved ejection fraction (HFpEF) accounts for roughly half of all heart failure cases, but it can be difficult to recognize early — its symptoms overlap with those of obesity and other common conditions, so formal evaluation often begins only after clinical suspicion has developed.",
+      "id": "p10",
+      "zh": "心力衰竭(HFpEF)占所有心力衰竭病例的大约一半,但很难及早发现 其症状与肥胖症和其他常见病重合所以正式的评估往往在临床怀疑形成后才开始.",
+      "en": "Heart failure with preserved ejection fraction (HFpEF) accounts for roughly half of all heart failure cases, but it can be difficult to recognize early — its symptoms overlap with those of obesity and other common conditions, so formal evaluation often begins only after clinical suspicion has developed."
+    },
+    {
+      "kind": "paragraph",
+      "text": "At The Ohio State University College of Medicine, AI researcher Dr. Yuan Xue is leading a project with cardiologist Dr. Yuchi Han and AI researcher Dr. Xia Ning to investigate how Meta’s open-weight models can help predict future HFpEF risk using routine abdominal CT scans, longitudinal medical records, and ECG data when available. The team is designing the model to handle missing data, since real-world clinical practice rarely provides a complete set of inputs.",
+      "id": "p11",
+      "zh": "在俄亥俄州立大学医学院AI研究员 Dr.袁雪与心科医生共同领导一项工程.(原始内容存档于2018-09-21). Yuchi Han and AI Researcherve Dr.霞宁调查Meta的开放式模型 如何利用常规腹部CT扫描 帮助预测未来的HFpEF风险,纵向医疗记录,以及可获得的ECG数据。团队正在设计模型 处理缺失的数据,因为现实世界的临床实践很少能提供一整套投入.",
+      "en": "At The Ohio State University College of Medicine, AI researcher Dr. Yuan Xue is leading a project with cardiologist Dr. Yuchi Han and AI researcher Dr. Xia Ning to investigate how Meta’s open-weight models can help predict future HFpEF risk using routine abdominal CT scans, longitudinal medical records, and ECG data when available. The team is designing the model to handle missing data, since real-world clinical practice rarely provides a complete set of inputs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can read more on these projects on our Research Blog, and we look forward to sharing more as these projects get underway.",
+      "id": "p12",
+      "zh": "你可以在研究博客上多读读这些项目,我们期待着随着这些项目的展开而分享更多的信息。",
+      "en": "You can read more on these projects on our Research Blog, and we look forward to sharing more as these projects get underway."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们认为未来是每个人的,包括美国的大学,教授们,学生们,以及受益于其研究的社区。所以Meta会引进超级智能模型,研究资金,并通过与美国五所大学的伙伴关系,指导研究人员与学术界合作:加州理工学院,俄亥俄州立大学医学院路易斯安那州立大学,印第安纳大学,和UTHEH休斯顿。",
+      "en": "We believe the future is for everyone, including America’s universities, professors, students, and the communities who benefit from their research. That’s why Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to academia through partnerships with five US universities: California Institute of Technology, The Ohio State University College of Medicine, Louisiana State University, Indiana University, and UTHealth Houston."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "我们通过在这五所学校中拨款200万美元来扩大学术伙伴关系,支持利用我们的模型来加速医学突破的研究,物理学,化学,生物学,计算机科学,和数学",
+      "en": "We’re expanding our academic partnerships by granting $2 million across these five schools to support research that uses our models to accelerate breakthroughs in medicine, physics, chemistry, biology, computer science, and mathematics."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "在医药和保健方面,研究人员将利用Meta的模型来研究一系列不同的项目,眼镜和混合现实耳机,以解决在医药和保健方面的现有差距。以下是如何使用这些工具的几个例子:",
+      "en": "In medicine and healthcare, researchers will work on a diverse set of projects using Meta’s models, glasses, and mixed reality headsets to address existing gaps in medicine and healthcare. Here are a few examples of how they’re being used:"
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "在俄亥俄州立大学医学院AI研究员 Dr.袁雪与心科医生共同领导一项工程.(原始内容存档于2018-09-21).Yuchi Han and AI Researcherve Dr.霞宁调查Meta的开放式模型 如何利用常规腹部CT扫描 帮助预测未来的HFpEF风险,纵向医疗记录,以及可获得的ECG数据。",
+      "en": "At The Ohio State University College of Medicine, AI researcher Dr. Yuan Xue is leading a project with cardiologist Dr."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "37112cc27006c41f3181e7708a1775fa3f7764869d5b717668b5aa95f591f458"
+}

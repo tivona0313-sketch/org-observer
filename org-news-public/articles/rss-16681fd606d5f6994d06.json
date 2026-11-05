@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-16681fd606d5f6994d06",
+  "url": "https://openai.com/ads/customers/evernote",
+  "sourceTitle": "Evernote turns AI-driven discovery into paid subscriptions",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:11.047196+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:11.312771+00:00"
+}

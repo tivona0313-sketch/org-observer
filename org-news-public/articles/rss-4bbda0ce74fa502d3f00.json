@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-4bbda0ce74fa502d3f00",
+  "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+  "sourceTitle": "Advancing research and partnering with universities in Singapore",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:46:49.519451+00:00",
+  "fetchedAt": "2026-11-05T11:28:25.350591+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
+  "language": "en",
+  "originalTitle": "Advancing research and partnering with universities in Singapore",
+  "author": "Yossi Matias",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Technology is already transforming how we approach the world’s toughest challenges, and continuing that momentum requires supporting the people driving foundational science. With our newly established research hub in Singapore, and as we continue to scale existing health research initiatives in the country — including bringing open models like MedGemma to frontline care settings — Google is also deepening its academic partnerships in Singapore by investing over $6 million in new research grants and capacity-building initiatives at National University of Singapore (NUS) and Nanyang Technological University (NTU).",
+      "id": "p1",
+      "zh": "科技已经在改变我们应对世界最严峻挑战的方式,保持这一势头需要支持推动基础科学的人。我们刚刚在新加坡建立了研究中心随着我们继续扩大该国现有的保健研究倡议,包括将MedGemma这样的开放模式引入第一线的护理环境,Google也正在扩大范围。通过投资600多万新加坡国立大学的新研究赠款和能力建设倡议,深化其在新加坡的学术伙伴关系和南洋理工大学(NTU).",
+      "en": "Technology is already transforming how we approach the world’s toughest challenges, and continuing that momentum requires supporting the people driving foundational science. With our newly established research hub in Singapore, and as we continue to scale existing health research initiatives in the country — including bringing open models like MedGemma to frontline care settings — Google is also deepening its academic partnerships in Singapore by investing over $6 million in new research grants and capacity-building initiatives at National University of Singapore (NUS) and Nanyang Technological University (NTU)."
+    },
+    {
+      "kind": "heading",
+      "text": "Backing foundational and applied breakthroughs",
+      "id": "p2",
+      "zh": "支撑基础和应用突破",
+      "en": "Backing foundational and applied breakthroughs"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our targeted grants address both urgent biomedical frontiers and the core building blocks of computing:",
+      "id": "p3",
+      "zh": "我们的定向赠款既针对紧急生物医学领域,也针对计算的核心组成部分:",
+      "en": "Our targeted grants address both urgent biomedical frontiers and the core building blocks of computing:"
+    },
+    {
+      "kind": "list",
+      "text": "Alzheimer’s research ($1.5 million grant — NUS): Selected from over 3,500 global applications, NUS has been awarded an AI for Science Google.org Impact Challenge Grant to advance breakthroughs in neurodegenerative disease research using AI models and data science.",
+      "id": "p4",
+      "zh": "阿尔茨海默症研究(150万美元赠款——北澳大利亚州):从3 500多个全球应用中选取,NUS曾被授予AI for Science Google.org 影响挑战赠款,以利用AI模型和数据科学推进神经变性疾病研究的突破.",
+      "en": "Alzheimer’s research ($1.5 million grant — NUS): Selected from over 3,500 global applications, NUS has been awarded an AI for Science Google.org Impact Challenge Grant to advance breakthroughs in neurodegenerative disease research using AI models and data science."
+    },
+    {
+      "kind": "list",
+      "text": "Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing.",
+      "id": "p5",
+      "zh": "计算效率和区域语言(500 000美元赠款——北澳大利亚州):这笔资金用于支持机器学习效率——侧重于可持续的计算和为优化服务的模式——以及区域语言处理。",
+      "en": "Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing."
+    },
+    {
+      "kind": "list",
+      "text": "AI safety and security ($340,000 grant — NTU): We are funding four sponsored research studies at NTU focused on advancing AI safety frameworks, robust evaluation methodologies, trustworthy multi-agent systems, and privacy-preserving LLM watermarking.",
+      "id": "p6",
+      "zh": "AI 安全和安保(340 000美元赠款——NTU):我们资助了NTU的四项赞助研究,重点是推进AI安全框架,强有力的评价方法,可靠的多代理系统,和隐私保护 LLM 水标记。",
+      "en": "AI safety and security ($340,000 grant — NTU): We are funding four sponsored research studies at NTU focused on advancing AI safety frameworks, robust evaluation methodologies, trustworthy multi-agent systems, and privacy-preserving LLM watermarking."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Google team met with NUS leadership, including Senior Vice Provost Prof. Bernard Tan and Dean of Computing Prof. Tulika Mitra, to align on new research infrastructure and cross-disciplinary workstreams.",
+      "id": "p7",
+      "zh": "Google团队会见了NUS领导层,包括高级副校长教授。伯纳德·谭和计算教授的院长.图利卡·米特拉与新的研究基础设施和跨学科工作流程保持一致。",
+      "en": "The Google team met with NUS leadership, including Senior Vice Provost Prof. Bernard Tan and Dean of Computing Prof. Tulika Mitra, to align on new research infrastructure and cross-disciplinary workstreams."
+    },
+    {
+      "kind": "heading",
+      "text": "Building capacity for research ecosystem and future scholars",
+      "id": "p8",
+      "zh": "建设研究生态系统和未来学者的能力",
+      "en": "Building capacity for research ecosystem and future scholars"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Beyond individual research projects, true ecosystem enablement requires investing in long-term institutional infrastructure and talent pipelines.",
+      "id": "p9",
+      "zh": "除了个别研究项目之外,真正的生态系统赋能需要投资于长期的体制基础设施和人才管道。",
+      "en": "Beyond individual research projects, true ecosystem enablement requires investing in long-term institutional infrastructure and talent pipelines."
+    },
+    {
+      "kind": "paragraph",
+      "text": "At NTU, a $750,000 AI for Science Capacity Fund Grant will help build permanent research capabilities across Southeast Asia. Under Professor Ho Teck Hua’s regional academic leadership, this initiative will establish lasting infrastructure, foster internal research agents, and build ethical AI frameworks that elevate the region’s scientific capacity.",
+      "id": "p10",
+      "zh": "在NTU时,a 750 000 AI科学能力基金赠款将帮助建立整个东南亚的长期研究能力。在何德华教授的地区学术领导下,这一举措将建立持久的基础设施,* 培养内部研究人员,建立道德意识框架,提升本区域的科学能力。",
+      "en": "At NTU, a $750,000 AI for Science Capacity Fund Grant will help build permanent research capabilities across Southeast Asia. Under Professor Ho Teck Hua’s regional academic leadership, this initiative will establish lasting infrastructure, foster internal research agents, and build ethical AI frameworks that elevate the region’s scientific capacity."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Google.org and Google DeepMind are also providing $3 million in funding to support INSEAD’s Thrive Lab in Singapore, which aims to advance global research into how people and organizations can thrive alongside rapid technological change. The lab will explore how education, workplaces, and communities can better support people to develop skills, find purpose, and build meaningful relationships in a changing world.",
+      "id": "p11",
+      "zh": "Google.org和Google DeepMind也提供300万美元的资金支持INSEAD在新加坡的Thrive Lab,其目的是促进全球研究,研究人和组织如何能够在迅速的技术变革的同时蓬勃发展。实验室将探索如何教育,工作场所,社区可以更好地支持人们发展技能,寻找目的,在不断变化的世界中建立有意义的关系。",
+      "en": "Google.org and Google DeepMind are also providing $3 million in funding to support INSEAD’s Thrive Lab in Singapore, which aims to advance global research into how people and organizations can thrive alongside rapid technological change. The lab will explore how education, workplaces, and communities can better support people to develop skills, find purpose, and build meaningful relationships in a changing world."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This human-centered research sits alongside a broader wave of scientific breakthroughs driving the region forward. Whether unlocking insights into neurodegenerative diseases, making models more efficient and inclusive of local languages, or establishing safe research infrastructure, Singapore’s academic community continues to set a global benchmark for innovation. We are proud to enable with our tools and models the faculty, researchers, and students who are not just experimenting with AI, but preparing to lead the next era of scientific progress",
+      "id": "p12",
+      "zh": "这一以人为中心的研究与推动本区域前进的更广泛的科学突破浪潮同时并进。是否解开对神经退化性疾病的洞察* 使模式更加有效,并包括当地语言;或建立安全的研究基础设施,新加坡学术界继续制定全球创新基准.我们自豪地以我们的工具和模式 使教职员工,研究人员,和那些不只是试验AI的学生,但准备领导下一个科学进步的时代",
+      "en": "This human-centered research sits alongside a broader wave of scientific breakthroughs driving the region forward. Whether unlocking insights into neurodegenerative diseases, making models more efficient and inclusive of local languages, or establishing safe research infrastructure, Singapore’s academic community continues to set a global benchmark for innovation. We are proud to enable with our tools and models the faculty, researchers, and students who are not just experimenting with AI, but preparing to lead the next era of scientific progress"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Google team met with the NTU Deputy President & Provost, Prof Christian Wolfrum and colleagues to discuss partnerships across frontier research and AI safety, science, and education.",
+      "id": "p13",
+      "zh": "Google团队会见了NTU副总裁兼普罗沃斯特,Christian Wolfrum教授和同事讨论跨界研究和AI安全的伙伴关系,科学,教育与教育。",
+      "en": "The Google team met with the NTU Deputy President & Provost, Prof Christian Wolfrum and colleagues to discuss partnerships across frontier research and AI safety, science, and education."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "科技已经在改变我们应对世界最严峻挑战的方式,保持这一势头需要支持推动基础科学的人。我们刚刚在新加坡建立了研究中心随着我们继续扩大该国现有的保健研究倡议,包括将MedGemma这样的开放模式引入第一线的护理环境,Google也正在扩大范围。",
+      "en": "Technology is already transforming how we approach the world’s toughest challenges, and continuing that momentum requires supporting the people driving foundational science. With our newly established research hub in Singapore, and as we continue to scale existing health research initiatives in the country — including bringing open models like MedGemma to frontline care settings — Google is also deepening its academic partnerships in Singapore by investing over $6 million in new research grants and capacity-building initiatives at National University of Singapore (NUS) and Nanyang Technological University (NTU)."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "计算效率和区域语言(500 000美元赠款——北澳大利亚州):这笔资金用于支持机器学习效率——侧重于可持续的计算和为优化服务的模式——以及区域语言处理。",
+      "en": "Computing efficiency and regional languages ($500,000 grant — NUS): This funding supports machine learning efficiency — focusing on sustainable compute and model serving optimization — and regional language processing."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "在NTU时,a 750 000 AI科学能力基金赠款将帮助建立整个东南亚的长期研究能力。在何德华教授的地区学术领导下,这一举措将建立持久的基础设施,* 培养内部研究人员,建立道德意识框架,提升本区域的科学能力。",
+      "en": "At NTU, a $750,000 AI for Science Capacity Fund Grant will help build permanent research capabilities across Southeast Asia. Under Professor Ho Teck Hua’s regional academic leadership, this initiative will establish lasting infrastructure, foster internal research agents, and build ethical AI frameworks that elevate the region’s scientific capacity."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "Google.org和Google DeepMind也提供300万美元的资金支持INSEAD在新加坡的Thrive Lab,其目的是促进全球研究,研究人和组织如何能够在迅速的技术变革的同时蓬勃发展。实验室将探索如何教育,工作场所,社区可以更好地支持人们发展技能,寻找目的,在不断变化的世界中建立有意义的关系。",
+      "en": "Google.org and Google DeepMind are also providing $3 million in funding to support INSEAD’s Thrive Lab in Singapore, which aims to advance global research into how people and organizations can thrive alongside rapid technological change. The lab will explore how education, workplaces, and communities can better support people to develop skills, find purpose, and build meaningful relationships in a changing world."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "99b1288d028d9dd3158a5942c93c0d39a9c80146e8f467ec09748fcc5fe7ace9"
+}

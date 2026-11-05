@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-70900e9483bbbec4b24c",
+  "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+  "sourceTitle": "Ads in AI Mode expand to new markets.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:49.499465+00:00",
+  "fetchedAt": "2026-11-05T11:28:43.428864+00:00",
+  "finalURL": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+  "language": "en",
+  "originalTitle": "Ads in AI Mode expand to new markets.",
+  "author": "Shashi Thakur",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We’re bringing ads in AI Mode to new countries.",
+      "id": "p1",
+      "zh": "我们正将AI Mode的广告带往新国家。",
+      "en": "We’re bringing ads in AI Mode to new countries."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As AI transforms how people search, queries are becoming increasingly conversational. In AI Mode, queries are, on average, three times longer than traditional searches. 1 AI helps us better understand what people are looking for, allowing us to connect them to the businesses and services that best match their needs.",
+      "id": "p2",
+      "zh": "随着AI改变人们的搜索方式,问询越来越具有对话性。在AI模式中,问讯是,平均来说,比传统的搜索要长三倍1AI帮助我们更好地了解人们在寻找什么,允许我们把他们与最符合他们需要的企业和服务联系起来。",
+      "en": "As AI transforms how people search, queries are becoming increasingly conversational. In AI Mode, queries are, on average, three times longer than traditional searches. 1 AI helps us better understand what people are looking for, allowing us to connect them to the businesses and services that best match their needs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our research shows that people are comfortable with ads in AI Mode and find them highly relevant. In fact, click-through rates are already similar between sponsored and organic product list items within AI Mode. 2",
+      "id": "p3",
+      "zh": "我们的研究表明,人们对AI Mode的广告感到自在,并发现它们高度相关.事实上,点击通过率已经在AI Mode内的赞助产品和有机产品列表项目之间类似.2个",
+      "en": "Our research shows that people are comfortable with ads in AI Mode and find them highly relevant. In fact, click-through rates are already similar between sponsored and organic product list items within AI Mode. 2"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Now we're scaling ads in AI Mode in Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. In Q4 2026, we plan to expand to additional locales, including Brazil, Mexico, and the United Kingdom.",
+      "id": "p4",
+      "zh": "现在我们在澳洲的AI Mode上缩放广告,加拿大,印度肯尼亚马来西亚新西兰,尼日利亚,巴基斯坦菲律宾,还有新加坡。在Q4 2026, (中文(简体) ).我们计划扩大到更多的地方,包括巴西在内,墨西哥,大不列颠及北爱尔兰联合王国。",
+      "en": "Now we're scaling ads in AI Mode in Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. In Q4 2026, we plan to expand to additional locales, including Brazil, Mexico, and the United Kingdom."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To allow ads in follow-up queries in AI Mode, we are launching multiturn ads in the U.S.",
+      "id": "p5",
+      "zh": "为了在AI Mode的后续查询中允许发布广告,我们正在美国推出多轮广告。",
+      "en": "To allow ads in follow-up queries in AI Mode, we are launching multiturn ads in the U.S."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ads will be clearly labeled as “Sponsored.” We’ll continue testing new formats to ensure ads remain helpful and relevant.",
+      "id": "p6",
+      "zh": "广告将明确标注为“赞助者 ” 。 我们将继续测试新的格式,以确保广告仍然有用和有用。",
+      "en": "Ads will be clearly labeled as “Sponsored.” We’ll continue testing new formats to ensure ads remain helpful and relevant."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Learn more here.",
+      "id": "p7",
+      "zh": "在这儿多学点",
+      "en": "Learn more here."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "随着AI改变人们的搜索方式,问询越来越具有对话性。在AI模式中,问讯是,平均来说,比传统的搜索要长三倍1AI帮助我们更好地了解人们在寻找什么,允许我们把他们与最符合他们需要的企业和服务联系起来。",
+      "en": "As AI transforms how people search, queries are becoming increasingly conversational. In AI Mode, queries are, on average, three times longer than traditional searches. 1 AI helps us better understand what people are looking for, allowing us to connect them to the businesses and services that best match their needs."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "我们的研究表明,人们对AI Mode的广告感到自在,并发现它们高度相关.事实上,点击通过率已经在AI Mode内的赞助产品和有机产品列表项目之间类似.2个",
+      "en": "Our research shows that people are comfortable with ads in AI Mode and find them highly relevant. In fact, click-through rates are already similar between sponsored and organic product list items within AI Mode. 2"
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "现在我们在澳洲的AI Mode上缩放广告,加拿大,印度肯尼亚马来西亚新西兰,尼日利亚,巴基斯坦菲律宾,还有新加坡。在Q4 2026, (中文(简体) ).我们计划扩大到更多的地方,包括巴西在内,墨西哥,大不列颠及北爱尔兰联合王国。",
+      "en": "Now we're scaling ads in AI Mode in Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. In Q4 2026, we plan to expand to additional locales, including Brazil, Mexico, and the United Kingdom."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "为了在AI Mode的后续查询中允许发布广告,我们正在美国推出多轮广告。",
+      "en": "To allow ads in follow-up queries in AI Mode, we are launching multiturn ads in the U.S."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "b1455489d304fddecb098d1e360b8094cd2f72a11ebc2e7e6d9b4ac0ab609ccd"
+}

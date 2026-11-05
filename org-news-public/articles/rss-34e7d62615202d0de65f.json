@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-34e7d62615202d0de65f",
+  "url": "https://openai.com/index/cisco-cyber",
+  "sourceTitle": "How Cisco defends at machine speed with OpenAI",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:26:54.708936+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:26:54.983661+00:00"
+}

@@ -2,22 +2,17 @@
 """Build reusable Chinese/English translations of public article fields."""
 import argparse
 import hashlib
-import http.client
 import json
 import os
 import re
-import socket
 import subprocess
-import urllib.error
-import urllib.parse
-import urllib.request
 from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait
 from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 FIELDS = ("title", "summary", "sourceTitle", "source", "points", "takeaway", "question", "caveat")
-PROVIDER = "Google Translate · machine translation"
+PROVIDER = "Machine translation · cached Google translations / Argos Open Tech for new text"
 
 
 def article_fields(article):
@@ -49,33 +44,8 @@ def source_language(text):
 
 def translate_text(text):
     source = source_language(text)
-    query = urllib.parse.urlencode({
-        "client": "gtx", "sl": "zh-CN" if source == "zh" else "en",
-        "tl": "en" if source == "zh" else "zh-CN", "dt": "t", "q": text,
-    })
-    request = urllib.request.Request(
-        "https://translate.googleapis.com/translate_a/single?" + query,
-        headers={"User-Agent": "OrgObserver/1.0", "Accept": "application/json"},
-    )
-    # One immediate retry covers transient 5xx and connection timeouts.
-    # Rate limits (429) and other permanent errors stop the batch immediately.
-    for attempt in range(2):
-        try:
-            with urllib.request.urlopen(request, timeout=30) as response:
-                body = response.read(500_001)
-                if len(body) > 500_000:
-                    raise ValueError("Translation response is too large")
-            break
-        except urllib.error.HTTPError as error:
-            if attempt or error.code < 500:
-                raise
-        except (socket.timeout, urllib.error.URLError, http.client.RemoteDisconnected):
-            if attempt:
-                raise
-    result = json.loads(body)
-    translated = "".join(segment[0] for segment in result[0] if segment and isinstance(segment[0], str)).strip()
-    if not translated:
-        raise ValueError("Empty translation")
+    from offline_translate import translate_batch
+    translated = translate_batch([text], source, "en" if source=="zh" else "zh")[0]
     return {"zh": text if source == "zh" else translated,
             "en": translated if source == "zh" else text}
 
@@ -121,7 +91,7 @@ def build_bilingual(articles, cache, translator=translate_text):
                     required.append(text)
     required = list(dict.fromkeys(required))
     print(f"Translation cache: {len(originals)} articles; {len(required)} new or changed texts", flush=True)
-    # Keep only three requests in flight. An error stops further requests and
+    # Keep only three translations in flight. An error stops further work and
     # prevents either published JSON file from being overwritten.
     with ThreadPoolExecutor(max_workers=3) as pool:
         remaining = iter(required)

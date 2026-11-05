@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-cbcd682a693800b6056a",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+  "sourceTitle": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:23.456664+00:00",
+  "fetchedAt": "2026-11-05T11:28:32.001488+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+  "language": "en",
+  "originalTitle": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+  "author": "Travis Beals",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "On October 1, we launched our prototype satellite for Project Suncatcher. The launch marked the first step in our long-term research moonshot to explore powering AI compute in space. Since then, we've spent the last few weeks completing our commissioning checklist, which included powering up the host and TPU trays and successfully running early machine learning tests. This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.",
+      "id": "p1",
+      "zh": "10月1号,我们发射我们的原型卫星 为太阳捕捉器项目。此次发射标志着我们长期研究的月光拍摄在太空探索AI计算动力方面迈出了第一步.从那时起,我们花了几周时间 完成了我们的委托核对表,其中包括为主机和TPU托盘提供动力,并成功运行早期机器学习测试.这周,我们到达了\"你好世界\"的里程碑:第一次AI响应 来自一个数据中心类 TPU在轨道。",
+      "en": "On October 1, we launched our prototype satellite for Project Suncatcher. The launch marked the first step in our long-term research moonshot to explore powering AI compute in space. Since then, we've spent the last few weeks completing our commissioning checklist, which included powering up the host and TPU trays and successfully running early machine learning tests. This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit."
+    },
+    {
+      "kind": "paragraph",
+      "text": "During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space. As the satellite passed by Svalbard, Norway, the downlinked poem confirmed success:",
+      "id": "p2",
+      "zh": "在地面站通过时,我们把我们的第一个提示和Gemma 4号舱的开舱模型联系起来要求它产生一个关于太空的海库。随着卫星经过斯瓦尔巴,挪威,这首下行的诗证实了成功:",
+      "en": "During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space. As the satellite passed by Svalbard, Norway, the downlinked poem confirmed success:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Blue marble below Data streams in silent grace Starlight feeds my core. ✨",
+      "id": "p3",
+      "zh": "蓝大理石在Data流下 默默的恩典星光为我的核心。⁇",
+      "en": "Blue marble below Data streams in silent grace Starlight feeds my core. ✨"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Following this initial output, we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems. Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit. Verifying our TPUs can reliably execute workloads in space paves the way for our next milestone of twin interconnected satellites in 2027. Our chips have officially earned their space wings — an important achievement on the long road ahead for this cosmic moonshot.",
+      "id": "p4",
+      "zh": "在这项初步产出之后,我们测试了以空间为主题的石灰堆和遥测仪,促使人们报告有效载荷系统的技术状况。下一个我们将继续进行一系列测试,以评估TPU在热应力和辐射照射下在轨道上的运行情况。核查我们的TPU能够可靠地完成空间工作量,为我们2027年的下一个里程碑双子互联卫星铺平了道路。我们的芯片已经正式赢得了它们的太空翅膀——这是这次宇宙月球拍摄未来漫长道路上的重要成就.",
+      "en": "Following this initial output, we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems. Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit. Verifying our TPUs can reliably execute workloads in space paves the way for our next milestone of twin interconnected satellites in 2027. Our chips have officially earned their space wings — an important achievement on the long road ahead for this cosmic moonshot."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "10月1号,我们发射我们的原型卫星 为太阳捕捉器项目。此次发射标志着我们长期研究的月光拍摄在太空探索AI计算动力方面迈出了第一步.从那时起,我们花了几周时间 完成了我们的委托核对表,其中包括为主机和TPU托盘提供动力,并成功运行早期机器学习测试.这周,我们到达了\"你好世界\"的里程碑:第一次AI响应 来自一个数据中心类 TPU在轨道。",
+      "en": "On October 1, we launched our prototype satellite for Project Suncatcher. The launch marked the first step in our long-term research moonshot to explore powering AI compute in space."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "在地面站通过时,我们把我们的第一个提示和Gemma 4号舱的开舱模型联系起来要求它产生一个关于太空的海库。随着卫星经过斯瓦尔巴,挪威,这首下行的诗证实了成功:",
+      "en": "During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space. As the satellite passed by Svalbard, Norway, the downlinked poem confirmed success:"
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "在这项初步产出之后,我们测试了以空间为主题的石灰堆和遥测仪,促使人们报告有效载荷系统的技术状况。下一个我们将继续进行一系列测试,以评估TPU在热应力和辐射照射下在轨道上的运行情况。",
+      "en": "Following this initial output, we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems. Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "3b5da28d464f7499ec74593b5f5b65bcd43f7be840a24b656053d62d3876ee6d"
+}

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-e2ed7680c50ae3f074e0",
+  "url": "https://openai.com/index/the-future-of-the-firm",
+  "sourceTitle": "The future of the firm",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:07.757893+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:08.035573+00:00"
+}

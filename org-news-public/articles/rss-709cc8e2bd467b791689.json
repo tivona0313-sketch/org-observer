@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-709cc8e2bd467b791689",
+  "url": "https://openai.com/index/legora",
+  "sourceTitle": "Legora is building the agentic operating system for legal work",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:08.038019+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:08.311059+00:00"
+}

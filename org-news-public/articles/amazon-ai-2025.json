@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "amazon-ai-2025",
+  "url": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-on-generative-ai",
+  "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:46:04.799575+00:00",
+  "fetchedAt": "2026-11-05T11:28:22.252323+00:00",
+  "finalURL": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-on-generative-ai",
+  "language": "en",
+  "originalTitle": "Message from CEO Andy Jassy: Some thoughts on Generative AI",
+  "author": "Andy Jassy, CEO of Amazon",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "The message below was shared with Amazon employees earlier today.",
+      "id": "p1",
+      "zh": "以下信息今天早些时候与亚马逊员工分享.",
+      "en": "The message below was shared with Amazon employees earlier today."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today, in virtually every corner of the company, we’re using Generative AI to make customers' lives better and easier. What started as deep conviction that every customer experience would be reinvented using AI, and that altogether new experiences we’ve only dreamed of would become possible, is rapidly becoming reality. Technologies like Generative AI are rare; they come about once-in-a-lifetime, and completely change what’s possible for customers and businesses. So, we are investing quite expansively, and, the progress we are making is evident.",
+      "id": "p2",
+      "zh": "今天,我们...几乎在公司的每一个角落,我们使用生成式 AI让顾客的生活更好、更容易。一开始,人们深信 每一个客户的经验 都会用人工智能重塑,我们所梦想的全新经验将会成为可能,正在迅速成为现实。诸如基因AI之类的技术是罕见的;他们来过一次生活,并彻底改变对顾客和企业可能发生的事情。这么说吧我们的投资范围相当广,还有,我们正在取得的进展是显而易见的。",
+      "en": "Today, in virtually every corner of the company, we’re using Generative AI to make customers' lives better and easier. What started as deep conviction that every customer experience would be reinvented using AI, and that altogether new experiences we’ve only dreamed of would become possible, is rapidly becoming reality. Technologies like Generative AI are rare; they come about once-in-a-lifetime, and completely change what’s possible for customers and businesses. So, we are investing quite expansively, and, the progress we are making is evident."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can see it in what we're rolling out in Alexa+, our next generation Alexa personal assistant that's meaningfully smarter, more capable, and is the first personal assistant that can take significant actions for customers on top of providing intelligent answers to virtually any question.",
+      "id": "p3",
+      "zh": "你可以从我们在Alexa+的节目中看出来我们下一代Alexa的私人助理 更聪明更有能力,并且是第一个能够为客户采取重大行动的个人助理,除了为几乎所有问题提供明智的答案之外。",
+      "en": "You can see it in what we're rolling out in Alexa+, our next generation Alexa personal assistant that's meaningfully smarter, more capable, and is the first personal assistant that can take significant actions for customers on top of providing intelligent answers to virtually any question."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can see it with our AI shopping assistant that’s being used by tens of millions of customers around the world to discover new products and make more informed purchase decisions.",
+      "id": "p4",
+      "zh": "我们的人工智能购物助理 被全球上千万的客户 用来发现新产品 进行更知情的购买决策。",
+      "en": "You can see it with our AI shopping assistant that’s being used by tens of millions of customers around the world to discover new products and make more informed purchase decisions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can see it in an increasing array of shopping features like “Lens” (very cool to be able to take a picture of an item and have it pull up the shopping result), “Buy for Me” (where I can ask our shopping agent to buy an item on another merchant’s website for me), or Recommended Size (where we can predict the right size for you based on prior purchases and how different apparel brands run fit-wise relative to each other).",
+      "id": "p5",
+      "zh": "你可以在越来越多的购物功能中看到,比如“Lens”(非常酷,可以拍到一个物品,并把它拉高购物结果),\" 买给我 \" (在那里,我可以请我们的购物代理公司在另一个商人的网站上为我购买物品),或推荐大小(根据之前的购买量以及不同的服装品牌如何相对地运行),我们可以预测您的合适大小.",
+      "en": "You can see it in an increasing array of shopping features like “Lens” (very cool to be able to take a picture of an item and have it pull up the shopping result), “Buy for Me” (where I can ask our shopping agent to buy an item on another merchant’s website for me), or Recommended Size (where we can predict the right size for you based on prior purchases and how different apparel brands run fit-wise relative to each other)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can see it in how we're helping our independent sellers more easily create new product detail pages or get advice on how to be even more effective as a seller in our marketplace. Nearly half a million selling partners are using these services, and the listings they’re creating are measurably better.",
+      "id": "p6",
+      "zh": "你可以看到,我们如何帮助我们的独立销售者 更容易创建新的产品细节页面 或获得建议 如何更有效地作为我们的销售者市场。近50万销售伙伴正在使用这些服务,而他们正在制作的列表则要好得多。",
+      "en": "You can see it in how we're helping our independent sellers more easily create new product detail pages or get advice on how to be even more effective as a seller in our marketplace. Nearly half a million selling partners are using these services, and the listings they’re creating are measurably better."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can see it in Advertising where we’ve built a suite of AI tools that make it easier for brands to plan, onboard, create and optimize campaigns. In Q1 alone, over 50K advertisers used these capabilities.",
+      "id": "p7",
+      "zh": "在广告中可以看到,我们已经建造了一套AI工具,让品牌更容易规划,舰上,创建和优化运动。单是问题1,超过5万个广告商利用了这些能力。",
+      "en": "You can see it in Advertising where we’ve built a suite of AI tools that make it easier for brands to plan, onboard, create and optimize campaigns. In Q1 alone, over 50K advertisers used these capabilities."
+    },
+    {
+      "kind": "paragraph",
+      "text": "And, you can see it in what we’re delivering in AWS for builders, whether it’s custom silicon (Trainium2) to provide better price-performance on model-training and inference, services that make it much easier to build Foundation Models (SageMaker), or leverage leading frontier models and do GenAI inference at scale (Bedrock), our own frontier model (Nova) to give customers leading intelligence at lower latency and cost, or services to make it much easier for developers to write code (Q and QCLI).",
+      "id": "p8",
+      "zh": "还有,你可以从我们在AWS为建筑商提供的东西中看到,是否是定制硅(Trainium2)在模型训练和推理上提供更好的价格性能,使建立基础模型(SageMaker)更加容易的服务,或利用领先的前沿模型,并进行GenAI规模推理(Bedrock),我们自己的前沿模型(诺瓦) 以更低的延迟和成本 给予客户领先的智能能力或服务让开发者更容易写代码(Q和QCLI).",
+      "en": "And, you can see it in what we’re delivering in AWS for builders, whether it’s custom silicon (Trainium2) to provide better price-performance on model-training and inference, services that make it much easier to build Foundation Models (SageMaker), or leverage leading frontier models and do GenAI inference at scale (Bedrock), our own frontier model (Nova) to give customers leading intelligence at lower latency and cost, or services to make it much easier for developers to write code (Q and QCLI)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’re also using Generative AI broadly across our internal operations. In our fulfillment network, we’re using AI to improve inventory placement, demand forecasting, and the efficiency of our robots—all of which have improved cost to serve and delivery speed. We’ve rebuilt our Customer Service Chatbot with GenAI, providing an even better experience than we’d had before. And, we’re assembling more intelligent and compelling product detail pages from leveraging GenAI.",
+      "id": "p9",
+      "zh": "我们内部行动也广泛使用生成式 AI。在我们的实现网络中,我们用人工智能来改进库存布置,需求预测,以及我们机器人的效率 所有这些都提高了服务成本和运送速度我们和GenAI一起重建了客户服务聊天室,提供比我们以前更好的经验。还有,利用GenAI, 我们收集了更聪明、更吸引人的产品细节页面。",
+      "en": "We’re also using Generative AI broadly across our internal operations. In our fulfillment network, we’re using AI to improve inventory placement, demand forecasting, and the efficiency of our robots—all of which have improved cost to serve and delivery speed. We’ve rebuilt our Customer Service Chatbot with GenAI, providing an even better experience than we’d had before. And, we’re assembling more intelligent and compelling product detail pages from leveraging GenAI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "I could go on, but you get the idea.",
+      "id": "p10",
+      "zh": "我可以继续了,但你明白这个想法。",
+      "en": "I could go on, but you get the idea."
+    },
+    {
+      "kind": "paragraph",
+      "text": "While we’ve made a lot of progress, we’re still at the relative beginning. There are a few reasons we believe this and want to go even faster.",
+      "id": "p11",
+      "zh": "虽然我们取得了很大进展,我们仍处在相对的开端。有几个原因,我们相信这一点,并想加快步伐。",
+      "en": "While we’ve made a lot of progress, we’re still at the relative beginning. There are a few reasons we believe this and want to go even faster."
+    },
+    {
+      "kind": "paragraph",
+      "text": "First, we have strong conviction that AI agents will change how we all work and live. Think of agents as software systems that use AI to perform tasks on behalf of users or other systems. Agents let you tell them what you want (often in natural language), and do things like scour the web (and various data sources) and summarize results, engage in deep research, write code, find anomalies, highlight interesting insights, translate language and code into other variants, and automate a lot of tasks that consume our time. There will be billions of these agents, across every company and in every imaginable field. There will also be agents that routinely do things for you outside of work, from shopping to travel to daily chores and tasks. Many of these agents have yet to be built, but make no mistake, they’re coming, and coming fast.",
+      "id": "p12",
+      "zh": "首先,我们...我们坚信人工智能智能体会改变我们的工作和生活方式。将代理视为使用AI代表用户或其他系统执行任务的软件系统.智能体们让你告诉他们你想要什么(经常用自然语言),并做一些事情,例如搜索网络(和各种数据来源),总结结果,进行深入研究,写代码,发现异常点,突出有趣的见解,将语言和代码翻译为其他变体,将消耗我们时间的许多任务自动化将会有数十亿的智能体在每一个公司 和每一个可以想象的领域。也会有智能体在工作之外为你做事从购物到旅行 日常杂务和任务。其中许多智能体尚未建立,但你们不要犯错误,他们来了,并且来得很快。",
+      "en": "First, we have strong conviction that AI agents will change how we all work and live. Think of agents as software systems that use AI to perform tasks on behalf of users or other systems. Agents let you tell them what you want (often in natural language), and do things like scour the web (and various data sources) and summarize results, engage in deep research, write code, find anomalies, highlight interesting insights, translate language and code into other variants, and automate a lot of tasks that consume our time. There will be billions of these agents, across every company and in every imaginable field. There will also be agents that routinely do things for you outside of work, from shopping to travel to daily chores and tasks. Many of these agents have yet to be built, but make no mistake, they’re coming, and coming fast."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Second, and what makes this agentic future so compelling for Amazon, is that these agents are going to change the scope and speed at which we can innovate for customers. Agents will allow us to start almost everything from a more advanced starting point. We’ll be able to focus less on rote work and more on thinking strategically about how to improve customer experiences and invent new ones. Agents will be teammates that we can call on at various stages of our work, and that will get wiser and more helpful with more experience. If we build and leverage the right agents, it’s going to rapidly accelerate our ability to make customers' lives easier and better every day, and it’s going to make our jobs even more exciting and fun than they are today.",
+      "id": "p13",
+      "zh": "第二,我们...是什么让亚马逊未来如此吸引人这些代理商将改变我们为客户创新的范围和速度。智能体会让我们从一个更高级的起点开始 开始几乎所有事情更能从战略角度思考如何改善顾客经验及创造新经验。探员们是团队的同伴 可以在我们工作的各个阶段找他们那样会更明智 更能用更多的经验来帮助我们如果我们建立和充分利用正确的代理人,它会迅速加速我们的能力 使客户的生活 更加轻松和更好的每一天,我们的工作会比今天更令人兴奋、更有趣。",
+      "en": "Second, and what makes this agentic future so compelling for Amazon, is that these agents are going to change the scope and speed at which we can innovate for customers. Agents will allow us to start almost everything from a more advanced starting point. We’ll be able to focus less on rote work and more on thinking strategically about how to improve customer experiences and invent new ones. Agents will be teammates that we can call on at various stages of our work, and that will get wiser and more helpful with more experience. If we build and leverage the right agents, it’s going to rapidly accelerate our ability to make customers' lives easier and better every day, and it’s going to make our jobs even more exciting and fun than they are today."
+    },
+    {
+      "kind": "paragraph",
+      "text": "And third, we’re going to keep pushing to operate like the world’s largest start-up-- customer-obsessed, inventive, fast-moving, lean, scrappy, and full of missionaries trying to build something better for customers and a business that outlasts us all. You will continue to see steam and I take actions to help us move faster, have more ownership, and invent more easily. AI will be a substantial catalyst here.",
+      "id": "p14",
+      "zh": "还有第三我们将继续推动 运行 像世界上最大的启动 - - 客户受宠若惊,发明,快速移动,倾斜废品,并充满了使命驱动者 试图为客户建造更好的东西 和一个超过我们所有人的企业。你会继续看到蒸汽, 我采取行动帮助我们更快地前进,拥有更多的所有权,并更容易地发明。AI将是一个巨大的催化剂在这里。",
+      "en": "And third, we’re going to keep pushing to operate like the world’s largest start-up-- customer-obsessed, inventive, fast-moving, lean, scrappy, and full of missionaries trying to build something better for customers and a business that outlasts us all. You will continue to see steam and I take actions to help us move faster, have more ownership, and invent more easily. AI will be a substantial catalyst here."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today, we have over 1,000 Generative AI services and applications in progress or built, but at our scale, that’s a small fraction of what we will ultimately build. We’re going to lean in further in the coming months. We’re going to make it much easier to build agents, and then build (or partner) on several new agents across all of our business units and G&A areas.",
+      "id": "p15",
+      "zh": "今天,我们...我们有1000多个基因AI服务 和应用正在进行中或建设中,但以我们的规模,这是我们最终建设的一小部分。未来几个月我们将进一步倾斜。我们将会让建立智能体变得容易得多,然后在我们所有业务单位和G&A领域建立若干新的代理商(或合作伙伴)。",
+      "en": "Today, we have over 1,000 Generative AI services and applications in progress or built, but at our scale, that’s a small fraction of what we will ultimately build. We’re going to lean in further in the coming months. We’re going to make it much easier to build agents, and then build (or partner) on several new agents across all of our business units and G&A areas."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As we roll out more Generative AI and agents, it should change the way our work is done. We will need fewer people doing some of the jobs that are being done today, and more people doing other types of jobs. It’s hard to know exactly where this nets out over time, but in the next few years, we expect that this will reduce our total corporate workforce as we get efficiency gains from using AI extensively across the company.",
+      "id": "p16",
+      "zh": "随着我们推出更多的 基因AI和智能体,它应该改变我们的工作方式。我们需要更少的人做一些今天正在做的工作,还有更多的人做其他类型的工作。很难知道这些网从哪里流出,但在接下来的几年里,我们期望这将会减少我们公司的总劳动力,因为我们在全公司广泛使用AI而提高了效率。",
+      "en": "As we roll out more Generative AI and agents, it should change the way our work is done. We will need fewer people doing some of the jobs that are being done today, and more people doing other types of jobs. It’s hard to know exactly where this nets out over time, but in the next few years, we expect that this will reduce our total corporate workforce as we get efficiency gains from using AI extensively across the company."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As we go through this transformation together, be curious about AI, educate yourself, attend workshops and take trainings, use and experiment with AI whenever you can, participate in your team’s brainstorms to figure out how to invent for our customers more quickly and expansively, and how to get more done with scrappier teams. When I first started at Amazon in 1997 as an Assistant Product Manager, I worked on leaner teams that got a lot done quickly and where I could have substantial impact. We didn’t have tools resembling anything like Generative AI, but we had broad remits, high ambition, and saw the opportunity to improve (and invent) so many customer experiences. Fast forward 28 years and the most transformative technology since the Internet is here. Those who embrace this change, become conversant in AI, help us build and improve our AI capabilities internally and deliver for customers, will be well-positioned to have high impact and help us reinvent the company.",
+      "id": "p17",
+      "zh": "在我们共同经历这一转型的过程中，请对 AI 保持好奇，主动学习，参加工作坊和培训，尽可能使用和试验 AI，参与团队的头脑风暴，探索如何更快、更广泛地为客户创造新事物，以及如何用更精干、灵活的团队完成更多工作。1997 年，我刚加入亚马逊担任助理产品经理时，所在团队规模较小，却能迅速完成大量工作，我也能产生实质性的影响。当时我们没有任何类似生成式 AI 的工具，但职责范围广、志向高远，也看到了改善和创造众多客户体验的机会。28 年后的今天，互联网以来最具变革性的技术已经到来。那些拥抱变化、熟悉 AI、帮助我们在内部建设和完善 AI 能力并为客户创造价值的人，将更有条件产生重大影响，帮助我们重塑公司。",
+      "en": "As we go through this transformation together, be curious about AI, educate yourself, attend workshops and take trainings, use and experiment with AI whenever you can, participate in your team’s brainstorms to figure out how to invent for our customers more quickly and expansively, and how to get more done with scrappier teams. When I first started at Amazon in 1997 as an Assistant Product Manager, I worked on leaner teams that got a lot done quickly and where I could have substantial impact. We didn’t have tools resembling anything like Generative AI, but we had broad remits, high ambition, and saw the opportunity to improve (and invent) so many customer experiences. Fast forward 28 years and the most transformative technology since the Internet is here. Those who embrace this change, become conversant in AI, help us build and improve our AI capabilities internally and deliver for customers, will be well-positioned to have high impact and help us reinvent the company."
+    },
+    {
+      "kind": "paragraph",
+      "text": "There's so much more to come with Generative AI. I'm energized by our progress, excited about our plans ahead, and looking forward to partnering with you all as we change what’s possible for our customers, partners, and how we work.",
+      "id": "p18",
+      "zh": "和生成式 AI还有许多东西要来.我对我们的进步充满活力,对我们的计划感到兴奋,并期待着与大家合作 当我们改变 可能给我们的客户,合作伙伴,和我们如何工作。",
+      "en": "There's so much more to come with Generative AI. I'm energized by our progress, excited about our plans ahead, and looking forward to partnering with you all as we change what’s possible for our customers, partners, and how we work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Andy",
+      "id": "p19",
+      "zh": "瓆",
+      "en": "Andy"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p8",
+      "zh": "还有,你可以从我们在AWS为建筑商提供的东西中看到,是否是定制硅(Trainium2)在模型训练和推理上提供更好的价格性能,使建立基础模型(SageMaker)更加容易的服务,或利用领先的前沿模型,并进行GenAI规模推理(Bedrock),我们自己的前沿模型(诺瓦) 以更低的延迟和成本 给予客户领先的智能能力或服务让开发者更容易写代码(Q和QCLI).",
+      "en": "And, you can see it in what we’re delivering in AWS for builders, whether it’s custom silicon (Trainium2) to provide better price-performance on model-training and inference, services that make it much easier to build Foundation Models (SageMaker), or leverage leading frontier models and do GenAI inference at scale (Bedrock), our own frontier model (Nova) to give customers leading intelligence at lower latency and cost, or services to make it much easier for developers to write code (Q and QCLI)."
+    },
+    {
+      "paragraphId": "p14",
+      "zh": "还有第三我们将继续推动 运行 像世界上最大的启动 - - 客户受宠若惊,发明,快速移动,倾斜废品,并充满了使命驱动者 试图为客户建造更好的东西 和一个超过我们所有人的企业。你会继续看到蒸汽, 我采取行动帮助我们更快地前进,拥有更多的所有权,并更容易地发明。",
+      "en": "And third, we’re going to keep pushing to operate like the world’s largest start-up-- customer-obsessed, inventive, fast-moving, lean, scrappy, and full of missionaries trying to build something better for customers and a business that outlasts us all. You will continue to see steam and I take actions to help us move faster, have more ownership, and invent more easily."
+    },
+    {
+      "paragraphId": "p16",
+      "zh": "随着我们推出更多的 基因AI和智能体,它应该改变我们的工作方式。我们需要更少的人做一些今天正在做的工作,还有更多的人做其他类型的工作。",
+      "en": "As we roll out more Generative AI and agents, it should change the way our work is done. We will need fewer people doing some of the jobs that are being done today, and more people doing other types of jobs."
+    },
+    {
+      "paragraphId": "p17",
+      "zh": "在我们共同经历这一转型的过程中，请对 AI 保持好奇，主动学习，参加工作坊和培训，尽可能使用和试验 AI，参与团队的头脑风暴，探索如何更快、更广泛地为客户创造新事物，以及如何用更精干、灵活的团队完成更多工作。1997 年，我刚加入亚马逊担任助理产品经理时，所在团队规模较小，却能迅速完成大量工作，我也能产生实质性的影响。",
+      "en": "As we go through this transformation together, be curious about AI, educate yourself, attend workshops and take trainings, use and experiment with AI whenever you can, participate in your team’s brainstorms to figure out how to invent for our customers more quickly and expansively, and how to get more done with scrappier teams. When I first started at Amazon in 1997 as an Assistant Product Manager, I worked on leaner teams that got a lot done quickly and where I could have substantial impact."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772"
+}

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-661f64ddb5f472a2675e",
+  "url": "https://openai.com/index/teens-learn-and-plan",
+  "sourceTitle": "Helping teens learn, plan, and shape the future of AI",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:22.408173+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:22.683014+00:00"
+}

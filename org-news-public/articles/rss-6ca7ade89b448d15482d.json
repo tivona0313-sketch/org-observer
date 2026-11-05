@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-6ca7ade89b448d15482d",
+  "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+  "sourceTitle": "We're sharing our framework for building safer and more helpful AI for health.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:46:43.790206+00:00",
+  "fetchedAt": "2026-11-05T11:28:25.449144+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+  "language": "en",
+  "originalTitle": "We're sharing our framework for building safer and more helpful AI for health.",
+  "author": "Dr Sarah Montgomery-Taylor",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts billions of people every day. But how can we assess if these tools are safe and helpful?",
+      "id": "p1",
+      "zh": "许多人都向AI提出健康问题,卫生技术的采用正在加速,每天影响数十亿人。但是,我们如何评估这些工具是否安全和有用?",
+      "en": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts billions of people every day. But how can we assess if these tools are safe and helpful?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In partnership with health experts Dr. Elizabeth McGlynn and Dr. Dana Gelb Safran, we published a whitepaper detailing an end-to-end evaluation approach to assess AI use cases for addressing people’s health needs. The framework evaluates models across three areas: accuracy, safety, and usefulness. It combines closed-question benchmarks, autoraters, and expert human review to assess common and high-risk health scenarios.",
+      "id": "p2",
+      "zh": "与卫生专家合作伊丽莎白·麦格林(Elizabeth McGlynn)和博士.达纳·盖尔布·萨夫兰,我们发表了一份白皮书,详述了评估AI的端到端评估方法,利用案例解决人们的健康需求.该框架评估了三个领域的模型:准确性,保证安全,和实用性。它综合了封闭式问题基准,自动操作器,并进行专家人员审查,以评估常见和高风险的保健情况。",
+      "en": "In partnership with health experts Dr. Elizabeth McGlynn and Dr. Dana Gelb Safran, we published a whitepaper detailing an end-to-end evaluation approach to assess AI use cases for addressing people’s health needs. The framework evaluates models across three areas: accuracy, safety, and usefulness. It combines closed-question benchmarks, autoraters, and expert human review to assess common and high-risk health scenarios."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We built and continue to utilize this framework to assess whether our models provide useful, accurate responses that promote safe interactions in health contexts. By sharing our methodology, we hope to promote transparency in how we approach this important area, and seek to support the entire health ecosystem — from developers to researchers to clinicians — in building AI tools people can trust.",
+      "id": "p3",
+      "zh": "我们建立并继续利用这一框架,评估我们的模型是否提供了有用的、可操作性。准确的应对办法,促进健康环境中的安全互动。通过分享我们的方法,我们希望提高我们处理这一重要领域的透明度,并寻求支持整个健康生态系统——从开发者到研究人员到临床医生——建设人们可以信任的AI工具.",
+      "en": "We built and continue to utilize this framework to assess whether our models provide useful, accurate responses that promote safe interactions in health contexts. By sharing our methodology, we hope to promote transparency in how we approach this important area, and seek to support the entire health ecosystem — from developers to researchers to clinicians — in building AI tools people can trust."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "许多人都向AI提出健康问题,卫生技术的采用正在加速,每天影响数十亿人。但是,我们如何评估这些工具是否安全和有用?",
+      "en": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts billions of people every day."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "与卫生专家合作伊丽莎白·麦格林(Elizabeth McGlynn)和博士.达纳·盖尔布·萨夫兰,我们发表了一份白皮书,详述了评估AI的端到端评估方法,利用案例解决人们的健康需求.该框架评估了三个领域的模型:准确性,保证安全,和实用性。它综合了封闭式问题基准,自动操作器,并进行专家人员审查,以评估常见和高风险的保健情况。",
+      "en": "In partnership with health experts Dr. Elizabeth McGlynn and Dr."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "我们建立并继续利用这一框架,评估我们的模型是否提供了有用的、可操作性。准确的应对办法,促进健康环境中的安全互动。",
+      "en": "We built and continue to utilize this framework to assess whether our models provide useful, accurate responses that promote safe interactions in health contexts. By sharing our methodology, we hope to promote transparency in how we approach this important area, and seek to support the entire health ecosystem — from developers to researchers to clinicians — in building AI tools people can trust."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "d4690ec09b41495e91a655c98a8c45fc4ae652b7d49a22f4feaf7947bc0cdb8c"
+}

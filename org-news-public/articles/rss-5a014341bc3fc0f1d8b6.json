@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-5a014341bc3fc0f1d8b6",
+  "url": "https://openai.com/index/lifeval",
+  "sourceTitle": "LifeVal",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:26:55.727582+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:26:55.994249+00:00"
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-41804386d21a770b2b19",
+  "url": "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
+  "sourceTitle": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:43.453626+00:00",
+  "fetchedAt": "2026-11-05T11:28:44.907283+00:00",
+  "finalURL": "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
+  "language": "fr",
+  "originalTitle": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+  "author": "juliaperreira",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Nous croyons que l’avenir appartient à tous. C’est pourquoi Meta s’associe à INCA, un organisme à but non lucratif fondé en 1918 qui aide les personnes atteintes de cécité au Canada à réaliser leurs rê",
+      "id": "p1",
+      "zh": "我们认为,未来属于所有人。这就是为什么Meta和INCA有关联,一个成立于1918年的非营利组织,帮助加拿大的失明者实现他们的目标.",
+      "en": "We believe that the future belongs to all. That's why Meta is associated with INCA, A not-for-profit organization founded in 1918 that helps people with blindness in Canada achieve their goals."
+    },
+    {
+      "kind": "paragraph",
+      "text": "ves, afin de permettre à davantage de personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada de bénéficier des avantages des lunettes IA. L’objectif de ce partenariat est d’aider ces personnes à explorer les possibilités offertes par les technologies portables basées sur l’IA et de s’appuyer sur les connaissances, l’expertise et l’expérience vécue de la communauté pour façonner un avenir plus accessible.",
+      "id": "p2",
+      "zh": "视线,为了让更多的盲人,加拿大的聋人和盲人或视力低下的人可以享受AI眼镜的好处.这种伙伴关系的目的是帮助这些人探索基于AI的便携式技术提供的机会,并在知识基础上再接再厉。社区的专门知识和经验,以塑造一个更加无障碍的未来。",
+      "en": "Ves, in order to allow more blind people, deaf and blind or with low vision in Canada to benefit from the benefits of AI glasses. The aim of this partnership is to help these people explore the opportunities offered by AI-based portable technologies and to build on knowledge, the expertise and experience of the community to shape a more accessible future."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Le financement de Meta soutiendra INCA dans quatre domaines:",
+      "id": "p3",
+      "zh": "Meta的资助将在四个领域支持INCA:",
+      "en": "Meta's funding will support INCA in four areas:"
+    },
+    {
+      "kind": "list",
+      "text": "Être à l’écoute de la communauté: mobiliser des personnes à travers le Canada pour comprendre leurs expériences et la manière dont les lunettes IA peuvent favoriser une plus grande autonomie dans la vie quotidienne;",
+      "id": "p4",
+      "zh": "听取社区的意见:动员全加拿大人民了解他们的经验,以及AI眼镜如何能够促进日常生活中的更大自主性;",
+      "en": "Listening to the community: mobilising people across Canada to understand their experiences and how AI glasses can promote greater autonomy in life daily;"
+    },
+    {
+      "kind": "list",
+      "text": "Soutenir les champions communautaires: aider les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada à organiser des démonstrations en personne, à former et accompagner leurs pairs dans la découverte des produits, et à recueillir directement les commentaires au sein de leurs communautés;",
+      "id": "p5",
+      "zh": "支持社区冠军:帮助盲人,在加拿大,聋人和盲人或视力低下的人亲自组织示威,* 培训并陪同同行发现产品,直接从社区收集反馈意见;",
+      "en": "Supporting Community Champions: help blind people, deaf and blind or with low vision in Canada to organize demonstrations in person, train and accompany their peers in the discovery of products, and to collect feedback directly from their communities;"
+    },
+    {
+      "kind": "list",
+      "text": "Orienter le développement des produits: partager les points de vue de la communauté avec les équipes de Meta chargées de l’accessibilité et du développement des produits afin de contribuer à l’amélioration des technologies futures;",
+      "id": "p6",
+      "zh": "东方产品开发:与负责无障碍和产品开发的Meta小组分享社区观点,以促进未来技术的改进;",
+      "en": "Orient product development: share community perspectives with Meta teams responsible for accessibility and product development in order to contribute to the improvement of the future technologies;"
+    },
+    {
+      "kind": "list",
+      "text": "Faciliter l’accès à l’apprentissage: fournir des guides, des supports de formation et des ressources accessibles que les personnes peuvent utiliser partout et en tout temps.",
+      "id": "p7",
+      "zh": "促进学习机会:提供指南,(b) 随时随地都能利用的培训材料和资源。",
+      "en": "Facilitating access to learning: provide guides, accessible training materials and resources that people can use anywhere and at all times."
+    },
+    {
+      "kind": "paragraph",
+      "text": "En plus de fournir un financement destiné à faire progresser l’innovation inclusive, Meta fait don de lunettes IA par le biais du programme « Ouvrir les portes du travail » d’INCA. Ce programme mettra ces outils à la disposition des personnes à la recherche d’opportunités d’emploi et souhaitant construire leur carrière. Le programme propose des formations et des ressources pratiques pour aider les participants à évaluer comment la technologie portable peut les aider à trouver un emploi, à réussir dans leur travail et à atteindre leurs objectifs.",
+      "id": "p8",
+      "zh": "除了为推进包容性创新提供资金外,Meta通过CNIB的\"打开工作门\"计划捐赠IA眼镜.该方案将向寻找工作机会和希望建立事业的人提供这些工具。该方案提供实用培训和资源,帮助参与者评估便携式技术如何帮助他们找到工作,(c) 在工作中取得成功并实现其目标。",
+      "en": "In addition to providing funding to advance inclusive innovation, Meta donates IA glasses through the \"Open the Doors of Work\" program of CNIB. This programme will make these tools available to people looking for job opportunities and wishing to build their careers. The programme offers practical training and resources to help participants assess how portable technology can help them find a job, to succeed in their work and to achieve their objectives."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Les utilisateurs se servent des lunettes IA de Meta pour toutes sortes d’activités, de l’écoute de musique à la traduction en direct, en passant par les appels mains libres. Mais pour les personnes aveugles ou ayant une basse vision, ces lunettes peuvent changer la vie: elles les aident dans leurs tâches quotidiennes, comme lire des textes, identifier des objets et décrire le monde qui les entoure, leur permettant ainsi de vivre de manière plus autonome.",
+      "id": "p9",
+      "zh": "用户使用Meta的IA眼镜进行各种活动,从听到现场翻译,通过手无寸铁的电话。至於盲目的人,或视而不见的人,这些眼镜可以改变生命:他们协助他们执行自己的任务,喜欢阅读文本,识别物体并描述其周围的世界,这使得他们能够以更自主的方式生活.",
+      "en": "Users use Meta's IA glasses for all kinds of activities, from listening to live translation, by means of hands-free calls. But for people who are blind or have a low vision, These glasses can change life: they help them in their daily tasks, like reading texts, identify objects and describe the world around them, This allows them to live in a more autonomous way."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ce partenariat s’inscrit dans la continuité de notre travail auprè",
+      "id": "p10",
+      "zh": "这一伙伴关系是我们年底工作连续性的一部分。",
+      "en": "This partnership is part of the continuity of our work at the end of the year."
+    },
+    {
+      "kind": "paragraph",
+      "text": "s des communautés de personnes aveugles et ayant une basse vision à travers le monde, comme le don de lunettes Ray-Ban Meta à chaque ancien combattant aveugle aux États-Unis en partenariat avec la Blinded Veterans Association, ou encore notre collaboration avec Vision Ireland.",
+      "id": "p11",
+      "zh": "世界各地盲人和低视力者社区,就像与盲人退伍军人协会合作,给美国每一个盲人退伍军人戴雷班·梅塔眼镜,或者我们与爱尔兰愿景的合作。",
+      "en": "s communities of blind and low-vision people around the world, like giving Ray-Ban Meta glasses to every blind veteran in the United States in partnership with the Blinded Veterans Association, or our collaboration with Vision Ireland."
+    },
+    {
+      "kind": "paragraph",
+      "text": "« La meilleure technologie est conçue en collaborant avec ceux qui l’utiliseront », a déclaré Angela Bonfanti, présidente-directrice générale d’INCA. « Les personnes aveugles, sourdes et aveugles ou ayant une basse vision apportent une expertise précieuse sur les obstacles qui subsistent et sur la manière dont des outils tels que les lunettes IA peuvent offrir davantage de choix, de liberté et d’autonomie dans la vie quotidienne. Ce partenariat permet à cette expertise d’influencer directement le travail de Meta et de contribuer à façonner l’avenir ».",
+      "id": "p12",
+      "zh": "\"最好的技术是设计 与那些将使用它的人合作,\"说安吉拉・邦芬蒂,CNIB总裁兼首席执行官.\"盲人们,聋哑人和盲人或视力低下的人就剩余障碍以及如何使用IA眼镜等工具提供了宝贵的专门知识。提供更多的选择,日常生活中的自由和自主。这种合作关系使得这种专业知识能够直接影响Meta的工作,并有助于塑造未来\".",
+      "en": "\"The best technology is designed by working with those who will use it\", said Angela Bonfanti, President and CEO of CNIB. \"The blind, deaf and blind or with a low vision provide valuable expertise on remaining obstacles and on how tools such as IA glasses can be used. offer more choices, freedom and autonomy in everyday life. This partnership allows this expertise to directly influence Meta's work and contribute to shaping the future.\""
+    },
+    {
+      "kind": "paragraph",
+      "text": "« Nous croyons que l’avenir appartient à tous. Des partenariats comme celui-ci permettent de mettre les lunettes IA de Meta à la disposition d’un plus grand nombre de personnes aveugles, sourdes et aveugles et ayant une basse vision au Canada, tant au travail que dans leur vie quotidienne. Travailler directement avec INCA et sa communauté, c’est-à-dire les personnes qui utilisent ces lunettes au quotidien, nous aide à concevoir de meilleurs produits pour tous », a déclaré Maxine Williams, vice-présidente chargée de l’accessibilité chez Meta.",
+      "id": "p13",
+      "zh": "\"我们认为未来属于所有人.这样的伙伴关系让Meta的IA眼镜可以提供给更多的盲人,在加拿大,是聋的,是瞎的,是视力差的,在工作和日常生活中。直接与土著合作社协会及其社区合作,即说.那些每天使用这些眼镜的人,帮助我们为所有人设计更好的产品\".玛克辛·威廉姆斯说梅塔无障碍副总裁.",
+      "en": "\"We believe that the future belongs to all. Partnerships like this make Meta's IA glasses available to more blind people, deaf and blind and with low vision in Canada, both at work and in their daily lives. Work directly with INCA and its community, i.e. those who use these glasses on a daily basis, helps us to design better products for all\", said Maxine Williams, Vice President for Accessibility at Meta."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Pour en savoir plus sur le travail de Meta en matière d’accessibilité et sur les fonctionnalités intégrées aux lunettes IA de Meta, cliquez",
+      "id": "p14",
+      "zh": "为了更多了解Meta在无障碍和内置在Meta的IA眼镜上的功能方面的工作,单击",
+      "en": "To learn more about Meta's work on accessibility and the features built into Meta's IA glasses, click"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们认为,未来属于所有人。这就是为什么Meta和INCA有关联,一个成立于1918年的非营利组织,帮助加拿大的失明者实现他们的目标.",
+      "en": "We believe that the future belongs to all. That's why Meta is associated with INCA, A not-for-profit organization founded in 1918 that helps people with blindness in Canada achieve their goals."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "视线,为了让更多的盲人,加拿大的聋人和盲人或视力低下的人可以享受AI眼镜的好处.这种伙伴关系的目的是帮助这些人探索基于AI的便携式技术提供的机会,并在知识基础上再接再厉。社区的专门知识和经验,以塑造一个更加无障碍的未来。",
+      "en": "Ves, in order to allow more blind people, deaf and blind or with low vision in Canada to benefit from the benefits of AI glasses. The aim of this partnership is to help these people explore the opportunities offered by AI-based portable technologies and to build on knowledge, the expertise and experience of the community to shape a more accessible future."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "除了为推进包容性创新提供资金外,Meta通过CNIB的\"打开工作门\"计划捐赠IA眼镜.该方案将向寻找工作机会和希望建立事业的人提供这些工具。该方案提供实用培训和资源,帮助参与者评估便携式技术如何帮助他们找到工作,(c) 在工作中取得成功并实现其目标。",
+      "en": "In addition to providing funding to advance inclusive innovation, Meta donates IA glasses through the \"Open the Doors of Work\" program of CNIB. This programme will make these tools available to people looking for job opportunities and wishing to build their careers."
+    },
+    {
+      "paragraphId": "p13",
+      "zh": "\"我们认为未来属于所有人.这样的伙伴关系让Meta的IA眼镜可以提供给更多的盲人,在加拿大,是聋的,是瞎的,是视力差的,在工作和日常生活中。直接与土著合作社协会及其社区合作,即说.那些每天使用这些眼镜的人,帮助我们为所有人设计更好的产品\".玛克辛·威廉姆斯说梅塔无障碍副总裁.",
+      "en": "\"We believe that the future belongs to all. Partnerships like this make Meta's IA glasses available to more blind people, deaf and blind and with low vision in Canada, both at work and in their daily lives."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "38dcf76dfcf7a8932666b7a423e731eba6989a503debdd854f5b4d67853b5f49"
+}

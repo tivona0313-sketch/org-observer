@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-ce1b34a80db9a6e7c540",
+  "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+  "sourceTitle": "Partnering with Singapore to bring frontier AI to public health",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:37.916383+00:00",
+  "fetchedAt": "2026-11-05T11:28:38.472538+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+  "language": "en",
+  "originalTitle": "Partnering with Singapore to bring frontier AI to public health",
+  "author": "Ben King",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We're deepening our partnership with Singapore to deploy frontier AI across the nation’s healthcare system. The primary goals of the new collaboration, announced at the Google for Health Summit in Singapore, are to accelerate scientific discoveries, transform clinical care delivery, and empower Singaporeans with proactive health tools.",
+      "id": "p1",
+      "zh": "我们正在深化与新加坡的伙伴关系,将边境AI部署到全国的医疗保健系统。新的合作的主要目标,在新加坡的Google健康峰会上宣布,要加速科学发现,转变临床护理的提供方式,并赋予新加坡人以积极主动的保健工具。",
+      "en": "We're deepening our partnership with Singapore to deploy frontier AI across the nation’s healthcare system. The primary goals of the new collaboration, announced at the Google for Health Summit in Singapore, are to accelerate scientific discoveries, transform clinical care delivery, and empower Singaporeans with proactive health tools."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Working closely with local researchers, clinicians, and public agencies, we share a vision of using technology where it will have the greatest impact: driving medical breakthroughs, helping frontline workers focus on patient care, giving people better ways to manage their health, and expanding preventive care across the community. Here is a look at how this work is coming to life across Singapore.",
+      "id": "p2",
+      "zh": "与当地研究人员密切合作,临床医生,和公共机构,我们有一个共同的愿景,即在技术将产生最大影响的地方使用技术:推动医疗突破,帮助前线工人关注病人的护理,给人们更好的方法 管理自己的健康,扩大全社区的预防护理。以下是新加坡各地的作品如何生动。",
+      "en": "Working closely with local researchers, clinicians, and public agencies, we share a vision of using technology where it will have the greatest impact: driving medical breakthroughs, helping frontline workers focus on patient care, giving people better ways to manage their health, and expanding preventive care across the community. Here is a look at how this work is coming to life across Singapore."
+    },
+    {
+      "kind": "heading",
+      "text": "Accelerating scientific breakthroughs and local research",
+      "id": "p3",
+      "zh": "加快科学突破和地方研究.",
+      "en": "Accelerating scientific breakthroughs and local research"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’re establishing a Google Research hub in Singapore composed of local research scientists and software engineers. The group will focus on driving advancements in foundational AI models to accelerate scientific breakthroughs. It will also partner with academic institutions, such as the National University of Singapore and Nanyang Technological University, to help nurture future scientific leaders and provide targeted research support.",
+      "id": "p4",
+      "zh": "由本地研究科学家和软件工程师组成。该小组将重点推动基础AI模型的进步,以加速科学突破.它还将与学术机构建立伙伴关系,例如新加坡国立大学和南洋理工大学,帮助培养未来的科学领袖,并提供有针对性的研究支持。",
+      "en": "We’re establishing a Google Research hub in Singapore composed of local research scientists and software engineers. The group will focus on driving advancements in foundational AI models to accelerate scientific breakthroughs. It will also partner with academic institutions, such as the National University of Singapore and Nanyang Technological University, to help nurture future scientific leaders and provide targeted research support."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Google Research will also scale its existing health research initiatives in Singapore. This includes bringing open models like MedGemma to frontline care settings to enable the development of secure, customized solutions while maintaining full data sovereignty.",
+      "id": "p5",
+      "zh": "Google Research也将扩大其在新加坡的现有卫生研究举措的规模.这包括将像MedGemma这样的开放模式带到第一线的护理环境,以便能够发展安全,定制解决方案,同时保持全部数据主权.",
+      "en": "Google Research will also scale its existing health research initiatives in Singapore. This includes bringing open models like MedGemma to frontline care settings to enable the development of secure, customized solutions while maintaining full data sovereignty."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To advance scientific research, Google.org and Google DeepMind are contributing $7 million to the Philanthropy Asia Alliance’s Health for Human Potential Coalition. This includes $1 million for PathGen, an AI platform that uses Google technology to help countries detect disease threats faster and share data for public health intelligence while protecting in-country data sovereignty.",
+      "id": "p6",
+      "zh": "为了推进科学研究,Google.org和Google DeepMind正在向慈善亚洲联盟的人类潜力健康联盟捐款700万美元。其中包括用于PathGen的100万美元,一个AI平台,利用Google技术帮助各国更快地发现疾病威胁并共享公共卫生情报数据,同时保护国内数据主权。",
+      "en": "To advance scientific research, Google.org and Google DeepMind are contributing $7 million to the Philanthropy Asia Alliance’s Health for Human Potential Coalition. This includes $1 million for PathGen, an AI platform that uses Google technology to help countries detect disease threats faster and share data for public health intelligence while protecting in-country data sovereignty."
+    },
+    {
+      "kind": "heading",
+      "text": "Supporting clinicians and advancing population-scale health",
+      "id": "p7",
+      "zh": "支助临床医生和促进人口规模的保健",
+      "en": "Supporting clinicians and advancing population-scale health"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To support frontline care, Google DeepMind is working with the National University Health System to evaluate our AI co-clinician tool that helps clinicians quickly synthesize information from medical guidelines and literature, and assist doctors with clinical queries as they care for patients.",
+      "id": "p8",
+      "zh": "为了支持第一线的护理,Google DeepMind正与国家大学卫生系统合作,评估我们的AI协同临床工具,帮助临床医生快速合成来自医学的信息.准则和文献,并且协助医生进行临床问询,以照顾病人。",
+      "en": "To support frontline care, Google DeepMind is working with the National University Health System to evaluate our AI co-clinician tool that helps clinicians quickly synthesize information from medical guidelines and literature, and assist doctors with clinical queries as they care for patients."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Additionally, Google Cloud is partnering with NHG Health on a population health program that uses AI-driven predictive insights to forecast health risks, such as chronic conditions, across sub-populations. These insights feed directly into an AI health coach on the NHG HealthBot, using Google’s Gemini Enterprise for Customer Experience platform, to deliver personalized lifestyle guidance and preventative care reminders to residents.",
+      "id": "p9",
+      "zh": "此外,Google Cloud正与NHG Health合作实施一个人口健康方案,利用AI驱动的预测性见解来预测健康风险,例如慢性病,整个亚人群。这些洞察力直接输入了一位关于NHG HealthBot的AI健康导师,使用谷歌的双子企业客户体验平台,向居民提供个性化生活方式指导和预防性护理提醒。",
+      "en": "Additionally, Google Cloud is partnering with NHG Health on a population health program that uses AI-driven predictive insights to forecast health risks, such as chronic conditions, across sub-populations. These insights feed directly into an AI health coach on the NHG HealthBot, using Google’s Gemini Enterprise for Customer Experience platform, to deliver personalized lifestyle guidance and preventative care reminders to residents."
+    },
+    {
+      "kind": "heading",
+      "text": "Reinforcing commitments to public health",
+      "id": "p10",
+      "zh": "加强对公共卫生的承诺",
+      "en": "Reinforcing commitments to public health"
+    },
+    {
+      "kind": "paragraph",
+      "text": "True impact in healthcare requires advanced technology. It also relies on a health system's ability to integrate AI responsibly, govern it safely, and translate it into human-centered care.",
+      "id": "p11",
+      "zh": "保健的真正影响需要先进的技术。它还依赖于卫生系统负责地整合AI的能力,管理它的安全,并翻译为以人为本的护理。",
+      "en": "True impact in healthcare requires advanced technology. It also relies on a health system's ability to integrate AI responsibly, govern it safely, and translate it into human-centered care."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As countries around the world face shared challenges like an aging population and navigating the shift toward personalized and preventive care, pairing our technical expertise with Singapore’s world-class healthcare institutions will help build a future-ready system that serves as a blueprint for scaling AI safely for public good.",
+      "id": "p12",
+      "zh": "由于世界各国面临老龄化人口等共同挑战,并正在逐步转向个性化和预防性护理,将我们的技术专长与新加坡世界级的保健机构结合起来,将有助于建立一个能够成为未来发展基础的系统,作为安全扩大AI的蓝图。社会公益事业.",
+      "en": "As countries around the world face shared challenges like an aging population and navigating the shift toward personalized and preventive care, pairing our technical expertise with Singapore’s world-class healthcare institutions will help build a future-ready system that serves as a blueprint for scaling AI safely for public good."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们正在深化与新加坡的伙伴关系,将边境AI部署到全国的医疗保健系统。新的合作的主要目标,在新加坡的Google健康峰会上宣布,要加速科学发现,转变临床护理的提供方式,并赋予新加坡人以积极主动的保健工具。",
+      "en": "We're deepening our partnership with Singapore to deploy frontier AI across the nation’s healthcare system. The primary goals of the new collaboration, announced at the Google for Health Summit in Singapore, are to accelerate scientific discoveries, transform clinical care delivery, and empower Singaporeans with proactive health tools."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "与当地研究人员密切合作,临床医生,和公共机构,我们有一个共同的愿景,即在技术将产生最大影响的地方使用技术:推动医疗突破,帮助前线工人关注病人的护理,给人们更好的方法 管理自己的健康,扩大全社区的预防护理。以下是新加坡各地的作品如何生动。",
+      "en": "Working closely with local researchers, clinicians, and public agencies, we share a vision of using technology where it will have the greatest impact: driving medical breakthroughs, helping frontline workers focus on patient care, giving people better ways to manage their health, and expanding preventive care across the community. Here is a look at how this work is coming to life across Singapore."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "Google Research也将扩大其在新加坡的现有卫生研究举措的规模.这包括将像MedGemma这样的开放模式带到第一线的护理环境,以便能够发展安全,定制解决方案,同时保持全部数据主权.",
+      "en": "Google Research will also scale its existing health research initiatives in Singapore. This includes bringing open models like MedGemma to frontline care settings to enable the development of secure, customized solutions while maintaining full data sovereignty."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "为了推进科学研究,Google.org和Google DeepMind正在向慈善亚洲联盟的人类潜力健康联盟捐款700万美元。其中包括用于PathGen的100万美元,一个AI平台,利用Google技术帮助各国更快地发现疾病威胁并共享公共卫生情报数据,同时保护国内数据主权。",
+      "en": "To advance scientific research, Google.org and Google DeepMind are contributing $7 million to the Philanthropy Asia Alliance’s Health for Human Potential Coalition. This includes $1 million for PathGen, an AI platform that uses Google technology to help countries detect disease threats faster and share data for public health intelligence while protecting in-country data sovereignty."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "6cc703a452a77d241d159473fe55c3fd81695cb720e0b70cb31fb1b0c31c1421"
+}

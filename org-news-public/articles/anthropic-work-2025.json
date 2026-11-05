@@ -1,0 +1,1090 @@
+{
+  "schemaVersion": 1,
+  "id": "anthropic-work-2025",
+  "url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+  "sourceTitle": "Anthropic 内部研究：工程师能力边界扩大，也开始担心技能与协作流失",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:45:57.575637+00:00",
+  "fetchedAt": "2026-11-05T11:28:19.381357+00:00",
+  "finalURL": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+  "language": "en",
+  "originalTitle": "How AI is transforming work at Anthropic",
+  "author": "Anthropic",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "How is AI changing the way we work? Our previous research on AI’s economic impacts looked at the labor market as a whole, covering a variety of different jobs. But what if we studied some of the earliest adopters of AI technology in more detail—namely, us?",
+      "id": "p1",
+      "zh": "AI如何改变我们的工作方式?我们以前关于AI经济影响的研究 审视了整个劳动力市场,涵盖各种不同的工作。但是如果我们更详细地研究一些最早采用AI技术的人,即:我们?",
+      "en": "How is AI changing the way we work? Our previous research on AI’s economic impacts looked at the labor market as a whole, covering a variety of different jobs. But what if we studied some of the earliest adopters of AI technology in more detail—namely, us?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Turning the lens inward, in August 2025 we surveyed 132 Anthropic engineers and researchers, conducted 53 in-depth qualitative interviews, and studied internal Claude Code usage data to find out how AI use is changing things at Anthropic. We find that AI use is radically changing the nature of work for software developers, generating both hope and concern.",
+      "id": "p2",
+      "zh": "把镜头向内转在2025年8月,我们调查了132名人类工程师和研究人员,进行了53次深入的定性访谈,并研究了Claude内部代码使用数据,以发现AI在Anthropic的用法是如何改变事物的.我们发现人工智能的使用正在彻底改变软件开发者的工作性质,产生希望和关切。",
+      "en": "Turning the lens inward, in August 2025 we surveyed 132 Anthropic engineers and researchers, conducted 53 in-depth qualitative interviews, and studied internal Claude Code usage data to find out how AI use is changing things at Anthropic. We find that AI use is radically changing the nature of work for software developers, generating both hope and concern."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our research reveals a workplace facing significant transformations: Engineers are getting a lot more done, becoming more “full-stack” (able to succeed at tasks beyond their normal expertise), accelerating their learning and iteration speed, and tackling previously-neglected tasks. This expansion in breadth also has people wondering about the trade-offs—some worry that this could mean losing deeper technical competence, or becoming less able to effectively supervise Claude’s outputs, while others embrace the opportunity to think more expansively and at a higher level. Some found that more AI collaboration meant they collaborated less with colleagues; some wondered if they might eventually automate themselves out of a job.",
+      "id": "p3",
+      "zh": "我们的研究表明,工作场所面临重大变革:工程师们做得更多更加“完全”化(能够完成超出其通常专长的任务),加速他们的学习和迭代速度,并处理先前被忽视的任务。这种广度的扩大也使人们对权衡的取舍产生疑问——有人担心这可能意味着丧失更深的技术能力,或变得不太能够有效地监督Claude的产出,而其他人则抓住机会,在更高层次上进行更加广泛的思考。一些人发现,更多的AI合作意味着他们较少与同事合作;有些人想知道,他们是否最终会自动离开工作。",
+      "en": "Our research reveals a workplace facing significant transformations: Engineers are getting a lot more done, becoming more “full-stack” (able to succeed at tasks beyond their normal expertise), accelerating their learning and iteration speed, and tackling previously-neglected tasks. This expansion in breadth also has people wondering about the trade-offs—some worry that this could mean losing deeper technical competence, or becoming less able to effectively supervise Claude’s outputs, while others embrace the opportunity to think more expansively and at a higher level. Some found that more AI collaboration meant they collaborated less with colleagues; some wondered if they might eventually automate themselves out of a job."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We recognize that studying AI’s impact at a company building AI means representing a privileged position—our engineers have early access to cutting-edge tools, work in a relatively stable field, and are themselves contributing to the AI transformation affecting other industries. Despite this, we felt it was on balance useful to research and publish these findings, because what’s happening inside Anthropic for engineers may still be an instructive harbinger of broader societal transformation. Our findings imply some challenges and considerations that may warrant early attention across sectors (though see the Limitations section in the Appendix for caveats). At the time this data was collected, Claude Sonnet 4 and Claude Opus 4 were the most capable models available, and capabilities have continued to advance.",
+      "id": "p4",
+      "zh": "我们承认,研究AI对公司大楼的影响意味着代表一种特权地位----我们的工程师可以尽早获得尖端工具,在一个相对稳定的领域工作,并且自己也在为影响其他行业的AI转型做出贡献.虽然如此我们认为研究并发表这些结论是有用的,因为对于工程师来说, 在Anthropic内部发生的事情, 可能仍然是更广泛的社会变革的启示性预兆。我们的调查结论包含一些挑战和考虑,可能需要各部门及早注意(不过,关于说明,请参看附录中的限制部分)。在收集这一数据时,Claude Sonnet 4 和 Claude Opus 4 是目前最有能力的模型,能力不断提高。",
+      "en": "We recognize that studying AI’s impact at a company building AI means representing a privileged position—our engineers have early access to cutting-edge tools, work in a relatively stable field, and are themselves contributing to the AI transformation affecting other industries. Despite this, we felt it was on balance useful to research and publish these findings, because what’s happening inside Anthropic for engineers may still be an instructive harbinger of broader societal transformation. Our findings imply some challenges and considerations that may warrant early attention across sectors (though see the Limitations section in the Appendix for caveats). At the time this data was collected, Claude Sonnet 4 and Claude Opus 4 were the most capable models available, and capabilities have continued to advance."
+    },
+    {
+      "kind": "paragraph",
+      "text": "More capable AI brings productivity benefits, but it also raises questions about maintaining technical expertise, preserving meaningful collaboration, and preparing for an uncertain future that may require new approaches to learning, mentorship, and career development in an AI-augmented workplace. We discuss some initial steps we’re taking to explore these questions internally in the Looking Forward section below. We also explored potential policy responses in our recent blog post on ideas for AI-related economic policy.",
+      "id": "p5",
+      "zh": "更有能力的人工智能带来生产力效益,但也引起了关于保持技术专长的问题,保持有意义的合作,并为可能要求采取新的学习方法的不确定的未来做准备,辅导;以及AI强化工作场所的职业发展。我们讨论我们为在内部探讨这些问题而采取的一些初步步骤,我们还在最近关于AI相关经济政策想法的博客文章中探讨了可能的对策。",
+      "en": "More capable AI brings productivity benefits, but it also raises questions about maintaining technical expertise, preserving meaningful collaboration, and preparing for an uncertain future that may require new approaches to learning, mentorship, and career development in an AI-augmented workplace. We discuss some initial steps we’re taking to explore these questions internally in the Looking Forward section below. We also explored potential policy responses in our recent blog post on ideas for AI-related economic policy."
+    },
+    {
+      "kind": "heading",
+      "text": "Key findings",
+      "id": "p6",
+      "zh": "主要调查结果",
+      "en": "Key findings"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In this section, we briefly summarize the findings from our survey, interviews, and Claude Code data. We provide detailed findings, methods, and caveats in the subsequent sections below.",
+      "id": "p7",
+      "zh": "在本节中,我们简要总结了调查的结果,访谈,还有Claude代码的数据我们提供了详细的调查结果,方法,并在下文各节中作出说明。",
+      "en": "In this section, we briefly summarize the findings from our survey, interviews, and Claude Code data. We provide detailed findings, methods, and caveats in the subsequent sections below."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Survey data",
+      "id": "p8",
+      "zh": "调查数据",
+      "en": "Survey data"
+    },
+    {
+      "kind": "list",
+      "text": "Anthropic engineers and researchers use Claude most often for fixing code errors and learning about the codebase. Debugging and code understanding are the most common uses (Figure 1).",
+      "id": "p9",
+      "zh": "Anthropic工程师和研究人员最常使用Claude来修补代码错误和了解代码库.调试和代码理解是最常用的用途(图1).",
+      "en": "Anthropic engineers and researchers use Claude most often for fixing code errors and learning about the codebase. Debugging and code understanding are the most common uses (Figure 1)."
+    },
+    {
+      "kind": "list",
+      "text": "People report increasing Claude usage and productivity gains. Employees self-report using Claude in 60% of their work and achieving a 50% productivity boost, a 2-3x increase from this time last year. This productivity looks like slightly less time per task category, but considerably more output volume (Figure 2).",
+      "id": "p10",
+      "zh": "人们报告说,Claude的使用率和生产率提高了。员工在60%的工作中使用Claude进行自我报告,实现50%的生产率提升,a 比去年这个时候增加2-3x。这种生产力看起来比每个任务类别的时间要少一点,但产出量要大得多(图2)。",
+      "en": "People report increasing Claude usage and productivity gains. Employees self-report using Claude in 60% of their work and achieving a 50% productivity boost, a 2-3x increase from this time last year. This productivity looks like slightly less time per task category, but considerably more output volume (Figure 2)."
+    },
+    {
+      "kind": "list",
+      "text": "27% of Claude-assisted work consists of tasks that wouldn't have been done otherwise, such as scaling projects, making nice-to-have tools (e.g. interactive data dashboards), and exploratory work that wouldn't be cost-effective if done manually.",
+      "id": "p11",
+      "zh": "Claude协助的27%的工作 都由本来不可能完成的任务组成例如,缩小项目规模,制作好手工具(例如:交互式数据仪表板;和探索性工作,如果手工完成,是没有成本效益的。",
+      "en": "27% of Claude-assisted work consists of tasks that wouldn't have been done otherwise, such as scaling projects, making nice-to-have tools (e.g. interactive data dashboards), and exploratory work that wouldn't be cost-effective if done manually."
+    },
+    {
+      "kind": "list",
+      "text": "Most employees use Claude frequently while reporting they can “fully delegate” 0-20% of their work to it. Claude is a constant collaborator but using it generally involves active supervision and validation, especially in high-stakes work—versus handing off tasks requiring no verification at all.",
+      "id": "p12",
+      "zh": "大多数雇员经常使用Claude,同时报告他们可以“完全委托”他们工作的0-20%。Claude是一个经常的合作者 但使用它一般涉及 积极的监督和验证,特别是在高额工作方面,相对于完全不需要核查的移交任务而言。",
+      "en": "Most employees use Claude frequently while reporting they can “fully delegate” 0-20% of their work to it. Claude is a constant collaborator but using it generally involves active supervision and validation, especially in high-stakes work—versus handing off tasks requiring no verification at all."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Qualitative interviews",
+      "id": "p13",
+      "zh": "定性面谈",
+      "en": "Qualitative interviews"
+    },
+    {
+      "kind": "list",
+      "text": "Employees are developing intuitions for AI delegation. Engineers tend to delegate tasks that are easily verifiable, where they “can relatively easily sniff-check on correctness”, low-stakes (e.g. “throwaway debug or research code”), or boring (“The more excited I am to do the task, the more likely I am to not use Claude”). Many describe a trust progression, starting with simple tasks and gradually delegating more complex work—and while they’re currently keeping most design or “taste” tasks, this boundary is being renegotiated as models improve.",
+      "id": "p14",
+      "zh": "雇员们正在为大赦国际代表团发展直觉。工程师往往将易于核查的任务委托给他人,它们“能够相对容易地检查正确性”,低吸数(如.“驱逐调试或研究代码”,或无聊,“我对完成这项任务感到越兴奋,我越有可能不使用Claude”)。许多人描述了信任的发展,从简单的任务开始,并逐渐下放更复杂的工作——虽然它们目前保存着大多数设计或 \" 特制 \" 的任务,随着模型的改进,这一边界正在重新谈判。",
+      "en": "Employees are developing intuitions for AI delegation. Engineers tend to delegate tasks that are easily verifiable, where they “can relatively easily sniff-check on correctness”, low-stakes (e.g. “throwaway debug or research code”), or boring (“The more excited I am to do the task, the more likely I am to not use Claude”). Many describe a trust progression, starting with simple tasks and gradually delegating more complex work—and while they’re currently keeping most design or “taste” tasks, this boundary is being renegotiated as models improve."
+    },
+    {
+      "kind": "list",
+      "text": "Skillsets are broadening into more areas, but some are getting less practice. Claude enables people to broaden their skills into more areas (of software engineering (“I can very capably work on front-end, or transactional databases... where previously I would've been scared to touch stuff”), but some employees are also concerned, paradoxically, about the atrophy of deeper skillsets required for both writing and critiquing code—“When producing output is so easy and fast, it gets harder and harder to actually take the time to learn something.”",
+      "id": "p15",
+      "zh": "技能课正在扩展到更多领域,但有些人越来越少练习。Claude使人们能够将技能扩展到更多的领域(软件工程)(“我非常有能力地在前端工作,或交易数据库...在那之前我会害怕碰东西)但有些员工也担心,荒谬的是,关于书写和刻录代码所需的更深层技能的萎缩—— \" 当产出如此容易和迅速时,需要时间去学习一些东西。”",
+      "en": "Skillsets are broadening into more areas, but some are getting less practice. Claude enables people to broaden their skills into more areas (of software engineering (“I can very capably work on front-end, or transactional databases... where previously I would've been scared to touch stuff”), but some employees are also concerned, paradoxically, about the atrophy of deeper skillsets required for both writing and critiquing code—“When producing output is so easy and fast, it gets harder and harder to actually take the time to learn something.”"
+    },
+    {
+      "kind": "list",
+      "text": "Changing relationship to coding craft. Some engineers embrace AI assistance and focus on outcomes (“I thought that I really enjoyed writing code, and I think instead I actually just enjoy what I get out of writing code”); others say that “there are certainly some parts of [writing code] that I miss.”",
+      "id": "p16",
+      "zh": "将关系切换为编码工艺.一些工程师接受了AI的帮助,并专注于结果(我认为我真的很喜欢写作规范,我认为我其实只是喜欢我从写作代码中得到的东西。”其他人说,“我的确怀念[写作法 中的某些内容。”",
+      "en": "Changing relationship to coding craft. Some engineers embrace AI assistance and focus on outcomes (“I thought that I really enjoyed writing code, and I think instead I actually just enjoy what I get out of writing code”); others say that “there are certainly some parts of [writing code] that I miss.”"
+    },
+    {
+      "kind": "list",
+      "text": "Workplace social dynamics may be changing. Claude is now the first stop for questions that used to go to colleagues—some report fewer mentorship and collaboration opportunities as a result. (“I like working with people and it's sad that I ‘need’ them less now… More junior people don't come to me with questions as often.”)",
+      "id": "p17",
+      "zh": "工作场所的社会动态可能正在发生变化。Claude现在成了过去向同事提问的第一站——有些报告因此减少了辅导和合作的机会。“我喜欢与人合作,",
+      "en": "Workplace social dynamics may be changing. Claude is now the first stop for questions that used to go to colleagues—some report fewer mentorship and collaboration opportunities as a result. (“I like working with people and it's sad that I ‘need’ them less now… More junior people don't come to me with questions as often.”)"
+    },
+    {
+      "kind": "list",
+      "text": "Career evolution and uncertainty. Engineers report shifting toward higher-level work managing AI systems and report significant productivity gains. However, these changes also raise questions about the long-term trajectory of software engineering as a profession. Some express conflicting feelings about the future: “I feel optimistic in the short term but in the long term I think AI will end up doing everything and make me and many others irrelevant.” Others emphasize genuine uncertainty, saying only that it was “hard to say” what their roles might look like in a few years’ time.",
+      "id": "p18",
+      "zh": "事业进化与不确定性.工程师们报告说,他们转向管理人工智能系统的更高级别的工作,并报告生产率的显著提高。不过,这些变化也使人们对软件工程作为一个专业的长期轨迹产生疑问.有些人表达了对未来的相互矛盾的感受:“我觉得短期内是乐观的,但从长远来看,我认为大赦国际最终会做一切事情,使我和其他许多人变得无关紧要。”仅仅说 \" 很难说 \" 他们的角色在几年后可能是什么样子。",
+      "en": "Career evolution and uncertainty. Engineers report shifting toward higher-level work managing AI systems and report significant productivity gains. However, these changes also raise questions about the long-term trajectory of software engineering as a profession. Some express conflicting feelings about the future: “I feel optimistic in the short term but in the long term I think AI will end up doing everything and make me and many others irrelevant.” Others emphasize genuine uncertainty, saying only that it was “hard to say” what their roles might look like in a few years’ time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Claude Code usage trends",
+      "id": "p19",
+      "zh": "Claude 代码使用趋势",
+      "en": "Claude Code usage trends"
+    },
+    {
+      "kind": "list",
+      "text": "Claude is handling increasingly complex tasks more autonomously. Six months ago, Claude Code would complete about 10 actions on its own before needing human input. Now, it generally handles around 20, needing less frequent human steering to complete more complex workflows (Figure 3). Engineers increasingly use Claude for complex tasks like code design/planning (1% to 10% of usage) and implementing new features (14% to 37%) (Figure 4).",
+      "id": "p20",
+      "zh": "Claude正在更自主地处理越来越复杂的任务.六个月前,Claude Code在需要人类投入之前,将自行完成大约10项行动.现在,它一般处理大约20,需要较少的人力指导来完成更复杂的工作流程(图3)。工程师越来越多地利用Claude完成复杂的任务,如代码设计/规划(占使用量的1%至10%)和实施新功能(14%至37%)(图4)。",
+      "en": "Claude is handling increasingly complex tasks more autonomously. Six months ago, Claude Code would complete about 10 actions on its own before needing human input. Now, it generally handles around 20, needing less frequent human steering to complete more complex workflows (Figure 3). Engineers increasingly use Claude for complex tasks like code design/planning (1% to 10% of usage) and implementing new features (14% to 37%) (Figure 4)."
+    },
+    {
+      "kind": "list",
+      "text": "Claude fixes a lot of “papercuts”. 8.6% of Claude Code tasks involve fixing minor issues that improve quality of life, like refactoring code for maintainability (that is, “fixing papercuts”) that people say would typically be deprioritized. These small fixes could add up to larger productivity and efficiency gains.",
+      "id": "p21",
+      "zh": "Claude修复了许多“纸板”。8.6%的Claude法典任务涉及解决改善生活质量的次要问题,譬如为可维护性而设定的编码(即:人们说,“固定的剪纸”一般是非优先的。这些小的修补可以增加更大的生产力和效率的提高。",
+      "en": "Claude fixes a lot of “papercuts”. 8.6% of Claude Code tasks involve fixing minor issues that improve quality of life, like refactoring code for maintainability (that is, “fixing papercuts”) that people say would typically be deprioritized. These small fixes could add up to larger productivity and efficiency gains."
+    },
+    {
+      "kind": "list",
+      "text": "Everyone is becoming more “full-stack”. Different teams use Claude in different ways, often to augment their core expertise—Security uses it to analyze unfamiliar code, Alignment & Safety use it to build front-end visualizations of their data, and so on (Figure 5).",
+      "id": "p22",
+      "zh": "每个人正在变得更加 \" 全面 \" 。不同的团队以不同的方式使用Claude,通常是为了增加他们的核心专长——安全用它来分析不熟悉的代码,对齐和安全使用它来构建他们的数据的前端可视化,等 (图5).",
+      "en": "Everyone is becoming more “full-stack”. Different teams use Claude in different ways, often to augment their core expertise—Security uses it to analyze unfamiliar code, Alignment & Safety use it to build front-end visualizations of their data, and so on (Figure 5)."
+    },
+    {
+      "kind": "heading",
+      "text": "Survey data",
+      "id": "p23",
+      "zh": "调查数据",
+      "en": "Survey data"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We surveyed 132 Anthropic engineers and researchers from across the organization about their Claude use, to better understand how exactly they were using it day-to-day. We distributed our survey through internal communication channels and direct outreach to employees across diverse teams representing both research and product functions. We have included a Limitations section in the Appendix with more methodological details, and we are sharing our survey questions so others can evaluate our approach and adapt it for their own research.",
+      "id": "p24",
+      "zh": "我们调查了全组织的132名人类工程师和研究人员 关于他们使用Claude的情况,来更好地了解他们是如何 准确的日常使用它。我们通过内部沟通渠道和直接接触代表研究和产品职能的不同团队的雇员,散发了我们的调查。我们在附录中增加了一个限制部分,增加了更多方法细节,我们分享我们调查的问题,以便其他人能够评估我们的方法,并把它用于自己的研究。",
+      "en": "We surveyed 132 Anthropic engineers and researchers from across the organization about their Claude use, to better understand how exactly they were using it day-to-day. We distributed our survey through internal communication channels and direct outreach to employees across diverse teams representing both research and product functions. We have included a Limitations section in the Appendix with more methodological details, and we are sharing our survey questions so others can evaluate our approach and adapt it for their own research."
+    },
+    {
+      "kind": "heading",
+      "text": "What coding tasks are people using Claude for?",
+      "id": "p25",
+      "zh": "人们利用Claude来做什么编码工作?",
+      "en": "What coding tasks are people using Claude for?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We asked the surveyed engineers and researchers to rate how often they used Claude for various types of coding tasks, such as “debugging” (using Claude to help fix errors in code), “code understanding” (having Claude explain existing code to help the human user understand the codebase), “refactoring” (using Claude to help restructure existing code), and “data science” (e.g. having Claude analyze datasets and make bar charts).",
+      "id": "p26",
+      "zh": "我们要求被调查的工程师和研究者 判断他们用Claude 完成各种编码任务的频率例如“调试”(使用Claude帮助纠正代码错误),“代码理解”(由Claude解释现有代码以帮助人类用户理解代码库),“重构”(使用Claude帮助调整现有代码),和“数据科学”(例如:Claude分析数据集并制作条形图。",
+      "en": "We asked the surveyed engineers and researchers to rate how often they used Claude for various types of coding tasks, such as “debugging” (using Claude to help fix errors in code), “code understanding” (having Claude explain existing code to help the human user understand the codebase), “refactoring” (using Claude to help restructure existing code), and “data science” (e.g. having Claude analyze datasets and make bar charts)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Below are the most common daily tasks. Most employees (55%) used Claude for debugging on a daily basis. 42% used Claude everyday for code understanding, and 37% used Claude everyday for implementing new features. The less-frequent tasks were high level design/planning (likely because these are tasks people tend to keep in human hands), as well as data science and front-end development (likely because they are overall less common tasks). This roughly aligns with the Claude Code usage data distribution reported in the “Claude Code usage trends” section.",
+      "id": "p27",
+      "zh": "下面是最常见的日常任务。大多数员工(55%)每天利用Claude进行调试.42%每天用Claude来理解密码37%的人每天利用Claude来实施新的功能。不太常见的任务是高层次的设计/规划(可能因为这些是人们往往掌握在人类手中的任务),以及数据科学和前端开发(可能是因为它们总体上不太常见的任务).这与“Claude Code使用趋势”一节中报告的Claude代码使用数据分布大致一致。",
+      "en": "Below are the most common daily tasks. Most employees (55%) used Claude for debugging on a daily basis. 42% used Claude everyday for code understanding, and 37% used Claude everyday for implementing new features. The less-frequent tasks were high level design/planning (likely because these are tasks people tend to keep in human hands), as well as data science and front-end development (likely because they are overall less common tasks). This roughly aligns with the Claude Code usage data distribution reported in the “Claude Code usage trends” section."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Proportion of daily users (x-axis) for various coding tasks (y-axis).",
+      "id": "p28",
+      "zh": "各种编码任务的日常用户比例(x轴).",
+      "en": "Proportion of daily users (x-axis) for various coding tasks (y-axis)."
+    },
+    {
+      "kind": "heading",
+      "text": "Usage and productivity",
+      "id": "p29",
+      "zh": "使用率和生产率",
+      "en": "Usage and productivity"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Employees self-reported that 12 months ago, they used Claude in 28% of their daily work and got a +20% productivity boost from it, whereas now, they use Claude in 59% of their work and achieve +50% productivity gains from it on average. (This roughly corroborates the 67% increase in merged pull requests—i.e. successfully incorporated changes to code—per engineer per day we saw when we adopted Claude Code across our Engineering org.) The year-on-year comparison is quite dramatic—this suggests a more than 2x increase in both metrics in one year. Usage and productivity are also strongly correlated, and at the extreme end of the distribution, 14% of respondents are increasing their productivity by more than 100% by using Claude—these are our internal “power users.”",
+      "id": "p30",
+      "zh": "雇员自己报告说,12个月前,他们把Claude用在了28%的日常工作上,并从中得到了+20%的生产力提升,而现在他们把Claude用在59%的作品中,并且从中平均实现+50%的生产力增益.(这大致证实了合并拉力请求增加67%的情况——即:成功地融入了代码的修改——当我们通过Claude Code 横跨我们的工程公司时,每个工程师每天看到。 年复一年的比较相当戏剧性——这个这表明,在一年中,这两个指标都增加了2x以上。使用率和生产率也密切相关,而在分配的极端端,14%的受访者通过使用Claude(Claude)来提高生产率,",
+      "en": "Employees self-reported that 12 months ago, they used Claude in 28% of their daily work and got a +20% productivity boost from it, whereas now, they use Claude in 59% of their work and achieve +50% productivity gains from it on average. (This roughly corroborates the 67% increase in merged pull requests—i.e. successfully incorporated changes to code—per engineer per day we saw when we adopted Claude Code across our Engineering org.) The year-on-year comparison is quite dramatic—this suggests a more than 2x increase in both metrics in one year. Usage and productivity are also strongly correlated, and at the extreme end of the distribution, 14% of respondents are increasing their productivity by more than 100% by using Claude—these are our internal “power users.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To caveat this finding (and other self-reported productivity findings below), productivity is difficult to precisely measure (see Appendix for more limitations). There is recent work from METR, an AI research nonprofit, showing that experienced developers working with AI on highly familiar codebases overestimated their productivity boost from AI. That being said, the factors that METR identified as contributing to lower productivity than expected (e.g. AI performing worse in large, complex environments, or where there’s a lot of tacit knowledge/context necessary) closely correspond to the types of tasks our employees said they don’t delegate to Claude (see AI delegation approaches, below). Our productivity gains, self-reported across tasks, might reflect employees developing strategic AI delegation skills—something not accounted for in the METR study.",
+      "id": "p31",
+      "zh": "提醒这一调查结果(以及下文其他自报的生产率调查结果),生产率难以精确衡量(更多限制,见附录)。METR公司最近的工作是:AI研究非营利性,显示与AI合作的有经验的开发者在高度熟悉的代码库上从AI中高估了他们的生产力提升.说到这里METR所查明的导致生产力低于预期的因素(例如:AI在大范围表现更糟糕,复杂环境,或许多隐性知识/内容需要的地方)与我们雇员说他们不委托给Claude的任务类型(见大赦国际代表团)非常吻合。方针,(见下文)。我们的生产力提高,跨任务自报,可能反映雇员发展战略性AI代表团技能的情况,而METR研究没有对此加以说明。",
+      "en": "To caveat this finding (and other self-reported productivity findings below), productivity is difficult to precisely measure (see Appendix for more limitations). There is recent work from METR, an AI research nonprofit, showing that experienced developers working with AI on highly familiar codebases overestimated their productivity boost from AI. That being said, the factors that METR identified as contributing to lower productivity than expected (e.g. AI performing worse in large, complex environments, or where there’s a lot of tacit knowledge/context necessary) closely correspond to the types of tasks our employees said they don’t delegate to Claude (see AI delegation approaches, below). Our productivity gains, self-reported across tasks, might reflect employees developing strategic AI delegation skills—something not accounted for in the METR study."
+    },
+    {
+      "kind": "paragraph",
+      "text": "An interesting productivity pattern emerges when asking employees, for task categories where they currently use Claude, how it affects their overall time spent and work output volume in that task category. Across almost all task categories, we see a net decrease in time spent, and a larger net increase in output volume:",
+      "id": "p32",
+      "zh": "在问员工时,出现了一种有趣的生产率模式,用于当前使用Claude的任务类别,它如何影响他们在这一任务类别中的总时间和工作产出量。在几乎所有的任务类别中,我们看到所花时间的净减少,产出量净增加幅度较大:",
+      "en": "An interesting productivity pattern emerges when asking employees, for task categories where they currently use Claude, how it affects their overall time spent and work output volume in that task category. Across almost all task categories, we see a net decrease in time spent, and a larger net increase in output volume:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Impact on time spent (left panel) and output volume (right panel) by task (y-axis). The x-axis on each plot corresponds to either a self-reported decrease (negative values), increase (positive values) or no change (vertical dashed line) in time spent or output volume for categories of Claude-assisted tasks, compared to not using Claude. Error bars show 95% confidence intervals. Circle area is proportional to the number of responses at each rating point. Only respondents who reported using Claude for each task category are included.",
+      "id": "p33",
+      "zh": "按任务(y轴)对时间(左面板)和输出量(右面板)的影响.每个图中的x轴对应于自报的减少值(负值),增加(正值)或没有改变(垂直虚线)Claude协助任务类别所用时间或产出量,而不是不使用Claude。错误栏显示95%的置信间隔 。圆形区域与每个评分点的响应次数成比例.只有报告为每一任务类别使用Claude的答卷人才包括在内。",
+      "en": "Impact on time spent (left panel) and output volume (right panel) by task (y-axis). The x-axis on each plot corresponds to either a self-reported decrease (negative values), increase (positive values) or no change (vertical dashed line) in time spent or output volume for categories of Claude-assisted tasks, compared to not using Claude. Error bars show 95% confidence intervals. Circle area is proportional to the number of responses at each rating point. Only respondents who reported using Claude for each task category are included."
+    },
+    {
+      "kind": "paragraph",
+      "text": "However, when we dig deeper into the raw data, we see that the time saving responses cluster at opposite ends—some people spend significantly more time on tasks that are Claude-assisted.",
+      "id": "p34",
+      "zh": "不过,当我们深入挖掘原始数据时我们可以看到,节省的时间集中在相反的结局上,有些人花在Claude协助的任务上的时间要多得多。",
+      "en": "However, when we dig deeper into the raw data, we see that the time saving responses cluster at opposite ends—some people spend significantly more time on tasks that are Claude-assisted."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Why is that? People generally explained that they had to do more debugging and cleanup of Claude’s code (e.g. “when I vibe code myself into a corner”), and shoulder more cognitive overhead for understanding Claude’s code since they didn’t write it themselves. Some mentioned spending more time on tasks in an enabling sense—one said that using Claude helps them “persist on tasks that I previously would've given up on immediately”; another said it helps them do more thorough testing and also more learning and exploration in new codebases. It seems that generally, engineers experiencing time savings may be those who are scoping quickly-verifiable tasks for Claude, while those spending more time might be debugging AI-generated code or working in domains where Claude needs more guidance.",
+      "id": "p35",
+      "zh": "为什么?人们一般解释说,他们必须做更多的调试和清理Claude的代码(例如.“当我将自己变成一个角落时”,并承担更多的认知管理费用来理解Claude的代码,一些人提到在有利意义上花费更多的时间执行任务,有人说利用Claude帮助他们“坚持我以前会立即放弃的任务”;另一个人说,这帮助他们进行更彻底的测试,并在新的编码库中进行更多的学习和探索.似乎总的来说,节省时间的工程师可能就是那些正在为Claude确定可快速核实的任务范围的人,而那些花更多时间的人可能正在调试AI生成的代码,或者在Claude需要更多指导的领域工作.",
+      "en": "Why is that? People generally explained that they had to do more debugging and cleanup of Claude’s code (e.g. “when I vibe code myself into a corner”), and shoulder more cognitive overhead for understanding Claude’s code since they didn’t write it themselves. Some mentioned spending more time on tasks in an enabling sense—one said that using Claude helps them “persist on tasks that I previously would've given up on immediately”; another said it helps them do more thorough testing and also more learning and exploration in new codebases. It seems that generally, engineers experiencing time savings may be those who are scoping quickly-verifiable tasks for Claude, while those spending more time might be debugging AI-generated code or working in domains where Claude needs more guidance."
+    },
+    {
+      "kind": "paragraph",
+      "text": "It is also not clear from our data where reported time savings are being reinvested—whether into additional engineering tasks, non-engineering tasks, interacting with Claude or reviewing its output, or activities outside of work. Our task categorization framework does not capture all the ways engineers might allocate their time. Additionally, the time savings may reflect perception biases in self-reporting. Further research is needed to disentangle these effects.",
+      "id": "p36",
+      "zh": "从我们的数据中也不清楚所报告节省的时间是在哪里被重新投资的——是否用于额外的工程任务,非工程任务,与Claude互动或审查其产出,或工作以外的活动。我们的任务分类框架没有涵盖工程师可能分配时间的所有方式。此外,节省的时间可能反映自我报告时的观念偏差。需要进一步的研究,以分清这些影响。",
+      "en": "It is also not clear from our data where reported time savings are being reinvested—whether into additional engineering tasks, non-engineering tasks, interacting with Claude or reviewing its output, or activities outside of work. Our task categorization framework does not capture all the ways engineers might allocate their time. Additionally, the time savings may reflect perception biases in self-reporting. Further research is needed to disentangle these effects."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Output volume increases are more straightforward and substantial; there is a larger net increase across all task categories. This pattern makes sense when we consider that people are reporting on task categories (like “debugging” overall) rather than individual tasks—i.e. people can spend slightly less time on debugging as a category while producing much more debugging output overall. Productivity is very hard to measure directly, but this self-reported data suggests that AI enables increased productivity at Anthropic primarily through greater output volume.",
+      "id": "p37",
+      "zh": "产出量的增加更为直接和实质性;所有任务类别的净增长都较大。当我们认为人们在报告任务类别(如“调试”)而不是个别任务时,这种模式是有道理的。人们可以少花一点时间作为一个类别来调试,同时总的产生更多的调试输出.生产力很难直接衡量,但是,这种自报的数据表明,人工智能主要通过增加产出量提高Anthropic的生产率。",
+      "en": "Output volume increases are more straightforward and substantial; there is a larger net increase across all task categories. This pattern makes sense when we consider that people are reporting on task categories (like “debugging” overall) rather than individual tasks—i.e. people can spend slightly less time on debugging as a category while producing much more debugging output overall. Productivity is very hard to measure directly, but this self-reported data suggests that AI enables increased productivity at Anthropic primarily through greater output volume."
+    },
+    {
+      "kind": "heading",
+      "text": "Claude enabling new work",
+      "id": "p38",
+      "zh": "Claude 促成新工作",
+      "en": "Claude enabling new work"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One thing we were curious about: Is Claude enabling qualitatively new kinds of work, or would Claude-assisted work have been done by employees eventually (albeit potentially at a slower rate)?",
+      "id": "p39",
+      "zh": "有件事我们很好奇:Claude能创造出全新的工作吗?或者Claude协助的工作最终会由雇员完成(尽管可能以较慢的速度完成)?",
+      "en": "One thing we were curious about: Is Claude enabling qualitatively new kinds of work, or would Claude-assisted work have been done by employees eventually (albeit potentially at a slower rate)?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Employees estimated that 27% of their Claude-assisted work wouldn't have been done without it. Engineers cited using AI for scaling projects, nice-to-haves (e.g. interactive data dashboards), useful but tedious work like documentation and testing, and exploratory work that wouldn't be cost-effective manually. As one person explained, they can now fix more “papercuts” that previously damaged quality of life, such as refactoring badly-structured code, or building “small tools that help accomplish another task faster.” We looked for this in our usage data analysis as well, and found that 8.6% of Claude Code tasks involve ‘papercut fixes.’",
+      "id": "p40",
+      "zh": "雇员估计,没有Claude协助的27%的工作是不可能完成的.工程师引用AI 用于规模化项目,优待(如:交互式数据仪表板;有用但又乏味的工作,如文件和测试,和探索性的工作,不会 成本效益手工。正如一个人所解释的那样,他们现在可以修补更多的 \" 纸片 \" ,这些纸片以前破坏了生活质量,例如重构结构不良的代码,或建立“有助于更快地完成另一项任务的小型工具”。 我们在使用数据分析中也研究了这一点,并发现8.6%的Claude Code任务涉及‘纸质修正'.",
+      "en": "Employees estimated that 27% of their Claude-assisted work wouldn't have been done without it. Engineers cited using AI for scaling projects, nice-to-haves (e.g. interactive data dashboards), useful but tedious work like documentation and testing, and exploratory work that wouldn't be cost-effective manually. As one person explained, they can now fix more “papercuts” that previously damaged quality of life, such as refactoring badly-structured code, or building “small tools that help accomplish another task faster.” We looked for this in our usage data analysis as well, and found that 8.6% of Claude Code tasks involve ‘papercut fixes.’"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Another researcher explained that they ran many versions of Claude simultaneously, all exploring different approaches to a problem:",
+      "id": "p41",
+      "zh": "另一位研究员解释说,他们同时运行了许多版本的Claude,所有探讨解决问题的不同办法:",
+      "en": "Another researcher explained that they ran many versions of Claude simultaneously, all exploring different approaches to a problem:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "People tend to think about super capable models as a single instance, like getting a faster car. But having a million horses… allows you to test a bunch of different ideas… It’s exciting and more creative when you have that extra breadth to explore.",
+      "id": "p42",
+      "zh": "人们往往把超能力模型当作一个单一的例子,喜欢得到一个更快的车。但拥有一百万匹马...让你可以测试许多不同的想法.",
+      "en": "People tend to think about super capable models as a single instance, like getting a faster car. But having a million horses… allows you to test a bunch of different ideas… It’s exciting and more creative when you have that extra breadth to explore."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As we'll see in the following sections, this new work often involves engineers tackling tasks outside their core expertise.",
+      "id": "p43",
+      "zh": "如下各节所见.这项新工作往往涉及工程师处理其核心专门知识之外的任务。",
+      "en": "As we'll see in the following sections, this new work often involves engineers tackling tasks outside their core expertise."
+    },
+    {
+      "kind": "heading",
+      "text": "How much work can be fully delegated to Claude?",
+      "id": "p44",
+      "zh": "有多少工作可以完全委托给Claude?",
+      "en": "How much work can be fully delegated to Claude?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Although engineers use Claude frequently, more than half said they can “fully delegate” only between 0-20% of their work to Claude. (It’s worth noting that there is variation in how respondents might interpret “fully delegate”—from tasks needing no verification at all to those that are reliable enough to require only light oversight.) When explaining why, engineers described working actively and iteratively with Claude, and validating its outputs—particularly for complex tasks or high-stakes areas where code quality standards are critical. This suggests that engineers tend to collaborate closely with Claude and check its work rather than handing off tasks without verification, and that they set a high bar for what counts as “fully delegated.”",
+      "id": "p45",
+      "zh": "虽然工程师经常使用Claude,半数以上的人说,他们只能“完全委托”Claude工作,占其工作的0-20%。(值得注意的是,答复者如何解释 \" 充分授权 \" -- -- 从完全不需要核查的任务到足够可靠的任务,在如何解释 \" 充分授权 \" 方面,存在着差异。在解释原因时,工程师们描述 与Claude积极和迭代的工作,并验证其产出,特别是对于复杂的任务或守则质量标准至关重要的高风险领域。这表明工程师往往与Claude密切合作并检查其工作,而不是在没有核查的情况下交付任务,他们为所谓的“充分授权”而设一个高限。",
+      "en": "Although engineers use Claude frequently, more than half said they can “fully delegate” only between 0-20% of their work to Claude. (It’s worth noting that there is variation in how respondents might interpret “fully delegate”—from tasks needing no verification at all to those that are reliable enough to require only light oversight.) When explaining why, engineers described working actively and iteratively with Claude, and validating its outputs—particularly for complex tasks or high-stakes areas where code quality standards are critical. This suggests that engineers tend to collaborate closely with Claude and check its work rather than handing off tasks without verification, and that they set a high bar for what counts as “fully delegated.”"
+    },
+    {
+      "kind": "heading",
+      "text": "Qualitative interviews",
+      "id": "p46",
+      "zh": "定性面谈",
+      "en": "Qualitative interviews"
+    },
+    {
+      "kind": "paragraph",
+      "text": "While these survey findings reveal significant productivity gains and changing work patterns, they raise questions about how engineers are actually experiencing these changes day-to-day. To understand the human dimension behind these metrics, we conducted in-depth interviews with 53 of the Anthropic engineers and researchers who responded to the survey, to get more insight into how they’re thinking and feeling about these changes in the workplace.",
+      "id": "p47",
+      "zh": "虽然这些调查结果显示生产力有了显著提高,工作模式也发生了变化,他们提出了关于工程师如何实际 经历这些变化的日常问题。为了了解这些衡量标准背后的人的层面,我们深入采访了53名对调查作出答复的人类工程师和研究人员,更深入地了解他们对工作场所这些变化的思考和感受。",
+      "en": "While these survey findings reveal significant productivity gains and changing work patterns, they raise questions about how engineers are actually experiencing these changes day-to-day. To understand the human dimension behind these metrics, we conducted in-depth interviews with 53 of the Anthropic engineers and researchers who responded to the survey, to get more insight into how they’re thinking and feeling about these changes in the workplace."
+    },
+    {
+      "kind": "heading",
+      "text": "AI delegation approaches",
+      "id": "p48",
+      "zh": "AI 代表团办法",
+      "en": "AI delegation approaches"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Engineers and researchers are developing a variety of strategies for productively leveraging Claude in their workflow. People generally delegate tasks that are:",
+      "id": "p49",
+      "zh": "工程师和研究人员正在制订各种战略,以有效利用Claude的工作流程。人们一般将以下任务委托给:",
+      "en": "Engineers and researchers are developing a variety of strategies for productively leveraging Claude in their workflow. People generally delegate tasks that are:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Outside the user’s context and low complexity:",
+      "id": "p50",
+      "zh": "除了用户的背景和低复杂性:",
+      "en": "Outside the user’s context and low complexity:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“I use Claude for things where I have low context, but think that the overall complexity is also low.”",
+      "id": "p51",
+      "zh": "\"我利用Claude做一些我不太熟悉的事情,但认为总体复杂性也很低。”",
+      "en": "“I use Claude for things where I have low context, but think that the overall complexity is also low.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“The majority of the infra[structure] problems I have are not difficult and can be handled by Claude… I don’t know Git or Linux very well… Claude does a good job covering for my lack of experience in these areas.”",
+      "id": "p52",
+      "zh": "我并不了解Git或Linux。在这些领域缺乏经验。”",
+      "en": "“The majority of the infra[structure] problems I have are not difficult and can be handled by Claude… I don’t know Git or Linux very well… Claude does a good job covering for my lack of experience in these areas.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Easily verifiable:",
+      "id": "p53",
+      "zh": "易于核查:",
+      "en": "Easily verifiable:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“It's absolutely amazing for everything where validation effort isn't large in comparison to creation effort.”",
+      "id": "p54",
+      "zh": "“对于验证工作与创作工作相比并不大的一切,这是绝对惊人的。”",
+      "en": "“It's absolutely amazing for everything where validation effort isn't large in comparison to creation effort.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Well-defined or self-contained:",
+      "id": "p55",
+      "zh": "定义明确或自成一体:",
+      "en": "Well-defined or self-contained:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“If a subcomponent of the project is sufficiently decoupled from the rest, I'll get Claude to take a stab.”",
+      "id": "p56",
+      "zh": "“如果该项目的一个子组成部分与其他部分充分脱钩,我会让Claude去刺一刀。”",
+      "en": "“If a subcomponent of the project is sufficiently decoupled from the rest, I'll get Claude to take a stab.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Code quality isn’t critical:",
+      "id": "p57",
+      "zh": "代码质量并不重要:",
+      "en": "Code quality isn’t critical:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“If it's throwaway debug[ging] or research code, it goes straight to Claude. If it's conceptually difficult or needs some very specific type of debug injection, or a design problem, I do it myself.”",
+      "id": "p58",
+      "zh": "“如果它是丢弃调试[ 或研究代码,直接交给Claude如果在概念上很困难或需要一些非常具体的调试注射类型,或设计问题,我自己来做。”",
+      "en": "“If it's throwaway debug[ging] or research code, it goes straight to Claude. If it's conceptually difficult or needs some very specific type of debug injection, or a design problem, I do it myself.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Repetitive or boring:",
+      "id": "p59",
+      "zh": "重复或无聊:",
+      "en": "Repetitive or boring:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“The more excited I am to do the task, the more likely I am to not use Claude. Whereas if I'm feeling a lot of resistance… I often find it easier to start a conversation with Claude about the task.”",
+      "id": "p60",
+      "zh": "“我对完成这项任务越感到兴奋,我越有可能不使用Claude。如果我感到许多反抗...我常常觉得更容易开始和Claude讨论任务。”",
+      "en": "“The more excited I am to do the task, the more likely I am to not use Claude. Whereas if I'm feeling a lot of resistance… I often find it easier to start a conversation with Claude about the task.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In our survey, on average people said that 44% of Claude-assisted work consisted of tasks they wouldn't have enjoyed doing themselves.",
+      "id": "p61",
+      "zh": "在我们的调查中平均来说,人们说 44%的Claude 协助工作 包含他们本来不会 喜欢自己做的工作。",
+      "en": "In our survey, on average people said that 44% of Claude-assisted work consisted of tasks they wouldn't have enjoyed doing themselves."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Faster to prompt than execute:",
+      "id": "p62",
+      "zh": "速度快于执行 :",
+      "en": "Faster to prompt than execute:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“[For] a task that I anticipate will take me less than 10 minutes... I'm probably not going to bother using Claude.”",
+      "id": "p63",
+      "zh": "“因为我预计一项任务需要不到10分钟......我可能不会去打扰使用Claude。”",
+      "en": "“[For] a task that I anticipate will take me less than 10 minutes... I'm probably not going to bother using Claude.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“The cold start problem is probably the biggest blocker right now. And by cold start, I mean there is a lot of intrinsic information that I just have about how my team's code base works that Claude will not have by default… I could spend time trying to iterate on the perfect prompt [but] I’m just going to go and do it myself.”",
+      "id": "p64",
+      "zh": "“寒冷的开始问题可能是目前最大的阻断因素。寒冷的开始,我的意思是,有很多内在信息,我只是有 关于我的团队的代码基础 如何工作,Claude不会有 默认.我将亲自前往,",
+      "en": "“The cold start problem is probably the biggest blocker right now. And by cold start, I mean there is a lot of intrinsic information that I just have about how my team's code base works that Claude will not have by default… I could spend time trying to iterate on the perfect prompt [but] I’m just going to go and do it myself.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "These factors mentioned by our employees in their decisions about delegation were similar to those found to explain AI-related productivity slowdowns (such as high developer familiarity with codebase, large and complex repositories) in an external study from METR. The convergence on these delegation criteria across our interviews suggests that appropriate task choice is an important factor in AI productivity gains (which should be carefully controlled for in future productivity studies).",
+      "id": "p65",
+      "zh": "我们雇员在关于授权的决定中提及的这些因素,与所发现的与AI相关的生产率减速的原因(如高开发者)类似。熟悉密码库,大型和复杂的储存库),载于METR的外部研究中.我们访谈中对这些代表团标准的一致表明,适当的任务选择是AI生产力增益的一个重要因素(应谨慎从事)。(e) 未来生产力研究中加以控制。",
+      "en": "These factors mentioned by our employees in their decisions about delegation were similar to those found to explain AI-related productivity slowdowns (such as high developer familiarity with codebase, large and complex repositories) in an external study from METR. The convergence on these delegation criteria across our interviews suggests that appropriate task choice is an important factor in AI productivity gains (which should be carefully controlled for in future productivity studies)."
+    },
+    {
+      "kind": "heading",
+      "text": "Trust but verify",
+      "id": "p66",
+      "zh": "信任但验证",
+      "en": "Trust but verify"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Many users described a progression in their Claude usage that involved delegating increasingly complex tasks over time: “At first I used AI tools with basic questions about Rust programming language... Lately, I've been using Claude Code for all my coding.”",
+      "id": "p67",
+      "zh": "许多用户描述了Claude的使用进展,这涉及随着时间的推移授权执行日益复杂的任务:“一开始我使用AI工具,近来,我一直在用Claude密码来做我的编码。”",
+      "en": "Many users described a progression in their Claude usage that involved delegating increasingly complex tasks over time: “At first I used AI tools with basic questions about Rust programming language... Lately, I've been using Claude Code for all my coding.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One engineer likened the trust progression to adopting other technologies, like Google Maps:",
+      "id": "p68",
+      "zh": "一位工程师将信任的进步比作采用其他技术,如谷歌地图:",
+      "en": "One engineer likened the trust progression to adopting other technologies, like Google Maps:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In the beginning I would use [Google Maps] only for routes I didn't know... This is like me using Claude to write SQL that I didn't know, but not asking it to write Python that I did. Then I started using Google Maps on routes that I mostly knew, but maybe I didn't know the last mile... Today I use Google Maps all the time, even for my daily commute. If it says to take a different way I do, and just trust that it considered all options... I use Claude Code in a similar way today.",
+      "id": "p69",
+      "zh": "一开始,我只会用 [Google地图] 的路线 我不知道...这就像我利用Claude 写SQL,我不知道,但不是让我写Python然后我开始使用Google地图 在那些我最熟悉的路线上,但也许我不知道最后一英里...今天我经常使用谷歌地图即使是我的每日通勤。如果它说用另一种方式我这样做,只要相信它考虑了所有的选项...我今天用克洛德密码的方式很相似",
+      "en": "In the beginning I would use [Google Maps] only for routes I didn't know... This is like me using Claude to write SQL that I didn't know, but not asking it to write Python that I did. Then I started using Google Maps on routes that I mostly knew, but maybe I didn't know the last mile... Today I use Google Maps all the time, even for my daily commute. If it says to take a different way I do, and just trust that it considered all options... I use Claude Code in a similar way today."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Engineers are split on whether to use Claude within or outside their expertise. Some use it for “peripheral” domains to save implementation time; others prefer familiar territory where they can verify outputs (“I use Claude in such a way where I still have full understanding of what it’s doing”). A security engineer highlighted the importance of experience when Claude proposed a solution that was “really smart in the dangerous way, the kind of thing a very talented junior engineer might propose”. That is, it was something that could only be recognised as problematic by users with judgment and experience.",
+      "id": "p70",
+      "zh": "工程师们在他们的专门知识之内或之外使用Claude的问题上是分化的.一些人将其用于“周边”域,以节省执行时间;其他人更喜欢熟悉的地区,他们可以在那里核实产出(“我用Claude的方式,我仍然完全了解它在做什么”)。一位安全工程师强调了经验的重要性,当时Claude提出了一个“以危险的方式非常聪明的解决办法,一个非常有才华的初级工程师可能会提出这样的建议”。也就是说,只有有判断力和经验的用户才能认识到存在问题。",
+      "en": "Engineers are split on whether to use Claude within or outside their expertise. Some use it for “peripheral” domains to save implementation time; others prefer familiar territory where they can verify outputs (“I use Claude in such a way where I still have full understanding of what it’s doing”). A security engineer highlighted the importance of experience when Claude proposed a solution that was “really smart in the dangerous way, the kind of thing a very talented junior engineer might propose”. That is, it was something that could only be recognised as problematic by users with judgment and experience."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Other engineers use Claude for both types of tasks, either in an experimental way (“I basically always use Claude to take a first crack at any coding problem”), or by adapting their approach depending on their level of expertise in the task:",
+      "id": "p71",
+      "zh": "其他工程师利用Claude完成这两类任务,或是一种实验性方式(“我基本上总是利用Claude在任何编码问题上采取第一次突破”),或根据各自在这项任务中的专门知识水平调整其方法:",
+      "en": "Other engineers use Claude for both types of tasks, either in an experimental way (“I basically always use Claude to take a first crack at any coding problem”), or by adapting their approach depending on their level of expertise in the task:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "I use the tools for both things that are core to my expertise (as an accelerant, where I know what to expect and can guide the agent effectively), and for things that are slightly outside my area of expertise, where I know roughly what to expect but that Claude is able to fill in the gaps in my memory or familiarity with specific definitions.",
+      "id": "p72",
+      "zh": "我使用两种工具,作为我的专门知识的核心(作为加速器,在那里,我知道什么是预期,并且能够有效地引导代理人),对于我专业领域之外的事情,但Claude能填补记忆中的空白 或者熟悉具体的定义",
+      "en": "I use the tools for both things that are core to my expertise (as an accelerant, where I know what to expect and can guide the agent effectively), and for things that are slightly outside my area of expertise, where I know roughly what to expect but that Claude is able to fill in the gaps in my memory or familiarity with specific definitions."
+    },
+    {
+      "kind": "paragraph",
+      "text": "If it's something that I am particularly versed about, I will be more assertive and tell Claude what it needs to track down. If it's something I'm not sure about I often ask it to be the expert and give me options and insights on things I should consider and research.",
+      "id": "p73",
+      "zh": "如果这是一件我特别喜欢的事我将更加自信地告诉Claude它需要找到什么。如果这是我不确定的东西 我经常要求它成为专家 并给我一些选择和见解 关于我应该考虑和研究的东西。",
+      "en": "If it's something that I am particularly versed about, I will be more assertive and tell Claude what it needs to track down. If it's something I'm not sure about I often ask it to be the expert and give me options and insights on things I should consider and research."
+    },
+    {
+      "kind": "heading",
+      "text": "What tasks do people keep for themselves?",
+      "id": "p74",
+      "zh": "人们为自己保留什么任务?",
+      "en": "What tasks do people keep for themselves?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "People consistently said they didn’t use Claude for tasks involving high-level or strategic thinking, or for design decisions that require organizational context or “taste.” One engineer explained: “I usually keep the high-level thinking and design. I delegate anything I can from new feature development to debugging.” This is reflected in our survey data, which showed the least productivity gains for design and planning tasks (Figure 2). Many people described delegation boundaries as a “moving target,” though, regularly renegotiated as models improve (below, the Claude Code usage data shows relatively more coding design/planning usage now than six months ago).",
+      "id": "p75",
+      "zh": "人们一直说,他们没有利用Claude执行涉及高层或战略思想的任务,一个工程师解释说:“我通常保持高层次的思维和设计。我从新的特性开发到调试,将我所能做的都委托给大家。”表明设计和规划任务的生产率增长最小(图2)。许多人将代表团的边界说成是“移动的目标”,然而,随着模型的改进,定期重新谈判(下文)Claude代码使用数据显示,现在比六个月前的编码设计/规划使用量相对较多。",
+      "en": "People consistently said they didn’t use Claude for tasks involving high-level or strategic thinking, or for design decisions that require organizational context or “taste.” One engineer explained: “I usually keep the high-level thinking and design. I delegate anything I can from new feature development to debugging.” This is reflected in our survey data, which showed the least productivity gains for design and planning tasks (Figure 2). Many people described delegation boundaries as a “moving target,” though, regularly renegotiated as models improve (below, the Claude Code usage data shows relatively more coding design/planning usage now than six months ago)."
+    },
+    {
+      "kind": "heading",
+      "text": "Skill transformations",
+      "id": "p76",
+      "zh": "技能转变",
+      "en": "Skill transformations"
+    },
+    {
+      "kind": "heading",
+      "text": "New capabilities…",
+      "id": "p77",
+      "zh": "新的能力...",
+      "en": "New capabilities…"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The survey finding that 27% of Claude-assisted work wouldn't have been done otherwise reflects a broader pattern: engineers using AI to work outside their core expertise. Many employees report completing work previously outside their expertise—backend engineers building UIs; researchers creating visualizations. One backend engineer described building a complex UI by iterating with Claude: “It did a way better job than I ever would’ve. I would not have been able to do it, definitely not on time... [The designers] were like ‘wait, you did this?’ I said “No, Claude did this - I just prompted it.’”",
+      "id": "p78",
+      "zh": "调查发现, 27%的Claude 协助工作是不会完成的 否则会反映出一个更广泛的模式:工程师利用AI在核心专长之外工作.许多雇员报告说,他们完成了以前在其专门知识之外的工作——后端工程师建设UI;研究者创建可视化.一位后端工程师通过与Claude的漫游来描述建造一个复杂的UI:“这比我以前做得更好。我本来是做不到的,绝对不能准时...[设计者们]就像`等待,你做到了吗?” 我说:\"不,Claude这么做的——我刚刚挑起了此事。",
+      "en": "The survey finding that 27% of Claude-assisted work wouldn't have been done otherwise reflects a broader pattern: engineers using AI to work outside their core expertise. Many employees report completing work previously outside their expertise—backend engineers building UIs; researchers creating visualizations. One backend engineer described building a complex UI by iterating with Claude: “It did a way better job than I ever would’ve. I would not have been able to do it, definitely not on time... [The designers] were like ‘wait, you did this?’ I said “No, Claude did this - I just prompted it.’”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Engineers report “becoming more full-stack… I can very capably work on front-end, or transactional databases, or API code, where previously I would've been scared to touch stuff I'm less of an expert on.” This capability expansion enables tighter feedback loops and faster learning—one engineer said that a “couple week process” of building, scheduling meetings, and iterating could become “a couple hour working session” with colleagues present for live feedback.",
+      "id": "p79",
+      "zh": "工程师们报告说,“我能够更全面地完成前端工作,或交易数据库,或 API 代码,以前我被吓得不敢碰一些我不太擅长的东西。” 这个能力扩张可以使反馈循环更紧,学习更快。 一位工程师说。(c) 建筑的“联合周进程”,排定会议、展期可成为“几个小时的工作会议”,由在场的同事进行现场反馈。",
+      "en": "Engineers report “becoming more full-stack… I can very capably work on front-end, or transactional databases, or API code, where previously I would've been scared to touch stuff I'm less of an expert on.” This capability expansion enables tighter feedback loops and faster learning—one engineer said that a “couple week process” of building, scheduling meetings, and iterating could become “a couple hour working session” with colleagues present for live feedback."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In general, people were enthused by their new ability to prototype quickly, parallelize work, reduce toil, and generally raise their level of ambition. One senior engineer told us, “The tools are definitely making junior engineers more productive and more bold with the types of projects they will take on.” Some also said that the reduced “activation energy” of using Claude enabled them to defeat procrastination more easily, “dramatically decreas[ing] the energy required for me to want to start tackling a problem and therefore I'm willing to tackle so many additional things.”",
+      "id": "p80",
+      "zh": "总的来说,人们被他们的新能力所迷惑 快速的原型,将工作平行化,减少劳累,并普遍提高他们的雄心壮志。一个高级工程师告诉我们,“这些工具肯定正在使初级工程师以他们将要从事的项目类型来提高生产率和胆量。” 有人还说,“激活能量”的减少。利用Claude让他们更轻松地打败拖延,“戏剧性地降低我开始处理一个问题所需要的精力,因此我愿意处理如此众多的额外问题。”",
+      "en": "In general, people were enthused by their new ability to prototype quickly, parallelize work, reduce toil, and generally raise their level of ambition. One senior engineer told us, “The tools are definitely making junior engineers more productive and more bold with the types of projects they will take on.” Some also said that the reduced “activation energy” of using Claude enabled them to defeat procrastination more easily, “dramatically decreas[ing] the energy required for me to want to start tackling a problem and therefore I'm willing to tackle so many additional things.”"
+    },
+    {
+      "kind": "heading",
+      "text": "…and less hands-on practice",
+      "id": "p81",
+      "zh": ". . . . . .",
+      "en": "…and less hands-on practice"
+    },
+    {
+      "kind": "paragraph",
+      "text": "At the same time, some were worried about “skills atrophying as [they] delegate more”, and losing the incidental (or “collateral”) learning that happens during manual problem-solving:",
+      "id": "p82",
+      "zh": "同时,有些人担心“技能萎缩,并丧失人工解决问题过程中发生的附带(或“附带”)学习:",
+      "en": "At the same time, some were worried about “skills atrophying as [they] delegate more”, and losing the incidental (or “collateral”) learning that happens during manual problem-solving:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "If you were to go out and debug a hard issue yourself, you're going to spend time reading docs and code that isn't directly useful for solving your problem—but this entire time you're building a model of how the system works. There's a lot less of that going on because Claude can just get you to the problem right away.",
+      "id": "p83",
+      "zh": "如果你要出去 调试一个困难的问题你自己,你会花时间去读那些对解决你的问题没有直接作用的文档和代码, 但是这整个时间你正在构建一个系统如何运作的模型。因为Claude可以马上把你解决掉",
+      "en": "If you were to go out and debug a hard issue yourself, you're going to spend time reading docs and code that isn't directly useful for solving your problem—but this entire time you're building a model of how the system works. There's a lot less of that going on because Claude can just get you to the problem right away."
+    },
+    {
+      "kind": "paragraph",
+      "text": "I used to explore every config to understand what the tool can do but now I rely on AI to tell me how to use new tools and so I lack the expertise. In conversations with other teammates I can instantly recall things vs now I have to ask AI.",
+      "id": "p84",
+      "zh": "我曾经探索每个配置来理解工具能做什么,但现在我依靠AI来告诉我如何使用新工具,因此我缺乏专业知识.在与其他队友的谈话中,我可以立刻回忆起一些事情,我现在必须问AI.",
+      "en": "I used to explore every config to understand what the tool can do but now I rely on AI to tell me how to use new tools and so I lack the expertise. In conversations with other teammates I can instantly recall things vs now I have to ask AI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Using Claude has the potential to skip the part where I learn how to perform a task by solving an easy instance, and then struggle to solve a more complicated instance later.",
+      "id": "p85",
+      "zh": "利用Claude有潜力 跳过部分 我学会如何完成一个任务 通过解决一个简单的例子,然后努力解决一个更复杂的问题",
+      "en": "Using Claude has the potential to skip the part where I learn how to perform a task by solving an easy instance, and then struggle to solve a more complicated instance later."
+    },
+    {
+      "kind": "paragraph",
+      "text": "One senior engineer said they’d be more worried about their skills if they were more junior:",
+      "id": "p86",
+      "zh": "一位资深工程师表示,",
+      "en": "One senior engineer said they’d be more worried about their skills if they were more junior:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "I’m primarily using AI in cases where I know what the answer should be or should look like. I developed that ability by doing SWE ‘the hard way’... But if I were [earlier in my career], I would think it would take a lot of deliberate effort to continue growing my own abilities rather than blindly accepting the model output.",
+      "id": "p87",
+      "zh": "我主要使用人工智能,我通过“硬路”发展出这种能力。但如果我是[我的职业生涯更早],我认为,要继续提高我自己的能力,而不是盲目地接受模型产出,需要作出大量认真的努力。",
+      "en": "I’m primarily using AI in cases where I know what the answer should be or should look like. I developed that ability by doing SWE ‘the hard way’... But if I were [earlier in my career], I would think it would take a lot of deliberate effort to continue growing my own abilities rather than blindly accepting the model output."
+    },
+    {
+      "kind": "paragraph",
+      "text": "One reason that the atrophy of coding skills is concerning is the “paradox of supervision”—as mentioned above, effectively using Claude requires supervision, and supervising Claude requires the very coding skills that may atrophy from AI overuse. One person said:",
+      "id": "p88",
+      "zh": "编码技能萎缩的一个原因是如上所述, \" 监督的副作用 \" ,有效使用Claude需要监督,并且监督Claude 需要非常的编码技能 可能因AI过度使用而萎缩。一个人说:",
+      "en": "One reason that the atrophy of coding skills is concerning is the “paradox of supervision”—as mentioned above, effectively using Claude requires supervision, and supervising Claude requires the very coding skills that may atrophy from AI overuse. One person said:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Honestly, I worry much more about the oversight and supervision problem than I do about my skill set specifically… having my skills atrophy or fail to develop is primarily gonna be problematic with respect to my ability to safely use AI for the tasks that I care about versus my ability to independently do those tasks.",
+      "id": "p89",
+      "zh": "说实话我更担心监督和监管问题 而不是我的技能设置... 拥有我的技能萎缩或未能发展...我安全使用人工智能完成我所关心的任务的能力与独立完成这些任务的能力存在问题。",
+      "en": "Honestly, I worry much more about the oversight and supervision problem than I do about my skill set specifically… having my skills atrophy or fail to develop is primarily gonna be problematic with respect to my ability to safely use AI for the tasks that I care about versus my ability to independently do those tasks."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To combat this, some engineers deliberately practice without AI: \"Every once in a while, even if I know that Claude can nail a problem, I will not ask it to. It helps me keep myself sharp.”",
+      "id": "p90",
+      "zh": "为了对付这个有些工程师故意在没有AI的情况下练习:\"偶尔,即使我知道Claude能解决一个问题我不会要求它这样做的。这帮助我保持清醒。”",
+      "en": "To combat this, some engineers deliberately practice without AI: \"Every once in a while, even if I know that Claude can nail a problem, I will not ask it to. It helps me keep myself sharp.”"
+    },
+    {
+      "kind": "heading",
+      "text": "Will we still need those hands-on coding skills?",
+      "id": "p91",
+      "zh": "我们还需要那些手动编码技能吗?",
+      "en": "Will we still need those hands-on coding skills?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Perhaps software engineering is moving to higher levels of abstraction, which it has done in the past. Early programmers worked much closer to the machine—manually managing memory, writing in assembly language, or even toggling physical switches to input instructions. Over time, higher-level, more human-readable languages emerged that automatically handled complex, low-level operations. Perhaps, in particular with the rise of “vibe coding”, we’re now moving to English as a programming language. One of our staff suggested that aspiring engineers “get good at having AIs [write code], and focus on learning higher level concepts and patterns.”",
+      "id": "p92",
+      "zh": "也许软件工程正在转向 更高的抽象水平,过去它所做的一切。早期程序员的工作更接近机器——人工管理内存,以组装语言写作,或者甚至将物理开关引向输入指令。随着时间的推移,高级的,出现了更多人类可读语言 自动处理复杂,低级操作。也许特别是“vibe编码”的兴起,现在,我们改用英语作为编程语言。我们的一位工作人员建议,有抱负的工程师“擅长拥有AI[写代码],注重学习更高层次的概念和模式。”",
+      "en": "Perhaps software engineering is moving to higher levels of abstraction, which it has done in the past. Early programmers worked much closer to the machine—manually managing memory, writing in assembly language, or even toggling physical switches to input instructions. Over time, higher-level, more human-readable languages emerged that automatically handled complex, low-level operations. Perhaps, in particular with the rise of “vibe coding”, we’re now moving to English as a programming language. One of our staff suggested that aspiring engineers “get good at having AIs [write code], and focus on learning higher level concepts and patterns.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "A few employees said they felt that this shift empowers them to think at a higher level—“about the end product and the end user” rather than just the code. One person described the current shift by comparing it to previously having to learn linked-lists in computer science—fundamental structures that higher-level programming languages now handle automatically. “I’m very glad I knew how to do that... [but] doing those low level operations isn’t particularly important emotionally. I would rather care about what the code allows me to do.” Another engineer made a similar comparison, but noted that abstraction comes at a cost—with the move to higher-level languages, most engineers lost a deep understanding of memory handling.",
+      "id": "p93",
+      "zh": "少数雇员说,他们认为,这种转变使他们有能力在更高一级思考—— \" 最终产品和最终用户 \" ,而不仅仅是代码。一个人描述了目前的转变,将它与以前必须学习计算机科学-基础结构中更高一级编程的链接列表相比较。现在语言自动处理。“我很高兴我知道如何做到这一点......但做这些低水平的手术在情感上并不特别重要。我宁愿关心代码允许我做什么。” 另一位工程师做了类似的比较,但指出,抽象化是代价高昂的,因为转向了更高级的语言,大多数工程师对记忆处理失去了深刻的理解.",
+      "en": "A few employees said they felt that this shift empowers them to think at a higher level—“about the end product and the end user” rather than just the code. One person described the current shift by comparing it to previously having to learn linked-lists in computer science—fundamental structures that higher-level programming languages now handle automatically. “I’m very glad I knew how to do that... [but] doing those low level operations isn’t particularly important emotionally. I would rather care about what the code allows me to do.” Another engineer made a similar comparison, but noted that abstraction comes at a cost—with the move to higher-level languages, most engineers lost a deep understanding of memory handling."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Continuing to develop skills in an area can lead to better supervision of Claude and more efficient work (“I notice that when it's something I'm familiar with, it's often faster for me to do it”). But engineers are divided on whether this matters. Some remain sanguine:",
+      "id": "p94",
+      "zh": "继续发展某一领域的技能,可以更好地监督Claude,提高工作效率(“我注意到,当这是我熟悉的事情时,我这样做的速度往往更快”)。但工程师们对于这是否重要有分歧.某些人仍然乐观:",
+      "en": "Continuing to develop skills in an area can lead to better supervision of Claude and more efficient work (“I notice that when it's something I'm familiar with, it's often faster for me to do it”). But engineers are divided on whether this matters. Some remain sanguine:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "I don't worry too much about skill erosion. The AI still makes me think through problems carefully and helps me learn new approaches. If anything, being able to explore and test ideas more quickly has accelerated my learning in some areas.",
+      "id": "p95",
+      "zh": "我不会太担心技能的侵蚀AI仍然让我仔细思考问题,帮助我学习新的方法.如果有的话,能够更快地探索和测试各种想法,加快了我在某些领域的学习。",
+      "en": "I don't worry too much about skill erosion. The AI still makes me think through problems carefully and helps me learn new approaches. If anything, being able to explore and test ideas more quickly has accelerated my learning in some areas."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Another was more pragmatic: “I am for sure atrophying in my skills as a software engineer... But those skills could come back if they ever needed to, and I just don't need them anymore!” One noted they only lost less-important skills like making charts, and “the kind of code that's critical I can still write very well.”",
+      "id": "p96",
+      "zh": "另一个更为务实的是:“我确信我作为软件工程师的技能会萎缩......但是,如果需要的话,这些技能会回来的,但我只是不再需要他们了!” 有人说,他们只失去了像制作图表那样不重要的技能,以及“我仍然能写得非常好的代码。”",
+      "en": "Another was more pragmatic: “I am for sure atrophying in my skills as a software engineer... But those skills could come back if they ever needed to, and I just don't need them anymore!” One noted they only lost less-important skills like making charts, and “the kind of code that's critical I can still write very well.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Perhaps most interestingly, one engineer challenged the premise: “The ‘getting rusty’ framing relies on an assumption that coding will someday go back to the way it was pre-Claude 3.5. And I don't think it will.”",
+      "id": "p97",
+      "zh": "也许最有趣的是,一位工程师对这个前提提出质疑:\" `生锈 ' 的框架基于一种假设,即编码终有一天会恢复到Claude3.5年以前的状态。我认为它不会。 \"",
+      "en": "Perhaps most interestingly, one engineer challenged the premise: “The ‘getting rusty’ framing relies on an assumption that coding will someday go back to the way it was pre-Claude 3.5. And I don't think it will.”"
+    },
+    {
+      "kind": "heading",
+      "text": "The craft and meaning of software engineering",
+      "id": "p98",
+      "zh": "软件工程的工艺和意义",
+      "en": "The craft and meaning of software engineering"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Engineers diverge sharply on whether they miss hands-on coding. Some feel genuine loss—“It’s the end of an era for me - I've been programming for 25 years, and feeling competent in that skill set is a core part of my professional satisfaction.” Others worry about not enjoying the new nature of the work: “Spending your day prompting Claude is not very fun or fulfilling. It's much more fun and fulfilling to put on some music and get in the zone and implement something yourself.”",
+      "id": "p99",
+      "zh": "工程师们在是否错过了手动编码上 意见大相径庭有些人感到真正的损失——“对我来说,这是一个时代的终结——我已经编程了25年了,并且感到能胜任这一套技能是我专业满意的核心部分。”“花一天时间来激励Claude不是很好玩,也不是很满足。更有趣、更满足的是放一些音乐,",
+      "en": "Engineers diverge sharply on whether they miss hands-on coding. Some feel genuine loss—“It’s the end of an era for me - I've been programming for 25 years, and feeling competent in that skill set is a core part of my professional satisfaction.” Others worry about not enjoying the new nature of the work: “Spending your day prompting Claude is not very fun or fulfilling. It's much more fun and fulfilling to put on some music and get in the zone and implement something yourself.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Some directly addressed the trade-off and accepted it: “There are certainly some parts of [writing code] that I miss - getting into a zen flow state when refactoring code, but overall I'm so much more productive now that I'll gladly give that up.”",
+      "id": "p100",
+      "zh": "一些人直接谈到取舍问题,并接受了这一点:“我当然怀念[写作码]的某些部分——在重构码时进入zen流量状态,但总的来说,现在我更富有生产力,我很乐意放弃这种想法。”",
+      "en": "Some directly addressed the trade-off and accepted it: “There are certainly some parts of [writing code] that I miss - getting into a zen flow state when refactoring code, but overall I'm so much more productive now that I'll gladly give that up.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One person said that iterating with Claude has been more fun, because they can be more picky with their feedback than with humans. Others are more interested in outcomes. One engineer said:",
+      "id": "p101",
+      "zh": "一个人说和Claude一起旅行更好玩因为他们的反馈比人类更挑剔其他人对结果更感兴趣。一位工程师说:",
+      "en": "One person said that iterating with Claude has been more fun, because they can be more picky with their feedback than with humans. Others are more interested in outcomes. One engineer said:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "I expected that by this point I would feel scared or bored… however I don't really feel either of those things. Instead I feel quite excited that I can do significantly more. I thought that I really enjoyed writing code, and instead I actually just enjoy what I get out of writing code.",
+      "id": "p102",
+      "zh": "我想到现在,我会感到害怕或无聊... ... 但是,我并没有真正感觉到这些东西。相反,我感到相当兴奋,因为我可以做更多的事情。我觉得我很喜欢写代码,而实际上,我只是享受 从我写代码得到的东西。",
+      "en": "I expected that by this point I would feel scared or bored… however I don't really feel either of those things. Instead I feel quite excited that I can do significantly more. I thought that I really enjoyed writing code, and instead I actually just enjoy what I get out of writing code."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Whether people embrace AI assistance or mourn the loss of hands-on coding seems to depend on what aspects of software engineering they find most meaningful.",
+      "id": "p103",
+      "zh": "人们接受AI援助还是哀悼手动编码的丢失似乎取决于他们认为最有意义的软件工程的哪些方面.",
+      "en": "Whether people embrace AI assistance or mourn the loss of hands-on coding seems to depend on what aspects of software engineering they find most meaningful."
+    },
+    {
+      "kind": "heading",
+      "text": "Changing social dynamics in the workplace",
+      "id": "p104",
+      "zh": "不断变化的工作场所社会动态",
+      "en": "Changing social dynamics in the workplace"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One of the more prominent themes was that Claude has become the first stop for questions that once went to colleagues. “I ask way more questions [now] in general, but like 80-90% of them go to Claude,\" one employee noted. This creates a filtering mechanism where Claude handles routine inquiries, leaving colleagues to address more complex, strategic, or context-heavy issues that exceed AI capabilities (“It has reduced my dependence on [my team] by 80%, [but] the last 20% is crucial and I go and talk to them”). People also “bounce ideas off” Claude, similar to interactions with human collaborators.",
+      "id": "p105",
+      "zh": "更突出的主题之一是Claude成为了曾经向同事提问的第一站.“我问了更多的问题,[现在]总的来说,但有80-90%的人去找Claude,\"一名雇员指出.这创造了一个过滤机制 Claude处理日常的询问,留下同事来谈更复杂的问题,战略,或超出人工智能能力的环境重度问题(“它使我对[我的团队]的依赖减少了80%,[但是]最后的20%是关键,我去找他们谈谈。”人们还“抛弃思想”,Claude,类似于与人类合作者的互动.",
+      "en": "One of the more prominent themes was that Claude has become the first stop for questions that once went to colleagues. “I ask way more questions [now] in general, but like 80-90% of them go to Claude,\" one employee noted. This creates a filtering mechanism where Claude handles routine inquiries, leaving colleagues to address more complex, strategic, or context-heavy issues that exceed AI capabilities (“It has reduced my dependence on [my team] by 80%, [but] the last 20% is crucial and I go and talk to them”). People also “bounce ideas off” Claude, similar to interactions with human collaborators."
+    },
+    {
+      "kind": "paragraph",
+      "text": "About half reported unchanged team collaboration patterns. One engineer said that he was still meeting with people, sharing context, and choosing directions, and that he thought that in the near future there’d still be a lot of collaboration, but “instead of doing your standard focus work, you’ll be talking to a lot of Claudes.”",
+      "id": "p106",
+      "zh": "大约一半报告团队合作模式没有改变。一位工程师说,他仍然 与人们见面,共享上下文,并选择方向,他认为在不远的将来, 仍然有很多合作,但是,“与其做标准的重点工作,你将会与许多Claude人交谈。",
+      "en": "About half reported unchanged team collaboration patterns. One engineer said that he was still meeting with people, sharing context, and choosing directions, and that he thought that in the near future there’d still be a lot of collaboration, but “instead of doing your standard focus work, you’ll be talking to a lot of Claudes.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "However, others described experiencing less interaction with colleagues (“I work way more with Claude than with any of my colleagues.”) Some appreciate the reduced social friction (“I don't feel bad about taking my colleague’s time”). Others resist the change (“I actually don't love that the common response is ‘have you asked Claude?’ I really enjoy working with people in person and highly value that”) or miss the older way of working: “I like working with people and it is sad that I ‘need’ them less now.” Several pointed out the impact on traditional mentorship dynamics, because “Claude can provide a lot of coaching to junior staff” instead of senior engineers. One senior engineer said:",
+      "id": "p107",
+      "zh": "不过,其他人说,与同事的互动较少(“我与Claude的合作方式比与任何同事的工作方式都多。 ”)有些人赞赏减少社会摩擦(“我”)。使用我同事的时间并不难为情。其他人则抵制变革(我其实不认为共同的反应是“你问过Claude吗?” 我真的很喜欢亲自与人合作,旧的工作方式:“我喜欢与人合作,但可悲的是,现在我`不需要'他们。 ”一些人指出了对传统导师制度的影响,因为“Claude可以向初级工作人员提供大量辅导”,而不是高级工程师。一名高级工程师说:",
+      "en": "However, others described experiencing less interaction with colleagues (“I work way more with Claude than with any of my colleagues.”) Some appreciate the reduced social friction (“I don't feel bad about taking my colleague’s time”). Others resist the change (“I actually don't love that the common response is ‘have you asked Claude?’ I really enjoy working with people in person and highly value that”) or miss the older way of working: “I like working with people and it is sad that I ‘need’ them less now.” Several pointed out the impact on traditional mentorship dynamics, because “Claude can provide a lot of coaching to junior staff” instead of senior engineers. One senior engineer said:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "It's been sad that more junior people don't come to me with questions as often, though they definitely get their questions answered more effectively and learn faster.",
+      "id": "p108",
+      "zh": "令人伤心的是, 更多的年轻人 不来问我 经常,虽然他们肯定得到 他们的问题得到更有效的回答 并学习更快。",
+      "en": "It's been sad that more junior people don't come to me with questions as often, though they definitely get their questions answered more effectively and learn faster."
+    },
+    {
+      "kind": "heading",
+      "text": "Career uncertainty and adaptation",
+      "id": "p109",
+      "zh": "职业不确定性和适应性",
+      "en": "Career uncertainty and adaptation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Many engineers describe their role shifting from writing code to managing AIs. Engineers increasingly see themselves as “manager[s] of AI agents”—some already “constantly have at least a few [Claude] instances running.” One person estimated their work has shifted “70%+ to being a code reviewer/reviser rather than a net-new code writer” and another saw “taking accountability for the work of 1, 5, or 100 Claudes” as part of their future role.",
+      "id": "p110",
+      "zh": "许多工程师表示，他们的职责正从编写代码转向管理 AI。工程师越来越将自己视为“AI 智能体的管理者”，有些人已经“始终让至少几个 Claude 实例同时运行”。一位受访者估计，自己“70% 以上的工作已转为代码审查和修改，而非从零编写新代码”；另一位则认为，“为 1 个、5 个或 100 个 Claude 的工作承担责任”将成为自己未来职责的一部分。",
+      "en": "Many engineers describe their role shifting from writing code to managing AIs. Engineers increasingly see themselves as “manager[s] of AI agents”—some already “constantly have at least a few [Claude] instances running.” One person estimated their work has shifted “70%+ to being a code reviewer/reviser rather than a net-new code writer” and another saw “taking accountability for the work of 1, 5, or 100 Claudes” as part of their future role."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In the longer term, career uncertainty is widespread. Engineers saw these changes as harbingers of broader industry transformation, and many said that it was “hard to say” what their careers might look like a few years down the line. Some expressed a conflict between short-term optimism and long-term uncertainty. “I feel optimistic in the short term but in the long term I think AI will end up doing everything and make me and many others irrelevant,” one stated. Others put a finer point on it: “It kind of feels like I'm coming to work every day to put myself out of a job.”",
+      "id": "p111",
+      "zh": "从长远来看,职业上的不确定性是普遍的。工程师认为这些变化是更广泛的产业转型的热点因素,许多人说,“很难说”他们的职业生涯在几年后可能是什么样子。一些人表示,短期乐观与长期不确定性之间存在冲突。“我觉得短期而言是乐观的,但从长远来看,我认为大赦国际最终会做一切事情,使我和许多其他人变得无关紧要。”其他人对此作了更细微的阐述:“感觉我每天都来工作,",
+      "en": "In the longer term, career uncertainty is widespread. Engineers saw these changes as harbingers of broader industry transformation, and many said that it was “hard to say” what their careers might look like a few years down the line. Some expressed a conflict between short-term optimism and long-term uncertainty. “I feel optimistic in the short term but in the long term I think AI will end up doing everything and make me and many others irrelevant,” one stated. Others put a finer point on it: “It kind of feels like I'm coming to work every day to put myself out of a job.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Some engineers were more optimistic. One said, “I fear for the junior devs, but I also appreciate that junior devs are maybe the thirstiest for new technology. I feel generally very optimistic about the trajectory of the profession.” They argued that, while there’s a potential risk of inexperienced engineers shipping problematic code, the combination of better AI guardrails, more built-in educational resources, and natural learning from mistakes will help the field adapt over time.",
+      "id": "p112",
+      "zh": "一些工程师比较乐观.一个人说,我的确畏惧先民,但我也很感激 年轻的德夫夫妇 也许是对新技术最渴慕的我对这个职业的轨迹普遍感到非常乐观。”虽然有潜在的风险 缺乏经验的工程师 运输问题代码,结合更好的AI护栏,更多的内在教育资源,自然从错误中吸取教训将有助于实地随时间而适应。",
+      "en": "Some engineers were more optimistic. One said, “I fear for the junior devs, but I also appreciate that junior devs are maybe the thirstiest for new technology. I feel generally very optimistic about the trajectory of the profession.” They argued that, while there’s a potential risk of inexperienced engineers shipping problematic code, the combination of better AI guardrails, more built-in educational resources, and natural learning from mistakes will help the field adapt over time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We asked how people envision their future roles and whether they have any adaptation strategies. Some mentioned plans to specialize further (“developing the skill to meaningfully review AI’s work will take longer and require more specialization”), some anticipated focusing on more interpersonal and strategic work in the future (“we will spend more time finding consensus and let the AIs spend more time on the implementation”). One said they use Claude specifically for career development, getting feedback from it on work and leadership skills (“The rate at which I can learn things or even just be effective without fully learning things just completely changed. I almost feel like the ceiling just shattered for me”).",
+      "id": "p113",
+      "zh": "我们询问人们如何设想他们未来的作用,他们是否有适应战略。一些人提到计划进一步专门化( \" 开发对大赦国际的工作进行有意义的审查的技能需要更长的时间,需要更多的专门化 \" ),有些人预期今后将把重点放在更多的人际工作和战略性工作上(“我们将花更多的时间寻求共识,让大赦国际花更多的时间来讨论”。执行)一个说他们利用Claude 专门促进事业发展从它那里得到关于工作和领导技能的反馈(“我学习事物的速度,甚至有效而不完全学习事物的速度,只是彻底改变而已。我几乎觉得天花板 刚刚破碎我。”",
+      "en": "We asked how people envision their future roles and whether they have any adaptation strategies. Some mentioned plans to specialize further (“developing the skill to meaningfully review AI’s work will take longer and require more specialization”), some anticipated focusing on more interpersonal and strategic work in the future (“we will spend more time finding consensus and let the AIs spend more time on the implementation”). One said they use Claude specifically for career development, getting feedback from it on work and leadership skills (“The rate at which I can learn things or even just be effective without fully learning things just completely changed. I almost feel like the ceiling just shattered for me”)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Overall, many acknowledge deep uncertainty: “I have very low confidence in what specific skills I think will be useful in the future.” A team lead said: “Nobody knows what's going to happen… the important thing is to just be really adaptable.”",
+      "id": "p114",
+      "zh": "总体而言,许多人承认存在深刻的不确定性:“我不太相信我认为今后哪些具体技能是有用的。”“没有人知道会发生什么... 重要的是要真正适应性。”",
+      "en": "Overall, many acknowledge deep uncertainty: “I have very low confidence in what specific skills I think will be useful in the future.” A team lead said: “Nobody knows what's going to happen… the important thing is to just be really adaptable.”"
+    },
+    {
+      "kind": "heading",
+      "text": "Claude Code usage trends",
+      "id": "p115",
+      "zh": "Claude 代码使用趋势",
+      "en": "Claude Code usage trends"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The survey and interview data show that increased Claude usage is helping people work faster and take on new types of work, though this comes with tensions around AI delegation and skill development. Still, self-reported data only tells part of the story. To complement this, we also analyzed actual Claude usage data across Anthropic teams. Because survey respondents reported Claude Code as the majority of their usage, we used our privacy-preserving analysis tool to analyze 200,000 internal transcripts from Claude Code from February and August 2025.",
+      "id": "p116",
+      "zh": "调查和访谈数据显示,Claude使用率的提高正在帮助人们加快工作速度,从事新型工作,然而,这与大赦国际代表团和技能发展之间的紧张关系有关。不过,自报数据只讲述部分故事.为了补充这一点,我们还分析了整个Anthropic团队中 Claude的实际使用数据因为调查答卷人称Claude代码是他们的大部分使用方式,我们用我们的隐私保护分析工具 分析了2025年2月和8月 Claude代码的20万份内部记录",
+      "en": "The survey and interview data show that increased Claude usage is helping people work faster and take on new types of work, though this comes with tensions around AI delegation and skill development. Still, self-reported data only tells part of the story. To complement this, we also analyzed actual Claude usage data across Anthropic teams. Because survey respondents reported Claude Code as the majority of their usage, we used our privacy-preserving analysis tool to analyze 200,000 internal transcripts from Claude Code from February and August 2025."
+    },
+    {
+      "kind": "heading",
+      "text": "Tackling harder problems with less oversight",
+      "id": "p117",
+      "zh": "减少监督,解决更困难的问题",
+      "en": "Tackling harder problems with less oversight"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Claude Code usage has shifted toward more difficult and autonomous coding tasks over the last six months: (Figure 3):",
+      "id": "p118",
+      "zh": "过去6个月,Claude代码的使用转向了更困难和自主的编码工作:(图3):",
+      "en": "Claude Code usage has shifted toward more difficult and autonomous coding tasks over the last six months: (Figure 3):"
+    },
+    {
+      "kind": "list",
+      "text": "Employees are tackling increasingly complex tasks with Claude Code. We estimated task complexity of each transcript on a 1-5 scale where 1 corresponds to “basic edits” and 5 is “expert-level tasks requiring weeks/months of human expert work”. Task complexity increased from 3.2 to 3.8 on average.To illustrate the difference between the scores: tasks averaging 3.2 included “Troubleshoot Python module import errors” while tasks averaging 3.8 included “Implement and optimize caching systems.”",
+      "id": "p119",
+      "zh": "雇员正在用Claude Code处理日益复杂的任务。我们按1至5级对每份记录稿的任务复杂性作了估计,其中1份与“基本编辑”相对应,5份与“需要数周/月人力专家工作的专家级任务”相对应。任务复杂程度平均从3.2提高到3.8。平均任务3.2包括“Troubleshot Python模块导入错误”,平均任务3.8包括“安装和优化缓存系统”。",
+      "en": "Employees are tackling increasingly complex tasks with Claude Code. We estimated task complexity of each transcript on a 1-5 scale where 1 corresponds to “basic edits” and 5 is “expert-level tasks requiring weeks/months of human expert work”. Task complexity increased from 3.2 to 3.8 on average.To illustrate the difference between the scores: tasks averaging 3.2 included “Troubleshoot Python module import errors” while tasks averaging 3.8 included “Implement and optimize caching systems.”"
+    },
+    {
+      "kind": "list",
+      "text": "The maximum number of consecutive tool calls Claude Code makes per transcript increased by 116%. Tool calls correspond to actions Claude takes using external tools like making edits to files or running commands. Claude now chains together 21.2 independent tool calls without need for human intervention versus 9.8 tool calls from six months ago.",
+      "id": "p120",
+      "zh": "Claude Code每笔录的连续工具数最多增加了116%。工具调用对应克洛德使用外部工具采取的行动,如将编辑制作成文件或运行命令.Claude现在把21.2个独立工具的电话连在一起,不需要人干预,而六个月前的9.8个工具的电话。",
+      "en": "The maximum number of consecutive tool calls Claude Code makes per transcript increased by 116%. Tool calls correspond to actions Claude takes using external tools like making edits to files or running commands. Claude now chains together 21.2 independent tool calls without need for human intervention versus 9.8 tool calls from six months ago."
+    },
+    {
+      "kind": "list",
+      "text": "The number of human turns decreased by 33%. The average number of human turns decreased from 6.2 to 4.1 per transcript, suggesting that less human input is necessary to accomplish a given task now compared to six months ago.",
+      "id": "p121",
+      "zh": "人转弯的次数减少了33%.人类转弯的平均次数从每张记录片的6.2次下降到4.1次,说明与六个月前相比,现在完成某项任务所需的人力投入较少。",
+      "en": "The number of human turns decreased by 33%. The average number of human turns decreased from 6.2 to 4.1 per transcript, suggesting that less human input is necessary to accomplish a given task now compared to six months ago."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Changes in Claude Code usage between August 2025 and February 2025 (x-axes). Average task complexity increased over time (left panel), average maximum consecutive tool calls per transcript increased over time (middle panel), and number of human turns decreased over time (right panel). Error bars show 95% confidence intervals. The data suggest people are increasingly delegating more autonomy to Claude over time.",
+      "id": "p122",
+      "zh": "2025年8月至2025年2月Claude代码使用量的变化(x轴).平均任务复杂性随时间推移而增加(左面板),每份记录的平均连续工具呼叫次数随时间而增加(中间面板),人类转弯的次数随时间而减少(右面板)。错误栏显示95%的置信间隔 。数据表明,随着时间推移,人们越来越多地将更多的自主权授予Claude。",
+      "en": "Changes in Claude Code usage between August 2025 and February 2025 (x-axes). Average task complexity increased over time (left panel), average maximum consecutive tool calls per transcript increased over time (middle panel), and number of human turns decreased over time (right panel). Error bars show 95% confidence intervals. The data suggest people are increasingly delegating more autonomy to Claude over time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "These usage data corroborate the survey data: engineers delegate increasingly complex work to Claude and Claude requires less oversight. It seems plausible that this is driving the observed productivity gains.",
+      "id": "p123",
+      "zh": "这些使用数据证实了调查数据:工程师将越来越复杂的工作交给Claude和Claude,需要较少的监督。这似乎正在推动所观察到的生产率的提高。",
+      "en": "These usage data corroborate the survey data: engineers delegate increasingly complex work to Claude and Claude requires less oversight. It seems plausible that this is driving the observed productivity gains."
+    },
+    {
+      "kind": "heading",
+      "text": "Distribution of tasks",
+      "id": "p124",
+      "zh": "任务分配",
+      "en": "Distribution of tasks"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We classified Claude Code transcripts into one or more types of coding tasks, studying how the uses for different tasks have evolved over the last six months:",
+      "id": "p125",
+      "zh": "我们把Claude代码记录稿 归类为一种或多种编码任务研究过去六个月不同任务的用途是如何演变的:",
+      "en": "We classified Claude Code transcripts into one or more types of coding tasks, studying how the uses for different tasks have evolved over the last six months:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Distribution of various coding tasks (y-axis) as a percentage of the overall number of records (x-axis). We compare the distribution 6 months ago (pink) to present day (purple). The y-axis is ordered by frequency in Feb 2025.",
+      "id": "p126",
+      "zh": "各种编码任务的分布(y轴)占记录总数的百分比(x轴).我们比较6个月前的分布(平克)到现在(普尔普尔).y轴于2025年2月按频率订购.",
+      "en": "Distribution of various coding tasks (y-axis) as a percentage of the overall number of records (x-axis). We compare the distribution 6 months ago (pink) to present day (purple). The y-axis is ordered by frequency in Feb 2025."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The overall task frequency distribution estimated from usage data roughly aligns with the self-reported task frequency distribution. The most striking change between February and August 2025 is that there now are proportionately many more transcripts using Claude to implement new features (14.3% → 36.9%) and do code design or planning (1.0% → 9.9%). This shift in the relative distribution of Claude Code tasks may suggest that Claude has become better at these more complex tasks, though it could also reflect changes in how teams adopt Claude Code for different workflows rather than increases in absolute work volume (see Appendix for more limitations).",
+      "id": "p127",
+      "zh": "根据使用数据估计的总体任务频率分布大致与自报的任务频率分布一致。2025年2月至8月期间最引人注目的变化是,现在有比例上更多的记录誊本使用Claude来实施新的功能(14.3%)——36.9%),并且做了代码设计或规划(1.0%~9.9%).Claude Code任务相对分布的这种转变可能表明Claude在这些更为复杂的任务上表现得更好,虽然它也可以反映团队在不同的工作流程中采用Claude码的方式的变化,而不是绝对工作量的增加(更多限制,见附录).",
+      "en": "The overall task frequency distribution estimated from usage data roughly aligns with the self-reported task frequency distribution. The most striking change between February and August 2025 is that there now are proportionately many more transcripts using Claude to implement new features (14.3% → 36.9%) and do code design or planning (1.0% → 9.9%). This shift in the relative distribution of Claude Code tasks may suggest that Claude has become better at these more complex tasks, though it could also reflect changes in how teams adopt Claude Code for different workflows rather than increases in absolute work volume (see Appendix for more limitations)."
+    },
+    {
+      "kind": "heading",
+      "text": "Fixing papercuts",
+      "id": "p128",
+      "zh": "修复剪纸机",
+      "en": "Fixing papercuts"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We found from the survey that engineers now spend more time making small quality-of-life improvements; in line with this, 8.6% of current Claude Code tasks are classified as “papercut fixes”. These include larger tasks such as creating performance visualization tools and refactoring code for maintainability, as well as smaller tasks like creating terminal shortcuts. This may contribute to engineers’ reported productivity gains (addressing previously neglected quality-of-life improvements may lead to more efficiency over time) and potentially reducing friction and frustration in daily work.",
+      "id": "p129",
+      "zh": "我们从调查中发现,工程师们现在花更多的时间来进行小的生活质量改进;根据这一点,目前Claude Code的任务有8.6%被归类为“纸张修正”。其中包括更大的任务,如创建性能可视化工具和为可维护性重构代码,以及创建终端快捷键等较小的任务.这可能有利于工程师报告生产率的提高(处理以前被忽视的生活质量的提高可能会随着时间推移而提高效率),并有可能提高生产率。减少日常工作中的摩擦和挫折感。",
+      "en": "We found from the survey that engineers now spend more time making small quality-of-life improvements; in line with this, 8.6% of current Claude Code tasks are classified as “papercut fixes”. These include larger tasks such as creating performance visualization tools and refactoring code for maintainability, as well as smaller tasks like creating terminal shortcuts. This may contribute to engineers’ reported productivity gains (addressing previously neglected quality-of-life improvements may lead to more efficiency over time) and potentially reducing friction and frustration in daily work."
+    },
+    {
+      "kind": "heading",
+      "text": "Task variation across teams",
+      "id": "p130",
+      "zh": "各小组的任务差异",
+      "en": "Task variation across teams"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To study how tasks currently vary across teams, we refined our classification approach to assign each August transcript to a single primary coding task, and split the data by internal teams (y-axis). The stacked bar chart shows the breakdown of coding tasks for each team:",
+      "id": "p131",
+      "zh": "为了研究各小组目前的任务如何不同,我们完善了我们的分类方法 每年8月的笔录 分配到一个单一的主要编码任务,并按内部团队(y轴)划分数据。堆叠的条形图显示每个团队的编码任务的细分情况:",
+      "en": "To study how tasks currently vary across teams, we refined our classification approach to assign each August transcript to a single primary coding task, and split the data by internal teams (y-axis). The stacked bar chart shows the breakdown of coding tasks for each team:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Each horizontal bar represents a team (y-axis) with segments showing the proportion of that team’s Claude Code usage for different coding tasks (x-axis), color-coded by coding task (legend). Top bar (“All Teams”) represents the overall distribution.",
+      "id": "p132",
+      "zh": "每个水平栏代表一个团队(y轴),各段显示该团队用于不同编码任务(x轴)的Claude代码使用比例,以编码任务(legend)编码的颜色.顶部栏(“All Teams”)代表总体分布。",
+      "en": "Each horizontal bar represents a team (y-axis) with segments showing the proportion of that team’s Claude Code usage for different coding tasks (x-axis), color-coded by coding task (legend). Top bar (“All Teams”) represents the overall distribution."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The \"All Teams\" bar shows the overall distribution, with the most common tasks being building new features, debugging, and code understanding. This provides a baseline for team-specific comparisons.",
+      "id": "p133",
+      "zh": "\"All Teams\"栏显示了总体分布,最常见的任务是创造新的特点,调试,和代码理解。这为具体小组的比较提供了基线。",
+      "en": "The \"All Teams\" bar shows the overall distribution, with the most common tasks being building new features, debugging, and code understanding. This provides a baseline for team-specific comparisons."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Notable team-specific patterns:",
+      "id": "p134",
+      "zh": "显著的团队模式 :",
+      "en": "Notable team-specific patterns:"
+    },
+    {
+      "kind": "list",
+      "text": "The Pre-training team (who help to train Claude) often uses Claude Code for building new features (54.6%), much of which is running extra experiments.",
+      "id": "p135",
+      "zh": "培训前团队(帮助培训Claude)经常使用Claude代码来构建新的功能(54.6%),大部分是进行额外的实验。",
+      "en": "The Pre-training team (who help to train Claude) often uses Claude Code for building new features (54.6%), much of which is running extra experiments."
+    },
+    {
+      "kind": "list",
+      "text": "The Alignment & Safety and Post-training teams do the most front-end development (7.5% and 7.4%) with Claude Code, often for creating data visualizations.",
+      "id": "p136",
+      "zh": "校正与安全及培训后小组与Claude Code合作,进行最前沿的开发(7.5%和7.4%),常用于创建数据可视化.",
+      "en": "The Alignment & Safety and Post-training teams do the most front-end development (7.5% and 7.4%) with Claude Code, often for creating data visualizations."
+    },
+    {
+      "kind": "list",
+      "text": "The Security team often uses Claude Code for code understanding (48.9%), specifically analyzing and understanding the security implications of different parts of the codebase.",
+      "id": "p137",
+      "zh": "安全小组经常使用Claude代码来理解代码(48.9%),具体分析和了解密码库不同部分的安全影响。",
+      "en": "The Security team often uses Claude Code for code understanding (48.9%), specifically analyzing and understanding the security implications of different parts of the codebase."
+    },
+    {
+      "kind": "list",
+      "text": "Non-technical employees often use Claude Code for debugging (51.5%), such as troubleshooting network issues or Git operations, as well as for data science (12.7%); Claude appears to be valuable for bridging gaps in technical knowledge.",
+      "id": "p138",
+      "zh": "非技术雇员经常使用Claude代码进行调试(51.5%),例如排除网络问题或Git操作,以及数据科学(12.7%);Claude似乎对弥合技术知识差距很有价值。",
+      "en": "Non-technical employees often use Claude Code for debugging (51.5%), such as troubleshooting network issues or Git operations, as well as for data science (12.7%); Claude appears to be valuable for bridging gaps in technical knowledge."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Many of these team-specific patterns demonstrate the same capability expansion we observed in our survey and interviews: enabling new kinds of work that those on the team either wouldn't have the time or the skillset to do otherwise. For example, the pretraining team ran lots of additional experiments and non-technical employees were able to fix errors in code. And whereas the data suggests that teams do use Claude for their core tasks (for instance, the Infrastructure team most commonly uses Claude Code for infrastructure and DevOps work), Claude often also augments their core tasks (for instance, researchers use Claude for front-end development to better visualize their data). This suggests that Claude is enabling everyone to become more full-stack in their work.",
+      "id": "p139",
+      "zh": "许多这些团队特有的模式都显示了我们在调查和访谈中观察到的同样的能力扩展:使团队中的人没有时间或技能来完成新的工作。举例来说,训练前小组进行了很多额外实验 非技术雇员能够纠正代码错误。而数据表明,各小组确实利用Claude执行核心任务(例如,基础设施小组通常在基础设施和DevOps工作中使用Claude Code,Claude还经常增加其核心任务(例如:研究人员利用Claude进行前端开发,以更好地可视化他们的数据.这说明Claude正在让每个人在他们的工作上变得更加全面.",
+      "en": "Many of these team-specific patterns demonstrate the same capability expansion we observed in our survey and interviews: enabling new kinds of work that those on the team either wouldn't have the time or the skillset to do otherwise. For example, the pretraining team ran lots of additional experiments and non-technical employees were able to fix errors in code. And whereas the data suggests that teams do use Claude for their core tasks (for instance, the Infrastructure team most commonly uses Claude Code for infrastructure and DevOps work), Claude often also augments their core tasks (for instance, researchers use Claude for front-end development to better visualize their data). This suggests that Claude is enabling everyone to become more full-stack in their work."
+    },
+    {
+      "kind": "heading",
+      "text": "Looking forward",
+      "id": "p140",
+      "zh": "展望未来",
+      "en": "Looking forward"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Anthropic employees have greatly increased their use of Claude over the past year, using it to not only accelerate existing work but to learn new codebases, reduce toil, expand into new domains, and tackle previously neglected improvements. As Claude becomes more autonomous and capable, engineers are discovering new ways to use AI delegation while also figuring out what skills they’ll need in the future. These shifts bring clear productivity and learning benefits alongside genuine uncertainty about the longer-term trajectory of software engineering work. Will AI resemble past software engineering transitions—from lower- to higher-level programming languages, or from individual contributor to manager, as several engineers suggested? Or will it go further?",
+      "id": "p141",
+      "zh": "过去一年，Anthropic 员工大幅增加了对 Claude 的使用。他们不仅用它加快现有工作，还用它学习新的代码库、减少重复劳动、拓展到新领域，并处理此前被忽视的改进事项。随着 Claude 的自主性和能力提升，工程师一边探索将任务交给 AI 的新方式，一边思考未来需要哪些技能。这些变化带来了明确的生产力和学习收益，但软件工程工作的长期走向仍存在切实的不确定性。AI 会像过去软件工程领域的转型一样——从低级编程语言转向高级编程语言，或像几位工程师所说，从个人贡献者转向管理者？还是会走得更远？",
+      "en": "Anthropic employees have greatly increased their use of Claude over the past year, using it to not only accelerate existing work but to learn new codebases, reduce toil, expand into new domains, and tackle previously neglected improvements. As Claude becomes more autonomous and capable, engineers are discovering new ways to use AI delegation while also figuring out what skills they’ll need in the future. These shifts bring clear productivity and learning benefits alongside genuine uncertainty about the longer-term trajectory of software engineering work. Will AI resemble past software engineering transitions—from lower- to higher-level programming languages, or from individual contributor to manager, as several engineers suggested? Or will it go further?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "It’s still early days—Anthropic has many early adopters internally, the landscape is rapidly changing, and our findings likely don’t generalize to other organizations or contexts right now (see Appendix for more limitations). This research reflects that uncertainty: the findings are nuanced, with no single consensus or clear directives emerging. But it does raise questions about how we can thoughtfully and effectively navigate these changes.",
+      "id": "p142",
+      "zh": "国内有许多早期领养者,地貌正在迅速变化,而我们的调查结果可能不会概括到其他组织或背景(更多限制见附录)。这项研究反映了这种不确定性:调查结果是细微的,没有形成单一的共识或明确的指示。但是,这确实提出了我们如何能周到和有效地驾驭这些变化的问题。",
+      "en": "It’s still early days—Anthropic has many early adopters internally, the landscape is rapidly changing, and our findings likely don’t generalize to other organizations or contexts right now (see Appendix for more limitations). This research reflects that uncertainty: the findings are nuanced, with no single consensus or clear directives emerging. But it does raise questions about how we can thoughtfully and effectively navigate these changes."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To follow up on this initial work, we’re taking several steps. We're talking to Anthropic engineers, researchers, and leadership to address the opportunities and challenges raised. This includes examining how we bring teams together and collaborate with each other, how we support professional development, and/or how we establish best practices for AI-augmented work (e.g. guided by our AI fluency framework). We're also expanding this research beyond engineers to understand how AI transformation affects roles across the organization and supporting external organizations such as CodePath as they adapt computer science curricula for an AI-assisted future. Looking ahead, we're also considering structural approaches that may become increasingly relevant as AI capabilities advance, like new pathways for role evolution or reskilling within the organization.",
+      "id": "p143",
+      "zh": "为落实这项初步工作,我们正采取若干步骤。我们正在和Anthropic工程师谈话,研究人员,发挥带头作用,应对提出的机遇和挑战。这包括审查我们如何将各小组聚集在一起并相互合作,我们如何支持专业发展,和/或我们如何为人工智能强化工作确立最佳做法(如:以我们的AI流畅框架为指导).我们还在将这一研究扩大到工程师以外,以了解AI转型如何影响整个组织的作用,并支持外部组织,例如:CodePath),他们将计算机科学课程改编为AI辅助的未来.展望未来,我们还在考虑随着人工智能能力的发展 结构方法可能变得越来越重要像是组织内部角色演化或重新技能的新途径。",
+      "en": "To follow up on this initial work, we’re taking several steps. We're talking to Anthropic engineers, researchers, and leadership to address the opportunities and challenges raised. This includes examining how we bring teams together and collaborate with each other, how we support professional development, and/or how we establish best practices for AI-augmented work (e.g. guided by our AI fluency framework). We're also expanding this research beyond engineers to understand how AI transformation affects roles across the organization and supporting external organizations such as CodePath as they adapt computer science curricula for an AI-assisted future. Looking ahead, we're also considering structural approaches that may become increasingly relevant as AI capabilities advance, like new pathways for role evolution or reskilling within the organization."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We expect to share more concrete plans in 2026 as our thinking matures. Anthropic is a laboratory for responsible workplace transition; we want to not just study how AI transforms work, but also experiment with how to navigate that transformation thoughtfully, starting with ourselves first.",
+      "id": "p144",
+      "zh": "随着我们思想的成熟,我们期望在2026年分享更多的具体计划.Anthropic是一个负责工作场所过渡的实验室;我们不想仅仅研究AI如何转变工作,也尝试如何周知这种转变,先从我们自己开始",
+      "en": "We expect to share more concrete plans in 2026 as our thinking matures. Anthropic is a laboratory for responsible workplace transition; we want to not just study how AI transforms work, but also experiment with how to navigate that transformation thoughtfully, starting with ourselves first."
+    },
+    {
+      "kind": "heading",
+      "text": "Appendix",
+      "id": "p145",
+      "zh": "附 录",
+      "en": "Appendix"
+    },
+    {
+      "kind": "heading",
+      "text": "Limitations",
+      "id": "p146",
+      "zh": "限制",
+      "en": "Limitations"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our survey findings are subject to several methodological limitations. We selected respondents through both convenience sampling and purposive sampling (to ensure broad organizational representation). We posted the survey across multiple internal Slack channels, yielding 68 responses, and we also selected 20 diverse teams across research and product functions from the organizational chart and directly messaged 5-10 individuals per team (n=207 total outreach), getting a 31% response rate for the final 64 responses. We interviewed the first 53 people who responded. There is likely some selection bias here, as people who are particularly engaged with Claude or have strong opinions (positive or negative) may have been more likely to respond, while those with more neutral experiences may have been underrepresented.",
+      "id": "p147",
+      "zh": "我们的调查结果在方法上受到若干限制。我们通过方便抽样和有针对性的抽样(以确保广泛的组织代表性)选择了答卷人。我们通过多个Slack内部渠道公布调查结果,共收到68份答复,我们还从组织结构图中挑选了20个不同的研究和产品职能小组,并直接传达每个小组5-10人的信息(总外联人数=207人),最后64份答复的答复率为31%。我们采访了第一批回应的53人。这里可能存在一些选择偏差,由于与Claude特别接触或有强烈观点(正面或负面观点)的人可能更有可能作出反应,具有较中性经验的人可能任职人数不足。",
+      "en": "Our survey findings are subject to several methodological limitations. We selected respondents through both convenience sampling and purposive sampling (to ensure broad organizational representation). We posted the survey across multiple internal Slack channels, yielding 68 responses, and we also selected 20 diverse teams across research and product functions from the organizational chart and directly messaged 5-10 individuals per team (n=207 total outreach), getting a 31% response rate for the final 64 responses. We interviewed the first 53 people who responded. There is likely some selection bias here, as people who are particularly engaged with Claude or have strong opinions (positive or negative) may have been more likely to respond, while those with more neutral experiences may have been underrepresented."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Additionally, responses may be affected by social desirability bias (since responses were not anonymous and all participants are Anthropic employees, respondents may have inflated positive assessments of Claude's impact) and recency bias (asking participants to recall their productivity and usage patterns from 12 months ago is subject to memory distortion). Furthermore, as discussed, productivity is in general very difficult to estimate, so these self-reports should be taken with a grain of salt. These self-reported perceptions should be interpreted alongside our more objective Claude Code usage data, and future research would benefit from anonymous data collection and more robustly validated measurement instruments.",
+      "id": "p148",
+      "zh": "此外,应对措施可能受到社会可取性偏见的影响(因为应对措施不是匿名的,而且所有参与者都是Anthropic雇员;答复者可能夸大了对Claude影响的积极评价)和复习偏差(要求参与者回顾12个月前的生产力和使用模式是:受内存扭曲影响).还有,经讨论,一般来说,生产力很难估计,所以这些自我报告应该用一粒盐来取.这些自我报告的看法应该与我们更客观的Claude代码使用数据一起解释,匿名数据收集和经更有力验证的计量工具将有益于今后的研究。",
+      "en": "Additionally, responses may be affected by social desirability bias (since responses were not anonymous and all participants are Anthropic employees, respondents may have inflated positive assessments of Claude's impact) and recency bias (asking participants to recall their productivity and usage patterns from 12 months ago is subject to memory distortion). Furthermore, as discussed, productivity is in general very difficult to estimate, so these self-reports should be taken with a grain of salt. These self-reported perceptions should be interpreted alongside our more objective Claude Code usage data, and future research would benefit from anonymous data collection and more robustly validated measurement instruments."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our Claude Code analysis uses proportionate sampling across time periods, which means we can only measure relative changes in task distribution, not absolute changes in work volume. For example, when we report that feature implementation increased from 14% to 37% of Claude Code usage, this does not necessarily indicate that more total feature work is being done.",
+      "id": "p149",
+      "zh": "我们的Claude代码分析 使用不同时期的 比例抽样这意味着我们只能衡量任务分配的相对变化,并非工作量的绝对变化。举例来说,当我们报告Claude代码的使用率从14%增加到37%时,这并不一定表明正在做更多的全面工作。",
+      "en": "Our Claude Code analysis uses proportionate sampling across time periods, which means we can only measure relative changes in task distribution, not absolute changes in work volume. For example, when we report that feature implementation increased from 14% to 37% of Claude Code usage, this does not necessarily indicate that more total feature work is being done."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Finally, this research was conducted in August 2025 when Claude Sonnet 4 and Claude Opus 4 were our state-of-the-art models. Given the rapid pace of AI development, the patterns we observed may have already shifted as newer models become available.",
+      "id": "p150",
+      "zh": "终于这一研究是在2025年8月进行的,当时Claude·索内特4和Claude·奥普斯4是我们最先进的模型.鉴于AI开发的迅猛步伐,我们观察到的模式可能已经随着新的模式的出现而改变。",
+      "en": "Finally, this research was conducted in August 2025 when Claude Sonnet 4 and Claude Opus 4 were our state-of-the-art models. Given the rapid pace of AI development, the patterns we observed may have already shifted as newer models become available."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p9",
+      "zh": "Anthropic工程师和研究人员最常使用Claude来修补代码错误和了解代码库.调试和代码理解是最常用的用途(图1).",
+      "en": "Anthropic engineers and researchers use Claude most often for fixing code errors and learning about the codebase. Debugging and code understanding are the most common uses (Figure 1)."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "人们报告说,Claude的使用率和生产率提高了。员工在60%的工作中使用Claude进行自我报告,实现50%的生产率提升,a 比去年这个时候增加2-3x。",
+      "en": "People report increasing Claude usage and productivity gains. Employees self-report using Claude in 60% of their work and achieving a 50% productivity boost, a 2-3x increase from this time last year."
+    },
+    {
+      "paragraphId": "p12",
+      "zh": "大多数雇员经常使用Claude,同时报告他们可以“完全委托”他们工作的0-20%。Claude是一个经常的合作者 但使用它一般涉及 积极的监督和验证,特别是在高额工作方面,相对于完全不需要核查的移交任务而言。",
+      "en": "Most employees use Claude frequently while reporting they can “fully delegate” 0-20% of their work to it. Claude is a constant collaborator but using it generally involves active supervision and validation, especially in high-stakes work—versus handing off tasks requiring no verification at all."
+    },
+    {
+      "paragraphId": "p24",
+      "zh": "我们调查了全组织的132名人类工程师和研究人员 关于他们使用Claude的情况,来更好地了解他们是如何 准确的日常使用它。我们通过内部沟通渠道和直接接触代表研究和产品职能的不同团队的雇员,散发了我们的调查。",
+      "en": "We surveyed 132 Anthropic engineers and researchers from across the organization about their Claude use, to better understand how exactly they were using it day-to-day. We distributed our survey through internal communication channels and direct outreach to employees across diverse teams representing both research and product functions."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "c8ed74bb129392a563abcd9a0f0816e89d83cc824bdb5cde59c0a96edcb3595a"
+}

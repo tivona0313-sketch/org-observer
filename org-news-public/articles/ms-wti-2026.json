@@ -1,0 +1,1013 @@
+{
+  "schemaVersion": 1,
+  "id": "ms-wti-2026",
+  "url": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
+  "sourceTitle": "2026 工作趋势报告：员工的 AI 能力，需要组织制度接得住",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:45:36.173539+00:00",
+  "fetchedAt": "2026-11-05T11:28:21.210237+00:00",
+  "finalURL": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
+  "language": "en",
+  "originalTitle": "Agents, human agency, and the opportunity for every organization",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "As AI and agents take on execution, our own agency expands.",
+      "id": "p1",
+      "zh": "随着AI和智能体执行处决,我们自己的机构正在扩大。",
+      "en": "As AI and agents take on execution, our own agency expands."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The question is whether organizations are built to capture it.",
+      "id": "p2",
+      "zh": "问题在于是否建立组织来抓住它。",
+      "en": "The question is whether organizations are built to capture it."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The opportunity for human potential at work has never been greater. People are using AI and agents to expand what they can do and who gets to do it, and new research shows that’s only accelerating. Call it the new agency equation: as agents take on more of the execution, humans increasingly have more agency—more room to direct the work, make the calls, and own the outcomes. For every firm, the imperative now is to turn that agency into unprecedented value.",
+      "id": "p3",
+      "zh": "发挥人的工作潜力的机会从未如此之大。人们利用人工智能和智能体 来扩大他们能做的和谁能做的并且新的研究表明,这只会加速。称之为新的机构方程式:当智能体承担更多的处决,人类越来越多地拥有更多的机构—— 更多的空间来指导工作,打电话,并拥有结果。对于每一个公司,现在必须把该机构变成前所未有的价值。",
+      "en": "The opportunity for human potential at work has never been greater. People are using AI and agents to expand what they can do and who gets to do it, and new research shows that’s only accelerating. Call it the new agency equation: as agents take on more of the execution, humans increasingly have more agency—more room to direct the work, make the calls, and own the outcomes. For every firm, the imperative now is to turn that agency into unprecedented value."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We analyzed trillions of anonymized Microsoft 365 productivity signals and surveyed 20,000 workers using AI1 across 10 countries. We also spoke with leading experts in AI, work, and organizational psychology to help us unpack the insights from the data and understand where all this is going. The anxiety around AI at work is real—from fears of job loss to the pressure to keep up with rapidly evolving technology. But our research shows something else: that a growing share of workers are using AI in advanced, resourceful ways. The problem? Most organizations aren’t keeping up.",
+      "id": "p4",
+      "zh": "我们分析了数万亿的无名微软365生产力信号,并调查了10个国家的20 000名工人使用AI1的情况。我们还与大赦国际的主要专家进行了交谈,工作时,和组织的心理学 帮助我们解开 洞察力 从数据 和了解这一切的去向。AI在工作中的焦虑是真实的——从担心失业到跟上迅速发展的技术的压力.但是,我们的研究表明,其他的东西:越来越多的工人在高级阶段使用AI,聪明的方法。问题?多数组织没有跟上。",
+      "en": "We analyzed trillions of anonymized Microsoft 365 productivity signals and surveyed 20,000 workers using AI1 across 10 countries. We also spoke with leading experts in AI, work, and organizational psychology to help us unpack the insights from the data and understand where all this is going. The anxiety around AI at work is real—from fears of job loss to the pressure to keep up with rapidly evolving technology. But our research shows something else: that a growing share of workers are using AI in advanced, resourceful ways. The problem? Most organizations aren’t keeping up."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In many cases, people are ready. The systems around them are not.",
+      "id": "p5",
+      "zh": "在许多情况下,人们都准备好了。他们周围的系统不是。",
+      "en": "In many cases, people are ready. The systems around them are not."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The constraint for most firms is the gap between what their employees can now do and what their organizations are built to support. Our data shows that organizational factors—culture, manager support, talent practices—account for twice the reported AI impact2 of individual effort alone.",
+      "id": "p6",
+      "zh": "多数公司的制约因素是其雇员现在能够做什么,而其组织是用来支助的。我们的数据显示,组织因素 - 文化,管理支持,人才做法——仅个人努力的人工智能影响2的两倍。",
+      "en": "The constraint for most firms is the gap between what their employees can now do and what their organizations are built to support. Our data shows that organizational factors—culture, manager support, talent practices—account for twice the reported AI impact2 of individual effort alone."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Bridging that gap means redesigning the operating model across employees, leaders, and the organization. The ones already doing it—Frontier Firms—are pulling ahead fast. Employees are using AI to lift the ceiling on what they can do. Leaders are rearchitecting work itself, deciding what humans and AI do. And organizations are turning into Learning Systems—because the companies that learn fastest from their own work will be the ones that win.",
+      "id": "p7",
+      "zh": "缩小这一差距意味着重新设计整个雇员的业务模式,领导人,与组织。那些已经这样做了的——Frontier公司—— 正在快速前进。雇员正在利用AI解除他们所能做的上限.领导人正在重新抓工作本身,决定人类和AI做什么。各组织正在转向学习系统,因为从自己的工作中学习得最快的公司将是获胜的公司。",
+      "en": "Bridging that gap means redesigning the operating model across employees, leaders, and the organization. The ones already doing it—Frontier Firms—are pulling ahead fast. Employees are using AI to lift the ceiling on what they can do. Leaders are rearchitecting work itself, deciding what humans and AI do. And organizations are turning into Learning Systems—because the companies that learn fastest from their own work will be the ones that win."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Here’s what Frontier Firms do differently—and how we can all take control of what comes next.",
+      "id": "p8",
+      "zh": "我们如何能控制接下来会发生的事情。",
+      "en": "Here’s what Frontier Firms do differently—and how we can all take control of what comes next."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Employees",
+      "id": "p9",
+      "zh": "雇员",
+      "en": "Employees"
+    },
+    {
+      "kind": "heading",
+      "text": "AI lifts the ceilingon individual potential",
+      "id": "p10",
+      "zh": "AI 提升个人的天花板潜力",
+      "en": "AI lifts the ceilingon individual potential"
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI is expanding what we can do—and putting a premium on judgment, clarity of intent, and the design of work itself.",
+      "id": "p11",
+      "zh": "AI正在扩大我们所能做的工作——并重视判断,明确意图,和工作的设计本身。",
+      "en": "AI is expanding what we can do—and putting a premium on judgment, clarity of intent, and the design of work itself."
+    },
+    {
+      "kind": "paragraph",
+      "text": "A privacy-preserving analysis of more than 100,000 chats in Microsoft 365 Copilot shows that 49% of all conversations support cognitive work—helping workers analyze information, solve problems, evaluate, and think creatively. The remainder splits among working with people (19%), finding information (15%), and producing work (17%).3",
+      "id": "p12",
+      "zh": "对Microsoft 365的10万次聊天进行隐私保留分析显示,49%的谈话支持认知工作——帮助工人分析信息,解决问题,评估,并创造性地思考。其余部分分为与人合作(19%),寻找信息(15%),生产(17%)3",
+      "en": "A privacy-preserving analysis of more than 100,000 chats in Microsoft 365 Copilot shows that 49% of all conversations support cognitive work—helping workers analyze information, solve problems, evaluate, and think creatively. The remainder splits among working with people (19%), finding information (15%), and producing work (17%).3"
+    },
+    {
+      "kind": "paragraph",
+      "text": "From expertise to agency",
+      "id": "p13",
+      "zh": "从专门知识到机构",
+      "en": "From expertise to agency"
+    },
+    {
+      "kind": "heading",
+      "text": "AI expands who can do high-value work",
+      "id": "p14",
+      "zh": "AI扩展谁能做高价值的工作",
+      "en": "AI expands who can do high-value work"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Nearly half of Microsoft 365 Copilot chat use supports analysis, decisions, and problem-solving—the kind of high-value work that once required deep expertise. The rest helps people work with others (19%), produce outputs (17%), and find information (15%).",
+      "id": "p15",
+      "zh": "微软365的Copilot聊天方式中近一半支持分析,决定,和解决问题——这种高价值的工作曾经需要深入的专业知识。其他帮助人们与他人一起工作(19%),产出(17%),并寻找信息(15%)。",
+      "en": "Nearly half of Microsoft 365 Copilot chat use supports analysis, decisions, and problem-solving—the kind of high-value work that once required deep expertise. The rest helps people work with others (19%), produce outputs (17%), and find information (15%)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Employees at every level now have a partner that helps them analyze, synthesize, and deepen their own expertise, while also building expertise in other areas. AI is not just helping us do things faster. It’s expanding who can do high-value work.",
+      "id": "p16",
+      "zh": "各级雇员现在都有一个合作伙伴,帮助他们进行分析,合成,并加深他们自己的专业知识,同时也在其他领域积累专门知识。AI不仅仅是帮助我们更快地做事情.它正在扩大谁能做高价值的工作。",
+      "en": "Employees at every level now have a partner that helps them analyze, synthesize, and deepen their own expertise, while also building expertise in other areas. AI is not just helping us do things faster. It’s expanding who can do high-value work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The data backs this up: 66% of AI users we surveyed4 say AI has allowed them to spend more time on high-value work and 58% say they’re producing work they couldn’t have a year ago.",
+      "id": "p17",
+      "zh": "数据证实了这一点:66%的人工智能用户4 说人工智能允许他们花更多时间从事高价值的工作, 58%的人说他们正在制作一年前无法拥有的作品。",
+      "en": "The data backs this up: 66% of AI users we surveyed4 say AI has allowed them to spend more time on high-value work and 58% say they’re producing work they couldn’t have a year ago."
+    },
+    {
+      "kind": "paragraph",
+      "text": "That rises to 80% among Frontier Professionals, the most advanced AI users in our research. Frontier Professionals use agents for multi-step workflows and building multi-agent systems. They routinely rethink workflows and identify where agents can augment or automate. And they participate in practices like creating shared AI standards for their team or organization. They represent a small but disproportionately valuable group: 16% of the AI users we surveyed.",
+      "id": "p18",
+      "zh": "这在边境专业人员中上升到80%,我们研究中最先进的AI用户.边疆专业人才利用代理开展多步工作流程,构建多代理系统.他们通常会重新思考工作流程,并找出哪些代理商可以增强或自动化.并且他们参与一些实践,比如为他们团队或组织创建共同的AI标准.他们代表着一个很小但价值不高的群体:16%的人工智能用户 我们调查。",
+      "en": "That rises to 80% among Frontier Professionals, the most advanced AI users in our research. Frontier Professionals use agents for multi-step workflows and building multi-agent systems. They routinely rethink workflows and identify where agents can augment or automate. And they participate in practices like creating shared AI standards for their team or organization. They represent a small but disproportionately valuable group: 16% of the AI users we surveyed."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Frontier Professionals refuse to outsource their thinking—they know long-term success means continuing to build human skills and not letting them atrophy.",
+      "id": "p19",
+      "zh": "边疆专业人员拒绝外包他们的思维——他们知道长期的成功意味着继续培养人的技能,而不让他们萎缩。",
+      "en": "Frontier Professionals refuse to outsource their thinking—they know long-term success means continuing to build human skills and not letting them atrophy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "But as AI expands what people can do, it also raises the premium on good judgment. Most AI users we surveyed recognize this. Asked which human skills are more important as AI takes on more work, they said two topped the list: quality control of AI output (50%) and critical thinking—analyzing information objectively and making a reasoned judgment (46%). And 86% say they treat AI output as a starting point, not a final answer, and that they “stay responsible for the thinking.” They see their role is shifting from generating answers to evaluating, refining, and owning them.",
+      "id": "p20",
+      "zh": "但随着AI扩展人们能做的,这也提高了判断力的优势。我们调查的大多数人工智能用户都认识到这一点。有人问,随着AI从事更多的工作,哪些人的技能更为重要,他们说,两个居榜首:对人工智能产出(50%)和批判性思维进行质量控制——客观分析信息并作出合理判断(46%)。86%的人说他们把AI输出作为起点,这不是最后的答案,他们认为,他们的作用正在从产生答案转向评估,精炼,并拥有它们。",
+      "en": "But as AI expands what people can do, it also raises the premium on good judgment. Most AI users we surveyed recognize this. Asked which human skills are more important as AI takes on more work, they said two topped the list: quality control of AI output (50%) and critical thinking—analyzing information objectively and making a reasoned judgment (46%). And 86% say they treat AI output as a starting point, not a final answer, and that they “stay responsible for the thinking.” They see their role is shifting from generating answers to evaluating, refining, and owning them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Frontier Professionals are even more aware of the importance of human judgment when working with AI. They rank higher across every measure in the survey related to critical thinking and quality control—and that shows up in how they work. They are more likely than non-Frontier professionals to say they intentionally do some work without AI to keep their skills sharp (43% vs. 30%) and to say they intentionally pause before starting work to decide what should be done by AI versus a human (53% vs. 33%). Frontier Professionals refuse to outsource their thinking—they know long-term success means continuing to build human skills and not letting them atrophy.",
+      "id": "p21",
+      "zh": "边疆专业人员在与大赦国际合作时,更加意识到人类判断的重要性。他们在调查中涉及批判性思维和质量控制的每一项措施中排名较高,这表现在如何工作上。他们比非Frontier专业人士更有可能说,他们有意在没有AI的情况下做一些工作来保持自己的技能精锐(43%对.在开始工作之前,他们故意暂停,以决定AI对人应该做什么(53%对53%)。占33%).边疆专业人员拒绝外包他们的思维——他们知道长期的成功意味着继续培养人的技能,而不让他们萎缩。",
+      "en": "Frontier Professionals are even more aware of the importance of human judgment when working with AI. They rank higher across every measure in the survey related to critical thinking and quality control—and that shows up in how they work. They are more likely than non-Frontier professionals to say they intentionally do some work without AI to keep their skills sharp (43% vs. 30%) and to say they intentionally pause before starting work to decide what should be done by AI versus a human (53% vs. 33%). Frontier Professionals refuse to outsource their thinking—they know long-term success means continuing to build human skills and not letting them atrophy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Beyond the prompt",
+      "id": "p22",
+      "zh": "超过提示范围",
+      "en": "Beyond the prompt"
+    },
+    {
+      "kind": "heading",
+      "text": "The four modes of working with AI",
+      "id": "p23",
+      "zh": "与大赦国际合作的四种方式",
+      "en": "The four modes of working with AI"
+    },
+    {
+      "kind": "paragraph",
+      "text": "How people work with AI depends on two things—how they engage with the work, and how much they use the agent. Four modes fall out: delegation, collaboration, asking, and exploration.",
+      "id": "p24",
+      "zh": "人们如何与AI合作 取决于两件事 - 他们如何参与工作,以及他们使用这个代理的多少。出现四种模式 :代表团,合作,问,和探索。",
+      "en": "How people work with AI depends on two things—how they engage with the work, and how much they use the agent. Four modes fall out: delegation, collaboration, asking, and exploration."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Illustrative framework developed by the WTI 2026 research team, informed by patterns in Microsoft 365 Copilot usage and survey findings on how Frontier Professionals describe their AI work. This is a conceptual framework, not a data visualization; the placement of each mode is qualitative.",
+      "id": "p25",
+      "zh": "由WTI 2026研究团队开发的说明性框架,了解了微软365的Copilot使用模式和关于前沿专业人员如何描述其人工智能工作的调查结果。这是一个概念框架,(a) 数据可视化;每个模式的位置都是定性的。",
+      "en": "Illustrative framework developed by the WTI 2026 research team, informed by patterns in Microsoft 365 Copilot usage and survey findings on how Frontier Professionals describe their AI work. This is a conceptual framework, not a data visualization; the placement of each mode is qualitative."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As AI use matures across all employees, the most effective AI users won’t be the ones who do more things faster. They’ll be the ones who redefine their value around what only humans can do: setting clear intent—defining the desired outcome and quality bar—and designing how the work gets done across humans and AI. They apply judgment and taste, build trust, and shape systems that produce better outcomes. The question stops being “What tasks define my job?” and starts being “What outcomes am I now positioned to drive?”",
+      "id": "p26",
+      "zh": "由于AI对所有员工来说都是成熟的,最有效的人工智能用户不会更快地做更多的事情。他们将重新定义自己的价值,确定明确的意图——确定预期的结果和质量标准——并设计如何在人类和大赦国际之间开展工作。他们有裁判和口味,建立信任,并塑造能产生更好结果的系统。问题不再是“什么任务决定我的工作?” ,而是“我现在能够推动什么结果?”",
+      "en": "As AI use matures across all employees, the most effective AI users won’t be the ones who do more things faster. They’ll be the ones who redefine their value around what only humans can do: setting clear intent—defining the desired outcome and quality bar—and designing how the work gets done across humans and AI. They apply judgment and taste, build trust, and shape systems that produce better outcomes. The question stops being “What tasks define my job?” and starts being “What outcomes am I now positioned to drive?”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Aneesh Raman",
+      "id": "p27",
+      "zh": "阿内什·拉曼",
+      "en": "Aneesh Raman"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Chief Economic Opportunity Officer",
+      "id": "p28",
+      "zh": "首席经济机会干事",
+      "en": "Chief Economic Opportunity Officer"
+    },
+    {
+      "kind": "paragraph",
+      "text": "LinkedIn",
+      "id": "p29",
+      "zh": "已链接",
+      "en": "LinkedIn"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Dr. Laura Hamill",
+      "id": "p30",
+      "zh": "医生。劳拉·哈米尔",
+      "en": "Dr. Laura Hamill"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Director of Research, AI@Work Thought Leadership",
+      "id": "p31",
+      "zh": "研究主任,AI@工作思想领导力",
+      "en": "Director of Research, AI@Work Thought Leadership"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Microsoft",
+      "id": "p32",
+      "zh": "微软",
+      "en": "Microsoft"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Conor Grennan",
+      "id": "p33",
+      "zh": "康纳·格伦南",
+      "en": "Conor Grennan"
+    },
+    {
+      "kind": "paragraph",
+      "text": "CEO and Founder",
+      "id": "p34",
+      "zh": "首席执行官兼创始人",
+      "en": "CEO and Founder"
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI Mindset",
+      "id": "p35",
+      "zh": "AI mindset (英语).",
+      "en": "AI Mindset"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Leaders",
+      "id": "p36",
+      "zh": "领导人",
+      "en": "Leaders"
+    },
+    {
+      "kind": "heading",
+      "text": "The job of every leader is to rearchitect work",
+      "id": "p37",
+      "zh": "每个领导人的工作就是重新抓好工作",
+      "en": "The job of every leader is to rearchitect work"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Most organizations are not yet built to capture the value of this expanded human agency. The challenge is not isolated to tools or individuals—it’s a breakdown across the system that connects leadership, culture, management practices, and how work is measured.",
+      "id": "p38",
+      "zh": "大多数组织尚未建立起来,以抓住这一扩大的人类机构的价值。挑战并非孤立于工具或个人,而是整个系统的崩溃将领导阶层联系起来,文化,管理做法,和如何衡量工作。",
+      "en": "Most organizations are not yet built to capture the value of this expanded human agency. The challenge is not isolated to tools or individuals—it’s a breakdown across the system that connects leadership, culture, management practices, and how work is measured."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To understand where this breakdown occurs, we mapped survey respondents across two dimensions: their capability with AI and their organization’s readiness to absorb it.",
+      "id": "p39",
+      "zh": "为了了解这种破裂的发生地点,我们绘制了两个方面的调查答卷人图:他们拥有AI的能力,他们组织也愿意吸收它。",
+      "en": "To understand where this breakdown occurs, we mapped survey respondents across two dimensions: their capability with AI and their organization’s readiness to absorb it."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In many cases, employees are moving faster than the organizations around them.",
+      "id": "p40",
+      "zh": "在许多情况下,员工的移动速度比周围的组织要快。",
+      "en": "In many cases, employees are moving faster than the organizations around them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Individual capability reflects how broadly respondents report using AI and how confidently they direct it, judge its output, and learn from it. It also includes how actively they experiment and share learnings, and whether they report creating new value with AI—from improving work quality and processes to enabling work they couldn’t do before.",
+      "id": "p41",
+      "zh": "个人能力反映出受访者报告使用AI的广度,以及他们如何自信地指导它,判断它的产物,并且从中吸取教训。它还包括他们如何积极地进行实验和分享学习,从改善工作质量和工作流程到扶持他们以前无法完成的工作,",
+      "en": "Individual capability reflects how broadly respondents report using AI and how confidently they direct it, judge its output, and learn from it. It also includes how actively they experiment and share learnings, and whether they report creating new value with AI—from improving work quality and processes to enabling work they couldn’t do before."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Organizational readiness reflects the environment around them, including: culture and management practices that support AI use, clear rules and guidelines for how people and AI work together, and whether AI use is encouraged and recognized.",
+      "id": "p42",
+      "zh": "组织准备就绪情况反映了周围的环境,包括:支持大赦国际使用的文化和管理做法;关于人们和大赦国际如何合作的明确规则和准则,以及大赦国际的使用是否得到鼓励和承认。",
+      "en": "Organizational readiness reflects the environment around them, including: culture and management practices that support AI use, clear rules and guidelines for how people and AI work together, and whether AI use is encouraged and recognized."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Transformation Paradox",
+      "id": "p43",
+      "zh": "变形参数",
+      "en": "The Transformation Paradox"
+    },
+    {
+      "kind": "heading",
+      "text": "Workers are ready. Their organizations aren’t.",
+      "id": "p44",
+      "zh": "工人准备好了。他们的组织不是。",
+      "en": "Workers are ready. Their organizations aren’t."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Roughly 1 in 5 workers are in the Frontier zone, where individual capability and organizational readiness reinforce each other. About 1 in 10 are blocked: skilled workers in companies that haven’t yet caught up. About half of all workers sit in the emergent zone in between.",
+      "id": "p45",
+      "zh": "大约五分之一的工人在边境地区,个人的能力和组织准备情况相互加强。大约十分之一被封锁:在尚未赶上的公司的熟练工人。大约一半的工人坐落在中间的新兴地区.",
+      "en": "Roughly 1 in 5 workers are in the Frontier zone, where individual capability and organizational readiness reinforce each other. About 1 in 10 are blocked: skilled workers in companies that haven’t yet caught up. About half of all workers sit in the emergent zone in between."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Microsoft WTI 2026 Global Survey | 10 markets (US, BR, AU, IN, JP, FR, DE, IT, NL, UK), fielded by Edelman Data x Intelligence, February 18–April 20, 2026 | Analyzed n = 20,000 sample; 16,971 plotted with complete data on both axes. Both axes are self-reported composite scores normalized 0–1 within each market before pooling. Individual readiness combines items from Q1 (self-efficacy), Q4 (AI usage sophistication), Q6 (proactive AI behaviors), and Q22 (value creation). Organizational readiness combines items from Q11 (governance maturity), Q12 (manager support), Q14 (AI in performance evaluation), and Q19 (organizational AI culture). All values are self-reported survey responses; no telemetry or behavioral observation is used.",
+      "id": "p46",
+      "zh": "微软WTI 2026 Global Survey QQ 10 市场(美国,伯尔非洲联盟,内,贾普,法兰西州,发展司,这,诺尔,英国,由Edelman Data x Intelligence公司负责2月18日至4月20日,纽约2026  ⁇  分析n = 20,000个样本;16,971幅图中标有两轴的完整数据.两个轴都是自报的复合分数,在每个市场0比1正常,然后集合.个人准备状态综合了Q1(自我效能)的物品,问题4(AI使用精密),问题6(主动的AI行为),和问题22(价值创造)。组织准备状态综合了问题11(治理成熟)的项目,问题12(管理支持),问题14(考绩中的AI),和问题19(组织AI文化)。所有数值都是自报的调查答复;没有使用遥测或行为观察。",
+      "en": "Microsoft WTI 2026 Global Survey | 10 markets (US, BR, AU, IN, JP, FR, DE, IT, NL, UK), fielded by Edelman Data x Intelligence, February 18–April 20, 2026 | Analyzed n = 20,000 sample; 16,971 plotted with complete data on both axes. Both axes are self-reported composite scores normalized 0–1 within each market before pooling. Individual readiness combines items from Q1 (self-efficacy), Q4 (AI usage sophistication), Q6 (proactive AI behaviors), and Q22 (value creation). Organizational readiness combines items from Q11 (governance maturity), Q12 (manager support), Q14 (AI in performance evaluation), and Q19 (organizational AI culture). All values are self-reported survey responses; no telemetry or behavioral observation is used."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The results reveal five groups of AI users. And in many cases, employees are moving faster than the organizations around them.",
+      "id": "p47",
+      "zh": "结果揭示了5组AI用户.在许多情况下,员工的移动速度比周围的组织要快。",
+      "en": "The results reveal five groups of AI users. And in many cases, employees are moving faster than the organizations around them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Only 19% of AI users are Frontier, the sweet spot where organizational capability and individual readiness are both high and reinforcing each other. At the other end, 16% are stalled, with low capability and limited organizational support. The rest are misaligned: 10% fall into blocked agency, where individuals have built strong skills but lack the systems to apply them. 5% sit in unclaimed capacity, where organizations are ready but employees have yet to catch up. The largest share sits in the messy middle, or emergent zone, where both individual practice and organizational conditions are still taking shape.",
+      "id": "p48",
+      "zh": "只有19%的人工智能用户是Frontier,组织能力和个人准备程度高、相互加强的甜点。在另一边,16%被困住了,能力低,组织支助有限。其余的错位:10%的人被封锁了· 个人培养了很强的技能,但缺乏应用这些技能的系统。5%的人以无人认领的身份,各组织已经做好准备,但雇员尚未赶上。最大的份额坐落在混乱的中间,或出现区,在个别做法和组织条件仍在形成的情况下。",
+      "en": "Only 19% of AI users are Frontier, the sweet spot where organizational capability and individual readiness are both high and reinforcing each other. At the other end, 16% are stalled, with low capability and limited organizational support. The rest are misaligned: 10% fall into blocked agency, where individuals have built strong skills but lack the systems to apply them. 5% sit in unclaimed capacity, where organizations are ready but employees have yet to catch up. The largest share sits in the messy middle, or emergent zone, where both individual practice and organizational conditions are still taking shape."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This misalignment is reinforced at the top. Only one in four AI users surveyed (26%) say their leadership is clearly and consistently aligned on AI. Leaders surveyed are also more likely than employees to say AI-driven reinvention feels safe and rewarded.5",
+      "id": "p49",
+      "zh": "这种错位在顶部强化.只有四分之一接受调查的AI用户(26%)说,他们的领导地位明确和一致地与AI保持一致。接受调查的领导人也比雇员更有可能说AI驱动的革新感到安全和有回报。",
+      "en": "This misalignment is reinforced at the top. Only one in four AI users surveyed (26%) say their leadership is clearly and consistently aligned on AI. Leaders surveyed are also more likely than employees to say AI-driven reinvention feels safe and rewarded.5"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1 in 4",
+      "id": "p50",
+      "zh": "4个中1个",
+      "en": "1 in 4"
+    },
+    {
+      "kind": "paragraph",
+      "text": "What emerges is a pressure point within the organization where the pull to perform collides with the push to transform. 65% of AI users fear falling behind if they don’t use AI to adapt quickly, yet 45% say it feels safer to focus on current goals than to redesign work with AI. And only 13% of AI users say they’re rewarded for reinvention of work with AI even if results aren’t met.",
+      "id": "p51",
+      "zh": "所出现的是组织内的压力点,在组织内,拉力执行与推动转变相碰撞.65%的AI用户担心若不使用AI迅速适应,但45%的人表示,关注当前目标比重新设计AI的工作更安全.也只有13%的人工智能用户表示,",
+      "en": "What emerges is a pressure point within the organization where the pull to perform collides with the push to transform. 65% of AI users fear falling behind if they don’t use AI to adapt quickly, yet 45% say it feels safer to focus on current goals than to redesign work with AI. And only 13% of AI users say they’re rewarded for reinvention of work with AI even if results aren’t met."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We call this the Transformation Paradox: Employees are ready to reinvent how they work, but the system around them—metrics, incentives, and norms—continues to reinforce the old way. The same forces accelerating AI adoption are holding it back.",
+      "id": "p52",
+      "zh": "我们称这为\"变形怪\":员工们准备重新发明他们的工作方式,惟周围的系统是度量的,奖励;继续强化旧的方法。加速AI收养的同样力量正在阻止它.",
+      "en": "We call this the Transformation Paradox: Employees are ready to reinvent how they work, but the system around them—metrics, incentives, and norms—continues to reinforce the old way. The same forces accelerating AI adoption are holding it back."
+    },
+    {
+      "kind": "heading",
+      "text": "Leadership must redesign the system to match the work",
+      "id": "p53",
+      "zh": "领导必须重新设计系统,使之与工作相匹配",
+      "en": "Leadership must redesign the system to match the work"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The job of every leader right now is to make change stick. That means setting strategy at the top and ensuring the metrics, incentives, and expectations reward people for changing the way they work.",
+      "id": "p54",
+      "zh": "现在每个领导者的工作就是使变革成为现实。这意味着制定最高层的战略并确保衡量标准,奖励;和期望奖励人们 改变工作方式。",
+      "en": "The job of every leader right now is to make change stick. That means setting strategy at the top and ensuring the metrics, incentives, and expectations reward people for changing the way they work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Once that strategy is set, it’s managers who operationalize it, and the data shows the impact of their ability to do so.",
+      "id": "p55",
+      "zh": "一旦这个战略确定下来,是管理者操作它,这些数据显示了它们这样做的能力所产生的影响。",
+      "en": "Once that strategy is set, it’s managers who operationalize it, and the data shows the impact of their ability to do so."
+    },
+    {
+      "kind": "paragraph",
+      "text": "A separate Microsoft-led study6 of 1,800 workers globally found when managers actively modeled AI use, employees reported a 17-point lift in reported AI value7, a 22-point lift in critical thinking about their AI use, and a 30-point lift in trust in agentic AI. When managers created psychological safety around experimentation, employees reported up to 20 points higher AI readiness and value—and were 1.4x more likely to be high-frequency users of agentic AI.",
+      "id": "p56",
+      "zh": "由微软牵头对全球1,800名工人进行的一项单独研究6,当管理人员积极模拟AI使用时,雇员报告说,在报告的AI值7中有17点升空,22分的升降机 批判性思考他们的AI使用,和30点的升降 信任代理AI。当管理者在实验中创造心理安全雇员报告说,AI的准备程度和价值最高达20分,而且1.4x更可能是代理AI的高频用户。",
+      "en": "A separate Microsoft-led study6 of 1,800 workers globally found when managers actively modeled AI use, employees reported a 17-point lift in reported AI value7, a 22-point lift in critical thinking about their AI use, and a 30-point lift in trust in agentic AI. When managers created psychological safety around experimentation, employees reported up to 20 points higher AI readiness and value—and were 1.4x more likely to be high-frequency users of agentic AI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Transformation Paradox is, at its core, a systems problem. And systems don’t fix themselves—they have to be redesigned.",
+      "id": "p57",
+      "zh": "变形怪是,在其核心,系统问题。系统无法自我修复,必须重新设计。",
+      "en": "The Transformation Paradox is, at its core, a systems problem. And systems don’t fix themselves—they have to be redesigned."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Frontier Professionals in our survey consistently work in this kind of environment. Compared to non–Frontier Professionals, they are significantly more likely to say their manager openly uses AI (85% vs. 64%), sets quality standards for AI work (83% vs. 57%), creates space for experimentation (84% vs. 61%), and encourages more ambitious work redesign (87% vs. 61%). They are also 2X more likely to say they are rewarded for the reinvention of work with AI regardless of outcome (26% vs. 11%).",
+      "id": "p58",
+      "zh": "我们调查中的边疆专业人员在这种环境中一贯工作。与非前线专业人员相比,他们更可能说他们的经理公开使用AI(85%对).64%;为人工智能工作设定了质量标准(83% vs.57%),创造实验空间(84% vs.61%),并且鼓励更大胆地重新设计工作(87%对87%).(原始内容存档于2018-07-26). 61%.另外,他们更可能说,他们因重新与大赦国际合作而得到奖励,无论结果如何(26%对26%)。(11%) (中文(简体) ).",
+      "en": "Frontier Professionals in our survey consistently work in this kind of environment. Compared to non–Frontier Professionals, they are significantly more likely to say their manager openly uses AI (85% vs. 64%), sets quality standards for AI work (83% vs. 57%), creates space for experimentation (84% vs. 61%), and encourages more ambitious work redesign (87% vs. 61%). They are also 2X more likely to say they are rewarded for the reinvention of work with AI regardless of outcome (26% vs. 11%)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Individual potential can compound when leadership sets direction, culture supports experimentation and learning, and management practices reinforce new ways of working.",
+      "id": "p59",
+      "zh": "当领导者确定方向时,个人潜力可能会增加,文化支持实验和学习,管理做法加强了新的工作方式。",
+      "en": "Individual potential can compound when leadership sets direction, culture supports experimentation and learning, and management practices reinforce new ways of working."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Transformation Paradox is, at its core, a systems problem. And systems don’t fix themselves—they have to be redesigned.",
+      "id": "p60",
+      "zh": "变形怪是,在其核心,系统问题。系统无法自我修复,必须重新设计。",
+      "en": "The Transformation Paradox is, at its core, a systems problem. And systems don’t fix themselves—they have to be redesigned."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Conor Grennan",
+      "id": "p61",
+      "zh": "康纳·格伦南",
+      "en": "Conor Grennan"
+    },
+    {
+      "kind": "paragraph",
+      "text": "CEO and Founder",
+      "id": "p62",
+      "zh": "首席执行官兼创始人",
+      "en": "CEO and Founder"
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI Mindset",
+      "id": "p63",
+      "zh": "AI mindset (英语).",
+      "en": "AI Mindset"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Dr. Karim Lakhani",
+      "id": "p64",
+      "zh": "医生。卡里姆·拉哈尼",
+      "en": "Dr. Karim Lakhani"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Professor of Business Administration",
+      "id": "p65",
+      "zh": "工商管理教授",
+      "en": "Professor of Business Administration"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Harvard Business School",
+      "id": "p66",
+      "zh": "哈佛商学院",
+      "en": "Harvard Business School"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Dr. Laura Hamill",
+      "id": "p67",
+      "zh": "医生。劳拉·哈米尔",
+      "en": "Dr. Laura Hamill"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Director of Research, AI@Work Thought Leadership",
+      "id": "p68",
+      "zh": "研究主任,AI@工作思想领导力",
+      "en": "Director of Research, AI@Work Thought Leadership"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Microsoft",
+      "id": "p69",
+      "zh": "微软",
+      "en": "Microsoft"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Organizations",
+      "id": "p70",
+      "zh": "组织",
+      "en": "Organizations"
+    },
+    {
+      "kind": "heading",
+      "text": "Every firm is aLearning System",
+      "id": "p71",
+      "zh": "每个事务所都是学习系统",
+      "en": "Every firm is aLearning System"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The firms pulling ahead are focused on AI absorption rather than just AI adoption, redesigning how work gets done and turning output into insight. When that insight gets captured, shared, and built into how the organization operates, it creates a self-reinforcing Learning System.",
+      "id": "p72",
+      "zh": "领先的公司专注于人工智能吸收,而不仅仅是人工智能的通过,重新设计工作方式,将产出转化为洞察力。当那个洞察力被抓住时,共享,并融入该组织的运作方式,它建立了一个自我强化的学习系统。",
+      "en": "The firms pulling ahead are focused on AI absorption rather than just AI adoption, redesigning how work gets done and turning output into insight. When that insight gets captured, shared, and built into how the organization operates, it creates a self-reinforcing Learning System."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Many leaders focus on hiring the right people and assume results will follow. But our data shows that it’s something else: the conditions leaders create for that talent to thrive.",
+      "id": "p73",
+      "zh": "许多领导人注重雇用合适的人,并假定结果会随之而来。但我们的数据显示,这是另外一回事:领导者为这种人才的成长创造了条件。",
+      "en": "Many leaders focus on hiring the right people and assume results will follow. But our data shows that it’s something else: the conditions leaders create for that talent to thrive."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We analyzed responses from our global survey and tested a broad set of organizational, individual, and demographic factors against self-reported AI impact8—whether employees say AI helps them produce higher quality work, collaborate more effectively, expand the type of work they do, and more.",
+      "id": "p74",
+      "zh": "我们分析了我们全球调查的答复,并测试了广泛的组织、组织和系统。个人,与自报AI影响相关的人口因素——8 雇员是否说AI帮助他们生产更高质量的工作,更有效地合作,扩大他们的工作类型,还有更多",
+      "en": "We analyzed responses from our global survey and tested a broad set of organizational, individual, and demographic factors against self-reported AI impact8—whether employees say AI helps them produce higher quality work, collaborate more effectively, expand the type of work they do, and more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The results show that organizational factors9 like culture, manager support, and talent practices account for more than 2x the reported AI impact of individual factors like mindset and behavior (67% vs. 32%).",
+      "id": "p75",
+      "zh": "结果显示,组织因素9 诸如文化,管理支持,而人才实践则占了所报道的智力和行为等个人因素对人工智能的影响的2x以上(67%对6.(占32%) (韩语).",
+      "en": "The results show that organizational factors9 like culture, manager support, and talent practices account for more than 2x the reported AI impact of individual factors like mindset and behavior (67% vs. 32%)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI Value",
+      "id": "p76",
+      "zh": "AI 值",
+      "en": "AI Value"
+    },
+    {
+      "kind": "heading",
+      "text": "The biggest factor behind AI impact isn’t individual. It’s organizational.",
+      "id": "p77",
+      "zh": "造成人工智能影响的最大因素并非个人因素。这是组织性的。",
+      "en": "The biggest factor behind AI impact isn’t individual. It’s organizational."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Organizational factors—culture, manager support, talent practices—account for more than 2x of AI’s real impact (67%) as individual mindset and behavior (32%).",
+      "id": "p78",
+      "zh": "组织因素——文化、管理支持,人才实践 -- -- 占大赦国际实际影响(67%)的2倍以上,即个人心态和行为(32%)。",
+      "en": "Organizational factors—culture, manager support, talent practices—account for more than 2x of AI’s real impact (67%) as individual mindset and behavior (32%)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Microsoft WTI 2026 Global Survey | 10 markets (US, BR, AU, IN, JP, FR, DE, IT, NL, UK), fielded by Edelman Data x Intelligence, February 18–April 20, 2026 | Analyzed n = 20,000 sample; 19,854 analysis sample after listwise removal on 29 predictors | Bars show random forest permutation importance, normalized so the top factor equals 100 percent. Ranking holds across three model families—test R² of 0.680 (elastic net), 0.689 (random forest), and 0.690 (XGBoost) | 29 factors: 10 organizational, 9 individual, 10 demographic | Outcome is a 10-item Q27 composite measuring self-reported AI outcomes. Predictors are self-reported perceptions of the respondent’s work, workplace, and AI use. Values show a statistical association, not a causal effect.",
+      "id": "p79",
+      "zh": "微软WTI 2026 Global Survey QQ 10 市场(美国,伯尔非洲联盟,内,贾普,法兰西州,发展司,这,诺尔,英国,由Edelman Data x Intelligence公司负责2月18日至4月20日,纽约2026  ⁇  分析n = 20,000个样本;19,854个分析样本 在29个预测器上逐一删除后 显示随机森林喷发的重要性,正常化了,所以顶点等于100%。排名涉及三个模范家庭——测试R2为0.680(弹性网),0.689(原始森林),和0.690(XGBoost) 29个因素:10个组织、9个人,10 \" 人口结果 \" 是衡量自报AI结果的10个项目Q27综合数据。预测者是自报的对被调查者工作的看法,工作场所,和人工智能的使用。数值显示一个统计关联,不是因果效应。",
+      "en": "Microsoft WTI 2026 Global Survey | 10 markets (US, BR, AU, IN, JP, FR, DE, IT, NL, UK), fielded by Edelman Data x Intelligence, February 18–April 20, 2026 | Analyzed n = 20,000 sample; 19,854 analysis sample after listwise removal on 29 predictors | Bars show random forest permutation importance, normalized so the top factor equals 100 percent. Ranking holds across three model families—test R² of 0.680 (elastic net), 0.689 (random forest), and 0.690 (XGBoost) | 29 factors: 10 organizational, 9 individual, 10 demographic | Outcome is a 10-item Q27 composite measuring self-reported AI outcomes. Predictors are self-reported perceptions of the respondent’s work, workplace, and AI use. Values show a statistical association, not a causal effect."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The findings underscore the importance of an AI-ready environment: a culture that treats AI as a strategic advantage and encourages experimentation, managers who model and incentivize AI use, and talent practices that build skills and create space to apply them.",
+      "id": "p80",
+      "zh": "研究结果强调了一个方便AI的环境的重要性:将AI视为一种战略优势并鼓励实验的文化,设计并激励人工智能使用的管理人员,以及培养技能并创造应用这些技能的空间的人才做法。",
+      "en": "The findings underscore the importance of an AI-ready environment: a culture that treats AI as a strategic advantage and encourages experimentation, managers who model and incentivize AI use, and talent practices that build skills and create space to apply them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The real question isn’t whether people have the right skills. It’s whether the organization is built to unlock them.",
+      "id": "p81",
+      "zh": "真正的问题不是人们是否拥有合适的技能。组织是否是为了解锁它们而建立的。",
+      "en": "The real question isn’t whether people have the right skills. It’s whether the organization is built to unlock them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "15x",
+      "id": "p82",
+      "zh": "15 个",
+      "en": "15x"
+    },
+    {
+      "kind": "heading",
+      "text": "Redesigning systems and processes",
+      "id": "p83",
+      "zh": "重新设计系统和进程",
+      "en": "Redesigning systems and processes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The number of active agents in the Microsoft 365 ecosystem has grown 15x year over year, rising to 18x in large enterprises.10",
+      "id": "p84",
+      "zh": "微软365生态系统的活跃物剂数量逐年增长15倍,在大型企业中上升到18x。",
+      "en": "The number of active agents in the Microsoft 365 ecosystem has grown 15x year over year, rising to 18x in large enterprises.10"
+    },
+    {
+      "kind": "paragraph",
+      "text": "As agents take on more, they also generate valuable signals: what worked, what failed, where outcomes drifted. In many organizations surveyed, those signals stay local or spread slowly. Frontier Firms treat them differently. They capture these signals and encode them into shared routines, improving future work while preserving accountability and control.",
+      "id": "p85",
+      "zh": "随着智能体们的到来它们也产生有价值的信号:成功了吗?什么失败了,结果是飘忽不定的。在接受调查的许多组织中,这些信号保持局部或缓慢传播。边境公司对待他们的方式不同。他们捕捉到这些信号 把它们编码成共同的例行公事改进今后的工作,同时保持问责制和控制。",
+      "en": "As agents take on more, they also generate valuable signals: what worked, what failed, where outcomes drifted. In many organizations surveyed, those signals stay local or spread slowly. Frontier Firms treat them differently. They capture these signals and encode them into shared routines, improving future work while preserving accountability and control."
+    },
+    {
+      "kind": "paragraph",
+      "text": "State of agents",
+      "id": "p86",
+      "zh": "代理人的状态",
+      "en": "State of agents"
+    },
+    {
+      "kind": "heading",
+      "text": "AI scales differently by industry: breadth in some, depth in others",
+      "id": "p87",
+      "zh": "AI按行业的尺度不同:在某些方面,在其它情况下的深度",
+      "en": "AI scales differently by industry: breadth in some, depth in others"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Agents are now used in every industry, but the pattern of adoption varies widely.",
+      "id": "p88",
+      "zh": "现在每个行业都使用代理但收养方式差别很大。",
+      "en": "Agents are now used in every industry, but the pattern of adoption varies widely."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Microsoft 365 Copilot agent telemetry | March 2025 through March 2026 | All metrics expressed as shares and ratios. No absolute counts.",
+      "id": "p89",
+      "zh": "Microsoft 365 Copilot代理遥测 QQ 2025年3月至2026年3月 QQ 以股份和比率表示的所有度量衡.没有绝对数。",
+      "en": "Microsoft 365 Copilot agent telemetry | March 2025 through March 2026 | All metrics expressed as shares and ratios. No absolute counts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For example, Frontier Professionals are more likely than non–Frontier Professionals to say their teams brainstorm and refine business processes together to identify AI opportunities (63% vs. 32%), share AI tips, new agents, learnings, and mistakes (61% vs. 36%), and discuss quality standards for AI-assisted work (54% vs. 29%).",
+      "id": "p90",
+      "zh": "举例来说,边疆专业人员比非前沿专业人员更有可能说,他们的团队集思广益,并共同完善业务流程,以确定AI的机会(63%对.32%),分享人工智能提示,新的探员,学习,和错误(61% vs.36%;并讨论人工智能辅助工作的质量标准(54% vs.29%) (中文(中国大陆).",
+      "en": "For example, Frontier Professionals are more likely than non–Frontier Professionals to say their teams brainstorm and refine business processes together to identify AI opportunities (63% vs. 32%), share AI tips, new agents, learnings, and mistakes (61% vs. 36%), and discuss quality standards for AI-assisted work (54% vs. 29%)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "They are also more likely to report that agent workflows, human handoffs, and quality standards are documented and repeatable at the team (26% vs. 19%), function (29% vs. 17%), and organization level (25% vs. 14%).",
+      "id": "p91",
+      "zh": "他们还更有可能报告代理工作流程,人类的施舍,并且质量标准在团队中被记录和重复(26%对.19%),函数(29% vs.17%),和组织的级别(25%对.)(14%) (中文(简体) ).",
+      "en": "They are also more likely to report that agent workflows, human handoffs, and quality standards are documented and repeatable at the team (26% vs. 19%), function (29% vs. 17%), and organization level (25% vs. 14%)."
+    },
+    {
+      "kind": "heading",
+      "text": "Building an evaluation infrastructure",
+      "id": "p92",
+      "zh": "建设评价基础设施",
+      "en": "Building an evaluation infrastructure"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Creating those systems requires a disciplined approach to holding humans accountable for the work that agents execute. Many functions that deploy agents at scale will start to see a pattern: the more agents execute, the higher the stakes around human evaluation. Approving one bad output is manageable, but when bad outputs make it through at scale, the risk compounds. The key is to build an evaluation infrastructure that can keep up with agents.",
+      "id": "p93",
+      "zh": "建立这些系统需要采取纪律严明的做法,使人类对代理人执行的工作负责。许多在规模上部署代理的功能将开始看到一种模式:越多的智能体执行,人类评价的利害关系越大。批准一个糟糕的输出是可控的,但当不良的产物使它达到规模的时候,风险复合物。关键是建立一个能够跟上代理商的评价基础设施。",
+      "en": "Creating those systems requires a disciplined approach to holding humans accountable for the work that agents execute. Many functions that deploy agents at scale will start to see a pattern: the more agents execute, the higher the stakes around human evaluation. Approving one bad output is manageable, but when bad outputs make it through at scale, the risk compounds. The key is to build an evaluation infrastructure that can keep up with agents."
+    },
+    {
+      "kind": "paragraph",
+      "text": "It starts with three questions that every Frontier Firm will need to answer: Who reviews agent performance? Who has the authority to update the workflows that agents run? How does a local win get captured and scaled across the organization? Organizations that can answer these questions are building Owned Intelligence—institutional know-how that compounds over time, is unique to the firm, and is hard to replicate.",
+      "id": "p94",
+      "zh": "首先,每个边境公司都需要回答三个问题:谁审查经纪人的表现?谁有权更新代理商运行的工作流程?.当地赢家如何在全组织范围内被抓住和放大?.能够回答这些问题的组织正在建立拥有的情报——机构知识,随着时间的推移,是律所独有的,很难复制。",
+      "en": "It starts with three questions that every Frontier Firm will need to answer: Who reviews agent performance? Who has the authority to update the workflows that agents run? How does a local win get captured and scaled across the organization? Organizations that can answer these questions are building Owned Intelligence—institutional know-how that compounds over time, is unique to the firm, and is hard to replicate."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Every Frontier Firm needs to build Owned Intelligence—institutional know-how that compounds over time, is unique to the firm, and is hard to replicate.",
+      "id": "p95",
+      "zh": "每一个边境公司都需要建立拥有的情报—— 机构专门技能,随着时间的推移,是律所独有的,很难复制。",
+      "en": "Every Frontier Firm needs to build Owned Intelligence—institutional know-how that compounds over time, is unique to the firm, and is hard to replicate."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Building that infrastructure also requires coordinated reinvention across four roles: employees, who rearchitect their work around intent and review; leaders, who redesign processes around outcomes and agent autonomy; IT, who builds the infrastructure for agent operations at scale; and security, who ensures that trust is woven into the system itself.",
+      "id": "p96",
+      "zh": "建设这种基础设施还需要在以下四个方面进行协调的革新:雇员,(a) 围绕意图和审查重新安排其工作;领导人,由谁围绕成果和代理自主权重新设计流程;这,- 建设规模化代理业务的基础设施;与安全,他们确保把信任植入系统本身。",
+      "en": "Building that infrastructure also requires coordinated reinvention across four roles: employees, who rearchitect their work around intent and review; leaders, who redesign processes around outcomes and agent autonomy; IT, who builds the infrastructure for agent operations at scale; and security, who ensures that trust is woven into the system itself."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For IT leaders, this means treating agents as managed entities with identities, permissions, policy enforcement, and lifecycle management. IT becomes the control plane for agent operations, extending the same rigor already applied to people and applications so that scale does not come at the cost of visibility.",
+      "id": "p97",
+      "zh": "对于IT领导者来说,这意味着将代理人视为具有身份的管理实体,权限,政策执行,和生命周期管理。它成为代理业务的控制飞机,扩大已经适用于人员和应用程序的同样的硬度,使尺度不以可见度为代价。",
+      "en": "For IT leaders, this means treating agents as managed entities with identities, permissions, policy enforcement, and lifecycle management. IT becomes the control plane for agent operations, extending the same rigor already applied to people and applications so that scale does not come at the cost of visibility."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For security leaders, this means accounting for the new risk that agents introduce: data exfiltration, unintended system actions, and unauthorized access. Securing agents requires embedding monitoring, policy enforcement, and auditability directly into the platform, so that trust operates as a structural property of the system.",
+      "id": "p98",
+      "zh": "对于安全领导人来说,这意味着说明代理人引入的新风险:数据过滤,意外的系统行动,和未经授权进入。保安人员需要嵌入监测,政策执行,以及可直接进入平台的可审计性,因此,信托作为系统的结构财产运作。",
+      "en": "For security leaders, this means accounting for the new risk that agents introduce: data exfiltration, unintended system actions, and unauthorized access. Securing agents requires embedding monitoring, policy enforcement, and auditability directly into the platform, so that trust operates as a structural property of the system."
+    },
+    {
+      "kind": "paragraph",
+      "text": "When these four roles work in concert, the organization becomes a Learning System: one in which work continuously produces insight, and insight continuously reshapes how work gets done.",
+      "id": "p99",
+      "zh": "当这四个角色一起工作时,该组织成为学习系统:在其中工作 不断产生洞察力,和洞察力不断重塑 工作是如何完成的。",
+      "en": "When these four roles work in concert, the organization becomes a Learning System: one in which work continuously produces insight, and insight continuously reshapes how work gets done."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Dr. Karim Lakhani",
+      "id": "p100",
+      "zh": "医生。卡里姆·拉哈尼",
+      "en": "Dr. Karim Lakhani"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Professor of Business Administration",
+      "id": "p101",
+      "zh": "工商管理教授",
+      "en": "Professor of Business Administration"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Harvard Business School",
+      "id": "p102",
+      "zh": "哈佛商学院",
+      "en": "Harvard Business School"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Meghana Dhar",
+      "id": "p103",
+      "zh": "梅加娜·达尔",
+      "en": "Meghana Dhar"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Founder",
+      "id": "p104",
+      "zh": "创建者",
+      "en": "Founder"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Tea in Tech",
+      "id": "p105",
+      "zh": "技术茶",
+      "en": "Tea in Tech"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Aneesh Raman",
+      "id": "p106",
+      "zh": "阿内什·拉曼",
+      "en": "Aneesh Raman"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Chief Economic Opportunity Officer",
+      "id": "p107",
+      "zh": "首席经济机会干事",
+      "en": "Chief Economic Opportunity Officer"
+    },
+    {
+      "kind": "paragraph",
+      "text": "LinkedIn",
+      "id": "p108",
+      "zh": "已链接",
+      "en": "LinkedIn"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Take action",
+      "id": "p109",
+      "zh": "采取行动",
+      "en": "Take action"
+    },
+    {
+      "kind": "heading",
+      "text": "A new operating model",
+      "id": "p110",
+      "zh": "新的操作模式",
+      "en": "A new operating model"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The firms that build a new operating model today won’t just move faster in the short term. They’ll build something more durable, setting themselves up to create value in ways that we can’t yet conceive of: an organization that learns faster than its competitors, compounds its own intelligence, and gets harder to catch with every cycle.",
+      "id": "p111",
+      "zh": "建立新运作模式的公司不会在短期内加快发展速度。他们将建造更耐用的东西,以我们尚无法想象的方式创造价值:一个学习速度比竞争者快的组织,复合了自己的智能,并且越来越难赶上每个循环。",
+      "en": "The firms that build a new operating model today won’t just move faster in the short term. They’ll build something more durable, setting themselves up to create value in ways that we can’t yet conceive of: an organization that learns faster than its competitors, compounds its own intelligence, and gets harder to catch with every cycle."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This shift won’t happen easily. Some jobs will change. Some will go away. And many that don’t exist yet will emerge. According to LinkedIn’s 2026 Labor Market Report, in the past two years, employers have created at least 1.3 million AI-related job opportunities, which include data annotators, AI engineers, and forward-deployed engineers. These roles didn’t exist five years ago, but they have quickly become essential to digital economies. This kind of dynamism isn’t new to work, but the pace and scale of it are—and the uncertainty people feel is real.",
+      "id": "p112",
+      "zh": "这一转变不会轻易发生。有些工作会改变。有些会消失的而许多尚不存在的东西将会出现。根据LinkedIn的2026年劳动力市场报告,在过去两年中,雇主创造了至少130万个与AI有关的就业机会;包括数据注释员,AI工程师,和前方部署的工程师这些角色在五年前并不存在,但对于数字经济来说,它们已迅速变得至关重要。这种活力并不新鲜,但它的速度和规模, 和人们的不确定性是真实的。",
+      "en": "This shift won’t happen easily. Some jobs will change. Some will go away. And many that don’t exist yet will emerge. According to LinkedIn’s 2026 Labor Market Report, in the past two years, employers have created at least 1.3 million AI-related job opportunities, which include data annotators, AI engineers, and forward-deployed engineers. These roles didn’t exist five years ago, but they have quickly become essential to digital economies. This kind of dynamism isn’t new to work, but the pace and scale of it are—and the uncertainty people feel is real."
+    },
+    {
+      "kind": "paragraph",
+      "text": "What’s also real: The potential for employees to make impact has never been higher. Leaders are starting to redesign the systems around them. The organizations capturing what their work is teaching them are learning faster than the ones that aren’t. None of that happens by accident.",
+      "id": "p113",
+      "zh": "真实的事物:雇员施加影响的潜力从未像现在这样大。领导人开始重新设计周围的系统。掌握自己工作知识的组织比没有学习的组织学习得更快。这一切都不是偶然发生的。",
+      "en": "What’s also real: The potential for employees to make impact has never been higher. Leaders are starting to redesign the systems around them. The organizations capturing what their work is teaching them are learning faster than the ones that aren’t. None of that happens by accident."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The opportunity in front of every leader and organization is to take control: to build a place where agents amplify what people can do, where human judgment stays at the center of the work that matters, and where we all have the agency to decide what comes next. This is what AI can mean for all of us—if we choose to do the work to get there.",
+      "id": "p114",
+      "zh": "每个领导人和组织面前的机会是掌握:建造一个地方,使智能体能够扩大人们的能力,人类的判断是最重要的工作的核心,而我们都有机构来决定接下来的结局这是人工智能对我们所有人的意义——如果我们选择做这项工作才能到达那里。",
+      "en": "The opportunity in front of every leader and organization is to take control: to build a place where agents amplify what people can do, where human judgment stays at the center of the work that matters, and where we all have the agency to decide what comes next. This is what AI can mean for all of us—if we choose to do the work to get there."
+    },
+    {
+      "kind": "heading",
+      "text": "Endnotes",
+      "id": "p115",
+      "zh": "尾注",
+      "en": "Endnotes"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1 AI users: Survey respondents who reported using generative AI for work at least occasionally (from less than once a month to more than once per day). Respondents who selected “never” (or “don’t know”) were screened out of the survey.",
+      "id": "p116",
+      "zh": "1个AI用户:报告至少偶尔(从每月不到一次到每天不止一次)使用基因AI进行工作的调查答卷人.选择 \" 永远 \" (或 \" 永远不知道 \" )的答卷人被从调查中筛选出来。",
+      "en": "1 AI users: Survey respondents who reported using generative AI for work at least occasionally (from less than once a month to more than once per day). Respondents who selected “never” (or “don’t know”) were screened out of the survey."
+    },
+    {
+      "kind": "paragraph",
+      "text": "2AI impact: A combination of outcome variables about how AI users report that AI is making an impact, including being more creative, doing new kinds of work, giving higher-quality first drafts, improving work ability, collaboration, feeling in control, improving career prospects, doing high-value work, and being more likely to stay at my company because of AI. See section 3, “Every firmis a learning system” or “AI Impact Analysis” in methodology for more details. 3 See “Share of User Goals by O*NET Generalized Work Activities” in the methodology for more details. 4 See “Work Trend Index Survey” in methodology for more details. 5Leaders in our survey were more likely than employees to report feeling safe suggesting new ways of working with AI (81% vs. 67%) and that their managers create space for AI experimentation (78% vs. 59%). They were also 2X more likely to report that reinvention of work with AI is rewarded regardless of outcome (21% vs. 10%). 6 Survey responses from 1,800 employees globally as part of the Microsoft People Science Agentic Teaming & Trust Survey (July 2025), including 819 leaders (C-suite, VP, Director), 520 managers, and 461 individual contributors external to Microsoft. 7 AI value was measured using a composite of self‑reported survey items assessing realized individual and team value from agentic AI use. Individual value (Agent RIVA) includes whether respondents report that agentic AI reduces work‑related stress; improves productivity; improves the quality of work or output; enables faster task completion; supports better decision‑making; and simplifies complex work tasks. Team value (Agent RTVA) includes whether respondents report that agentic AI improves team efficiency and the quality of their team’s output. Items are combined to reflect overall perceptions of AI value. 8 AI impact: A combination of outcome variables about how AI users report that AI is making an impact, including being more creative, doing new kinds of work, giving higher-quality first drafts, improving work ability, collaboration, feeling in control, improving career prospects, doing high-value work, and being more likely to stay at my company because of AI. See “AI Impact Analysis” in methodology for more details. 9 Organizational & individual factors: Based on composite indices capturing respondents’ perceptions of AI culture, manager support, and talent practices, as well as their own AI mindset, each derived from multiple survey items assessing behaviors, attitudes, and workplace conditions related to AI use. See “AI Impact Analysis” in methodology for more details. 10 Year over year change in the count of unique active agents in the Microsoft 365 Copilot Agents platform and SharePoint in a rolling 28-day period. See methodology for more details.",
+      "id": "p117",
+      "zh": "2AI 影响:关于AI用户如何报告AI正在产生影响的结果变量的组合,包括更有创造力,做新的工作,提供高质量的初稿,提高工作能力,合作,感觉在控制,改善职业前景,做高价值的工作,更可能留在我的公司 因为AI。见第3节,在方法中,“每个公司都是学习系统”或“AI影响分析”,以了解更多细节。3 详见方法中的“O*NET一般工作活动分享用户目标”。4 详见方法中的“工作趋势指数调查”。5 与雇员相比,我们调查中的领导者更可能报告感到安全,建议采用新的方式与大赦国际合作(81%对)。以及他们的管理人员为人工智能实验创造空间(78%对.(59%) (韩语).他们更可能报告说,与大赦国际合作的重新工作无论结果如何(21%对21%)都得到奖励。(百分比为10%)6 作为微软People Scientific Teaming & Trust Survey(2025年7月)的一部分,全球1 800名雇员的调查答复,包括819名领导人(C-套房,村长,主任,520名管理人员,和微软外部的461个人贡献者。7 人工智能值是使用自报调查项目的综合数据加以衡量的,评估了人工智能使用的单个和团队已实现的价值。个人价值(Agent RIVA)包括答复者是否报告代理AI减轻了与工作有关的压力;提高生产率;提高工作或产出的质量;能够更快地完成任务;支持更好的决策;并简化复杂的工作任务。团队价值(Agent RTVA)包括被调查者是否报告代理AI提高了团队效率和团队产出的质量.将项目合并,以反映对AI价值的总体看法。8 大赦国际的影响:关于AI用户如何报告AI正在产生影响的结果变量的组合,包括更有创造力,做新的工作,提供高质量的初稿,提高工作能力,合作,感觉在控制,改善职业前景,做高价值的工作,更可能留在我的公司 因为AI。详见方法中的“AI影响分析”。9 组织因素和个人因素:根据综合指数,反映受访者对人工智能文化的看法,管理支持,和人才实践,以及他们自己的AI心态,每一个来源于多个调查项目 评估行为,态度,与使用人工智能有关的工作场所条件。详见方法中的“AI影响分析”。微软365Copilot代理平台和SharePoint在28天的滚动期间,独具一格的代理商数量逐年变化.详见方法。",
+      "en": "2AI impact: A combination of outcome variables about how AI users report that AI is making an impact, including being more creative, doing new kinds of work, giving higher-quality first drafts, improving work ability, collaboration, feeling in control, improving career prospects, doing high-value work, and being more likely to stay at my company because of AI. See section 3, “Every firmis a learning system” or “AI Impact Analysis” in methodology for more details. 3 See “Share of User Goals by O*NET Generalized Work Activities” in the methodology for more details. 4 See “Work Trend Index Survey” in methodology for more details. 5Leaders in our survey were more likely than employees to report feeling safe suggesting new ways of working with AI (81% vs. 67%) and that their managers create space for AI experimentation (78% vs. 59%). They were also 2X more likely to report that reinvention of work with AI is rewarded regardless of outcome (21% vs. 10%). 6 Survey responses from 1,800 employees globally as part of the Microsoft People Science Agentic Teaming & Trust Survey (July 2025), including 819 leaders (C-suite, VP, Director), 520 managers, and 461 individual contributors external to Microsoft. 7 AI value was measured using a composite of self‑reported survey items assessing realized individual and team value from agentic AI use. Individual value (Agent RIVA) includes whether respondents report that agentic AI reduces work‑related stress; improves productivity; improves the quality of work or output; enables faster task completion; supports better decision‑making; and simplifies complex work tasks. Team value (Agent RTVA) includes whether respondents report that agentic AI improves team efficiency and the quality of their team’s output. Items are combined to reflect overall perceptions of AI value. 8 AI impact: A combination of outcome variables about how AI users report that AI is making an impact, including being more creative, doing new kinds of work, giving higher-quality first drafts, improving work ability, collaboration, feeling in control, improving career prospects, doing high-value work, and being more likely to stay at my company because of AI. See “AI Impact Analysis” in methodology for more details. 9 Organizational & individual factors: Based on composite indices capturing respondents’ perceptions of AI culture, manager support, and talent practices, as well as their own AI mindset, each derived from multiple survey items assessing behaviors, attitudes, and workplace conditions related to AI use. See “AI Impact Analysis” in methodology for more details. 10 Year over year change in the count of unique active agents in the Microsoft 365 Copilot Agents platform and SharePoint in a rolling 28-day period. See methodology for more details."
+    },
+    {
+      "kind": "heading",
+      "text": "Methodology",
+      "id": "p118",
+      "zh": "方法",
+      "en": "Methodology"
+    },
+    {
+      "kind": "heading",
+      "text": "Microsoft 365 Telemetry",
+      "id": "p119",
+      "zh": "微软 365 遥测",
+      "en": "Microsoft 365 Telemetry"
+    },
+    {
+      "kind": "paragraph",
+      "text": "All data is based on aggregated and anonymized Microsoft 365 productivity signals.",
+      "id": "p120",
+      "zh": "所有数据都基于汇总和匿名的微软365生产力信号.",
+      "en": "All data is based on aggregated and anonymized Microsoft 365 productivity signals."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Prompts per User: Number of prompts per user in a rolling 28-day period. Includes all countries and customer segments (including EU). Excludes government industry. Data spans March 2025 through March 2026. Agent creation platforms included are Agent Builder and Microsoft 365 Agents Toolkit.",
+      "id": "p121",
+      "zh": "每个用户提示 :滚动28天期间每个用户的提示数。包括所有国家和客户部分(包括欧盟)。不包括政府工业。数据跨度为2025年3月至2026年3月.包括代理创建平台的有代理构建器和微软365代理工具箱.",
+      "en": "Prompts per User: Number of prompts per user in a rolling 28-day period. Includes all countries and customer segments (including EU). Excludes government industry. Data spans March 2025 through March 2026. Agent creation platforms included are Agent Builder and Microsoft 365 Agents Toolkit."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Share of User Goals by O*NET Generalized Work Activities: The percentage of total Intermediate Work Activities (IWAs) detected in Microsoft 365 Copilot conversations that are mapped to Generalized Work Activities (GWA). This is calculated using a fractional share method: if a conversation contains multiple IWAs, each is counted fractionally (e.g., two IWAs in a conversation means each gets a count of 0.5). Commercial segments (excluding EDU). Includes North American countries only. 105,000 samples from 1 week of February 2026 data.",
+      "id": "p122",
+      "zh": "按O*NET一般工作活动分列的用户目标份额:在微软365Copilot对话中检测到的中级工作活动总数的百分比,这些对话被绘制成通用工作活动(GWA)。使用分数共享法计算:如果谈话包含多个IWA,每一个被分数计算(例如,两个IAWA在谈话中意味着每个都得到一个数0.5).商业部分(不包括EDU).仅包括北美国家。2026年2月1周数据样本10.5万份.",
+      "en": "Share of User Goals by O*NET Generalized Work Activities: The percentage of total Intermediate Work Activities (IWAs) detected in Microsoft 365 Copilot conversations that are mapped to Generalized Work Activities (GWA). This is calculated using a fractional share method: if a conversation contains multiple IWAs, each is counted fractionally (e.g., two IWAs in a conversation means each gets a count of 0.5). Commercial segments (excluding EDU). Includes North American countries only. 105,000 samples from 1 week of February 2026 data."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Monthly Active Agents Growth: Year over year change in the count of unique active agents observed through telemetry across the Microsoft 365 Copilot Agents platform and SharePoint agents in a rolling 28-day period. An agent counts as active if it has at least one day of user-initiated usage in the 28-day period or completes at least one autonomous run in that period. Includes all countries and customer segments (including EU). Data spans March 25 through March 26. Agent creation platforms included are AgentBuilder and Microsoft 365 Agents Toolkit.",
+      "id": "p123",
+      "zh": "每月活性剂增长:微软365Copilot代理平台和SharePoint代理公司通过遥测观察到的独特有效代理商数量逐年变化,滚动28天期间。如果代理人在28天内至少有一天用户主动使用,或在该期间内至少完成一次自主运行,则该代理人算作有效。包括所有国家和客户部分(包括欧盟)。数据跨度为3月25日至3月26日.包括代理创建平台的有代理Builder和Microsoft 365代理工具箱.",
+      "en": "Monthly Active Agents Growth: Year over year change in the count of unique active agents observed through telemetry across the Microsoft 365 Copilot Agents platform and SharePoint agents in a rolling 28-day period. An agent counts as active if it has at least one day of user-initiated usage in the 28-day period or completes at least one autonomous run in that period. Includes all countries and customer segments (including EU). Data spans March 25 through March 26. Agent creation platforms included are AgentBuilder and Microsoft 365 Agents Toolkit."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Monthly Active Firms: Count of unique firms who had at least one user who made at least one intentional usage with an agent in a rolling 28-day period. Includes all countries and customer segments (including EU). Data spans March 2025 through March 2026. Agent creation platforms included are Agent Builder and Microsoft 365 Agents Toolkit.",
+      "id": "p124",
+      "zh": "每月活动公司:拥有至少一名用户,在28天的滚动期内与一名代理商进行过至少一次故意使用的独特公司的数目。包括所有国家和客户部分(包括欧盟)。数据跨度为2025年3月至2026年3月.包括代理创建平台的有代理构建器和微软365代理工具箱.",
+      "en": "Monthly Active Firms: Count of unique firms who had at least one user who made at least one intentional usage with an agent in a rolling 28-day period. Includes all countries and customer segments (including EU). Data spans March 2025 through March 2026. Agent creation platforms included are Agent Builder and Microsoft 365 Agents Toolkit."
+    },
+    {
+      "kind": "heading",
+      "text": "STUDY: EMPOWERING MANAGERS FOR AN AI-FIRST FUTURE",
+      "id": "p125",
+      "zh": "研究:为AI-FIRTUTE提供代理经理",
+      "en": "STUDY: EMPOWERING MANAGERS FOR AN AI-FIRST FUTURE"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This analysis examines the evolving role of managers in AI-first organizations. The Microsoft People Science team analyzed survey responses from 1,800 employees globally as part of the Microsoft People Science Agentic Teaming & Trust Survey (July 2025), including 819 leaders (C-suite, VP, Director), 520 managers, and 461 individual contributors.",
+      "id": "p126",
+      "zh": "这一分析审查了AI-First组织管理人员不断变化的作用。微软People Science团队作为微软People Science Agentic Teaming & Trust Survey(2025年7月)的一部分,分析了全球1,800名员工的调查回应,包括819名领导人(C-套房,村长,主任,520名管理人员,和461名个人捐款者。",
+      "en": "This analysis examines the evolving role of managers in AI-first organizations. The Microsoft People Science team analyzed survey responses from 1,800 employees globally as part of the Microsoft People Science Agentic Teaming & Trust Survey (July 2025), including 819 leaders (C-suite, VP, Director), 520 managers, and 461 individual contributors."
+    },
+    {
+      "kind": "heading",
+      "text": "Work Trend Index Survey",
+      "id": "p127",
+      "zh": "工作趋势指数调查",
+      "en": "Work Trend Index Survey"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Work Trend Index survey was conducted by an independent research firm, Edelman Data x Intelligence, among 20,000 full-time employed or self-employed knowledge workers who use AI at work across 10 markets between February 18, 2026, and April 7, 2026. This survey was 20 minutes in length and conducted online, in either the English language or translated into a local language across markets. 2,000 full-time workers were surveyed in each market, and global results have been aggregated across all responses to provide an average. Global markets surveyed include: Australia, Brazil, France, Germany, India, Italy, Japan, Netherlands, United Kingdom, and United States. Audiences mentioned in the report are defined as follows:",
+      "id": "p128",
+      "zh": "工作趋势指数调查由一家独立研究公司进行,埃德尔曼数据X情报,2月18日,在10个市场上使用AI的20 000名全职就业或自谋职业的知识工作者中,2026, (英语).和4月7日的报告,2026 (英语).这项调查持续20分钟,并在网上进行,以英语或翻译成当地语言,跨越市场。在每个市场调查了2 000名全职工人,并汇总了所有答复的全球结果,以提供平均数。所调查的全球市场包括:澳大利亚布基纳法索法国德国,印度意大利日本,美国荷兰,联合王国,美国和美国。报告中提到的观众定义如下:",
+      "en": "The Work Trend Index survey was conducted by an independent research firm, Edelman Data x Intelligence, among 20,000 full-time employed or self-employed knowledge workers who use AI at work across 10 markets between February 18, 2026, and April 7, 2026. This survey was 20 minutes in length and conducted online, in either the English language or translated into a local language across markets. 2,000 full-time workers were surveyed in each market, and global results have been aggregated across all responses to provide an average. Global markets surveyed include: Australia, Brazil, France, Germany, India, Italy, Japan, Netherlands, United Kingdom, and United States. Audiences mentioned in the report are defined as follows:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI Users: AI users are knowledge workers who reported using generative AI for work at least occasionally (less than once a month, up to more than once per day). Respondents who selected “never” (or “don’t know”) were screened out of the survey.",
+      "id": "p129",
+      "zh": "AI 用户 :AI使用者是知识工作者,他们报告至少偶尔使用基因AI进行工作(每月不到一次,每天最多一次以上).选择 \" 永远 \" (或 \" 永远不知道 \" )的答卷人被从调查中筛选出来。",
+      "en": "AI Users: AI users are knowledge workers who reported using generative AI for work at least occasionally (less than once a month, up to more than once per day). Respondents who selected “never” (or “don’t know”) were screened out of the survey."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Leaders: Knowledge workers in middle to upper job levels (i.e., Senior Director, Vice President (VP), Senior Vice President (SVP), Executive Vice President (EVP), General Manager (GM), President, C-Suite (e.g., CEO, CFO, COO), and have at least some decision-making influence related to hiring, budgeting, employee benefits, internal communications, operations, etc.",
+      "id": "p130",
+      "zh": "领导人:中级至高级知识工作者(即:高级主任,副总统(副总统),高级副总统,执行副总统(EVP),总经理(总经理),庭长,C套房(例如,首席执行官首席财务干事,COO), (英语:并且至少具有一些与雇用有关的决策影响,预算编制,雇员福利,内部通信,业务,页:1",
+      "en": "Leaders: Knowledge workers in middle to upper job levels (i.e., Senior Director, Vice President (VP), Senior Vice President (SVP), Executive Vice President (EVP), General Manager (GM), President, C-Suite (e.g., CEO, CFO, COO), and have at least some decision-making influence related to hiring, budgeting, employee benefits, internal communications, operations, etc."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Employees: Knowledge workers who are not in middle to upper job levels or have no influence on decision-making related to hiring, budgeting, employee benefits, internal communications, operations, etc.",
+      "id": "p131",
+      "zh": "雇员:知识工作者,非中上层工作,或对与雇用有关的决策没有影响;预算编制,雇员福利,内部通信,业务,页:1",
+      "en": "Employees: Knowledge workers who are not in middle to upper job levels or have no influence on decision-making related to hiring, budgeting, employee benefits, internal communications, operations, etc."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Frontier Professionals: To identify Frontier Professionals, we used a definition grounded in how people self-report how they are working with AI. Respondents were classified as Frontier Professionals only if they reported a combination of three distinct sets of behaviors: Advanced use of AI agents to complete complex or multi-step work; routine redesign of workflows to take advantage of what AI can do well; participation in structured, repeatable AI-enabled practices that can scale beyond individual use. They represent 3,233 of the 20,000 AI users surveyed. 44% are business decision makers, and 56% are employees. 50% are millennials, 23% Gen X, 22% Gen Z, and 4% Boomers. Frontier Professionals are more likely to work in tech (35%) or financial services (12%), with roles in IT (36%) or finance and accounting (11%). They tend to be in larger organizations (53% in companies with 500+ employees).",
+      "id": "p132",
+      "zh": "边疆专业人员:确定边境专业人员,我们使用的定义基于 人们如何自我报告 他们是如何与AI合作。被调查者只有在报告三种不同行为组合的情况下才被归类为边境专业人员:高级使用人工智能代理人来完成复杂或多步骤的工作;定期重新设计工作流程,以利用人工智能能够做的好事;参与结构化、可重复的人工智能辅助做法,其规模可以超越个人使用范围。在调查的20 000名AI用户中,有3 233人。44%是商业决策者,56%是雇员。50%是千年,23%的源X,22%的Gen Z,和4%的轰击。边境专业人员更有可能从事技术(35%)或金融服务(12%);在信息技术(36%)或财务和会计(11%)中发挥作用。它们往往在较大的组织中(53%在雇员超过500人的公司中)。",
+      "en": "Frontier Professionals: To identify Frontier Professionals, we used a definition grounded in how people self-report how they are working with AI. Respondents were classified as Frontier Professionals only if they reported a combination of three distinct sets of behaviors: Advanced use of AI agents to complete complex or multi-step work; routine redesign of workflows to take advantage of what AI can do well; participation in structured, repeatable AI-enabled practices that can scale beyond individual use. They represent 3,233 of the 20,000 AI users surveyed. 44% are business decision makers, and 56% are employees. 50% are millennials, 23% Gen X, 22% Gen Z, and 4% Boomers. Frontier Professionals are more likely to work in tech (35%) or financial services (12%), with roles in IT (36%) or finance and accounting (11%). They tend to be in larger organizations (53% in companies with 500+ employees)."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Organization vs. Employee AI Readiness Index: The Organization vs. Employee AI Readiness Index places each respondent on two self-reported dimensions: how ready they are as an individual to work with AI (a composite of usage sophistication, self-efficacy, proactive behaviors, and self-reported value creation) and how ready their organization is to support AI use (a composite of organizational AI culture, manager support, governance maturity, and AI in performance evaluation). Both dimensions are normalized 0 to 1 within each market before pooling. Each respondent is then assigned to one of five mutually exclusive zones: Frontier (clearly above median on both readiness dimensions, 19%), Blocked Agency (high individual, low organizational, 10%), Unclaimed Capacity (low individual, high organizational, 5%), Stalled (clearly below median on both, 16%), and the Emergent Zone (50%). The index is calculated on 16,971 respondents. Pearson correlation between the two readiness dimensions is r = 0.55.",
+      "id": "p133",
+      "zh": "组 织 vs.雇员AI准备程度指数:组织与组织雇员AI准备程度指数将每个答复者置于两个自我报告的方面:他们作为个人如何愿意与AI合作(使用精密的组合,自我效能,积极的行为,和自我报告的价值创造)及其组织如何准备支持AI的使用(组织AI文化的复合体,管理支持,治理成熟,以及评估业绩时的大赦国际。两个维度在集成之前在每一个市场内均实现0比1的正常化.然后,每个被申请人被分配到五个相互隔离区中的一个:前沿(在两个准备程度上明显高于中位数,19%),被封锁的机构(高级个人,组织水平低,10%), (中文(简体) ).无人认领的能力(低个人,组织级别高,5%),已安装(明显低于两者的中位数,16%),和紧急区(50%)。该指数按16 971个答卷人计算。两个备战维度之间的皮尔逊相关性为r=0.55.",
+      "en": "Organization vs. Employee AI Readiness Index: The Organization vs. Employee AI Readiness Index places each respondent on two self-reported dimensions: how ready they are as an individual to work with AI (a composite of usage sophistication, self-efficacy, proactive behaviors, and self-reported value creation) and how ready their organization is to support AI use (a composite of organizational AI culture, manager support, governance maturity, and AI in performance evaluation). Both dimensions are normalized 0 to 1 within each market before pooling. Each respondent is then assigned to one of five mutually exclusive zones: Frontier (clearly above median on both readiness dimensions, 19%), Blocked Agency (high individual, low organizational, 10%), Unclaimed Capacity (low individual, high organizational, 5%), Stalled (clearly below median on both, 16%), and the Emergent Zone (50%). The index is calculated on 16,971 respondents. Pearson correlation between the two readiness dimensions is r = 0.55."
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI Impact Analysis: The AI Impact Analysis identifies which of 29 measured factors are most strongly associated with workers reporting that AI is delivering real impact at work. The 29 factors are organized into three categories — organizational environment (10 factors describing the workplace), individual mindset and behavior (9 factors describing the worker's own orientation toward AI), and demographics (10 factors including job level, industry, market, generation, and AI familiarity). Importance is measured by random forest permutation, with cross-validation by elastic net regression and gradient-boosted trees. All three model families produce the same category ranking and the same top correlates, with held-out test R² of 0.680, 0.689, and 0.690 respectively. The analysis was run on 19,854 respondents, after removing respondents' missing values on any of the 29 factors. Every variable in the analysis is self-reported by the same respondent at the same moment, so the relationships shown are statistical associations, not causal effects.",
+      "id": "p134",
+      "zh": "AI 影响分析:《大赦国际影响分析》确定,在29个衡量因素中,哪些因素与报告说大赦国际正在在工作中产生实际影响的工人关系最密切。29个因素分为三类——组织环境(10个因素说明工作场所);个人心态和行为(9个因素说明工人自己对AI的倾向),和人口统计(10个因素,包括工作水平,工业,市场,世代相传,以及大赦国际的熟悉情况。重要性通过随机的森林布局来衡量,由弹性网回归和渐变激发树进行交叉验证。所有三个模范家庭 产生相同的类别排名 和相同的顶级关联,持有试验R2为0.680,0.689, (英语).分别为0.690和0.690。对19 854个答复者进行了分析,在删除29个因素中任何一个因素的答复者缺失的数值之后。分析中的每个变量都在同一时刻由同一答复者自行报告,因此,显示的关系 是统计协会,不是因果效应。",
+      "en": "AI Impact Analysis: The AI Impact Analysis identifies which of 29 measured factors are most strongly associated with workers reporting that AI is delivering real impact at work. The 29 factors are organized into three categories — organizational environment (10 factors describing the workplace), individual mindset and behavior (9 factors describing the worker's own orientation toward AI), and demographics (10 factors including job level, industry, market, generation, and AI familiarity). Importance is measured by random forest permutation, with cross-validation by elastic net regression and gradient-boosted trees. All three model families produce the same category ranking and the same top correlates, with held-out test R² of 0.680, 0.689, and 0.690 respectively. The analysis was run on 19,854 respondents, after removing respondents' missing values on any of the 29 factors. Every variable in the analysis is self-reported by the same respondent at the same moment, so the relationships shown are statistical associations, not causal effects."
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI Impact: A combination of outcome variables about how employees report AI is making an impact on them including being more creative, doing new kinds of work, giving higher-quality first drafts, improving work ability, collaboration, feeling in control, improving career prospects, doing high-value work, and being more likely to stay at my company because of AI.",
+      "id": "p135",
+      "zh": "AI 影响 :综合了各种结果变量,说明雇员如何报告AI对他们产生影响,包括更具创造性。做新的工作,提供高质量的初稿,提高工作能力,合作,感觉在控制,改善职业前景,做高价值的工作,更可能留在我的公司 因为AI。",
+      "en": "AI Impact: A combination of outcome variables about how employees report AI is making an impact on them including being more creative, doing new kinds of work, giving higher-quality first drafts, improving work ability, collaboration, feeling in control, improving career prospects, doing high-value work, and being more likely to stay at my company because of AI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Org AI culture: How strongly the respondent says their organization has a culture aligned with AI, such as whether the organization overall is open and curious about AI, whether it feels safe to suggest new ways of working with AI, and whether people have confidence in their ability to use AI. Built from 10 survey items about the respondent's perception of their current workplace culture.",
+      "id": "p136",
+      "zh": "Org AI文化:被调查者说他们的组织 有着与大赦国际一致的文化,例如该组织整体上是否开放,对大赦国际是否好奇,提出与大赦国际合作的新方式是否安全,以及人们是否对使用AI的能力有信心.由关于被调查者对其当前工作场所文化的看法的10个调查项目所建.",
+      "en": "Org AI culture: How strongly the respondent says their organization has a culture aligned with AI, such as whether the organization overall is open and curious about AI, whether it feels safe to suggest new ways of working with AI, and whether people have confidence in their ability to use AI. Built from 10 survey items about the respondent's perception of their current workplace culture."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Manager support: How much the respondent says their direct manager actively supports them using AI, including encouraging experiments, modeling AI use themselves, making room for AI-enabled work in how the respondent is evaluated, and making it feel safe to try new things. Built from 5 items about the manager-employee relationship around AI.",
+      "id": "p137",
+      "zh": "管理器支持 :被调查人说他们的直接经理 积极支持他们使用AI,包括鼓励试验,模拟AI使用自己,* 为人工智能在如何评价被申请人方面提供空间,并让它觉得安全 尝试新的事物。由围绕AI的5项关于经理-雇员关系的项目所建.",
+      "en": "Manager support: How much the respondent says their direct manager actively supports them using AI, including encouraging experiments, modeling AI use themselves, making room for AI-enabled work in how the respondent is evaluated, and making it feel safe to try new things. Built from 5 items about the manager-employee relationship around AI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Talent practices: How much AI is built into the company's talent practices, such as investing in building people's skills, encouraging employees to try new domains or projects, and whether their manager is helping with professional development. Built from 6 items about the company's talent practices.",
+      "id": "p138",
+      "zh": "人才实践:公司人才实践中包含了多少人工智能,例如投资建设人的技能,鼓励雇员尝试新的领域或项目,以及他们的经理是否在帮助专业发展。由6件关于公司人才实践的工程建设而成.",
+      "en": "Talent practices: How much AI is built into the company's talent practices, such as investing in building people's skills, encouraging employees to try new domains or projects, and whether their manager is helping with professional development. Built from 6 items about the company's talent practices."
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI mindset: The respondent's own attitude toward AI, for example how confident they feel using it, openness to working with it, and how much they trust AI. Built from 10 items about the individual's own orientation toward AI.",
+      "id": "p139",
+      "zh": "大赦国际的心态:被告对大赦国际的态度,比如说,他们用它有多么自信,开放与它合作,他们多么信任AI。由10个关于个人自身对AI的取向的项目所建.",
+      "en": "AI mindset: The respondent's own attitude toward AI, for example how confident they feel using it, openness to working with it, and how much they trust AI. Built from 10 items about the individual's own orientation toward AI."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p4",
+      "zh": "我们分析了数万亿的无名微软365生产力信号,并调查了10个国家的20 000名工人使用AI1的情况。我们还与大赦国际的主要专家进行了交谈,工作时,和组织的心理学 帮助我们解开 洞察力 从数据 和了解这一切的去向。",
+      "en": "We analyzed trillions of anonymized Microsoft 365 productivity signals and surveyed 20,000 workers using AI1 across 10 countries. We also spoke with leading experts in AI, work, and organizational psychology to help us unpack the insights from the data and understand where all this is going."
+    },
+    {
+      "paragraphId": "p21",
+      "zh": "边疆专业人员在与大赦国际合作时,更加意识到人类判断的重要性。他们在调查中涉及批判性思维和质量控制的每一项措施中排名较高,这表现在如何工作上。",
+      "en": "Frontier Professionals are even more aware of the importance of human judgment when working with AI. They rank higher across every measure in the survey related to critical thinking and quality control—and that shows up in how they work."
+    },
+    {
+      "paragraphId": "p46",
+      "zh": "微软WTI 2026 Global Survey QQ 10 市场(美国,伯尔非洲联盟,内,贾普,法兰西州,发展司,这,诺尔,英国,由Edelman Data x Intelligence公司负责2月18日至4月20日,纽约2026  ⁇  分析n = 20,000个样本;16,971幅图中标有两轴的完整数据.两个轴都是自报的复合分数,在每个市场0比1正常,然后集合.个人准备状态综合了Q1(自我效能)的物品,问题4(AI使用精密),问题6(主动的AI行为),和问题22(价值创造)。组织准备状态综合了问题11(治理成熟)的项目,问题12(管理支持),问题14(考绩中的AI),和问题19(组织AI文化)。",
+      "en": "Microsoft WTI 2026 Global Survey | 10 markets (US, BR, AU, IN, JP, FR, DE, IT, NL, UK), fielded by Edelman Data x Intelligence, February 18–April 20, 2026 | Analyzed n = 20,000 sample; 16,971 plotted with complete data on both axes. Both axes are self-reported composite scores normalized 0–1 within each market before pooling."
+    },
+    {
+      "paragraphId": "p117",
+      "zh": "2AI 影响:关于AI用户如何报告AI正在产生影响的结果变量的组合,包括更有创造力,做新的工作,提供高质量的初稿,提高工作能力,合作,感觉在控制,改善职业前景,做高价值的工作,更可能留在我的公司 因为AI。见第3节,在方法中,“每个公司都是学习系统”或“AI影响分析”,以了解更多细节。",
+      "en": "2AI impact: A combination of outcome variables about how AI users report that AI is making an impact, including being more creative, doing new kinds of work, giving higher-quality first drafts, improving work ability, collaboration, feeling in control, improving career prospects, doing high-value work, and being more likely to stay at my company because of AI. See section 3, “Every firmis a learning system” or “AI Impact Analysis” in methodology for more details. 3 See “Share of User Goals by O*NET Generalized Work Activities” in the methodology for more details. 4 See “Work Trend Index Survey” in methodology for more details. 5Leaders in our survey were more likely than employees to report feeling safe suggesting new ways of working with AI (81% vs. 67%) and that their managers create space for AI experimentation (78% vs. 59%)."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "a6481fdba9ad78acb853670acf887428f696b336dac0c4abeec6a7f01e34340f"
+}

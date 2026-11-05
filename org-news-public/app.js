@@ -74,6 +74,90 @@
     return `<span lang="${lang}" class="copy-${lang==="en"?"en":"zh"}">${esc(value)}</span>`;
   }
   const companyLabel=(name)=>label(name,companyEnglish[name]);
+  const bodyCache=new Map();
+  let contentIndex={};
+  let bodyRequest=null;
+  async function loadContentIndex() {
+    try {
+      const response=await fetch("./content-index.json",{cache:"no-store",signal:AbortSignal.timeout(10000)});
+      if(!response.ok)return;
+      const payload=await response.json();
+      if(payload.schemaVersion!==1||!payload.articles)return;
+      for(const [id,body] of bodyCache){
+        const latest=payload.articles[id];
+        if(latest?.contentHash&&latest.contentHash!==body.contentHash)bodyCache.delete(id);
+      }
+      contentIndex=payload.articles;render();
+    }catch{}
+  }
+  function bodyNotice(zh,en) {
+    return `<div class="body-notice">${dualText(zh,en)}</div>`;
+  }
+  function prepareFullReader(a) {
+    bodyRequest?.abort();
+    const container=$("reader-content");
+    const summary=container.querySelector(".reader-summary");
+    const excerpt=document.createElement("details");
+    excerpt.className="reader-excerpt";
+    excerpt.innerHTML="<summary>导读摘要 / Introductory summary</summary>";
+    summary.before(excerpt);excerpt.append(summary);
+    const supplement=document.createElement("details");
+    supplement.className="reader-supplement";
+    supplement.innerHTML="<summary>学习补充与信息边界 / Reflections & evidence limits</summary>";
+    container.querySelector(".reader-source").before(supplement);
+    container.querySelectorAll(".reader-section").forEach(section=>supplement.append(section));
+    const content=document.createElement("div");
+    content.id="full-article-content";
+    content.setAttribute("aria-live","polite");
+    excerpt.after(content);
+    content.innerHTML=bodyNotice("正在读取正文与核心观点…","Loading article text and key points…");
+    loadArticleBody(a);
+  }
+  async function loadArticleBody(a) {
+    const controller=new AbortController();bodyRequest=controller;
+    const timer=setTimeout(()=>controller.abort(),15000);
+    let body=bodyCache.get(a.id);
+    if(body&&(body.url!==a.url||body.sourceTitle!==a.title)){bodyCache.delete(a.id);body=null;}
+    try {
+      if(!body){
+        const response=await fetch(`./articles/${encodeURIComponent(a.id)}.json`,{cache:"no-store",signal:controller.signal});
+        if(!response.ok)throw new Error("body_unavailable");
+        body=await response.json();
+        if(body.url!==a.url||body.sourceTitle!==a.title)throw new Error("body_mismatch");
+        if(body.status==="ready")bodyCache.set(a.id,body);
+      }
+      if(activeArticle?.id!==a.id||controller.signal.aborted)return;
+      renderArticleBody(a,body);
+    } catch {
+      if(activeArticle?.id!==a.id||bodyRequest!==controller)return;
+      $("full-article-content").innerHTML=bodyNotice("正文暂时无法读取，导读摘要和原文链接仍可查看。","Article text is temporarily unavailable. The introductory summary and original link remain available.");
+      $("reader-content").querySelector(".reader-excerpt").open=true;
+    } finally {clearTimeout(timer);}
+  }
+  function renderArticleBody(a,body) {
+    const region=$("full-article-content");
+    if(body.status!=="ready"||!Array.isArray(body.blocks)||!body.blocks.length){
+      const pending=body.status==="translation_pending";
+      region.innerHTML=bodyNotice(pending?"正文已抓取，中文翻译尚未完成；目前展示导读摘要。":"该来源暂未提供可获取的完整正文，当前仅有导读摘要；请通过原文链接查看。",pending?"The article has been extracted; translation is pending. The introductory summary is available below.":"Full article text could not be retrieved from this source. Only the introductory summary is available; use the original link for more.");
+      $("reader-content").querySelector(".reader-excerpt").open=true;
+      return;
+    }
+    const ids=new Set(body.blocks.map(block=>block.id));
+    $("reader-content").querySelector(".reader-meta span:last-child").textContent="正文阅读 / Article reading";
+    const points=(body.keyPoints||[]).filter(point=>ids.has(point.paragraphId));
+    region.innerHTML=`<section class="core-points"><div class="full-section-heading"><h3>核心观点提炼 <span lang="en">Key takeaways</span></h3><span>${points.length} 条</span></div><p class="content-method">${dualText("根据正文自动选取关键句，保留来源表述；点击可定位正文。","Key sentences selected from the article, preserving the source’s claims. Select one to find its paragraph.")}</p><ol>${points.map(point=>`<li><button class="point-link" data-paragraph="${esc(point.paragraphId)}">${dualText(point.zh,point.en)}<span class="point-reference">定位原文段落 / View paragraph ↘</span></button></li>`).join("")}</ol></section><section class="article-body-section"><div class="full-section-heading"><h3>原文内容 <span lang="en">Article text</span></h3><span>${body.blocks.length} 段 / paragraphs</span></div><div class="body-toolbar" role="group" aria-label="正文语言"><button data-body-mode="bilingual" aria-pressed="true">中英对照</button><button data-body-mode="zh" aria-pressed="false">中文</button><button data-body-mode="original" aria-pressed="false">原文 / Original</button></div><p class="content-method">${dualText("保留正文段落和小标题，移除导航与广告；图片、视频和交互内容请查看原站。译文为机器翻译。","Article paragraphs and headings are retained; navigation and ads are removed. Images, videos and interactive content remain on the source website. Translations are machine-generated.")}</p><div class="body-provenance">${esc(a.company)} · ${body.author?`${esc(body.author)} · `:""}正文采集 ${esc(new Date(body.fetchedAt).toLocaleString("zh-CN"))}</div><div class="full-article-body" data-mode="bilingual">${body.blocks.map((block,index)=>{
+        const tag=block.kind==="heading"?"h4":"p";
+        return `<${tag} id="body-${esc(block.id)}" class="body-block ${block.kind==="heading"?"body-heading":""}" tabindex="-1"><span class="paragraph-number" aria-label="段落 ${index+1}">${String(index+1).padStart(2,"0")}</span><span class="body-translated">${dualText(block.zh,block.en)}</span><span class="body-original" lang="${esc(body.language||"en")}">${esc(block.text)}</span></${tag}>`;
+      }).join("")}</div></section>`;
+    region.querySelectorAll("[data-paragraph]").forEach(button=>button.addEventListener("click",()=>{
+      const target=$(`body-${button.dataset.paragraph}`);
+      target?.scrollIntoView({behavior:"smooth",block:"start"});target?.focus({preventScroll:true});
+    }));
+    region.querySelectorAll("[data-body-mode]").forEach(button=>button.addEventListener("click",()=>{
+      region.querySelector(".full-article-body").dataset.mode=button.dataset.bodyMode;
+      region.querySelectorAll("[data-body-mode]").forEach(item=>item.setAttribute("aria-pressed",String(item===button)));
+    }));
+  }
   function validArticle(a) { return a && typeof a.id==="string" && typeof a.title==="string" && typeof a.company==="string" && Array.isArray(a.categories) && safeURL(a.url); }
   function allArticles() {
     const urls = new Set(data.articles.map(a=>safeURL(a.url).replace(/\/$/,"")));
@@ -169,6 +253,15 @@
       $("context-note").textContent=collection?collection.description:state.view==="live"?`${connected?"自动聚合标题与摘录":staticFeed?"公网订阅快照":"当前显示本机缓存"} · 中英对照，含机器翻译 · ${pending?"正在检查更新…":"按来源发布日期排序"}`:state.view==="history"?"按最近阅读时间排序；读过的文章仍可再次打开。":`精选整理于 ${formatDate(data.curatedAt)} · 按原文发布日期展示，历史案例单独标注。`;
       if(collection)$("context-note").innerHTML=dualText(collection.description,collection.descriptionEn);
       $("feed").innerHTML=articles.length?articles.map(card).join(""):renderEmpty();
+      $("feed").querySelectorAll(".article-card").forEach(element=>{
+        const identifier=element.querySelector("[data-open]")?.dataset.open;
+        const status=contentIndex[identifier]?.status;
+        if(!status)return;
+        const badge=document.createElement("span");
+        badge.className="tag body-status";
+        badge.textContent=status==="ready"?"站内全文 / Article text":status==="translation_pending"?"正文翻译中 / Translation pending":"仅摘要 / Summary only";
+        element.querySelector(".card-tags").prepend(badge);
+      });
       if(state.view==="home"&&!collection)$("context-note").textContent=`中英对照 · 含机器翻译，请以原始来源为准 · 按原文发布日期排序 / Chinese & English · Machine translations · Newest first`;
       $("sort").disabled=state.view==="history";
     }else if(state.view==="companies") renderCompanies();
@@ -198,7 +291,7 @@
         if(service.nextRefresh)details.querySelector("p").textContent+=` · 下次计划：${new Date(service.nextRefresh).toLocaleString("zh-CN")}（可能延迟）`;
       }
     }
-    if(state.view==="live")$("context-note").textContent="云端订阅快照 · 中英对照，含机器翻译 · 待核验 / Cloud RSS snapshot · Chinese & English · Unreviewed";
+    if(state.view==="live")$("context-note").textContent="云端订阅 · 点击阅读核心观点与可获取的正文 · 中英对照 / Open for key takeaways and available article text";
   }
   function markRead(id) {
     const article=allArticles().find(a=>a.id===id);if(article)personal.archived[id]={...article,bilingual:matchingTranslation(article)};
@@ -211,6 +304,7 @@
     activeArticle=a;markRead(id);render();
     const points=Array.isArray(a.points)?a.points:[];
     $("reader-content").innerHTML=`<div class="reader-label">${companyLabel(a.company)} <span>·</span> ${label(a.type,typeEnglish[a.type])}</div><h2 id="reader-title">${articleCopy(a,"title")}</h2><div class="reader-meta"><span>发布 / Published ${esc(formatDate(a.date))}</span><span>${a.eventDate?`事件时间 / Event ${esc(formatDate(a.eventDate))}`:"事件时间未单独核验 / Event date unverified"}</span><span>${a.live?"RSS 摘录 / RSS excerpt":"精选整理 / Curated"}</span></div><p class="reader-translation">${dualText("中英对照 · 含机器翻译，请以原始来源为准。","Chinese & English · Includes machine translation; refer to the original source.")}</p><p class="reader-summary">${articleCopy(a,"summary")}</p>${points.length?`<section class="reader-section"><h3>01 / 阅读要点 · Key points</h3><ul>${points.map((p,i)=>`<li>${articleCopy(a,"points",i)}</li>`).join("")}</ul></section>`:""}${a.takeaway?`<section class="reader-section"><h3>02 / 学习启发 · 本站整理 / Editorial reflection</h3><p>${articleCopy(a,"takeaway")}</p></section>`:""}${a.question?`<section class="reader-section reader-question"><h3>留一个问题给自己 / A question to consider</h3><p>${articleCopy(a,"question")}</p></section>`:""}<section class="reader-section"><h3>信息边界 / Evidence limits</h3><p>${a.caveat?articleCopy(a,"caveat"):dualText("自动获取的官方订阅摘要，尚未经人工核验。请阅读原文确认适用范围与实际结论。","This official RSS excerpt is collected automatically and has not been reviewed by an editor. Read the original source to confirm its scope and conclusions.")}</p></section><div class="reader-source"><a href="${esc(safeURL(a.url))}" target="_blank" rel="noopener noreferrer">阅读原始来源 / Original source ${icon("external")}</a><div>${articleCopy(a,a.sourceTitle?"sourceTitle":"title")}<br>${articleCopy(a,"source")}</div></div><div class="reader-actions"><button class="outline-button" id="reader-save" data-save="${esc(a.id)}">${icon("bookmark")} ${personal.saved.includes(a.id)?"已收藏 · 点击取消":"收藏这篇文章"}</button><button class="outline-button" id="copy-source">${icon("link")} 复制原文链接</button></div><label class="note-label" for="article-note">我的学习笔记</label><textarea class="note-textarea" id="article-note" maxlength="5000" placeholder="记下一点启发，或一个想继续追问的问题…">${esc(typeof personal.notes[a.id]==="string"?personal.notes[a.id]:"")}</textarea><div class="note-footer"><span id="note-status">${storageAvailable?"自动保存在本机，不会发送给其他人":"本机存储不可用，仅保留当前会话"}</span><span>最多 5,000 字</span></div>`;
+    prepareFullReader(a);
     $("article-note").addEventListener("input",e=>{if(e.target.value)personal.notes[a.id]=e.target.value;else delete personal.notes[a.id];const ok=savePersonal();$("note-status").textContent=ok?"已自动保存于本机":"保存不可用；请先复制笔记内容";});
     const unreadButton=document.createElement("button");
     unreadButton.className="outline-button";unreadButton.textContent="标为未读";
@@ -257,7 +351,9 @@
       if([...data.articles,...payload.articles].some(a=>!matchingTranslation(a,bundle)))throw new Error("incomplete translation");
       translations=bundle;
       try{localStorage.setItem("org-observer-bilingual-v1",JSON.stringify(bundle));}catch{}
-      return applyFeed(payload,true);
+      const applied=applyFeed(payload,true);
+      loadContentIndex();
+      return applied;
     }catch{connected=false;pending=false;$("refresh").disabled=false;$("sync-summary").textContent="读取更新失败 · 当前显示已有内容";if(state.view==="live"||state.view==="sources")render();return false;}
   }
   async function readService() {
@@ -300,7 +396,7 @@
   });
   $("close-reader").addEventListener("click",()=>$("reader").close());
   $("reader").addEventListener("click",e=>{if(e.target===$("reader")){const r=$("reader").getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$("reader").close();}});
-  $("reader").addEventListener("close",()=>activeArticle=null);
+  $("reader").addEventListener("close",()=>{activeArticle=null;bodyRequest?.abort();});
   $("search").addEventListener("input",e=>{state.query=e.target.value;if(!["home","live","saved","history"].includes(state.view))state.view="home";render();});
   $("company-filter").addEventListener("change",e=>{state.company=e.target.value;render();});
   $("period-filter").addEventListener("change",e=>{state.period=e.target.value;render();});

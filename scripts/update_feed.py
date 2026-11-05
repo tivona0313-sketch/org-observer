@@ -8,6 +8,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from translate_feed import prepare_bilingual, write_snapshots
+from update_content import update_content
 
 ROOT = Path(__file__).resolve().parents[1]
 spec = importlib.util.spec_from_file_location("org_news_server", ROOT / "org-news/server.py")
@@ -63,6 +64,7 @@ def refresh(output):
     }
     bilingual = prepare_bilingual(payload["articles"], output.parent)
     write_snapshots(output, payload, bilingual)
+    update_content(output.parent, payload["articles"])
     print(f'Updated {output.name}: {len(payload["articles"])} articles; {succeeded}/4 sources succeeded')
     return payload
 

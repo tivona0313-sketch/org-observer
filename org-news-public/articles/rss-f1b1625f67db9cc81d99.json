@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-f1b1625f67db9cc81d99",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+  "sourceTitle": "Dive into new topics with immersive explorations in the Gemini app.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:56.743685+00:00",
+  "fetchedAt": "2026-11-05T11:28:46.797786+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+  "language": "en",
+  "originalTitle": "Dive into new topics with immersive explorations in the Gemini app.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "The Gemini app now has a library of immersive explorations, giving you an interactive, visual way to explore topics layer-by-layer, from microscopic systems to deep space and more. You can access this library in the Gemini student hub by clicking on “Try immersive explorations” and will soon be able to access these immersive explorations directly in a chat conversation with Gemini.",
+      "id": "p1",
+      "zh": "Gemini应用软件现在有一个 浸泡探索的图书馆,给你一个互动,逐层探索话题的视觉方式,从微镜系统到深空 更多您可以点击“ 尝试浸润探索” 访问Gemini学生中心中的这个图书馆, 并很快可以在聊天中直接访问这些浸润探索跟Gemini的对话",
+      "en": "The Gemini app now has a library of immersive explorations, giving you an interactive, visual way to explore topics layer-by-layer, from microscopic systems to deep space and more. You can access this library in the Gemini student hub by clicking on “Try immersive explorations” and will soon be able to access these immersive explorations directly in a chat conversation with Gemini."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Whether it’s tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning, each scene unfolds into interactive and guided experiences. Tap a label to dig deeper, journeying from sweeping planetary scales straight down to molecules and atoms. Immersive explorations will soon include audio narration to walk you through each layer.",
+      "id": "p2",
+      "zh": "无论它是否追踪丝绸之路上的贸易路线,在喷气发动机内对视,或研究闪电的物理,每个场景都演绎成互动和有指导的经验.贴标签挖得更深,从横扫的行星鳞片 直下到分子和原子洞察力的探索很快会包括 音频的叙述 让你走遍每一层",
+      "en": "Whether it’s tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning, each scene unfolds into interactive and guided experiences. Tap a label to dig deeper, journeying from sweeping planetary scales straight down to molecules and atoms. Immersive explorations will soon include audio narration to walk you through each layer."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This feature is available to all users in English, Indonesian, Hindi, Brazilian Portuguese, French, and simplified Chinese. Users in all other languages currently receive an English-only experience, with more languages coming soon.",
+      "id": "p3",
+      "zh": "该功能可用英语向所有用户提供,印度尼西亚人,印地语巴西葡萄牙语法语和简化的中文。所有其他语言的用户目前只接受英语体验,很快会有更多语言出现",
+      "en": "This feature is available to all users in English, Indonesian, Hindi, Brazilian Portuguese, French, and simplified Chinese. Users in all other languages currently receive an English-only experience, with more languages coming soon."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the feature today.",
+      "id": "p4",
+      "zh": "探索今天的特性 。",
+      "en": "Explore the feature today."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Gemini应用软件现在有一个 浸泡探索的图书馆,给你一个互动,逐层探索话题的视觉方式,从微镜系统到深空 更多您可以点击“ 尝试浸润探索” 访问Gemini学生中心中的这个图书馆, 并很快可以在聊天中直接访问这些浸润探索跟Gemini的对话",
+      "en": "The Gemini app now has a library of immersive explorations, giving you an interactive, visual way to explore topics layer-by-layer, from microscopic systems to deep space and more. You can access this library in the Gemini student hub by clicking on “Try immersive explorations” and will soon be able to access these immersive explorations directly in a chat conversation with Gemini."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "无论它是否追踪丝绸之路上的贸易路线,在喷气发动机内对视,或研究闪电的物理,每个场景都演绎成互动和有指导的经验.贴标签挖得更深,从横扫的行星鳞片 直下到分子和原子洞察力的探索很快会包括 音频的叙述 让你走遍每一层",
+      "en": "Whether it’s tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning, each scene unfolds into interactive and guided experiences. Tap a label to dig deeper, journeying from sweeping planetary scales straight down to molecules and atoms."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "该功能可用英语向所有用户提供,印度尼西亚人,印地语巴西葡萄牙语法语和简化的中文。所有其他语言的用户目前只接受英语体验,很快会有更多语言出现",
+      "en": "This feature is available to all users in English, Indonesian, Hindi, Brazilian Portuguese, French, and simplified Chinese. Users in all other languages currently receive an English-only experience, with more languages coming soon."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "9691d22d2abd391513742b8e4e6cdcee5290b814f423d62a1227dac182ab9438"
+}

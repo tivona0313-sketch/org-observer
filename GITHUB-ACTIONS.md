@@ -27,6 +27,12 @@
 .github/workflows/update.yml
 scripts/update_feed.py
 scripts/translate_feed.py
+scripts/update_content.py
+scripts/extract_article.mjs
+scripts/package.json
+scripts/package-lock.json
+scripts/offline_translate.py
+scripts/requirements-content.txt
 org-news/server.py
 org-news-public/
   index.html
@@ -35,6 +41,8 @@ org-news-public/
   data.js
   feed.json
   bilingual.json
+  content-index.json
+  articles/<article-id>.json
 README.md
 .gitignore
 ```
@@ -47,19 +55,34 @@ README.md
 - 定时任务只从默认分支运行，请保持默认分支为 `main`。公开仓库长期没有活动时 GitHub 可能停用定时任务；发现停更请检查 Actions 是否需要重新启用。
 - 微软、Google、OpenAI、Meta 四个官方 RSS 按原有关键词筛选；最多累计保留 500 条，中文精选原始内容不自动改写。
 - 中英译文保存在 `bilingual.json`。相同原始文本复用缓存；新增和变更字段自动翻译，避免每次整批重复翻译。英文 RSS 保留英文，配中文译文；中文精选保留中文，配英文译文。
-- 翻译使用 Google Translate 的公开端点，无需 API Key；此端点没有可用性保障。最多三个请求并行，网络超时或 5xx 最多即时重试一次，429 等错误立即停止。若未来需要稳定服务，可替换 `translate_text` 为正式翻译 API。
-- 只有所需翻译全部完成才保存新快照并发布。翻译失败时工作流失败，保留旧快照和网站；前端核对快照与译文版本，避免发布缓存延迟导致错配。
+- 新译文使用 Argos Open Tech 1.9 离线模型，通过 CTranslate2 在本地或 Actions 运行，不依赖在线免费翻译接口。已有 Google 译文缓存继续复用。模型覆盖英中、中英、法英，法语先译为英文再译为中文；其他语种明确标为暂不支持。模型首次下载后缓存复用。
+- 只有标题、摘要及精选字段的翻译全部完成才保存新的列表快照。此阶段失败时工作流失败，保留旧快照和网站；前端核对列表快照与译文版本，避免发布缓存延迟导致错配。正文逐篇处理，单篇失败不阻止其他正文发布。
 - 单个来源失败：保留其旧内容与最近成功时间，其余来源继续更新。
 - 全部来源失败：工作流失败，保留旧快照和已发布网站，不能把旧数据标成刚刚更新。
 - 网页“刷新”读取最新已发布数据；立即发起采集需到 Actions 手动运行。打开中的网页每分钟检查一次已发布快照。
 - 页面时间表示采集时间。是否持续运行应以 Actions 的最新运行记录为准；全部失败时，网站仍显示上次成功发布的状态。
 - 收藏、笔记与阅读记录保存在访问者自己的浏览器，不上传到 GitHub。
 
+## 站内全文阅读
+
+- 点击资讯后按需读取该篇正文，不要求用户跳转。阅读页包括核心观点、正文、原文链接，原有摘要与学习补充折叠展示，笔记继续保留。
+- `scripts/update_content.py` 获取允许来源的公开 HTML，`extract_article.mjs` 用 Defuddle 提取正文，保留段落、小标题、列表和表格文字。移除导航、广告和推荐区；不抓取视频、交互式内容或图片。
+- 正文按段翻译，可选中英对照、中文、原文。原始语种单独保留，非英文来源也生成中文及英文译文。翻译不是人工审校。
+- 核心观点采用可追溯的关键句抽取，优先选择与标题相关、包含具体行动或数据的段落；不是独立事实核验或人工深度分析。每条观点可以在页内定位对应正文段落。
+- 内容保存为 `articles/<article-id>.json`。成功正文缓存复用；新文章进入提取翻译流程，标题或地址变更后重取。成功正文不会因临时失败被覆盖。此版本不会主动检测网页同标题下的静默正文修改。
+- 来源拒绝访问、跳转不安全、正文太短、超过抓取上限等均明确标为不可用；不绕过登录、付费墙或访问限制。获取失败后至少间隔 24 小时再尝试。翻译未完成单独标注，不将短摘要冒充全文。
+- 正文失败与标题摘要更新相互隔离，可成功的内容继续发布。网页仅渲染转义后的纯文本，来源 HTML 脚本不执行。
+- 首次下载的离线模型固定版本并核对 SHA-256。模型来自 [Argos Open Tech 模型索引](https://www.argosopentech.com/argospm/index/)，只缓存在运行环境，不随网站发布。
+- 长句按完整短句或分句翻译后回填原段落，并处理常见 AI 产品名和组织管理术语；仍可能存在用词或语境偏差。维护者调整术语后可运行 `python3 scripts/update_content.py --retranslate`，复用已抓取原文重新生成译文。
+
 ## 本地检查
 
-在解压后的仓库目录执行（Python 3.9+ 与 Node.js，无需安装第三方依赖；Actions 的 Ubuntu 环境已带 Node.js）：
+在解压后的仓库目录执行（Python 3.9+ 与 Node.js 22+）：
 
 ```sh
+npm ci --prefix scripts
+python3 -m pip install -r scripts/requirements-content.txt
+python3 scripts/offline_translate.py
 python3 scripts/update_feed.py
 python3 -m http.server 8767 --directory org-news-public
 ```

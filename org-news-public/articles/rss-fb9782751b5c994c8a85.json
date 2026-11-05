@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-fb9782751b5c994c8a85",
+  "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+  "sourceTitle": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:48:15.783178+00:00",
+  "fetchedAt": "2026-11-05T11:28:59.249318+00:00",
+  "finalURL": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+  "language": "en",
+  "originalTitle": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+  "author": "bettya",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision – in collaboration with the some of Italy’s leading sight loss charities – the Associazione Nazionale Subvedenti (ANS), the Unione Italiana dei Ciechi e degli Ipovedenti (UICI), and the Fondazione Istituto dei Ciechi di Milano.",
+      "id": "p1",
+      "zh": "今天,我们...梅塔,你好吗? Meta,Pinacoteca di Brera和EssilorLuxottica自豪地发起了“感知艺术 — — 发现超越眼界的杰作 ” 。 这个飞行员旨在探索AI眼镜如何制造。与意大利一些主要的失明慈善机构合作,(英语:ANS),意大利妇女联盟(意大利);以及米兰的Fondazione Istituto dei Ciechi di Milano。",
+      "en": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision – in collaboration with the some of Italy’s leading sight loss charities – the Associazione Nazionale Subvedenti (ANS), the Unione Italiana dei Ciechi e degli Ipovedenti (UICI), and the Fondazione Istituto dei Ciechi di Milano."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In one of the first projects of its kind in the world, Pinacoteca di Brera will use AI glasses developed by Meta and EssilorLuxottica to enhance the experience for blind and visually impaired people. Over one million people in Italy are blind or visually impaired, and art and culture is one of the places where accessibility can be a challenge. AI glasses give people who are blind or low vision access to transformative AI technology that can help with everyday tasks like reading text, identifying objects and accessing information about the world around them. At Meta we believe the future is for everyone, which is why we wanted to bring together this partnership.",
+      "id": "p2",
+      "zh": "在世界上最早的项目之一,Pinacoteca di Brera将使用Meta和EssilorLuxottica开发的AI眼镜,以提高盲人和视力受损者的经验。意大利有100多万人是盲人或视力受损者,艺术和文化是无障碍环境可成为挑战的场所之一。AI眼镜让盲目或低视力的人获得改造性的AI技术,这些技术可以帮助完成阅读文本等日常任务,查明物体并获取其周围世界的信息。在梅塔 我们相信未来是每个人的这就是为什么我们想把这种伙伴关系汇集在一起。",
+      "en": "In one of the first projects of its kind in the world, Pinacoteca di Brera will use AI glasses developed by Meta and EssilorLuxottica to enhance the experience for blind and visually impaired people. Over one million people in Italy are blind or visually impaired, and art and culture is one of the places where accessibility can be a challenge. AI glasses give people who are blind or low vision access to transformative AI technology that can help with everyday tasks like reading text, identifying objects and accessing information about the world around them. At Meta we believe the future is for everyone, which is why we wanted to bring together this partnership."
+    },
+    {
+      "kind": "heading",
+      "text": "How It Works at Pinacoteca di Brera",
+      "id": "p3",
+      "zh": "如何在比那科特卡-布雷拉开展工作",
+      "en": "How It Works at Pinacoteca di Brera"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The AI glasses have been integrated with the museum’s existing Grande Brera app, which includes an audio tour guide, developed by ANS for blind and low vision visitors. The tour uses the DescriVedendo method which translates an artwork’s shapes, composition and visual details into spoken words.",
+      "id": "p4",
+      "zh": "AI眼镜已经与博物馆现有的Grande Brera应用软件融合,它包括一个音频导游,由ANS为盲人和低视力访客开发.巡回演唱会使用DescriVedendo方法翻译艺术品的形状,构成和视觉细节为口语.",
+      "en": "The AI glasses have been integrated with the museum’s existing Grande Brera app, which includes an audio tour guide, developed by ANS for blind and low vision visitors. The tour uses the DescriVedendo method which translates an artwork’s shapes, composition and visual details into spoken words."
+    },
+    {
+      "kind": "paragraph",
+      "text": "When a visitor stands in front of one of eight selected artworks on the itinerary as part of this pilot, they can activate artwork recognition directly from the glasses and listen to the corresponding audio description through the open-ear speakers built into the frames. The open-ear speakers help the visitor stay fully aware of their surroundings and means they can engage more naturally with people around them.",
+      "id": "p5",
+      "zh": "当一名游客站在行程上的八件艺术品的前面 作为这个飞行员的一部分它们可以直接从眼镜中激活艺术品识别,并通过框内装的开耳扬声器聆听相应的音频描述.露天演讲者帮助来访者保持对其周围环境的充分认识,并意味着他们可以更自然地与周围的人接触.",
+      "en": "When a visitor stands in front of one of eight selected artworks on the itinerary as part of this pilot, they can activate artwork recognition directly from the glasses and listen to the corresponding audio description through the open-ear speakers built into the frames. The open-ear speakers help the visitor stay fully aware of their surroundings and means they can engage more naturally with people around them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The itinerary is completed by short orientation tracks between one work and the next.",
+      "id": "p6",
+      "zh": "行程由一项工作与下一项工作之间的短定向轨道完成。",
+      "en": "The itinerary is completed by short orientation tracks between one work and the next."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Visitors can also choose to utilize additional tools available through the AI glasses:",
+      "id": "p7",
+      "zh": "访问者还可以选择使用通过AI眼镜提供的其他工具:",
+      "en": "Visitors can also choose to utilize additional tools available through the AI glasses:"
+    },
+    {
+      "kind": "list",
+      "text": "Meta AI allows users to ask questions about the context and surrounding environment",
+      "id": "p8",
+      "zh": "Meta AI 允许用户询问上下文和周围环境",
+      "en": "Meta AI allows users to ask questions about the context and surrounding environment"
+    },
+    {
+      "kind": "list",
+      "text": "Be My Eyes connects visitors through the glasses with sighted volunteers and qualified operators to receive real-time support in orientation and practical task management, both during the tour.",
+      "id": "p9",
+      "zh": "Be My Eyes通过眼镜将来访者与有视力的志愿者和合格的操作员联系起来,以接受指导和实际任务管理方面的实时支持,巡演期间都这样",
+      "en": "Be My Eyes connects visitors through the glasses with sighted volunteers and qualified operators to receive real-time support in orientation and practical task management, both during the tour."
+    },
+    {
+      "kind": "heading",
+      "text": "Accessibility Is Built Together",
+      "id": "p10",
+      "zh": "无障碍是共同构建的",
+      "en": "Accessibility Is Built Together"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The pilot project was developed through phases of testing and consultation with blind and visually impaired people. Their direct involvement helped shape both the experience and how visitors access it.",
+      "id": "p11",
+      "zh": "试点项目是通过对盲人和视障者进行测试和咨询的阶段制定的。他们的直接参与有助于塑造这种经历以及参观者如何获得这种经历。",
+      "en": "The pilot project was developed through phases of testing and consultation with blind and visually impaired people. Their direct involvement helped shape both the experience and how visitors access it."
+    },
+    {
+      "kind": "paragraph",
+      "text": "“When innovation addresses real needs, it can create tangible value in people’s lives. Technology reaches its greatest potential when it succeeds in making information and daily experiences more accessible, natural, and immediate – like with our AI glasses. It is through initiatives like this—born from an ongoing dialogue with people with disabilities — that we work toward a future with more opportunities for everyone.” – Maxine Williams, VP Accessibility Meta",
+      "id": "p12",
+      "zh": "“当创新满足实际需要时,它可以为人们的生活创造实际价值。当技术成功地使信息和日常经验更容易获得时,技术就能够发挥最大潜力。自然而然的,就像我们的AI眼镜一样。正是通过这种举措——产生于与残疾人正在进行的对话——我们努力建设一个人人拥有更多机会的未来。”威廉姆斯 威廉姆斯 威廉姆斯VP 无障碍元",
+      "en": "“When innovation addresses real needs, it can create tangible value in people’s lives. Technology reaches its greatest potential when it succeeds in making information and daily experiences more accessible, natural, and immediate – like with our AI glasses. It is through initiatives like this—born from an ongoing dialogue with people with disabilities — that we work toward a future with more opportunities for everyone.” – Maxine Williams, VP Accessibility Meta"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“Making heritage accessible means creating the conditions so that everyone can build their own relationship with art. DescriVedendo has for years represented an important part of our commitment, and today we can enrich it with an additional possibility, born from the encounter between cultural expertise, technology, and people’s experience. The Pinacoteca continues to be a place of experimentation in which to explore new languages and tools capable of bringing a universal heritage closer to an ever-wider audience.” – Angelo Crespi, Director of Grande Brera",
+      "id": "p13",
+      "zh": "“使遗产易于获得意味着创造条件,使每个人都能建立自己与艺术的关系。DescriVedendo多年来是我们承诺的一个重要部分,而今天,我们可以以额外的可能来丰富它,从文化专长的交汇中诞生的,技术,和人民的经验。Pinacoteca继续是一个试验场所,探索能够使世界遗产更接近更广泛的受众的新语言和工具。”安杰洛・克雷斯皮,格兰德·布雷拉主任",
+      "en": "“Making heritage accessible means creating the conditions so that everyone can build their own relationship with art. DescriVedendo has for years represented an important part of our commitment, and today we can enrich it with an additional possibility, born from the encounter between cultural expertise, technology, and people’s experience. The Pinacoteca continues to be a place of experimentation in which to explore new languages and tools capable of bringing a universal heritage closer to an ever-wider audience.” – Angelo Crespi, Director of Grande Brera"
+    },
+    {
+      "kind": "heading",
+      "text": "How to Access the Tour",
+      "id": "p14",
+      "zh": "如何进入巡回赛",
+      "en": "How to Access the Tour"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The tour will be available at the Pinacoteca di Brera upon reservation, with AI glasses available Tuesday through Friday from 10:00 AM to 4:30 PM. For booking details and further information, please visit the page at this link.",
+      "id": "p15",
+      "zh": "参观活动预定时间在布雷拉广场(Pinacoteca di Brera)举行。周二至周五上午10:00至下午4: 30提供AI眼镜.关于预订细节和进一步信息,请访问此链接的页面。",
+      "en": "The tour will be available at the Pinacoteca di Brera upon reservation, with AI glasses available Tuesday through Friday from 10:00 AM to 4:30 PM. For booking details and further information, please visit the page at this link."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...梅塔,你好吗?Meta,Pinacoteca di Brera和EssilorLuxottica自豪地发起了“感知艺术 — — 发现超越眼界的杰作 ” 。",
+      "en": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision – in collaboration with the some of Italy’s leading sight loss charities – the Associazione Nazionale Subvedenti (ANS), the Unione Italiana dei Ciechi e degli Ipovedenti (UICI), and the Fondazione Istituto dei Ciechi di Milano."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "在世界上最早的项目之一,Pinacoteca di Brera将使用Meta和EssilorLuxottica开发的AI眼镜,以提高盲人和视力受损者的经验。意大利有100多万人是盲人或视力受损者,艺术和文化是无障碍环境可成为挑战的场所之一。",
+      "en": "In one of the first projects of its kind in the world, Pinacoteca di Brera will use AI glasses developed by Meta and EssilorLuxottica to enhance the experience for blind and visually impaired people. Over one million people in Italy are blind or visually impaired, and art and culture is one of the places where accessibility can be a challenge."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "AI眼镜已经与博物馆现有的Grande Brera应用软件融合,它包括一个音频导游,由ANS为盲人和低视力访客开发.巡回演唱会使用DescriVedendo方法翻译艺术品的形状,构成和视觉细节为口语.",
+      "en": "The AI glasses have been integrated with the museum’s existing Grande Brera app, which includes an audio tour guide, developed by ANS for blind and low vision visitors. The tour uses the DescriVedendo method which translates an artwork’s shapes, composition and visual details into spoken words."
+    },
+    {
+      "paragraphId": "p15",
+      "zh": "参观活动预定时间在布雷拉广场(Pinacoteca di Brera)举行。周二至周五上午10:00至下午4: 30提供AI眼镜.关于预订细节和进一步信息,请访问此链接的页面。",
+      "en": "The tour will be available at the Pinacoteca di Brera upon reservation, with AI glasses available Tuesday through Friday from 10:00 AM to 4:30 PM. For booking details and further information, please visit the page at this link."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "81caa00c4e8d50ffe6bde9ec5e6a832ccff03e1054a3c1a33694554130783fbe"
+}

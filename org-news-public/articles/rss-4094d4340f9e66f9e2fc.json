@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-4094d4340f9e66f9e2fc",
+  "url": "https://openai.com/index/qodo-codex-plugin",
+  "sourceTitle": "Qodo builds context into AI code review with Codex",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:26:55.995647+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:26:56.264853+00:00"
+}

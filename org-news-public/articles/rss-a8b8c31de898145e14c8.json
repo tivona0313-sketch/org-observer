@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-a8b8c31de898145e14c8",
+  "url": "https://openai.com/index/third-moment-research",
+  "sourceTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:17.051669+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:17.330191+00:00"
+}

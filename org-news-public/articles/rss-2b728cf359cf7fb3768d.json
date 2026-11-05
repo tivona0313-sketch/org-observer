@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-2b728cf359cf7fb3768d",
+  "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+  "sourceTitle": "AI in the learning era",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:08.413369+00:00",
+  "fetchedAt": "2026-11-05T11:37:24.076407+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+  "language": "en",
+  "originalTitle": "AI in the learning era",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We’re announcing major updates to our education portfolio: launching Guided Learning into Google Classroom globally, bringing Guided Learning capabilities to Google Search, and updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search for K-12 student accounts. We’re also sharing new research, new Google.org funding, and expanding AI training for educators.",
+      "id": "p1",
+      "zh": "我们正宣布我们教育组合的重要更新:在全球启动Google教室的《学习指南》,将指导性学习能力带入谷歌搜索,并更新我们控制Gemini的方法,Gemini笔记本,在教室的Gemini,和Google搜索K-12学生账户.我们也在分享新的研究成果,新的 Google.org 资助,扩大对教育工作者的人工智能培训。",
+      "en": "We’re announcing major updates to our education portfolio: launching Guided Learning into Google Classroom globally, bringing Guided Learning capabilities to Google Search, and updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search for K-12 student accounts. We’re also sharing new research, new Google.org funding, and expanding AI training for educators."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Read our full collection of updates below to learn how we’re building technology purpose-built for education. And check out more on our approach in our AI in Education report.",
+      "id": "p2",
+      "zh": "了解我们如何为教育打造技术。并在《教育报告》中更深入地研究一下我们的方法。",
+      "en": "Read our full collection of updates below to learn how we’re building technology purpose-built for education. And check out more on our approach in our AI in Education report."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们正宣布我们教育组合的重要更新:在全球启动Google教室的《学习指南》,将指导性学习能力带入谷歌搜索,并更新我们控制Gemini的方法,Gemini笔记本,在教室的Gemini,和Google搜索K-12学生账户.我们也在分享新的研究成果,新的 Google.org 资助,扩大对教育工作者的人工智能培训。",
+      "en": "We’re announcing major updates to our education portfolio: launching Guided Learning into Google Classroom globally, bringing Guided Learning capabilities to Google Search, and updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search for K-12 student accounts. We’re also sharing new research, new Google.org funding, and expanding AI training for educators."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "了解我们如何为教育打造技术。并在《教育报告》中更深入地研究一下我们的方法。",
+      "en": "Read our full collection of updates below to learn how we’re building technology purpose-built for education. And check out more on our approach in our AI in Education report."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "f42c02432ddf965ba6fb9964967663ac51e9d51bd5def514819db0af438bd683"
+}

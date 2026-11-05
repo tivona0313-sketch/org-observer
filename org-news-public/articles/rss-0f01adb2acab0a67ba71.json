@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-0f01adb2acab0a67ba71",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "sourceTitle": "How we detect frontier model misalignment",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:02.159264+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:02.425082+00:00"
+}

@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-bdfbcd1e218247afd5ad",
+  "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+  "sourceTitle": "What we’ve learned from Microsoft’s own AI transformation",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:48:35.975016+00:00",
+  "fetchedAt": "2026-11-05T11:29:01.651113+00:00",
+  "finalURL": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+  "language": "en",
+  "originalTitle": "What we’ve learned from Microsoft’s own AI transformation",
+  "author": "Kathleen Hogan",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms: human-led, but increasingly AI-enabled. That responsibility begins with how AI is built and continues through how it is put to work: AI should expand human capability while people retain meaningful control, judgment and accountability. We committed to being Customer Zero, learning through our own transformation so we could help others navigate their own.",
+      "id": "p1",
+      "zh": "AI正在比任何组织都更迅速地重塑工作。跨行业,对话已经从AI所能做的转向公司如何利用AI创造商业价值,扩大人们能够实现的目标.在微软,我们相信,成功的组织就是我们所称的边境公司:人类主导,却越来越受人工智能的驱动这种责任始于如何建立和继续通过如何实施大赦国际:大赦国际应扩大人的能力,同时保持有意义的控制,判断和问责制。我们承诺成为零客户通过我们自己的转变来学习 这样我们就可以帮助其他人 自己导航。",
+      "en": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms: human-led, but increasingly AI-enabled. That responsibility begins with how AI is built and continues through how it is put to work: AI should expand human capability while people retain meaningful control, judgment and accountability. We committed to being Customer Zero, learning through our own transformation so we could help others navigate their own."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our employees have experimented with AI, while leaders have set ambitious goals and challenged teams to reimagine how we work to achieve more than was possible before. We created cross-company councils spanning corporate functions, go-to-market and engineering to share best practices and learn together. We asked everyone to challenge their fixed mindsets and embrace the growth mindset we have cultivated for more than a decade. That work is producing measurable results: for a sales team deal close rates increased by 20%1; selected supply-chain workflows cut cycle time by up to 75%2; and a nine-person engineering team shipped an initial product release in 35 days.3",
+      "id": "p2",
+      "zh": "我们的员工已经尝试过AI,领导人制定了雄心勃勃的目标,要求各小组重新思考我们如何实现比以前可能实现的更多目标。我创立了跨公司理事会 跨公司职能,上市和工程,分享最佳做法,共同学习。我们要求每个人挑战他们固定的心态,接受我们十多年来所培养的增长心态。这项工作正在产生可衡量的成果:销售团队的近距离交易率增加20%;选定的供应链工作流程将周期时间缩短75%;和一支9人工程队在35天内运送了初步产品释放。",
+      "en": "Our employees have experimented with AI, while leaders have set ambitious goals and challenged teams to reimagine how we work to achieve more than was possible before. We created cross-company councils spanning corporate functions, go-to-market and engineering to share best practices and learn together. We asked everyone to challenge their fixed mindsets and embrace the growth mindset we have cultivated for more than a decade. That work is producing measurable results: for a sales team deal close rates increased by 20%1; selected supply-chain workflows cut cycle time by up to 75%2; and a nine-person engineering team shipped an initial product release in 35 days.3"
+    },
+    {
+      "kind": "paragraph",
+      "text": "As proven approaches emerged, we codified them into case studies so we could accelerate transformation, scale what worked and learn from what did not. Just as importantly, we knew that if we wanted to help customers realize the full value of AI, we had to do the work to transform ourselves first. Our own first-hand experience needed to be a source of learning we could share with others.",
+      "id": "p3",
+      "zh": "正如已经证明的方法所出现的那样,我们把它们编成案例研究 以便加速转型,衡量什么是有效的,从什么是无效的学习。同样重要的是,我们知道如果我们想帮助客户 了解AI的全部价值我们不得不首先努力改造自己。我们自己的第一手经验需要成为我们可以与他人分享的学习来源。",
+      "en": "As proven approaches emerged, we codified them into case studies so we could accelerate transformation, scale what worked and learn from what did not. Just as importantly, we knew that if we wanted to help customers realize the full value of AI, we had to do the work to transform ourselves first. Our own first-hand experience needed to be a source of learning we could share with others."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We have been sharing Microsoft’s Frontier Playbook with customers as a practical guide to our AI transformation journey, including what we’ve learned, what has worked so far and where we’ve grown from failures. Drawing on hundreds of AI transformation efforts across the company, the playbook captures what we are learning as we redesign work, build new capabilities, measure impact and help people grow alongside AI.",
+      "id": "p4",
+      "zh": "我们一直和客户分享微软的《前沿游戏手册》 作为我们AI转型旅程的实用指南,包括我们所学到的,以及我们从失败中成长的地方。利用全公司上百次的AI转型努力,游戏本记录了我们在重新设计工作时学到的东西,建立新能力,衡量影响,帮助人们与大赦国际一起成长。",
+      "en": "We have been sharing Microsoft’s Frontier Playbook with customers as a practical guide to our AI transformation journey, including what we’ve learned, what has worked so far and where we’ve grown from failures. Drawing on hundreds of AI transformation efforts across the company, the playbook captures what we are learning as we redesign work, build new capabilities, measure impact and help people grow alongside AI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The playbook also reflects important truths: transformation is hard, and learning is the durable superpower. Among the many insights gained from our successes and our failures, five lessons consistently stand out.",
+      "id": "p5",
+      "zh": "剧本也反映了重要的真相:转变很艰难,学习是永恒的超能力在从我们的成功和失败中获得的许多见解中,五个教训始终突出。",
+      "en": "The playbook also reflects important truths: transformation is hard, and learning is the durable superpower. Among the many insights gained from our successes and our failures, five lessons consistently stand out."
+    },
+    {
+      "kind": "heading",
+      "text": "1. Start with the business outcome, not the technology",
+      "id": "p6",
+      "zh": "一、导 言从业务结果开始不是技术",
+      "en": "1. Start with the business outcome, not the technology"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We initially treated AI like a traditional technology rollout: deploy the tools, provide training, drive adoption. We learned that access and usage do not equal transformation: a tool licensed to over 200,000 people does not change how the work gets done.",
+      "id": "p7",
+      "zh": "我们最初将AI视为传统技术的推出:部署这些工具,提供培训;驱动收养。我们了解到,获取和使用不等于转变:向20多万人发放许可证的工具不会改变工作方式。",
+      "en": "We initially treated AI like a traditional technology rollout: deploy the tools, provide training, drive adoption. We learned that access and usage do not equal transformation: a tool licensed to over 200,000 people does not change how the work gets done."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Early sales usage made this clear. Despite broad deployment, usage plateaued and impact did not materialize. Rather than push adoption harder, the team started from the business goals — deliver more value to customers, win deals and improve employee experience. They mapped how account managers spent their week and identified the best tools for the moments that mattered most: an Analyst agent for pipeline, a Deal agent for deal packages and Researcher for deep customer understanding. Weekly peer-led huddles turned experimentation into habit and scaled best practices to everyone on the team. Within the group, adoption of priority use cases tripled, revenue per account manager rose 9.4% and close rates were 20% higher.4",
+      "id": "p8",
+      "zh": "早期的销售用法表明了这一点。尽管部署广泛,使用没有稳定下来,影响也没有实现。而不是更努力地推动收养。团队从业务目标开始——为客户带来更多的价值,赢得交易并改进雇员的经验。他们描绘了账户管理者如何度过一周,并确定了最重要的时刻的最佳工具:输油管分析剂,a 交易包交易代理商和研究人员,以深入了解客户。每周由同行领导的搭载将实验变成习惯,并向团队中的每一个人推广最佳做法。团队内部,通过优先使用案例的三倍,每个账户经理的收入增加了9.4%,接近率提高了20%。",
+      "en": "Early sales usage made this clear. Despite broad deployment, usage plateaued and impact did not materialize. Rather than push adoption harder, the team started from the business goals — deliver more value to customers, win deals and improve employee experience. They mapped how account managers spent their week and identified the best tools for the moments that mattered most: an Analyst agent for pipeline, a Deal agent for deal packages and Researcher for deep customer understanding. Weekly peer-led huddles turned experimentation into habit and scaled best practices to everyone on the team. Within the group, adoption of priority use cases tripled, revenue per account manager rose 9.4% and close rates were 20% higher.4"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Success still required investment in helping people build new skills, experiment with new ways of working and learn from one another. But when leaders focused on a clear business outcome and what mattered most to the person doing the job, rather than AI adoption itself, conversations shifted from using AI to creating value.",
+      "id": "p9",
+      "zh": "成功仍然需要投资,帮助人们培养新的技能,试验新的工作方式,互相学习。但当领导者专注于明确的商业结果 以及对于做这个工作的人最重要的事情时,而不是AI收养本身,对话从使用AI转向创造价值.",
+      "en": "Success still required investment in helping people build new skills, experiment with new ways of working and learn from one another. But when leaders focused on a clear business outcome and what mattered most to the person doing the job, rather than AI adoption itself, conversations shifted from using AI to creating value."
+    },
+    {
+      "kind": "heading",
+      "text": "2. Redesign the entire workflow, not just individual tasks",
+      "id": "p10",
+      "zh": "2. 将第1款改为第2款。重新设计整个工作流程,不只是个别任务",
+      "en": "2. Redesign the entire workflow, not just individual tasks"
+    },
+    {
+      "kind": "paragraph",
+      "text": "One of our biggest lessons came from reimagining workflows end to end, not applying AI to existing steps. Early efforts helped people complete familiar tasks faster but rarely transformed outcomes. Adding agents to a broken process still leaves a broken process — speeding up one step just creates a longer queue at the next.",
+      "id": "p11",
+      "zh": "我们最大的教训之一 是从重新想象的工作流程 结束到结束,不对现有步骤适用大赦国际。早期的努力帮助人们更快地完成熟悉的任务,但很少改变结果。将代理添加到一个破碎的进程中仍然留下一个破碎的进程——加快一步只是在下一个过程中产生更长的队列.",
+      "en": "One of our biggest lessons came from reimagining workflows end to end, not applying AI to existing steps. Early efforts helped people complete familiar tasks faster but rarely transformed outcomes. Adding agents to a broken process still leaves a broken process — speeding up one step just creates a longer queue at the next."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our cloud supply chain team simplified its processes before reimagining them with agents. Supply chain experts and engineers worked side by side, first mapping and simplifying end-to-end workflows, then created a single source of truth so every agent reasoned from the same data. With that foundation in place, they deployed more than 100 purpose-built agents across planning, sourcing, fulfillment and logistics. Those agents investigate shifts in demand and model capacity while comparing transportation options across air, land and sea on cost, timing and carbon impact — complexity few teams could manage alone. Cycle time fell by up to 75% in selected workflows.",
+      "id": "p12",
+      "zh": "我们的云供应链团队简化了流程,然后再用物剂重新构思。供应链专家和工程师并肩工作,第一次绘制和简化端到端的工作流程,然后创造了一个单一的真相来源 所以每个智能体都从同样的数据中推理出来有了这个基础,他们在整个规划过程中部署了100多名特意建造的智能体,寻觅,实现与物流。这些代理人调查需求和示范能力的变化,同时比较整个空中的运输选择,陆上和海上成本,时间和碳影响——复杂性——很少有团队能够单独管理。在选定的工作流程中,循环时间下降了75%。",
+      "en": "Our cloud supply chain team simplified its processes before reimagining them with agents. Supply chain experts and engineers worked side by side, first mapping and simplifying end-to-end workflows, then created a single source of truth so every agent reasoned from the same data. With that foundation in place, they deployed more than 100 purpose-built agents across planning, sourcing, fulfillment and logistics. Those agents investigate shifts in demand and model capacity while comparing transportation options across air, land and sea on cost, timing and carbon impact — complexity few teams could manage alone. Cycle time fell by up to 75% in selected workflows."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The shift isn’t only about speed, it’s about adding new value by improving what the team can see, anticipate and act on. Within defined permissions and approval thresholds, agents have progressed from answering questions to helping planners update or cancel purchase orders directly. Planners who once spent five to seven days tracing why a demand plan changed can now get an answer in hours, and sometimes in less than 20 minutes. That makes it possible to analyze changes as planning cycles unfold, model more scenarios, build better contingency plans and identify risks earlier — helping the team make better decisions and improve the performance of the supply chain.5",
+      "id": "p13",
+      "zh": "转变不仅仅是速度问题,而是通过提高团队的视野来增加新的价值,预测并采取行动。在规定的许可和批准限度内,代理人从回答问题发展到帮助规划者直接更新或取消定购单。曾经花五到七天时间 追踪为什么需求计划改变的策划者 现在可以在数小时内得到答案有时不到20分钟这使得随着规划周期的展开分析变化成为可能,模拟更多情景,制定更好的应急计划,及早查明风险——帮助小组作出更好的决定,改善供应链的业绩。",
+      "en": "The shift isn’t only about speed, it’s about adding new value by improving what the team can see, anticipate and act on. Within defined permissions and approval thresholds, agents have progressed from answering questions to helping planners update or cancel purchase orders directly. Planners who once spent five to seven days tracing why a demand plan changed can now get an answer in hours, and sometimes in less than 20 minutes. That makes it possible to analyze changes as planning cycles unfold, model more scenarios, build better contingency plans and identify risks earlier — helping the team make better decisions and improve the performance of the supply chain.5"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We are seeing the same shift in software engineering, where the opportunity extends beyond generating code faster to redesigning how teams plan, build, test and evaluate products with agents across the workflow.",
+      "id": "p14",
+      "zh": "我们在软件工程上也看到了同样的转变机会从更快生成代码到重新设计团队计划的方式,建造,测试和评价跨工作流程的代理产品。",
+      "en": "We are seeing the same shift in software engineering, where the opportunity extends beyond generating code faster to redesigning how teams plan, build, test and evaluate products with agents across the workflow."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’ve found the largest gains come when teams step back and redesign how work should flow across people, process and technology from start to finish — including what agents can access and do, how their actions are monitored and where people must review, approve or intervene. AI is most powerful when all three advance together.",
+      "id": "p15",
+      "zh": "我们发现,当团队退后并重新设计工作应如何跨人流动时,最大的收益就来了,工艺和技术从开始到完成——包括哪些代理人能够进入和完成,如何监测他们的行动,以及人们必须在哪里进行审查,批准或干预。三者齐进时,AI最有威力.",
+      "en": "We’ve found the largest gains come when teams step back and redesign how work should flow across people, process and technology from start to finish — including what agents can access and do, how their actions are monitored and where people must review, approve or intervene. AI is most powerful when all three advance together."
+    },
+    {
+      "kind": "heading",
+      "text": "3. Put employees at the center of transformation",
+      "id": "p16",
+      "zh": "3 (简体中文).把员工放在转型的中心",
+      "en": "3. Put employees at the center of transformation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The people who do the work know where processes break down, where judgment matters and where AI could help — insights that no process map can fully capture. Their expertise needs to shape transformation from the start. Leaders are responsible for setting a clear ambition, helping employees build the skills to contribute and giving them a meaningful role in deciding how the work changes.",
+      "id": "p17",
+      "zh": "做这项工作的人知道 过程在哪里破裂,判断和大赦国际可以帮助的地方——任何进程图都无法充分捕捉的洞察力。他们的专长需要从一开始就形成转变。领导者有责任制定明确的雄心壮志,帮助雇员建立贡献技能,并让他们在决定工作如何变化方面发挥有意义的作用。",
+      "en": "The people who do the work know where processes break down, where judgment matters and where AI could help — insights that no process map can fully capture. Their expertise needs to shape transformation from the start. Leaders are responsible for setting a clear ambition, helping employees build the skills to contribute and giving them a meaningful role in deciding how the work changes."
+    },
+    {
+      "kind": "paragraph",
+      "text": "At Microsoft, we are creating hands-on ways for employees to build those skills. An early in career development program PRAISE pairs emerging engineers with experienced preceptors and AI-assisted learning, helping newer engineers contribute to complex work while developing their craft.",
+      "id": "p18",
+      "zh": "在微软,我们正在创造实际操作的方法 让员工建立这些技能。早期的职业发展计划PRAISE 配对新兴工程师 经验丰富的控制器和人工智能辅助学习,帮助较新的工程师在开发他们的工艺品的同时,为复杂的工作作出贡献。",
+      "en": "At Microsoft, we are creating hands-on ways for employees to build those skills. An early in career development program PRAISE pairs emerging engineers with experienced preceptors and AI-assisted learning, helping newer engineers contribute to complex work while developing their craft."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Camp AIR is a multi-week AI transformation accelerator that helps cross-functional teams learn new AI capabilities while redesigning how they work together around a real business challenge. An early pilot taught us that AI transformation is a team sport and that tools and training alone were not enough. While individuals could learn new technologies independently, meaningful and lasting change occurred when teams learned, experimented and adapted together. Teams needed candid conversations about how AI would reshape roles and workflows, along with the freedom to experiment safely and build confidence in new ways of working. We could not future-proof all jobs as they exist today, but we could help employees future-proof their careers by developing the skills, adaptability and mindset needed to succeed as work evolves.",
+      "id": "p19",
+      "zh": "AIR营是一个多星期的AI变换加速器,帮助跨功能团队学习新的AI能力,同时重新设计他们如何围绕一个真正的企业一起工作.挑战。一位早期的飞行员告诉我们,AI转型是一种团队运动,单靠工具和培训是不够的.虽然个人可以独立学习新技术,当团队了解到时,发生了有意义和持久的变化,实验和改造在一起。团队需要坦诚的对话,探讨AI如何重塑角色和工作流程,以及安全试验和在新的工作方式中建立信任的自由。我们无法为今天的所有工作 提供未来保护但是,我们可以帮助员工 通过开发技能来抵御未来的职业,适应性和心态需要随着工作的发展而取得成功。",
+      "en": "Camp AIR is a multi-week AI transformation accelerator that helps cross-functional teams learn new AI capabilities while redesigning how they work together around a real business challenge. An early pilot taught us that AI transformation is a team sport and that tools and training alone were not enough. While individuals could learn new technologies independently, meaningful and lasting change occurred when teams learned, experimented and adapted together. Teams needed candid conversations about how AI would reshape roles and workflows, along with the freedom to experiment safely and build confidence in new ways of working. We could not future-proof all jobs as they exist today, but we could help employees future-proof their careers by developing the skills, adaptability and mindset needed to succeed as work evolves."
+    },
+    {
+      "kind": "paragraph",
+      "text": "That lesson became a core design principle of Camp AIR and has helped the program scale to more than 3,000 engineers across that organization.",
+      "id": "p20",
+      "zh": "该课程成为AIR营的核心设计原则,帮助整个组织将方案规模扩大到3 000多名工程师。",
+      "en": "That lesson became a core design principle of Camp AIR and has helped the program scale to more than 3,000 engineers across that organization."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The team behind Copilot Cowork shows what this can look like in practice. The nine-person team of engineers, designers and product managers was given the freedom to rethink how a product gets built, with AI embedded from day one. Working alongside agents, their roles expanded into what they called meta-engineers, meta-designers and meta-PMs. Together, they shipped an initial release in 35 days and documented what they learned so other teams could build on it.6",
+      "id": "p21",
+      "zh": "\"Copilot合作\"背后的团队展示了这在实际中可能是什么样子.九人小组的工程师,设计师和产品管理者被赋予了重新思考产品如何建造的自由,与AI嵌入 从第一天。和智能体一起工作,他们的角色被扩展为所谓的元工程师,元设计师与元PM.{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起 {\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起他们在35天内运送了最初的释放,并记录了他们学到的东西,以便其他小组能够在此基础上更上一层楼。",
+      "en": "The team behind Copilot Cowork shows what this can look like in practice. The nine-person team of engineers, designers and product managers was given the freedom to rethink how a product gets built, with AI embedded from day one. Working alongside agents, their roles expanded into what they called meta-engineers, meta-designers and meta-PMs. Together, they shipped an initial release in 35 days and documented what they learned so other teams could build on it.6"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In our experience, leaders set outcomes and accountability, while the people closest to the work see where AI adds value and where human judgment must stay central. Managers connect the two, and their role-modeling and support has been one of the strongest predictors of success. Our research bears this out: when managers actively model AI use, reported value from agentic AI rises 17 points and trust in it rises 30 points — and employees on teams where managers create psychological safety are 1.4 times as likely to be high-frequency users of agentic AI. Where employees have context, capability and agency, they can become the engine of transformation.",
+      "id": "p22",
+      "zh": "根据我们的经验,领导人确定成果和问责制,而最接近工作的人则看AI能增加什么价值,而人类的判断必须放在中心位置。经理将两者连接起来,以及他们的角色建模和支持一直是成功的最强预测者之一。我们的研究证实了这一点:当管理者积极模拟AI使用时,来自代理AI的举报值上升了17分,对它的信任上升了30分——而管理人员创造心理安全的团队中的雇员比他们可能高1.4倍。代理AI的高频用户.如果员工有背景,能力和机构,它们可以成为转变的引擎。",
+      "en": "In our experience, leaders set outcomes and accountability, while the people closest to the work see where AI adds value and where human judgment must stay central. Managers connect the two, and their role-modeling and support has been one of the strongest predictors of success. Our research bears this out: when managers actively model AI use, reported value from agentic AI rises 17 points and trust in it rises 30 points — and employees on teams where managers create psychological safety are 1.4 times as likely to be high-frequency users of agentic AI. Where employees have context, capability and agency, they can become the engine of transformation."
+    },
+    {
+      "kind": "heading",
+      "text": "4. Use AI to expand what people can do",
+      "id": "p23",
+      "zh": "4个。用人工智能来扩展人们所能做的",
+      "en": "4. Use AI to expand what people can do"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We started where many companies start: automating tasks to increase efficiency. That value is real, but only the beginning. We realized over time the larger opportunity is “Capability Add”: combining human and AI strengths to achieve outcomes that were previously impractical or impossible. Think of it as an equation: CI + AI = CA. Continuous improvement takes waste out and AI adds capability in. Together, they produce Capability Add — output with higher strategic value. Continuous improvement alone results in a leaner version of the old company; Capability Add creates a different one. This equals transformation.",
+      "id": "p24",
+      "zh": "我们开始很多公司开始的地方:自动化任务以提高效率。这个价值是真实的,但只有开始。我们逐渐认识到,更大的机会是“能力加”:将人和人工智能的优势结合起来,取得以前不切实际或不可能取得的结果。把它当作一个方程式:CI + AI = CA. (中文(简体) ).不断改进会浪费精力,AI会增加能力。{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起 {\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}我们一起它们产生能力增加——具有较高战略价值的产出。仅靠不断的改进,就能使旧公司更精简;能力 添加 创建一个不同的功能 。这相当于转变。",
+      "en": "We started where many companies start: automating tasks to increase efficiency. That value is real, but only the beginning. We realized over time the larger opportunity is “Capability Add”: combining human and AI strengths to achieve outcomes that were previously impractical or impossible. Think of it as an equation: CI + AI = CA. Continuous improvement takes waste out and AI adds capability in. Together, they produce Capability Add — output with higher strategic value. Continuous improvement alone results in a leaner version of the old company; Capability Add creates a different one. This equals transformation."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In our latest Work Trend Index, 58% of AI users said AI helps them do work they could not do before — it was 80% among advanced users. In our case examples, it looks like predicting a quality failure instead of catching it or exploring twenty options where a team had time for three.",
+      "id": "p25",
+      "zh": "在最新工作趋势指数中,58%的AI用户表示AI帮助他们做以前无法完成的工作——在高级用户中是80%.在我们的例子中,它看起来像是预测质量失败而不是抓住它 或者探索20个选项 一个团队有时间做3个。",
+      "en": "In our latest Work Trend Index, 58% of AI users said AI helps them do work they could not do before — it was 80% among advanced users. In our case examples, it looks like predicting a quality failure instead of catching it or exploring twenty options where a team had time for three."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This broader view shapes how we measure ROI. We like to say efficiency is the floor; capability is the ceiling. Usage and adoption, along with improvements in speed, quality and cost, are important signals. But the ultimate measure is whether AI improves customer and employee experiences, drives growth and innovation, reduces risk and expands what the organization can accomplish. Because those outcomes can take time to emerge, we also track leading indicators. For account managers, that might mean more time with customers, a stronger pipeline or better win rates before revenue gains fully materialize. For an engineer, it is not how much code AI produces, but whether the team is building better products faster.",
+      "id": "p26",
+      "zh": "这种更广泛的观点决定了我们如何衡量ROI.我们想说,效率就是地板;能力是上限。使用和收养,随着速度的提高,质量和成本,是重要的信号。但最终的衡量标准是AI是否改善客户和员工的经验,推动增长和创新,减少风险,扩大本组织能够完成的任务。因为产生这些结果需要时间,我们还跟踪主要指标。对于账户管理人员来说,这可能意味着更多的时间与客户,在收入收益完全实现之前,建立更强大的管道或更好的赢利率。对于一个工程师来说,并不是人工智能生产多少代码,但团队是否正在更快地打造更好的产品.",
+      "en": "This broader view shapes how we measure ROI. We like to say efficiency is the floor; capability is the ceiling. Usage and adoption, along with improvements in speed, quality and cost, are important signals. But the ultimate measure is whether AI improves customer and employee experiences, drives growth and innovation, reduces risk and expands what the organization can accomplish. Because those outcomes can take time to emerge, we also track leading indicators. For account managers, that might mean more time with customers, a stronger pipeline or better win rates before revenue gains fully materialize. For an engineer, it is not how much code AI produces, but whether the team is building better products faster."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We encourage teams to look beyond efficiency and ask, “What could our people accomplish that they couldn’t before?”",
+      "id": "p27",
+      "zh": "我们鼓励团队超越效率,要求,“我们的人民能实现他们以前无法实现的什么?”",
+      "en": "We encourage teams to look beyond efficiency and ask, “What could our people accomplish that they couldn’t before?”"
+    },
+    {
+      "kind": "heading",
+      "text": "5. Combine human and AI capability to create a continuously learning organization",
+      "id": "p28",
+      "zh": "5 (韩语).将人的能力和人工智能结合起来,以建立一个不断学习的组织",
+      "en": "5. Combine human and AI capability to create a continuously learning organization"
+    },
+    {
+      "kind": "paragraph",
+      "text": "At Microsoft, we have long believed that a growth mindset is a source of competitive advantage. Our willingness to challenge assumptions, experiment, learn and adapt has shaped our culture for more than a decade — and provides an even more important foundation for the AI era.",
+      "id": "p29",
+      "zh": "在微软,我们长期以来一直认为,增长思维是竞争优势的来源。我们愿意挑战假设,实验,学习和适应已经塑造了我们文化十几年——为AI时代提供了更加重要的基础.",
+      "en": "At Microsoft, we have long believed that a growth mindset is a source of competitive advantage. Our willingness to challenge assumptions, experiment, learn and adapt has shaped our culture for more than a decade — and provides an even more important foundation for the AI era."
+    },
+    {
+      "kind": "paragraph",
+      "text": "AI is giving that idea new meaning. As a thought partner, it can help employees explore new ideas, build skills and learn in the flow of work. It can make learning faster, more personalized and more accessible, helping people take on challenges that once felt out of reach.",
+      "id": "p30",
+      "zh": "AI赋予了这个想法新的意义.作为一个思想伙伴,它可以帮助员工探索新的想法,培养技能,在工作流中学习.它可以让学习更快,更个性化和更容易获得,帮助人们应对曾经感到无法应付的挑战。",
+      "en": "AI is giving that idea new meaning. As a thought partner, it can help employees explore new ideas, build skills and learn in the flow of work. It can make learning faster, more personalized and more accessible, helping people take on challenges that once felt out of reach."
+    },
+    {
+      "kind": "paragraph",
+      "text": "But we have also discovered that learning moves in both directions. People help AI become more useful by bringing the ambition, context, judgment and feedback that teach it how work gets done and what good looks like. They set the requirements, correct what falls short, determine where human judgement is essential and remain accountable for how AI is applied.",
+      "id": "p31",
+      "zh": "但我们也发现,学习是双向的。人们通过带来野心来帮助AI变得更有用,上下文,判断和反馈 教它如何工作 和什么好样子。他们规定了要求,纠正不足之处,确定在哪些方面必须作出人的判断,并继续对如何适用大赦国际负责。",
+      "en": "But we have also discovered that learning moves in both directions. People help AI become more useful by bringing the ambition, context, judgment and feedback that teach it how work gets done and what good looks like. They set the requirements, correct what falls short, determine where human judgement is essential and remain accountable for how AI is applied."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In our People organization, for example, teams are continuously improving agents to support the many cross-company activities involved in onboarding a new employee. Our team guides the process and sets the bar for what good looks like, determines where human judgment is needed, addresses issues and governs the overall system.",
+      "id": "p32",
+      "zh": "在我们的人民组织里,举例来说,团队正在不断改进代理,以支持许多跨公司的活动,让一名新雇员上岗。我们的团队指导这个过程 并设置栏杆 什么样的好看起来,确定哪里需要人类的判断,处理问题并管理整个系统。",
+      "en": "In our People organization, for example, teams are continuously improving agents to support the many cross-company activities involved in onboarding a new employee. Our team guides the process and sets the bar for what good looks like, determines where human judgment is needed, addresses issues and governs the overall system."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Over time, this learning loop turns individual insights into organizational capability. AI helps people learn faster, while people help make AI more useful within their organization. We recognized that the continuous learning loop we were creating was also generating unique institutional knowledge, and that retaining control of it would be critical to our long-term advantage. And that every organization should be able to build its own continuous learning loop without becoming dependent on any one model provider, while retaining control of its knowledge and how it is embedded in the models and systems it uses.",
+      "id": "p33",
+      "zh": "随着时间的推移,这种学习循环将个人的见解转化为组织能力。AI帮助人们学习更快,而人们则帮助AI在其组织内发挥更大的作用.我们认识到,我们正在创造的不断学习循环也产生了独特的机构知识,并且保持对它的控制对我们的长期优势至关重要。每一个组织都应该能够建立自己的持续学习循环,而不依赖于任何一个模式提供者,保持对知识的控制,以及知识如何嵌入其使用的模型和系统。",
+      "en": "Over time, this learning loop turns individual insights into organizational capability. AI helps people learn faster, while people help make AI more useful within their organization. We recognized that the continuous learning loop we were creating was also generating unique institutional knowledge, and that retaining control of it would be critical to our long-term advantage. And that every organization should be able to build its own continuous learning loop without becoming dependent on any one model provider, while retaining control of its knowledge and how it is embedded in the models and systems it uses."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Having access to the best models will not be enough. The organizations that lead will be those that build the capacity to accelerate learning — where people and AI improve together, and where the knowledge they create becomes a source of lasting advantage.",
+      "id": "p34",
+      "zh": "获得最佳模式是不够的。牵头的组织将是那些建立加快学习能力的组织——人们和大赦国际共同提高学习能力的组织,以及他们创造的知识成为持久优势的来源。",
+      "en": "Having access to the best models will not be enough. The organizations that lead will be those that build the capacity to accelerate learning — where people and AI improve together, and where the knowledge they create becomes a source of lasting advantage."
+    },
+    {
+      "kind": "paragraph",
+      "text": "These lessons come together in three practical recipes: Persona Acceleration for a role, AI-Powered Process Redesign for a workflow and AI-First Possibility for a greenfield opportunity. Distilled from hundreds of transformation efforts, they are patterns teams can adapt — often in combination — to move faster and avoid reinventing the journey.",
+      "id": "p35",
+      "zh": "这些经验教训体现在三个实际的处方中:加速角色,AI-Powered Process重新设计工作流程,AI-First Problicity为绿地机会.从上百的改造努力中消退,它们是模式团队可以——常常是组合的——进行调整,以更快地前进,避免重新创造旅程。",
+      "en": "These lessons come together in three practical recipes: Persona Acceleration for a role, AI-Powered Process Redesign for a workflow and AI-First Possibility for a greenfield opportunity. Distilled from hundreds of transformation efforts, they are patterns teams can adapt — often in combination — to move faster and avoid reinventing the journey."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Access to AI will not be the differentiator. The advantage will come from an organization’s ability to empower and engage employees, redesign work, govern AI responsibly and operationalize what works. The results we are seeing — from increased revenue and a more efficient supply chain to faster product development and better employee experiences — show what is possible when those pieces come together. But achieving these results requires more than deploying AI. It requires the intentional alignment of people, processes and technology. That is the hard work of becoming a Frontier Firm — and why we created Microsoft Frontier Company: to bring what we are learning from our own transformation to customers and work alongside them as they navigate their transformations.",
+      "id": "p36",
+      "zh": "获得大赦国际不会是不同的因素。好处将来自一个组织赋予雇员权力和让雇员参与的能力,重新设计工作,以负责任的方式管理大赦国际,并落实行之有效的内容。我们看到的结果——从增加收入、提高供应链效率到加快产品开发和改善雇员经验——显示了在什么情况下可能实现的。那些碎片会合起来的但是,实现这些结果需要的不仅仅是部署AI.它要求有意识地调整人们,工艺和技术。这就是成为一家前沿企业的艰苦工作,也是我们创建微软前沿公司的原因:将我们从自身转型中学到的东西带给客户,并在客户驾驭其转型时与他们并肩工作.",
+      "en": "Access to AI will not be the differentiator. The advantage will come from an organization’s ability to empower and engage employees, redesign work, govern AI responsibly and operationalize what works. The results we are seeing — from increased revenue and a more efficient supply chain to faster product development and better employee experiences — show what is possible when those pieces come together. But achieving these results requires more than deploying AI. It requires the intentional alignment of people, processes and technology. That is the hard work of becoming a Frontier Firm — and why we created Microsoft Frontier Company: to bring what we are learning from our own transformation to customers and work alongside them as they navigate their transformations."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Read Becoming a Frontier Firm: Our Frontier Playbook for the frameworks, transformation recipes and lessons from Microsoft’s Customer Zero journey.",
+      "id": "p37",
+      "zh": "《成为前沿企业》:我们的边疆游戏 框架,微软客户零之旅的变换秘方与教训.",
+      "en": "Read Becoming a Frontier Firm: Our Frontier Playbook for the frameworks, transformation recipes and lessons from Microsoft’s Customer Zero journey."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Kathleen Hogan is Executive Vice President and Chief Strategy and Transformation Officer at Microsoft, where she leads the company’s enterprise-wide strategy and transformation agenda, accelerating Microsoft’s evolution into a Frontier Firm. Previously, she served as Chief Human Resources Officer and Corporate Vice President of Microsoft Services.",
+      "id": "p38",
+      "zh": "Kathleen Hogan是微软公司执行副总裁兼首席战略和转型干事,她领导着公司的全企业战略和转型议程,微软加速进化为前沿公司。此前,她曾担任微软服务公司首席人力资源官和公司副总裁.",
+      "en": "Kathleen Hogan is Executive Vice President and Chief Strategy and Transformation Officer at Microsoft, where she leads the company’s enterprise-wide strategy and transformation agenda, accelerating Microsoft’s evolution into a Frontier Firm. Previously, she served as Chief Human Resources Officer and Corporate Vice President of Microsoft Services."
+    },
+    {
+      "kind": "heading",
+      "text": "NOTES",
+      "id": "p39",
+      "zh": "注 释",
+      "en": "NOTES"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1 Internal Microsoft sales team data based on 687 sellers of Microsoft 365 Copilot from Jan. – June 2024, as compared with sellers with low usage of Copilot. Regular usage of Copilot means sellers who use Copilot daily at least 50% of the time during the testing period.",
+      "id": "p40",
+      "zh": "1 微软内部销售团队数据基于来自Jan的687销售商微软365Copilot.-2024年6月, - 2024年7月),中国大陆著名著名著名女演员.与Copilot使用率低的销售者相比。常用Copilot是指测试期间每天至少50%时间使用Copilot的销售者.",
+      "en": "1 Internal Microsoft sales team data based on 687 sellers of Microsoft 365 Copilot from Jan. – June 2024, as compared with sellers with low usage of Copilot. Regular usage of Copilot means sellers who use Copilot daily at least 50% of the time during the testing period."
+    },
+    {
+      "kind": "paragraph",
+      "text": "2 Based on Microsoft internal analysis of work led by a 150+ person cross-functional team between September 2025 and August 2026. As of September 2026, more than 111 agents had been deployed across cloud supply-chain workflows. Across 5 monthly planning cycles measured between April 2026 and August 2026, average cycle time declined from approximately 10 to less than 2.5 business days. Separately, across 20+ demand-plan investigations each month, average time to produce a human-validated explanation declined from five to seven days to less than a few hours, with some completed in less than 20 minutes. Results are specific to these workflows and measurement periods.",
+      "id": "p41",
+      "zh": "2基于微软在2025年9月至2026年8月期间对由150+人跨功能团队领导的工作进行内部分析.截止2026年9月,在云供应链工作流程中部署了111多个代理。2026年4月至2026年8月期间测量的5个月规划周期,平均周期从大约10个工作日减少到不到2.5个工作日。单独地,* 每月进行20多项需求计划调查,提供经人类验证的解释的平均时间从5天减少到7天,不到几个小时;有些在不到20分钟内完成。成果是这些工作流程和计量期的具体结果。",
+      "en": "2 Based on Microsoft internal analysis of work led by a 150+ person cross-functional team between September 2025 and August 2026. As of September 2026, more than 111 agents had been deployed across cloud supply-chain workflows. Across 5 monthly planning cycles measured between April 2026 and August 2026, average cycle time declined from approximately 10 to less than 2.5 business days. Separately, across 20+ demand-plan investigations each month, average time to produce a human-validated explanation declined from five to seven days to less than a few hours, with some completed in less than 20 minutes. Results are specific to these workflows and measurement periods."
+    },
+    {
+      "kind": "paragraph",
+      "text": "3 Based on internal project records. The 35-day period was measured from the team’s formal project kickoff to delivery of the initial release in Spring 2026. This result reflects one project undertaken by a dedicated cross-functional team and is not a companywide product-development benchmark.",
+      "id": "p42",
+      "zh": "3 根据内部项目记录。从球队的正式项目开球到2026年春季首次发售,共测出35天时间.这一结果反映了由专门跨职能小组开展的一个项目,而不是全公司产品开发基准。",
+      "en": "3 Based on internal project records. The 35-day period was measured from the team’s formal project kickoff to delivery of the initial release in Spring 2026. This result reflects one project undertaken by a dedicated cross-functional team and is not a companywide product-development benchmark."
+    },
+    {
+      "kind": "paragraph",
+      "text": "4 Internal Microsoft sales team data based on 687 sellers of Microsoft 365 Copilot from Jan. – June 2024, as compared with sellers with low usage of Copilot. Regular usage of Copilot means sellers who use Copilot daily at least 50% of the time during the testing period.",
+      "id": "p43",
+      "zh": "4 微软内部销售团队数据基于来自Jan的687销售商微软365Copilot.-2024年6月, - 2024年7月),中国大陆著名著名著名女演员.与Copilot使用率低的销售者相比。常用Copilot是指测试期间每天至少50%时间使用Copilot的销售者.",
+      "en": "4 Internal Microsoft sales team data based on 687 sellers of Microsoft 365 Copilot from Jan. – June 2024, as compared with sellers with low usage of Copilot. Regular usage of Copilot means sellers who use Copilot daily at least 50% of the time during the testing period."
+    },
+    {
+      "kind": "paragraph",
+      "text": "5 Based on Microsoft internal analysis of work led by a 150+ person cross-functional team between September 2025 and August 2026. As of September 2026, more than 111 agents had been deployed across cloud supply-chain workflows. Across 5 monthly planning cycles measured between April 2026 and August 2026, average cycle time declined from approximately 10 to less than 2.5 business days. Separately, across 20+ demand-plan investigations each month, average time to produce a human-validated explanation declined from five to seven days to less than a few hours, with some completed in less than 20 minutes. Results are specific to these workflows and measurement periods.",
+      "id": "p44",
+      "zh": "5,基于微软在2025年9月至2026年8月期间对由150+人跨功能团队领导的工作进行内部分析.截止2026年9月,在云供应链工作流程中部署了111多个代理。2026年4月至2026年8月期间测量的5个月规划周期,平均周期从大约10个工作日减少到不到2.5个工作日。单独地,* 每月进行20多项需求计划调查,提供经人类验证的解释的平均时间从5天减少到7天,不到几个小时;有些在不到20分钟内完成。成果是这些工作流程和计量期的具体结果。",
+      "en": "5 Based on Microsoft internal analysis of work led by a 150+ person cross-functional team between September 2025 and August 2026. As of September 2026, more than 111 agents had been deployed across cloud supply-chain workflows. Across 5 monthly planning cycles measured between April 2026 and August 2026, average cycle time declined from approximately 10 to less than 2.5 business days. Separately, across 20+ demand-plan investigations each month, average time to produce a human-validated explanation declined from five to seven days to less than a few hours, with some completed in less than 20 minutes. Results are specific to these workflows and measurement periods."
+    },
+    {
+      "kind": "paragraph",
+      "text": "6 Based on internal project records. The 35-day period was measured from the team’s formal project kickoff to delivery of the initial release in Spring 2026. This result reflects one project undertaken by a dedicated cross-functional team and is not a companywide product-development benchmark.",
+      "id": "p45",
+      "zh": "6 根据内部项目记录。从球队的正式项目开球到2026年春季首次发售,共测出35天时间.这一结果反映了由专门跨职能小组开展的一个项目,而不是全公司产品开发基准。",
+      "en": "6 Based on internal project records. The 35-day period was measured from the team’s formal project kickoff to delivery of the initial release in Spring 2026. This result reflects one project undertaken by a dedicated cross-functional team and is not a companywide product-development benchmark."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "AI正在比任何组织都更迅速地重塑工作。跨行业,对话已经从AI所能做的转向公司如何利用AI创造商业价值,扩大人们能够实现的目标.在微软,我们相信,成功的组织就是我们所称的边境公司:人类主导,却越来越受人工智能的驱动这种责任始于如何建立和继续通过如何实施大赦国际:大赦国际应扩大人的能力,同时保持有意义的控制,判断和问责制。",
+      "en": "AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "我们一直和客户分享微软的《前沿游戏手册》 作为我们AI转型旅程的实用指南,包括我们所学到的,以及我们从失败中成长的地方。利用全公司上百次的AI转型努力,游戏本记录了我们在重新设计工作时学到的东西,建立新能力,衡量影响,帮助人们与大赦国际一起成长。",
+      "en": "We have been sharing Microsoft’s Frontier Playbook with customers as a practical guide to our AI transformation journey, including what we’ve learned, what has worked so far and where we’ve grown from failures. Drawing on hundreds of AI transformation efforts across the company, the playbook captures what we are learning as we redesign work, build new capabilities, measure impact and help people grow alongside AI."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "我们最初将AI视为传统技术的推出:部署这些工具,提供培训;驱动收养。我们了解到,获取和使用不等于转变:向20多万人发放许可证的工具不会改变工作方式。",
+      "en": "We initially treated AI like a traditional technology rollout: deploy the tools, provide training, drive adoption. We learned that access and usage do not equal transformation: a tool licensed to over 200,000 people does not change how the work gets done."
+    },
+    {
+      "paragraphId": "p22",
+      "zh": "根据我们的经验,领导人确定成果和问责制,而最接近工作的人则看AI能增加什么价值,而人类的判断必须放在中心位置。经理将两者连接起来,以及他们的角色建模和支持一直是成功的最强预测者之一。",
+      "en": "In our experience, leaders set outcomes and accountability, while the people closest to the work see where AI adds value and where human judgment must stay central. Managers connect the two, and their role-modeling and support has been one of the strongest predictors of success."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "90e55fa2c437cd1a8a4f767b2f47b27200ea36690ff70a119323ad61a26d196c"
+}

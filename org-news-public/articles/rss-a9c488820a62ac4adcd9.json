@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-a9c488820a62ac4adcd9",
+  "url": "https://openai.com/index/greptile-code-review-codex-astra",
+  "sourceTitle": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:13.500144+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:13.771765+00:00"
+}

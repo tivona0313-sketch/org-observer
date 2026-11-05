@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-f2497d2da3243c287b78",
+  "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+  "sourceTitle": "Designing responsible AI for learning",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:11.727698+00:00",
+  "fetchedAt": "2026-11-05T11:28:28.690742+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+  "language": "en",
+  "originalTitle": "Designing responsible AI for learning",
+  "author": "Chris Phillips",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "If you’ve ever watched a student use AI tools to help with their schoolwork, you’ve probably wondered: Are they actually learning, or just finding a shortcut? Questions like this are important, and they guide our work when building products for learning.",
+      "id": "p1",
+      "zh": "如果你曾经看到一个学生使用人工智能工具来帮助他们的学校工作,你可能已经想知道:他们真的在学习吗?还是只是找到一条捷径?这样的问题很重要,他们指导我们为学习而造产品的工作。",
+      "en": "If you’ve ever watched a student use AI tools to help with their schoolwork, you’ve probably wondered: Are they actually learning, or just finding a shortcut? Questions like this are important, and they guide our work when building products for learning."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We believe technology paired with great educators can unlock incredible learning potential, and we’re focused on building technology responsibly to help students thrive. Today, we’re making important updates to our products used in schools, including building Guided Learning capabilities into Google Search and Google Classroom, and evolving our approach to school controls.",
+      "id": "p2",
+      "zh": "我们相信技术与伟大的教育者结合 能够释放出惊人的学习潜力,我们的注意力集中在 以负责任的方式培养技术 来帮助学生成长。今天,我们...我们正对学校使用的产品进行重要更新,包括建立Google搜索和Google教室的《指导学习》能力,并发展我们控制学校的方法。",
+      "en": "We believe technology paired with great educators can unlock incredible learning potential, and we’re focused on building technology responsibly to help students thrive. Today, we’re making important updates to our products used in schools, including building Guided Learning capabilities into Google Search and Google Classroom, and evolving our approach to school controls."
+    },
+    {
+      "kind": "heading",
+      "text": "Developing products built for learning",
+      "id": "p3",
+      "zh": "开发用于学习的产品",
+      "en": "Developing products built for learning"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We believe AI products should support “productive struggle” — enabling students to be actively challenged without getting so overwhelmed that they give up. That’s the philosophy behind Guided Learning. In Gemini, Guided Learning acts as an interactive study tool that coaches students through the process of problem solving through open-ended questions and step-by-step breakdowns. Our research shows that Guided Learning leads to measurable learning gains for students, and we’re now bringing Guided Learning to more products.",
+      "id": "p4",
+      "zh": "我们认为,AI产品应该支持“生产性斗争”——使学生能够受到积极的挑战,而不会因此不堪重负而放弃。这就是指导性学习背后的理念。在Gemini指导性学习作为一种互动学习工具,指导学生通过开放式问题和逐步分解解决问题的过程.我们的研究表明, \" 指导性学习 \" 为学生带来可衡量的学习成果,现在,我们正把《指导学习》带到更多的产品上。",
+      "en": "We believe AI products should support “productive struggle” — enabling students to be actively challenged without getting so overwhelmed that they give up. That’s the philosophy behind Guided Learning. In Gemini, Guided Learning acts as an interactive study tool that coaches students through the process of problem solving through open-ended questions and step-by-step breakdowns. Our research shows that Guided Learning leads to measurable learning gains for students, and we’re now bringing Guided Learning to more products."
+    },
+    {
+      "kind": "list",
+      "text": "Google Search: We’re building Guided Learning capabilities into Search for student accounts to help them work through problems without skipping straight to answers. When our systems understand a student is looking for certain types of homework help, Search will walk them through the topic or problem step by step. For example, if a student pastes a complex physics problem or asks for help writing a book report in Search, they’ll see prompts to help them think critically and work through the concepts, without going directly to the answer. We’re starting with a pilot in select U.S. schools later this month to gather and incorporate educator feedback before expanding to other school districts in the coming months.",
+      "id": "p5",
+      "zh": "谷歌搜索 :帮助学生解决问题, 而不直接回答。当我们的系统知道一个学生正在寻找 某些类型的家庭作业帮助,搜索会让他们一步一步地通过话题或问题.举例来说,如果一个学生粘贴了一个复杂的物理问题 或者要求帮助写一本在Search的书报告,他们将看到激励 帮助他们进行批判性思考和通过概念工作,而不直接回答问题。我们从一个在美国的飞行员开始。本月晚些时候,学校收集并纳入教育工作者的反馈,然后在未来几个月扩大到其他校区。",
+      "en": "Google Search: We’re building Guided Learning capabilities into Search for student accounts to help them work through problems without skipping straight to answers. When our systems understand a student is looking for certain types of homework help, Search will walk them through the topic or problem step by step. For example, if a student pastes a complex physics problem or asks for help writing a book report in Search, they’ll see prompts to help them think critically and work through the concepts, without going directly to the answer. We’re starting with a pilot in select U.S. schools later this month to gather and incorporate educator feedback before expanding to other school districts in the coming months."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Google Classroom: Starting today, Guided Learning is globally available in Google Classroom, a central hub where teachers and students organize schoolwork, share assignments and stay connected. When a student starts a Guided Learning activity assigned by their teacher, it acts like a 1-1 study tool, anchored in class material to help them stay on task. It also gives teachers real-time insights to spot where the class might need extra support.",
+      "id": "p6",
+      "zh": "谷歌教室 :从今天开始\" 指导性学习 \" 可在Google教室全球范围查阅。教师和学生组织学校工作的中心中心,共享任务并保持连接。当一个学生开始他们老师指定的指导性学习活动时,这就像一个1 -1的学习工具,固定在课堂材料中,以帮助他们继续执行任务。它还为教师提供了实时的洞察力,以发现班级可能需要额外支持的地方。",
+      "en": "Google Classroom: Starting today, Guided Learning is globally available in Google Classroom, a central hub where teachers and students organize schoolwork, share assignments and stay connected. When a student starts a Guided Learning activity assigned by their teacher, it acts like a 1-1 study tool, anchored in class material to help them stay on task. It also gives teachers real-time insights to spot where the class might need extra support."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Before launching Guided Learning in Google Classroom, we worked closely with schools and educators to test the feature and integrate their feedback.",
+      "id": "p7",
+      "zh": "在Google教室推出《指导学习》之前,我们与学校和教育工作者密切合作,测试这一特点,并整合他们的反馈。",
+      "en": "Before launching Guided Learning in Google Classroom, we worked closely with schools and educators to test the feature and integrate their feedback."
+    },
+    {
+      "kind": "heading",
+      "text": "Enhancing school controls",
+      "id": "p8",
+      "zh": "加强学校控制",
+      "en": "Enhancing school controls"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We believe schools should have control over AI in their classrooms and in providing administrators with controls to help them manage their approach. After listening to schools, teachers, leading researchers, and policymakers, we are now updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search. Access to these products will be entirely off for K-12 student accounts until school administrators explicitly turn them on.",
+      "id": "p9",
+      "zh": "我们认为,学校应该控制其教室中的人工智能,并为管理人员提供控制,帮助他们管理其方法。在听了学校的课后老师,主要研究者,和决策者,我们正在更新我们控制Gemini的方法,Gemini笔记本,在教室的Gemini,还有Google搜索K-12学生账户将完全停止使用这些产品,直到学校管理人员明确开启。",
+      "en": "We believe schools should have control over AI in their classrooms and in providing administrators with controls to help them manage their approach. After listening to schools, teachers, leading researchers, and policymakers, we are now updating our approach to controls for Gemini, Gemini Notebook, Gemini in Classroom, and Google Search. Access to these products will be entirely off for K-12 student accounts until school administrators explicitly turn them on."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’ll share more specifics with schools in the coming months ahead of the changes rolling out so they have time to prepare and enable a smooth transition. Our goal is simple: provide school leaders the control and confidence to use AI products in classrooms as they see fit.",
+      "id": "p10",
+      "zh": "未来数月, 我们将与学校分享更多细节, 以便他们有时间准备并实现平稳过渡。我们的目标很简单:向学校领导提供控制和信心,让他们在教室中酌情使用AI产品.",
+      "en": "We’ll share more specifics with schools in the coming months ahead of the changes rolling out so they have time to prepare and enable a smooth transition. Our goal is simple: provide school leaders the control and confidence to use AI products in classrooms as they see fit."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’ll continue to listen to feedback and evolve our approach as we work in partnership with schools, teachers, pedagogical experts, and parents on helping the next generation learn and thrive.",
+      "id": "p11",
+      "zh": "在与学校合作时,老师,教学专家,父母帮助下一代学习和繁荣。",
+      "en": "We’ll continue to listen to feedback and evolve our approach as we work in partnership with schools, teachers, pedagogical experts, and parents on helping the next generation learn and thrive."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "如果你曾经看到一个学生使用人工智能工具来帮助他们的学校工作,你可能已经想知道:他们真的在学习吗?还是只是找到一条捷径?这样的问题很重要,他们指导我们为学习而造产品的工作。",
+      "en": "If you’ve ever watched a student use AI tools to help with their schoolwork, you’ve probably wondered: Are they actually learning, or just finding a shortcut? Questions like this are important, and they guide our work when building products for learning."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "我们相信技术与伟大的教育者结合 能够释放出惊人的学习潜力,我们的注意力集中在 以负责任的方式培养技术 来帮助学生成长。今天,我们...我们正对学校使用的产品进行重要更新,包括建立Google搜索和Google教室的《指导学习》能力,并发展我们控制学校的方法。",
+      "en": "We believe technology paired with great educators can unlock incredible learning potential, and we’re focused on building technology responsibly to help students thrive. Today, we’re making important updates to our products used in schools, including building Guided Learning capabilities into Google Search and Google Classroom, and evolving our approach to school controls."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "我们认为,AI产品应该支持“生产性斗争”——使学生能够受到积极的挑战,而不会因此不堪重负而放弃。这就是指导性学习背后的理念。",
+      "en": "We believe AI products should support “productive struggle” — enabling students to be actively challenged without getting so overwhelmed that they give up. That’s the philosophy behind Guided Learning."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "谷歌教室 :从今天开始\" 指导性学习 \" 可在Google教室全球范围查阅。教师和学生组织学校工作的中心中心,共享任务并保持连接。",
+      "en": "Google Classroom: Starting today, Guided Learning is globally available in Google Classroom, a central hub where teachers and students organize schoolwork, share assignments and stay connected. When a student starts a Guided Learning activity assigned by their teacher, it acts like a 1-1 study tool, anchored in class material to help them stay on task."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "d0556e81171cb385ca16e9d38b5276e29cc7b04f126b37249b1d1a2de5899bdb"
+}

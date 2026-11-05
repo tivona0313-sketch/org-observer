@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-1e3ebf94e41ebe19793b",
+  "url": "https://openai.com/index/retell-ai",
+  "sourceTitle": "Retell uses OpenAI models to help power 100M monthly calls",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-05T11:27:11.316731+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-06T11:27:11.588461+00:00"
+}

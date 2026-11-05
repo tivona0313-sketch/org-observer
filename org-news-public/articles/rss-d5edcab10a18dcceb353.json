@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-d5edcab10a18dcceb353",
+  "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+  "sourceTitle": "Securing the agentic insider",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:48:04.521870+00:00",
+  "fetchedAt": "2026-11-05T11:28:52.504120+00:00",
+  "finalURL": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+  "language": "en",
+  "originalTitle": "Securing the agentic insider",
+  "author": "Hayete Gallot",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well. And with the global race on innovation, the challenge will compound as models become even more powerful.",
+      "id": "p1",
+      "zh": "在过去几个月里,越来越多的事件被公开披露,因此对大赦国际的安全产生了关切。这些事件揭示了模式的强大程度,以及如果不妥善处理,它们将如何构成重大威胁。随着全球创新竞赛,随着模型变得更加强大,挑战将变得更加复杂。",
+      "en": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well. And with the global race on innovation, the challenge will compound as models become even more powerful."
+    },
+    {
+      "kind": "paragraph",
+      "text": "While most have been worried about threat actors using powerful models to attack, the focus has been less on agents within our own walls. Since we were the ones who deployed agents internally for our companies, we implicitly trusted our agents.",
+      "id": "p2",
+      "zh": "虽然大多数人一直担心威胁 行为者使用强大的模式攻击,重点不在于我们自己城墙内的智能体因为我们是那些 在内部部署智能体 我们的公司,我们暗中信任我们的智能体",
+      "en": "While most have been worried about threat actors using powerful models to attack, the focus has been less on agents within our own walls. Since we were the ones who deployed agents internally for our companies, we implicitly trusted our agents."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Unfortunately, frontier models, regardless of their origin, cannot be trusted. This is not because models are inherently malicious. Models have been trained to attain results, which often leads to reward hacking, and models are not optimized around organizational norms or judgment. Agents are unpredictable. They will adapt as the context changes, may not behave as intended and will collaborate and collude with other agents to reach their objectives, without needing to be compromised.",
+      "id": "p3",
+      "zh": "很遗憾前沿模型,无论他们来自何处,无法信任 。这并不是因为模型本质上是恶意的。培训了模式,以取得成果,这往往导致奖励黑客,并且没有围绕组织规范或判断来优化模式。智能体是无法预料的。它们会随着背景的变化而适应,(b) 可能不按预期行事,并将与其他代理人合作和勾结,以实现其目标;不需要妥协。",
+      "en": "Unfortunately, frontier models, regardless of their origin, cannot be trusted. This is not because models are inherently malicious. Models have been trained to attain results, which often leads to reward hacking, and models are not optimized around organizational norms or judgment. Agents are unpredictable. They will adapt as the context changes, may not behave as intended and will collaborate and collude with other agents to reach their objectives, without needing to be compromised."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Agents have been unleashed in the enterprise, at scale, and their numbers are growing rapidly. These agents are frequently overprivileged, have access to data, tools and systems and can take actions and make decisions in critical processes. They have become active participants in the enterprise.",
+      "id": "p4",
+      "zh": "企业已经释放了智能体规模,他们的数量正在迅速增长。这些智能体经常被超权,获得数据,• 在关键进程中采取行动和作出决定。他们已成为企业的积极参与者。",
+      "en": "Agents have been unleashed in the enterprise, at scale, and their numbers are growing rapidly. These agents are frequently overprivileged, have access to data, tools and systems and can take actions and make decisions in critical processes. They have become active participants in the enterprise."
+    },
+    {
+      "kind": "paragraph",
+      "text": "They are agentic insiders.",
+      "id": "p5",
+      "zh": "他们是内幕特工",
+      "en": "They are agentic insiders."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Monitoring and securing those agents must become continuous. We need to understand in real time what the agents are doing and what risks those actions create, and we need to adjust their ability to act accordingly.",
+      "id": "p6",
+      "zh": "必须持续不断地监测和保障这些代理人的安全。我们需要实时了解智能体们在做什么 以及这些行动带来了什么风险我们需要调整他们相应行动的能力。",
+      "en": "Monitoring and securing those agents must become continuous. We need to understand in real time what the agents are doing and what risks those actions create, and we need to adjust their ability to act accordingly."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To manage and control these insiders, we will need Guardian Agents — an established industry term — that watch and moderate every action of every agent, before it happens, 24/7.",
+      "id": "p7",
+      "zh": "为了管理和控制这些内幕分子我们需要守护者代理——一个既定的行业术语—— 监视和缓和每个代理的每一项行动,在它发生之前,24/7 (英语).",
+      "en": "To manage and control these insiders, we will need Guardian Agents — an established industry term — that watch and moderate every action of every agent, before it happens, 24/7."
+    },
+    {
+      "kind": "paragraph",
+      "text": "An agent brings together a model, a harness that orchestrates its work, an action space of tools and resources and a runtime in which it executes. Securing agents requires protection across multiple layers: identity, permissions, data, endpoints, network, cloud and runtime.",
+      "id": "p8",
+      "zh": "一个智能体召集了一个模特儿一个管弦乐其工作的乐器,工具和资源的动作空间,以及执行的运行时间。保安人员需要多层保护:身份证明,权限,数据,终点,网络,云与运行时.",
+      "en": "An agent brings together a model, a harness that orchestrates its work, an action space of tools and resources and a runtime in which it executes. Securing agents requires protection across multiple layers: identity, permissions, data, endpoints, network, cloud and runtime."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In July, we announced Project Perception, an agentic security system that uses our new cyber stack and teams of red, blue and green agents to help defenders act with speed, while defending against AI driven attacks from outside of the enterprise.",
+      "id": "p9",
+      "zh": "7月时,我们宣布了感知计划,一个代理安全系统 用我们的新网络堆和红色团队,蓝色和绿色的代理 帮助维权者行动的速度,同时也为来自企业外部的AI发动的攻击进行辩护.",
+      "en": "In July, we announced Project Perception, an agentic security system that uses our new cyber stack and teams of red, blue and green agents to help defenders act with speed, while defending against AI driven attacks from outside of the enterprise."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The same cyber stack is also directly applicable to managing and governing the agentic insiders that run in the enterprise.",
+      "id": "p10",
+      "zh": "同一网络堆栈也直接适用于管理和治理企业经营的代理内幕.",
+      "en": "The same cyber stack is also directly applicable to managing and governing the agentic insiders that run in the enterprise."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Project Perception can be leveraged to contain agentic insiders, implementing deterministic controls on non-deterministic intelligence:",
+      "id": "p11",
+      "zh": "可以利用项目感知来控制内幕执行对非决定性情报的决定性控制:",
+      "en": "Project Perception can be leveraged to contain agentic insiders, implementing deterministic controls on non-deterministic intelligence:"
+    },
+    {
+      "kind": "list",
+      "text": "Sensors/Signals/Actuators: bring together signals across the various sensors (identity, data, cloud, endpoint, network, runtime) to discover agents in the enterprise and bring them under management by assigning an identity, container and set of policy and permissions.",
+      "id": "p12",
+      "zh": "传感器/信号/演员:将各种传感器的信号汇集在一起(识别,数据,云门.结束点,网络,(c) 运行时间)在企业中发现代理人,并通过指定身份将其置于管理之下,容器和一套政策和权限。",
+      "en": "Sensors/Signals/Actuators: bring together signals across the various sensors (identity, data, cloud, endpoint, network, runtime) to discover agents in the enterprise and bring them under management by assigning an identity, container and set of policy and permissions."
+    },
+    {
+      "kind": "list",
+      "text": "Context: use those signals to compute, dynamically, the risk associated with what the agents are attempting to do.",
+      "id": "p13",
+      "zh": "背景情况 :用这些信号来计算,动态地与智能体们试图做的事有关的风险。",
+      "en": "Context: use those signals to compute, dynamically, the risk associated with what the agents are attempting to do."
+    },
+    {
+      "kind": "list",
+      "text": "Harness/agents/models: based on dynamic agent risk, a team of Guardian Agents, with green and blue agents, actively and continually supervise every action of every agent and surgically respond as the risk profile increases, in real time.",
+      "id": "p14",
+      "zh": "机能/代理人/型号:基于动态剂风险,一队守护者代理,有绿色和蓝色的代理商,随着风险状况的增加,积极和持续地监督每一种制剂的每一项行动,并作出外科反应,在实时。",
+      "en": "Harness/agents/models: based on dynamic agent risk, a team of Guardian Agents, with green and blue agents, actively and continually supervise every action of every agent and surgically respond as the risk profile increases, in real time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This is where agentic security changes the equation for security practitioners.",
+      "id": "p15",
+      "zh": "这就是代理安全改变安全从业人员方程式的地方.",
+      "en": "This is where agentic security changes the equation for security practitioners."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Project Perception can supervise in real time while providing traceability for practitioners to examine what happened, understand why the risk emerged and apply the judgment needed to update their security system accordingly. Agentic security provides speed. Practitioners provide judgment. That is how defenders begin operating at the same speed as the systems they are protecting against.",
+      "id": "p16",
+      "zh": "\" 认识项目 \" 可以实时监督,同时为从业人员提供可追溯性,以审查所发生的情况,理解为何出现风险,并适用相应更新其安全系统所需的判断。代理安全提供速度。执业者提供判断。这就是维权者如何开始以与其所保护的系统相同的速度运作。",
+      "en": "Project Perception can supervise in real time while providing traceability for practitioners to examine what happened, understand why the risk emerged and apply the judgment needed to update their security system accordingly. Agentic security provides speed. Practitioners provide judgment. That is how defenders begin operating at the same speed as the systems they are protecting against."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today, security systems can reliably observe the actions of the agents. Those signals are essential and tell us what we need to contain. Our security controls should increasingly be able to ask not only “What is happening?” but also “Why is it happening?” Is this consistent with the intent of the task?” This will require greater transparency into the model itself, not only the input and output tokens, but the thinking and chain of thought tokens. Only then can we truly understand whether the model’s intent is aligned with the purpose of the agent. Model transparency will not replace containment. It will make containment smarter and stronger. And it will allow us to better inform accountability and traceability. This needs to be the next step in securing agentic insiders.",
+      "id": "p17",
+      "zh": "今天,我们...安全系统能够可靠地观察智能体的行动。这些信号至关重要,告诉我们需要遏制什么。我们的安全控制应越来越能够不仅问“正在发生什么?” ,而且问“为什么会发生?” 这是否符合任务的意图?”需要提高模型本身的透明度,不仅是输入和输出的符号,惟有思维和思维的象征。只有这样,我们才能真正理解该模型的意图是否与代理人的目的相一致。示范透明度不会取代遏制。它将使遏制工作更聪明、更有力。这将使我们能够更好地为问责制和可追踪性提供信息。这需要成为确保内幕内幕的下一步。",
+      "en": "Today, security systems can reliably observe the actions of the agents. Those signals are essential and tell us what we need to contain. Our security controls should increasingly be able to ask not only “What is happening?” but also “Why is it happening?” Is this consistent with the intent of the task?” This will require greater transparency into the model itself, not only the input and output tokens, but the thinking and chain of thought tokens. Only then can we truly understand whether the model’s intent is aligned with the purpose of the agent. Model transparency will not replace containment. It will make containment smarter and stronger. And it will allow us to better inform accountability and traceability. This needs to be the next step in securing agentic insiders."
+    },
+    {
+      "kind": "paragraph",
+      "text": "With Project Perception, you can get started today on the journey to secure your agentic insiders. There should not be a choice between innovation and safety.",
+      "id": "p18",
+      "zh": "有了\"感知计划\"你可以在今天的旅途中开始 保护你的内线不应在创新与安全之间作出选择。",
+      "en": "With Project Perception, you can get started today on the journey to secure your agentic insiders. There should not be a choice between innovation and safety."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hayete Gallot leads Microsoft’s work to help organizations operate securely in an AI-driven world. Her scope includes identity, threat protection, compliance and data security at global scale.",
+      "id": "p19",
+      "zh": "Hayete Gallot领导微软在AI驱动的世界中帮助组织安全运作的工作.她的范围包括身份,威胁保护,全球范围的遵守和数据安全。",
+      "en": "Hayete Gallot leads Microsoft’s work to help organizations operate securely in an AI-driven world. Her scope includes identity, threat protection, compliance and data security at global scale."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "在过去几个月里,越来越多的事件被公开披露,因此对大赦国际的安全产生了关切。这些事件揭示了模式的强大程度,以及如果不妥善处理,它们将如何构成重大威胁。",
+      "en": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful models have become and how they represent a significant threat if not handled well."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "很遗憾前沿模型,无论他们来自何处,无法信任 。这并不是因为模型本质上是恶意的。",
+      "en": "Unfortunately, frontier models, regardless of their origin, cannot be trusted. This is not because models are inherently malicious."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "为了管理和控制这些内幕分子我们需要守护者代理——一个既定的行业术语—— 监视和缓和每个代理的每一项行动,在它发生之前,24/7 (英语).",
+      "en": "To manage and control these insiders, we will need Guardian Agents — an established industry term — that watch and moderate every action of every agent, before it happens, 24/7."
+    },
+    {
+      "paragraphId": "p17",
+      "zh": "今天,我们...安全系统能够可靠地观察智能体的行动。这些信号至关重要,告诉我们需要遏制什么。",
+      "en": "Today, security systems can reliably observe the actions of the agents. Those signals are essential and tell us what we need to contain."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "6de4eaf6b73acc504de8bac57f83c509e6a96038a1dcaaaa7889dde6540ed11a"
+}

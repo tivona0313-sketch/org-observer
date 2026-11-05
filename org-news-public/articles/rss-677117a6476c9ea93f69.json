@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-677117a6476c9ea93f69",
+  "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+  "sourceTitle": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:48:16.204328+00:00",
+  "fetchedAt": "2026-11-05T11:28:59.245385+00:00",
+  "finalURL": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+  "language": "en",
+  "originalTitle": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+  "author": "heathera",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Facebook is at its best when it helps you find and do more of what you’re actually into. Now we’re putting you in the driver’s seat. New AI-powered tools let you tell Facebook, in your own words, what you want to see in Feed and Reels, and your recommendations respond right away. You can now fine-tune your experience and interact directly with the algorithms that rank and recommend what you see on Facebook, meaning you’ll see recommendations that are more relevant, more nuanced, and more you. We’ve updated the three-dot menu on every post to make it easier to access these new customization tools.",
+      "id": "p1",
+      "zh": "当Facebook帮助你找到并做更多你真正投入的事物时,现在,我们把你放在驾驶座上。新的人工智能工具让你告诉Facebook,用你自己的话来说,你想在《饲料》和《利尔斯》中看到的,你的建议马上回应你现在可以微调你的经验 直接和排序的算法互动 推荐你在Facebook上看到的东西意思是,你会看到更贴切的建议,更细微,还有更多的你。我们更新了每篇文章的三点菜单,",
+      "en": "Facebook is at its best when it helps you find and do more of what you’re actually into. Now we’re putting you in the driver’s seat. New AI-powered tools let you tell Facebook, in your own words, what you want to see in Feed and Reels, and your recommendations respond right away. You can now fine-tune your experience and interact directly with the algorithms that rank and recommend what you see on Facebook, meaning you’ll see recommendations that are more relevant, more nuanced, and more you. We’ve updated the three-dot menu on every post to make it easier to access these new customization tools."
+    },
+    {
+      "kind": "heading",
+      "text": "Talk to Your Algorithm, Fine-Tune What You See",
+      "id": "p2",
+      "zh": "跟你的算法说话精细的Tune什么你看到的",
+      "en": "Talk to Your Algorithm, Fine-Tune What You See"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’re rolling out Your algorithm, where you can directly add and manage the topics you want to see in Feed and Reels. Think of it as a dedicated space to tell us exactly what you’re into. You can find it in the three-dot menu.",
+      "id": "p3",
+      "zh": "我们正在推出你的算法,您可以在 Feed 和 Reels 中直接添加和管理您想要看到的主题。将它视为一个专门空间来告诉我们你究竟在想些什么。您可以在三点菜单中找到它。",
+      "en": "We’re rolling out Your algorithm, where you can directly add and manage the topics you want to see in Feed and Reels. Think of it as a dedicated space to tell us exactly what you’re into. You can find it in the three-dot menu."
+    },
+    {
+      "kind": "heading",
+      "text": "More Ways to Tell Us What You Want, In Your Own Words",
+      "id": "p4",
+      "zh": "更多方法告诉我们你想要什么,在你的言语中",
+      "en": "More Ways to Tell Us What You Want, In Your Own Words"
+    },
+    {
+      "kind": "paragraph",
+      "text": "See something you love, or something that’s not for you? We’re introducing more ways to provide feedback directly from the posts you see in Feed and Reels. After clicking ‘Interested’ or ‘Not interested,’ we may ask follow up questions for more detail on what you liked or disliked. You can easily tell us, in your own words, what you want to see more or less of, and your recommendations will update in real time. It’s a more direct, conversational way to shape your experience.",
+      "id": "p5",
+      "zh": "看到你爱的东西,或一些不适合你的东西?提供来自Feed和Reels博客的反馈。在点击“感兴趣”或“不感兴趣”之后,我们可能会问后续问题,以了解你喜欢或不喜欢什么。你可以轻易告诉我们,用你自己的话来说,你想看的多多少少,你的建议将实时更新。更直接一点,以对话的方式塑造你的经验。",
+      "en": "See something you love, or something that’s not for you? We’re introducing more ways to provide feedback directly from the posts you see in Feed and Reels. After clicking ‘Interested’ or ‘Not interested,’ we may ask follow up questions for more detail on what you liked or disliked. You can easily tell us, in your own words, what you want to see more or less of, and your recommendations will update in real time. It’s a more direct, conversational way to shape your experience."
+    },
+    {
+      "kind": "heading",
+      "text": "Smarter, More Interactive Ranking Systems",
+      "id": "p6",
+      "zh": "更聪明一点更多互动排名系统",
+      "en": "Smarter, More Interactive Ranking Systems"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our ranking systems work to bring you the content you care about – and they’ve gotten remarkably good at it, inferring what you’re into from what you engage with on Facebook: from the posts you like and comment on to what you watch (among thousands of other signals). Now, large language models are helping us take a genuine leap forward.",
+      "id": "p7",
+      "zh": "我们的排名系统能为你带来你所关心的内容,从脸书上你所接触的事物中推断出来:从你所喜欢的帖子上,你应当以你所看见的(许多迹象)评论它。现在,大型语言模型正在帮助我们实现真正的飞跃。",
+      "en": "Our ranking systems work to bring you the content you care about – and they’ve gotten remarkably good at it, inferring what you’re into from what you engage with on Facebook: from the posts you like and comment on to what you watch (among thousands of other signals). Now, large language models are helping us take a genuine leap forward."
+    },
+    {
+      "kind": "paragraph",
+      "text": "LLMs can incorporate the interests, context, and intent behind natural language, unlocking an algorithm you can actually talk to. Tell it what you want more or less of, and your recommendations respond in real time, adapting within the same session to reflect what matters to you right now.",
+      "id": "p8",
+      "zh": "LLMS可以包含利益,上下文,和自然语言的本意,解锁一个可以说话的算法。告诉它你想要多少,和你的建议 实时回应,在同一届大会内进行调整,以反映现在对你很重要的问题。",
+      "en": "LLMs can incorporate the interests, context, and intent behind natural language, unlocking an algorithm you can actually talk to. Tell it what you want more or less of, and your recommendations respond in real time, adapting within the same session to reflect what matters to you right now."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Under the hood, this marks a real evolution in how ranking works: by bringing freeform text together with everything we already understand about what you enjoy, the algorithms behind your Feed and Reels keep getting more relevant and responsive over time.",
+      "id": "p9",
+      "zh": "在引擎盖下这标志着排名工作的真正演变:将自由格式的文字 和我们已经了解的 你所享受的一切结合起来您的 Feed 和 Reels 背后的算法随着时间推移而变得更加相关和反应灵敏。",
+      "en": "Under the hood, this marks a real evolution in how ranking works: by bringing freeform text together with everything we already understand about what you enjoy, the algorithms behind your Feed and Reels keep getting more relevant and responsive over time."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "当Facebook帮助你找到并做更多你真正投入的事物时,现在,我们把你放在驾驶座上。新的人工智能工具让你告诉Facebook,用你自己的话来说,你想在《饲料》和《利尔斯》中看到的,你的建议马上回应你现在可以微调你的经验 直接和排序的算法互动 推荐你在Facebook上看到的东西意思是,你会看到更贴切的建议,更细微,还有更多的你。",
+      "en": "Facebook is at its best when it helps you find and do more of what you’re actually into. Now we’re putting you in the driver’s seat."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "我们正在推出你的算法,您可以在 Feed 和 Reels 中直接添加和管理您想要看到的主题。将它视为一个专门空间来告诉我们你究竟在想些什么。",
+      "en": "We’re rolling out Your algorithm, where you can directly add and manage the topics you want to see in Feed and Reels. Think of it as a dedicated space to tell us exactly what you’re into."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "看到你爱的东西,或一些不适合你的东西?提供来自Feed和Reels博客的反馈。在点击“感兴趣”或“不感兴趣”之后,我们可能会问后续问题,以了解你喜欢或不喜欢什么。",
+      "en": "See something you love, or something that’s not for you? We’re introducing more ways to provide feedback directly from the posts you see in Feed and Reels."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "我们的排名系统能为你带来你所关心的内容,从脸书上你所接触的事物中推断出来:从你所喜欢的帖子上,你应当以你所看见的(许多迹象)评论它。现在,大型语言模型正在帮助我们实现真正的飞跃。",
+      "en": "Our ranking systems work to bring you the content you care about – and they’ve gotten remarkably good at it, inferring what you’re into from what you engage with on Facebook: from the posts you like and comment on to what you watch (among thousands of other signals). Now, large language models are helping us take a genuine leap forward."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "822cbb06fcc4d132f2d250e7d8f791ec74596cfe329a4b122ecd403b52b9a576"
+}

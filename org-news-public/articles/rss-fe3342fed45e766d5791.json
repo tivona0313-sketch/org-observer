@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-fe3342fed45e766d5791",
+  "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+  "sourceTitle": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:44.602069+00:00",
+  "fetchedAt": "2026-11-05T11:28:43.531630+00:00",
+  "finalURL": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
+  "language": "en",
+  "originalTitle": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
+  "author": "juliaperreira",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We believe the future is for everyone. That’s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision. The goal of the partnership is to help people who are blind, Deafblind or have low vision explore the possibilities of AI wearable technology, and draw on the knowledge, expertise and lived experience of the community to shape a more accessible future.",
+      "id": "p1",
+      "zh": "我们认为,未来是每个人的。Meta因此与CNIB合作 — — 一个成立于1918年的非盈利组织,以更多的盲人盟誓,聋盲或视力低下.伙伴关系的目标是帮助盲人,盲聋或视力低下 探索AI可穿戴技术的可能性,并借着他的知识,社区的专门知识和生机勃勃的经验,以塑造一个更加无障碍的未来。",
+      "en": "We believe the future is for everyone. That’s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision. The goal of the partnership is to help people who are blind, Deafblind or have low vision explore the possibilities of AI wearable technology, and draw on the knowledge, expertise and lived experience of the community to shape a more accessible future."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Funding from Meta will support CNIB in four areas:",
+      "id": "p2",
+      "zh": "来自Meta的资金将在以下四个领域支持国家投资委员会:",
+      "en": "Funding from Meta will support CNIB in four areas:"
+    },
+    {
+      "kind": "list",
+      "text": "Listening to the community: Engaging people across Canada to understand their experiences, and how AI glasses can support greater independence in everyday life.",
+      "id": "p3",
+      "zh": "听取社区的意见:让加拿大各地的人了解他们的经验,以及AI眼镜如何在日常生活中支持更大的独立.",
+      "en": "Listening to the community: Engaging people across Canada to understand their experiences, and how AI glasses can support greater independence in everyday life."
+    },
+    {
+      "kind": "list",
+      "text": "Supporting community champions: Supporting Canadians who are blind, Deafblind or have low vision to lead in-person peer training and demonstrations, and gather candid product feedback in their communities.",
+      "id": "p4",
+      "zh": "支持社区冠军:支持盲人加拿大人,盲目或视力低下,可以领导面对面的同伴培训和示威,并收集社区中坦诚的产品反馈。",
+      "en": "Supporting community champions: Supporting Canadians who are blind, Deafblind or have low vision to lead in-person peer training and demonstrations, and gather candid product feedback in their communities."
+    },
+    {
+      "kind": "list",
+      "text": "Informing product development: Sharing community insights with Meta’s accessibility and product teams to help improve future technology.",
+      "id": "p5",
+      "zh": "为产品开发提供信息:与Meta的无障碍和产品团队分享社区见解,以帮助改进未来的技术。",
+      "en": "Informing product development: Sharing community insights with Meta’s accessibility and product teams to help improve future technology."
+    },
+    {
+      "kind": "list",
+      "text": "Making learning accessible: Providing accessible guides, training materials and resources that people can use wherever they are.",
+      "id": "p6",
+      "zh": "提供学习机会:提供可获得的指南,培训教材和资源,人们无论身在何处都可以使用。",
+      "en": "Making learning accessible: Providing accessible guides, training materials and resources that people can use wherever they are."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Along with funding to help advance inclusive innovation, Meta is donating AI glasses through CNIB Come to Work program, which will put tools into the hands of people exploring employment opportunities and building their careers. The program provides training and practical resources to help participants assess how wearable technology can assist them in securing employment, succeeding at work and pursuing their goals.",
+      "id": "p7",
+      "zh": "在提供资金帮助推进包容性创新的同时,Meta正在通过CNIB Come to Working程序捐赠AI眼镜,它将把工具交给那些探索就业机会和建立事业的人。该方案提供培训和实际资源,帮助参与者评估可穿戴技术如何帮助他们获得就业;在工作中取得成功并追求其目标。",
+      "en": "Along with funding to help advance inclusive innovation, Meta is donating AI glasses through CNIB Come to Work program, which will put tools into the hands of people exploring employment opportunities and building their careers. The program provides training and practical resources to help participants assess how wearable technology can assist them in securing employment, succeeding at work and pursuing their goals."
+    },
+    {
+      "kind": "paragraph",
+      "text": "People use Meta’s AI glasses for everything from listening to music, to live translation and hands-free calls. But for people who are blind or have low vision, the difference they make can be life-changing — helping with everyday tasks like reading text, identifying objects and describing the world around them, and helping people live more independently.",
+      "id": "p8",
+      "zh": "人们用梅塔的AI眼镜 来做听音乐的一切,现场翻译和免费电话。至於盲目的人,或视而不见的人,他们所做的改变可以改变生活——帮助完成日常的任务,比如阅读文本,查明物体并描述其周围的世界,帮助人们更独立地生活。",
+      "en": "People use Meta’s AI glasses for everything from listening to music, to live translation and hands-free calls. But for people who are blind or have low vision, the difference they make can be life-changing — helping with everyday tasks like reading text, identifying objects and describing the world around them, and helping people live more independently."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This partnership builds on our work with blind and low vision communities around the world, including donating Ray-Ban Meta glasses to every blind veteran in America in partnership with the Blinded Veterans Association, and our work with Vision Ireland.",
+      "id": "p9",
+      "zh": "这种伙伴关系建立在我们与世界各地盲人和低视力社区合作的基础上,包括同盲人退伍军人协会合作,向美国每一个盲人退伍军人赠送雷班梅塔眼镜,以及我们与爱尔兰展望组织的合作。",
+      "en": "This partnership builds on our work with blind and low vision communities around the world, including donating Ray-Ban Meta glasses to every blind veteran in America in partnership with the Blinded Veterans Association, and our work with Vision Ireland."
+    },
+    {
+      "kind": "paragraph",
+      "text": "“The best technology is shaped with the people who will use it,” said Angela Bonfanti, President and CEO of CNIB. “People who are blind, Deafblind or have low vision bring valuable expertise about where barriers remain and how tools like AI glasses can offer greater choice, freedom and independence in everyday life. This partnership creates a direct path for that expertise to inform Meta’s work and help shape what comes next.”",
+      "id": "p10",
+      "zh": "Angela Bonfanti说,CNIB总裁兼首席执行官.“盲人,盲目或视力低下带来宝贵的专门知识,说明障碍依然存在之处,以及AI眼镜等工具如何提供更大的选择,日常生活中的自由和独立。这种伙伴关系为这种专门知识开辟了一条直接的道路,为Meta的工作提供信息,并帮助塑造接下来的工作。",
+      "en": "“The best technology is shaped with the people who will use it,” said Angela Bonfanti, President and CEO of CNIB. “People who are blind, Deafblind or have low vision bring valuable expertise about where barriers remain and how tools like AI glasses can offer greater choice, freedom and independence in everyday life. This partnership creates a direct path for that expertise to inform Meta’s work and help shape what comes next.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“We believe the future is for everyone. Partnerships like this one get Meta’s AI glasses to more blind, Deafblind and low-vision Canadians at work and in their daily lives. Working directly with CNIB and its community—the people who use the glasses every day—helps us build better products for everyone,” said Maxine Williams, VP of Accessibility, Meta.",
+      "id": "p11",
+      "zh": "“我们认为,未来是每个人的。这样的伙伴关系让Meta的AI眼镜变得更加盲目,耳聋和低视力的加拿大人在工作和日常生活中.直接与CNIB及其社区——每天使用眼镜的人——合作,帮助我们为每个人建造更好的产品, \" Maxine Williams说,无障碍的自愿行动计划;Meta. (原始内容存档于2018-09-21). Meta.",
+      "en": "“We believe the future is for everyone. Partnerships like this one get Meta’s AI glasses to more blind, Deafblind and low-vision Canadians at work and in their daily lives. Working directly with CNIB and its community—the people who use the glasses every day—helps us build better products for everyone,” said Maxine Williams, VP of Accessibility, Meta."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Learn more about Meta’s accessibility work and the features built into Meta’s AI glasses here.",
+      "id": "p12",
+      "zh": "更多了解Meta的无障碍工作以及Meta的AI眼镜中包含的功能.",
+      "en": "Learn more about Meta’s accessibility work and the features built into Meta’s AI glasses here."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们认为,未来是每个人的。Meta因此与CNIB合作 — — 一个成立于1918年的非盈利组织,以更多的盲人盟誓,聋盲或视力低下.伙伴关系的目标是帮助盲人,盲聋或视力低下 探索AI可穿戴技术的可能性,并借着他的知识,社区的专门知识和生机勃勃的经验,以塑造一个更加无障碍的未来。",
+      "en": "We believe the future is for everyone. That’s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "支持社区冠军:支持盲人加拿大人,盲目或视力低下,可以领导面对面的同伴培训和示威,并收集社区中坦诚的产品反馈。",
+      "en": "Supporting community champions: Supporting Canadians who are blind, Deafblind or have low vision to lead in-person peer training and demonstrations, and gather candid product feedback in their communities."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "Angela Bonfanti说,CNIB总裁兼首席执行官.“盲人,盲目或视力低下带来宝贵的专门知识,说明障碍依然存在之处,以及AI眼镜等工具如何提供更大的选择,日常生活中的自由和独立。这种伙伴关系为这种专门知识开辟了一条直接的道路,为Meta的工作提供信息,并帮助塑造接下来的工作。",
+      "en": "“The best technology is shaped with the people who will use it,” said Angela Bonfanti, President and CEO of CNIB. “People who are blind, Deafblind or have low vision bring valuable expertise about where barriers remain and how tools like AI glasses can offer greater choice, freedom and independence in everyday life. This partnership creates a direct path for that expertise to inform Meta’s work and help shape what comes next.”"
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "“我们认为,未来是每个人的。这样的伙伴关系让Meta的AI眼镜变得更加盲目,耳聋和低视力的加拿大人在工作和日常生活中.直接与CNIB及其社区——每天使用眼镜的人——合作,帮助我们为每个人建造更好的产品, \" Maxine Williams说,无障碍的自愿行动计划;Meta. (原始内容存档于2018-09-21).",
+      "en": "“We believe the future is for everyone. Partnerships like this one get Meta’s AI glasses to more blind, Deafblind and low-vision Canadians at work and in their daily lives."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "da2b617a5a23adf256184604dcd27fa36a904eebf6f6df1daf49422a2687a6bf"
+}

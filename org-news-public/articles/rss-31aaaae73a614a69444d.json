@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-31aaaae73a614a69444d",
+  "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+  "sourceTitle": "Expanding AI educator training to new countries",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T11:47:16.509020+00:00",
+  "fetchedAt": "2026-11-05T11:28:30.359456+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+  "language": "en",
+  "originalTitle": "Expanding AI educator training to new countries",
+  "author": "Jennie Magiera",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Teachers around the world strive to find better ways to overcome challenges and meet each students' unique needs, and many have discovered how AI can become a powerful assistant in this effort.",
+      "id": "p1",
+      "zh": "世界各地的教师努力寻找更好的方法来克服挑战,满足每个学生的独特需求,许多人发现AI如何成为这一努力的有力助手。",
+      "en": "Teachers around the world strive to find better ways to overcome challenges and meet each students' unique needs, and many have discovered how AI can become a powerful assistant in this effort."
+    },
+    {
+      "kind": "paragraph",
+      "text": "That's why we created the Google AI Educator Series (GES): a no-cost, on-demand training designed to give educators practical AI skills they can use immediately and that fits into their busy schedule.",
+      "id": "p2",
+      "zh": "这就是为什么我们创建了谷歌AI教育家系列(GES):免费的,根据需求培训,旨在向教育工作者提供他们可以立即使用的实用的AI技能,这符合他们繁忙的时间安排。",
+      "en": "That's why we created the Google AI Educator Series (GES): a no-cost, on-demand training designed to give educators practical AI skills they can use immediately and that fits into their busy schedule."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We first launched GES in the U.S earlier this year, and later expanded to India, Korea, Malaysia, Philippines, and the U.K & Ireland. In the coming months, we’re bringing GES to Brazil, Mexico, Spain, Australia, and sub-Saharan Africa.",
+      "id": "p3",
+      "zh": "我们今年早些时候在美国首次推出GES,并随后扩展到印度,韩国马来西亚菲律宾,英国和爱尔兰。在未来几个月里,我们把GES带到巴西,墨西哥,页:1澳大利亚非洲撒哈拉以南地区",
+      "en": "We first launched GES in the U.S earlier this year, and later expanded to India, Korea, Malaysia, Philippines, and the U.K & Ireland. In the coming months, we’re bringing GES to Brazil, Mexico, Spain, Australia, and sub-Saharan Africa."
+    },
+    {
+      "kind": "heading",
+      "text": "A look at GES from teachers around the world",
+      "id": "p4",
+      "zh": "环顾全球教师的GES",
+      "en": "A look at GES from teachers around the world"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Here is a look at how educators around the world are turning their training into practical applications that save time, make lessons more engaging, and support student learning:",
+      "id": "p5",
+      "zh": "以下是世界各地教育工作者如何将其培训转化为节省时间的实际应用,使教训更加吸引人,并支持学生学习:",
+      "en": "Here is a look at how educators around the world are turning their training into practical applications that save time, make lessons more engaging, and support student learning:"
+    },
+    {
+      "kind": "list",
+      "text": "India: Teachers are using Gemini and Gemini Notebook to turn complex topics into comic strips, podcasts & infographics – making learning more accessible and engaging. Following September sessions that trained 80,000 educators, we’re bringing GES to all Indian educators with self-paced online modules. Aligned with National Education Policy 2020, the training is available in English & six local languages — Hindi, Marathi, Telugu, Assamese, Odia, Punjabi — with more coming next year.",
+      "id": "p6",
+      "zh": "印度:教师们正在使用Gemini和Gemini笔记本 将复杂的话题变成连环画播客与插图 — — 使学习更容易获得和接触。在9月份培训了80,000名教育工作者之后,让印度所有教育者都拥有自定速度的在线模块。与2020年国家教育政策保持一致;培训有英语和六种当地语言——印地语,马拉蒂,泰卢固语,阿萨姆语,奥迪亚,旁遮普人——明年将有更多人。",
+      "en": "India: Teachers are using Gemini and Gemini Notebook to turn complex topics into comic strips, podcasts & infographics – making learning more accessible and engaging. Following September sessions that trained 80,000 educators, we’re bringing GES to all Indian educators with self-paced online modules. Aligned with National Education Policy 2020, the training is available in English & six local languages — Hindi, Marathi, Telugu, Assamese, Odia, Punjabi — with more coming next year."
+    },
+    {
+      "kind": "list",
+      "text": "Philippines: Educators are using Gemini to simulate complex market scenarios in economics classes and more, all to free up time for direct student guidance. To support this progress, we’ve partnered with the Philippine Department of Education, Commission on Higher Education, and Technical Skills Development Authority to bring AI training to over one million educators across the country. Building on this momentum, the Philippine Department of Education recently issued an official memorandum endorsing GES to all teaching and non-teaching staff nationwide.",
+      "id": "p7",
+      "zh": "菲律宾:教育家们正在利用Gemini模拟 经济学类的复杂市场情景都是为了腾出时间来指导学生为了支持这一进展,我们与菲律宾教育部合作,高等教育委员会,和技术技能发展局向全国100多万教育工作者提供人工智能培训。借助这一势头,菲律宾教育部最近发布了一份正式备忘录,向全国所有教职员工和非教职员工颁发教职员工证书。",
+      "en": "Philippines: Educators are using Gemini to simulate complex market scenarios in economics classes and more, all to free up time for direct student guidance. To support this progress, we’ve partnered with the Philippine Department of Education, Commission on Higher Education, and Technical Skills Development Authority to bring AI training to over one million educators across the country. Building on this momentum, the Philippine Department of Education recently issued an official memorandum endorsing GES to all teaching and non-teaching staff nationwide."
+    },
+    {
+      "kind": "list",
+      "text": "Malaysia: Following the official launch of GES at BETT Asia, Malaysian teachers report saving three to five hours of prep time on curricula, assessments, and visual aids per topic, allowing them to focus on interactive, student-centered learning. As a next step, we are launching \"train-the-trainer\" bootcamps alongside local partners to expand GES training to private school educators, pre-service teachers, and university faculty nationwide.",
+      "id": "p8",
+      "zh": "马来西亚:在BETT亚洲正式推出GES后,马来西亚教师报告说,在课程上节省了三到五个小时的准备时间,评估,和每个专题的视觉辅助器械,允许它们侧重于互动,以学生为中心的学习。作为下一步,我们正与当地合作伙伴一起发起“训练教练员”新营,将GES培训扩大到私立学校的教育工作者,在职前教师;和全国的大学教职员工。",
+      "en": "Malaysia: Following the official launch of GES at BETT Asia, Malaysian teachers report saving three to five hours of prep time on curricula, assessments, and visual aids per topic, allowing them to focus on interactive, student-centered learning. As a next step, we are launching \"train-the-trainer\" bootcamps alongside local partners to expand GES training to private school educators, pre-service teachers, and university faculty nationwide."
+    },
+    {
+      "kind": "list",
+      "text": "United Kingdom: In the U.K., teachers are using tools like Gemini Notebook to develop learners’ creative writing skills and create engaging lesson plans and visuals. Through the launch of GES, all 650,000 teachers can receive digital literacy training by joining virtual or in-person events around the UK and Ireland. We are also hosting “train the trainer” workshops in the Google London office in November.",
+      "id": "p9",
+      "zh": "联合王国:在英国,教师们正在使用Gemini笔记本等工具来培养学生的创造性写作技能,并创造参与课程计划和视觉。通过GES的推出,所有650 000名教师都可以参加联合王国和爱尔兰各地的虚拟或面对面活动,接受数字扫盲培训。我们还在11月在Google London办事处主办“训练培训员”讲习班。",
+      "en": "United Kingdom: In the U.K., teachers are using tools like Gemini Notebook to develop learners’ creative writing skills and create engaging lesson plans and visuals. Through the launch of GES, all 650,000 teachers can receive digital literacy training by joining virtual or in-person events around the UK and Ireland. We are also hosting “train the trainer” workshops in the Google London office in November."
+    },
+    {
+      "kind": "list",
+      "text": "Korea: In partnership with Seoul National University of Education (SNUE), GES in Korea is aligned with the 2022 Revised Curriculum and the Ministry of Education's Teacher AI/Digital Education Competency Framework. Teachers are using Gemini and Gemini Notebook to design inquiry-based lessons and assessments while streamlining administrative tasks like parent communications and data analysis.",
+      "id": "p10",
+      "zh": "大韩民国:与首尔国立教育大学合作,韩国的教研室与2022年订正课程和教育部教师AI/Digital Education Conformation框架保持一致。教师们正在使用Gemini和Gemini笔记本设计基于询问的教训和评估,同时简化诸如家长沟通和数据分析等行政任务.",
+      "en": "Korea: In partnership with Seoul National University of Education (SNUE), GES in Korea is aligned with the 2022 Revised Curriculum and the Ministry of Education's Teacher AI/Digital Education Competency Framework. Teachers are using Gemini and Gemini Notebook to design inquiry-based lessons and assessments while streamlining administrative tasks like parent communications and data analysis."
+    },
+    {
+      "kind": "heading",
+      "text": "New November sessions",
+      "id": "p11",
+      "zh": "11月新届会",
+      "en": "New November sessions"
+    },
+    {
+      "kind": "paragraph",
+      "text": "To ensure GES lessons are truly helpful, we update and create new content monthly in response to feedback from educators. Our November modules go live on November 4th in the U.S. focused on helping educators save time where they tell us they need it most.",
+      "id": "p12",
+      "zh": "为了确保GES的教训真正有用,根据教育工作者的反馈,我们每月更新和制作新的内容。我们的11月模块11月4日在美国上线.专注于帮助教育者节省时间 他们告诉我们他们最需要的时间。",
+      "en": "To ensure GES lessons are truly helpful, we update and create new content monthly in response to feedback from educators. Our November modules go live on November 4th in the U.S. focused on helping educators save time where they tell us they need it most."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Here's what's coming:",
+      "id": "p13",
+      "zh": "接下来是:",
+      "en": "Here's what's coming:"
+    },
+    {
+      "kind": "list",
+      "text": "Build interactive assessments: Learn how to use Gemini to build practice tests and interactive web assessments — like exit tickets with instant feedback and hints for incorrect answers — to help students prepare for assessments like state exams..",
+      "id": "p14",
+      "zh": "建立互动评估:学习如何使用Gemini来构建练习测试和互动网络评估——如有即时反馈和错误答案提示的退出门票——帮助学生.为国家考试等评估做准备。",
+      "en": "Build interactive assessments: Learn how to use Gemini to build practice tests and interactive web assessments — like exit tickets with instant feedback and hints for incorrect answers — to help students prepare for assessments like state exams.."
+    },
+    {
+      "kind": "list",
+      "text": "Guide students through game-based learning: Guide students through interactive, game-based learning experiences that demonstrate the importance of data accuracy, model performance, and human oversight.",
+      "id": "p15",
+      "zh": "通过基于游戏的学习指导学生:通过互动方式引导学生,基于游戏的学习经验,表明数据准确性的重要性,示范性能,和人类监督。",
+      "en": "Guide students through game-based learning: Guide students through interactive, game-based learning experiences that demonstrate the importance of data accuracy, model performance, and human oversight."
+    },
+    {
+      "kind": "list",
+      "text": "Strengthen academic assignments: Use Gemini to learn how to spot questions that can lead to taking shortcuts, helping faculty strengthen assignments and encourage deeper student critical thinking.",
+      "id": "p16",
+      "zh": "加强学术任务:利用Gemini来学习如何发现可以导致采取捷径的问题,帮助教职员工强化任务,鼓励学生进行更深入的批判性思考.",
+      "en": "Strengthen academic assignments: Use Gemini to learn how to spot questions that can lead to taking shortcuts, helping faculty strengthen assignments and encourage deeper student critical thinking."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Attendees at the Philippines GES Launch event",
+      "id": "p17",
+      "zh": "菲律宾GES发射活动的与会者",
+      "en": "Attendees at the Philippines GES Launch event"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Educators at the GES Malaysia launch Event",
+      "id": "p18",
+      "zh": "马来西亚GES发布会的教育工作者",
+      "en": "Educators at the GES Malaysia launch Event"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Regional education officials, the President of Seoul National University of Education, and Jennie Magiera gather at the Google office to celebrate the official launch of the Google AI Educator Series in Korea.",
+      "id": "p19",
+      "zh": "地区教育官员,首尔国立教育大学校长,而Jennie Magiera聚集在Google办公室,庆祝GoogleAI教育家系列在韩国正式推出.",
+      "en": "Regional education officials, the President of Seoul National University of Education, and Jennie Magiera gather at the Google office to celebrate the official launch of the Google AI Educator Series in Korea."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Earn your badge today and join a growing global community of educators.",
+      "id": "p20",
+      "zh": "今日获得你的徽章,加入一个日益壮大的全球性教育界.",
+      "en": "Earn your badge today and join a growing global community of educators."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p6",
+      "zh": "印度:教师们正在使用Gemini和Gemini笔记本 将复杂的话题变成连环画播客与插图 — — 使学习更容易获得和接触。在9月份培训了80,000名教育工作者之后,让印度所有教育者都拥有自定速度的在线模块。",
+      "en": "India: Teachers are using Gemini and Gemini Notebook to turn complex topics into comic strips, podcasts & infographics – making learning more accessible and engaging. Following September sessions that trained 80,000 educators, we’re bringing GES to all Indian educators with self-paced online modules."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "菲律宾:教育家们正在利用Gemini模拟 经济学类的复杂市场情景都是为了腾出时间来指导学生为了支持这一进展,我们与菲律宾教育部合作,高等教育委员会,和技术技能发展局向全国100多万教育工作者提供人工智能培训。借助这一势头,菲律宾教育部最近发布了一份正式备忘录,向全国所有教职员工和非教职员工颁发教职员工证书。",
+      "en": "Philippines: Educators are using Gemini to simulate complex market scenarios in economics classes and more, all to free up time for direct student guidance. To support this progress, we’ve partnered with the Philippine Department of Education, Commission on Higher Education, and Technical Skills Development Authority to bring AI training to over one million educators across the country."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "马来西亚:在BETT亚洲正式推出GES后,马来西亚教师报告说,在课程上节省了三到五个小时的准备时间,评估,和每个专题的视觉辅助器械,允许它们侧重于互动,以学生为中心的学习。作为下一步,我们正与当地合作伙伴一起发起“训练教练员”新营,将GES培训扩大到私立学校的教育工作者,在职前教师;和全国的大学教职员工。",
+      "en": "Malaysia: Following the official launch of GES at BETT Asia, Malaysian teachers report saving three to five hours of prep time on curricula, assessments, and visual aids per topic, allowing them to focus on interactive, student-centered learning. As a next step, we are launching \"train-the-trainer\" bootcamps alongside local partners to expand GES training to private school educators, pre-service teachers, and university faculty nationwide."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "联合王国:在英国,教师们正在使用Gemini笔记本等工具来培养学生的创造性写作技能,并创造参与课程计划和视觉。通过GES的推出,所有650 000名教师都可以参加联合王国和爱尔兰各地的虚拟或面对面活动,接受数字扫盲培训。",
+      "en": "United Kingdom: In the U.K., teachers are using tools like Gemini Notebook to develop learners’ creative writing skills and create engaging lesson plans and visuals. Through the launch of GES, all 650,000 teachers can receive digital literacy training by joining virtual or in-person events around the UK and Ireland."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "7d25b039efa02df8b653249c5f054a0320a094a9b562b99393133597d7c097f2"
+}

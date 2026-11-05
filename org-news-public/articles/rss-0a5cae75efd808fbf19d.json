@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-0a5cae75efd808fbf19d",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+  "sourceTitle": "Investing in Wyoming’s infrastructure, energy and workforce",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T17:24:24.482017+00:00",
+  "fetchedAt": "2026-11-05T17:24:27.648096+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+  "language": "en",
+  "originalTitle": "Investing in Wyoming’s infrastructure, energy and workforce",
+  "author": "Steve Walter",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, we are announcing our first data center in the state of Wyoming, in partnership with Tallgrass Energy, Black Hills Energy, American Electric Power (AEP), and Related Digital. Google is making a long-term, $17 billion investment in the Cowboy State, designed to deliver lasting benefits for Laramie County families and businesses.",
+      "id": "p1",
+      "zh": "今天,我们...我们正在宣布我们的第一个数据中心 在怀俄明州,与Tallgras能源公司合作,黑山能源公司 黑山能源公司美国电力公司(AEP),(原始内容存档于2017-09-21) (中文(简体) ). Entertainment.谷歌正在做一个长期,170亿投资 牛仔国家,旨在为拉莱米县家庭和企业提供持久福利。",
+      "en": "Today, we are announcing our first data center in the state of Wyoming, in partnership with Tallgrass Energy, Black Hills Energy, American Electric Power (AEP), and Related Digital. Google is making a long-term, $17 billion investment in the Cowboy State, designed to deliver lasting benefits for Laramie County families and businesses."
+    },
+    {
+      "kind": "heading",
+      "text": "Our commitment to responsible growth",
+      "id": "p2",
+      "zh": "我们对负责任增长的承诺",
+      "en": "Our commitment to responsible growth"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’re committed to partnering with communities to build data centers the right way. We will pay for 100% of the power we use, and when we build data centers, we’ll cover the infrastructure needs directly driven by our growth.",
+      "id": "p3",
+      "zh": "我们致力于与社区合作,以正确的方式建立数据中心。我们将支付100%的电力,我们使用,当我们建立数据中心时,我们将满足由增长直接驱动的基础设施需求。",
+      "en": "We’re committed to partnering with communities to build data centers the right way. We will pay for 100% of the power we use, and when we build data centers, we’ll cover the infrastructure needs directly driven by our growth."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The project is contracted with AEP to feature a first-of-its-kind, commercial-scale, 702 MW fuel cell development with carbon capture and storage (CCS) — the largest planned development of its kind to date. Fuel cells efficiently convert fuel, in this case natural gas, into electricity through a safe electrochemical reaction. The fuel cells for this project will be made in America by Bloom Energy and will help minimize emissions and water use in the production of energy for our data infrastructure.",
+      "id": "p4",
+      "zh": "该项目与AEP签订合同,以突出首选项目。商业规模,702兆瓦的燃料电池以碳捕获和储存(CCS)进行开发——这是迄今为止最大的计划开发.燃料电池高效地转换燃料,在这种情况下,天然气,通过安全电化学反应进入电力。这个项目的燃料电池将由Bloom Energy公司在美国制造,将有助于最大限度地减少排放和水的使用,用于生产我们的数据基础设施的能源。",
+      "en": "The project is contracted with AEP to feature a first-of-its-kind, commercial-scale, 702 MW fuel cell development with carbon capture and storage (CCS) — the largest planned development of its kind to date. Fuel cells efficiently convert fuel, in this case natural gas, into electricity through a safe electrochemical reaction. The fuel cells for this project will be made in America by Bloom Energy and will help minimize emissions and water use in the production of energy for our data infrastructure."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The CCS technology will enable the capture and permanent geologic storage of a large majority of its carbon emissions at Tallgrass’s nearby Eastern Wyoming Sequestration Hub. This project builds on our first CCS project in the U.S. announced last fall, and brings our total contracted CCS capacity to nearly 1 gigawatt.",
+      "id": "p5",
+      "zh": "二氧化碳捕获和储存技术将使大部分碳排放量能够捕获和永久地储存在附近的Tallgras的东怀俄明固存中心。这个项目以我们在美国的第一个CCS项目为基础。去年秋天宣布,并使我们的二氧化碳捕获和储存总量达到近一千兆瓦。",
+      "en": "The CCS technology will enable the capture and permanent geologic storage of a large majority of its carbon emissions at Tallgrass’s nearby Eastern Wyoming Sequestration Hub. This project builds on our first CCS project in the U.S. announced last fall, and brings our total contracted CCS capacity to nearly 1 gigawatt."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We are also sourcing power from gas generators operated by Tallgrass Energy and Black Hills Energy, and conducting a technical front-end engineering and design (FEED) study to evaluate fitting Tallgrass’s combined cycle turbines with CCS technology. Together, these efforts represent a novel approach to powering data centers efficiently, accelerating the commercialization of CCS, and creating pathways to reduce the carbon emissions associated with natural gas generation.",
+      "id": "p6",
+      "zh": "我们还从塔克格拉斯能源公司和黑山能源公司运营的燃气发电机获得电力,并进行技术前端工程和设计研究,以评价Tallgras结合CCS技术的循环涡轮机。一起来,这些努力是有效为数据中心提供动力的一种新办法,加速CCS的商业化,并创造途径来减少与天然气生产有关的碳排放。",
+      "en": "We are also sourcing power from gas generators operated by Tallgrass Energy and Black Hills Energy, and conducting a technical front-end engineering and design (FEED) study to evaluate fitting Tallgrass’s combined cycle turbines with CCS technology. Together, these efforts represent a novel approach to powering data centers efficiently, accelerating the commercialization of CCS, and creating pathways to reduce the carbon emissions associated with natural gas generation."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Water is another essential shared resource, and we remain deeply committed to using it responsibly and investing in local water replenishment efforts. Consistent with our water stewardship commitments for local communities, our Wyoming data center will be air-cooled to minimize strain on local water resources.",
+      "id": "p7",
+      "zh": "水是另一个基本的共享资源,我们仍然坚定致力于负责任地利用水资源,并投资于地方水资源补充工作。根据我们对当地社区的供水管理承诺,我们的怀俄明数据中心将被空气冷却 以尽量减少对当地水资源的压力",
+      "en": "Water is another essential shared resource, and we remain deeply committed to using it responsibly and investing in local water replenishment efforts. Consistent with our water stewardship commitments for local communities, our Wyoming data center will be air-cooled to minimize strain on local water resources."
+    },
+    {
+      "kind": "heading",
+      "text": "Investment in Cheyenne",
+      "id": "p8",
+      "zh": "在夏安的投资",
+      "en": "Investment in Cheyenne"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We know being a part of the community means investing in the things that matter most to the people in it. Google and our partners have held numerous meetings, and are continuously engaging key stakeholders at the local and state level. Recently, we hosted a community meeting in downtown Cheyenne; we spoke to and met with more than 200 residents in Laramie County, gathering clear and constructive feedback on their priorities. Those include:",
+      "id": "p9",
+      "zh": "我们知道,作为社区的一部分,意味着投资于对社区人民来说最重要的事物。Google和我们的合作伙伴举行了多次会议,并不断在地方和州一级与关键利益攸关方进行接触。近来.我们在夏安市中心主办了一个社区会议;我们和拉莱米县的200多位居民谈过话(b) 收集关于其优先事项的明确而有建设性的反馈。其中包括:",
+      "en": "We know being a part of the community means investing in the things that matter most to the people in it. Google and our partners have held numerous meetings, and are continuously engaging key stakeholders at the local and state level. Recently, we hosted a community meeting in downtown Cheyenne; we spoke to and met with more than 200 residents in Laramie County, gathering clear and constructive feedback on their priorities. Those include:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "A holistic picture of the economic benefits of this project. We expect this project to generate hundreds of millions of dollars in local property taxes for Laramie County and School District 1. This is in addition to our community investment plans, which will focus on initiatives in K-12 education, workforce development, and pathways to accelerate Wyoming’s economy.",
+      "id": "p10",
+      "zh": "全面了解该项目的经济效益。我们期望这个项目为拉拉米县和一校区带来数亿美元的地方地产税.这是除了我们的社区投资计划之外,将侧重于K-12教育方面的举措,劳动力发展,以及加速怀俄明经济的路径。",
+      "en": "A holistic picture of the economic benefits of this project. We expect this project to generate hundreds of millions of dollars in local property taxes for Laramie County and School District 1. This is in addition to our community investment plans, which will focus on initiatives in K-12 education, workforce development, and pathways to accelerate Wyoming’s economy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Requests for more information on career and job skilling opportunities. Through targeted grants, Google is partnering with key local institutions championing STEM education, supporting local entrepreneurs, and expanding skilled trades training across the state. We already hosted our first Community Day at the Cheyenne Children’s Museum, and we look forward to sharing more about our community partnerships in the coming weeks.",
+      "id": "p11",
+      "zh": "要求提供关于职业和工作技能机会的更多信息。通过有针对性的赠款,Google正与支持STEM教育的关键地方机构合作,支持当地企业家,扩大全州技术行业培训。我们已经在夏安儿童博物馆举办了首个社区日活动,我们期待着在今后几周中更多地分享关于我们社区伙伴关系的信息。",
+      "en": "Requests for more information on career and job skilling opportunities. Through targeted grants, Google is partnering with key local institutions championing STEM education, supporting local entrepreneurs, and expanding skilled trades training across the state. We already hosted our first Community Day at the Cheyenne Children’s Museum, and we look forward to sharing more about our community partnerships in the coming weeks."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Data center growth supporting communities. A key concern from the community meeting stretches beyond the boundaries of our own project — how data center growth is impacting Cheyenne as a community. Building on our existing engagement efforts, Google, Tallgrass Energy, Black Hills Energy, Related Digital, AEP, and Bloom Energy are standing up a Community Council designed to develop common-sense solutions to support Cheyenne through this phase of growth.",
+      "id": "p12",
+      "zh": "数据中心增长支持社区。社区会议的一个主要关切超越了我们项目的范围——数据中心的增长如何影响夏安作为一个社区。在我们现有的参与努力的基础上,Google( 谷歌) , ( 谷歌) , ( 谷歌)高草地能源 高草地能源黑山能源公司 黑山能源公司相关的数字、AEP, (英语).Bloom Energy正在组建一个社区理事会,旨在制定共同的明智解决办法,支持夏安人渡过这一增长阶段。",
+      "en": "Data center growth supporting communities. A key concern from the community meeting stretches beyond the boundaries of our own project — how data center growth is impacting Cheyenne as a community. Building on our existing engagement efforts, Google, Tallgrass Energy, Black Hills Energy, Related Digital, AEP, and Bloom Energy are standing up a Community Council designed to develop common-sense solutions to support Cheyenne through this phase of growth."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Data centers power the technology America relies on — everything from online banking, to digital maps and wayfinding, to hospitals and 911 systems. Building on Google’s 20-year track record of data center development, our promise is to show up today and tomorrow for Cowboy State residents. We are excited to put down roots in Wyoming and look forward to working closely with the community for decades to come.",
+      "id": "p13",
+      "zh": "数据中心为美国所依赖的科技提供动力——所有从在线银行,前往数字地图和寻找道路,到医院和911系统。在Google20年数据中心发展记录的基础上,我们的承诺是今天和明天 给牛仔州的居民亮相我们对在怀俄明州扎根感到兴奋并期待着今后几十年同社区密切合作。",
+      "en": "Data centers power the technology America relies on — everything from online banking, to digital maps and wayfinding, to hospitals and 911 systems. Building on Google’s 20-year track record of data center development, our promise is to show up today and tomorrow for Cowboy State residents. We are excited to put down roots in Wyoming and look forward to working closely with the community for decades to come."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...我们正在宣布我们的第一个数据中心 在怀俄明州,与Tallgras能源公司合作,黑山能源公司 黑山能源公司美国电力公司(AEP),(原始内容存档于2017-09-21) (中文(简体) ).Entertainment.谷歌正在做一个长期,170亿投资 牛仔国家,旨在为拉莱米县家庭和企业提供持久福利。",
+      "en": "Today, we are announcing our first data center in the state of Wyoming, in partnership with Tallgrass Energy, Black Hills Energy, American Electric Power (AEP), and Related Digital. Google is making a long-term, $17 billion investment in the Cowboy State, designed to deliver lasting benefits for Laramie County families and businesses."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "我们致力于与社区合作,以正确的方式建立数据中心。我们将支付100%的电力,我们使用,当我们建立数据中心时,我们将满足由增长直接驱动的基础设施需求。",
+      "en": "We’re committed to partnering with communities to build data centers the right way. We will pay for 100% of the power we use, and when we build data centers, we’ll cover the infrastructure needs directly driven by our growth."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "该项目与AEP签订合同,以突出首选项目。商业规模,702兆瓦的燃料电池以碳捕获和储存(CCS)进行开发——这是迄今为止最大的计划开发.燃料电池高效地转换燃料,在这种情况下,天然气,通过安全电化学反应进入电力。",
+      "en": "The project is contracted with AEP to feature a first-of-its-kind, commercial-scale, 702 MW fuel cell development with carbon capture and storage (CCS) — the largest planned development of its kind to date. Fuel cells efficiently convert fuel, in this case natural gas, into electricity through a safe electrochemical reaction."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "全面了解该项目的经济效益。我们期望这个项目为拉拉米县和一校区带来数亿美元的地方地产税.这是除了我们的社区投资计划之外,将侧重于K-12教育方面的举措,劳动力发展,以及加速怀俄明经济的路径。",
+      "en": "A holistic picture of the economic benefits of this project. We expect this project to generate hundreds of millions of dollars in local property taxes for Laramie County and School District 1."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "29180ba0a209477922812e7a421b015b0f362e511b0f8dc971d6cfae6965e266"
+}

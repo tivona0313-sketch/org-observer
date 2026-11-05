@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T11:50:24.518596+00:00",
+  "updatedAt": "2026-11-05T17:24:37.300857+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -69,6 +69,34 @@
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "sourceTitle": "Setting a new standard for responsible AI infrastructure",
       "error": "http_403"
+    },
+    "rss-485654c1f98a7cdcb606": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "sourceTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "contentHash": "522272c1ae20e966b2cb3c8ceeac7ae1541e48c28c72162d34a5f437d09a4400",
+      "fetchedAt": "2026-11-05T17:24:27.993604+00:00"
+    },
+    "rss-0a5cae75efd808fbf19d": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "sourceTitle": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "contentHash": "29180ba0a209477922812e7a421b015b0f362e511b0f8dc971d6cfae6965e266",
+      "fetchedAt": "2026-11-05T17:24:27.648096+00:00"
+    },
+    "rss-502c395cb72e52281f58": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+      "sourceTitle": "Transform a quick drawing into a live app with Gemini.",
+      "contentHash": "2073f9a2ab0123473a8a7e15d52465fbfd0dcbcf131e6e13860f1c06c5be9e59",
+      "fetchedAt": "2026-11-05T17:24:28.113659+00:00"
+    },
+    "rss-1f44f1d6c980daf405f6": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+      "sourceTitle": "Check out our free livestream during National Veterans Small Business Week.",
+      "contentHash": "3cdce457992afb5f91d52c797e433c7363dcbe721f31ae9a0c624f98e42d8fcd",
+      "fetchedAt": "2026-11-05T17:24:33.579183+00:00"
     },
     "rss-ebcb473680819ed5ad4c": {
       "status": "ready",

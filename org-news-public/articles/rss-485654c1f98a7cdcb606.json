@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-485654c1f98a7cdcb606",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "sourceTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T17:24:24.482534+00:00",
+  "fetchedAt": "2026-11-05T17:24:27.993604+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "language": "en",
+  "originalTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "author": "Anish Nangia",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business. Gemini Omni 1.2 Flash introduces native 15-second video creation, multi-turn conversational editing capabilities, and enhanced reference following. We have dropped the price 30% from Gemini Omni 1.1 making it available at $0.07 per second for 720p video.",
+      "id": "p1",
+      "zh": "今天,我们...我们推出Gemini闪光灯1.2,并在GeminiAPI和Gemini之间普遍提供,用于商务.GeminiOmni 1.2 Flash引入了原生的15秒视频创作,多回合对话编辑能力,并随后加强参考。我们从Gemini1的价位下调了30% 以每秒0.07美元的价格播放720p的视频",
+      "en": "Today, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business. Gemini Omni 1.2 Flash introduces native 15-second video creation, multi-turn conversational editing capabilities, and enhanced reference following. We have dropped the price 30% from Gemini Omni 1.1 making it available at $0.07 per second for 720p video."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Here’s an overview of what’s new:",
+      "id": "p2",
+      "zh": "以下是对新事物的概述:",
+      "en": "Here’s an overview of what’s new:"
+    },
+    {
+      "kind": "heading",
+      "text": "Fast and cost-effective at scale",
+      "id": "p3",
+      "zh": "速度快、成本效益高",
+      "en": "Fast and cost-effective at scale"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Beyond the lower price, the workflow keeps costs down: you can draft fast at 360p or 720p, fix a detail with a follow-up edit instead of re-generating the entire clip, and then upscale your best creations to 1080p or 4K.",
+      "id": "p4",
+      "zh": "在低价之外,工作流程将成本降低:你可以快速在360p或720p,用后续编辑来固定细节,而不是重新生成整个剪辑,然后将你最好的创造提升到1080p或4K.",
+      "en": "Beyond the lower price, the workflow keeps costs down: you can draft fast at 360p or 720p, fix a detail with a follow-up edit instead of re-generating the entire clip, and then upscale your best creations to 1080p or 4K."
+    },
+    {
+      "kind": "heading",
+      "text": "Longer clips up to 15 seconds",
+      "id": "p5",
+      "zh": "更长的片段可长达15秒",
+      "en": "Longer clips up to 15 seconds"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can now generate and edit videos natively up to 15 seconds long, up from 10 seconds with Omni 1.1. You can also specify duration in one-second increments from 3 to 15 seconds, giving you room to tell complete stories, create product explainers, or produce full social ad spots in a single generation.",
+      "id": "p6",
+      "zh": "您现在可以在本地生成和编辑视频,最长可达15秒长,从10秒与Omni 1.1。也可以在一秒钟内指定从3到15秒的加长时间,让你有机会讲完整的故事,创造产品解释者,或在一代人中产生完整的社交广告点.",
+      "en": "You can now generate and edit videos natively up to 15 seconds long, up from 10 seconds with Omni 1.1. You can also specify duration in one-second increments from 3 to 15 seconds, giving you room to tell complete stories, create product explainers, or produce full social ad spots in a single generation."
+    },
+    {
+      "kind": "heading",
+      "text": "Better reference adherence",
+      "id": "p7",
+      "zh": "更好地遵守参照标准",
+      "en": "Better reference adherence"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can guide generation combining character, product, or style images, short motion clips (up to three seconds), and audio cues — and Omni 1.2 Flash holds onto those details from start to finish. Faces, garments, packaging typography, and brand colors stay consistent across camera angles, making it easy to turn existing product photography or character sheets into virtual try-on clips, catalog spins, and branded video ads.",
+      "id": "p8",
+      "zh": "你可以引导世代结合性格,产品,或样式图像,短运动片段(最多3秒),以及音频提示——和Omni 1.2 Flash从头到尾都掌握着这些细节.脸,衣着,包装打字,和品牌颜色 保持一致的相机角度,使现有的产品摄影或人物表容易变成虚拟试播集,目录旋转,和品牌视频广告。",
+      "en": "You can guide generation combining character, product, or style images, short motion clips (up to three seconds), and audio cues — and Omni 1.2 Flash holds onto those details from start to finish. Faces, garments, packaging typography, and brand colors stay consistent across camera angles, making it easy to turn existing product photography or character sheets into virtual try-on clips, catalog spins, and branded video ads."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Combining one model photo with front-and-back product shots of three outfits, Gemini Omni 1.2 Flash generates a 15-second virtual try-on sequence across 360-degree turns and match cuts while keeping the model’s identity and each garment’s cut, drape, and back details consistent.",
+      "id": "p9",
+      "zh": "将一张照片和前后三件衣服的产品合在一起GeminiOmni 1.2 Flash在360度的转弯和相匹配切上产生15秒的虚拟尝试序列,同时保持模型的身份和每个服装的切入.花花红花花花花和背面细节一致。",
+      "en": "Combining one model photo with front-and-back product shots of three outfits, Gemini Omni 1.2 Flash generates a 15-second virtual try-on sequence across 360-degree turns and match cuts while keeping the model’s identity and each garment’s cut, drape, and back details consistent."
+    },
+    {
+      "kind": "heading",
+      "text": "More consistent results",
+      "id": "p10",
+      "zh": "更一致的成果",
+      "en": "More consistent results"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can maintain stronger character, object, and scene consistency from the first to the last frame, with less visual drift or morphing across motion and camera transitions. Whether you’re interpolating between a first and last keyframe, or extending a clip to build a longer sequence, products, characters, props, and environments stay consistent from shot to shot.",
+      "id": "p11",
+      "zh": "你可以保持更强的性格,对象,和场景一致性 从第一帧到最后一帧,视觉的漂移或变形 跨越运动和相机的过渡。无论您是否在插入第一个和最后一个键框之间,或扩展一个剪辑来构建一个更长的序列,产品,字符,则道具 道具 道具环境从一发一发一直维持不变",
+      "en": "You can maintain stronger character, object, and scene consistency from the first to the last frame, with less visual drift or morphing across motion and camera transitions. Whether you’re interpolating between a first and last keyframe, or extending a clip to build a longer sequence, products, characters, props, and environments stay consistent from shot to shot."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Given the same static studio lighting exhibition poster and five-layer animation prompt, Gemini Omni 1.1 Flash does not match the reference image as closely as 1.2 does. Gemini Omni 1.2 Flash builds the poster sequentially layer by layer on the dusty-pink cyclorama rising the hexagonal plinth, assembling the ribbed glass, warm filament, faceted crystal, and coiled-cord letterforms for HALO, GLOW, and LUMEN, and locking every material, shadow, and typographic detail consistently through the final frame.",
+      "id": "p12",
+      "zh": "鉴于同样的静态工作室照明展览海报 和五层的动画迅速,GeminiOmni 1.1 Flash与参考图像不相匹配到1.2相近.GeminiOmni 1.2 Flash在起起六边形平面的灰尘-平克环形山上依次分层建起海报,组装肋骨玻璃,温暖的丝绸,面相结晶,和拼接-阴道字母格式 HALO,低调,和卢门,锁住所有材料,阴影,和打印细节 一致通过最终框架。",
+      "en": "Given the same static studio lighting exhibition poster and five-layer animation prompt, Gemini Omni 1.1 Flash does not match the reference image as closely as 1.2 does. Gemini Omni 1.2 Flash builds the poster sequentially layer by layer on the dusty-pink cyclorama rising the hexagonal plinth, assembling the ribbed glass, warm filament, faceted crystal, and coiled-cord letterforms for HALO, GLOW, and LUMEN, and locking every material, shadow, and typographic detail consistently through the final frame."
+    },
+    {
+      "kind": "heading",
+      "text": "Easier editing in conversation",
+      "id": "p13",
+      "zh": "谈话中的轻松编辑",
+      "en": "Easier editing in conversation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can refine the same clip turn by turn — such as swapping a product or background, changing the lighting or weather, or switching the aspect ratio — instead of starting over from scratch. Multi-turn conversational editing works across full 15-second clips, making it easy to produce ad variants for different audiences and placements without re-briefing or re-generating.",
+      "id": "p14",
+      "zh": "你可以通过转弯来细化同样的剪辑,例如交换产品或背景,改变灯光或天气,或切换宽度比,而不是从零开始。多回合对话编辑工作 整个15秒的剪辑,方便为不同的受众制作广告变体和插播,而无需再作简报或重新制作。",
+      "en": "You can refine the same clip turn by turn — such as swapping a product or background, changing the lighting or weather, or switching the aspect ratio — instead of starting over from scratch. Multi-turn conversational editing works across full 15-second clips, making it easy to produce ad variants for different audiences and placements without re-briefing or re-generating."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Starting from one generated clip, multi-turn conversational prompts swap the background turn by turn — from a striped pavilion tent to an oak forest, a stable with a white horse, a market fair, and a stone castle — while keeping both characters’ performances, armor reflections, and camera framing intact.",
+      "id": "p15",
+      "zh": "从一个生成的剪辑开始,多回合对话促使将背景依次交换——从条纹花厅帐篷到橡树森林,与一匹白马相会的马厩,一个市场交易会,和一座石头城堡——同时保留两个人物的表演,装甲反射,摄影机和摄影机都完好无损",
+      "en": "Starting from one generated clip, multi-turn conversational prompts swap the background turn by turn — from a striped pavilion tent to an oak forest, a stable with a white horse, a market fair, and a stone castle — while keeping both characters’ performances, armor reflections, and camera framing intact."
+    },
+    {
+      "kind": "heading",
+      "text": "More natural speech",
+      "id": "p16",
+      "zh": "更自然的演讲",
+      "en": "More natural speech"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can generate scenes with more fluid, natural-sounding dialogue, clearer lip-sync, and distinct multi-speaker conditioning. This will show up whether you’re directing multi-character dialogue in Flow, creating video explainers in Gemini for business, or creating polished, pro videos with avatars, music and narration in Google Vids.",
+      "id": "p17",
+      "zh": "你可以产生更多流体的场景,自然对话,更清晰的口交,和独特的多语调调。这将显示您是否正在引导“流”中的多特征对话,在Gemini创建商业视频解释器,或创造已磨损的、专业的视频 与阿凡达人,Google Vids的音乐和叙事。",
+      "en": "You can generate scenes with more fluid, natural-sounding dialogue, clearer lip-sync, and distinct multi-speaker conditioning. This will show up whether you’re directing multi-character dialogue in Flow, creating video explainers in Gemini for business, or creating polished, pro videos with avatars, music and narration in Google Vids."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Conditioned on one conservatory scene image alongside four character, mouth, and one-second voice references, Gemini Omni 1.2 Flash routes each sampled voice to the right character with expressive lip-sync and natural comedic timing across a 15-second animated scene.",
+      "id": "p18",
+      "zh": "在一个音乐场景的画面上 和四个角色在一起嘴 嘴 嘴 嘴 嘴和一秒钟的语音参考,GeminiOmni 1.2 Flash将每个被取样的语音带给合适的角色,并带有表现口音同步和自然喜剧时间穿越出15秒的动画场景.",
+      "en": "Conditioned on one conservatory scene image alongside four character, mouth, and one-second voice references, Gemini Omni 1.2 Flash routes each sampled voice to the right character with expressive lip-sync and natural comedic timing across a 15-second animated scene."
+    },
+    {
+      "kind": "heading",
+      "text": "More controllable, cinematic look",
+      "id": "p19",
+      "zh": "更可控的,电影的外观",
+      "en": "More controllable, cinematic look"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can direct complex, continuous camera movements like sweeping FPV flythroughs to dramatic zoom-outs and orbits with significantly fewer unwanted jump cuts, steadier scale, and a more polished, cinematic look.",
+      "id": "p20",
+      "zh": "你可以指挥复杂,连续的相机运动,如扫射FPV飞向戏剧性的放大和轨道,意外的跳跃切口要少得多,更坚固的尺度,和更加光泽的,电影的外观。",
+      "en": "You can direct complex, continuous camera movements like sweeping FPV flythroughs to dramatic zoom-outs and orbits with significantly fewer unwanted jump cuts, steadier scale, and a more polished, cinematic look."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Guided by two architectural reference photos, Gemini Omni 1.2 Flash directs one continuous FPV drone flight across the piazza, through the bronze doors, and up through the Pantheon’s coffered dome to the oculus with zero jump cuts.",
+      "id": "p21",
+      "zh": "在两张建筑参考相片的指引下GeminiOmni 1.2 Flash指挥一架FPV无人机连续飞行穿越了广场,通过青铜门,并且通过万神殿的圆顶 以零跳跃切入。",
+      "en": "Guided by two architectural reference photos, Gemini Omni 1.2 Flash directs one continuous FPV drone flight across the piazza, through the bronze doors, and up through the Pantheon’s coffered dome to the oculus with zero jump cuts."
+    },
+    {
+      "kind": "heading",
+      "text": "Longer clips with smoother motion and tighter consistency",
+      "id": "p22",
+      "zh": "较长的片段,动作更平滑,一致性更紧",
+      "en": "Longer clips with smoother motion and tighter consistency"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini Omni 1.2 Flash generates clips up to 15 seconds long that hold references together better than before. You can scroll through to see characters, text, and camera moves stay consistent across longer shots, multiple turns and transitions with no cuts.",
+      "id": "p23",
+      "zh": "GeminiOmni 1.2 Flash生成可长达15秒长的片段,比以前更能把引用放在一起.你可以滚动通过看字符,文本,则相机的移动在更长的镜头间保持一致,多个转弯和过渡,没有切口.",
+      "en": "Gemini Omni 1.2 Flash generates clips up to 15 seconds long that hold references together better than before. You can scroll through to see characters, text, and camera moves stay consistent across longer shots, multiple turns and transitions with no cuts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "15 second long clips: Turns one style frame into a 4-shot, 15-second macro science explainer with accurately spelled, motion-tracked callouts.",
+      "id": "p24",
+      "zh": "15秒长片段:将一个风格框架变成4发子弹15秒的宏观科学解释 准确的拼写,移动跟踪呼叫。",
+      "en": "15 second long clips: Turns one style frame into a 4-shot, 15-second macro science explainer with accurately spelled, motion-tracked callouts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Multi-turn motion transfer: Generates a rippling octopus in Turn 1, then replaces it in Turn 2 with a dancer whose gown mirrors the exact fluid motion.",
+      "id": "p25",
+      "zh": "多回合运动转移 :第1回产生一头被撕裂的章鱼然后用一个舞者来代替它, 他的长袍照亮了准确的流体运动。",
+      "en": "Multi-turn motion transfer: Generates a rippling octopus in Turn 1, then replaces it in Turn 2 with a dancer whose gown mirrors the exact fluid motion."
+    },
+    {
+      "kind": "paragraph",
+      "text": "First-to-last frame consistency (1.1 vs. 1.2): Connects an exterior start frame and interior end frame in one continuous camera push in 1.2 Flash. You can see subtle differences like the cats on the roof, the soup ladle turning into chopsticks, and some other minor changes.",
+      "id": "p26",
+      "zh": "第一至最后一帧一致性(1.1 vs.1.2: (中文(简体) ).以1.2 Flash的连续相机推力连接一个外置起动相框和内置起动相框.你可以看到微妙的区别 就像猫在屋顶上,汤壶变成筷子,还有其他一些小的改变。",
+      "en": "First-to-last frame consistency (1.1 vs. 1.2): Connects an exterior start frame and interior end frame in one continuous camera push in 1.2 Flash. You can see subtle differences like the cats on the roof, the soup ladle turning into chopsticks, and some other minor changes."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Unbroken crash zoom-out: Pulls continuously from a tight shoreline close-up to an aerial island vista in one 10-second shot with natural scale and zero cuts.",
+      "id": "p27",
+      "zh": "未断崩溃缩放 :连续从紧凑的海岸线近距离向空中岛屿靠拢,以一分十秒的射入,自然规模和零分削减。",
+      "en": "Unbroken crash zoom-out: Pulls continuously from a tight shoreline close-up to an aerial island vista in one 10-second shot with natural scale and zero cuts."
+    },
+    {
+      "kind": "heading",
+      "text": "Real-world results, from creatives to global brands",
+      "id": "p28",
+      "zh": "现实世界的结果,从创意到全球品牌",
+      "en": "Real-world results, from creatives to global brands"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Businesses, startups, and creatives are already using Gemini Omni 1.2 Flash in their workflows. And for the first time, Gemini Omni is now generally available, backed by Google Cloud’s enterprise-grade infrastructure and security. Provisioned Throughput is available, and outputs carry an imperceptible SynthID watermark.",
+      "id": "p29",
+      "zh": "企业,初创,和创意已经使用GeminiOmni 1.2 Flash 在其工作流程中。并初发心相.GeminiOmni现在普遍可以使用,由Google Cloud的企业级基础设施和安全支持。可获得可提供的产出,输出带有无法识别的合成器水印。",
+      "en": "Businesses, startups, and creatives are already using Gemini Omni 1.2 Flash in their workflows. And for the first time, Gemini Omni is now generally available, backed by Google Cloud’s enterprise-grade infrastructure and security. Provisioned Throughput is available, and outputs carry an imperceptible SynthID watermark."
+    },
+    {
+      "kind": "heading",
+      "text": "Get started with Gemini Omni 1.2 Flash",
+      "id": "p30",
+      "zh": "开始GeminiOmni 1.2闪光",
+      "en": "Get started with Gemini Omni 1.2 Flash"
+    },
+    {
+      "kind": "paragraph",
+      "text": "While development is ongoing to further improve things like fast sports action, rapid script changes and complex physics, Gemini Omni 1.2 Flash is ideal for businesses, developers, and creators producing videos at scale. You can get started with Gemini Omni 1.2 Flash today as it rolls out across Google’s products and developer platforms:",
+      "id": "p31",
+      "zh": "正在发展,以进一步改善诸如快速体育行动等情况,快速的脚本变化 和复杂的物理,GeminiOmni 1.2 Flash对企业来说是理想的,开发者,以及制作大规模视频的创造者。在Google的产品和开发者平台上,",
+      "en": "While development is ongoing to further improve things like fast sports action, rapid script changes and complex physics, Gemini Omni 1.2 Flash is ideal for businesses, developers, and creators producing videos at scale. You can get started with Gemini Omni 1.2 Flash today as it rolls out across Google’s products and developer platforms:"
+    },
+    {
+      "kind": "list",
+      "text": "For developers using the Gemini API: Prototype in Google AI Studio, explore interactive starter apps, and check out the developer documentation and pricing.",
+      "id": "p32",
+      "zh": "对于使用Gemini API 的开发者:Google AI Studio中的原型,探索交互式启动程序,并查看开发商的文档和定价。",
+      "en": "For developers using the Gemini API: Prototype in Google AI Studio, explore interactive starter apps, and check out the developer documentation and pricing."
+    },
+    {
+      "kind": "list",
+      "text": "For businesses: Try it in the Google Cloud console, and build enterprise solutions with the API.",
+      "id": "p33",
+      "zh": "企业:在Google云台里试试看并用API构建企业解决方案.",
+      "en": "For businesses: Try it in the Google Cloud console, and build enterprise solutions with the API."
+    },
+    {
+      "kind": "list",
+      "text": "For everyone using Google apps: Direct scenes and multi-turn edits in Flow, generate 15-second clips at no additional cost in Google Vids with a Google account or Google Workspace subscription, create 15-second videos in the Gemini app (rolling out to Google AI Ultra subscribers), and scale video campaigns in Google Ads.",
+      "id": "p34",
+      "zh": "对于使用Google应用程序的每个人:直接场景和多回合编辑在\"流\"中,以谷歌账户或谷歌工作空间订阅方式,在谷歌视频中生成15秒的剪辑,不增加成本,在双子公司应用程序中创建15秒的视频(推出到Google AI Ultra用户),和在Google Ads的视频活动规模。",
+      "en": "For everyone using Google apps: Direct scenes and multi-turn edits in Flow, generate 15-second clips at no additional cost in Google Vids with a Google account or Google Workspace subscription, create 15-second videos in the Gemini app (rolling out to Google AI Ultra subscribers), and scale video campaigns in Google Ads."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...我们推出Gemini闪光灯1.2,并在GeminiAPI和Gemini之间普遍提供,用于商务.GeminiOmni 1.2 Flash引入了原生的15秒视频创作,多回合对话编辑能力,并随后加强参考。我们从Gemini1的价位下调了30% 以每秒0.07美元的价格播放720p的视频",
+      "en": "Today, we’re rolling out Gemini Omni 1.2 Flash, and making it generally available across the Gemini API and Gemini for business. Gemini Omni 1.2 Flash introduces native 15-second video creation, multi-turn conversational editing capabilities, and enhanced reference following."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "你可以引导世代结合性格,产品,或样式图像,短运动片段(最多3秒),以及音频提示——和Omni 1.2 Flash从头到尾都掌握着这些细节.脸,衣着,包装打字,和品牌颜色 保持一致的相机角度,使现有的产品摄影或人物表容易变成虚拟试播集,目录旋转,和品牌视频广告。",
+      "en": "You can guide generation combining character, product, or style images, short motion clips (up to three seconds), and audio cues — and Omni 1.2 Flash holds onto those details from start to finish. Faces, garments, packaging typography, and brand colors stay consistent across camera angles, making it easy to turn existing product photography or character sheets into virtual try-on clips, catalog spins, and branded video ads."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "将一张照片和前后三件衣服的产品合在一起GeminiOmni 1.2 Flash在360度的转弯和相匹配切上产生15秒的虚拟尝试序列,同时保持模型的身份和每个服装的切入.花花红花花花花和背面细节一致。",
+      "en": "Combining one model photo with front-and-back product shots of three outfits, Gemini Omni 1.2 Flash generates a 15-second virtual try-on sequence across 360-degree turns and match cuts while keeping the model’s identity and each garment’s cut, drape, and back details consistent."
+    },
+    {
+      "paragraphId": "p23",
+      "zh": "GeminiOmni 1.2 Flash生成可长达15秒长的片段,比以前更能把引用放在一起.你可以滚动通过看字符,文本,则相机的移动在更长的镜头间保持一致,多个转弯和过渡,没有切口.",
+      "en": "Gemini Omni 1.2 Flash generates clips up to 15 seconds long that hold references together better than before. You can scroll through to see characters, text, and camera moves stay consistent across longer shots, multiple turns and transitions with no cuts."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "522272c1ae20e966b2cb3c8ceeac7ae1541e48c28c72162d34a5f437d09a4400"
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "provider": "Google Translate · machine translation",
-  "generatedAt": "2026-11-05T11:14:57.980446+00:00",
-  "revision": "2aaee621d3630f5618e0cd37ba1e1290dad589de2e1e27fc4df40c9f74b5a619",
+  "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
+  "generatedAt": "2026-11-05T17:24:24.441333+00:00",
+  "revision": "f437c782b0b663a2f8152b492c1e980775a1c3223c89a3262e4e455eb453190b",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -418,6 +418,86 @@
         "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
         "sourceTitle": "Setting a new standard for responsible AI infrastructure",
         "source": "OpenAI News"
+      }
+    },
+    "rss-485654c1f98a7cdcb606": {
+      "original": {
+        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+        "sourceTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "GeminiOmni 1.2闪光:快速和具有成本效益的长片段",
+        "summary": "GeminiOmni 1.2 Flash带来原生的15秒视频生成和编辑,更加一致,价格降低30%。",
+        "sourceTitle": "GeminiOmni 1.2闪光:快速和具有成本效益的长片段",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+        "sourceTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-0a5cae75efd808fbf19d": {
+      "original": {
+        "title": "Investing in Wyoming’s infrastructure, energy and workforce",
+        "summary": "We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
+        "sourceTitle": "Investing in Wyoming’s infrastructure, energy and workforce",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "投资于怀俄明州的基础设施,能源与劳动力",
+        "summary": "我们正在怀俄明州建造我们的第一个数据中心,代表对牛仔州投资170亿元.",
+        "sourceTitle": "投资于怀俄明州的基础设施,能源与劳动力",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Investing in Wyoming’s infrastructure, energy and workforce",
+        "summary": "We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
+        "sourceTitle": "Investing in Wyoming’s infrastructure, energy and workforce",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-502c395cb72e52281f58": {
+      "original": {
+        "title": "Transform a quick drawing into a live app with Gemini.",
+        "summary": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+        "sourceTitle": "Transform a quick drawing into a live app with Gemini.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "用Gemini的活程序 转换一个快速的图画",
+        "summary": "用Gemini把素描变成实用的应用软件.将您的绘图上传到 Canvas 工具, 以立即生成和完善代码 。试试看",
+        "sourceTitle": "用Gemini的活程序 转换一个快速的图画",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Transform a quick drawing into a live app with Gemini.",
+        "summary": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+        "sourceTitle": "Transform a quick drawing into a live app with Gemini.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-1f44f1d6c980daf405f6": {
+      "original": {
+        "title": "Check out our free livestream during National Veterans Small Business Week.",
+        "summary": "Join our November 2026 YouTube livestream for National Veterans Small Business Week. Master AI skills with Gemini and get 1:1 coaching. Register today.",
+        "sourceTitle": "Check out our free livestream during National Veterans Small Business Week.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "全国退役军人小商业周期间,请看我们的免费直播流程.",
+        "summary": "加入2026年11月\"全国退役军人小商业周\"YouTube直播.AI大师技能与Gemini并获得1:1的教练.登记今天。",
+        "sourceTitle": "全国退役军人小商业周期间,请看我们的免费直播流程.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Check out our free livestream during National Veterans Small Business Week.",
+        "summary": "Join our November 2026 YouTube livestream for National Veterans Small Business Week. Master AI skills with Gemini and get 1:1 coaching. Register today.",
+        "sourceTitle": "Check out our free livestream during National Veterans Small Business Week.",
+        "source": "Google The Keyword"
       }
     },
     "rss-ebcb473680819ed5ad4c": {

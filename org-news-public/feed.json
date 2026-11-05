@@ -18,6 +18,71 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-485654c1f98a7cdcb606",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "date": "2026-11-05",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-0a5cae75efd808fbf19d",
+      "title": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "summary": "We’re building our first data center in Wyoming, representing a $17 billion investment in the Cowboy State.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+      "date": "2026-11-05",
+      "categories": [
+        "人才结构"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Investing in Wyoming’s infrastructure, energy and workforce",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-502c395cb72e52281f58",
+      "title": "Transform a quick drawing into a live app with Gemini.",
+      "summary": "Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+      "date": "2026-11-05",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Transform a quick drawing into a live app with Gemini.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-1f44f1d6c980daf405f6",
+      "title": "Check out our free livestream during National Veterans Small Business Week.",
+      "summary": "Join our November 2026 YouTube livestream for National Veterans Small Business Week. Master AI skills with Gemini and get 1:1 coaching. Register today.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+      "date": "2026-11-05",
+      "categories": [
+        "人才标准",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Check out our free livestream during National Veterans Small Business Week.",
+      "sourceId": "google"
+    },
+    {
       "id": "rss-ebcb473680819ed5ad4c",
       "title": "Take a closer look at art with the Courtauld",
       "summary": "Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
@@ -1475,35 +1540,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-05T11:50:23.208747+00:00",
-      "lastSuccess": "2026-11-05T11:50:23.297963+00:00",
+      "attemptedAt": "2026-11-05T17:24:22.014736+00:00",
+      "lastSuccess": "2026-11-05T17:24:22.181647+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-05T11:50:23.209758+00:00",
-      "lastSuccess": "2026-11-05T11:50:23.490372+00:00",
-      "count": 14
+      "attemptedAt": "2026-11-05T17:24:22.015714+00:00",
+      "lastSuccess": "2026-11-05T17:24:22.178774+00:00",
+      "count": 15
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-05T11:50:23.210282+00:00",
-      "lastSuccess": "2026-11-05T11:50:23.288426+00:00",
+      "attemptedAt": "2026-11-05T17:24:22.016256+00:00",
+      "lastSuccess": "2026-11-05T17:24:22.148237+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-05T11:50:23.210741+00:00",
-      "lastSuccess": "2026-11-05T11:50:24.413625+00:00",
-      "count": 7
+      "attemptedAt": "2026-11-05T17:24:22.016894+00:00",
+      "lastSuccess": "2026-11-05T17:24:23.144965+00:00",
+      "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-05T11:50:24.415031+00:00",
-  "nextRefresh": "2026-11-05T16:17:00+00:00",
+  "lastRefresh": "2026-11-05T17:24:23.146575+00:00",
+  "nextRefresh": "2026-11-05T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "2aaee621d3630f5618e0cd37ba1e1290dad589de2e1e27fc4df40c9f74b5a619"
+  "bilingualRevision": "f437c782b0b663a2f8152b492c1e980775a1c3223c89a3262e4e455eb453190b"
 }

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-502c395cb72e52281f58",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+  "sourceTitle": "Transform a quick drawing into a live app with Gemini.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T17:24:24.482909+00:00",
+  "fetchedAt": "2026-11-05T17:24:28.113659+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+  "language": "en",
+  "originalTitle": "Transform a quick drawing into a live app with Gemini.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Great app ideas often start on paper. Turn them into interactive tools with Gemini.",
+      "id": "p1",
+      "zh": "伟大的应用创意经常从纸上开始.把它们变成Gemini的互动工具.",
+      "en": "Great app ideas often start on paper. Turn them into interactive tools with Gemini."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Here’s how.",
+      "id": "p2",
+      "zh": "情况是这样的。",
+      "en": "Here’s how."
+    },
+    {
+      "kind": "list",
+      "text": "Upload a photo of your sketch, like an app mock-up, habit tracker, or game board to Gemini.",
+      "id": "p3",
+      "zh": "上传一张你的素描照片,像一个应用程序模拟,习惯跟踪器,或游戏板给Gemini。",
+      "en": "Upload a photo of your sketch, like an app mock-up, habit tracker, or game board to Gemini."
+    },
+    {
+      "kind": "list",
+      "text": "Select the Canvas tool and ask Gemini: \"Can you code this app?\" Gemini reads your visual and writes the code.",
+      "id": "p4",
+      "zh": "选择 Canvas 工具并询问Gemini :Gemini读取你的视觉并写下代码。",
+      "en": "Select the Canvas tool and ask Gemini: \"Can you code this app?\" Gemini reads your visual and writes the code."
+    },
+    {
+      "kind": "list",
+      "text": "Test your tool in the preview window. Gemini can adjust colors, fonts, or features in real time.",
+      "id": "p5",
+      "zh": "在预览窗口中测试您的工具 。Gemini可以调整颜色,字体,则或特性在实时。",
+      "en": "Test your tool in the preview window. Gemini can adjust colors, fonts, or features in real time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Next time inspiration strikes, bring it to life with Gemini.",
+      "id": "p6",
+      "zh": "下一次的灵感冲击,与Gemini相生.",
+      "en": "Next time inspiration strikes, bring it to life with Gemini."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "伟大的应用创意经常从纸上开始.把它们变成Gemini的互动工具.",
+      "en": "Great app ideas often start on paper. Turn them into interactive tools with Gemini."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "上传一张你的素描照片,像一个应用程序模拟,习惯跟踪器,或游戏板给Gemini。",
+      "en": "Upload a photo of your sketch, like an app mock-up, habit tracker, or game board to Gemini."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "选择 Canvas 工具并询问Gemini :Gemini读取你的视觉并写下代码。",
+      "en": "Select the Canvas tool and ask Gemini: \"Can you code this app?\" Gemini reads your visual and writes the code."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "在预览窗口中测试您的工具 。Gemini可以调整颜色,字体,则或特性在实时。",
+      "en": "Test your tool in the preview window. Gemini can adjust colors, fonts, or features in real time."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "2073f9a2ab0123473a8a7e15d52465fbfd0dcbcf131e6e13860f1c06c5be9e59"
+}

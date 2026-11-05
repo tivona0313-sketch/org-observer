@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-1f44f1d6c980daf405f6",
+  "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+  "sourceTitle": "Check out our free livestream during National Veterans Small Business Week.",
+  "status": "ready",
+  "attemptedAt": "2026-11-05T17:24:30.373236+00:00",
+  "fetchedAt": "2026-11-05T17:24:33.579183+00:00",
+  "finalURL": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
+  "language": "en",
+  "originalTitle": "Check out our free livestream during National Veterans Small Business Week.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "In honor of National Veterans Small Business Week, Grow with Google, American Corporate Partners (ACP), and Blue Star Families are hosting the third annual National Veterans Small Business Week livestream on Monday, November 9 at 1:00 p.m. Eastern.",
+      "id": "p1",
+      "zh": "为了纪念全国退伍军人小商业周,和谷歌一起成长美国公司伙伴组织(ACP)和蓝星家庭在周一举办第三届全国退伍军人小型商业周现场直播,11月9日下午1点东方.",
+      "en": "In honor of National Veterans Small Business Week, Grow with Google, American Corporate Partners (ACP), and Blue Star Families are hosting the third annual National Veterans Small Business Week livestream on Monday, November 9 at 1:00 p.m. Eastern."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Across the country, 1.6 million veteran entrepreneurs employ over 3.3 million workers and grow local economies. This free YouTube livestream shares practical AI skills for veteran and mil-spouse entrepreneurs to streamline their operations, reach customers, and grow their businesses.",
+      "id": "p2",
+      "zh": "遍及全国160万老企业家雇用了330多万工人,并发展了当地经济。这个免费的YouTube活流分享了老兵和百万配偶企业家的实用的AI技能,以简化他们的业务,联系客户,并发展他们的企业。",
+      "en": "Across the country, 1.6 million veteran entrepreneurs employ over 3.3 million workers and grow local economies. This free YouTube livestream shares practical AI skills for veteran and mil-spouse entrepreneurs to streamline their operations, reach customers, and grow their businesses."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Highlights include:",
+      "id": "p3",
+      "zh": "重点包括:",
+      "en": "Highlights include:"
+    },
+    {
+      "kind": "list",
+      "text": "Hands-on training: Learn how to use AI to run and grow your business",
+      "id": "p4",
+      "zh": "实训:学着如何用人工智能来经营和发展你的生意",
+      "en": "Hands-on training: Learn how to use AI to run and grow your business"
+    },
+    {
+      "kind": "list",
+      "text": "Veteran entrepreneur spotlight: Hear from Adam Baker, founder and CEO of veteran-owned pet toy company SodaPup about his journey.",
+      "id": "p5",
+      "zh": "退伍军人企业家的焦点:亚当贝克的消息是老兵拥有的宠物玩具公司SodaPup的创始人兼首席执行官,讲述他的旅程.",
+      "en": "Veteran entrepreneur spotlight: Hear from Adam Baker, founder and CEO of veteran-owned pet toy company SodaPup about his journey."
+    },
+    {
+      "kind": "list",
+      "text": "Live Q&A: Ask questions and learn about resources from ACP and Blue Star Families.",
+      "id": "p6",
+      "zh": "{\\fn黑体\\fs20\\shad2\\2aH82\\3aH20\\4aH33\\fscx95\\3cH592001\\be1}现场直播:从ACP和Blue Star Family那里提问并了解资源.",
+      "en": "Live Q&A: Ask questions and learn about resources from ACP and Blue Star Families."
+    },
+    {
+      "kind": "list",
+      "text": "Exclusive post-event coaching: Sign up for a complimentary 30-minute 1:1 virtual coaching session with a Grow with Google Coach.",
+      "id": "p7",
+      "zh": "活动后唯一的教练:与Google教练的\"成长\"签约,参加30分1分1分的补习会.",
+      "en": "Exclusive post-event coaching: Sign up for a complimentary 30-minute 1:1 virtual coaching session with a Grow with Google Coach."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Register today at goo.gle/NVSBW26.",
+      "id": "p8",
+      "zh": "今天登记在goo.gle/NVSBW26。",
+      "en": "Register today at goo.gle/NVSBW26."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "为了纪念全国退伍军人小商业周,和谷歌一起成长美国公司伙伴组织(ACP)和蓝星家庭在周一举办第三届全国退伍军人小型商业周现场直播,11月9日下午1点东方.",
+      "en": "In honor of National Veterans Small Business Week, Grow with Google, American Corporate Partners (ACP), and Blue Star Families are hosting the third annual National Veterans Small Business Week livestream on Monday, November 9 at 1:00 p.m. Eastern."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "遍及全国160万老企业家雇用了330多万工人,并发展了当地经济。这个免费的YouTube活流分享了老兵和百万配偶企业家的实用的AI技能,以简化他们的业务,联系客户,并发展他们的企业。",
+      "en": "Across the country, 1.6 million veteran entrepreneurs employ over 3.3 million workers and grow local economies. This free YouTube livestream shares practical AI skills for veteran and mil-spouse entrepreneurs to streamline their operations, reach customers, and grow their businesses."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "退伍军人企业家的焦点:亚当贝克的消息是老兵拥有的宠物玩具公司SodaPup的创始人兼首席执行官,讲述他的旅程.",
+      "en": "Veteran entrepreneur spotlight: Hear from Adam Baker, founder and CEO of veteran-owned pet toy company SodaPup about his journey."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "活动后唯一的教练:与Google教练的\"成长\"签约,参加30分1分1分的补习会.",
+      "en": "Exclusive post-event coaching: Sign up for a complimentary 30-minute 1:1 virtual coaching session with a Grow with Google Coach."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "3cdce457992afb5f91d52c797e433c7363dcbe721f31ae9a0c624f98e42d8fcd"
+}

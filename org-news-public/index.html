@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-feed-mode="static">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f8f5">
+  <meta name="description" content="追踪全球科技公司的组织、人才、文化与 AI 变化。每天读懂一点，持续积累自己的判断。">
+  <title>组织前沿 · 全球科技公司观察</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<a class="skip" href="#main">跳到内容</a>
+<aside class="sidebar">
+  <a class="brand" href="./" aria-label="组织前沿首页"><span class="brand-symbol">O<span></span></span><span>组织前沿<small>ORG OBSERVER</small></span></a>
+  <div class="sidebar-label">发现与学习</div>
+  <nav id="primary-nav" aria-label="主导航">
+    <button data-view="home" class="nav-item active"><span data-icon="grid"></span>资讯首页</button>
+    <button data-view="live" class="nav-item"><span data-icon="radio"></span>订阅动态<span class="nav-dot"></span></button>
+    <button data-view="companies" class="nav-item"><span data-icon="building"></span>公司观察</button>
+    <button data-view="topics" class="nav-item"><span data-icon="layers"></span>主题阅读</button>
+    <div class="nav-separator"></div>
+    <button data-view="saved" class="nav-item"><span data-icon="bookmark"></span>我的收藏<span id="saved-count" class="nav-count">0</span></button>
+    <button data-view="history" class="nav-item"><span data-icon="clock"></span>阅读记录</button>
+  </nav>
+  <div class="sidebar-bottom">
+    <div class="reading-card"><span class="tiny">保持好奇，持续学习</span><p>让每一次阅读<br>成为下一次思考的起点。</p><span class="small">本周已读 <b id="weekly-count">0</b> 篇</span><div class="week-dots" id="week-dots" aria-label="最近七天阅读情况"></div></div>
+    <button class="source-link" data-view="sources"><span data-icon="link"></span>信息来源与更新</button>
+    <div class="profile"><span class="avatar">阅</span><div>我的学习空间<small>收藏与笔记保存在本机</small></div></div>
+  </div>
+</aside>
+<div class="app-shell">
+  <header class="topbar">
+    <div class="breadcrumb">全球科技公司观察 <span>/</span> <b id="breadcrumb-current">资讯首页</b></div>
+    <div class="top-actions"><label class="search-box"><span data-icon="search"></span><input type="search" id="search" placeholder="搜索公司、主题或关键词" aria-label="搜索资讯"><kbd>⌘ K</kbd></label><button id="refresh" class="icon-btn" aria-label="刷新订阅" title="刷新订阅"><span data-icon="refresh"></span></button></div>
+  </header>
+  <main id="main" tabindex="-1">
+    <div class="page-heading"><div><div id="date-line" class="eyebrow"></div><h1 id="page-title">看见变化，读懂组织。</h1><p id="page-subtitle">从全球科技公司的新动向中，积累组织与 AI 的日常洞察。</p></div><span class="edition"><i></i> 持续观察中</span></div>
+    <div id="home-intro">
+      <div class="hero-grid">
+        <article class="hero-feature">
+          <div class="hero-top"><span class="pill">本期精选</span><span>组织 × AI</span></div>
+          <div class="hero-body"><div class="hero-kicker">MICROSOFT · 2026.10.27</div><h2>AI 转型的下一步：<br>从工具采用，到工作方式重构。</h2><p>微软提出以业务结果为起点，将人、组织知识与智能体治理连接起来。</p></div>
+          <div class="hero-bottom"><button class="hero-button" data-open="ms-frontier-2026">阅读精选 <span data-icon="arrow"></span></button><span>官方观点 · 中文摘要</span></div>
+          <div class="hero-decoration" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><span class="orbit-dot"></span><span class="orbit-word">人<br>组织<br>AI</span></div>
+        </article>
+        <article class="learning-pick"><div class="section-overline"><span data-icon="spark"></span> 今日学习提问</div><h2>当 AI 承担更多执行，<br>人应该擅长什么？</h2><p>从人才培养、判断能力到协作方式，读一组有联系的案例。</p><div class="topic-stack"><span>人才标准</span><span>人机协作</span><span>持续学习</span></div><button class="text-button" data-collection="human-ai">开始主题阅读 <span data-icon="arrow"></span></button><div class="pick-footer"><span>精选阅读路径</span><span>3 篇 · 可分次阅读</span></div></article>
+      </div>
+      <div class="company-strip"><span>观察视野</span><button data-company-shortcut="Microsoft"><b class="wordmark">Microsoft</b></button><button data-company-shortcut="Amazon"><b class="wordmark">amazon</b></button><button data-company-shortcut="Anthropic"><b class="wordmark serif">ANTHROPIC</b></button><button data-company-shortcut="阿里巴巴"><b class="wordmark">阿里巴巴</b></button><button data-company-shortcut="腾讯"><b class="wordmark">腾讯 Tencent</b></button><button data-view="companies" class="more-companies">全部公司 <span data-icon="arrow"></span></button></div>
+    </div>
+    <div id="content-layout" class="content-layout">
+      <section class="main-column" aria-labelledby="list-heading">
+        <div id="feed-controls">
+          <div class="section-heading"><h2 id="list-heading">精选资讯 <span id="result-count"></span></h2><label class="sort-label">排序 <select id="sort"><option value="newest">发布日期 ↓</option><option value="oldest">发布日期 ↑</option></select></label></div>
+          <div class="category-tabs" id="category-tabs" aria-label="资讯主题"></div>
+          <div class="filter-row"><div class="filter-options"><select id="company-filter" aria-label="按公司筛选"><option value="all">全部公司</option></select><select id="period-filter" aria-label="按发布日期筛选"><option value="all">全部时间</option><option value="30">近 30 天</option><option value="90">近 90 天</option><option value="365">近一年</option></select><label class="unread-toggle"><input type="checkbox" id="unread-only">只看未读</label></div><button id="clear-filters" class="quiet-button">重置</button></div>
+          <div id="context-note" class="context-note"></div>
+        </div>
+        <div id="feed" class="feed" aria-live="polite"></div>
+        <div id="alternate-content"></div>
+      </section>
+      <aside class="right-rail" id="right-rail">
+        <section class="rail-section"><div class="rail-title"><h3>本周阅读</h3><span data-icon="book"></span></div><div class="reading-number"><b id="rail-weekly-count">0</b><span>篇已读</span></div><p>不必一次读完，<br>收藏值得反复琢磨的变化。</p><button data-view="history" class="text-button">查看阅读记录 <span data-icon="arrow"></span></button></section>
+        <section class="rail-section"><div class="rail-title"><h3>值得持续追问</h3></div><button class="question-link" data-category-shortcut="组织架构"><span>01</span><div>组织边界为什么变化？<small>架构调整与决策权</small></div><span data-icon="arrow"></span></button><button class="question-link" data-category-shortcut="人才标准"><span>02</span><div>新人才需要哪些能力？<small>招聘、培养与评价</small></div><span data-icon="arrow"></span></button><button class="question-link" data-category-shortcut="组织文化"><span>03</span><div>文化如何体现在行动里？<small>制度、激励与协作</small></div><span data-icon="arrow"></span></button></section>
+        <section class="source-card"><span class="source-card-icon" data-icon="shield"></span><h3>每一条信息，都有出处</h3><p>区分官方披露、研究报告与媒体报道。事实摘要和学习启发分别呈现。</p><button class="text-button" data-view="sources">查看来源说明 <span data-icon="arrow"></span></button></section>
+        <div class="rail-bottom"><span id="sync-summary">精选内容整理于 2026.11.03</span><span>观察世界，也观察自己的工作。</span></div>
+      </aside>
+    </div>
+    <footer class="site-footer"><span>组织前沿 · 让信息成为思考的起点</span><button class="text-button" data-view="sources">信息来源与更新</button><span>按原文发布日期展示 · 不构成组织决策建议</span></footer>
+  </main>
+</div>
+<dialog id="reader" aria-labelledby="reader-title">
+  <div class="reader-toolbar"><span>组织前沿 / 阅读空间</span><button id="close-reader" class="icon-btn" aria-label="关闭阅读"><span data-icon="close"></span></button></div>
+  <div id="reader-content"></div>
+</dialog>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<script src="./data.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>

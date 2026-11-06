@@ -115,6 +115,56 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-616c68177b707eae60eb",
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "date": "2026-11-05",
+      "categories": [
+        "人才结构",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Australian universities are creating AI-native graduates",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-db9792e954d447010915",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "date": "2026-11-05",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Merge builds product and business tools with OpenAI technology",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-a8e215d1c3fca63aee0f",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/franklin-templeton",
+      "date": "2026-11-05",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Franklin Templeton uses OpenAI to support investment research",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-ebcb473680819ed5ad4c",
       "title": "Take a closer look at art with the Courtauld",
       "summary": "Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.",
@@ -1572,35 +1622,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-05T22:56:19.295481+00:00",
-      "lastSuccess": "2026-11-05T22:56:19.399026+00:00",
+      "attemptedAt": "2026-11-06T05:07:22.423930+00:00",
+      "lastSuccess": "2026-11-06T05:07:22.874054+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-05T22:56:19.296253+00:00",
-      "lastSuccess": "2026-11-05T22:56:19.462412+00:00",
+      "attemptedAt": "2026-11-06T05:07:22.424537+00:00",
+      "lastSuccess": "2026-11-06T05:07:22.613066+00:00",
       "count": 15
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-05T22:56:19.296636+00:00",
-      "lastSuccess": "2026-11-05T22:56:19.435819+00:00",
+      "attemptedAt": "2026-11-06T05:07:22.424834+00:00",
+      "lastSuccess": "2026-11-06T05:07:22.570691+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-05T22:56:19.297030+00:00",
-      "lastSuccess": "2026-11-05T22:56:20.489209+00:00",
+      "attemptedAt": "2026-11-06T05:07:22.425120+00:00",
+      "lastSuccess": "2026-11-06T05:07:23.563510+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-05T22:56:20.490428+00:00",
-  "nextRefresh": "2026-11-06T04:17:00+00:00",
+  "lastRefresh": "2026-11-06T05:07:23.564342+00:00",
+  "nextRefresh": "2026-11-06T10:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "82b0fab55e696722327e7e35f4062aab35b03eba155529a4a17edd9bcd982ad0"
+  "bilingualRevision": "003bb3b8b211eede00855a487e81ae990eb45cfcd7c03bbcd1b5d1614f1314d6"
 }

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-616c68177b707eae60eb",
+  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "sourceTitle": "Australian universities are creating AI-native graduates",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-06T05:07:24.203787+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-07T05:07:24.288902+00:00"
+}

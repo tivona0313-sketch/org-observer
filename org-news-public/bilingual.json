@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-06T05:07:24.176670+00:00",
-  "revision": "003bb3b8b211eede00855a487e81ae990eb45cfcd7c03bbcd1b5d1614f1314d6",
+  "generatedAt": "2026-11-06T22:51:46.186744+00:00",
+  "revision": "7a1eaaec7e38bd94636bcb901182fa2b01d0ea06d12010f412821f707d261eef",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,46 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-a0a44ed09dc9a1089b4e": {
+      "original": {
+        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+        "sourceTitle": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "与Hacktron合作寻找OpenAI系统中的弱点",
+        "summary": "OpenAI正与Hacktron合作寻找弱点,测试与第三方服务的联系,并加强与边境AI的防御。",
+        "sourceTitle": "与Hacktron合作寻找OpenAI系统中的弱点",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+        "sourceTitle": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-5f721228af3682c2417b": {
+      "original": {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "sourceTitle": "Measuring how AI agents handle everyday wet-lab science",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "测量人工智能人员如何处理日常湿板科学",
+        "summary": "OpenAI 介绍 Bench 生物基础,a 100任务基准,衡量AI代理如何很好地诠释原始实验数据并处理日常湿板科学.",
+        "sourceTitle": "测量人工智能人员如何处理日常湿板科学",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "sourceTitle": "Measuring how AI agents handle everyday wet-lab science",
+        "source": "OpenAI News"
       }
     },
     "rss-25fa4dd18ec78a48a923": {
@@ -1403,19 +1443,19 @@
     "rss-0581385f35cc1b6867a0": {
       "original": {
         "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
-        "summary": "Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
+        "summary": "We're bringing AI models and research funding to US universities using Meta models to close gaps in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
         "sourceTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
         "source": "Meta Newsroom"
       },
       "zh": {
         "title": "Meta 与五所美国大学合作，加速医学和科学突破",
-        "summary": "Meta 正在为使用我们的模型解决科学和医学领域关键问题的美国大学带来超级智能模型、研究资金和直接研究人员合作。 Meta 与五所美国大学合作加速医学和科学突破的帖子首先出现在 Meta Newsroom 上。",
+        "summary": "我们将AI模型和研究资金带到美国大学,使用Meta模型来弥补科学和医学的空白.Meta Partners With Five University to Suppled Medical and Scientific Breakroughs在Meta Newsroom上首次出现,",
         "sourceTitle": "Meta 与五所美国大学合作，加速医学和科学突破",
         "source": "元新闻室"
       },
       "en": {
         "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
-        "summary": "Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
+        "summary": "We're bringing AI models and research funding to US universities using Meta models to close gaps in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
         "sourceTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
         "source": "Meta Newsroom"
       }

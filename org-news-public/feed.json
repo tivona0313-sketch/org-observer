@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "rss-a0a44ed09dc9a1089b4e",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "date": "2026-11-06",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-5f721228af3682c2417b",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "date": "2026-11-06",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Measuring how AI agents handle everyday wet-lab science",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-25fa4dd18ec78a48a923",
       "title": "Setting a new standard for responsible AI infrastructure",
       "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
@@ -821,13 +853,12 @@
     {
       "id": "rss-0581385f35cc1b6867a0",
       "title": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
-      "summary": "Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
+      "summary": "We're bringing AI models and research funding to US universities using Meta models to close gaps in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .",
       "company": "Meta",
       "source": "Meta Newsroom",
       "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
       "date": "2026-10-28",
       "categories": [
-        "组织文化",
         "技术创新"
       ],
       "type": "官方订阅",
@@ -1622,35 +1653,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-06T17:00:34.683821+00:00",
-      "lastSuccess": "2026-11-06T17:00:34.869105+00:00",
+      "attemptedAt": "2026-11-06T22:51:44.401130+00:00",
+      "lastSuccess": "2026-11-06T22:51:44.508717+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-06T17:00:34.684437+00:00",
-      "lastSuccess": "2026-11-06T17:00:35.019012+00:00",
+      "attemptedAt": "2026-11-06T22:51:44.401628+00:00",
+      "lastSuccess": "2026-11-06T22:51:44.572215+00:00",
       "count": 15
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-06T17:00:34.684809+00:00",
-      "lastSuccess": "2026-11-06T17:00:34.832450+00:00",
+      "attemptedAt": "2026-11-06T22:51:44.401931+00:00",
+      "lastSuccess": "2026-11-06T22:51:44.501555+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-06T17:00:34.685152+00:00",
-      "lastSuccess": "2026-11-06T17:00:35.880953+00:00",
+      "attemptedAt": "2026-11-06T22:51:44.402212+00:00",
+      "lastSuccess": "2026-11-06T22:51:45.636770+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-06T17:00:35.881991+00:00",
-  "nextRefresh": "2026-11-06T22:17:00+00:00",
+  "lastRefresh": "2026-11-06T22:51:45.637439+00:00",
+  "nextRefresh": "2026-11-07T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "003bb3b8b211eede00855a487e81ae990eb45cfcd7c03bbcd1b5d1614f1314d6"
+  "bilingualRevision": "7a1eaaec7e38bd94636bcb901182fa2b01d0ea06d12010f412821f707d261eef"
 }

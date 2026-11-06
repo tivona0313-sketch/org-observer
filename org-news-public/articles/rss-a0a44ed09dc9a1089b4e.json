@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-a0a44ed09dc9a1089b4e",
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "sourceTitle": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-06T22:51:46.214671+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-07T22:51:46.271599+00:00"
+}

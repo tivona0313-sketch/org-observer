@@ -1,6 +1,55 @@
 {
   "articles": [
     {
+      "id": "rss-f116c1896a2161e2c2d9",
+      "title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "summary": "Developers can now build with Google Maps Platform in AI Studio.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+      "date": "2026-11-09",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Developers can now build with Google Maps Platform in AI Studio.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-a7b39cb0698327aa7f25",
+      "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "summary": "We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "date": "2026-11-09",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-176cc398524bc8df95af",
+      "title": "Expanding Teen Account Protections to Teens Around the World",
+      "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. The post Expanding Teen Account Protections to Teens Around the World appeared first on Meta Newsroom .",
+      "company": "Meta",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+      "date": "2026-11-09",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Expanding Teen Account Protections to Teens Around the World",
+      "sourceId": "meta"
+    },
+    {
       "id": "rss-a0a44ed09dc9a1089b4e",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
@@ -1653,35 +1702,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-09T11:07:11.318915+00:00",
-      "lastSuccess": "2026-11-09T11:07:11.416229+00:00",
+      "attemptedAt": "2026-11-09T17:19:17.131409+00:00",
+      "lastSuccess": "2026-11-09T17:19:17.395214+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-09T11:07:11.319829+00:00",
-      "lastSuccess": "2026-11-09T11:07:11.533250+00:00",
-      "count": 15
+      "attemptedAt": "2026-11-09T17:19:17.132208+00:00",
+      "lastSuccess": "2026-11-09T17:19:17.378562+00:00",
+      "count": 16
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-09T11:07:11.320364+00:00",
-      "lastSuccess": "2026-11-09T11:07:11.406501+00:00",
+      "attemptedAt": "2026-11-09T17:19:17.132701+00:00",
+      "lastSuccess": "2026-11-09T17:19:17.255946+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-09T11:07:11.320937+00:00",
-      "lastSuccess": "2026-11-09T11:07:12.517658+00:00",
+      "attemptedAt": "2026-11-09T17:19:17.133384+00:00",
+      "lastSuccess": "2026-11-09T17:19:18.242493+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-09T11:07:12.519043+00:00",
-  "nextRefresh": "2026-11-09T16:17:00+00:00",
+  "lastRefresh": "2026-11-09T17:19:18.243972+00:00",
+  "nextRefresh": "2026-11-09T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "7a1eaaec7e38bd94636bcb901182fa2b01d0ea06d12010f412821f707d261eef"
+  "bilingualRevision": "38627b3472b50f0adf27303d67a6ea987f493a04420239fceb9a06aa2120674b"
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T11:07:12.670470+00:00",
+  "updatedAt": "2026-11-09T17:19:33.310257+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -64,6 +64,27 @@
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
       "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
+    },
+    "rss-f116c1896a2161e2c2d9": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+      "sourceTitle": "Developers can now build with Google Maps Platform in AI Studio.",
+      "contentHash": "5f6b26489e6810cccc2da178e1b4acfda15613007f85be53a6d71d64eca22cb0",
+      "fetchedAt": "2026-11-09T17:19:22.148670+00:00"
+    },
+    "rss-a7b39cb0698327aa7f25": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "sourceTitle": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+      "contentHash": "8a0e03b8f52a04504717fe00846294c5f47a33a7191b73739766205662f01cd9",
+      "fetchedAt": "2026-11-09T17:19:21.663709+00:00"
+    },
+    "rss-176cc398524bc8df95af": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+      "sourceTitle": "Expanding Teen Account Protections to Teens Around the World",
+      "contentHash": "a9242665d43a66bb114c9f9b76c0a2653ddc6b8d46270af4a6aca83239936292",
+      "fetchedAt": "2026-11-09T17:19:27.852461+00:00"
     },
     "rss-a0a44ed09dc9a1089b4e": {
       "status": "unavailable",

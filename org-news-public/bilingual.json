@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-06T22:51:46.186744+00:00",
-  "revision": "7a1eaaec7e38bd94636bcb901182fa2b01d0ea06d12010f412821f707d261eef",
+  "generatedAt": "2026-11-09T17:19:19.401476+00:00",
+  "revision": "38627b3472b50f0adf27303d67a6ea987f493a04420239fceb9a06aa2120674b",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,66 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-f116c1896a2161e2c2d9": {
+      "original": {
+        "title": "Developers can now build with Google Maps Platform in AI Studio.",
+        "summary": "Developers can now build with Google Maps Platform in AI Studio.",
+        "sourceTitle": "Developers can now build with Google Maps Platform in AI Studio.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "开发者现在可以在AI Studio中用Google地图平台来构建.",
+        "summary": "开发者现在可以在AI Studio中用Google地图平台来构建.",
+        "sourceTitle": "开发者现在可以在AI Studio中用Google地图平台来构建.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Developers can now build with Google Maps Platform in AI Studio.",
+        "summary": "Developers can now build with Google Maps Platform in AI Studio.",
+        "sourceTitle": "Developers can now build with Google Maps Platform in AI Studio.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-a7b39cb0698327aa7f25": {
+      "original": {
+        "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+        "summary": "We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.",
+        "sourceTitle": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "我们最新的TPU:8tx和8i马克斯,为代理时代而建",
+        "summary": "我们扩展了我们的第八代TPU组合 与TPU 8tx和TPU 8i Max,标出一年内四个新的TPU系统。",
+        "sourceTitle": "我们最新的TPU:8tx和8i马克斯,为代理时代而建",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+        "summary": "We’ve expanded our eighth generation TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year.",
+        "sourceTitle": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-176cc398524bc8df95af": {
+      "original": {
+        "title": "Expanding Teen Account Protections to Teens Around the World",
+        "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. The post Expanding Teen Account Protections to Teens Around the World appeared first on Meta Newsroom .",
+        "sourceTitle": "Expanding Teen Account Protections to Teens Around the World",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "将青少年账户保护扩大到世界各地的青少年",
+        "summary": "我们在全球推广人工智能年龄估计技术, 在Instagram上增加数百万青少年的青少年账户保护。在Meta Newsroom上,",
+        "sourceTitle": "将青少年账户保护扩大到世界各地的青少年",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "Expanding Teen Account Protections to Teens Around the World",
+        "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. The post Expanding Teen Account Protections to Teens Around the World appeared first on Meta Newsroom .",
+        "sourceTitle": "Expanding Teen Account Protections to Teens Around the World",
+        "source": "Meta Newsroom"
       }
     },
     "rss-a0a44ed09dc9a1089b4e": {

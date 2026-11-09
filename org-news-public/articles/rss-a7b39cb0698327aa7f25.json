@@ -1,0 +1,320 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-a7b39cb0698327aa7f25",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+  "sourceTitle": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+  "status": "ready",
+  "attemptedAt": "2026-11-09T17:19:19.443763+00:00",
+  "fetchedAt": "2026-11-09T17:19:21.663709+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+  "language": "en",
+  "originalTitle": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+  "author": "Amin Vahdat",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We first designed TPUs more than a decade ago motivated by Google’s internal demands, including voice recognition and language translation. Eight generations of TPUs later, the use cases have exploded, covering: i) training and serving our own Gemini models, ii) agentic workloads, iii) delivering services to Google Cloud customers on our cloud infrastructure, and most recently, iv) allowing customers to deploy TPUs directly into their own data centers. TPUs are now a rapidly growing business with nearly 100 customers — including frontier labs, trading firms, retailers, universities, and more.",
+      "id": "p1",
+      "zh": "我们最初设计TPU是在十多年前 由Google内部需求驱动的,包括语音识别和语言翻译。八代的TPU后来,使用箱已经爆炸,涵盖:(一) 训练和服务我们自己的Gemini模型,(二) 代理工作量;(三) 就我们的云基础设施向Google Cloud客户提供服务,以及最近发生的,(四) 允许客户将TPU直接部署到自己的数据中心。TPU现在是一个快速增长的生意,有近100个客户——包括前沿实验室,贸易公司,零售商,大学,还有更多。",
+      "en": "We first designed TPUs more than a decade ago motivated by Google’s internal demands, including voice recognition and language translation. Eight generations of TPUs later, the use cases have exploded, covering: i) training and serving our own Gemini models, ii) agentic workloads, iii) delivering services to Google Cloud customers on our cloud infrastructure, and most recently, iv) allowing customers to deploy TPUs directly into their own data centers. TPUs are now a rapidly growing business with nearly 100 customers — including frontier labs, trading firms, retailers, universities, and more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "At Google Cloud Next in April, we introduced two new specialized TPUs in the same generation — 8t for large-scale training and 8i for real-time reasoning. TPU 8t and 8i offer up to 2.7 times better training performance and 80% better inference price performance, respectively, versus our previous generation of TPUs.",
+      "id": "p2",
+      "zh": "在Google Cloud Next in 4月的下一个,我们在同一代引进了两个新的专业TPU——8t用于大规模训练,8i用于实时推理.TPU 8t和8i可提供2.7倍的更好的培训绩效和80%的推算价格绩效,分别,和我们前一代的TPU相对.",
+      "en": "At Google Cloud Next in April, we introduced two new specialized TPUs in the same generation — 8t for large-scale training and 8i for real-time reasoning. TPU 8t and 8i offer up to 2.7 times better training performance and 80% better inference price performance, respectively, versus our previous generation of TPUs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today, we’re taking that a step further, expanding our eighth-generation TPU portfolio with two additional systems: TPU 8i Max for massive context windows and the highest compute density per rack, and TPU 8tx for secure and confidential inference. This is the first time we have introduced four TPU systems in a single year.",
+      "id": "p3",
+      "zh": "今天,我们...更进一步,扩大第八代TPU投资组合,增加两个系统:TPU 8i 最大值用于巨大的上下文窗口和每个机架最高的计算密度,和TPU 8tx用于安全和保密的推理.这是我们首次在一年之内引入了四个TPU系统.",
+      "en": "Today, we’re taking that a step further, expanding our eighth-generation TPU portfolio with two additional systems: TPU 8i Max for massive context windows and the highest compute density per rack, and TPU 8tx for secure and confidential inference. This is the first time we have introduced four TPU systems in a single year."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our expanded eighth-generation TPU portfolio: TPU 8t, TPU 8i, TPU 8tx, and TPU 8i Max.",
+      "id": "p4",
+      "zh": "我们扩展的第八代TPU组合:TPU 8t, (英语).TPU 8i, (中文(简体) ).TPU 8tx, (英语).和TPU8i马克思。",
+      "en": "Our expanded eighth-generation TPU portfolio: TPU 8t, TPU 8i, TPU 8tx, and TPU 8i Max."
+    },
+    {
+      "kind": "paragraph",
+      "text": "While we’ve always co-designed our TPUs in partnership with Google DeepMind, we’re now increasingly getting feedback from external organizations on their specific needs. With computing moving from human to agent scale, businesses are asking for accelerators that can reason across AI models’ massive context windows. In addition, some highly regulated customers are asking for specialized encryption capabilities for unique workloads.",
+      "id": "p5",
+      "zh": "虽然我们一直与Google DeepMind合作共同设计我们的TPU,现在,我们越来越多地从外部组织那里得到关于它们具体需要的反馈。随着计算从人到代理规模的移动,企业正在要求加速器, 可以在AI模型的大规模上下文窗口中说明理由。临Τ一些受到高度监管的客户要求为独特的工作量提供专门的加密能力。",
+      "en": "While we’ve always co-designed our TPUs in partnership with Google DeepMind, we’re now increasingly getting feedback from external organizations on their specific needs. With computing moving from human to agent scale, businesses are asking for accelerators that can reason across AI models’ massive context windows. In addition, some highly regulated customers are asking for specialized encryption capabilities for unique workloads."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The new TPU systems we are announcing today address this new reality. Coupled with our recent PyTorch announcements, our aim is to make TPUs more easily accessible to every developer and Cloud customer. By combining modular custom silicon with an open and easy-to-use software stack, we can deliver new hardware and system configurations at the pace of the AI industry.",
+      "id": "p6",
+      "zh": "我们今天宣布的新的TPU系统处理这一新的现实。加上我们最近PyTorch的公告我们的目标是让每个开发商和Cloud客户更容易使用TPU.通过将模块化自定义硅与一个开放和易于使用的软件堆叠相融合,我们可以以AI产业的速度提供新的硬件和系统配置.",
+      "en": "The new TPU systems we are announcing today address this new reality. Coupled with our recent PyTorch announcements, our aim is to make TPUs more easily accessible to every developer and Cloud customer. By combining modular custom silicon with an open and easy-to-use software stack, we can deliver new hardware and system configurations at the pace of the AI industry."
+    },
+    {
+      "kind": "heading",
+      "text": "Building the computer around the chip",
+      "id": "p7",
+      "zh": "在芯片周围建起电脑",
+      "en": "Building the computer around the chip"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today, we’re announcing two new TPU systems — and there’s an important difference between a new chip and a new system.",
+      "id": "p8",
+      "zh": "今天,我们...我们正宣布两个新的TPU系统——一个新的芯片和一个新的系统之间有着重要的区别。",
+      "en": "Today, we’re announcing two new TPU systems — and there’s an important difference between a new chip and a new system."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Designing a new chip means laying out billions of microscopic transistors on a silicon wafer in a multi-year process bound by the laws of physics and a complex, long-duration manufacturing lifecycle. A system, on the other hand, is about how we bring together the compute, networking, and storage around the chip. This can include how they are packaged with the chips, to quickly meet emerging customer needs and research use cases.",
+      "id": "p9",
+      "zh": "设计出一个新的芯片意味着在受物理定律和综合体约束的多年过程中,在硅瓦上放出数十亿个微型晶体管,长期制造的生命周期。一个系统,另一方面,是关于我们如何把计算结果集中起来,建立网络,并储存在芯片周围。这可以包括如何用芯片包装他们,迅速满足新出现的客户需求和研究使用案例。",
+      "en": "Designing a new chip means laying out billions of microscopic transistors on a silicon wafer in a multi-year process bound by the laws of physics and a complex, long-duration manufacturing lifecycle. A system, on the other hand, is about how we bring together the compute, networking, and storage around the chip. This can include how they are packaged with the chips, to quickly meet emerging customer needs and research use cases."
+    },
+    {
+      "kind": "paragraph",
+      "text": "When we built our very first TPU more than a decade ago, we knew AI software would evolve much faster than silicon manufacturing ever could. So we made a foundational bet on system balance and modularity, architecting our TPUs as building blocks as part of our AI Hypercomputer, so engineers could rapidly adjust packaging, high-speed memory, optical networking, and security around them. That approach allows us to deliver specialized supercomputers in a matter of months rather than years.",
+      "id": "p10",
+      "zh": "10多年前我们建立第一个TPU的时候我们知道AI软件的进化速度 比硅制造要快得多所以我们在系统平衡和模块化上做了一个基础赌注,设计我们的TPU作为构件 作为我们AI超计算机的一部分,所以工程师可以快速调整包装,高速内存,光学网络,和周围的安全。这种方法使我们能够在几个月而不是几年内提供专门的超级计算机。",
+      "en": "When we built our very first TPU more than a decade ago, we knew AI software would evolve much faster than silicon manufacturing ever could. So we made a foundational bet on system balance and modularity, architecting our TPUs as building blocks as part of our AI Hypercomputer, so engineers could rapidly adjust packaging, high-speed memory, optical networking, and security around them. That approach allows us to deliver specialized supercomputers in a matter of months rather than years."
+    },
+    {
+      "kind": "heading",
+      "text": "Specializing for secure, high-context AI",
+      "id": "p11",
+      "zh": "专门保证安全,高级文本 AI",
+      "en": "Specializing for secure, high-context AI"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Each system in our eighth-generation TPU portfolio targets a distinct part of the AI lifecycle. TPU 8t and TPU 8i established the baseline for this generation of chips:",
+      "id": "p12",
+      "zh": "我们第八代TPU组合中的每个系统都针对AI生命周期中独特的部分.TPU 8t和TPU 8i为这代芯片确定了基线:",
+      "en": "Each system in our eighth-generation TPU portfolio targets a distinct part of the AI lifecycle. TPU 8t and TPU 8i established the baseline for this generation of chips:"
+    },
+    {
+      "kind": "list",
+      "text": "TPU 8t was designed to be a training powerhouse for massive foundation models with maximum “goodput” — or the useful intelligence delivered per watt of energy used.",
+      "id": "p13",
+      "zh": "TPU 8t被设计成一个训练动力所,用于最大“良好产出”的大型基础模型,或每用一瓦能源提供的有用情报。",
+      "en": "TPU 8t was designed to be a training powerhouse for massive foundation models with maximum “goodput” — or the useful intelligence delivered per watt of energy used."
+    },
+    {
+      "kind": "list",
+      "text": "TPU 8i is the reasoning engine, designed to break the memory wall, cutting inter-chip communication delays by up to half.",
+      "id": "p14",
+      "zh": "TPU 8i是推理引擎,用来打破记忆墙,将芯片间通信延迟时间缩短了多半。",
+      "en": "TPU 8i is the reasoning engine, designed to break the memory wall, cutting inter-chip communication delays by up to half."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Now, as enterprises bring autonomous agents into production, we have created two new configurations of these foundational systems to solve two urgent new challenges: hardware-level data security and million-token context scale.",
+      "id": "p15",
+      "zh": "现在当企业将自主代理投入生产时,我们对这些基础系统建立了两个新的配置,以解决两个紧迫的新挑战:硬件级数据安全和上下文缩放。",
+      "en": "Now, as enterprises bring autonomous agents into production, we have created two new configurations of these foundational systems to solve two urgent new challenges: hardware-level data security and million-token context scale."
+    },
+    {
+      "kind": "heading",
+      "text": "TPU 8tx",
+      "id": "p16",
+      "zh": "TPU 8tx (英语).",
+      "en": "TPU 8tx"
+    },
+    {
+      "kind": "paragraph",
+      "text": "TPU 8tx, our third eighth-generation system, is optimized for secure and confidential inference and is also great for small-scale training. It’s built for regulated enterprises and governments running frontier or proprietary models and autonomous agents alongside their most sensitive data.",
+      "id": "p17",
+      "zh": "TPU 8tx, (英语).我们的第三代系统,为安全和保密的推断而优化,对小规模培训也非常重要。由监管企业和政府建立, 管理前沿或专有模式及自主代理,",
+      "en": "TPU 8tx, our third eighth-generation system, is optimized for secure and confidential inference and is also great for small-scale training. It’s built for regulated enterprises and governments running frontier or proprietary models and autonomous agents alongside their most sensitive data."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Normally, data is encrypted when stored or sent over a network, but has to be unlocked in memory while a computer processes it. Built on the same silicon as TPU 8t and paired with 5th Generation AMD EPYC CPU hosts, TPU 8tx builds security directly into the hardware layer, keeping sensitive data and model weights protected and isolated even while in active use. And by adopting the same low-latency Boardfly network we created for real-time reasoning, TPU 8tx keeps multi-step agents moving, delivering up to 2x lower latency compared to TPU 8t with a near-zero performance penalty.",
+      "id": "p18",
+      "zh": "通常情况下,当一个网络存储或发送数据时,数据会被加密,但必须在电脑处理时解锁在内存。建于与TPU 8t相同的硅上并配以第5代AMD EMPYC CPU主机,TPU 8tx将安全直接建入硬件层,保持敏感数据和模型重量的保护和隔离,即使正在积极使用。通过采用同样的低纬度板蝇网络 我们创建的实时推理,TPU 8tx保持多步代理移动,与TPU 8t相比,交付了最高为2x的低潜性能,其性能处罚接近于零.",
+      "en": "Normally, data is encrypted when stored or sent over a network, but has to be unlocked in memory while a computer processes it. Built on the same silicon as TPU 8t and paired with 5th Generation AMD EPYC CPU hosts, TPU 8tx builds security directly into the hardware layer, keeping sensitive data and model weights protected and isolated even while in active use. And by adopting the same low-latency Boardfly network we created for real-time reasoning, TPU 8tx keeps multi-step agents moving, delivering up to 2x lower latency compared to TPU 8t with a near-zero performance penalty."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Pairing training-grade compute with a fast inference network also means organizations can simultaneously run and customize their models on a single system. TPU 8tx enables teams to fine-tune models using their private data, distill large models into smaller ones, and train their agents through reinforcement learning, all without needing to migrate sensitive data between separate clusters.",
+      "id": "p19",
+      "zh": "与快速推理网络对等的训练级计算也意味着组织可以在单一的系统中同时运行和自定义其模型.TPU 8tx 使团队能够利用私人数据微调模型,将大型模型蒸馏成更小的模型,通过强化学习来训练他们的代理人,无需在不同的集群之间迁移敏感数据。",
+      "en": "Pairing training-grade compute with a fast inference network also means organizations can simultaneously run and customize their models on a single system. TPU 8tx enables teams to fine-tune models using their private data, distill large models into smaller ones, and train their agents through reinforcement learning, all without needing to migrate sensitive data between separate clusters."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Designed for sensitive enterprise workloads, TPU 8tx provides hardware-level confidential compute for private fine-tuning and secure agent execution.",
+      "id": "p20",
+      "zh": "为敏感的企业工作量设计,TPU 8tx为私人微调和安全代理执行提供硬件级的保密计算.",
+      "en": "Designed for sensitive enterprise workloads, TPU 8tx provides hardware-level confidential compute for private fine-tuning and secure agent execution."
+    },
+    {
+      "kind": "heading",
+      "text": "TPU 8i Max",
+      "id": "p21",
+      "zh": "TPU 8i 马克思",
+      "en": "TPU 8i Max"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our fourth system, TPU 8i Max, is built for a different problem: the memory wall.",
+      "id": "p22",
+      "zh": "我们的第四个系统,TPU 8i 马克思,用于不同的问题 :记忆墙。",
+      "en": "Our fourth system, TPU 8i Max, is built for a different problem: the memory wall."
+    },
+    {
+      "kind": "paragraph",
+      "text": "When dozens of AI agents work together across an entire software codebase or hours of video at once, memory bandwidth quickly becomes the bottleneck. So we took two low-latency TPU 8i chips and combined them onto a single package.",
+      "id": "p23",
+      "zh": "当数十个AI代理合作 整个软件代码库 或几个小时的视频同时,内存带宽迅速成为瓶颈.所以我们拿了两个低纬度的TPU 8i芯片,把它们组合到一个单一的包上.",
+      "en": "When dozens of AI agents work together across an entire software codebase or hours of video at once, memory bandwidth quickly becomes the bottleneck. So we took two low-latency TPU 8i chips and combined them onto a single package."
+    },
+    {
+      "kind": "paragraph",
+      "text": "TPU 8i Max scales compute and memory in lockstep, delivering double the compute, double the SRAM and double the HBM bandwidth of TPU 8i, so processors remain equipped with essential data and so that large workloads do not stall. Further, because TPU 8i Max fits twice the silicon within the existing rack footprint, data centers can deploy significantly more computing power per square foot and per watt.",
+      "id": "p24",
+      "zh": "TPU 8i Max 计算和存储在锁步,交付两倍的计算,将SRAM和TPU 8i的HBM带宽翻一番,因此,处理器仍然配备着必要的数据,这样,大量的工作量就不会被拖住。此外,因为TPU 8i Max 符合现有机架足迹中硅的两倍,数据中心每平方英尺和每瓦的计算功率可以大大提高。",
+      "en": "TPU 8i Max scales compute and memory in lockstep, delivering double the compute, double the SRAM and double the HBM bandwidth of TPU 8i, so processors remain equipped with essential data and so that large workloads do not stall. Further, because TPU 8i Max fits twice the silicon within the existing rack footprint, data centers can deploy significantly more computing power per square foot and per watt."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The dual-chip TPU 8i Max system, engineered for massive context windows and maximum compute density.",
+      "id": "p25",
+      "zh": "双芯片 TPU 8i Max系统,为大规模上下文窗口和最大计算密度而设计.",
+      "en": "The dual-chip TPU 8i Max system, engineered for massive context windows and maximum compute density."
+    },
+    {
+      "kind": "paragraph",
+      "text": "While flexible across workloads, together the four systems in our eighth-generation TPUs give customers a purpose-built accelerator for every stage of the agentic lifecycle. TPU 8t for scale-up training, TPU 8i for low-latency reasoning, TPU 8tx for confidential computing, and TPU 8i Max for massive context windows and the highest compute density per rack.",
+      "id": "p26",
+      "zh": "虽然在工作量方面是灵活的,我们第八代TPU的4个系统 一起为客户提供了 专用的加速器 在代理生命周期的每一个阶段。TPU 8t用于扩大培训,TPU 8i用于低纬度推理,TPU 8tx用于保密计算,和 TPU 8i Max 用于大上下文窗口和每个机架最高的计算密度.",
+      "en": "While flexible across workloads, together the four systems in our eighth-generation TPUs give customers a purpose-built accelerator for every stage of the agentic lifecycle. TPU 8t for scale-up training, TPU 8i for low-latency reasoning, TPU 8tx for confidential computing, and TPU 8i Max for massive context windows and the highest compute density per rack."
+    },
+    {
+      "kind": "heading",
+      "text": "Opening up TPUs to every developer",
+      "id": "p27",
+      "zh": "向每个开发者开放 TPU",
+      "en": "Opening up TPUs to every developer"
+    },
+    {
+      "kind": "paragraph",
+      "text": "When we launched the first TPU more than a decade ago, there were only a handful of companies running workloads that needed the processing power of a TPU. The use cases were specialized, so engineers would use optimized frameworks and hand-tuned code.",
+      "id": "p28",
+      "zh": "10多年前我们推出第一个TPU时仅有少数公司的工作量需要TPU的处理能力。使用个案是专门处理的,因此工程师会使用优化的框架和手调代码.",
+      "en": "When we launched the first TPU more than a decade ago, there were only a handful of companies running workloads that needed the processing power of a TPU. The use cases were specialized, so engineers would use optimized frameworks and hand-tuned code."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Over the years, as AI has advanced, more and more companies began using accelerators. Now, AI adoption is at a point where TPUs are excellent for a wide range of companies and use cases, and as a result, we’ve been working systematically to remove barriers to adoption so that TPUs are as easy-to-use as general-purpose hardware.",
+      "id": "p29",
+      "zh": "多年来,随着大赦国际的推进,越来越多的公司开始使用加速器。现在AI的采用正值TPU对广大公司来说是极好的,并使用案例,并因此,我们一直在系统性地努力消除领养障碍,以使TPU和通用硬件一样容易使用。",
+      "en": "Over the years, as AI has advanced, more and more companies began using accelerators. Now, AI adoption is at a point where TPUs are excellent for a wide range of companies and use cases, and as a result, we’ve been working systematically to remove barriers to adoption so that TPUs are as easy-to-use as general-purpose hardware."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This investment comes together today across these key areas:",
+      "id": "p30",
+      "zh": "今天,这项投资在以下关键领域汇聚一堂:",
+      "en": "This investment comes together today across these key areas:"
+    },
+    {
+      "kind": "list",
+      "text": "Opening up TPU development to every PyTorch developer; no code rewrites needed: Last month, we open-sourced TorchTPU, so PyTorch code and Hugging Face models now run natively on TPUs, alongside out-of-the-box TPU backends for leading open-source inference engines like vLLM and SGLang. And to make hardware optimization effortless, our new open-source TPU agent suite (now in preview) plugs directly into coding tools like Claude Code, Cursor, and Google Antigravity to automate TPU onboarding in minutes, diagnose bottlenecks, and autotune custom kernels using plain language. For production deployments, our new open-source XLA Serving Engine lets you train models in Python and serve them directly in a low-latency C++ runtime across TPUs, GPUs, and CPUs.",
+      "id": "p31",
+      "zh": "向每个 PyTorch 开发者开放 TPU 开发;不需要重写代码 :上个月,我们开源火炬TPU,所以PyTorch代码和Hugging Face模型 现在在TPU上本土运行,与 vLLM 和 SGLang 等主要开源推理引擎的外置 TPU 后端并列.并且为了让硬件优化无功用,我们的新开源的TPU代理套件(现在处于预览状态)直接插入克洛德码等编码工具,咒语,和谷歌反重力 自动化 TPU在几分钟内登入,诊断出瓶颈,并使用普通语言自动调试自定义内核。用于生产部署,我们的新开源XLA服务引擎允许你在Python训练模型,并在低纬度C++运行时间直接为它们服务,跨越TPU,绿色相机,还有CPU",
+      "en": "Opening up TPU development to every PyTorch developer; no code rewrites needed: Last month, we open-sourced TorchTPU, so PyTorch code and Hugging Face models now run natively on TPUs, alongside out-of-the-box TPU backends for leading open-source inference engines like vLLM and SGLang. And to make hardware optimization effortless, our new open-source TPU agent suite (now in preview) plugs directly into coding tools like Claude Code, Cursor, and Google Antigravity to automate TPU onboarding in minutes, diagnose bottlenecks, and autotune custom kernels using plain language. For production deployments, our new open-source XLA Serving Engine lets you train models in Python and serve them directly in a low-latency C++ runtime across TPUs, GPUs, and CPUs."
+    },
+    {
+      "kind": "list",
+      "text": "Industry-leading production performance on InferenceX and AgentX benchmarks: In production, what really matters is outcomes on real AI workloads rather than theoretical peak chip speeds. On industry-standard InferenceX and AgentX benchmarks, which test realistic agentic coding and long-context work, our native vLLM-TorchTPU software stack on TPUs achieved state-of-the-art price-performance marks. New evaluations demonstrate these advantages extend across a wide range of frontier open models and open-source serving stacks while maintaining high model accuracy. Upcoming software optimizations on this same hardware will drive those results even further.",
+      "id": "p32",
+      "zh": "以推论X和AgentX基准为基础的工业领先生产绩效:在生产中,真正要紧的是真实AI工作量的结果,而不是理论上的峰值芯片速度.关于工业标准推断X和AgentX基准,测试现实的代理编码 和长文本的工作,我们本地的vLLM-TorchTPU软件堆栈在TPU上实现了最先进的价格性能标记.新的评价表明,这些优点跨越了广泛的前沿开放模型和开源服务堆栈,同时保持了高模型的准确性。即将对同样的硬件进行的软件优化将进一步推动这些结果。",
+      "en": "Industry-leading production performance on InferenceX and AgentX benchmarks: In production, what really matters is outcomes on real AI workloads rather than theoretical peak chip speeds. On industry-standard InferenceX and AgentX benchmarks, which test realistic agentic coding and long-context work, our native vLLM-TorchTPU software stack on TPUs achieved state-of-the-art price-performance marks. New evaluations demonstrate these advantages extend across a wide range of frontier open models and open-source serving stacks while maintaining high model accuracy. Upcoming software optimizations on this same hardware will drive those results even further."
+    },
+    {
+      "kind": "list",
+      "text": "Eliminating idle compute waste for autonomous agents: Because AI agents are stateful, they frequently pause for seconds or hours while waiting on a database lookup, an external software tool, or human feedback. To make our accelerators more power-efficient during those pauses, our new Agent Compute Engine software automatically suspends idle agent sessions and shifts working memory off the chip in milliseconds, cutting operational infrastructure costs.",
+      "id": "p33",
+      "zh": "消除自主剂的闲置计算废物:因为人工智能智能体很能干他们经常在等待数据库搜索时暂停数秒或数小时,外部软件工具,或者人类的反馈。为了让我们的加速器在暂停期间更能节能,我们的新代理计算引擎软件 自动中止闲置的代理会话 用毫秒将工作记忆从芯片上移出,减少业务基础设施费用。",
+      "en": "Eliminating idle compute waste for autonomous agents: Because AI agents are stateful, they frequently pause for seconds or hours while waiting on a database lookup, an external software tool, or human feedback. To make our accelerators more power-efficient during those pauses, our new Agent Compute Engine software automatically suspends idle agent sessions and shifts working memory off the chip in milliseconds, cutting operational infrastructure costs."
+    },
+    {
+      "kind": "list",
+      "text": "Breaking through the memory wall with the model-state layer (TPU Sync): Building the computer around the chip also means unifying memory, storage, and networking in software. As agents reason across million-token contexts and continuous reinforcement learning (RL) loops, memory quickly becomes the bottleneck. We’re open-sourcing TPU Sync, the model-state layer for TPU clusters. TPU Sync turns chip HBM, host DRAM, shared storage, and the data center network into a single, co-designed memory hierarchy — automatically tiering massive KV caches off the chip in milliseconds, streaming context across disaggregated prefill and decode nodes, and synchronizing RL weights to cut KV transfer latency and Time to First Token (TTFT) by more than 90%.",
+      "id": "p34",
+      "zh": "用模型态层( TPU Sync) 打破内存壁 :在芯片周围建起电脑 也意味着统一内存存储,和在软件中的联网。作为代理商 跨越百万个背景 和持续强化学习(RL)循环,记忆很快成为了瓶颈.我们是开源的TPU同步,用于 TPU 集群的模型态层。TPU同步转换芯片 HBM,主机 DRAM,共享存储,数据中心的网络变成一个单一的,共同设计的内存分级系统——以毫秒的速度自动分级芯片上的大量 KV 缓存,横跨分类预填和解码节点的上下文,并同步 RL 重来将 KV 传输延迟和时间切换到第一托肯( TTFT) 超过 90% 。",
+      "en": "Breaking through the memory wall with the model-state layer (TPU Sync): Building the computer around the chip also means unifying memory, storage, and networking in software. As agents reason across million-token contexts and continuous reinforcement learning (RL) loops, memory quickly becomes the bottleneck. We’re open-sourcing TPU Sync, the model-state layer for TPU clusters. TPU Sync turns chip HBM, host DRAM, shared storage, and the data center network into a single, co-designed memory hierarchy — automatically tiering massive KV caches off the chip in milliseconds, streaming context across disaggregated prefill and decode nodes, and synchronizing RL weights to cut KV transfer latency and Time to First Token (TTFT) by more than 90%."
+    },
+    {
+      "kind": "list",
+      "text": "Scaling distributed workloads across TPUs from a single controller: Now generally available on Google Kubernetes Engine (GKE), Cloud Pathways brings the Google DeepMind runtime behind Gemini to every Google Cloud customer. Using a single-controller architecture and pathwaysutils, you can orchestrate large-scale TPU systems across multiple slices as if they were one local machine for pre-training, reinforcement learning, and multihost inference. Cloud Pathways keeps long-running jobs moving through hardware disruptions with colocated Python sidecars, sub-minute slice hot-swapping, and elastic resharding.",
+      "id": "p35",
+      "zh": "从一个单一控制器中扩大各TPU的分布工作量:现在一般可以在Google Kubernetes引擎(GKE)上找到,Cloud Pathways将Google DeepMind的运行时间落后于Gemini,给每个Google Cloud客户带来.使用单控制器架构和路径图你可以把大型的TPU系统 跨越多个片段 仿佛它们是一个本地机器 进行预训,强化学习,和多宿主推理。Cloud Pathways 使长期工作通过硬件中断 和共用的 Python 侧车运行,分分钟切出热活泼的片子,和弹性还原。",
+      "en": "Scaling distributed workloads across TPUs from a single controller: Now generally available on Google Kubernetes Engine (GKE), Cloud Pathways brings the Google DeepMind runtime behind Gemini to every Google Cloud customer. Using a single-controller architecture and pathwaysutils, you can orchestrate large-scale TPU systems across multiple slices as if they were one local machine for pre-training, reinforcement learning, and multihost inference. Cloud Pathways keeps long-running jobs moving through hardware disruptions with colocated Python sidecars, sub-minute slice hot-swapping, and elastic resharding."
+    },
+    {
+      "kind": "list",
+      "text": "Stitching custom TPU topologies on-demand with GKE dynamic slicing: Now generally available, GKE dynamic slicing decouples physical hardware provisioning from logical slice formation using optical circuit switching (OCS) technology. By dynamically assembling TPU cubes into larger topologies (super-slicing) or partitioning them into smaller, isolated workloads (sub-slicing) on-the-fly, this update completely eliminates rigid, manual nodepool recreation cycles. This topology agility slashes job startup times by up to 5x and accelerates fault recovery by up to 4.5x, maximizing overall fleet utilization and workload goodput across all TPUs.",
+      "id": "p36",
+      "zh": "用 GKE 动态切片按需跳出自定义 TPU 地貌 :现在普遍可以使用,GKE动态切片利用光电路切换(OCS)技术从逻辑切片形成中去除物理硬件提供.通过动态地将TPU立方体组装成更大的地貌(超切分)或将它们分出更小的地貌,零星的飞行工作量(分机),这个更新完全消除了僵硬的,手动节点休闲循环。这种地形的敏捷性使工作启动时间缩短了多至5x并加速了多至4.5x的断层恢复,最大限度地提高所有TPU机队的总体利用率和工作量的利用率。",
+      "en": "Stitching custom TPU topologies on-demand with GKE dynamic slicing: Now generally available, GKE dynamic slicing decouples physical hardware provisioning from logical slice formation using optical circuit switching (OCS) technology. By dynamically assembling TPU cubes into larger topologies (super-slicing) or partitioning them into smaller, isolated workloads (sub-slicing) on-the-fly, this update completely eliminates rigid, manual nodepool recreation cycles. This topology agility slashes job startup times by up to 5x and accelerates fault recovery by up to 4.5x, maximizing overall fleet utilization and workload goodput across all TPUs."
+    },
+    {
+      "kind": "heading",
+      "text": "Co-designing with a decade of experience",
+      "id": "p37",
+      "zh": "有十年经验的共同设计",
+      "en": "Co-designing with a decade of experience"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Shipping four TPU systems and a unified, open software stack in a single year only happens when silicon architects, networking engineers, compiler teams, and Google DeepMind researchers build side-by-side.",
+      "id": "p38",
+      "zh": "运输四个TPU系统以及一个统一的,一年之内只有硅建筑师 才会打开软件堆栈网络工程师,编译组,和Google DeepMind的研究者们边建边建.",
+      "en": "Shipping four TPU systems and a unified, open software stack in a single year only happens when silicon architects, networking engineers, compiler teams, and Google DeepMind researchers build side-by-side."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Increasingly, we’re even tapping into AI to ideate and build the next generation of AI infrastructure. From using Google DeepMind’s AlphaChip reinforcement learning system to using Gemini to deliver chip layouts in hours rather than weeks, we’re using TPU-powered AI services to rapidly accelerate next-generation TPU hardware development. This is true co-design and a unique Google differentiator.",
+      "id": "p39",
+      "zh": "越来越,我们甚至利用人工智能来构思和建设下一代人工智能基础设施。从使用Google DeepMind的AlphaChip强化学习系统到使用Gemini在数小时而不是数周内提供芯片布局,我们利用TPU的人工智能服务, 快速地加速下一代TPU硬件的开发。这是真正的联合设计 和独特的谷歌差异者。",
+      "en": "Increasingly, we’re even tapping into AI to ideate and build the next generation of AI infrastructure. From using Google DeepMind’s AlphaChip reinforcement learning system to using Gemini to deliver chip layouts in hours rather than weeks, we’re using TPU-powered AI services to rapidly accelerate next-generation TPU hardware development. This is true co-design and a unique Google differentiator."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Learn more about our new TPU systems by tuning into today’s broadcast at 9 a.m. PT.",
+      "id": "p40",
+      "zh": "透过在上午9时的收音机,PT(英语:PT (PT)).",
+      "en": "Learn more about our new TPU systems by tuning into today’s broadcast at 9 a.m. PT."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们最初设计TPU是在十多年前 由Google内部需求驱动的,包括语音识别和语言翻译。八代的TPU后来,使用箱已经爆炸,涵盖:(一) 训练和服务我们自己的Gemini模型,(二) 代理工作量;(三) 就我们的云基础设施向Google Cloud客户提供服务,以及最近发生的,(四) 允许客户将TPU直接部署到自己的数据中心。",
+      "en": "We first designed TPUs more than a decade ago motivated by Google’s internal demands, including voice recognition and language translation. Eight generations of TPUs later, the use cases have exploded, covering: i) training and serving our own Gemini models, ii) agentic workloads, iii) delivering services to Google Cloud customers on our cloud infrastructure, and most recently, iv) allowing customers to deploy TPUs directly into their own data centers."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "在Google Cloud Next in 4月的下一个,我们在同一代引进了两个新的专业TPU——8t用于大规模训练,8i用于实时推理.TPU 8t和8i可提供2.7倍的更好的培训绩效和80%的推算价格绩效,分别,和我们前一代的TPU相对.",
+      "en": "At Google Cloud Next in April, we introduced two new specialized TPUs in the same generation — 8t for large-scale training and 8i for real-time reasoning. TPU 8t and 8i offer up to 2.7 times better training performance and 80% better inference price performance, respectively, versus our previous generation of TPUs."
+    },
+    {
+      "paragraphId": "p13",
+      "zh": "TPU 8t被设计成一个训练动力所,用于最大“良好产出”的大型基础模型,或每用一瓦能源提供的有用情报。",
+      "en": "TPU 8t was designed to be a training powerhouse for massive foundation models with maximum “goodput” — or the useful intelligence delivered per watt of energy used."
+    },
+    {
+      "paragraphId": "p26",
+      "zh": "虽然在工作量方面是灵活的,我们第八代TPU的4个系统 一起为客户提供了 专用的加速器 在代理生命周期的每一个阶段。TPU 8t用于扩大培训,TPU 8i用于低纬度推理,TPU 8tx用于保密计算,和 TPU 8i Max 用于大上下文窗口和每个机架最高的计算密度.",
+      "en": "While flexible across workloads, together the four systems in our eighth-generation TPUs give customers a purpose-built accelerator for every stage of the agentic lifecycle. TPU 8t for scale-up training, TPU 8i for low-latency reasoning, TPU 8tx for confidential computing, and TPU 8i Max for massive context windows and the highest compute density per rack."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "8a0e03b8f52a04504717fe00846294c5f47a33a7191b73739766205662f01cd9"
+}

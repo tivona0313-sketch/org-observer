@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-f116c1896a2161e2c2d9",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+  "sourceTitle": "Developers can now build with Google Maps Platform in AI Studio.",
+  "status": "ready",
+  "attemptedAt": "2026-11-09T17:19:19.443325+00:00",
+  "fetchedAt": "2026-11-09T17:19:22.148670+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+  "language": "en",
+  "originalTitle": "Developers can now build with Google Maps Platform in AI Studio.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Building real-world context into your apps just got much easier. You can now use Google Maps Platform directly inside Google AI Studio, eliminating the need to leave your workspace to configure billing and credentials. Jump in and try it at no cost. How it works:",
+      "id": "p1",
+      "zh": "在你的应用软件中构建真实世界的环境 已经变得容易多了你现在可以直接在Google AI Studio内使用Google地图平台,取消了需要离开工作空间来配置帐单和证书。跳入并试而无所取.如何运作:",
+      "en": "Building real-world context into your apps just got much easier. You can now use Google Maps Platform directly inside Google AI Studio, eliminating the need to leave your workspace to configure billing and credentials. Jump in and try it at no cost. How it works:"
+    },
+    {
+      "kind": "list",
+      "text": "Describe your idea: Head to AI Studio and prompt Gemini with any real-world concept (e.g., \"Build an interactive 3D tour of NYC showcasing iconic landmarks\").",
+      "id": "p2",
+      "zh": "说明你的想法:头到AI Studio,并用任何现实世界的概念(例如,\"打造互动3D巡演NYC展出标志性地标\".",
+      "en": "Describe your idea: Head to AI Studio and prompt Gemini with any real-world concept (e.g., \"Build an interactive 3D tour of NYC showcasing iconic landmarks\")."
+    },
+    {
+      "kind": "list",
+      "text": "Enable Google Maps seamlessly: Get started in minutes with no credit cards required, 1 or let AI Studio automatically detect and link your existing Google Cloud project.",
+      "id": "p3",
+      "zh": "以无缝方式启用 Google 地图 :几分钟后开始 不需要信用卡1或让AI Studio自动检测并链接您现有的Google Cloud项目.",
+      "en": "Enable Google Maps seamlessly: Get started in minutes with no credit cards required, 1 or let AI Studio automatically detect and link your existing Google Cloud project."
+    },
+    {
+      "kind": "list",
+      "text": "Watch it come to life: AI Studio securely connects your key and instantly loads a live, interactive preview.",
+      "id": "p4",
+      "zh": "看着它活过来:AI Studio安全连接了您的密钥 并立即装入现场,交互预览.",
+      "en": "Watch it come to life: AI Studio securely connects your key and instantly loads a live, interactive preview."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Try it out today in AI Studio or read the full announcement on the Google for Developers blog.",
+      "id": "p5",
+      "zh": "今天在AI Studio试一试,或者在Google为开发者博客读取完整公告.",
+      "en": "Try it out today in AI Studio or read the full announcement on the Google for Developers blog."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "在你的应用软件中构建真实世界的环境 已经变得容易多了你现在可以直接在Google AI Studio内使用Google地图平台,取消了需要离开工作空间来配置帐单和证书。跳入并试而无所取.如何运作:",
+      "en": "Building real-world context into your apps just got much easier. You can now use Google Maps Platform directly inside Google AI Studio, eliminating the need to leave your workspace to configure billing and credentials."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "说明你的想法:头到AI Studio,并用任何现实世界的概念(例如,\"打造互动3D巡演NYC展出标志性地标\".",
+      "en": "Describe your idea: Head to AI Studio and prompt Gemini with any real-world concept (e.g., \"Build an interactive 3D tour of NYC showcasing iconic landmarks\")."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "以无缝方式启用 Google 地图 :几分钟后开始 不需要信用卡1或让AI Studio自动检测并链接您现有的Google Cloud项目.",
+      "en": "Enable Google Maps seamlessly: Get started in minutes with no credit cards required, 1 or let AI Studio automatically detect and link your existing Google Cloud project."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "今天在AI Studio试一试,或者在Google为开发者博客读取完整公告.",
+      "en": "Try it out today in AI Studio or read the full announcement on the Google for Developers blog."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "5f6b26489e6810cccc2da178e1b4acfda15613007f85be53a6d71d64eca22cb0"
+}

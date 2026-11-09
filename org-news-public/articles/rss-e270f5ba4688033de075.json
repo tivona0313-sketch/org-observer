@@ -3,8 +3,100 @@
   "id": "rss-e270f5ba4688033de075",
   "url": "https://openai.com/index/empowering-cyber-defenders",
   "sourceTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.810751+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.840332+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:58:27.440Z",
+  "finalURL": "https://openai.com/index/empowering-cyber-defenders/",
+  "language": "en",
+  "originalTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "AI is changing the speed, scale, and economics of cybersecurity. It can help defenders find and fix vulnerabilities, detect intrusions, and respond to attacks—but those same capabilities can enable malicious actors and create new risks when AI systems act beyond their intended boundaries. We are in a defender’s window: a limited opportunity to put advanced AI into defenders’ hands and strengthen protections before advanced cyber offensive capabilities become widely available.",
+      "en": "AI is changing the speed, scale, and economics of cybersecurity. It can help defenders find and fix vulnerabilities, detect intrusions, and respond to attacks—but those same capabilities can enable malicious actors and create new risks when AI systems act beyond their intended boundaries. We are in a defender’s window: a limited opportunity to put advanced AI into defenders’ hands and strengthen protections before advanced cyber offensive capabilities become widely available.",
+      "zh": "AI 正在改变网络安全领域的速度、规模和成本效益。它可以帮助防御者发现并修复漏洞、检测入侵和应对攻击，但这些能力也可能被恶意行为者利用；当 AI 系统的行为超出预定边界时，还可能带来新的风险。我们正处于防御者的窗口期：在先进的网络攻击能力被广泛获取之前，我们有一段有限的时间，可以将先进 AI 交到防御者手中，并加强防护。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Today, we’re publishing a blueprint for empowering cyber defenders, building on our earlier cybersecurity action plan and frontier safety blueprint. Our experience with misalignment and security incidents involving our own models underscores the need for stronger safeguards and accountability across the industry. Drawing on those lessons, the blueprint puts forward concrete proposals for governments and industry in three areas:",
+      "en": "Today, we’re publishing a blueprint for empowering cyber defenders, building on our earlier cybersecurity action plan and frontier safety blueprint. Our experience with misalignment and security incidents involving our own models underscores the need for stronger safeguards and accountability across the industry. Drawing on those lessons, the blueprint puts forward concrete proposals for governments and industry in three areas:",
+      "zh": "今天，我们在此前的网络安全行动计划和前沿 AI 安全蓝图的基础上，发布一份赋能网络防御者的蓝图。我们自身模型出现的对齐失效问题和安全事件表明，整个行业都需要加强安全保障和问责。基于这些经验教训，这份蓝图从三个方面向政府和行业提出了具体建议："
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Strengthening safety and security for advanced AI: Establish clearer responsibilities for securing frontier models and agents, detecting dangerous behavior, and maintaining reliable shutdown controls for operations under each organization’s control.",
+      "en": "Strengthening safety and security for advanced AI: Establish clearer responsibilities for securing frontier models and agents, detecting dangerous behavior, and maintaining reliable shutdown controls for operations under each organization’s control.",
+      "zh": "加强先进 AI 的安全保障与防护：明确各组织在保障前沿模型和智能体安全、检测危险行为，以及为各自管控范围内的运行活动维持可靠关停机制等方面的责任。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Modernizing cybersecurity for the intelligence age: Equip defenders with advanced tools, training, and technical support; address longstanding cybersecurity weaknesses; and invest in securing essential services and replacing outdated systems.",
+      "en": "Modernizing cybersecurity for the intelligence age: Equip defenders with advanced tools, training, and technical support; address longstanding cybersecurity weaknesses; and invest in securing essential services and replacing outdated systems.",
+      "zh": "推进网络安全现代化，迎接智能时代：为防御者提供先进工具、培训和技术支持；解决长期存在的网络安全薄弱环节；投入资源保障基本服务安全，并替换过时系统。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Building resilient and adaptive public institutions: Strengthen government evaluations and independent technical assessments, establish consistent incident reporting requirements, and improve coordinated response and recovery.",
+      "en": "Building resilient and adaptive public institutions: Strengthen government evaluations and independent technical assessments, establish consistent incident reporting requirements, and improve coordinated response and recovery.",
+      "zh": "建设具备韧性和适应能力的公共机构：加强政府评估和独立技术评估，建立统一的事件报告要求，并提升协同响应与恢复能力。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "AI labs have a responsibility to address the risks their systems create and help strengthen society’s defenses. Governments must also have the expertise, resources, and authority to protect the public as capabilities advance. We encourage policymakers to act now—establishing safeguards, learning from experience, and strengthening requirements as the technology evolves.",
+      "en": "AI labs have a responsibility to address the risks their systems create and help strengthen society’s defenses. Governments must also have the expertise, resources, and authority to protect the public as capabilities advance. We encourage policymakers to act now—establishing safeguards, learning from experience, and strengthening requirements as the technology evolves.",
+      "zh": "AI 实验室有责任应对其系统带来的风险，并帮助加强社会的防御能力。随着 AI 能力不断提升，政府也必须具备保护公众所需的专业知识、资源和权限。我们呼吁政策制定者立即行动：建立安全保障措施，总结实践经验，并随着技术发展不断提高要求。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Read the full blueprint here.",
+      "en": "Read the full blueprint here.",
+      "zh": "请点击此处阅读完整蓝图。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "AI 正在改变网络安全领域的速度、规模和成本效益。它可以帮助防御者发现并修复漏洞、检测入侵和应对攻击，但这些能力也可能被恶意行为者利用；当 AI 系统的行为超出预定边界时，还可能带来新的风险。",
+      "en": "AI is changing the speed, scale, and economics of cybersecurity. It can help defenders find and fix vulnerabilities, detect intrusions, and respond to attacks—but those same capabilities can enable malicious actors and create new risks when AI systems act beyond their intended boundaries."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "今天，我们在此前的网络安全行动计划和前沿 AI 安全蓝图的基础上，发布一份赋能网络防御者的蓝图。我们自身模型出现的对齐失效问题和安全事件表明，整个行业都需要加强安全保障和问责。",
+      "en": "Today, we’re publishing a blueprint for empowering cyber defenders, building on our earlier cybersecurity action plan and frontier safety blueprint. Our experience with misalignment and security incidents involving our own models underscores the need for stronger safeguards and accountability across the industry."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "推进网络安全现代化，迎接智能时代：为防御者提供先进工具、培训和技术支持；解决长期存在的网络安全薄弱环节；投入资源保障基本服务安全，并替换过时系统。",
+      "en": "Modernizing cybersecurity for the intelligence age: Equip defenders with advanced tools, training, and technical support; address longstanding cybersecurity weaknesses; and invest in securing essential services and replacing outdated systems."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "AI 实验室有责任应对其系统带来的风险，并帮助加强社会的防御能力。随着 AI 能力不断提升，政府也必须具备保护公众所需的专业知识、资源和权限。",
+      "en": "AI labs have a responsibility to address the risks their systems create and help strengthen society’s defenses. Governments must also have the expertise, resources, and authority to protect the public as capabilities advance."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/empowering-cyber-defenders/",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/empowering-cyber-defenders/",
+      "title": "前沿 AI 的民主治理（二）：赋能网络防御者"
+    }
+  },
+  "contentHash": "db3e61d7fbfaa13e7c19e31a02ea8a4fe28f6a7a3fc4ff9b74d28502ee7165aa",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/empowering-cyber-defenders/"
 }

@@ -3,8 +3,261 @@
   "id": "rss-1e3ebf94e41ebe19793b",
   "url": "https://openai.com/index/retell-ai",
   "sourceTitle": "Retell uses OpenAI models to help power 100M monthly calls",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.549404+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.575856+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:59:14.971Z",
+  "finalURL": "https://openai.com/index/retell-ai/",
+  "language": "en",
+  "originalTitle": "Retell uses OpenAI models to help power 100M monthly calls",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Retell AI is a voice AI platform for contact center operations, helping businesses build agents that can answer questions, take action, and connect a caller with a person when needed. Its platform now serves more than 4,000 businesses, with monthly call volume growing from 30 million in early 2026 to more than 100 million by September.",
+      "en": "Retell AI is a voice AI platform for contact center operations, helping businesses build agents that can answer questions, take action, and connect a caller with a person when needed. Its platform now serves more than 4,000 businesses, with monthly call volume growing from 30 million in early 2026 to more than 100 million by September.",
+      "zh": "Retell AI 是面向联络中心运营的语音 AI 平台，帮助企业构建智能体，用于解答问题、执行操作，并在需要时将来电者转接至人工客服。该平台目前服务于 4,000 多家企业，月通话量从 2026 年初的 3,000 万次增长至 9 月的 1 亿多次。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "As Retell serves more enterprises with complex workflows, it uses OpenAI models to keep call quality and reliability high. Today, OpenAI models generate responses for 80% of calls on Retell, with customers achieving resolution rates above 80%. Retell has also surpassed 1 trillion tokens consumed across OpenAI models, reflecting the scale of that adoption.",
+      "en": "As Retell serves more enterprises with complex workflows, it uses OpenAI models to keep call quality and reliability high. Today, OpenAI models generate responses for 80% of calls on Retell, with customers achieving resolution rates above 80%. Retell has also surpassed 1 trillion tokens consumed across OpenAI models, reflecting the scale of that adoption.",
+      "zh": "随着 Retell 服务的企业越来越多、工作流日趋复杂，它借助 OpenAI 模型保持高水平的通话质量和可靠性。如今，Retell 平台上 80% 的通话由 OpenAI 模型生成回复，客户的问题解决率超过 80%。Retell 在各款 OpenAI 模型上的 token 累计消耗量也已超过 1 万亿，体现了其应用规模。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Retell’s engineers use Codex throughout development, from researching unfamiliar code to building features and debugging issues, and GPT‑6 Astra to test front-end interfaces.",
+      "en": "Retell’s engineers use Codex throughout development, from researching unfamiliar code to building features and debugging issues, and GPT‑6 Astra to test front-end interfaces.",
+      "zh": "Retell 的工程师在整个开发过程中使用 Codex，从研究不熟悉的代码到构建功能、调试问题，并使用 GPT‑6 Astra 测试前端界面。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "“We choose models the way our customers choose vendors: on real calls, not demos. OpenAI keeps earning its spot.”",
+      "en": "“We choose models the way our customers choose vendors: on real calls, not demos. OpenAI keeps earning its spot.”",
+      "zh": "“我们挑选模型，就像客户挑选供应商一样：看实际通话表现，而不是演示效果。OpenAI 持续用实力赢得我们的选择。”"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Choosing OpenAI models for the demands of a live call",
+      "en": "Choosing OpenAI models for the demands of a live call",
+      "zh": "选择 OpenAI 模型，满足实时通话需求"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Enterprise voice agents need to follow company policies and stay within their assigned roles, even as conversations change. Retell built its vCX benchmark to compare dozens of models using difficult, multi-turn conversations drawn from real production scenarios.",
+      "en": "Enterprise voice agents need to follow company policies and stay within their assigned roles, even as conversations change. Retell built its vCX benchmark to compare dozens of models using difficult, multi-turn conversations drawn from real production scenarios.",
+      "zh": "即使对话不断变化，企业语音智能体也必须遵守公司政策，并始终在被赋予的职责范围内行事。Retell 构建了 vCX 基准测试，利用来自真实生产场景的高难度多轮对话，对数十款模型进行比较。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "It tests how well models follow instructions, stay grounded in the information they are given, call the right tools, and use natural conversational language. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra ranked first for instruction following at 89.7%.",
+      "en": "It tests how well models follow instructions, stay grounded in the information they are given, call the right tools, and use natural conversational language. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra ranked first for instruction following at 89.7%.",
+      "zh": "这项测试评估模型能否遵循指令、依据所提供的信息作答、调用正确的工具，并使用自然的对话语言。在 Retell 于 2026 年 10 月 13 日进行的基准测试中，GPT‑6 Astra 以 89.7% 的指令遵循率排名第一。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Source: bench.retellai.com · October 13, 2026 · All providers · “None/low” reasoning · Fast variants excluded",
+      "en": "Source: bench.retellai.com · October 13, 2026 · All providers · “None/low” reasoning · Fast variants excluded",
+      "zh": "来源：bench.retellai.com · 2026 年 10 月 13 日 · 所有提供商 · 推理强度为“无/低” · 不含快速版本"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Retell also shared evaluations conducted before the launch of the GPT‑6 Astra model that showed GPT‑5.5 ranking highest among models on both non-hallucination rate (88.0%) and tool-call correctness (88.3%) with reasoning enabled, outperforming Gemini‑3.1‑Pro and Claude‑4.6 on both measures. It also led on non-hallucination rate with reasoning off.",
+      "en": "Retell also shared evaluations conducted before the launch of the GPT‑6 Astra model that showed GPT‑5.5 ranking highest among models on both non-hallucination rate (88.0%) and tool-call correctness (88.3%) with reasoning enabled, outperforming Gemini‑3.1‑Pro and Claude‑4.6 on both measures. It also led on non-hallucination rate with reasoning off.",
+      "zh": "Retell 还分享了在 GPT‑6 Astra 模型发布前开展的评估。结果显示，启用推理后，GPT‑5.5 在无幻觉率（88.0%）和工具调用正确率（88.3%）两项指标上均排名第一，两项表现都优于 Gemini‑3.1‑Pro 和 Claude‑4.6。关闭推理后，它的无幻觉率依然领先。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Retell says new customers who choose OpenAI models continue using them. Customers also have access to OpenAI Realtime models through the Realtime API and OpenAI text-to-speech as a voice engine. Retell makes new OpenAI models available the day they launch and reruns its benchmark as models improve.",
+      "en": "Retell says new customers who choose OpenAI models continue using them. Customers also have access to OpenAI Realtime models through the Realtime API and OpenAI text-to-speech as a voice engine. Retell makes new OpenAI models available the day they launch and reruns its benchmark as models improve.",
+      "zh": "Retell 表示，选择 OpenAI 模型的新客户都会继续使用这些模型。客户还可以通过 Realtime API 使用 OpenAI 实时模型，并将 OpenAI 文本转语音功能用作语音引擎。Retell 会在 OpenAI 新模型发布当天提供支持，并随着模型改进重新运行基准测试。"
+    },
+    {
+      "id": "p11",
+      "kind": "heading",
+      "text": "Resolving more than 80% of customer requests with agents",
+      "en": "Resolving more than 80% of customer requests with agents",
+      "zh": "借助智能体解决超过 80% 的客户请求"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Contact center teams use Retell to define their agents’ business context, goals, and rules. Developers can further configure workflows and integrations.",
+      "en": "Contact center teams use Retell to define their agents’ business context, goals, and rules. Developers can further configure workflows and integrations.",
+      "zh": "联络中心团队使用 Retell 设定智能体的业务背景、目标和规则。开发者还可以进一步配置工作流和集成。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "During a call, Retell’s harness runs the audio models, tracks the conversation, and manages when the agent speaks, listens, or responds to interruptions. OpenAI models, including GPT‑6.1 Sol, GPT‑6 Astra, and GPT‑5.5, use the customer’s instructions and conversation context to generate responses and request tool calls. Retell executes those calls through integrations with the customer’s systems and can write outcomes back to a customer record.",
+      "en": "During a call, Retell’s harness runs the audio models, tracks the conversation, and manages when the agent speaks, listens, or responds to interruptions. OpenAI models, including GPT‑6.1 Sol, GPT‑6 Astra, and GPT‑5.5, use the customer’s instructions and conversation context to generate responses and request tool calls. Retell executes those calls through integrations with the customer’s systems and can write outcomes back to a customer record.",
+      "zh": "通话期间，Retell 的执行框架会运行音频模型、跟踪对话，并控制智能体何时说话、倾听或应对打断。GPT‑6.1 Sol、GPT‑6 Astra 和 GPT‑5.5 等 OpenAI 模型会根据客户的指令和对话上下文生成回复，并发起工具调用请求。Retell 通过与客户系统的集成执行这些调用，并可将处理结果写回客户记录。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "When human judgment is needed, the voice agent briefs the representative with context, answers their follow-up questions, and confirms they are ready before connecting the customer. After a call, Retell uses GPT‑5.6 Terra to analyze the transcript and extract outcomes and other data.",
+      "en": "When human judgment is needed, the voice agent briefs the representative with context, answers their follow-up questions, and confirms they are ready before connecting the customer. After a call, Retell uses GPT‑5.6 Terra to analyze the transcript and extract outcomes and other data.",
+      "zh": "当需要人工判断时，语音智能体会向客服人员简要介绍相关背景，回答其追问，并在确认对方准备就绪后接通客户。通话结束后，Retell 使用 GPT‑5.6 Terra 分析转写文本，提取处理结果和其他数据。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "With this approach, Retell reports customer resolution rates above 80%. At electronics company Anker, agents handle Tier‑1 post-sales support in the US and UK, including order tracking, warranty checks, and troubleshooting. Anker reported an 80.4% case resolution rate and a Net Promoter Score (NPS) of 63. Its team also said the agents’ tone, pacing, and warmth met the standard they expected of a human agent.",
+      "en": "With this approach, Retell reports customer resolution rates above 80%. At electronics company Anker, agents handle Tier‑1 post-sales support in the US and UK, including order tracking, warranty checks, and troubleshooting. Anker reported an 80.4% case resolution rate and a Net Promoter Score (NPS) of 63. Its team also said the agents’ tone, pacing, and warmth met the standard they expected of a human agent.",
+      "zh": "Retell 表示，采用这一方式后，客户问题解决率超过了 80%。在电子产品公司 Anker，智能体负责美国和英国市场的一线售后支持，包括订单跟踪、保修查询和故障排查。Anker 报告的工单解决率为 80.4%，净推荐值（NPS）为 63。其团队还表示，智能体的语气、交流节奏和亲和力均达到了他们对人工客服的预期标准。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "At Pine Park Health, Retell agents handle appointment reminders and proactive scheduling and record the outcomes in patients’ medical charts. The team recovered medical-assistant time equivalent to 2.1 full-time roles and redirected it to patient care. Its scheduling agent achieved a 55.7% booking rate when it reached a patient.",
+      "en": "At Pine Park Health, Retell agents handle appointment reminders and proactive scheduling and record the outcomes in patients’ medical charts. The team recovered medical-assistant time equivalent to 2.1 full-time roles and redirected it to patient care. Its scheduling agent achieved a 55.7% booking rate when it reached a patient.",
+      "zh": "在 Pine Park Health，Retell 智能体负责预约提醒和主动预约安排，并将处理结果记入患者病历。该团队节省了相当于 2.1 个全职岗位的医疗助理工时，并将这些时间投入患者护理。在成功联系到患者的情况下，其预约智能体的预约成功率达到了 55.7%。"
+    },
+    {
+      "id": "p17",
+      "kind": "heading",
+      "text": "Keeping calls responsive as volume grows",
+      "en": "Keeping calls responsive as volume grows",
+      "zh": "通话量增长，响应依然及时"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Daytime traffic on Retell’s platform can reach more than 50 times its overnight low. To help keep calls responsive even at peak demand, Retell uses dedicated servers with OpenAI, shared across its customers. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra and GPT‑6 Sol each recorded median first-sentence latency of 883 milliseconds, with GPT‑5.6 Luna ranking highest at 497 milliseconds.",
+      "en": "Daytime traffic on Retell’s platform can reach more than 50 times its overnight low. To help keep calls responsive even at peak demand, Retell uses dedicated servers with OpenAI, shared across its customers. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra and GPT‑6 Sol each recorded median first-sentence latency of 883 milliseconds, with GPT‑5.6 Luna ranking highest at 497 milliseconds.",
+      "zh": "Retell 平台白天的流量可达到夜间低谷时段的 50 多倍。为帮助通话在需求高峰期也能保持及时响应，Retell 与 OpenAI 合作，使用由其客户共享的专用服务器。在 Retell 于 2026 年 10 月 13 日进行的基准测试中，GPT‑6 Astra 和 GPT‑6 Sol 的首句延迟中位数均为 883 毫秒，GPT‑5.6 Luna 则以 497 毫秒的成绩位居榜首。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "OpenAI’s regional API endpoints allow developers to route traffic to specific geographic regions, which helps Retell reduce network travel time and meet customers’ data residency requirements in industries such as healthcare and financial services.",
+      "en": "OpenAI’s regional API endpoints allow developers to route traffic to specific geographic regions, which helps Retell reduce network travel time and meet customers’ data residency requirements in industries such as healthcare and financial services.",
+      "zh": "OpenAI 的区域 API 端点允许开发者将流量路由至特定地理区域，帮助 Retell 缩短网络传输时间，并满足医疗保健、金融服务等行业客户的数据驻留要求。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "Retell also builds redundancy into each layer of the service. It runs its own telephony stack with a second stack ready to take over, along with backups for voice and model services, to help keep calls running when a service fails.",
+      "en": "Retell also builds redundancy into each layer of the service. It runs its own telephony stack with a second stack ready to take over, along with backups for voice and model services, to help keep calls running when a service fails.",
+      "zh": "Retell 还在服务的每一层都设置了冗余机制。除了运行自有的电话通信技术栈，Retell 还准备了可随时接管的备用技术栈，并为语音和模型服务配置了备份，以便在服务发生故障时帮助维持通话。"
+    },
+    {
+      "id": "p21",
+      "kind": "heading",
+      "text": "Using Codex to research, build, and debug",
+      "en": "Using Codex to research, build, and debug",
+      "zh": "借助 Codex 研究代码、开发和调试"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "As Retell’s enterprise growth brings more requests for custom workflows and integrations, its engineers often need to work in unfamiliar parts of the codebase. Before writing code, they give Codex a high-level requirement. Codex surveys the code, checks it against actual data, and explains what needs to change. One engineer said Codex did this research better and much faster than he could.",
+      "en": "As Retell’s enterprise growth brings more requests for custom workflows and integrations, its engineers often need to work in unfamiliar parts of the codebase. Before writing code, they give Codex a high-level requirement. Codex surveys the code, checks it against actual data, and explains what needs to change. One engineer said Codex did this research better and much faster than he could.",
+      "zh": "随着 Retell 的企业业务增长，定制工作流和集成的需求不断增多，其工程师经常需要处理代码库中不熟悉的部分。编写代码之前，他们会先向 Codex 提出总体需求。Codex 会梳理代码，结合实际数据进行核查，并说明需要做哪些修改。一位工程师表示，Codex 在这类研究工作上比他做得更好，速度也快得多。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "During implementation, engineers say Codex often catches details they had not considered. For debugging, Codex cross-references logs and database records with the code to investigate what is happening. Retell’s engineers also use Codex in their work with customers building on OpenAI models to speed up tasks such as writing the instructions that guide how a model responds in a customer’s application.",
+      "en": "During implementation, engineers say Codex often catches details they had not considered. For debugging, Codex cross-references logs and database records with the code to investigate what is happening. Retell’s engineers also use Codex in their work with customers building on OpenAI models to speed up tasks such as writing the instructions that guide how a model responds in a customer’s application.",
+      "zh": "工程师们表示，在实现过程中，Codex 经常能发现他们未曾考虑到的细节。调试时，Codex 会将日志、数据库记录与代码交叉比对，查明问题所在。在协助客户基于 OpenAI 模型开发应用时，Retell 的工程师也会使用 Codex 加快工作，例如编写指令，引导模型在客户应用中作出恰当的回复。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "To test changes to its web interface, Retell relies on GPT‑6 Astra’s computer use. When an engineer opens a front-end pull request, GPT‑6 Astra opens the interface, clicks through it, tests flows, tries to break them, and reports the issues it finds. Retell says earlier models could not perform this work reliably.",
+      "en": "To test changes to its web interface, Retell relies on GPT‑6 Astra’s computer use. When an engineer opens a front-end pull request, GPT‑6 Astra opens the interface, clicks through it, tests flows, tries to break them, and reports the issues it finds. Retell says earlier models could not perform this work reliably.",
+      "zh": "Retell 依靠 GPT‑6 Astra 的计算机使用能力来测试网页界面的改动。当工程师发起前端 pull request 时，GPT‑6 Astra 会打开界面，逐项点击操作，测试各个流程，尝试触发异常，并报告发现的问题。Retell 表示，早期模型无法可靠地完成这项工作。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "Retell continues to hire, but its engineering team hasn’t needed to grow at the same pace as the business. Retell reports $1.6 million in annual revenue run rate per employee.",
+      "en": "Retell continues to hire, but its engineering team hasn’t needed to grow at the same pace as the business. Retell reports $1.6 million in annual revenue run rate per employee.",
+      "zh": "Retell 仍在持续招聘，但工程团队已无需与业务保持同等的扩张速度。Retell 报告的人均年化营收达到 160 万美元。"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "“By using Codex, the engineering team has a virtual teammate that can pair with them on any kind of difficult task.”",
+      "en": "“By using Codex, the engineering team has a virtual teammate that can pair with them on any kind of difficult task.”",
+      "zh": "“有了 Codex，工程团队就多了一位虚拟队友，可以与他们结对攻克各种难题。”"
+    },
+    {
+      "id": "p27",
+      "kind": "heading",
+      "text": "Putting customer expertise to work",
+      "en": "Putting customer expertise to work",
+      "zh": "让客户的专业经验发挥作用"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "Every business knows how it wants to serve its customers. Retell’s goal is to let the people closest to that work apply their expertise directly, using advanced voice AI and a platform that lets them build, test, and improve their own agents. Next, Retell plans to expand quality assurance and simulation, support more languages, and develop knowledge base auto-learning.",
+      "en": "Every business knows how it wants to serve its customers. Retell’s goal is to let the people closest to that work apply their expertise directly, using advanced voice AI and a platform that lets them build, test, and improve their own agents. Next, Retell plans to expand quality assurance and simulation, support more languages, and develop knowledge base auto-learning.",
+      "zh": "每家企业都知道自己希望如何服务客户。Retell 的目标是让最熟悉这些工作的人直接运用自身经验：借助先进的语音 AI，以及支持构建、测试和改进自有智能体的平台，将经验付诸实践。接下来，Retell 计划拓展质量保障和仿真测试能力、支持更多语言，并开发知识库自动学习功能。"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "As OpenAI models continue to advance, Retell expects its customers to deliver world-class service to millions of callers, on their own terms.",
+      "en": "As OpenAI models continue to advance, Retell expects its customers to deliver world-class service to millions of callers, on their own terms.",
+      "zh": "随着 OpenAI 模型不断进步，Retell 期待其客户能够按自己的方式，为数百万来电者提供世界一流的服务。"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "“No one knows a company’s customers better than the company itself. We give them the power to act on that expertise and improve AI agents directly. The goal is for them to build an in-house team of internally deployed engineers who own and run it all,” says Bing.",
+      "en": "“No one knows a company’s customers better than the company itself. We give them the power to act on that expertise and improve AI agents directly. The goal is for them to build an in-house team of internally deployed engineers who own and run it all,” says Bing.",
+      "zh": "“没有谁比企业自身更了解它的客户。我们让企业能够将这些专业经验付诸实践，直接改进 AI 智能体。目标是让企业组建自己的内部工程师团队，在内部落地，全面负责和运营这套系统。”Bing 说道。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Retell AI 是面向联络中心运营的语音 AI 平台，帮助企业构建智能体，用于解答问题、执行操作，并在需要时将来电者转接至人工客服。该平台目前服务于 4,000 多家企业，月通话量从 2026 年初的 3,000 万次增长至 9 月的 1 亿多次。",
+      "en": "Retell AI is a voice AI platform for contact center operations, helping businesses build agents that can answer questions, take action, and connect a caller with a person when needed. Its platform now serves more than 4,000 businesses, with monthly call volume growing from 30 million in early 2026 to more than 100 million by September."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "随着 Retell 服务的企业越来越多、工作流日趋复杂，它借助 OpenAI 模型保持高水平的通话质量和可靠性。如今，Retell 平台上 80% 的通话由 OpenAI 模型生成回复，客户的问题解决率超过 80%。",
+      "en": "As Retell serves more enterprises with complex workflows, it uses OpenAI models to keep call quality and reliability high. Today, OpenAI models generate responses for 80% of calls on Retell, with customers achieving resolution rates above 80%."
+    },
+    {
+      "paragraphId": "p13",
+      "zh": "通话期间，Retell 的执行框架会运行音频模型、跟踪对话，并控制智能体何时说话、倾听或应对打断。GPT‑6.1 Sol、GPT‑6 Astra 和 GPT‑5.5 等 OpenAI 模型会根据客户的指令和对话上下文生成回复，并发起工具调用请求。",
+      "en": "During a call, Retell’s harness runs the audio models, tracks the conversation, and manages when the agent speaks, listens, or responds to interruptions. OpenAI models, including GPT‑6.1 Sol, GPT‑6 Astra, and GPT‑5.5, use the customer’s instructions and conversation context to generate responses and request tool calls."
+    },
+    {
+      "paragraphId": "p18",
+      "zh": "Retell 平台白天的流量可达到夜间低谷时段的 50 多倍。为帮助通话在需求高峰期也能保持及时响应，Retell 与 OpenAI 合作，使用由其客户共享的专用服务器。",
+      "en": "Daytime traffic on Retell’s platform can reach more than 50 times its overnight low. To help keep calls responsive even at peak demand, Retell uses dedicated servers with OpenAI, shared across its customers."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/retell-ai/",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/retell-ai/",
+      "title": "Retell 借助 OpenAI 模型支持每月 1 亿次通话"
+    }
+  },
+  "contentHash": "a55cde85c9ca1436042d6048896bdc6b21971e5937a73f1553b8b86c69631976",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/retell-ai/"
 }

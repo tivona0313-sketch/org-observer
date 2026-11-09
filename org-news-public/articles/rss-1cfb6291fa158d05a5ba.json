@@ -3,8 +3,121 @@
   "id": "rss-1cfb6291fa158d05a5ba",
   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
   "sourceTitle": "OpenAI acquires Orchestra Bio",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.869701+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.900204+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:52:36.570Z",
+  "finalURL": "https://openai.com/index/openai-to-acquire-orchestra-bio/",
+  "language": "en",
+  "originalTitle": "OpenAI acquires Orchestra Bio",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "OpenAI has acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development. We’re bringing Orchestra’s team and technology together with Rosalind, our AI models and tools for life sciences research. Our goal is to help scientists make discoveries and manage the work needed to turn them into treatments that reach patients sooner.",
+      "en": "OpenAI has acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development. We’re bringing Orchestra’s team and technology together with Rosalind, our AI models and tools for life sciences research. Our goal is to help scientists make discoveries and manage the work needed to turn them into treatments that reach patients sooner.",
+      "zh": "OpenAI 已收购 Orchestra Bio，该平台帮助生物制药团队协调复杂的药物开发流程。我们正将 Orchestra 的团队与技术融入 Rosalind，后者是我们面向生命科学研究推出的 AI 模型与工具。我们的目标是帮助科学家取得新发现，并管理将这些发现转化为治疗方案所需的各项工作，让患者更早受益。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Developing a new medicine is extraordinarily complex, taking roughly 10 to 15 years on average from target discovery to regulatory approval in the United States. Beyond the science, teams must orchestrate programs across internal departments and external partners, often relying on disconnected systems. We’re now at an inflection point where AI can help take on these specialized tasks and complex workflows.",
+      "en": "Developing a new medicine is extraordinarily complex, taking roughly 10 to 15 years on average from target discovery to regulatory approval in the United States. Beyond the science, teams must orchestrate programs across internal departments and external partners, often relying on disconnected systems. We’re now at an inflection point where AI can help take on these specialized tasks and complex workflows.",
+      "zh": "新药开发极其复杂。在美国，从发现靶点到获得监管批准，平均需要约 10 至 15 年。除了科学研究，团队还必须协调内部各部门与外部合作伙伴，共同推进项目，而这项工作往往依赖彼此割裂的系统。如今，我们正迎来一个转折点：AI 已能协助承担这些专业任务和复杂工作流程。"
+    },
+    {
+      "id": "p3",
+      "kind": "heading",
+      "text": "Bringing Rosalind and Orchestra together",
+      "en": "Bringing Rosalind and Orchestra together",
+      "zh": "整合 Rosalind 与 Orchestra"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Rosalind brings our AI models and tools to life sciences researchers. GPT‑Rosalind helps scientists reason through questions in biology and chemistry. Rosalind Workbench connects those capabilities with scientific tools and data to help researchers analyze results and plan experiments.",
+      "en": "Rosalind brings our AI models and tools to life sciences researchers. GPT‑Rosalind helps scientists reason through questions in biology and chemistry. Rosalind Workbench connects those capabilities with scientific tools and data to help researchers analyze results and plan experiments.",
+      "zh": "Rosalind 为生命科学研究人员提供我们的 AI 模型与工具。GPT‑Rosalind 帮助科学家通过推理分析生物学与化学问题。Rosalind Workbench 将这些能力与科研工具及数据相结合，帮助研究人员分析结果并规划实验。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Orchestra brings a team with experience across biotech, software, and AI, along with a platform built to coordinate drug development. Together, we aim to build agents that help teams connect scientific findings with the studies, decisions, and next steps needed to advance a potential medicine.",
+      "en": "Orchestra brings a team with experience across biotech, software, and AI, along with a platform built to coordinate drug development. Together, we aim to build agents that help teams connect scientific findings with the studies, decisions, and next steps needed to advance a potential medicine.",
+      "zh": "Orchestra 带来了一支在生物技术、软件和 AI 领域拥有丰富经验的团队，以及一个专为协调药物开发而打造的平台。通过此次整合，我们希望构建智能体，帮助团队将科研发现与推进候选药物所需的研究、决策和后续行动衔接起来。"
+    },
+    {
+      "id": "p6",
+      "kind": "heading",
+      "text": "Designed for the way biopharma teams work",
+      "en": "Designed for the way biopharma teams work",
+      "zh": "契合生物制药团队的工作方式"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Orchestra Bio is a platform where people and AI agents work together to advance drug programs. Scientists and program leaders delegate the monitoring and tracking of studies and campaigns to agents, freeing up time to guide the work, make decisions, and address issues before they cause delays.",
+      "en": "Orchestra Bio is a platform where people and AI agents work together to advance drug programs. Scientists and program leaders delegate the monitoring and tracking of studies and campaigns to agents, freeing up time to guide the work, make decisions, and address issues before they cause delays.",
+      "zh": "Orchestra Bio 是一个让人与 AI 智能体协作推进药物项目的平台。科学家和项目负责人将研究及专项计划的监测与跟踪工作交给智能体，从而腾出时间指导工作、制定决策，并在问题造成延误之前加以解决。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "A problem in one part of a drug program can affect many others. A failed manufacturing batch, for example, can delay the start of a clinical trial. Orchestra’s agents help teams identify which activities and timelines are affected, gather the relevant information, and compare ways to respond. Scientists and program leaders can then use that analysis to decide what to do next.",
+      "en": "A problem in one part of a drug program can affect many others. A failed manufacturing batch, for example, can delay the start of a clinical trial. Orchestra’s agents help teams identify which activities and timelines are affected, gather the relevant information, and compare ways to respond. Scientists and program leaders can then use that analysis to decide what to do next.",
+      "zh": "药物项目中某个环节出现问题，可能波及许多其他环节。例如，一批药品生产失败，就可能推迟临床试验的启动。Orchestra 的智能体帮助团队识别哪些工作和时间安排受到影响，汇集相关信息，并比较不同的应对方案。科学家和项目负责人随后便可依据这些分析，决定下一步行动。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Realizing the potential of AI in life sciences requires close collaboration with the organizations working at the forefront of drug discovery and development. Our partnership with Novo Nordisk aims to translate its scale and scientific expertise into faster R&D and commercial execution while maintaining strong governance. At Moderna, AI is helping teams translate insights from complex data into experimental workflows, with the potential to accelerate R&D.",
+      "en": "Realizing the potential of AI in life sciences requires close collaboration with the organizations working at the forefront of drug discovery and development. Our partnership with Novo Nordisk aims to translate its scale and scientific expertise into faster R&D and commercial execution while maintaining strong governance. At Moderna, AI is helping teams translate insights from complex data into experimental workflows, with the potential to accelerate R&D.",
+      "zh": "要充分发挥 AI 在生命科学领域的潜力，就需要与处于药物发现和开发前沿的机构紧密合作。我们与诺和诺德的合作，旨在将其规模优势和科研专长转化为更快的研发与商业化执行能力，同时保持健全的治理。在莫德纳，AI 正帮助团队将从复杂数据中获得的洞见转化为实验流程，有望加速研发。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Our vision is for AI to help scientists across the full process of discovering and developing new medicines: exploring ideas, designing experiments, interpreting results, and coordinating the work needed to advance promising treatments. Bringing Orchestra Bio together with Rosalind is a step toward that vision. Alongside researchers and our partners, we aim to make more discoveries possible and help new medicines reach patients sooner.",
+      "en": "Our vision is for AI to help scientists across the full process of discovering and developing new medicines: exploring ideas, designing experiments, interpreting results, and coordinating the work needed to advance promising treatments. Bringing Orchestra Bio together with Rosalind is a step toward that vision. Alongside researchers and our partners, we aim to make more discoveries possible and help new medicines reach patients sooner.",
+      "zh": "我们的愿景是，让 AI 在新药发现和开发的全流程中助力科学家：探索思路、设计实验、解读结果，并协调推进有前景的治疗方案所需的各项工作。将 Orchestra Bio 与 Rosalind 整合，是迈向这一愿景的一步。我们希望与研究人员和合作伙伴携手，让更多科学发现成为可能，让新药更早惠及患者。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "OpenAI 已收购 Orchestra Bio，该平台帮助生物制药团队协调复杂的药物开发流程。我们正将 Orchestra 的团队与技术融入 Rosalind，后者是我们面向生命科学研究推出的 AI 模型与工具。",
+      "en": "OpenAI has acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development. We’re bringing Orchestra’s team and technology together with Rosalind, our AI models and tools for life sciences research."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "新药开发极其复杂。在美国，从发现靶点到获得监管批准，平均需要约 10 至 15 年。",
+      "en": "Developing a new medicine is extraordinarily complex, taking roughly 10 to 15 years on average from target discovery to regulatory approval in the United States. Beyond the science, teams must orchestrate programs across internal departments and external partners, often relying on disconnected systems."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "Rosalind 为生命科学研究人员提供我们的 AI 模型与工具。GPT‑Rosalind 帮助科学家通过推理分析生物学与化学问题。",
+      "en": "Rosalind brings our AI models and tools to life sciences researchers. GPT‑Rosalind helps scientists reason through questions in biology and chemistry."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "Orchestra 带来了一支在生物技术、软件和 AI 领域拥有丰富经验的团队，以及一个专为协调药物开发而打造的平台。通过此次整合，我们希望构建智能体，帮助团队将科研发现与推进候选药物所需的研究、决策和后续行动衔接起来。",
+      "en": "Orchestra brings a team with experience across biotech, software, and AI, along with a platform built to coordinate drug development. Together, we aim to build agents that help teams connect scientific findings with the studies, decisions, and next steps needed to advance a potential medicine."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/",
+      "title": "OpenAI acquires Orchestra Bio"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/openai-to-acquire-orchestra-bio/",
+      "title": "OpenAI 收购 Orchestra Bio"
+    }
+  },
+  "contentHash": "4c535a416022223e93c8fc5c2bd9df1fc95820d4cdd2b2796a3ef0f82914a5ad",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/openai-to-acquire-orchestra-bio/"
 }

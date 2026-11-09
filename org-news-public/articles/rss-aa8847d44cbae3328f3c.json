@@ -3,8 +3,219 @@
   "id": "rss-aa8847d44cbae3328f3c",
   "url": "https://openai.com/index/terminal-x",
   "sourceTitle": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.840827+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.869181+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:52:25.786Z",
+  "finalURL": "https://openai.com/index/terminal-x/",
+  "language": "en",
+  "originalTitle": "Terminal X matches senior investor judgment 88.6% with GPT‑6.1",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "An investment firm’s edge is built deal by deal, but the judgment behind each decision usually lives in the heads of a few senior investors. When they leave, the firm takes on what Terminal X calls memory debt: the firm may keep the documents, but it loses the reasoning.",
+      "en": "An investment firm’s edge is built deal by deal, but the judgment behind each decision usually lives in the heads of a few senior investors. When they leave, the firm takes on what Terminal X calls memory debt: the firm may keep the documents, but it loses the reasoning.",
+      "zh": "投资机构的优势是一笔笔交易积累起来的，但每项决策背后的判断依据，往往只存在于少数资深投资人的头脑中。当他们离职时，机构便背上了 Terminal X 所说的“记忆债务”：文件也许留了下来，推理思路却随之流失。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Terminal X’s Capital Memory operating system is designed to pay that debt down. The company’s forward-deployed engineers, former finance and investment professionals at JPMorgan and Blackstone, sit with each customer’s investment teams, design the firm’s agentic architecture, and encode how the firm invests into agents the firm owns, deployed on-premise or in its own cloud.",
+      "en": "Terminal X’s Capital Memory operating system is designed to pay that debt down. The company’s forward-deployed engineers, former finance and investment professionals at JPMorgan and Blackstone, sit with each customer’s investment teams, design the firm’s agentic architecture, and encode how the firm invests into agents the firm owns, deployed on-premise or in its own cloud.",
+      "zh": "Terminal X 的 Capital Memory 操作系统正是为了逐步化解这笔债务而设计的。该公司的前线部署工程师曾是摩根大通和黑石的金融与投资专业人士。他们与各家客户的投资团队并肩工作，为机构设计智能体架构，将其投资方法编码到机构自有的智能体中，并部署在本地或机构自己的云环境中。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "OpenAI models, including GPT‑6.1 Sol and GPT‑6 Luna, handle the reasoning inside those agents. And Terminal X’s Eval Agent grades the agents’ output against the firm’s standards. GPT‑6.1 Sol helped the Eval Agent catch about 25% more recommendations that strayed from a fund’s mandate and ran the same workflows at approximately 30% lower cost per query than the next-best model.",
+      "en": "OpenAI models, including GPT‑6.1 Sol and GPT‑6 Luna, handle the reasoning inside those agents. And Terminal X’s Eval Agent grades the agents’ output against the firm’s standards. GPT‑6.1 Sol helped the Eval Agent catch about 25% more recommendations that strayed from a fund’s mandate and ran the same workflows at approximately 30% lower cost per query than the next-best model.",
+      "zh": "GPT‑6.1 Sol 和 GPT‑6 Luna 等 OpenAI 模型负责这些智能体内部的推理。Terminal X 的评估智能体则依据机构的标准，为智能体的输出评分。与排名第二的模型相比，GPT‑6.1 Sol 帮助评估智能体多识别出约 25% 偏离基金投资约束的建议，在运行相同工作流时，单次查询成本降低了约 30%。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "“GPT-6.1 Sol’s long-context reasoning and token efficiency allow us to build deeper evaluation pipelines. This helps our Eval Agents make investment judgment measurable and auditable.”",
+      "en": "“GPT-6.1 Sol’s long-context reasoning and token efficiency allow us to build deeper evaluation pipelines. This helps our Eval Agents make investment judgment measurable and auditable.”",
+      "zh": "“GPT-6.1 Sol 的长上下文推理能力和 Token 效率，让我们能够构建更深入的评估流程。这有助于我们的评估智能体让投资判断变得可衡量、可审计。”"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Encoding the reasoning of each firm’s best investors",
+      "en": "Encoding the reasoning of each firm’s best investors",
+      "zh": "将各机构顶尖投资人的推理思路编码到系统中"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "For each customer, Terminal X builds agents designed to invest the way the firm’s best investors do. Terminal X engineers spend weeks onsite with the customer, reverse-engineering the firm’s trusted memos and capturing processes that were never written down, such as how the credit desk screens a borrower or which sources the co-investment team pulls before a memo.",
+      "en": "For each customer, Terminal X builds agents designed to invest the way the firm’s best investors do. Terminal X engineers spend weeks onsite with the customer, reverse-engineering the firm’s trusted memos and capturing processes that were never written down, such as how the credit desk screens a borrower or which sources the co-investment team pulls before a memo.",
+      "zh": "Terminal X 为每家客户构建智能体，使其能够遵循该机构顶尖投资人的方式开展投资。Terminal X 的工程师会在客户现场工作数周，从机构认可的备忘录中逆向梳理其方法，并记录从未成文的流程，例如信贷团队如何筛选借款人，或共同投资团队在撰写备忘录前会查阅哪些资料。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Next, those processes are encoded in hundreds of agents, customized by asset class and strategy, with sub-agents for each investment stage. GPT‑6.1 Sol handles the stages that require judgment and a huge context window: synthesizing the investment thesis, identifying key considerations, and assessing fit with the firm’s mandate. GPT‑6 Luna runs the high-volume steps where token efficiency matters more than depth.",
+      "en": "Next, those processes are encoded in hundreds of agents, customized by asset class and strategy, with sub-agents for each investment stage. GPT‑6.1 Sol handles the stages that require judgment and a huge context window: synthesizing the investment thesis, identifying key considerations, and assessing fit with the firm’s mandate. GPT‑6 Luna runs the high-volume steps where token efficiency matters more than depth.",
+      "zh": "接着，这些流程被编码到数百个按资产类别和策略定制的智能体中，每个投资阶段还配有相应的子智能体。GPT‑6.1 Sol 负责需要判断力和超大上下文窗口的环节：整合投资逻辑、识别关键考量因素，以及评估是否符合机构的投资约束。GPT‑6 Luna 则负责处理量大、Token 效率比推理深度更重要的步骤。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "The agents work inside each firm’s private data room, a dedicated environment for enterprises to share and manage sensitive investment data. The agents process documents in English, Korean, Japanese, and Chinese, and store what they learn as a firm Memory: a versioned record of how one desk makes one kind of decision, including its past analyses, committee decisions, workflow instructions, and house views.",
+      "en": "The agents work inside each firm’s private data room, a dedicated environment for enterprises to share and manage sensitive investment data. The agents process documents in English, Korean, Japanese, and Chinese, and store what they learn as a firm Memory: a versioned record of how one desk makes one kind of decision, including its past analyses, committee decisions, workflow instructions, and house views.",
+      "zh": "这些智能体在各机构的私有数据室内工作。该环境专供企业共享和管理敏感投资数据。智能体处理英语、韩语、日语和中文文档，并将学到的内容存储为机构记忆：这是一种带版本记录的资料，记录某个业务团队如何做出某类决策，涵盖历史分析、委员会决策、工作流指令和机构观点。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Engineers turn each Memory into a repeatable workflow on Terminal X’s platform, where every production query is auditable with its full trail: the steps taken, sources retrieved, model used, and the reasoning.",
+      "en": "Engineers turn each Memory into a repeatable workflow on Terminal X’s platform, where every production query is auditable with its full trail: the steps taken, sources retrieved, model used, and the reasoning.",
+      "zh": "工程师将每条记忆转化为 Terminal X 平台上可重复执行的工作流。平台会为生产环境中的每次查询保留完整记录，包括执行步骤、检索来源、所用模型和推理过程，以供审计。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "According to Terminal X, customers see significant savings as a result of this approach, including one private equity firm that reported $2.4 million in annualized savings from automated due diligence and investment memo workflows.",
+      "en": "According to Terminal X, customers see significant savings as a result of this approach, including one private equity firm that reported $2.4 million in annualized savings from automated due diligence and investment memo workflows.",
+      "zh": "据 Terminal X 介绍，这种方法为客户显著节省了成本。其中一家私募股权机构报告称，通过自动化尽职调查和投资备忘录工作流，按年计算可节省 240 万美元。"
+    },
+    {
+      "id": "p11",
+      "kind": "heading",
+      "text": "Scoring answers with an Eval Agent and improving the system",
+      "en": "Scoring answers with an Eval Agent and improving the system",
+      "zh": "用评估智能体为回答评分，持续改进系统"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "To check agents’ answers against the firm’s own standard, Terminal X built an Eval Agent. It’s an orchestrated workflow on GPT‑6.1 Sol and other OpenAI models designed to read every agent output the way a VP reads an analyst’s work.",
+      "en": "To check agents’ answers against the firm’s own standard, Terminal X built an Eval Agent. It’s an orchestrated workflow on GPT‑6.1 Sol and other OpenAI models designed to read every agent output the way a VP reads an analyst’s work.",
+      "zh": "为了按照机构自身的标准检查智能体的回答，Terminal X 构建了评估智能体。它是一个基于 GPT‑6.1 Sol 和其他 OpenAI 模型编排的工作流，旨在像副总裁审阅分析师的工作成果一样，审阅智能体的每一份输出。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "The Eval Agent checks each output against a 54-criterion rubric. It asks: Are the numbers, comps, consensus figures, and quotes pulled from the right sources? Does the narrative hold? Does the recommendation tie to the house view?",
+      "en": "The Eval Agent checks each output against a 54-criterion rubric. It asks: Are the numbers, comps, consensus figures, and quotes pulled from the right sources? Does the narrative hold? Does the recommendation tie to the house view?",
+      "zh": "评估智能体按照包含 54 项标准的评分细则，逐一检查每份输出。它会检查：数据、可比对象、市场一致预期数据和引文是否来自正确的来源？论述是否站得住脚？建议是否符合机构观点？"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "Each check scores pass or fail. Every fail includes a one-line reason and a better source or corrected text and becomes a Memory. For example, a missed source, a wrong comparable, or a thesis that drifts from the house view is encoded as a new workflow instruction or a new test case for that desk.",
+      "en": "Each check scores pass or fail. Every fail includes a one-line reason and a better source or corrected text and becomes a Memory. For example, a missed source, a wrong comparable, or a thesis that drifts from the house view is encoded as a new workflow instruction or a new test case for that desk.",
+      "zh": "每项检查的结果均为“通过”或“不通过”。每个不通过项都会附上一句话说明原因，以及更合适的来源或修正后的文本，并被记录为一条记忆。例如，遗漏的来源、选错的可比对象，或偏离机构观点的投资逻辑，都会被编码为该业务团队的新工作流指令或新测试用例。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "“Every answer gets eval’d, and whatever the analyst corrects teaches the system a little more about how that firm works,” says Ken Lee, Co-Founder and CTO of Terminal X. “So the longer a firm uses it, the more it thinks like their own team.”",
+      "en": "“Every answer gets eval’d, and whatever the analyst corrects teaches the system a little more about how that firm works,” says Ken Lee, Co-Founder and CTO of Terminal X. “So the longer a firm uses it, the more it thinks like their own team.”",
+      "zh": "Terminal X 联合创始人兼首席技术官 Ken Lee 表示：“每个回答都会经过评估，而分析师的每一次修正，都让系统更了解这家机构的运作方式。”“所以，机构用得越久，系统的思考方式就越接近他们自己的团队。”"
+    },
+    {
+      "id": "p16",
+      "kind": "heading",
+      "text": "Testing every model, choosing by task",
+      "en": "Testing every model, choosing by task",
+      "zh": "逐一测试模型，按任务选择"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Terminal X picks models based on its own evaluation results. Across 500 scored judgments, its Eval Agent on GPT‑6.1 Sol agreed with the senior human reviewer 88.6% of the time, vs. 86.4% for the next-best model, an improvement of 220 basis points.",
+      "en": "Terminal X picks models based on its own evaluation results. Across 500 scored judgments, its Eval Agent on GPT‑6.1 Sol agreed with the senior human reviewer 88.6% of the time, vs. 86.4% for the next-best model, an improvement of 220 basis points.",
+      "zh": "Terminal X 根据自己的评估结果选择模型。在 500 次经过评分的判断中，基于 GPT‑6.1 Sol 的评估智能体与资深人工审核者的判断一致率为 88.6%，而排名第二的模型为 86.4%，提升了 220 个基点。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "One class of error where GPT‑6.1 Sol outperformed is style drift. For example, a buyout fund’s mandate is to find take-private candidates trading at a discount to NAV, underwrite the business, and structure the financing. When scenario models suggest a market turn, deals start recommending a distressed credit position or a rescue financing. The Eval Agent on GPT‑6.1 Sol caught about 25% more of these departures than the next-best model did.",
+      "en": "One class of error where GPT‑6.1 Sol outperformed is style drift. For example, a buyout fund’s mandate is to find take-private candidates trading at a discount to NAV, underwrite the business, and structure the financing. When scenario models suggest a market turn, deals start recommending a distressed credit position or a rescue financing. The Eval Agent on GPT‑6.1 Sol caught about 25% more of these departures than the next-best model did.",
+      "zh": "在识别投资风格漂移这类错误时，GPT‑6.1 Sol 表现更出色。例如，一只并购基金的投资任务是寻找交易价格低于资产净值（NAV）的私有化候选标的，评估其业务的投资价值与风险，并设计融资结构。当情景模型预示市场转向时，交易建议却开始转向投资困境债权或提供救助融资。基于 GPT‑6.1 Sol 的评估智能体比排名第二的模型多识别出约 25% 的此类偏离。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "GPT‑6.1 Sol’s token efficiency on long-context work enabled Terminal X to build a deeper review workflow within the same budget. The thesis is tested first against the fund’s mandate, then against its recent deals. Uncertain verdicts are re-run, and the agent reconciles the results before reporting.",
+      "en": "GPT‑6.1 Sol’s token efficiency on long-context work enabled Terminal X to build a deeper review workflow within the same budget. The thesis is tested first against the fund’s mandate, then against its recent deals. Uncertain verdicts are re-run, and the agent reconciles the results before reporting.",
+      "zh": "GPT‑6.1 Sol 在长上下文任务中的 Token 效率，使 Terminal X 能在相同预算内构建更深入的审核工作流。系统先依据基金的投资约束检验投资逻辑，再对照基金近期的交易进行检查。对于不确定的判断，系统会重新运行评估，智能体在核对并协调各次结果后再报告。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "That deeper review flagged deals that a single pass on a comparable model had waved through. GPT‑6.1 Sol also ran the same workflows at about 30% lower cost per query than the next-best model, at similar speed.",
+      "en": "That deeper review flagged deals that a single pass on a comparable model had waved through. GPT‑6.1 Sol also ran the same workflows at about 30% lower cost per query than the next-best model, at similar speed.",
+      "zh": "这种更深入的审核，标出了同类模型单次审核时放行的交易。此外，GPT‑6.1 Sol 运行相同工作流时，在速度相近的情况下，单次查询成本比排名第二的模型低约 30%。"
+    },
+    {
+      "id": "p21",
+      "kind": "heading",
+      "text": "Moving toward a Memory for every investor",
+      "en": "Moving toward a Memory for every investor",
+      "zh": "让每位投资人都拥有自己的记忆"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Using GPT‑6.1 Sol and GPT‑6 Luna, Terminal X has built 1,700 firm Memories, run more than 1 million custom workflows, and reached a weekly active user count equal to 81% of its monthly active users.",
+      "en": "Using GPT‑6.1 Sol and GPT‑6 Luna, Terminal X has built 1,700 firm Memories, run more than 1 million custom workflows, and reached a weekly active user count equal to 81% of its monthly active users.",
+      "zh": "借助 GPT‑6.1 Sol 和 GPT‑6 Luna，Terminal X 已构建 1,700 条机构记忆，运行超过 100 万次定制工作流，周活跃用户数达到月活跃用户数的 81%。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "Terminal X’s next step is to extend firm Memories from desks to individuals, so that each investment professional’s standard is captured as it is practiced, not only as it is described.",
+      "en": "Terminal X’s next step is to extend firm Memories from desks to individuals, so that each investment professional’s standard is captured as it is practiced, not only as it is described.",
+      "zh": "Terminal X 的下一步是将机构记忆从业务团队延伸到个人，记录每位投资专业人士在实际工作中采用的标准，而不只是他们口头描述的标准。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "For Hyun, co-founder and CEO of Terminal X, that is the point: “The firms that win the next decade will own their judgment as data. Our job is to make that judgment measurable, so it can be kept, improved, and reused.”",
+      "en": "For Hyun, co-founder and CEO of Terminal X, that is the point: “The firms that win the next decade will own their judgment as data. Our job is to make that judgment measurable, so it can be kept, improved, and reused.”",
+      "zh": "对 Terminal X 联合创始人兼首席执行官 Hyun 而言，这正是关键所在：“未来十年胜出的机构，将把自身的判断力沉淀为自己掌握的数据。我们的工作就是让这种判断力变得可衡量，从而能够留存、改进和复用。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "投资机构的优势是一笔笔交易积累起来的，但每项决策背后的判断依据，往往只存在于少数资深投资人的头脑中。当他们离职时，机构便背上了 Terminal X 所说的“记忆债务”：文件也许留了下来，推理思路却随之流失。",
+      "en": "An investment firm’s edge is built deal by deal, but the judgment behind each decision usually lives in the heads of a few senior investors. When they leave, the firm takes on what Terminal X calls memory debt: the firm may keep the documents, but it loses the reasoning."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "GPT‑6.1 Sol 和 GPT‑6 Luna 等 OpenAI 模型负责这些智能体内部的推理。Terminal X 的评估智能体则依据机构的标准，为智能体的输出评分。",
+      "en": "OpenAI models, including GPT‑6.1 Sol and GPT‑6 Luna, handle the reasoning inside those agents. And Terminal X’s Eval Agent grades the agents’ output against the firm’s standards."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "“GPT-6.1 Sol 的长上下文推理能力和 Token 效率，让我们能够构建更深入的评估流程。这有助于我们的评估智能体让投资判断变得可衡量、可审计。",
+      "en": "“GPT-6.1 Sol’s long-context reasoning and token efficiency allow us to build deeper evaluation pipelines. This helps our Eval Agents make investment judgment measurable and auditable.”"
+    },
+    {
+      "paragraphId": "p17",
+      "zh": "Terminal X 根据自己的评估结果选择模型。在 500 次经过评分的判断中，基于 GPT‑6.1 Sol 的评估智能体与资深人工审核者的判断一致率为 88.6%，而排名第二的模型为 86.4%，提升了 220 个基点。",
+      "en": "Terminal X picks models based on its own evaluation results. Across 500 scored judgments, its Eval Agent on GPT‑6.1 Sol agreed with the senior human reviewer 88.6% of the time, vs. 86.4% for the next-best model, an improvement of 220 basis points."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/terminal-x/",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT‑6.1"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/terminal-x/",
+      "title": "Terminal X 借助 GPT‑6.1，与资深投资人的判断一致率达 88.6%"
+    }
+  },
+  "contentHash": "332f5bfbaaa79a5a9b10570bdd69521f7862b60a6e30075084dfc271c8fe6c46",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/terminal-x/"
 }

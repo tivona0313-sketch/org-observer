@@ -3,8 +3,149 @@
   "id": "rss-94eadcab22c41e356a1d",
   "url": "https://openai.com/index/sullivan-cromwell",
   "sourceTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.991298+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:52.029416+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:58:33.182Z",
+  "finalURL": "https://openai.com/index/sullivan-cromwell/",
+  "language": "en",
+  "originalTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "For lawyers at Sullivan & Cromwell, reviewing a draft agreement includes weighing its terms against relevant precedents, using approaches based on the Firm’s experience and being mindful of a client’s priorities. The firm’s Agreement Analyzer brings those inputs into a single review workflow, producing analysis and proposed changes that lawyers can inspect and refine.",
+      "en": "For lawyers at Sullivan & Cromwell, reviewing a draft agreement includes weighing its terms against relevant precedents, using approaches based on the Firm’s experience and being mindful of a client’s priorities. The firm’s Agreement Analyzer brings those inputs into a single review workflow, producing analysis and proposed changes that lawyers can inspect and refine.",
+      "zh": "对 Sullivan & Cromwell 的律师而言，审查协议草案需要参照相关协议范例权衡条款，运用律所积累的经验，并兼顾客户的优先事项。该律所的协议分析器将这些考量整合到统一的审查流程中，生成分析结果和修改建议，供律师核查和完善。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "“I think AI will . . . allow lawyers to focus on the areas where their judgment is most important . . . so they can concentrate on the questions that are most critical for their clients.”",
+      "en": "“I think AI will . . . allow lawyers to focus on the areas where their judgment is most important . . . so they can concentrate on the questions that are most critical for their clients.”",
+      "zh": "“我认为，AI 将……让律师专注于最需要发挥其判断力的领域……从而集中精力处理对客户最为关键的问题。”"
+    },
+    {
+      "id": "p3",
+      "kind": "heading",
+      "text": "Bringing firm expertise into agreement review",
+      "en": "Bringing firm expertise into agreement review",
+      "zh": "将律所的专业经验融入协议审查"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Though AI was initially used most for repetitive, administrative tasks like drafting email responses or checking calendars, Savva finds that recent improvements in AI models’ analytical capabilities have changed its usage. “Now, we’re seeing many more opportunities for use in challenging legal tasks such as deep analysis of complex agreements,” he says.",
+      "en": "Though AI was initially used most for repetitive, administrative tasks like drafting email responses or checking calendars, Savva finds that recent improvements in AI models’ analytical capabilities have changed its usage. “Now, we’re seeing many more opportunities for use in challenging legal tasks such as deep analysis of complex agreements,” he says.",
+      "zh": "AI 最初主要用于起草邮件回复、查看日程等重复性的行政事务，但 Savva 发现，近期 AI 模型分析能力的提升改变了它的使用方式。他说：“如今，我们看到 AI 有更多机会应用于具有挑战性的法律工作，比如深入分析复杂协议。”"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Agreement Analyzer helps lawyers compare corresponding provisions across precedents and track how those provisions interact.",
+      "en": "Agreement Analyzer helps lawyers compare corresponding provisions across precedents and track how those provisions interact.",
+      "zh": "协议分析器帮助律师比较不同协议范例中的对应条款，并梳理这些条款之间的相互影响。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Sullivan & Cromwell partner John Savva developed Agreement Analyzer as a single-user proof of concept built with Codex. He then collaborated with OpenAI on improving the quality of outputs, enhancing efficiency through parallel processing and transforming the application into a tool that could be used by multiple lawyers at the same time.",
+      "en": "Sullivan & Cromwell partner John Savva developed Agreement Analyzer as a single-user proof of concept built with Codex. He then collaborated with OpenAI on improving the quality of outputs, enhancing efficiency through parallel processing and transforming the application into a tool that could be used by multiple lawyers at the same time.",
+      "zh": "Sullivan & Cromwell 合伙人 John Savva 使用 Codex 开发了协议分析器，最初是一个供单人使用的概念验证原型。随后，他与 OpenAI 合作，改进输出质量，通过并行处理提升效率，并将这款应用改造成可供多位律师同时使用的工具。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Agreement Analyzer integrates Sullivan & Cromwell’s workflows, curated firm precedents, negotiating playbooks and ChatGPT Enterprise. After inputting a draft agreement into the tool, a lawyer can add their own selected precedents and a playbook with firm and client positions, as well as information on market practice. The tool performs multiple review cycles from different perspectives, synthesizes the outputs, helps identify potential issues and returns a memorandum and proposed tracked changes for a lawyer to review, adapt or reject.",
+      "en": "Agreement Analyzer integrates Sullivan & Cromwell’s workflows, curated firm precedents, negotiating playbooks and ChatGPT Enterprise. After inputting a draft agreement into the tool, a lawyer can add their own selected precedents and a playbook with firm and client positions, as well as information on market practice. The tool performs multiple review cycles from different perspectives, synthesizes the outputs, helps identify potential issues and returns a memorandum and proposed tracked changes for a lawyer to review, adapt or reject.",
+      "zh": "协议分析器将 Sullivan & Cromwell 的工作流程、律所精选的协议范例、谈判指南与 ChatGPT Enterprise 整合在一起。将协议草案输入工具后，律师可以添加自己选定的协议范例、载有律所和客户立场的指南，以及有关市场惯例的信息。该工具从不同角度进行多轮审查，汇总分析结果，帮助识别潜在问题，并生成备忘录和带修订标记的修改建议，供律师审阅、调整或否决。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "“It’s not about replacing lawyers. It’s about providing a tool for lawyers to do deeper analyses and find more authority and precedents to provide an even higher quality product for their clients.”",
+      "en": "“It’s not about replacing lawyers. It’s about providing a tool for lawyers to do deeper analyses and find more authority and precedents to provide an even higher quality product for their clients.”",
+      "zh": "“这不是要取代律师。而是为律师提供工具，让他们能够开展更深入的分析，找到更多法律依据和先例，为客户提供更高质量的工作成果。”"
+    },
+    {
+      "id": "p9",
+      "kind": "heading",
+      "text": "Making sources and uncertainty visible",
+      "en": "Making sources and uncertainty visible",
+      "zh": "让信息来源和不确定性清晰可见"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Savva emphasizes that what makes an AI tool’s output trustworthy is full transparency. “If an AI tool makes a claim about market practice, you need to be able to see the source of that information,” he says.",
+      "en": "Savva emphasizes that what makes an AI tool’s output trustworthy is full transparency. “If an AI tool makes a claim about market practice, you need to be able to see the source of that information,” he says.",
+      "zh": "Savva 强调，充分透明是 AI 工具输出值得信赖的关键。他说：“如果 AI 工具对市场惯例作出判断，你就需要能够查看相关信息的来源。”"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Savva describes an application in which agents develop conclusions and other agents challenge them in an adversarial process. In a potential use case, specialized agents review the agreement in parallel for such things as market deviations and risk allocation, interactions between clauses, and ambiguities that could impact litigation. The results distinguish findings supported after challenge by other agents, dismissed findings, and unverified issues retained with qualifications. Lawyers can inspect the issues, their supporting explanations, and the relevant precedents, then decide which findings warrant changes in the final markup.",
+      "en": "Savva describes an application in which agents develop conclusions and other agents challenge them in an adversarial process. In a potential use case, specialized agents review the agreement in parallel for such things as market deviations and risk allocation, interactions between clauses, and ambiguities that could impact litigation. The results distinguish findings supported after challenge by other agents, dismissed findings, and unverified issues retained with qualifications. Lawyers can inspect the issues, their supporting explanations, and the relevant precedents, then decide which findings warrant changes in the final markup.",
+      "zh": "Savva 描述了一种应用方式：由一些智能体得出结论，再由其他智能体通过对抗式检验提出质疑。在一种潜在用例中，专门负责不同任务的智能体并行审查协议，关注偏离市场惯例的情况、风险分配、条款之间的相互影响，以及可能影响诉讼的歧义等问题。结果会区分三类发现：经其他智能体质疑后仍获支持的发现、被否定的发现，以及尚未核实但附带限定说明予以保留的问题。律师可以核查这些问题、支持它们的解释及相关协议范例，再决定哪些发现值得在最终修订稿中作出相应修改。"
+    },
+    {
+      "id": "p12",
+      "kind": "heading",
+      "text": "What’s next",
+      "en": "What’s next",
+      "zh": "下一步"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "Sullivan & Cromwell is continuing to explore tools shaped around specific legal tasks. For Savva, stronger analytical capabilities create an opportunity to support more of the research and writing process.",
+      "en": "Sullivan & Cromwell is continuing to explore tools shaped around specific legal tasks. For Savva, stronger analytical capabilities create an opportunity to support more of the research and writing process.",
+      "zh": "Sullivan & Cromwell 正继续探索围绕具体法律任务打造的工具。在 Savva 看来，更强的分析能力让 AI 有机会支持研究和写作流程中的更多环节。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "Savva points to advances in reasoning capabilities with GPT‑6 Astra: “Astra’s really moved things forward in terms of the quality of the reasoning that’s available, and that has been the bottleneck in the past,” he says.",
+      "en": "Savva points to advances in reasoning capabilities with GPT‑6 Astra: “Astra’s really moved things forward in terms of the quality of the reasoning that’s available, and that has been the bottleneck in the past,” he says.",
+      "zh": "Savva 谈到 GPT‑6 Astra 在推理能力上的进步时说：“Astra 确实大幅提升了我们能够获得的推理质量，而这正是过去的瓶颈。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "对 Sullivan & Cromwell 的律师而言，审查协议草案需要参照相关协议范例权衡条款，运用律所积累的经验，并兼顾客户的优先事项。该律所的协议分析器将这些考量整合到统一的审查流程中，生成分析结果和修改建议，供律师核查和完善。",
+      "en": "For lawyers at Sullivan & Cromwell, reviewing a draft agreement includes weighing its terms against relevant precedents, using approaches based on the Firm’s experience and being mindful of a client’s priorities. The firm’s Agreement Analyzer brings those inputs into a single review workflow, producing analysis and proposed changes that lawyers can inspect and refine."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "Sullivan & Cromwell 合伙人 John Savva 使用 Codex 开发了协议分析器，最初是一个供单人使用的概念验证原型。随后，他与 OpenAI 合作，改进输出质量，通过并行处理提升效率，并将这款应用改造成可供多位律师同时使用的工具。",
+      "en": "Sullivan & Cromwell partner John Savva developed Agreement Analyzer as a single-user proof of concept built with Codex. He then collaborated with OpenAI on improving the quality of outputs, enhancing efficiency through parallel processing and transforming the application into a tool that could be used by multiple lawyers at the same time."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "协议分析器将 Sullivan & Cromwell 的工作流程、律所精选的协议范例、谈判指南与 ChatGPT Enterprise 整合在一起。将协议草案输入工具后，律师可以添加自己选定的协议范例、载有律所和客户立场的指南，以及有关市场惯例的信息。",
+      "en": "Agreement Analyzer integrates Sullivan & Cromwell’s workflows, curated firm precedents, negotiating playbooks and ChatGPT Enterprise. After inputting a draft agreement into the tool, a lawyer can add their own selected precedents and a playbook with firm and client positions, as well as information on market practice."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "Savva 描述了一种应用方式：由一些智能体得出结论，再由其他智能体通过对抗式检验提出质疑。在一种潜在用例中，专门负责不同任务的智能体并行审查协议，关注偏离市场惯例的情况、风险分配、条款之间的相互影响，以及可能影响诉讼的歧义等问题。",
+      "en": "Savva describes an application in which agents develop conclusions and other agents challenge them in an adversarial process. In a potential use case, specialized agents review the agreement in parallel for such things as market deviations and risk allocation, interactions between clauses, and ambiguities that could impact litigation."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/sullivan-cromwell/",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/sullivan-cromwell/",
+      "title": "Sullivan & Cromwell 将法律专业经验融入协议审查"
+    }
+  },
+  "contentHash": "784b15da6c87d72c43dfee3ee0e5352eec02985bf4b6ce893f2911e40561f496",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/sullivan-cromwell/"
 }

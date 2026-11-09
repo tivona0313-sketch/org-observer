@@ -3,8 +3,151 @@
   "id": "rss-34e7d62615202d0de65f",
   "url": "https://openai.com/index/cisco-cyber",
   "sourceTitle": "How Cisco defends at machine speed with OpenAI",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.187079+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.215774+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:58:59.309Z",
+  "finalURL": "https://openai.com/index/cisco-cyber/",
+  "language": "en",
+  "originalTitle": "How Cisco defends at machine speed with OpenAI",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Cisco builds the networking and security infrastructure that organizations rely on to connect and protect their systems. As adversaries leverage AI to scale automated attacks and craft exploits at machine-speed, defending enterprise infrastructure must evolve. Pairing Cisco’s vast network telemetry with frontier AI reasoning gives defenders the toolkit necessary to outpace emerging threats. OpenAI’s rigorous approach to enterprise data privacy—centered on zero data retention, strict customer data boundaries, and verifiable isolation—means Cisco could confidently deploy frontier intelligence across mission-critical systems without compromising customer priorities or sensitive telemetry.",
+      "en": "Cisco builds the networking and security infrastructure that organizations rely on to connect and protect their systems. As adversaries leverage AI to scale automated attacks and craft exploits at machine-speed, defending enterprise infrastructure must evolve. Pairing Cisco’s vast network telemetry with frontier AI reasoning gives defenders the toolkit necessary to outpace emerging threats. OpenAI’s rigorous approach to enterprise data privacy—centered on zero data retention, strict customer data boundaries, and verifiable isolation—means Cisco could confidently deploy frontier intelligence across mission-critical systems without compromising customer priorities or sensitive telemetry.",
+      "zh": "思科为各类组织构建用于连接和保护系统的网络与安全基础设施。随着攻击者利用 AI 扩大自动化攻击规模，并以机器速度编写漏洞利用程序，企业基础设施的防御方式也必须演进。将思科海量的网络遥测数据与前沿 AI 推理能力结合，能为防御者提供赶在新威胁之前采取行动所需的工具。OpenAI 对企业数据隐私采取严格措施，核心包括零数据留存、严格的客户数据边界以及可验证的隔离机制。这使思科能够放心地在关键业务系统中部署前沿智能，同时兼顾客户的优先事项和敏感遥测数据。"
+    },
+    {
+      "id": "p2",
+      "kind": "heading",
+      "text": "Connecting network intelligence for stronger defense",
+      "en": "Connecting network intelligence for stronger defense",
+      "zh": "连接网络情报，强化防御"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Cisco’s defense starts where threats move: the network. Patel describes a shift from a single security perimeter to controls distributed across microservices, containers, and clusters. “We can put a mini security stack in front of every microservice, every Kubernetes container, and every Kubernetes cluster, and fuse security into the fabric of the network,” he says.",
+      "en": "Cisco’s defense starts where threats move: the network. Patel describes a shift from a single security perimeter to controls distributed across microservices, containers, and clusters. “We can put a mini security stack in front of every microservice, every Kubernetes container, and every Kubernetes cluster, and fuse security into the fabric of the network,” he says.",
+      "zh": "思科的防御从威胁传播的地方——网络——开始。Patel 描述了一种转变：从单一安全边界，转向分布在微服务、容器和集群中的控制措施。他表示：“我们可以在每个微服务、每个 Kubernetes 容器和每个 Kubernetes 集群前部署一套小型安全组件，把安全融入网络结构本身。”"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Controls at the application level can restrict communication to the connections each service needs, reducing the paths an attacker can use to spread. Security teams can also isolate affected systems more selectively, allowing unaffected services to keep running while they investigate and respond.",
+      "en": "Controls at the application level can restrict communication to the connections each service needs, reducing the paths an attacker can use to spread. Security teams can also isolate affected systems more selectively, allowing unaffected services to keep running while they investigate and respond.",
+      "zh": "应用层控制可以将通信限制在各项服务实际需要的连接范围内，减少攻击者可用于横向扩散的路径。安全团队也能更精准地隔离受影响的系统，使未受影响的服务在调查和响应期间继续运行。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Combining that network intelligence with OpenAI’s models allows Cisco to correlate signals at machine scale, Patel says. “Two signals might seem benign in isolation, but together they can reveal a meaningful pattern. Network intelligence allows us to correlate data across the network and derive insights to inform secure operations.”",
+      "en": "Combining that network intelligence with OpenAI’s models allows Cisco to correlate signals at machine scale, Patel says. “Two signals might seem benign in isolation, but together they can reveal a meaningful pattern. Network intelligence allows us to correlate data across the network and derive insights to inform secure operations.”",
+      "zh": "Patel 表示，将这类网络情报与 OpenAI 模型结合，使思科能够以机器处理的规模关联各类信号。“两个信号单独看可能都没有问题，但放在一起就可能揭示有意义的模式。网络情报让我们能够关联整个网络中的数据，从中获得洞察，为安全运营提供依据。”"
+    },
+    {
+      "id": "p6",
+      "kind": "heading",
+      "text": "From investigation to remediation",
+      "en": "From investigation to remediation",
+      "zh": "从调查走向修复"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Patel points to a pressing challenge for defenders: the gap between how quickly attackers can exploit a vulnerability and how long organizations take to patch it. He sees AI as a way to help narrow that gap, giving defenders the capacity to investigate more threats and respond faster. “AI hands attackers speed and scale. Using AI for defense is a prerequisite for staying safe,” he says.",
+      "en": "Patel points to a pressing challenge for defenders: the gap between how quickly attackers can exploit a vulnerability and how long organizations take to patch it. He sees AI as a way to help narrow that gap, giving defenders the capacity to investigate more threats and respond faster. “AI hands attackers speed and scale. Using AI for defense is a prerequisite for staying safe,” he says.",
+      "zh": "Patel 指出防御者面临的一项迫切挑战：攻击者利用漏洞的速度，与组织完成修补所需的时间之间存在差距。他认为，AI 可以帮助缩小这一差距，让防御者有能力调查更多威胁并更快响应。他说：“AI 赋予攻击者速度和规模优势。将 AI 用于防御，是保持安全的必要条件。”"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "He describes initiatives like Daybreak and GPT‑6 Astra as advances that strengthen security for both Cisco and its customers. “We’re able to find and patch vulnerabilities more efficiently, while shortening the time needed for investigation, response, and remediation,” Patel says.",
+      "en": "He describes initiatives like Daybreak and GPT‑6 Astra as advances that strengthen security for both Cisco and its customers. “We’re able to find and patch vulnerabilities more efficiently, while shortening the time needed for investigation, response, and remediation,” Patel says.",
+      "zh": "他将 Daybreak 和 GPT‑6 Astra 等项目视为重大进步，认为它们同时增强了思科及其客户的安全能力。Patel 表示：“我们能够更高效地发现和修补漏洞，同时缩短调查、响应和修复所需的时间。”"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "“Daybreak and GPT-6 Astra have been step function improvements, not just for our security posture, but for our customers’ security posture.”",
+      "en": "“Daybreak and GPT-6 Astra have been step function improvements, not just for our security posture, but for our customers’ security posture.”",
+      "zh": "“Daybreak 和 GPT‑6 Astra 带来了跃升式改进，不仅提升了我们的安全防护水平，也提升了客户的安全防护水平。”"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Patel sees a path to adoption that builds on the processes teams already use to find and address vulnerabilities. “These capabilities can fit into your existing scanning workflows, so you don’t have to fundamentally change how your team works.”",
+      "en": "Patel sees a path to adoption that builds on the processes teams already use to find and address vulnerabilities. “These capabilities can fit into your existing scanning workflows, so you don’t have to fundamentally change how your team works.”",
+      "zh": "Patel 认为，采用这些能力可以从团队现有的漏洞发现与处置流程入手。“这些能力可以融入现有的扫描工作流，因此你无须从根本上改变团队的工作方式。”"
+    },
+    {
+      "id": "p11",
+      "kind": "heading",
+      "text": "Rethinking security for an agentic world",
+      "en": "Rethinking security for an agentic world",
+      "zh": "为智能体时代重新思考安全"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "As agents become more autonomous, security teams also need to distinguish malicious interference from an agent pursuing a legitimate goal in an unintended way. Patel says that requires security telemetry alongside observability data, so teams can assess both threats and agent behavior.",
+      "en": "As agents become more autonomous, security teams also need to distinguish malicious interference from an agent pursuing a legitimate goal in an unintended way. Patel says that requires security telemetry alongside observability data, so teams can assess both threats and agent behavior.",
+      "zh": "随着智能体的自主性增强，安全团队还需要区分恶意干扰，以及智能体为实现合法目标而采取的非预期行为。Patel 表示，这需要同时结合安全遥测数据和可观测性数据，让团队既能评估威胁，也能评估智能体行为。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "He outlines three priorities: protect agents from malicious attacks, detect and intercept unintended behavior, and operate in near real time. These priorities are guiding the shift towards policies and controls that can adapt as agents act.",
+      "en": "He outlines three priorities: protect agents from malicious attacks, detect and intercept unintended behavior, and operate in near real time. These priorities are guiding the shift towards policies and controls that can adapt as agents act.",
+      "zh": "他提出三项优先任务：保护智能体免受恶意攻击，发现并拦截非预期行为，以及实现接近实时的运行。这些任务正推动安全策略与控制措施转向能够随智能体行动而调整的方式。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "Through the Daybreak Defense Network, Cisco and OpenAI are exploring how to help security teams triage exposure faster and enforce the right controls in Cisco Cloud Control. For Patel, that can help shift the advantage back to defenders.",
+      "en": "Through the Daybreak Defense Network, Cisco and OpenAI are exploring how to help security teams triage exposure faster and enforce the right controls in Cisco Cloud Control. For Patel, that can help shift the advantage back to defenders.",
+      "zh": "通过 Daybreak Defense Network，思科与 OpenAI 正在探索如何帮助安全团队更快地研判风险暴露，并在 Cisco Cloud Control 中实施适当的控制措施。Patel 认为，这能帮助防御者重新获得优势。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "“OpenAI is shifting the advantage to defenders by allowing us to operate at machine speed and scale.”",
+      "en": "“OpenAI is shifting the advantage to defenders by allowing us to operate at machine speed and scale.”",
+      "zh": "“OpenAI 使我们能够以机器速度和规模开展行动，从而将优势转向防御者。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "思科为各类组织构建用于连接和保护系统的网络与安全基础设施。随着攻击者利用 AI 扩大自动化攻击规模，并以机器速度编写漏洞利用程序，企业基础设施的防御方式也必须演进。",
+      "en": "Cisco builds the networking and security infrastructure that organizations rely on to connect and protect their systems. As adversaries leverage AI to scale automated attacks and craft exploits at machine-speed, defending enterprise infrastructure must evolve."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "Patel 表示，将这类网络情报与 OpenAI 模型结合，使思科能够以机器处理的规模关联各类信号。“两个信号单独看可能都没有问题，但放在一起就可能揭示有意义的模式。",
+      "en": "Combining that network intelligence with OpenAI’s models allows Cisco to correlate signals at machine scale, Patel says. “Two signals might seem benign in isolation, but together they can reveal a meaningful pattern. Network intelligence allows us to correlate data across the network and derive insights to inform secure operations.”"
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "他将 Daybreak 和 GPT‑6 Astra 等项目视为重大进步，认为它们同时增强了思科及其客户的安全能力。Patel 表示：“我们能够更高效地发现和修补漏洞，同时缩短调查、响应和修复所需的时间。",
+      "en": "He describes initiatives like Daybreak and GPT‑6 Astra as advances that strengthen security for both Cisco and its customers. “We’re able to find and patch vulnerabilities more efficiently, while shortening the time needed for investigation, response, and remediation,” Patel says."
+    },
+    {
+      "paragraphId": "p14",
+      "zh": "通过 Daybreak Defense Network，思科与 OpenAI 正在探索如何帮助安全团队更快地研判风险暴露，并在 Cisco Cloud Control 中实施适当的控制措施。Patel 认为，这能帮助防御者重新获得优势。",
+      "en": "Through the Daybreak Defense Network, Cisco and OpenAI are exploring how to help security teams triage exposure faster and enforce the right controls in Cisco Cloud Control. For Patel, that can help shift the advantage back to defenders."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "ai-reviewed",
+  "translation": "AI translation checked against source paragraphs",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/cisco-cyber/",
+      "title": "How Cisco defends at machine speed with OpenAI"
+    }
+  },
+  "contentHash": "78641ef858ee8cd3e22bf5537ad147df150528add0d95c6ae7e2182c6d56615b",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00"
 }

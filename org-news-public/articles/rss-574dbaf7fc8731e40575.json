@@ -3,8 +3,415 @@
   "id": "rss-574dbaf7fc8731e40575",
   "url": "https://openai.com/index/fair-use-benefits-everyone",
   "sourceTitle": "Fair use benefits everyone",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.318157+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.360016+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:59:09.592Z",
+  "finalURL": "https://openai.com/index/fair-use-benefits-everyone/",
+  "language": "en",
+  "originalTitle": "Fair use benefits everyone",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "For decades, fair use has played a critical role in driving innovation that benefits everyone. It has helped deliver important medical and scientific breakthroughs and new technologies that have made real and positive differences for countless people, including authors and journalists. The New York Times’ lawsuit, meanwhile, asks everyone to ignore a half century of legal history and progress, and toss aside the longstanding principle of fair use in their own narrow pursuit of an undeserved payday.",
+      "en": "For decades, fair use has played a critical role in driving innovation that benefits everyone. It has helped deliver important medical and scientific breakthroughs and new technologies that have made real and positive differences for countless people, including authors and journalists. The New York Times’ lawsuit, meanwhile, asks everyone to ignore a half century of legal history and progress, and toss aside the longstanding principle of fair use in their own narrow pursuit of an undeserved payday.",
+      "zh": "几十年来，合理使用在推动惠及所有人的创新方面发挥了关键作用。它促成了重要的医学与科学突破，以及新技术的诞生，为包括作家和记者在内的无数人带来了切实、积极的改变。然而，《纽约时报》提起的诉讼却要求所有人无视半个世纪的法律历史与进步，抛弃长期确立的合理使用原则，只为满足其狭隘私利，谋取本不应得的巨额赔偿。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Experts and leaders across a wide range of fields have recognized that fair use is a win-win that benefits everyone, and have shared their perspectives with the Court in filing briefs in support of fair use.",
+      "en": "Experts and leaders across a wide range of fields have recognized that fair use is a win-win that benefits everyone, and have shared their perspectives with the Court in filing briefs in support of fair use.",
+      "zh": "众多领域的专家和领袖都认识到，合理使用能够实现共赢、惠及所有人，并通过提交支持合理使用的意见书，向法院阐述了各自的观点。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Below you’ll find excerpts from some of those submissions, in their own words. The full filings are available on the public court docket, and you can read more about fair use and AI here.",
+      "en": "Below you’ll find excerpts from some of those submissions, in their own words. The full filings are available on the public court docket, and you can read more about fair use and AI here.",
+      "zh": "以下摘录了部分意见书的内容，呈现提交者的原话。完整文件可在法院公开案卷中查阅。您还可以在此进一步了解合理使用与 AI。"
+    },
+    {
+      "id": "p4",
+      "kind": "heading",
+      "text": "AI Progress",
+      "en": "AI Progress",
+      "zh": "AI Progress"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "The Court should reject Plaintiffs’ attempt to extend copyright beyond its established limits. AI training uses copyrighted works for a fundamentally different purpose, does not provide the public with substitute access to those works, and does not cause the market harm cognizable under the Copyright Act. Instead, it enables a broad array of transformative technologies that are already delivering public benefits. Copyright exists to promote creativity and progress, not to suppress lawful innovation or protect authors from competition. Settled fair use principles therefore compel the conclusion that generative AI training is fair use.",
+      "en": "The Court should reject Plaintiffs’ attempt to extend copyright beyond its established limits. AI training uses copyrighted works for a fundamentally different purpose, does not provide the public with substitute access to those works, and does not cause the market harm cognizable under the Copyright Act. Instead, it enables a broad array of transformative technologies that are already delivering public benefits. Copyright exists to promote creativity and progress, not to suppress lawful innovation or protect authors from competition. Settled fair use principles therefore compel the conclusion that generative AI training is fair use.",
+      "zh": "法院应当驳回原告试图将版权扩展至其既定边界之外的主张。AI 训练使用受版权保护的作品，其目的与作品的原有用途存在根本区别；它既不向公众提供获取这些作品的替代途径，也不会造成《版权法》所认可的市场损害。相反，它催生了各种具有变革性的技术，而这些技术已经在为公众带来益处。版权的存在是为了促进创造和进步，而不是压制合法创新，或让作者免受竞争。因此，依据已确立的合理使用原则，必然得出的结论是：生成式 AI 训练属于合理使用。"
+    },
+    {
+      "id": "p6",
+      "kind": "heading",
+      "text": "American Council of the Blind, Association of Research Libraries, American Library Association, Consumer Technology Association & Business Software Alliance",
+      "en": "American Council of the Blind, Association of Research Libraries, American Library Association, Consumer Technology Association & Business Software Alliance",
+      "zh": "美国盲人理事会、研究图书馆协会、美国图书馆协会、消费技术协会和商业软件联盟"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "This case concerns more than companies that develop large language models (LLMs). It affects medical researchers and patients, educators serving students with different learning needs, people with disabilities seeking greater independence, farmers applying agricultural knowledge, independent creators developing new forms of expression, and industry sectors from software to the law. These communities share an interest in the ability to study and learn from broad and diverse sources of knowledge, and in access to the tools that make that learning useful. Many depend on systems developed by others, including open source AI systems, rather than training models themselves. Fair use supports their ability to learn, discover, communicate, and create. Restrictions on fair use training would affect both the institutions building AI and the people using it.",
+      "en": "This case concerns more than companies that develop large language models (LLMs). It affects medical researchers and patients, educators serving students with different learning needs, people with disabilities seeking greater independence, farmers applying agricultural knowledge, independent creators developing new forms of expression, and industry sectors from software to the law. These communities share an interest in the ability to study and learn from broad and diverse sources of knowledge, and in access to the tools that make that learning useful. Many depend on systems developed by others, including open source AI systems, rather than training models themselves. Fair use supports their ability to learn, discover, communicate, and create. Restrictions on fair use training would affect both the institutions building AI and the people using it.",
+      "zh": "本案关涉的不只是开发大语言模型（LLM）的公司。它还影响着医学研究人员和患者、为具有不同学习需求的学生服务的教育工作者、寻求更独立生活的残障人士、运用农业知识的农民、探索新表达形式的独立创作者，以及从软件到法律的各行各业。这些群体有着共同的诉求：能够研究和学习广泛、多元的知识来源，并获得让所学知识发挥作用的工具。其中许多人依赖他人开发的系统，包括开源 AI 系统，而不是自行训练模型。合理使用支持他们学习、探索、交流和创造。限制基于合理使用的训练，既会影响构建 AI 的机构，也会影响使用 AI 的人们。"
+    },
+    {
+      "id": "p8",
+      "kind": "heading",
+      "text": "Authors Alliance",
+      "en": "Authors Alliance",
+      "zh": "作者联盟"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "The market dilution theory asks copyright law to protect rightsholders against an economic phenomenon that it has never restricted before. New works can reduce the sales, visibility, or value of older works without copying their protected expression. The Copyright Act deliberately leaves that competition outside the copyright owner’s control. Amicus therefore respectfully asks the Court to hold that “market dilution,” i.e., aggregate competitive pressure from noninfringing outputs, including those that occupy the same subject matter or genre, that share unprotected characteristics, or compete for the same audience, is not cognizable market harm under 17 U.S.C. § 107(4). Rejecting the theory would preserve the distinction the Second Circuit has always maintained: copyright protects authors against substitution for their protected expression, not against the success of new expression that merely competes with it.",
+      "en": "The market dilution theory asks copyright law to protect rightsholders against an economic phenomenon that it has never restricted before. New works can reduce the sales, visibility, or value of older works without copying their protected expression. The Copyright Act deliberately leaves that competition outside the copyright owner’s control. Amicus therefore respectfully asks the Court to hold that “market dilution,” i.e., aggregate competitive pressure from noninfringing outputs, including those that occupy the same subject matter or genre, that share unprotected characteristics, or compete for the same audience, is not cognizable market harm under 17 U.S.C. § 107(4). Rejecting the theory would preserve the distinction the Second Circuit has always maintained: copyright protects authors against substitution for their protected expression, not against the success of new expression that merely competes with it.",
+      "zh": "市场稀释理论要求版权法保护权利人，使其免受一种版权法从未限制过的经济现象的影响。新作品即使不复制旧作品中受保护的表达，也可能降低旧作品的销量、关注度或价值。《版权法》有意将这种竞争置于版权所有者的控制范围之外。因此，本法庭之友谨请法院认定，“市场稀释”，即非侵权输出产生的总体竞争压力，包括来自题材或体裁相同、具有不受保护的共同特征或争取同一受众的输出的竞争压力，不属于《美国法典》第17编第107条第(4)项所认可的市场损害。驳回这一理论，将维护第二巡回上诉法院始终坚持的区分：版权保护作者免受对其受保护表达的替代，而不是让作者免受仅与之竞争的新表达取得成功所带来的影响。"
+    },
+    {
+      "id": "p10",
+      "kind": "heading",
+      "text": "Chamber of Progress, Abundance Institute and Trevor Lawrence Jr.",
+      "en": "Chamber of Progress, Abundance Institute and Trevor Lawrence Jr.",
+      "zh": "进步商会、丰裕研究所和 Trevor Lawrence Jr."
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "The modern creative industry’s experience with generative AI provides an excellent illustration of these principles in action, demonstrating how generative AI tools advance copyright’s central purpose to enable further human creativity. For example, musicians use generative AI to explore arrangements, develop melodies, and bring projects within reach that limited resources might otherwise foreclose. These tools support and help to effectuate the artist’s judgment, expanding the possibilities for human expression and the works available to the public.",
+      "en": "The modern creative industry’s experience with generative AI provides an excellent illustration of these principles in action, demonstrating how generative AI tools advance copyright’s central purpose to enable further human creativity. For example, musicians use generative AI to explore arrangements, develop melodies, and bring projects within reach that limited resources might otherwise foreclose. These tools support and help to effectuate the artist’s judgment, expanding the possibilities for human expression and the works available to the public.",
+      "zh": "当代创意产业运用生成式 AI 的经验，生动展现了这些原则如何在实践中发挥作用，也说明了生成式 AI 工具如何推动实现版权的核心宗旨：促进人类进一步开展创造。例如，音乐人利用生成式 AI 探索编曲方式、创作旋律，让原本可能因资源有限而无法开展的项目成为可能。这些工具支持艺术家的判断，并帮助他们将判断付诸实践，拓展了人类表达的可能性，也丰富了公众能够接触到的作品。"
+    },
+    {
+      "id": "p12",
+      "kind": "heading",
+      "text": "Computer and Communications Industry Association",
+      "en": "Computer and Communications Industry Association",
+      "zh": "计算机与通信行业协会"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "[T]raining a generative AI model is among the most clearly transformative uses a court has been asked to evaluate. The copyrighted works are not copied to be consumed or distributed; they are analyzed to extract statistical patterns that enable a tool to generate new text or other output at the direction of a human user. Both the purpose and the character of this use are categorically different from the original purpose and character of the underlying works.",
+      "en": "[T]raining a generative AI model is among the most clearly transformative uses a court has been asked to evaluate. The copyrighted works are not copied to be consumed or distributed; they are analyzed to extract statistical patterns that enable a tool to generate new text or other output at the direction of a human user. Both the purpose and the character of this use are categorically different from the original purpose and character of the underlying works.",
+      "zh": "在法院受理评估的各类使用行为中，训练生成式 AI 模型是转换性最为明确的情形之一。复制受版权保护的作品，并不是为了供人阅读、欣赏或进行传播，而是为了分析作品、提取统计规律，使工具能够按照人类用户的指示生成新文本或其他输出。这种使用行为的目的和性质，与所使用作品的原有目的和性质存在根本区别。"
+    },
+    {
+      "id": "p14",
+      "kind": "heading",
+      "text": "Ed Lee and Rebecca Tushnet",
+      "en": "Ed Lee and Rebecca Tushnet",
+      "zh": "Ed Lee 和 Rebecca Tushnet"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "Professors of Law",
+      "en": "Professors of Law",
+      "zh": "法学教授"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "These noninfringing outputs are not substantially similar to Plaintiffs’ works but are simply in the same genre or contain similar facts. Plaintiff’s unprecedented theory of “dilution” turns copyright on its head. Genres and facts are uncopyrightable. Under the Copyright Clause, these elements are not original “writings” of any “author” and are free to copy.",
+      "en": "These noninfringing outputs are not substantially similar to Plaintiffs’ works but are simply in the same genre or contain similar facts. Plaintiff’s unprecedented theory of “dilution” turns copyright on its head. Genres and facts are uncopyrightable. Under the Copyright Clause, these elements are not original “writings” of any “author” and are free to copy.",
+      "zh": "这些非侵权输出与原告作品并不构成实质性相似，只是属于同一体裁，或包含相似的事实。原告提出的前所未有的“稀释”理论，完全颠倒了版权的本意。体裁和事实不受版权保护。根据宪法的版权条款，这些要素并非任何“作者”的原创“作品”，可以自由复制。"
+    },
+    {
+      "id": "p17",
+      "kind": "heading",
+      "text": "Electronic Frontier Foundation",
+      "en": "Electronic Frontier Foundation",
+      "zh": "电子前哨基金会"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Plaintiffs are asking the Court to throw that caution to the winds and rewrite copyright law to include a lawful acquisition requirement that finds no basis in statute or case law; and to tilt the fair use analysis against the developer of a general-purpose tool if that tool might be used to create potentially competing non-infringing works. The Court should reject both theories.",
+      "en": "Plaintiffs are asking the Court to throw that caution to the winds and rewrite copyright law to include a lawful acquisition requirement that finds no basis in statute or case law; and to tilt the fair use analysis against the developer of a general-purpose tool if that tool might be used to create potentially competing non-infringing works. The Court should reject both theories.",
+      "zh": "原告要求法院将这种审慎态度抛诸脑后，改写版权法，加入一项在成文法或判例法中均无依据的合法获取要求；还要求法院仅因某种通用工具可能被用于创作具有潜在竞争关系的非侵权作品，就在合理使用分析中作出不利于该工具开发者的判断。法院应当驳回这两种理论。"
+    },
+    {
+      "id": "p19",
+      "kind": "heading",
+      "text": "Engine and Developers Alliance",
+      "en": "Engine and Developers Alliance",
+      "zh": "Engine 和开发者联盟"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "Startups’ use of foundation models demonstrates that using copyrighted works to train an AI model is a fair use, not copyright infringement. The purpose of training a foundation model is not to reproduce the works it learns; it is to build a general-purpose tool that others can adapt to new ends. The ends startups have chosen bear no resemblance to the purposes of the works in any training dataset.",
+      "en": "Startups’ use of foundation models demonstrates that using copyrighted works to train an AI model is a fair use, not copyright infringement. The purpose of training a foundation model is not to reproduce the works it learns; it is to build a general-purpose tool that others can adapt to new ends. The ends startups have chosen bear no resemblance to the purposes of the works in any training dataset.",
+      "zh": "初创企业对基础模型的应用表明，使用受版权保护的作品训练 AI 模型属于合理使用，而非版权侵权。训练基础模型的目的，不是复制它所学习的作品，而是构建一种通用工具，让其他人可以对其加以调整，用于新的目的。初创企业选择的用途，与任何训练数据集中作品的原有用途都截然不同。"
+    },
+    {
+      "id": "p21",
+      "kind": "heading",
+      "text": "Foundation for American Innovation",
+      "en": "Foundation for American Innovation",
+      "zh": "美国创新基金会"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "To the extent AI training enables the creation of new knowledge, expression, software, and other capabilities, those benefits bear on factor four’s assessment of the use’s market effects. That reasoning supports a novel application here: considering the national-security value of capabilities that enable new analysis, software, and other productive work.",
+      "en": "To the extent AI training enables the creation of new knowledge, expression, software, and other capabilities, those benefits bear on factor four’s assessment of the use’s market effects. That reasoning supports a novel application here: considering the national-security value of capabilities that enable new analysis, software, and other productive work.",
+      "zh": "只要 AI 训练能够促进新知识、新表达、新软件及其他能力的产生，这些益处就应纳入合理使用第四项因素对使用行为市场影响的评估。这一论证思路支持在本案中作出一种新的应用：考量那些能够支持新的分析、软件开发及其他生产性工作的能力所具有的国家安全价值。"
+    },
+    {
+      "id": "p23",
+      "kind": "heading",
+      "text": "Gregory Leppert",
+      "en": "Gregory Leppert",
+      "zh": "Gregory Leppert"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "Library technology expert",
+      "en": "Library technology expert",
+      "zh": "图书馆技术专家"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "“[T]he primary objective of copyright is not to reward the labor of authors, but to promote the Progress of Science and useful Arts.” Libraries share this fundamental purpose of the Copyright Act. For example, the Library of Congress states its mission is to provide “access to a rich, diverse and enduring source of knowledge to inform, inspire and engage you in your intellectual and creative endeavors.” Across other institutions, the language is remarkably consistent: Harvard Library’s mission is to “engage with our communities in the creation and sharing of new knowledge,” MIT Libraries seek to “advance knowledge by providing a trusted foundation for the generation, dissemination, use, creative engagement with, and preservation of information” and the New York Public Library exists to “advance knowledge by providing free and open access to materials.” The open availability of general-purpose AI models serves and supports an important public benefit in that it enables libraries to keep pace with the preservation and accessibility of human knowledge for future generations.",
+      "en": "“[T]he primary objective of copyright is not to reward the labor of authors, but to promote the Progress of Science and useful Arts.” Libraries share this fundamental purpose of the Copyright Act. For example, the Library of Congress states its mission is to provide “access to a rich, diverse and enduring source of knowledge to inform, inspire and engage you in your intellectual and creative endeavors.” Across other institutions, the language is remarkably consistent: Harvard Library’s mission is to “engage with our communities in the creation and sharing of new knowledge,” MIT Libraries seek to “advance knowledge by providing a trusted foundation for the generation, dissemination, use, creative engagement with, and preservation of information” and the New York Public Library exists to “advance knowledge by providing free and open access to materials.” The open availability of general-purpose AI models serves and supports an important public benefit in that it enables libraries to keep pace with the preservation and accessibility of human knowledge for future generations.",
+      "zh": "“版权的首要目标不是奖励作者的劳动，而是促进科学和实用技艺的进步。”图书馆与《版权法》有着这一共同的根本宗旨。例如，美国国会图书馆表示，其使命是提供“获取丰富、多元、持久的知识资源的途径，为您的求知与创作提供信息、启发和参与机会”。其他机构的表述也高度一致：哈佛大学图书馆的使命是“与我们的社群携手创造和分享新知识”；麻省理工学院图书馆致力于“为信息的生成、传播、使用、创造性运用和保存提供可靠基础，以推动知识进步”；纽约公共图书馆的宗旨则是“通过提供免费、开放的资料获取途径，推动知识进步”。通用 AI 模型的开放获取，能够帮助图书馆与时俱进地为后代保存人类知识并保障知识的可获取性，从而服务于并支持一项重要的公共利益。"
+    },
+    {
+      "id": "p26",
+      "kind": "heading",
+      "text": "Joshua S. Gans",
+      "en": "Joshua S. Gans",
+      "zh": "Joshua S. Gans"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "Professor of Strategic Management",
+      "en": "Professor of Strategic Management",
+      "zh": "战略管理学教授"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "Copyright supports not only the incentive to create content but also the incentive to build tools that learn from that content, and a rule that treated every displaced sale as actionable can weaken the second without reliably protecting the first.",
+      "en": "Copyright supports not only the incentive to create content but also the incentive to build tools that learn from that content, and a rule that treated every displaced sale as actionable can weaken the second without reliably protecting the first.",
+      "zh": "版权不仅激励人们创作内容，也激励人们开发能够从这些内容中学习的工具。如果一项规则把每一笔因替代而流失的销售都视为可诉的损害，就可能削弱后一种激励，却无法可靠地保护前一种激励。"
+    },
+    {
+      "id": "p29",
+      "kind": "heading",
+      "text": "Kevin Kelly",
+      "en": "Kevin Kelly",
+      "zh": "Kevin Kelly"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "Author",
+      "en": "Author",
+      "zh": "作家"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "AI is a transformative technology that accelerates the creation of novel works across countless disciplines in the arts and sciences. Mr. Kelly has experience in how AI advances the field of literature. In his view, each AI model can be understood as an entirely new medium that offers authors the capability to create new texts and ideas, and to reason. A ruling for Plaintiffs on fair use would therefore grant Plaintiffs far more than the limited monopoly to their original expression Congress intended to confer. It would hinder the development of technologies capable of disseminating previously unimaginable quantities of information. It would also impede new modes of thought and the creation of new original works in both the arts and sciences. Amicus files this brief in support of Defendants’ argument that the use of copyrighted works to train large language models is a fair use under 17 U.S.C. § 107. Based on his lifelong pursuits of writing, the protections afforded to copyright owners are important to Mr. Kelly. Equally vital is preserving room for permissible uses of copyrighted material and the growth of transformative technologies. Otherwise, copyright will stifle the very creativity, innovation, and spread of knowledge it exists to encourage. The fair-use doctrine is critical to ensuring that balance.",
+      "en": "AI is a transformative technology that accelerates the creation of novel works across countless disciplines in the arts and sciences. Mr. Kelly has experience in how AI advances the field of literature. In his view, each AI model can be understood as an entirely new medium that offers authors the capability to create new texts and ideas, and to reason. A ruling for Plaintiffs on fair use would therefore grant Plaintiffs far more than the limited monopoly to their original expression Congress intended to confer. It would hinder the development of technologies capable of disseminating previously unimaginable quantities of information. It would also impede new modes of thought and the creation of new original works in both the arts and sciences. Amicus files this brief in support of Defendants’ argument that the use of copyrighted works to train large language models is a fair use under 17 U.S.C. § 107. Based on his lifelong pursuits of writing, the protections afforded to copyright owners are important to Mr. Kelly. Equally vital is preserving room for permissible uses of copyrighted material and the growth of transformative technologies. Otherwise, copyright will stifle the very creativity, innovation, and spread of knowledge it exists to encourage. The fair-use doctrine is critical to ensuring that balance.",
+      "zh": "AI 是一项具有变革性的技术，正在加快艺术和科学众多领域中新作品的创作。Kelly 先生对 AI 如何推动文学领域的发展有着亲身经验。在他看来，每一个 AI 模型都可以被视为一种全新的媒介，赋予作者创作新文本、构思新想法以及进行推理的能力。因此，如果法院在合理使用问题上作出有利于原告的裁决，就会赋予原告远超国会原本打算授予的、对其原创表达的有限专有权。这将阻碍相关技术的发展，而这些技术能够传播的信息数量，是过去无法想象的。这也将阻碍新思维方式的形成，以及艺术和科学领域新原创作品的创作。本法庭之友提交这份意见书，是为了支持被告的主张：依据《美国法典》第17编第107条，使用受版权保护的作品训练大语言模型属于合理使用。Kelly 先生毕生致力于写作，因此十分重视对版权所有者的保护。同样至关重要的是，为合法使用受版权保护的材料以及变革性技术的发展保留空间。否则，版权就会扼杀它本应鼓励的创造、创新与知识传播。合理使用原则是确保这一平衡的关键。"
+    },
+    {
+      "id": "p32",
+      "kind": "heading",
+      "text": "Khosla Ventures",
+      "en": "Khosla Ventures",
+      "zh": "Khosla Ventures"
+    },
+    {
+      "id": "p33",
+      "kind": "paragraph",
+      "text": "Fair use exists precisely to prevent copyright law from being used against the innovation it was designed to advance. To fulfill copyright’s constitutional mandate “[t]o promote the Progress of Science and useful Arts,” U.S. Const. art. I, § 8, cl. 8, the Court should hold that the use of copyrighted works in training OpenAI’s large language models constitutes fair use as a matter of law.",
+      "en": "Fair use exists precisely to prevent copyright law from being used against the innovation it was designed to advance. To fulfill copyright’s constitutional mandate “[t]o promote the Progress of Science and useful Arts,” U.S. Const. art. I, § 8, cl. 8, the Court should hold that the use of copyrighted works in training OpenAI’s large language models constitutes fair use as a matter of law.",
+      "zh": "合理使用的存在，正是为了防止版权法被用来阻碍它本应促进的创新。为履行宪法赋予版权的使命，即“促进科学和实用技艺的进步”（《美国宪法》第一条第8款第8项），法院应当认定，使用受版权保护的作品训练 OpenAI 的大语言模型，在法律上构成合理使用。"
+    },
+    {
+      "id": "p34",
+      "kind": "heading",
+      "text": "Matthew Sag",
+      "en": "Matthew Sag",
+      "zh": "Matthew Sag"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "Professor of Law",
+      "en": "Professor of Law",
+      "zh": "法学教授"
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "On the record in this case, the defendants’ use of plaintiffs’ works for AI training is highly transformative and strongly favors a finding of fair use because under realistic conditions the outputs of defendants’ models are in no relevant way similar to the invisible intermediate copies made during the training process.",
+      "en": "On the record in this case, the defendants’ use of plaintiffs’ works for AI training is highly transformative and strongly favors a finding of fair use because under realistic conditions the outputs of defendants’ models are in no relevant way similar to the invisible intermediate copies made during the training process.",
+      "zh": "根据本案的在案证据，被告使用原告作品进行 AI 训练具有高度的转换性，这有力支持了合理使用的认定，因为在现实条件下，被告模型的输出与训练过程中产生的不可见中间副本，在任何与本案相关的方面都不相似。"
+    },
+    {
+      "id": "p37",
+      "kind": "heading",
+      "text": "Michael Wall and Sarah Rose Siskind",
+      "en": "Michael Wall and Sarah Rose Siskind",
+      "zh": "Michael Wall 和 Sarah Rose Siskind"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "Musician and composer / comedian and writer",
+      "en": "Musician and composer / comedian and writer",
+      "zh": "音乐人兼作曲家 / 喜剧演员兼作家"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "This brief offers a window into what that sentence means in practice through the work of two independent creators who rely on copyright protection and AI tools to sustain their livelihoods. Amici Sarah Rose Siskind and Michael Wall are artists who create and license original works. But they use AI to handle work surrounding the creative process and to grow their businesses in a market teeming with better-resourced competitors. For Amici, AI does not displace creativity or shortcut their creative processes. AI helps them create more, and to extend their work into new modes of expression. Amici’s experience underscores the United States’ view that AI tools “can and should help level the playing field between mainstream and independent publishers.” Siskind uses AI in every aspect of her business, from day-to-day administrative tasks to developing ideas and bringing in new clients. With AI, her noncreative work is faster and less expensive, and her creative work is better. As she tells it, “I don’t think I could run my business without AI at this point.” Similarly, AI helps Wall manage the operational demands of his music business, reduce costs, and devote more of his time to composing music. Like Siskind, he doubts that his business could survive in its current form without AI.",
+      "en": "This brief offers a window into what that sentence means in practice through the work of two independent creators who rely on copyright protection and AI tools to sustain their livelihoods. Amici Sarah Rose Siskind and Michael Wall are artists who create and license original works. But they use AI to handle work surrounding the creative process and to grow their businesses in a market teeming with better-resourced competitors. For Amici, AI does not displace creativity or shortcut their creative processes. AI helps them create more, and to extend their work into new modes of expression. Amici’s experience underscores the United States’ view that AI tools “can and should help level the playing field between mainstream and independent publishers.” Siskind uses AI in every aspect of her business, from day-to-day administrative tasks to developing ideas and bringing in new clients. With AI, her noncreative work is faster and less expensive, and her creative work is better. As she tells it, “I don’t think I could run my business without AI at this point.” Similarly, AI helps Wall manage the operational demands of his music business, reduce costs, and devote more of his time to composing music. Like Siskind, he doubts that his business could survive in its current form without AI.",
+      "zh": "本意见书通过两位独立创作者的工作，展现这句话在实践中的含义；他们依靠版权保护和 AI 工具维持生计。法庭之友 Sarah Rose Siskind 和 Michael Wall 都是从事原创作品创作及授权的艺术家。但他们也使用 AI 处理创作过程中的周边事务，并在一个拥有更充足资源的竞争者众多的市场中拓展业务。对这两位法庭之友而言，AI 既不会取代创造力，也不是让他们在创作过程中走捷径的工具。AI 帮助他们创作更多作品，并将作品拓展到新的表达形式。这两位法庭之友的经历印证了美国政府的观点，即 AI 工具“能够也应当帮助主流出版商和独立出版商获得更公平的竞争环境”。Siskind 在业务的各个方面都使用 AI，从日常行政事务到构思创意，再到吸引新客户。有了 AI，她处理非创作事务更快、成本更低，创作成果也更出色。正如她所说：“到了现在，我觉得没有 AI，我就没法经营自己的业务。”同样，AI 帮助 Wall 应对音乐业务的运营需求、降低成本，让他能将更多时间投入作曲。与 Siskind 一样，他也怀疑，没有 AI，自己的业务是否还能以目前的形式维持下去。"
+    },
+    {
+      "id": "p40",
+      "kind": "heading",
+      "text": "Mike Knoop, Daniel Lowd, Douglas Schmidt",
+      "en": "Mike Knoop, Daniel Lowd, Douglas Schmidt",
+      "zh": "Mike Knoop、Daniel Lowd、Douglas Schmidt"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "Computer Scientists",
+      "en": "Computer Scientists",
+      "zh": "计算机科学家"
+    },
+    {
+      "id": "p42",
+      "kind": "paragraph",
+      "text": "Generalization and memorization are distinct phenomena. Training on a large and varied collection enables a model to respond to prompts not encountered during training, supporting the conclusion that it learns patterns applicable to new contexts rather than simply storing source works. A trained model is not an addressable document repository and does not ordinarily retrieve identified training data as stored files. There is no address, index, or file handle by which particular training data can be requested and returned; generation instead proceeds by producing a probability distribution for the next token and selecting from it.",
+      "en": "Generalization and memorization are distinct phenomena. Training on a large and varied collection enables a model to respond to prompts not encountered during training, supporting the conclusion that it learns patterns applicable to new contexts rather than simply storing source works. A trained model is not an addressable document repository and does not ordinarily retrieve identified training data as stored files. There is no address, index, or file handle by which particular training data can be requested and returned; generation instead proceeds by producing a probability distribution for the next token and selecting from it.",
+      "zh": "泛化与记忆是两种不同的现象。在规模庞大、内容多样的数据集上进行训练，使模型能够回应训练时未曾遇到的提示词。这支持了以下结论：模型学习的是适用于新情境的规律，而非仅仅存储原始作品。训练后的模型并非可寻址的文档库，通常也不会将特定训练数据作为已存储的文件来检索。不存在可用来请求并返回特定训练数据的地址、索引或文件句柄；生成过程实际是先产生下一个 Token 的概率分布，再从中进行选择。"
+    },
+    {
+      "id": "p43",
+      "kind": "heading",
+      "text": "Public Knowledge",
+      "en": "Public Knowledge",
+      "zh": "公共知识组织"
+    },
+    {
+      "id": "p44",
+      "kind": "paragraph",
+      "text": "Fair use has protected tools that help people navigate the vast collections of information the digital world has brought us, including image search and full-text book search. See Perfect 10, Inc. v. Amazon.com, Inc., 508 F.3d 1146, 1164–68 (9th Cir. 2007); Authors Guild v. Google, Inc., 804 F.3d 202, 216–17, 225 (2d Cir. 2015) (“Google Books”). It has also protected libraries’ provision of accessible digital books to readers with print disabilities. See Authors Guild, Inc. v. HathiTrust, 755 F.3d 87, 101–03 (2d Cir. 2014). And it has protected free online publication of technical standards incorporated into law, recognizing the “substantial public benefits of free and easy access to the law.” Am. Soc’y for Testing & Materials v. Public.Resource.Org, Inc., 82 F.4th 1262, 1271–72 (D.C. Cir. 2023). Fair use will be equally beneficial in ensuring that AI’s benefits accrue to the public at large, instead of being controlled by a privileged few.",
+      "en": "Fair use has protected tools that help people navigate the vast collections of information the digital world has brought us, including image search and full-text book search. See Perfect 10, Inc. v. Amazon.com, Inc., 508 F.3d 1146, 1164–68 (9th Cir. 2007); Authors Guild v. Google, Inc., 804 F.3d 202, 216–17, 225 (2d Cir. 2015) (“Google Books”). It has also protected libraries’ provision of accessible digital books to readers with print disabilities. See Authors Guild, Inc. v. HathiTrust, 755 F.3d 87, 101–03 (2d Cir. 2014). And it has protected free online publication of technical standards incorporated into law, recognizing the “substantial public benefits of free and easy access to the law.” Am. Soc’y for Testing & Materials v. Public.Resource.Org, Inc., 82 F.4th 1262, 1271–72 (D.C. Cir. 2023). Fair use will be equally beneficial in ensuring that AI’s benefits accrue to the public at large, instead of being controlled by a privileged few.",
+      "zh": "合理使用一直在保护那些帮助人们检索数字世界海量信息的工具，包括图片搜索和图书全文搜索。参见 Perfect 10 公司诉亚马逊公司案，508 F.3d 1146, 1164–68（第九巡回上诉法院，2007 年）；作家协会诉谷歌公司案，804 F.3d 202, 216–17, 225（第二巡回上诉法院，2015 年）（“谷歌图书案”）。合理使用也保护了图书馆向印刷品阅读障碍者提供无障碍数字图书的行为。参见作家协会诉 HathiTrust 案，755 F.3d 87, 101–03（第二巡回上诉法院，2014 年）。合理使用还保护了在网上免费公布已被纳入法律的技术标准的行为，认可“免费、便捷地获取法律所带来的重大公共利益”。美国试验与材料学会诉 Public.Resource.Org 公司案，82 F.4th 1262, 1271–72（哥伦比亚特区巡回上诉法院，2023 年）。合理使用同样有助于确保 AI 的益处惠及广大公众，而非被少数享有特权者所掌控。"
+    },
+    {
+      "id": "p45",
+      "kind": "heading",
+      "text": "Senator Rick Santorum and Representative Rick Boucher",
+      "en": "Senator Rick Santorum and Representative Rick Boucher",
+      "zh": "参议员 Rick Santorum 和众议员 Rick Boucher"
+    },
+    {
+      "id": "p46",
+      "kind": "paragraph",
+      "text": "Former members of Congress",
+      "en": "Former members of Congress",
+      "zh": "前国会议员"
+    },
+    {
+      "id": "p47",
+      "kind": "paragraph",
+      "text": "“From its beginning, the law of copyright has developed in response to significant changes in technology.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 430 (1984). Consistent with that provenance, the doctrine of fair use, which was made statutory law through the Copyright Act of 1976, is meant to work in tandem with technological change, not against it. AI is the latest and the most consequential technology to which that doctrine must be applied. The use of copyrighted works to train AI models is a paradigmatic case of fair use. An AI model relies on works not to communicate their expression to the public but rather, quite differently, to derive the statistical patterns of language that allow the model to function. A ruling that AI training constitutes a fair use is vitally important to our Nation. The freedom of American scientists, companies, and entrepreneurs to train AI is of paramount economic and strategic importance.",
+      "en": "“From its beginning, the law of copyright has developed in response to significant changes in technology.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 430 (1984). Consistent with that provenance, the doctrine of fair use, which was made statutory law through the Copyright Act of 1976, is meant to work in tandem with technological change, not against it. AI is the latest and the most consequential technology to which that doctrine must be applied. The use of copyrighted works to train AI models is a paradigmatic case of fair use. An AI model relies on works not to communicate their expression to the public but rather, quite differently, to derive the statistical patterns of language that allow the model to function. A ruling that AI training constitutes a fair use is vitally important to our Nation. The freedom of American scientists, companies, and entrepreneurs to train AI is of paramount economic and strategic importance.",
+      "zh": "“版权法自诞生之初，就一直在应对重大技术变革的过程中发展。”索尼美国公司诉环球城市影业公司案，464 U.S. 417, 430 (1984)。与这一历史渊源一致，通过《1976 年版权法》被纳入成文法的合理使用原则，旨在与技术变革协同发展，而不是与之对抗。AI 是必须适用这一原则的最新技术，也是影响最为深远的技术。使用受版权保护的作品训练 AI 模型，是合理使用的典型情形。AI 模型利用作品，并非为了向公众传播作品中的表达，而是出于截然不同的目的：从中提取使模型能够运作的语言统计规律。裁定 AI 训练构成合理使用，对美国至关重要。美国科学家、企业和创业者开展 AI 训练的自由，具有举足轻重的经济与战略意义。"
+    },
+    {
+      "id": "p48",
+      "kind": "heading",
+      "text": "Ron Suskind and Brian L. Frye",
+      "en": "Ron Suskind and Brian L. Frye",
+      "zh": "Ron Suskind 和 Brian L. Frye"
+    },
+    {
+      "id": "p49",
+      "kind": "paragraph",
+      "text": "Pulitzer Prize-winning journalist / Professor of Law",
+      "en": "Pulitzer Prize-winning journalist / Professor of Law",
+      "zh": "普利策奖获奖记者 / 法学教授"
+    },
+    {
+      "id": "p50",
+      "kind": "paragraph",
+      "text": "OpenAI’s use of newspaper articles to train its generative AI models didn’t harm the reasonable commercial expectations of the News Plaintiffs in any way. They commissioned and published newspaper articles with the expectation of selling consumers access to those articles. They retain and continue to exercise the exclusive right to sell consumers access to their articles. Their ability to sell consumers access to their articles wasn’t affected by OpenAI’s use of those articles to train its AI models.",
+      "en": "OpenAI’s use of newspaper articles to train its generative AI models didn’t harm the reasonable commercial expectations of the News Plaintiffs in any way. They commissioned and published newspaper articles with the expectation of selling consumers access to those articles. They retain and continue to exercise the exclusive right to sell consumers access to their articles. Their ability to sell consumers access to their articles wasn’t affected by OpenAI’s use of those articles to train its AI models.",
+      "zh": "OpenAI 使用报纸文章来训练其生成式 AI 模型，并未以任何方式损害新闻机构原告的合理商业预期。它们约稿并刊登报纸文章，是希望通过向消费者提供这些文章的付费阅读服务获利。它们仍然保有并继续行使向消费者提供文章付费阅读服务的专有权利。OpenAI 使用这些文章来训练其 AI 模型，并未影响它们向消费者提供文章付费阅读服务的能力。"
+    },
+    {
+      "id": "p51",
+      "kind": "heading",
+      "text": "United States Government",
+      "en": "United States Government",
+      "zh": "美国政府"
+    },
+    {
+      "id": "p52",
+      "kind": "paragraph",
+      "text": "In this litigation, the New York Times seeks to narrow fair-use doctrine to exclude the training of OpenAI’s large language models (LLMs). That result would be inconsistent with basic copyright law principles and severely hamper “the Progress of Science and useful Arts.” U.S. CONST. art. I, § 8, cl. 8. As discussed below, publications—including independent and start-up media, in addition to the New York Times itself—are leveraging LLMs for journalistic and other purposes. And beyond the subject matter of this litigation, LLMs are already helping researchers across fields achieve major breakthroughs. Constraining LLM development under a misunderstanding of fair use doctrine would thwart such creative and scientific progress while hindering American prosperity and economic mobility.",
+      "en": "In this litigation, the New York Times seeks to narrow fair-use doctrine to exclude the training of OpenAI’s large language models (LLMs). That result would be inconsistent with basic copyright law principles and severely hamper “the Progress of Science and useful Arts.” U.S. CONST. art. I, § 8, cl. 8. As discussed below, publications—including independent and start-up media, in addition to the New York Times itself—are leveraging LLMs for journalistic and other purposes. And beyond the subject matter of this litigation, LLMs are already helping researchers across fields achieve major breakthroughs. Constraining LLM development under a misunderstanding of fair use doctrine would thwart such creative and scientific progress while hindering American prosperity and economic mobility.",
+      "zh": "在本次诉讼中，《纽约时报》试图缩小合理使用原则的适用范围，将 OpenAI 的大语言模型（LLM）训练排除在外。这样的结果将违背版权法的基本原则，并严重阻碍“科学和实用技艺的进步”。《美国宪法》第一条第8款第8项。如下文所述，包括独立媒体和初创媒体，以及《纽约时报》自身在内的出版机构，正在将 LLM 用于新闻工作及其他用途。而在本案涉及的领域之外，LLM 已在帮助各领域的研究人员取得重大突破。基于对合理使用原则的误解而限制 LLM 发展，将阻碍这类创作与科学进步，同时妨碍美国的繁荣以及人们经济地位的提升。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p5",
+      "zh": "法院应当驳回原告试图将版权扩展至其既定边界之外的主张。AI 训练使用受版权保护的作品，其目的与作品的原有用途存在根本区别；它既不向公众提供获取这些作品的替代途径，也不会造成《版权法》所认可的市场损害。",
+      "en": "The Court should reject Plaintiffs’ attempt to extend copyright beyond its established limits. AI training uses copyrighted works for a fundamentally different purpose, does not provide the public with substitute access to those works, and does not cause the market harm cognizable under the Copyright Act."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "本案关涉的不只是开发大语言模型（LLM）的公司。它还影响着医学研究人员和患者、为具有不同学习需求的学生服务的教育工作者、寻求更独立生活的残障人士、运用农业知识的农民、探索新表达形式的独立创作者，以及从软件到法律的各行各业。",
+      "en": "This case concerns more than companies that develop large language models (LLMs). It affects medical researchers and patients, educators serving students with different learning needs, people with disabilities seeking greater independence, farmers applying agricultural knowledge, independent creators developing new forms of expression, and industry sectors from software to the law."
+    },
+    {
+      "paragraphId": "p33",
+      "zh": "合理使用的存在，正是为了防止版权法被用来阻碍它本应促进的创新。为履行宪法赋予版权的使命，即“促进科学和实用技艺的进步”（《美国宪法》第一条第8款第8项），法院应当认定，使用受版权保护的作品训练 OpenAI 的大语言模型，在法律上构成合理使用。",
+      "en": "Fair use exists precisely to prevent copyright law from being used against the innovation it was designed to advance. To fulfill copyright’s constitutional mandate “[t]o promote the Progress of Science and useful Arts,” U.S."
+    },
+    {
+      "paragraphId": "p47",
+      "zh": "“版权法自诞生之初，就一直在应对重大技术变革的过程中发展。”索尼美国公司诉环球城市影业公司案，464 U.S. 417, 430 (1984)。",
+      "en": "“From its beginning, the law of copyright has developed in response to significant changes in technology.” Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 430 (1984)."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/fair-use-benefits-everyone/",
+      "title": "Fair use benefits everyone"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/fair-use-benefits-everyone/",
+      "title": "合理使用惠及每个人"
+    }
+  },
+  "contentHash": "bbe33a039ef531ea9ba9593fdf9ce2c050c30b1c760a4da2f3aa40b157591a92",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/fair-use-benefits-everyone/"
 }

@@ -3,8 +3,128 @@
   "id": "rss-019edb616369c3322f4c",
   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
   "sourceTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.194319+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.233095+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:51:02.575Z",
+  "finalURL": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/",
+  "language": "en",
+  "originalTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "en": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "zh": "Jill Hazelbaker 将加入 OpenAI，担任首席企业事务官，负责公司的全球传播与企业定位工作。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Jill will work closely with leaders across OpenAI to deepen public understanding of AI and strengthen trust in its mission. She brings nearly two decades of experience advising technology companies and political leaders, helping them navigate periods of extraordinary growth and some of their most consequential challenges.",
+      "en": "Jill will work closely with leaders across OpenAI to deepen public understanding of AI and strengthen trust in its mission. She brings nearly two decades of experience advising technology companies and political leaders, helping them navigate periods of extraordinary growth and some of their most consequential challenges.",
+      "zh": "Jill 将与 OpenAI 各部门的领导者紧密合作，深化公众对 AI 的理解，并增强公众对 OpenAI 使命的信任。她拥有近二十年为科技公司和政界领袖提供咨询的经验，曾帮助他们应对高速发展时期的种种变化，以及一些影响深远的重大挑战。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Most recently, Jill served as President and Chief Corporate Affairs Officer at Uber, where she helped lead the company’s transformation from an ambitious startup into one of the world’s largest global technology platforms.",
+      "en": "Most recently, Jill served as President and Chief Corporate Affairs Officer at Uber, where she helped lead the company’s transformation from an ambitious startup into one of the world’s largest global technology platforms.",
+      "zh": "加入 OpenAI 之前，Jill 担任 Uber 总裁兼首席企业事务官，参与领导公司从一家雄心勃勃的初创企业转型为全球最大的科技平台之一。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Jill’s appointment reflects OpenAI’s commitment to investing in the leadership and capabilities needed to engage more deeply with the people and institutions shaping AI’s future.",
+      "en": "Jill’s appointment reflects OpenAI’s commitment to investing in the leadership and capabilities needed to engage more deeply with the people and institutions shaping AI’s future.",
+      "zh": "任命 Jill 体现了 OpenAI 的承诺：持续加强领导团队和能力建设，以便与塑造 AI 未来的个人和机构开展更深入的交流与合作。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "“As AI becomes part of more people’s lives, how we communicate, engage, and earn public trust has never been more important. Jill brings exceptional judgment, seasoned leadership, and a deep understanding of the opportunities and responsibilities that come with building technology at global scale. She’s exactly the kind of leader we need for this next chapter, and I’m thrilled to welcome her to OpenAI.”",
+      "en": "“As AI becomes part of more people’s lives, how we communicate, engage, and earn public trust has never been more important. Jill brings exceptional judgment, seasoned leadership, and a deep understanding of the opportunities and responsibilities that come with building technology at global scale. She’s exactly the kind of leader we need for this next chapter, and I’m thrilled to welcome her to OpenAI.”",
+      "zh": "“随着 AI 融入越来越多人的生活，如何与公众沟通、互动并赢得信任，变得前所未有地重要。Jill 拥有出色的判断力和久经磨炼的领导能力，也深刻理解在全球范围内开发技术所带来的机遇与责任。她正是我们迈入下一阶段所需要的领导者。对于她加入 OpenAI，我感到由衷的喜悦与欢迎。”"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Greg Brockman, Co-Founder & President, OpenAI",
+      "en": "Greg Brockman, Co-Founder & President, OpenAI",
+      "zh": "Greg Brockman，OpenAI 联合创始人兼总裁"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "“AI represents the most profound technological shift of our lifetime. The stakes are enormous, the possibilities are extraordinary, and the work of building public trust has never been more consequential. I could not be more excited to work alongside Sam, Greg, and the outstanding team they’ve assembled to help OpenAI meet the moment.”",
+      "en": "“AI represents the most profound technological shift of our lifetime. The stakes are enormous, the possibilities are extraordinary, and the work of building public trust has never been more consequential. I could not be more excited to work alongside Sam, Greg, and the outstanding team they’ve assembled to help OpenAI meet the moment.”",
+      "zh": "“AI 代表着我们这一生中最深刻的技术变革。这场变革事关重大，也蕴藏着非凡的可能性，而建立公众信任的工作从未像今天这样举足轻重。能够与 Sam、Greg 以及他们汇聚的优秀团队并肩合作，帮助 OpenAI 把握机遇、迎接挑战，我感到无比兴奋。”"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Jill Hazelbaker",
+      "en": "Jill Hazelbaker",
+      "zh": "Jill Hazelbaker"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Jill Hazelbaker joins OpenAI from Uber, where she served as President and Chief Corporate Affairs Officer, overseeing the company’s global communications, marketing, public policy, safety, and people teams. During her decade at Uber, she played a central role in shaping the company’s reputation, navigating complex regulatory and reputational challenges, and building the capabilities needed to support its growth around the world.",
+      "en": "Jill Hazelbaker joins OpenAI from Uber, where she served as President and Chief Corporate Affairs Officer, overseeing the company’s global communications, marketing, public policy, safety, and people teams. During her decade at Uber, she played a central role in shaping the company’s reputation, navigating complex regulatory and reputational challenges, and building the capabilities needed to support its growth around the world.",
+      "zh": "Jill Hazelbaker 从 Uber 加入 OpenAI。此前，她在 Uber 担任总裁兼首席企业事务官，负责领导公司的全球传播、市场营销、公共政策、安全及人力资源团队。在 Uber 任职的十年间，她在塑造公司声誉、应对复杂的监管与声誉挑战，以及构建支撑全球业务增长所需的能力方面，发挥了核心作用。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Before joining Uber, Jill led communications and public policy at Snap. Earlier, she held senior leadership roles at Google, overseeing corporate communications globally, communications across Europe, the Middle East and Africa, and government relations in Europe.",
+      "en": "Before joining Uber, Jill led communications and public policy at Snap. Earlier, she held senior leadership roles at Google, overseeing corporate communications globally, communications across Europe, the Middle East and Africa, and government relations in Europe.",
+      "zh": "加入 Uber 之前，Jill 在 Snap 负责传播与公共政策工作。更早之前，她曾在 Google 担任高级领导职务，负责全球企业传播、欧洲、中东和非洲地区的传播，以及欧洲地区的政府关系工作。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Jill began her career in U.S. politics, serving in leadership roles on local, state, and national campaigns. She was National Communications Director and Chief Spokesperson for Senator John McCain’s 2008 presidential campaign and Press Secretary to New York City Mayor Michael Bloomberg.",
+      "en": "Jill began her career in U.S. politics, serving in leadership roles on local, state, and national campaigns. She was National Communications Director and Chief Spokesperson for Senator John McCain’s 2008 presidential campaign and Press Secretary to New York City Mayor Michael Bloomberg.",
+      "zh": "Jill 的职业生涯始于美国政界，曾在地方、州及全国层面的竞选活动中担任领导职务。她曾在参议员 John McCain 的 2008 年总统竞选团队中担任全国传播总监兼首席发言人，也曾担任纽约市市长 Michael Bloomberg 的新闻秘书。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Jill Hazelbaker 将加入 OpenAI，担任首席企业事务官，负责公司的全球传播与企业定位工作。",
+      "en": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "加入 OpenAI 之前，Jill 担任 Uber 总裁兼首席企业事务官，参与领导公司从一家雄心勃勃的初创企业转型为全球最大的科技平台之一。",
+      "en": "Most recently, Jill served as President and Chief Corporate Affairs Officer at Uber, where she helped lead the company’s transformation from an ambitious startup into one of the world’s largest global technology platforms."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "Jill Hazelbaker 从 Uber 加入 OpenAI。此前，她在 Uber 担任总裁兼首席企业事务官，负责领导公司的全球传播、市场营销、公共政策、安全及人力资源团队。",
+      "en": "Jill Hazelbaker joins OpenAI from Uber, where she served as President and Chief Corporate Affairs Officer, overseeing the company’s global communications, marketing, public policy, safety, and people teams. During her decade at Uber, she played a central role in shaping the company’s reputation, navigating complex regulatory and reputational challenges, and building the capabilities needed to support its growth around the world."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "Jill 的职业生涯始于美国政界，曾在地方、州及全国层面的竞选活动中担任领导职务。她曾在参议员 John McCain 的 2008 年总统竞选团队中担任全国传播总监兼首席发言人，也曾担任纽约市市长 Michael Bloomberg 的新闻秘书。",
+      "en": "Jill began her career in U.S. politics, serving in leadership roles on local, state, and national campaigns. She was National Communications Director and Chief Spokesperson for Senator John McCain’s 2008 presidential campaign and Press Secretary to New York City Mayor Michael Bloomberg."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/jill-hazelbaker-chief-corporate-affairs-officer/",
+      "title": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官"
+    }
+  },
+  "contentHash": "f701f155772018740f50426dea3703ad17996b6e97d613195a5133fe79df1575",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/jill-hazelbaker-chief-corporate-affairs-officer/"
 }

@@ -3,8 +3,177 @@
   "id": "rss-eda525050cea8fce4b13",
   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
   "sourceTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.734281+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.774187+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:54:40.098Z",
+  "finalURL": "https://openai.com/index/uber-chatgpt-work-rollout/",
+  "language": "en",
+  "originalTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Uber announced the company-wide rollout of ChatGPT Work, an agent that helps employees take on a wide range of tasks within ChatGPT Enterprise, starting today. The rollout will make ChatGPT Work available to more than 30,000 employees across Uber’s global workforce.",
+      "en": "Uber announced the company-wide rollout of ChatGPT Work, an agent that helps employees take on a wide range of tasks within ChatGPT Enterprise, starting today. The rollout will make ChatGPT Work available to more than 30,000 employees across Uber’s global workforce.",
+      "zh": "Uber 宣布，即日起在全公司推广“ChatGPT 工作”。这款智能体可在 ChatGPT Enterprise 中帮助员工处理各类任务。此次推广将让 Uber 全球超过 3 万名员工能够使用“ChatGPT 工作”。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Expanding from an initial pilot of 1,000 employees, the rollout will give teams across Uber access to an agentic platform designed to take on complex, multi-step tasks and deliver finished work. The expansion makes ChatGPT Work Uber’s first company-wide deployment of an agentic platform tailored for knowledge work.",
+      "en": "Expanding from an initial pilot of 1,000 employees, the rollout will give teams across Uber access to an agentic platform designed to take on complex, multi-step tasks and deliver finished work. The expansion makes ChatGPT Work Uber’s first company-wide deployment of an agentic platform tailored for knowledge work.",
+      "zh": "在最初面向 1,000 名员工开展试点后，Uber 将扩大部署范围，让各团队都能使用这一智能体平台，处理复杂的多步骤任务，并交付完整的工作成果。“ChatGPT 工作”也由此成为 Uber 首个在全公司范围内部署、专为知识工作打造的智能体平台。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "ChatGPT Work connects with tools companies like Uber use on a daily basis, including Google Drive, Gmail, Google Calendar, and Slack, enabling workers to research information, prepare meeting briefs, create presentations, analyze data and complete workflows across applications.",
+      "en": "ChatGPT Work connects with tools companies like Uber use on a daily basis, including Google Drive, Gmail, Google Calendar, and Slack, enabling workers to research information, prepare meeting briefs, create presentations, analyze data and complete workflows across applications.",
+      "zh": "“ChatGPT 工作”可连接 Uber 等企业日常使用的工具，包括 Google Drive、Gmail、Google Calendar 和 Slack，让员工能够查找和研究资料、准备会议简报、制作演示文稿、分析数据，并跨应用完成工作流程。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "ChatGPT Work also gives Uber access to OpenAI’s portfolio of frontier models. Uber will benefit from models like GPT‑6.1 Sol which will be deployed as the default capability within ChatGPT Work, balancing frontier performance and cost efficiency. Uber teams will also be supported by OpenAI multimodal capabilities, including voice and image generation, giving them the flexibility to choose the right models and tools for different needs.",
+      "en": "ChatGPT Work also gives Uber access to OpenAI’s portfolio of frontier models. Uber will benefit from models like GPT‑6.1 Sol which will be deployed as the default capability within ChatGPT Work, balancing frontier performance and cost efficiency. Uber teams will also be supported by OpenAI multimodal capabilities, including voice and image generation, giving them the flexibility to choose the right models and tools for different needs.",
+      "zh": "“ChatGPT 工作”还让 Uber 能够使用 OpenAI 的一系列前沿模型。Uber 将受益于 GPT‑6.1 Sol 等模型。其中，GPT‑6.1 Sol 将作为“ChatGPT 工作”的默认模型部署，兼顾领先性能与成本效益。Uber 各团队还可使用 OpenAI 的语音、图像生成等多模态能力，根据不同需求灵活选择合适的模型和工具。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "The rollout will be supported by Uber’s internal AI skills library, approved integrations and dedicated employee training, helping teams across functions including operations, finance, marketing and product put the technology to work. Uber’s developers and software engineering teams will also continue using Codex to accelerate software development and streamline coding workflows.",
+      "en": "The rollout will be supported by Uber’s internal AI skills library, approved integrations and dedicated employee training, helping teams across functions including operations, finance, marketing and product put the technology to work. Uber’s developers and software engineering teams will also continue using Codex to accelerate software development and streamline coding workflows.",
+      "zh": "Uber 将通过内部 AI 技能库、经批准的工具集成和专项员工培训，为此次推广提供支持，帮助运营、财务、营销和产品等团队将这项技术应用于实际工作。Uber 的开发者和软件工程团队也将继续使用 Codex，加快软件开发并简化编程工作流程。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "“Uber has always been a company of builders, and every day, millions of people around the world rely on what we create. As AI transforms how we work, we want to give everyone the tools to innovate, solve problems and help shape Uber’s future. Rolling out ChatGPT Work across the company is an exciting step toward that ambition, and I can’t wait to see what our teams build with it.”",
+      "en": "“Uber has always been a company of builders, and every day, millions of people around the world rely on what we create. As AI transforms how we work, we want to give everyone the tools to innovate, solve problems and help shape Uber’s future. Rolling out ChatGPT Work across the company is an exciting step toward that ambition, and I can’t wait to see what our teams build with it.”",
+      "zh": "“Uber 始终是一家汇聚创造者的公司，全球数百万人每天都依赖我们打造的产品和服务。随着 AI 改变我们的工作方式，我们希望为每个人提供工具，帮助他们创新、解决问题，并共同塑造 Uber 的未来。在全公司推广‘ChatGPT 工作’，是我们朝着这一目标迈出的令人振奋的一步。我迫不及待地想看看各团队会借助它创造出怎样的成果。”"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "—Praveen Neppalli Naga, CTO of Uber",
+      "en": "—Praveen Neppalli Naga, CTO of Uber",
+      "zh": "—Praveen Neppalli Naga，Uber 首席技术官"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "“Uber is putting AI to work across its business, and bringing ChatGPT Work to tens of thousand employees is a big step toward expanding access to frontier AI capabilities and tools. Now teams across Uber can tap into our portfolio of frontier models and agents to take on more complex work, connect the tools they use every day, and get more done.”",
+      "en": "“Uber is putting AI to work across its business, and bringing ChatGPT Work to tens of thousand employees is a big step toward expanding access to frontier AI capabilities and tools. Now teams across Uber can tap into our portfolio of frontier models and agents to take on more complex work, connect the tools they use every day, and get more done.”",
+      "zh": "“Uber 正将 AI 应用于各项业务。让数万名员工用上‘ChatGPT 工作’，是让更多人能够使用前沿 AI 能力和工具的重要一步。如今，Uber 各团队都能借助我们的一系列前沿模型和智能体，处理更复杂的工作，连接日常使用的工具，完成更多任务。”"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "—Greg Brockman, president and co-founder of OpenAI",
+      "en": "—Greg Brockman, president and co-founder of OpenAI",
+      "zh": "—Greg Brockman，OpenAI 总裁兼联合创始人"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "“Uber has always been a company of builders, and every day, millions of people around the world rely on what we create. As AI transforms how we work, we want to give everyone the tools to innovate, solve problems and help shape Uber’s future. Rolling out ChatGPT Work across the company is an exciting step toward that ambition, and I can’t wait to see what our teams build with it.”",
+      "en": "“Uber has always been a company of builders, and every day, millions of people around the world rely on what we create. As AI transforms how we work, we want to give everyone the tools to innovate, solve problems and help shape Uber’s future. Rolling out ChatGPT Work across the company is an exciting step toward that ambition, and I can’t wait to see what our teams build with it.”",
+      "zh": "“Uber 始终是一家汇聚创造者的公司，全球数百万人每天都依赖我们打造的产品和服务。随着 AI 改变我们的工作方式，我们希望为每个人提供工具，帮助他们创新、解决问题，并共同塑造 Uber 的未来。在全公司推广‘ChatGPT 工作’，是我们朝着这一目标迈出的令人振奋的一步。我迫不及待地想看看各团队会借助它创造出怎样的成果。”"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "—Praveen Neppalli Naga, CTO of Uber",
+      "en": "—Praveen Neppalli Naga, CTO of Uber",
+      "zh": "—Praveen Neppalli Naga，Uber 首席技术官"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "“Uber is putting AI to work across its business, and bringing ChatGPT Work to tens of thousand employees is a big step toward expanding access to frontier AI capabilities and tools. Now teams across Uber can tap into our portfolio of frontier models and agents to take on more complex work, connect the tools they use every day, and get more done.”",
+      "en": "“Uber is putting AI to work across its business, and bringing ChatGPT Work to tens of thousand employees is a big step toward expanding access to frontier AI capabilities and tools. Now teams across Uber can tap into our portfolio of frontier models and agents to take on more complex work, connect the tools they use every day, and get more done.”",
+      "zh": "“Uber 正将 AI 应用于各项业务。让数万名员工用上‘ChatGPT 工作’，是让更多人能够使用前沿 AI 能力和工具的重要一步。如今，Uber 各团队都能借助我们的一系列前沿模型和智能体，处理更复杂的工作，连接日常使用的工具，完成更多任务。”"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "—Greg Brockman, president and co-founder of OpenAI",
+      "en": "—Greg Brockman, president and co-founder of OpenAI",
+      "zh": "—Greg Brockman，OpenAI 总裁兼联合创始人"
+    },
+    {
+      "id": "p14",
+      "kind": "list",
+      "text": "Praveen Neppalli Naga",
+      "en": "Praveen Neppalli Naga",
+      "zh": "Praveen Neppalli Naga"
+    },
+    {
+      "id": "p15",
+      "kind": "list",
+      "text": "Greg Brockman",
+      "en": "Greg Brockman",
+      "zh": "Greg Brockman"
+    },
+    {
+      "id": "p16",
+      "kind": "list",
+      "text": "Praveen Neppalli Naga",
+      "en": "Praveen Neppalli Naga",
+      "zh": "Praveen Neppalli Naga"
+    },
+    {
+      "id": "p17",
+      "kind": "list",
+      "text": "Greg Brockman",
+      "en": "Greg Brockman",
+      "zh": "Greg Brockman"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "The expansion marks another step in Uber’s broader AI strategy and its collaboration with OpenAI. The companies plan to share further insights into adoption, use cases and measurable outcomes as the rollout progresses.",
+      "en": "The expansion marks another step in Uber’s broader AI strategy and its collaboration with OpenAI. The companies plan to share further insights into adoption, use cases and measurable outcomes as the rollout progresses.",
+      "zh": "此次扩大推广标志着 Uber 在整体 AI 战略以及与 OpenAI 的合作方面又迈出了一步。随着推广逐步推进，两家公司计划进一步介绍采用情况、应用场景和可量化的成效。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Uber 宣布，即日起在全公司推广“ChatGPT 工作”。这款智能体可在 ChatGPT Enterprise 中帮助员工处理各类任务。",
+      "en": "Uber announced the company-wide rollout of ChatGPT Work, an agent that helps employees take on a wide range of tasks within ChatGPT Enterprise, starting today. The rollout will make ChatGPT Work available to more than 30,000 employees across Uber’s global workforce."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "在最初面向 1,000 名员工开展试点后，Uber 将扩大部署范围，让各团队都能使用这一智能体平台，处理复杂的多步骤任务，并交付完整的工作成果。“ChatGPT 工作”也由此成为 Uber 首个在全公司范围内部署、专为知识工作打造的智能体平台。",
+      "en": "Expanding from an initial pilot of 1,000 employees, the rollout will give teams across Uber access to an agentic platform designed to take on complex, multi-step tasks and deliver finished work. The expansion makes ChatGPT Work Uber’s first company-wide deployment of an agentic platform tailored for knowledge work."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "“ChatGPT 工作”还让 Uber 能够使用 OpenAI 的一系列前沿模型。Uber 将受益于 GPT‑6.1 Sol 等模型。",
+      "en": "ChatGPT Work also gives Uber access to OpenAI’s portfolio of frontier models. Uber will benefit from models like GPT‑6.1 Sol which will be deployed as the default capability within ChatGPT Work, balancing frontier performance and cost efficiency."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "“Uber 正将 AI 应用于各项业务。让数万名员工用上‘ChatGPT 工作’，是让更多人能够使用前沿 AI 能力和工具的重要一步。",
+      "en": "“Uber is putting AI to work across its business, and bringing ChatGPT Work to tens of thousand employees is a big step toward expanding access to frontier AI capabilities and tools. Now teams across Uber can tap into our portfolio of frontier models and agents to take on more complex work, connect the tools they use every day, and get more done.”"
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout/",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/uber-chatgpt-work-rollout/",
+      "title": "Uber 携手 OpenAI，让全体员工用上“ChatGPT 工作”"
+    }
+  },
+  "contentHash": "c8892e0e753a57e032f67f6054ff2e58e467d251a399cdf112650cb2ee9b0100",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/uber-chatgpt-work-rollout/"
 }

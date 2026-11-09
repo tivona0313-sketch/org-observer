@@ -3,8 +3,233 @@
   "id": "rss-d948735545c20cf30721",
   "url": "https://openai.com/index/ropes-gray-ai-diligence",
   "sourceTitle": "How Ropes & Gray is developing AI for transactional diligence",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.368935+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.496025+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:55:30.564Z",
+  "finalURL": "https://openai.com/index/ropes-gray-ai-diligence/",
+  "language": "en",
+  "originalTitle": "How Ropes & Gray is developing AI for transactional diligence",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "In transactional diligence, lawyers need to work through large volumes of documents under tight deadlines. Ropes & Gray was an early adopter of AI in the legal industry, and in partnership with OpenAI, they are now developing a proprietary AI tool to provide more expertise to more clients.",
+      "en": "In transactional diligence, lawyers need to work through large volumes of documents under tight deadlines. Ropes & Gray was an early adopter of AI in the legal industry, and in partnership with OpenAI, they are now developing a proprietary AI tool to provide more expertise to more clients.",
+      "zh": "在交易尽职调查中，律师需要在紧迫的期限内审阅大量文件。Ropes & Gray 是法律行业较早采用 AI 的律所之一，如今正与 OpenAI 合作开发专有 AI 工具，为更多客户提供更全面的专业服务。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "“AI is really one of the key ways—if not the only way—to make sure you can maintain the same quality and consistency of advice while moving at a faster pace.”",
+      "en": "“AI is really one of the key ways—if not the only way—to make sure you can maintain the same quality and consistency of advice while moving at a faster pace.”",
+      "zh": "“要在加快工作节奏的同时，确保所提供建议的质量和一致性不打折扣，AI 即便不是唯一途径，也确实是关键途径之一。”"
+    },
+    {
+      "id": "p3",
+      "kind": "heading",
+      "text": "Building a first pass for commercial contract diligence",
+      "en": "Building a first pass for commercial contract diligence",
+      "zh": "为商业合同尽职调查打造初审工具"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Before finalizing any acquisition, the buyer must carry out a thorough investigation to validate the seller’s financial and legal claims. That process of transactional diligence uncovers risks and liabilities, requiring data-heavy research that usually involves an entire team of lawyers.",
+      "en": "Before finalizing any acquisition, the buyer must carry out a thorough investigation to validate the seller’s financial and legal claims. That process of transactional diligence uncovers risks and liabilities, requiring data-heavy research that usually involves an entire team of lawyers.",
+      "zh": "在完成任何收购之前，买方都必须开展全面调查，核实卖方在财务和法律方面的陈述。这一交易尽职调查过程旨在发现风险和相关责任，需要研究大量数据，通常要由一整个律师团队参与完成。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "From parsing through an enormous number of documents to analyzing patterns, putting together a bid on a short timeline can take days of intensive work. To help their lawyers help their clients move more quickly, Ropes & Gray developed a transactional diligence AI tool with OpenAI.",
+      "en": "From parsing through an enormous number of documents to analyzing patterns, putting together a bid on a short timeline can take days of intensive work. To help their lawyers help their clients move more quickly, Ropes & Gray developed a transactional diligence AI tool with OpenAI.",
+      "zh": "从梳理海量文件到分析其中的规律，要在短时间内拟定收购报价，可能需要数天的高强度工作。为了让律师能帮助客户更快推进交易，Ropes & Gray 与 OpenAI 合作开发了一款交易尽职调查 AI 工具。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "“It’s enabling all the lawyers at our firm to actually get to what we’re supposed to be doing,” says Howard Glazer, the Partner and Head of Practice AI at Ropes & Gray. “Our clients don’t pay us to review contracts. They pay us to make judgments based on what’s in the contracts.”",
+      "en": "“It’s enabling all the lawyers at our firm to actually get to what we’re supposed to be doing,” says Howard Glazer, the Partner and Head of Practice AI at Ropes & Gray. “Our clients don’t pay us to review contracts. They pay us to make judgments based on what’s in the contracts.”",
+      "zh": "Ropes & Gray 合伙人兼法律业务 AI 负责人 Howard Glazer 表示：“它让我们律所的所有律师都能真正专注于我们应该做的事。客户付费请我们，不是为了让我们审阅合同。而是为了让我们根据合同内容作出判断。”"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "The new diligence AI tool takes a first pass by combing through thousands of pages, identifying relevant documents and automatically grouping them together based on themes and issues. Along with the research, the tool produces summaries and a completed report in Ropes & Gray’s signature format. It inventories and categorizes a data room, so it can review full relationships, not isolated documents. Of course, lawyers can inspect the grouping and categorization to confirm nothing is missed.",
+      "en": "The new diligence AI tool takes a first pass by combing through thousands of pages, identifying relevant documents and automatically grouping them together based on themes and issues. Along with the research, the tool produces summaries and a completed report in Ropes & Gray’s signature format. It inventories and categorizes a data room, so it can review full relationships, not isolated documents. Of course, lawyers can inspect the grouping and categorization to confirm nothing is missed.",
+      "zh": "这款新的尽职调查 AI 工具会先进行初审，梳理数千页材料，找出相关文件，并按主题和问题自动分组。除了开展研究，该工具还会生成摘要，并按 Ropes & Gray 的专用格式出具完整报告。它会清点资料室中的文件并进行分类，从而能够审查完整的业务关系，而非孤立的文件。当然，律师可以检查分组和分类结果，确认没有遗漏。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "The initial development work has focused on material commercial contracts. In working sessions, Ropes & Gray’s lawyers compared test outputs with human-authored diligence reports from completed deals, then refined the rubric and report format based on what the drafts got right and where they fell short.",
+      "en": "The initial development work has focused on material commercial contracts. In working sessions, Ropes & Gray’s lawyers compared test outputs with human-authored diligence reports from completed deals, then refined the rubric and report format based on what the drafts got right and where they fell short.",
+      "zh": "初期开发工作主要聚焦于重大商业合同。在工作会议中，Ropes & Gray 的律师将测试输出与已完成交易中由律师撰写的尽职调查报告进行对比，再根据草稿的优点和不足，完善评估标准和报告格式。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Ropes & Gray designed the tool with a consistent query and framework that mimics the exact steps their team would take, from initial reviews to summaries to higher-level reviews. Comparable to the work of a capable junior-to-mid-level associate, this tool gives their firm consistently high-quality work that serves as a first pass through the process.",
+      "en": "Ropes & Gray designed the tool with a consistent query and framework that mimics the exact steps their team would take, from initial reviews to summaries to higher-level reviews. Comparable to the work of a capable junior-to-mid-level associate, this tool gives their firm consistently high-quality work that serves as a first pass through the process.",
+      "zh": "Ropes & Gray 为该工具设计了统一的查询方式和框架，精准模拟团队从初审、摘要编写到高级别复核的各个步骤。该工具的工作表现堪比能力出色的初中级律师，能为律所稳定地提供高质量成果，完成整个流程中的初审环节。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "“Our lawyers still need to review everything,” says Lichtenstein. “Because anything that we’re going to deliver to a client, we need to be able to stand behind 100%. This is why the tool is designed to allow lawyers to easily review interim summaries and actual documents.” With the initial review taken care of, lawyers can spend more time reviewing and refining the work, resulting in a more carefully crafted final judgment.",
+      "en": "“Our lawyers still need to review everything,” says Lichtenstein. “Because anything that we’re going to deliver to a client, we need to be able to stand behind 100%. This is why the tool is designed to allow lawyers to easily review interim summaries and actual documents.” With the initial review taken care of, lawyers can spend more time reviewing and refining the work, resulting in a more carefully crafted final judgment.",
+      "zh": "Lichtenstein 表示：“我们的律师仍然需要审查所有内容。因为凡是交付给客户的内容，我们都必须能够百分之百地为其负责。正因如此，我们在设计这款工具时，就确保律师能够轻松审查中间环节的摘要和原始文件。”初审完成后，律师可以投入更多时间复核和完善工作成果，从而作出更为审慎的最终判断。"
+    },
+    {
+      "id": "p11",
+      "kind": "heading",
+      "text": "Applying AI to complex transactions",
+      "en": "Applying AI to complex transactions",
+      "zh": "将 AI 应用于复杂交易"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Ropes & Gray has publicly described an ambition for the tool to produce a detailed, issue-level diligence report in hours rather than weeks.",
+      "en": "Ropes & Gray has publicly described an ambition for the tool to produce a detailed, issue-level diligence report in hours rather than weeks.",
+      "zh": "Ropes & Gray 曾公开表示，希望这款工具能在数小时内，而非数周内，生成一份细化到具体问题的详尽尽职调查报告。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "With tools like their proprietary diligence tool and GPT‑6 Astra, Ropes & Gray has been able to solve client problems far faster than before.",
+      "en": "With tools like their proprietary diligence tool and GPT‑6 Astra, Ropes & Gray has been able to solve client problems far faster than before.",
+      "zh": "借助其专有尽职调查工具和 GPT‑6 Astra 等工具，Ropes & Gray 解决客户问题的速度已远超以往。"
+    },
+    {
+      "id": "p14",
+      "kind": "heading",
+      "text": "Results at a glance",
+      "en": "Results at a glance",
+      "zh": "成效一览"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "The tool inventories and categorizes a data room, grouping related documents by themes and issues.",
+      "en": "The tool inventories and categorizes a data room, grouping related documents by themes and issues.",
+      "zh": "该工具清点资料室中的文件并进行分类，按主题和问题将相关文件分组。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "The workflow produces summaries and a report in Ropes & Gray’s format.",
+      "en": "The workflow produces summaries and a report in Ropes & Gray’s format.",
+      "zh": "该工作流程会生成摘要，并按 Ropes & Gray 的格式出具报告。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Lawyers review interim summaries and source documents before delivering work to clients.",
+      "en": "Lawyers review interim summaries and source documents before delivering work to clients.",
+      "zh": "在向客户交付成果之前，律师会审查中间环节的摘要和原始文件。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Testing compares draft outputs with lawyer-authored diligence reports to refine the rubric and report format.",
+      "en": "Testing compares draft outputs with lawyer-authored diligence reports to refine the rubric and report format.",
+      "zh": "测试时，会将生成的草稿与律师撰写的尽职调查报告进行对比，以完善评估标准和报告格式。"
+    },
+    {
+      "id": "p19",
+      "kind": "heading",
+      "text": "Leadership lessons",
+      "en": "Leadership lessons",
+      "zh": "管理者的经验分享"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "Lichtenstein and Glazer offer two lessons from their experience with AI.",
+      "en": "Lichtenstein and Glazer offer two lessons from their experience with AI.",
+      "zh": "Lichtenstein 和 Glazer 从各自使用 AI 的经历中总结了两条经验。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "Experiment with using AI for everything. From finding dress shoes to vibecoding games for his kids, Lichtenstein has been using AI in every facet of his life. “Just by using it for so many different things, I feel like I’ve learned a lot of what it does well, how you can make it work better,” Lichtenstein explains. “The most rewarding part is not when it does well, it’s when you see the mistake and try to figure out what to do. That’s where it transformed from something I was playing with to a really powerful professional tool.”",
+      "en": "Experiment with using AI for everything. From finding dress shoes to vibecoding games for his kids, Lichtenstein has been using AI in every facet of his life. “Just by using it for so many different things, I feel like I’ve learned a lot of what it does well, how you can make it work better,” Lichtenstein explains. “The most rewarding part is not when it does well, it’s when you see the mistake and try to figure out what to do. That’s where it transformed from something I was playing with to a really powerful professional tool.”",
+      "zh": "尝试将 AI 用于各种事情。从挑选正装鞋，到用自然语言让 AI 为孩子编写游戏，Lichtenstein 已将 AI 融入生活的方方面面。Lichtenstein 解释道：“正是因为用它做了这么多不同的事，我觉得自己越来越了解它擅长什么，以及怎样让它表现得更好。最有收获的时刻，不是它表现出色的时候，而是你发现了错误，并尝试找出应对办法的时候。也正是在这个过程中，它从一个我随手玩玩的东西，变成了真正强大的专业工具。”"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Put the clients first. While designing AI tools and workflows, Ropes & Gray emphasizes the importance of keeping the firm’s greatest goal in mind. “It’s exciting to think there is so much opportunity, but only if we learn how to use it and make sure that our clients are the ones who are winning,” says Glazer. “That’s what we’re focused on: how can we use this to benefit the clients? And if we do that, then everything will work out fine.”",
+      "en": "Put the clients first. While designing AI tools and workflows, Ropes & Gray emphasizes the importance of keeping the firm’s greatest goal in mind. “It’s exciting to think there is so much opportunity, but only if we learn how to use it and make sure that our clients are the ones who are winning,” says Glazer. “That’s what we’re focused on: how can we use this to benefit the clients? And if we do that, then everything will work out fine.”",
+      "zh": "将客户放在首位。在设计 AI 工具和工作流程时，Ropes & Gray 强调，必须始终牢记律所最重要的目标。Glazer 表示：“想到有这么多机会，确实令人兴奋，但前提是我们要学会如何使用它，并确保真正受益的是客户。我们关注的就是这一点：怎样利用它为客户带来益处？只要做到这一点，一切就会水到渠成。”"
+    },
+    {
+      "id": "p23",
+      "kind": "heading",
+      "text": "What’s next",
+      "en": "What’s next",
+      "zh": "未来展望"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "While today, AI is helping Ropes & Gray with legal diligence, Glazer believes that the next stage of AI will help create collective knowledge within the firm.",
+      "en": "While today, AI is helping Ropes & Gray with legal diligence, Glazer believes that the next stage of AI will help create collective knowledge within the firm.",
+      "zh": "如今，AI 正帮助 Ropes & Gray 开展法律尽职调查；而 Glazer 认为，下一阶段的 AI 将帮助律所汇聚集体知识。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "With 340 partners and 1500 lawyers, Ropes & Gray sees value in creating access to every person’s knowledge, from their client meetings to past projects, to better solve client problems.",
+      "en": "With 340 partners and 1500 lawyers, Ropes & Gray sees value in creating access to every person’s knowledge, from their client meetings to past projects, to better solve client problems.",
+      "zh": "Ropes & Gray 拥有 340 名合伙人和 1500 名律师。律所认为，让每个人在客户会议、过往项目等工作中积累的知识都能被查阅和利用，有助于更好地解决客户问题。"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "“That’s not just saving time. It’s not just saving money,” says Glazer. “It’s using the AI tools to directly create value, and that’s just amazing.”",
+      "en": "“That’s not just saving time. It’s not just saving money,” says Glazer. “It’s using the AI tools to directly create value, and that’s just amazing.”",
+      "zh": "“这不只是节省时间。也不只是节省成本。”Glazer 说道，“这是用 AI 工具直接创造价值，实在令人惊叹。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "在交易尽职调查中，律师需要在紧迫的期限内审阅大量文件。Ropes & Gray 是法律行业较早采用 AI 的律所之一，如今正与 OpenAI 合作开发专有 AI 工具，为更多客户提供更全面的专业服务。",
+      "en": "In transactional diligence, lawyers need to work through large volumes of documents under tight deadlines. Ropes & Gray was an early adopter of AI in the legal industry, and in partnership with OpenAI, they are now developing a proprietary AI tool to provide more expertise to more clients."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "在完成任何收购之前，买方都必须开展全面调查，核实卖方在财务和法律方面的陈述。这一交易尽职调查过程旨在发现风险和相关责任，需要研究大量数据，通常要由一整个律师团队参与完成。",
+      "en": "Before finalizing any acquisition, the buyer must carry out a thorough investigation to validate the seller’s financial and legal claims. That process of transactional diligence uncovers risks and liabilities, requiring data-heavy research that usually involves an entire team of lawyers."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "从梳理海量文件到分析其中的规律，要在短时间内拟定收购报价，可能需要数天的高强度工作。为了让律师能帮助客户更快推进交易，Ropes & Gray 与 OpenAI 合作开发了一款交易尽职调查 AI 工具。",
+      "en": "From parsing through an enormous number of documents to analyzing patterns, putting together a bid on a short timeline can take days of intensive work. To help their lawyers help their clients move more quickly, Ropes & Gray developed a transactional diligence AI tool with OpenAI."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "初期开发工作主要聚焦于重大商业合同。在工作会议中，Ropes & Gray 的律师将测试输出与已完成交易中由律师撰写的尽职调查报告进行对比，再根据草稿的优点和不足，完善评估标准和报告格式。",
+      "en": "The initial development work has focused on material commercial contracts. In working sessions, Ropes & Gray’s lawyers compared test outputs with human-authored diligence reports from completed deals, then refined the rubric and report format based on what the drafts got right and where they fell short."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/ropes-gray-ai-diligence/",
+      "title": "How Ropes & Gray is developing AI for transactional diligence"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/ropes-gray-ai-diligence/",
+      "title": "Ropes & Gray 如何开发用于交易尽职调查的 AI"
+    }
+  },
+  "contentHash": "016a29e636f45a0fc3ad73f3ed87c6abaf21d1929ea00404de2fa219d91dcf89",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/ropes-gray-ai-diligence/"
 }

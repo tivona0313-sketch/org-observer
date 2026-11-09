@@ -3,8 +3,114 @@
   "id": "rss-945f879ef3a469b4aebe",
   "url": "https://openai.com/index/dan-driscoll-joins-openai",
   "sourceTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.282694+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.327712+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:58:16.926Z",
+  "finalURL": "https://openai.com/index/dan-driscoll-joins-openai/",
+  "language": "en",
+  "originalTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Dan Driscoll will join OpenAI as Senior Counselor for National Security Modernization, working with senior leadership and external partners to advise on how advanced AI can strengthen national and cyber security, with a particular focus on working with U.S. allies to advance its responsible use.",
+      "en": "Dan Driscoll will join OpenAI as Senior Counselor for National Security Modernization, working with senior leadership and external partners to advise on how advanced AI can strengthen national and cyber security, with a particular focus on working with U.S. allies to advance its responsible use.",
+      "zh": "Dan Driscoll 将加入 OpenAI，担任国家安全现代化高级顾问。他将与高层领导及外部合作伙伴合作，就如何利用先进 AI 加强国家安全和网络安全提供建议，重点是与美国盟友携手，推动负责任地应用 AI。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "In this newly created role, Dan will work with OpenAI teams and leaders across governments, industry, academia, and allied institutions to advance practical modernization initiatives that support the buildout of democratic AI. He will also help internal OpenAI teams understand the operational needs of global national security institutions.",
+      "en": "In this newly created role, Dan will work with OpenAI teams and leaders across governments, industry, academia, and allied institutions to advance practical modernization initiatives that support the buildout of democratic AI. He will also help internal OpenAI teams understand the operational needs of global national security institutions.",
+      "zh": "在这一新设职位上，Dan 将与 OpenAI 各团队以及各国政府、业界、学术界和盟国机构的领导者合作，推进务实的现代化举措，支持符合民主价值观的 AI 建设。他还将帮助 OpenAI 内部团队了解世界各国国家安全机构的业务需求。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Dan previously served as the 26th Secretary of the Army, overseeing the service’s operations, modernization, and resources. He brings experience spanning military service, senior government leadership, and the private sector.",
+      "en": "Dan previously served as the 26th Secretary of the Army, overseeing the service’s operations, modernization, and resources. He brings experience spanning military service, senior government leadership, and the private sector.",
+      "zh": "Dan 曾担任第 26 任美国陆军部长，负责陆军的运作、现代化建设及资源管理。他拥有军队服役、担任政府高层领导职务以及在私营部门工作的经历。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "In his role, Dan will advise our public and private sector partners in modernizing policy and strategy choices to unlock practical uses of AI to improve national security and help ensure the world is building AI to support democratic principles. He will work to identify where operational needs, institutional change and emerging AI capabilities come together. Dan’s appointment reflects our commitment to helping democratic institutions use advanced AI responsibly to strengthen shared security, and builds on OpenAI’s work with allies and partners to strengthen cyber resilience and protect essential services under its Daybreak program.",
+      "en": "In his role, Dan will advise our public and private sector partners in modernizing policy and strategy choices to unlock practical uses of AI to improve national security and help ensure the world is building AI to support democratic principles. He will work to identify where operational needs, institutional change and emerging AI capabilities come together. Dan’s appointment reflects our commitment to helping democratic institutions use advanced AI responsibly to strengthen shared security, and builds on OpenAI’s work with allies and partners to strengthen cyber resilience and protect essential services under its Daybreak program.",
+      "zh": "在这一职位上，Dan 将为我们的公共和私营部门合作伙伴提供建议，帮助他们更新政策与战略，推动 AI 在加强国家安全方面的实际应用，并帮助确保世界各地的 AI 建设能够支持民主原则。他将着力寻找业务需求、机构变革与新兴 AI 能力的结合点。Dan 的任命体现了我们的承诺：帮助民主制度下的机构负责任地使用先进 AI，增进共同安全。此举也延续了 OpenAI 在 Daybreak 计划下与盟友及合作伙伴开展的工作，以增强网络韧性并保护关键服务。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "“AI should give people more power over their lives and people should have a say in how it’s developed. The US has an extraordinary opportunity to work with other countries to spread the adoption of democratic AI and I’m excited to welcome Dan Driscoll to OpenAI to strengthen American leadership and help us do that.”",
+      "en": "“AI should give people more power over their lives and people should have a say in how it’s developed. The US has an extraordinary opportunity to work with other countries to spread the adoption of democratic AI and I’m excited to welcome Dan Driscoll to OpenAI to strengthen American leadership and help us do that.”",
+      "zh": "“AI 应当让人们更有能力掌控自己的生活，人们也应在 AI 的开发过程中拥有发言权。美国迎来了难得的机遇，可以与其他国家携手，推动符合民主价值观的 AI 得到广泛应用。我很高兴欢迎 Dan Driscoll 加入 OpenAI，帮助我们巩固美国的领导地位，并实现这一目标。”"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Sam Altman",
+      "en": "Sam Altman",
+      "zh": "Sam Altman"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "“I’ve spent much of my career in public service, first as a Soldier and most recently as Secretary of the Army and Acting Director of ATF. The people who serve deserve the very best tools we can put in their hands. National security requirements are changing faster than at any time in the past fifty years. This technology will help them keep pace by cutting through paperwork, making sense of more information, and getting the right answer to the right person faster. I’m joining OpenAI to help the United States and our allies put this technology to work responsibly, for the people who keep us safe.”",
+      "en": "“I’ve spent much of my career in public service, first as a Soldier and most recently as Secretary of the Army and Acting Director of ATF. The people who serve deserve the very best tools we can put in their hands. National security requirements are changing faster than at any time in the past fifty years. This technology will help them keep pace by cutting through paperwork, making sense of more information, and getting the right answer to the right person faster. I’m joining OpenAI to help the United States and our allies put this technology to work responsibly, for the people who keep us safe.”",
+      "zh": "“我职业生涯的大部分时间都在从事公共服务，最初是一名军人，最近则担任陆军部长和美国烟酒枪炮及爆炸物管理局 (ATF) 代理局长。为国服务的人理应获得我们所能提供的最佳工具。国家安全需求的变化速度超过了过去五十年中的任何时期。这项技术将帮助他们简化文书工作、理解更多信息，并更快地将正确答案传递给需要的人，从而跟上变化的步伐。我加入 OpenAI，是为了帮助美国及我们的盟友负责任地运用这项技术，为守护我们安全的人提供支持。”"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Dan Driscoll",
+      "en": "Dan Driscoll",
+      "zh": "Dan Driscoll"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Dan Driscoll was the 26th Secretary of the United States Army. As Secretary, he oversaw operations, modernization, and resource allocation for nearly one million Active, Guard, and Reserve Soldiers and more than 265,000 Army Civilians. He drove Army transformation focused on accelerating the fielding of new technology, reforming acquisition, and building a more capable force. A former Army officer and business leader, Dan has experience spanning military service, law, and the private sector.",
+      "en": "Dan Driscoll was the 26th Secretary of the United States Army. As Secretary, he oversaw operations, modernization, and resource allocation for nearly one million Active, Guard, and Reserve Soldiers and more than 265,000 Army Civilians. He drove Army transformation focused on accelerating the fielding of new technology, reforming acquisition, and building a more capable force. A former Army officer and business leader, Dan has experience spanning military service, law, and the private sector.",
+      "zh": "Dan Driscoll 曾担任第 26 任美国陆军部长。任职期间，他统筹陆军的运作、现代化建设与资源分配，管理范围涵盖近百万名现役、国民警卫队和预备役军人，以及超过 26.5 万名陆军文职人员。他推动陆军转型，重点包括加快新技术列装、改革采购体系，以及打造能力更强的部队。Dan 曾任陆军军官和企业领导者，拥有军队服役、法律及私营部门的工作经验。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Dan Driscoll 将加入 OpenAI，担任国家安全现代化高级顾问。他将与高层领导及外部合作伙伴合作，就如何利用先进 AI 加强国家安全和网络安全提供建议，重点是与美国盟友携手，推动负责任地应用 AI。",
+      "en": "Dan Driscoll will join OpenAI as Senior Counselor for National Security Modernization, working with senior leadership and external partners to advise on how advanced AI can strengthen national and cyber security, with a particular focus on working with U.S. allies to advance its responsible use."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "在这一新设职位上，Dan 将与 OpenAI 各团队以及各国政府、业界、学术界和盟国机构的领导者合作，推进务实的现代化举措，支持符合民主价值观的 AI 建设。他还将帮助 OpenAI 内部团队了解世界各国国家安全机构的业务需求。",
+      "en": "In this newly created role, Dan will work with OpenAI teams and leaders across governments, industry, academia, and allied institutions to advance practical modernization initiatives that support the buildout of democratic AI. He will also help internal OpenAI teams understand the operational needs of global national security institutions."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "Dan 曾担任第 26 任美国陆军部长，负责陆军的运作、现代化建设及资源管理。他拥有军队服役、担任政府高层领导职务以及在私营部门工作的经历。",
+      "en": "Dan previously served as the 26th Secretary of the Army, overseeing the service’s operations, modernization, and resources. He brings experience spanning military service, senior government leadership, and the private sector."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "“AI 应当让人们更有能力掌控自己的生活，人们也应在 AI 的开发过程中拥有发言权。美国迎来了难得的机遇，可以与其他国家携手，推动符合民主价值观的 AI 得到广泛应用。",
+      "en": "“AI should give people more power over their lives and people should have a say in how it’s developed. The US has an extraordinary opportunity to work with other countries to spread the adoption of democratic AI and I’m excited to welcome Dan Driscoll to OpenAI to strengthen American leadership and help us do that.”"
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/dan-driscoll-joins-openai/",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/dan-driscoll-joins-openai/",
+      "title": "OpenAI 任命 Dan Driscoll 为国家安全现代化高级顾问"
+    }
+  },
+  "contentHash": "920d877c4d0a075f994eb62fea4f8fcfd0b19d61a1a08ba7c1fed3c497fa261f",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/dan-driscoll-joins-openai/"
 }

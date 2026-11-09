@@ -3,8 +3,221 @@
   "id": "rss-16681fd606d5f6994d06",
   "url": "https://openai.com/ads/customers/evernote",
   "sourceTitle": "Evernote turns AI-driven discovery into paid subscriptions",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.502502+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.548924+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:59:04.193Z",
+  "finalURL": "https://openai.com/ads/customers/evernote/",
+  "language": "en",
+  "originalTitle": "Evernote turns AI-driven discovery into paid subscriptions",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "~10–20%",
+      "en": "~10–20%",
+      "zh": "约 10%–20%"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "higher trial-to-paid conversion for Evernote’s core ChatGPT Ads campaigns, which focused on a single product feature, compared with its historical paid-acquisition average.1",
+      "en": "higher trial-to-paid conversion for Evernote’s core ChatGPT Ads campaigns, which focused on a single product feature, compared with its historical paid-acquisition average.1",
+      "zh": "Evernote 聚焦单一产品功能的核心 ChatGPT 广告活动，其免费试用转付费率比历史付费获客渠道的平均水平高出约 10%–20%。¹"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "~25%",
+      "en": "~25%",
+      "zh": "约 25%"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "of desktop visits from those same campaigns resulted in a new Evernote account.2",
+      "en": "of desktop visits from those same campaigns resulted in a new Evernote account.2",
+      "zh": "上述同一批广告活动带来的桌面端访问中，约 25% 最终注册了新的 Evernote 账户。²"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Giving new users a reason to start",
+      "en": "Giving new users a reason to start",
+      "zh": "给新用户一个开始使用的理由"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Evernote helps people capture, organize, and retrieve the knowledge they build over time. For longtime users, that collection of notes and ideas becomes a “second brain,” growing more useful as they add to it.",
+      "en": "Evernote helps people capture, organize, and retrieve the knowledge they build over time. For longtime users, that collection of notes and ideas becomes a “second brain,” growing more useful as they add to it.",
+      "zh": "Evernote 帮助人们记录、整理和检索长期积累的知识。对于长期用户而言，笔记和想法的集合会成为“第二大脑”，并随着内容不断增加而变得更有用。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "“The challenge is helping new users see enough value to become paying customers. We need to show people what Evernote can do for them and give them a clear reason to start using it.”",
+      "en": "“The challenge is helping new users see enough value to become paying customers. We need to show people what Evernote can do for them and give them a clear reason to start using it.”",
+      "zh": "“难点在于帮助新用户看到足够的价值，从而成为付费客户。我们需要向人们展示 Evernote 能为他们做什么，并给他们一个清晰的开始使用的理由。”"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "That challenge is also a question of relevance. Many people already know Evernote by name, but may not know how the product has evolved. As it develops AI capabilities, the company wants to show prospective users how its approach to capturing and organizing knowledge fits the way they work today.",
+      "en": "That challenge is also a question of relevance. Many people already know Evernote by name, but may not know how the product has evolved. As it develops AI capabilities, the company wants to show prospective users how its approach to capturing and organizing knowledge fits the way they work today.",
+      "zh": "这一挑战也关乎产品与用户需求的契合度。许多人早已听说过 Evernote，却可能不了解产品发生了哪些变化。随着公司发展 AI 能力，它希望向潜在用户展示，其记录和整理知识的方法如何适应他们今天的工作方式。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "ChatGPT Ads offered a way to introduce that evolving product to people already using AI to create and work with information.",
+      "en": "ChatGPT Ads offered a way to introduce that evolving product to people already using AI to create and work with information.",
+      "zh": "ChatGPT 广告提供了一个渠道，可以向已经使用 AI 创作和处理信息的人介绍这款持续演进的产品。"
+    },
+    {
+      "id": "p10",
+      "kind": "heading",
+      "text": "Connecting AI workflows with a place to keep knowledge",
+      "en": "Connecting AI workflows with a place to keep knowledge",
+      "zh": "连接 AI 工作流与知识存储空间"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Evernote’s starting point was a practical need: keeping information useful after it has been created. People working with conversations, notes, and transcriptions may want a place to organize that material and find it again. The team saw a natural role for Evernote in that workflow.",
+      "en": "Evernote’s starting point was a practical need: keeping information useful after it has been created. People working with conversations, notes, and transcriptions may want a place to organize that material and find it again. The team saw a natural role for Evernote in that workflow.",
+      "zh": "Evernote 的出发点是一项实际需求：让信息在生成之后仍然有用。处理对话、笔记和转录文本的人，可能需要一个整理这些材料并再次找到它们的地方。团队认为，Evernote 可以自然地融入这一工作流。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Its initial ads highlighted Evernote as a place to save and organize notes and transcriptions, drawing on messaging from strong-performing search campaigns. That gave the team a practical starting point for testing how those use cases resonated in ChatGPT.",
+      "en": "Its initial ads highlighted Evernote as a place to save and organize notes and transcriptions, drawing on messaging from strong-performing search campaigns. That gave the team a practical starting point for testing how those use cases resonated in ChatGPT.",
+      "zh": "最初的广告将 Evernote 定位为保存和整理笔记与转录文本的工具，沿用了效果较好的搜索广告中的传播信息。这为团队在 ChatGPT 中测试这些使用场景的吸引力提供了切实的起点。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "Ads directed people to Evernote’s website, including its homepage, with conversion campaigns optimized for new-account registrations. Using its own web analytics and subscription records, Evernote could follow that initial interest through to a free trial and a first subscription payment.",
+      "en": "Ads directed people to Evernote’s website, including its homepage, with conversion campaigns optimized for new-account registrations. Using its own web analytics and subscription records, Evernote could follow that initial interest through to a free trial and a first subscription payment.",
+      "zh": "广告将用户引导至 Evernote 网站，包括其首页；转化广告活动以新账户注册为优化目标。借助自有的网站分析数据和订阅记录，Evernote 能够追踪用户从最初兴趣，到免费试用，再到首次支付订阅费的过程。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "An Evernote ad in ChatGPT.",
+      "en": "An Evernote ad in ChatGPT.",
+      "zh": "ChatGPT 中的一则 Evernote 广告。"
+    },
+    {
+      "id": "p15",
+      "kind": "heading",
+      "text": "Seeing interest carry through to subscription",
+      "en": "Seeing interest carry through to subscription",
+      "zh": "观察兴趣如何转化为订阅"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "Evernote built its core campaigns—its primary group of ChatGPT Ads campaigns—around a single product feature. In the first month, around 25% of desktop visits from those campaigns resulted in a new account, giving the team an early indication that people were willing to try the product.2",
+      "en": "Evernote built its core campaigns—its primary group of ChatGPT Ads campaigns—around a single product feature. In the first month, around 25% of desktop visits from those campaigns resulted in a new account, giving the team an early indication that people were willing to try the product.2",
+      "zh": "Evernote 围绕单一产品功能构建了其核心广告活动，也就是主要的一组 ChatGPT 广告活动。首个月，这些活动带来的桌面端访问中，约 25% 注册了新账户。这为团队提供了早期迹象，表明人们愿意试用产品。²"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Evernote also saw promise in the step that mattered most to its subscription business. New users from those same campaigns converted from free trial to paid subscription at a rate about 10–20% higher than the historical average earlier this year across its paid acquisition channels.1 For a team focused on helping new users discover enough value to subscribe, that was a meaningful early finding.",
+      "en": "Evernote also saw promise in the step that mattered most to its subscription business. New users from those same campaigns converted from free trial to paid subscription at a rate about 10–20% higher than the historical average earlier this year across its paid acquisition channels.1 For a team focused on helping new users discover enough value to subscribe, that was a meaningful early finding.",
+      "zh": "Evernote 在订阅业务最重要的一步也看到了积极信号。同一批广告活动带来的新用户，从免费试用转为付费订阅的比例，比今年早些时候各付费获客渠道的历史平均水平高出约 10%–20%。¹ 对于一个致力于让新用户发现足够价值、进而订阅的团队而言，这是一项有意义的早期发现。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Evernote is treating those first-month results as encouraging and directional while it tests whether the performance can hold as the channel grows.",
+      "en": "Evernote is treating those first-month results as encouraging and directional while it tests whether the performance can hold as the channel grows.",
+      "zh": "Evernote 将首月结果视为令人鼓舞、具有方向性参考价值的信号，同时仍在检验：随着渠道规模扩大，这样的表现能否持续。"
+    },
+    {
+      "id": "p19",
+      "kind": "heading",
+      "text": "Helping more users discover where Evernote fits",
+      "en": "Helping more users discover where Evernote fits",
+      "zh": "帮助更多用户发现 Evernote 如何融入工作"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "Evernote’s next step is to make the connection between its product and AI workflows more tangible. The team plans to explore additional use cases and develop creative and dedicated landing pages that show people how Evernote can fit into their own work.",
+      "en": "Evernote’s next step is to make the connection between its product and AI workflows more tangible. The team plans to explore additional use cases and develop creative and dedicated landing pages that show people how Evernote can fit into their own work.",
+      "zh": "Evernote 下一步计划让产品与 AI 工作流之间的联系更加具体。团队将探索更多使用场景，并开发创意内容和专用落地页，向人们展示 Evernote 如何融入各自的工作。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "“We saw a natural fit between people using ChatGPT and what Evernote offers. What stood out in the early results was how well new users converted to paid subscriptions. For us, that was an encouraging sign that we were reaching people who found real value in the product.”",
+      "en": "“We saw a natural fit between people using ChatGPT and what Evernote offers. What stood out in the early results was how well new users converted to paid subscriptions. For us, that was an encouraging sign that we were reaching people who found real value in the product.”",
+      "zh": "“我们看到，ChatGPT 用户与 Evernote 提供的能力之间存在自然契合。早期结果中最突出的是，新用户转为付费订阅的表现很好。对我们而言，这是一个令人鼓舞的信号，说明我们触达了能从产品中获得真实价值的人。”"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Source: Evernote’s first-party web analytics and subscription records. Evernote attributed a new account to ChatGPT Ads when the user’s first tagged visit came from a ChatGPT ad click.",
+      "en": "Source: Evernote’s first-party web analytics and subscription records. Evernote attributed a new account to ChatGPT Ads when the user’s first tagged visit came from a ChatGPT ad click.",
+      "zh": "来源：Evernote 自有的网站分析数据和订阅记录。当用户第一次带有追踪标记的访问来自对 ChatGPT 广告的点击时，Evernote 将其新账户归因于 ChatGPT 广告。"
+    },
+    {
+      "id": "p23",
+      "kind": "heading",
+      "text": "Footnotes",
+      "en": "Footnotes",
+      "zh": "注释"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "Trial-to-paid conversion. Evernote compared the share of free trials that reached a first subscription payment. Trials from the featured ChatGPT Ads campaigns started August 28–September 12, 2026. Trials in the historical paid-acquisition benchmark started March–August 2026. The comparison does not establish incremental lift.",
+      "en": "Trial-to-paid conversion. Evernote compared the share of free trials that reached a first subscription payment. Trials from the featured ChatGPT Ads campaigns started August 28–September 12, 2026. Trials in the historical paid-acquisition benchmark started March–August 2026. The comparison does not establish incremental lift.",
+      "zh": "免费试用转付费率。Evernote 比较的是免费试用用户中完成首次订阅付款的比例。本文所述 ChatGPT 广告活动带来的试用开始于 2026 年 8 月 28 日至 9 月 12 日；历史付费获客基准中的试用开始于 2026 年 3 月至 8 月。这一比较并不能证明增量提升。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "Desktop registration. Evernote divided new accounts from the featured campaigns by desktop visits from those campaigns during September 14–28, 2026.",
+      "en": "Desktop registration. Evernote divided new accounts from the featured campaigns by desktop visits from those campaigns during September 14–28, 2026.",
+      "zh": "桌面端注册率。Evernote 使用 2026 年 9 月 14 日至 28 日期间，本文所述广告活动带来的新账户数，除以这些活动带来的桌面端访问量。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "Evernote 聚焦单一产品功能的核心 ChatGPT 广告活动，其免费试用转付费率比历史付费获客渠道的平均水平高出约 10%–20%。¹",
+      "en": "higher trial-to-paid conversion for Evernote’s core ChatGPT Ads campaigns, which focused on a single product feature, compared with its historical paid-acquisition average.1"
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "上述同一批广告活动带来的桌面端访问中，约 25% 最终注册了新的 Evernote 账户。²",
+      "en": "of desktop visits from those same campaigns resulted in a new Evernote account.2"
+    },
+    {
+      "paragraphId": "p17",
+      "zh": "Evernote 在订阅业务最重要的一步也看到了积极信号。同一批广告活动带来的新用户，从免费试用转为付费订阅的比例，比今年早些时候各付费获客渠道的历史平均水平高出约 10%–20%。",
+      "en": "Evernote also saw promise in the step that mattered most to its subscription business. New users from those same campaigns converted from free trial to paid subscription at a rate about 10–20% higher than the historical average earlier this year across its paid acquisition channels.1 For a team focused on helping new users discover enough value to subscribe, that was a meaningful early finding."
+    },
+    {
+      "paragraphId": "p24",
+      "zh": "免费试用转付费率。Evernote 比较的是免费试用用户中完成首次订阅付款的比例。",
+      "en": "Trial-to-paid conversion. Evernote compared the share of free trials that reached a first subscription payment."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "ai-reviewed",
+  "translation": "AI translation checked against source paragraphs",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/ads/customers/evernote/",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions"
+    }
+  },
+  "contentHash": "eeb3ef4e4482cfea1f573cf294261eecaa2a7190cbabcd18b8db9c0e999e1cad",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00"
 }

@@ -3,8 +3,198 @@
   "id": "rss-a9c488820a62ac4adcd9",
   "url": "https://openai.com/index/greptile-code-review-codex-astra",
   "sourceTitle": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.595387+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.628414+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:58:00.751Z",
+  "finalURL": "https://openai.com/index/greptile-code-review-codex-astra/",
+  "language": "en",
+  "originalTitle": "Greptile takes bug detection beyond code review with GPT‑6 Astra",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Greptile builds AI agents that review and test code changes with full context of the codebase. “We are in the business of reducing bugs and making the world’s software more reliable,” says Co-founder and CEO Daksh Gupta.",
+      "en": "Greptile builds AI agents that review and test code changes with full context of the codebase. “We are in the business of reducing bugs and making the world’s software more reliable,” says Co-founder and CEO Daksh Gupta.",
+      "zh": "Greptile 构建的 AI 智能体能够全面掌握代码库的上下文，对代码变更进行审查和测试。联合创始人兼首席执行官 Daksh Gupta 表示：“我们的工作就是减少缺陷，让全世界的软件更加可靠。”"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "For Daksh, that mission requires testing an application’s behavior as well as reading its code, and GPT‑6 Astra’s computer use gives Greptile a way to automate testing at scale.",
+      "en": "For Daksh, that mission requires testing an application’s behavior as well as reading its code, and GPT‑6 Astra’s computer use gives Greptile a way to automate testing at scale.",
+      "zh": "在 Daksh 看来，要实现这一使命，不仅要阅读代码，还要测试应用的实际行为。GPT‑6 Astra 的计算机操作能力让 Greptile 能够大规模开展自动化测试。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "“For the first time ever, computer use is in a place where you can automate the experience of having a user try to break your application and allow large companies to ship much more confidently.”",
+      "en": "“For the first time ever, computer use is in a place where you can automate the experience of having a user try to break your application and allow large companies to ship much more confidently.”",
+      "zh": "“计算机操作能力首次达到了这样的水平：可以自动模拟用户操作，尝试找出应用中会出问题的地方，让大型企业在发布时更有信心。”"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "—Daksh Gupta, Co-founder and CEO, Greptile",
+      "en": "—Daksh Gupta, Co-founder and CEO, Greptile",
+      "zh": "—Daksh Gupta，Greptile 联合创始人兼首席执行官"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Testing applications at scale with GPT‑6 Astra",
+      "en": "Testing applications at scale with GPT‑6 Astra",
+      "zh": "借助 GPT‑6 Astra 大规模测试应用"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Validating a pull request involves checking whether the code is logically correct, does what the developer intended, is secure, and avoids breaking existing functionality. For some of that testing, you need to actually run the application because reading the code alone might not reveal the problem.",
+      "en": "Validating a pull request involves checking whether the code is logically correct, does what the developer intended, is secure, and avoids breaking existing functionality. For some of that testing, you need to actually run the application because reading the code alone might not reveal the problem.",
+      "zh": "验证一个 Pull Request，需要检查代码逻辑是否正确、是否实现了开发者的预期、是否安全，以及是否会破坏现有功能。其中一些测试需要实际运行应用，因为单看代码未必能发现问题。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Daksh gives the example of a button that disappears when a website is viewed on an iPhone. With GPT‑6 Astra, Greptile can start a development server for a pull request, resize the browser to an iPhone-sized viewport, and simulate a user moving through the application. The model’s visual understanding lets it inspect the screen and spot the hidden button.",
+      "en": "Daksh gives the example of a button that disappears when a website is viewed on an iPhone. With GPT‑6 Astra, Greptile can start a development server for a pull request, resize the browser to an iPhone-sized viewport, and simulate a user moving through the application. The model’s visual understanding lets it inspect the screen and spot the hidden button.",
+      "zh": "Daksh 举了一个例子：在 iPhone 上浏览网站时，某个按钮会消失。借助 GPT‑6 Astra，Greptile 可以针对某个 Pull Request 启动开发服务器，将浏览器视口调整为 iPhone 屏幕大小，并模拟用户在应用中的操作。模型凭借视觉理解能力检查屏幕，就能发现按钮被隐藏的问题。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "“A QA firm testing all of your changes is just impractically slow considering how fast we’re able to ship code with these models,” he says. With GPT‑6 Astra, Greptile can automate this kind of application testing at scale.",
+      "en": "“A QA firm testing all of your changes is just impractically slow considering how fast we’re able to ship code with these models,” he says. With GPT‑6 Astra, Greptile can automate this kind of application testing at scale.",
+      "zh": "他说：“有了这些模型，我们交付代码的速度非常快。如果让质量保证公司来测试所有变更，速度根本跟不上，实际上行不通。”借助 GPT‑6 Astra，Greptile 可以大规模自动执行这类应用测试。"
+    },
+    {
+      "id": "p9",
+      "kind": "heading",
+      "text": "Strengthening customers’ defenses with Daybreak",
+      "en": "Strengthening customers’ defenses with Daybreak",
+      "zh": "借助 Daybreak 加强客户的安全防护"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Daksh says more powerful models also make it easier for attackers to exploit applications, putting companies at risk, even those that previously would not have been typical targets.",
+      "en": "Daksh says more powerful models also make it easier for attackers to exploit applications, putting companies at risk, even those that previously would not have been typical targets.",
+      "zh": "Daksh 表示，更强大的模型也让攻击者更容易利用应用漏洞，使企业面临风险，就连以往不太会成为攻击目标的企业也不例外。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "“We want to make it very easy for even a startup to secure their systems,” says Daksh. “With Daybreak, we’re able to do this in a way that is very safe, and we can ensure that our customers have more sophisticated defense mechanisms than the adversaries have offense mechanisms.”",
+      "en": "“We want to make it very easy for even a startup to secure their systems,” says Daksh. “With Daybreak, we’re able to do this in a way that is very safe, and we can ensure that our customers have more sophisticated defense mechanisms than the adversaries have offense mechanisms.”",
+      "zh": "Daksh 说：“我们希望即使是初创公司，也能轻松保障自身系统的安全。有了 Daybreak，我们就能以非常安全的方式做到这一点，并确保客户的防御机制比对手的攻击机制更先进。”"
+    },
+    {
+      "id": "p12",
+      "kind": "heading",
+      "text": "Reducing bugs and rework with Codex",
+      "en": "Reducing bugs and rework with Codex",
+      "zh": "借助 Codex 减少缺陷和返工"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "Greptile’s Knowledge Base indexes a company’s codebase and documents how it works in a form people and agents can read. The company makes that documentation available to Codex through a Model Context Protocol (MCP) server.",
+      "en": "Greptile’s Knowledge Base indexes a company’s codebase and documents how it works in a form people and agents can read. The company makes that documentation available to Codex through a Model Context Protocol (MCP) server.",
+      "zh": "Greptile 的知识库为企业代码库建立索引，并以人和智能体都能阅读的形式，记录代码库的工作原理。Greptile 通过模型上下文协议（MCP）服务器，向 Codex 提供这些文档。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "This allows Codex to write code that follows the customer’s existing patterns, and thousands of customers have connected Codex to Greptile’s knowledge base, according to Daksh.",
+      "en": "This allows Codex to write code that follows the customer’s existing patterns, and thousands of customers have connected Codex to Greptile’s knowledge base, according to Daksh.",
+      "zh": "这样，Codex 就能按照客户现有的代码模式编写代码。据 Daksh 介绍，已有数千家客户将 Codex 连接到 Greptile 的知识库。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "To measure the impact, the team tracks how often AI-generated code is reverted. “When we provide agents with context, fewer reverts happen and customers save time and save inference,” Daksh says. Customers can put those savings toward new work instead of reworking the same changes.",
+      "en": "To measure the impact, the team tracks how often AI-generated code is reverted. “When we provide agents with context, fewer reverts happen and customers save time and save inference,” Daksh says. Customers can put those savings toward new work instead of reworking the same changes.",
+      "zh": "为了衡量成效，团队会跟踪 AI 生成的代码被回退的频率。Daksh 表示：“当我们向智能体提供上下文后，代码回退就会减少，客户既节省了时间，也减少了推理资源消耗。”客户可以将节省下来的时间和资源投入新工作，而不必在同一处变更上反复返工。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "Greptile also uses Codex to build its own software and agents. “We are massive users of Codex,” Daksh says. “We have enormous amounts of usage across every single function, engineering in particular.”",
+      "en": "Greptile also uses Codex to build its own software and agents. “We are massive users of Codex,” Daksh says. “We have enormous amounts of usage across every single function, engineering in particular.”",
+      "zh": "Greptile 也使用 Codex 构建自己的软件和智能体。Daksh 说：“我们是 Codex 的重度用户。每个职能部门的使用量都非常大，尤其是工程团队。”"
+    },
+    {
+      "id": "p17",
+      "kind": "heading",
+      "text": "Looking ahead to faster development with Ultrafast",
+      "en": "Looking ahead to faster development with Ultrafast",
+      "zh": "期待借助 Ultrafast 加快开发"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "For Greptile, Daksh explains, the only real bottleneck is how quickly the team can turn ideas into working software. He says model intelligence is already sufficient for many tasks, so he sees Ultrafast as a way to speed up development.",
+      "en": "For Greptile, Daksh explains, the only real bottleneck is how quickly the team can turn ideas into working software. He says model intelligence is already sufficient for many tasks, so he sees Ultrafast as a way to speed up development.",
+      "zh": "Daksh 解释说，对 Greptile 而言，唯一真正的瓶颈，是团队能多快将想法变成可运行的软件。他表示，模型的智能水平已经足以应对许多任务，因此他看重 Ultrafast 加快开发速度的潜力。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "“I’m most excited about Ultrafast as a lever for us to move exactly as fast as we can come up with good ideas.”",
+      "en": "“I’m most excited about Ultrafast as a lever for us to move exactly as fast as we can come up with good ideas.”",
+      "zh": "“Ultrafast 最让我兴奋的，是它能让我们的推进速度跟上好点子涌现的速度。”"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "—Daksh Gupta, Co-founder and CEO, Greptile",
+      "en": "—Daksh Gupta, Co-founder and CEO, Greptile",
+      "zh": "—Daksh Gupta，Greptile 联合创始人兼首席执行官"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "His longer-term goal is to make changing and shipping critical enterprise software as easy as shipping a side project, with OpenAI helping Greptile build the validation that requires.",
+      "en": "His longer-term goal is to make changing and shipping critical enterprise software as easy as shipping a side project, with OpenAI helping Greptile build the validation that requires.",
+      "zh": "他的长远目标是，让修改和发布关键企业软件像发布业余项目一样轻松，而 OpenAI 正在帮助 Greptile 构建实现这一目标所需的验证能力。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Greptile 构建的 AI 智能体能够全面掌握代码库的上下文，对代码变更进行审查和测试。联合创始人兼首席执行官 Daksh Gupta 表示：“我们的工作就是减少缺陷，让全世界的软件更加可靠。",
+      "en": "Greptile builds AI agents that review and test code changes with full context of the codebase. “We are in the business of reducing bugs and making the world’s software more reliable,” says Co-founder and CEO Daksh Gupta."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "在 Daksh 看来，要实现这一使命，不仅要阅读代码，还要测试应用的实际行为。GPT‑6 Astra 的计算机操作能力让 Greptile 能够大规模开展自动化测试。",
+      "en": "For Daksh, that mission requires testing an application’s behavior as well as reading its code, and GPT‑6 Astra’s computer use gives Greptile a way to automate testing at scale."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "Daksh 举了一个例子：在 iPhone 上浏览网站时，某个按钮会消失。借助 GPT‑6 Astra，Greptile 可以针对某个 Pull Request 启动开发服务器，将浏览器视口调整为 iPhone 屏幕大小，并模拟用户在应用中的操作。",
+      "en": "Daksh gives the example of a button that disappears when a website is viewed on an iPhone. With GPT‑6 Astra, Greptile can start a development server for a pull request, resize the browser to an iPhone-sized viewport, and simulate a user moving through the application."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "他说：“有了这些模型，我们交付代码的速度非常快。如果让质量保证公司来测试所有变更，速度根本跟不上，实际上行不通。",
+      "en": "“A QA firm testing all of your changes is just impractically slow considering how fast we’re able to ship code with these models,” he says. With GPT‑6 Astra, Greptile can automate this kind of application testing at scale."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/greptile-code-review-codex-astra/",
+      "title": "Greptile takes bug detection beyond code review with GPT‑6 Astra"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/greptile-code-review-codex-astra/",
+      "title": "Greptile 借助 GPT‑6 Astra，让缺陷检测不止于代码审查"
+    }
+  },
+  "contentHash": "9bddf94c5dc028986cae1b52b313cb2228505e160bf667c44dbb766800d7e789",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/greptile-code-review-codex-astra/"
 }

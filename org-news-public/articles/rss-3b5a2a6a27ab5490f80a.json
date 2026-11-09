@@ -3,8 +3,212 @@
   "id": "rss-3b5a2a6a27ab5490f80a",
   "url": "https://openai.com/index/anima",
   "sourceTitle": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.697890+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.733824+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:52:48.531Z",
+  "finalURL": "https://openai.com/index/anima/",
+  "language": "en",
+  "originalTitle": "Anima helps clinics cut call waits by 75% with GPT‑6 and GPT‑Live",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Patient requests, clinical letters, and consultation notes all create work that care teams must review and act on. When that work builds up, patients can wait longer for a response, and important information can sit in queues.",
+      "en": "Patient requests, clinical letters, and consultation notes all create work that care teams must review and act on. When that work builds up, patients can wait longer for a response, and important information can sit in queues.",
+      "zh": "患者请求、临床信函和诊疗记录，都需要医疗团队审阅并采取相应行动。一旦这些工作积压，患者等待回复的时间就可能变长，重要信息也可能迟迟得不到处理。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Anima brings these workflows into one platform, with specialized AI teammates that gather patient histories, process documents, and draft clinical notes for care teams. Its vision is personalized healthcare for everyone, guided by the conviction that care should follow need.",
+      "en": "Anima brings these workflows into one platform, with specialized AI teammates that gather patient histories, process documents, and draft clinical notes for care teams. Its vision is personalized healthcare for everyone, guided by the conviction that care should follow need.",
+      "zh": "Anima 将这些工作流程整合到一个平台，由各有所长的 AI 队友帮助医疗团队采集病史、处理文档和起草诊疗记录。Anima 坚信医疗服务应以需求为导向，致力于让每个人都能获得个性化医疗服务。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Anima began in the UK, where it now serves over 14 million patients across more than 1,000 clinics and processes more than 800,000 cases a month. It’s expanding into the US, Australia, and beyond. The company uses GPT‑6 models in its document workflows and GPT‑Live for calls, selecting OpenAI after benchmarking all closed-source and open-source models, according to Shun Pang, Anima’s CEO and co-founder.",
+      "en": "Anima began in the UK, where it now serves over 14 million patients across more than 1,000 clinics and processes more than 800,000 cases a month. It’s expanding into the US, Australia, and beyond. The company uses GPT‑6 models in its document workflows and GPT‑Live for calls, selecting OpenAI after benchmarking all closed-source and open-source models, according to Shun Pang, Anima’s CEO and co-founder.",
+      "zh": "Anima 起步于英国，如今已通过当地 1,000 多家诊所服务超过 1,400 万名患者，每月处理超过 80 万个个案。目前，Anima 正向美国、澳大利亚及其他市场拓展。据 Anima 首席执行官兼联合创始人 Shun Pang 介绍，公司在对所有闭源和开源模型进行基准测试后选择了 OpenAI，在文档工作流程中使用 GPT‑6 模型，并使用 GPT‑Live 处理电话来电。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "“We chose OpenAI for Anima’s mission-critical workloads because of superior intelligence, intelligence per dollar, and steerability with in-context learning.”",
+      "en": "“We chose OpenAI for Anima’s mission-critical workloads because of superior intelligence, intelligence per dollar, and steerability with in-context learning.”",
+      "zh": "“我们选择 OpenAI 来支持 Anima 的关键业务，是因为它不仅智能水平出众，每一美元投入所能获得的智能也更高，而且可以通过上下文学习有效引导模型行为。”"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Helping patients’ calls get through, and helping care teams serve them",
+      "en": "Helping patients’ calls get through, and helping care teams serve them",
+      "zh": "让患者更快接通电话，让医疗团队更好地提供服务"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Before he started Anima, Shun had gone through clinical training, where he saw a patient miss potentially life-saving care because abnormal test results sat in a queue for six months. He came to believe that the problem with healthcare wasn’t about medicine, but about how information moved through the system. He built Anima to give care teams more capacity to respond to patients’ needs. The platform brings patient requests, clinical documents, and follow-up work into one place.",
+      "en": "Before he started Anima, Shun had gone through clinical training, where he saw a patient miss potentially life-saving care because abnormal test results sat in a queue for six months. He came to believe that the problem with healthcare wasn’t about medicine, but about how information moved through the system. He built Anima to give care teams more capacity to respond to patients’ needs. The platform brings patient requests, clinical documents, and follow-up work into one place.",
+      "zh": "创立 Anima 之前，Shun 曾接受临床培训。那时，他目睹一位患者的异常检查结果被搁置了六个月，因而错失了可能挽救生命的治疗。这让他逐渐意识到，医疗服务的问题不在于医学本身，而在于信息如何在整个体系中流转。他创立 Anima，就是为了让医疗团队有更多精力响应患者需求。该平台将患者请求、临床文档和后续跟进工作集中到一处。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Anima’s AI receptionist, Andi, is built on GPT‑Live. Patients can describe their symptoms over the phone to Andi, while Anima’s proprietary policy engine guides the conversation through deterministic, clinically approved intake workflows. GPT‑5.4 mini then selects the appropriate questionnaire, and the completed medical history appears as a structured case in the clinic dashboard. Doctors and clinic staff can review the case and take action from there.",
+      "en": "Anima’s AI receptionist, Andi, is built on GPT‑Live. Patients can describe their symptoms over the phone to Andi, while Anima’s proprietary policy engine guides the conversation through deterministic, clinically approved intake workflows. GPT‑5.4 mini then selects the appropriate questionnaire, and the completed medical history appears as a structured case in the clinic dashboard. Doctors and clinic staff can review the case and take action from there.",
+      "zh": "Anima 的 AI 接待员 Andi 基于 GPT‑Live 构建。患者可以通过电话向 Andi 描述症状，Anima 的专有策略引擎则引导对话，按照确定性的、经临床认可的接诊流程进行。随后，GPT‑5.4 mini 会选择合适的问卷，采集完成的病史则以结构化个案的形式呈现在诊所控制面板中。医生和诊所工作人员可以在此审阅个案，并采取相应行动。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Anima reports that clinics using Andi have reduced phone waits from 40 to 50 minutes to 10 minutes, a reduction of at least 75%. In Anima’s patient surveys, 86% said they would use Andi again. Anima found that people in their 80s and 90s were among its happiest users. “They’re very happy to talk to a voice agent,” says Shun. “It’s infinitely patient and very polite.”",
+      "en": "Anima reports that clinics using Andi have reduced phone waits from 40 to 50 minutes to 10 minutes, a reduction of at least 75%. In Anima’s patient surveys, 86% said they would use Andi again. Anima found that people in their 80s and 90s were among its happiest users. “They’re very happy to talk to a voice agent,” says Shun. “It’s infinitely patient and very polite.”",
+      "zh": "据 Anima 报告，使用 Andi 的诊所已将电话等待时间从 40 至 50 分钟缩短至 10 分钟，降幅至少达 75%。在 Anima 的患者调查中，86% 的受访者表示愿意再次使用 Andi。Anima 发现，八九十岁的老人也是满意度最高的用户群体之一。“他们非常愿意和语音智能体交谈，”Shun 说，“它有无限的耐心，而且非常有礼貌。”"
+    },
+    {
+      "id": "p9",
+      "kind": "heading",
+      "text": "Clearing 100,000 documents within days",
+      "en": "Clearing 100,000 documents within days",
+      "zh": "几天内处理完 10 万份积压文档"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Anima’s Documents product uses GPT‑6 models to extract information from incoming clinical documents such as the sender, recipient, document type, and event dates. A multi-stage pipeline then matches each document to the correct patient, identifies the appropriate clinical codes, and suggests the next action for clinic staff to review.",
+      "en": "Anima’s Documents product uses GPT‑6 models to extract information from incoming clinical documents such as the sender, recipient, document type, and event dates. A multi-stage pipeline then matches each document to the correct patient, identifies the appropriate clinical codes, and suggests the next action for clinic staff to review.",
+      "zh": "Anima 的 Documents 产品使用 GPT‑6 模型，从收到的临床文档中提取发件人、收件人、文档类型和事件日期等信息。随后，多阶段处理流程会将每份文档匹配到对应患者，识别合适的临床编码，并提出下一步行动建议，供诊所工作人员审核。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Clinical coding proved to be one of the hardest technical problems to solve. “There are around 800,000 possible SNOMED codes,” says Michael Skupien, Engineering Lead at Anima. “Only a fraction are used regularly, but different practices still make different decisions about which codes to use.”",
+      "en": "Clinical coding proved to be one of the hardest technical problems to solve. “There are around 800,000 possible SNOMED codes,” says Michael Skupien, Engineering Lead at Anima. “Only a fraction are used regularly, but different practices still make different decisions about which codes to use.”",
+      "zh": "实践证明，临床编码是最难解决的技术问题之一。“可选的 SNOMED 编码大约有 80 万个，”Anima 工程负责人 Michael Skupien 说，“虽然经常使用的只占一小部分，但不同诊所在选择编码时仍然各有偏好。”"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Rather than ask clinics to configure the system or fine-tune separate models for each customer, Anima uses in-context learning to adapt model decisions to each practice. This approach requires models that can follow instructions consistently.",
+      "en": "Rather than ask clinics to configure the system or fine-tune separate models for each customer, Anima uses in-context learning to adapt model decisions to each practice. This approach requires models that can follow instructions consistently.",
+      "zh": "Anima 没有要求诊所自行配置系统，也没有为每位客户单独微调模型，而是采用上下文学习，让模型的决策适应各家诊所的做法。这种方法要求模型能够始终如一地遵循指令。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "“All of OpenAI’s models are really good at following instructions, easy to steer, and reliable in that steering.”",
+      "en": "“All of OpenAI’s models are really good at following instructions, easy to steer, and reliable in that steering.”",
+      "zh": "“OpenAI 的所有模型都非常善于遵循指令，很容易引导，而且能可靠地按照引导执行。”"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "According to Anima, practices that used to process about 15 documents per hour typically process 30 to 45. Top-performing clinics process 45 to 60. “We’ve seen clinics clear document backlogs of more than 100,000 documents within days of adopting Anima,” says Shun. “That means important updates and medication changes reach clinicians promptly instead of sitting in a queue for months.”",
+      "en": "According to Anima, practices that used to process about 15 documents per hour typically process 30 to 45. Top-performing clinics process 45 to 60. “We’ve seen clinics clear document backlogs of more than 100,000 documents within days of adopting Anima,” says Shun. “That means important updates and medication changes reach clinicians promptly instead of sitting in a queue for months.”",
+      "zh": "据 Anima 介绍，以前每小时处理约 15 份文档的诊所，如今通常能处理 30 至 45 份，表现最好的诊所则能处理 45 至 60 份。“我们看到，有诊所在采用 Anima 后的几天内，就处理完了超过 10 万份积压文档，”Shun 说，“这意味着，重要的病情更新和用药调整能够及时传达给临床医生，而不是积压数月。”"
+    },
+    {
+      "id": "p15",
+      "kind": "heading",
+      "text": "Drafting clinical notes in seconds",
+      "en": "Drafting clinical notes in seconds",
+      "zh": "几秒内起草诊疗记录"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "As patients share critical information, doctors need to split their attention between listening and taking notes for the medical record. Anima built its Scribe product with GPT 5.6 Luna to turn consultation transcripts into structured clinical notes, and then reuse that same clinical context to draft referral letters and patient follow-up messages.",
+      "en": "As patients share critical information, doctors need to split their attention between listening and taking notes for the medical record. Anima built its Scribe product with GPT 5.6 Luna to turn consultation transcripts into structured clinical notes, and then reuse that same clinical context to draft referral letters and patient follow-up messages.",
+      "zh": "患者讲述关键信息时，医生需要一边倾听，一边为病历做记录。Anima 使用 GPT 5.6 Luna 构建了 Scribe 产品，将诊疗对话转录文本转化为结构化诊疗记录，再利用同一份临床背景信息起草转诊信和患者随访消息。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Instead of typing throughout the appointment, a doctor can give more of their attention to the patient. Anima reports that consultation notes that once took several minutes to write are drafted in seconds for the clinician’s review. Referral letters that often required 5 to 15 minutes to produce can also be drafted within seconds from the consultation and patient record, ready for the clinician to review.",
+      "en": "Instead of typing throughout the appointment, a doctor can give more of their attention to the patient. Anima reports that consultation notes that once took several minutes to write are drafted in seconds for the clinician’s review. Referral letters that often required 5 to 15 minutes to produce can also be drafted within seconds from the consultation and patient record, ready for the clinician to review.",
+      "zh": "医生无需在整个诊疗过程中不停打字，可以将更多注意力放在患者身上。据 Anima 报告，以前需要数分钟才能写完的诊疗记录，如今几秒内就能生成草稿，供临床医生审核。通常需要 5 至 15 分钟才能写好的转诊信，如今也能根据诊疗内容和患者病历，在几秒内起草完成，供临床医生审核。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "“Patients receive clear follow-up messages shortly after the consultation, reducing anxiety and improving recall,” says Shun. “We often hear that doctors now finish their day on time instead of working until 8 or 9 p.m.”",
+      "en": "“Patients receive clear follow-up messages shortly after the consultation, reducing anxiety and improving recall,” says Shun. “We often hear that doctors now finish their day on time instead of working until 8 or 9 p.m.”",
+      "zh": "“患者在就诊后不久就能收到清晰的后续跟进消息，这既减轻了焦虑，也帮助他们更好地记住诊疗信息，”Shun 说，“我们经常听说，医生现在能按时下班了，不必再工作到晚上八九点。”"
+    },
+    {
+      "id": "p19",
+      "kind": "heading",
+      "text": "Building capacity for care that follows need",
+      "en": "Building capacity for care that follows need",
+      "zh": "提升医疗服务能力，让服务紧跟需求"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "Anima’s vision is personalized healthcare for everyone. That requires care teams to have the information, time, and capacity to understand each person’s needs and act on them across the whole patient journey.",
+      "en": "Anima’s vision is personalized healthcare for everyone. That requires care teams to have the information, time, and capacity to understand each person’s needs and act on them across the whole patient journey.",
+      "zh": "Anima 的愿景是让每个人都能获得个性化医疗服务。这要求医疗团队掌握必要信息，并有足够的时间和能力，在患者就医的全过程中了解每个人的需求并作出响应。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "Its work with OpenAI models supports practical steps towards that vision. Andi gathers information over the phone and turns it into structured requests for staff to act on. Documents helps teams process incoming clinical information. Scribe drafts notes and follow-up communications for clinicians to review.",
+      "en": "Its work with OpenAI models supports practical steps towards that vision. Andi gathers information over the phone and turns it into structured requests for staff to act on. Documents helps teams process incoming clinical information. Scribe drafts notes and follow-up communications for clinicians to review.",
+      "zh": "Anima 对 OpenAI 模型的应用，正推动这一愿景一步步落地。Andi 通过电话采集信息，并将其转化为结构化请求，供工作人员处理。Documents 帮助团队处理收到的临床信息。Scribe 起草诊疗记录和后续沟通内容，供临床医生审核。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Anima reports that most cases across its platform are resolved within 24 hours, with a median resolution time of approximately 3.5 hours. “We’re having a huge impact on 14 million patients in the UK supported by OpenAI’s models,” Shun says. “It’s really mission-critical for the patients and the clinics.”",
+      "en": "Anima reports that most cases across its platform are resolved within 24 hours, with a median resolution time of approximately 3.5 hours. “We’re having a huge impact on 14 million patients in the UK supported by OpenAI’s models,” Shun says. “It’s really mission-critical for the patients and the clinics.”",
+      "zh": "据 Anima 报告，其平台上的大多数个案都能在 24 小时内处理完毕，处理时长中位数约为 3.5 小时。“在 OpenAI 模型的支持下，我们正为英国 1,400 万名患者带来巨大改变，”Shun 说，“这对患者和诊所而言，确实至关重要。”"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "Anima gives teams more room to care today, and helps them build pathways and services for the future.",
+      "en": "Anima gives teams more room to care today, and helps them build pathways and services for the future.",
+      "zh": "Anima 让医疗团队在当下有更多精力照护患者，也帮助他们构建面向未来的诊疗路径和服务。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p3",
+      "zh": "Anima 起步于英国，如今已通过当地 1,000 多家诊所服务超过 1,400 万名患者，每月处理超过 80 万个个案。目前，Anima 正向美国、澳大利亚及其他市场拓展。",
+      "en": "Anima began in the UK, where it now serves over 14 million patients across more than 1,000 clinics and processes more than 800,000 cases a month. It’s expanding into the US, Australia, and beyond."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "创立 Anima 之前，Shun 曾接受临床培训。那时，他目睹一位患者的异常检查结果被搁置了六个月，因而错失了可能挽救生命的治疗。",
+      "en": "Before he started Anima, Shun had gone through clinical training, where he saw a patient miss potentially life-saving care because abnormal test results sat in a queue for six months. He came to believe that the problem with healthcare wasn’t about medicine, but about how information moved through the system."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "Anima 的 AI 接待员 Andi 基于 GPT‑Live 构建。患者可以通过电话向 Andi 描述症状，Anima 的专有策略引擎则引导对话，按照确定性的、经临床认可的接诊流程进行。",
+      "en": "Anima’s AI receptionist, Andi, is built on GPT‑Live. Patients can describe their symptoms over the phone to Andi, while Anima’s proprietary policy engine guides the conversation through deterministic, clinically approved intake workflows."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "据 Anima 报告，使用 Andi 的诊所已将电话等待时间从 40 至 50 分钟缩短至 10 分钟，降幅至少达 75%。在 Anima 的患者调查中，86% 的受访者表示愿意再次使用 Andi。",
+      "en": "Anima reports that clinics using Andi have reduced phone waits from 40 to 50 minutes to 10 minutes, a reduction of at least 75%. In Anima’s patient surveys, 86% said they would use Andi again."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/anima/",
+      "title": "Anima helps clinics cut call waits by 75% with GPT‑6 and GPT‑Live"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/anima/",
+      "title": "Anima 借助 GPT‑6 和 GPT‑Live 帮助诊所将电话等待时间缩短 75%"
+    }
+  },
+  "contentHash": "93b7faf18a3ee2d13370ec2f0f3ff63a4f89e83e9cc1f8828d42c6af9821f1ba",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/anima/"
 }

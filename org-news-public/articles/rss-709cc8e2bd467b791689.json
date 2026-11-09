@@ -3,8 +3,401 @@
   "id": "rss-709cc8e2bd467b791689",
   "url": "https://openai.com/index/legora",
   "sourceTitle": "Legora is building the agentic operating system for legal work",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.496617+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.559647+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:54:06.871Z",
+  "finalURL": "https://openai.com/index/legora/",
+  "language": "en",
+  "originalTitle": "Legora is building the agentic operating system for legal work",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "heading",
+      "text": "Building for a profession where time—and trust—are scarce",
+      "en": "Building for a profession where time—and trust—are scarce",
+      "zh": "为时间与信任都弥足珍贵的行业打造产品"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Founded in Stockholm in 2023, Legora is building what CEO and co-founder Max Junestrand calls “the agentic operating system for legal work”: bringing AI into the workflows lawyers rely on every day.",
+      "en": "Founded in Stockholm in 2023, Legora is building what CEO and co-founder Max Junestrand calls “the agentic operating system for legal work”: bringing AI into the workflows lawyers rely on every day.",
+      "zh": "Legora 于 2023 年在斯德哥尔摩成立，正在打造首席执行官兼联合创始人 Max Junestrand 所说的“面向法律工作的智能体操作系统”，将 AI 融入律师每天依赖的工作流程。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "The company started with the insight that legal teams are unusually time crunched, meaning some valuable work doesn’t get done. Think of the junior lawyer told to review an impossible number of contracts overnight and only able to focus on a fraction.",
+      "en": "The company started with the insight that legal teams are unusually time crunched, meaning some valuable work doesn’t get done. Think of the junior lawyer told to review an impossible number of contracts overnight and only able to focus on a fraction.",
+      "zh": "这家公司的创立源于一个洞察：法务团队的时间格外紧张，以至于一些有价值的工作无法开展。试想，一名初级律师被要求在一夜之间审查数量庞大、根本不可能看完的合同，最终只能重点审查其中一小部分。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Legora can provide those services “on tap”, which is why Junestrand’s ambition is that every piece of legal work in the world should run on his platform. OpenAI has been part of that journey from the beginning: the release of GPT‑3.5 was the moment many of the legal use cases the founding team had been experimenting with became possible. Today, OpenAI is a key model provider for Legora, powering core workflows across its legal AI platform, from agentic legal work to large-scale document review. Legora builds on new OpenAI model capabilities as they become available, translating advances in intelligence into what lawyers can accomplish with its product.",
+      "en": "Legora can provide those services “on tap”, which is why Junestrand’s ambition is that every piece of legal work in the world should run on his platform. OpenAI has been part of that journey from the beginning: the release of GPT‑3.5 was the moment many of the legal use cases the founding team had been experimenting with became possible. Today, OpenAI is a key model provider for Legora, powering core workflows across its legal AI platform, from agentic legal work to large-scale document review. Legora builds on new OpenAI model capabilities as they become available, translating advances in intelligence into what lawyers can accomplish with its product.",
+      "zh": "Legora 可以让这些服务“随需即用”，因此 Junestrand 的愿景是让全世界的每一项法律工作都在他的平台上开展。OpenAI 从一开始就参与了这段历程：GPT‑3.5 的发布，让创始团队一直在探索的许多法律应用场景成为可能。如今，OpenAI 是 Legora 的重要模型提供方，为其法律 AI 平台的核心工作流程提供支持，涵盖智能体执行的法律工作、大规模文档审查等。每当 OpenAI 推出新的模型能力，Legora 就会以此为基础进行开发，将智能水平的提升转化为律师通过产品能够完成的实际工作。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "“The world needs more legal services and legal intelligence. With Legora, we get that on tap.”",
+      "en": "“The world needs more legal services and legal intelligence. With Legora, we get that on tap.”",
+      "zh": "“世界需要更多法律服务和专业法律洞见。有了 Legora，这些都能随需即用。”"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "—Max Junestrand, CEO and co-founder, Legora",
+      "en": "—Max Junestrand, CEO and co-founder, Legora",
+      "zh": "—Max Junestrand，Legora 首席执行官兼联合创始人"
+    },
+    {
+      "id": "p7",
+      "kind": "heading",
+      "text": "An AI-native company building an AI-native product",
+      "en": "An AI-native company building an AI-native product",
+      "zh": "一家 AI 原生公司，打造 AI 原生产品"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Legora’s use of AI goes beyond the product it sells, and has expanded its use of ChatGPT Work, Codex and dots across its own teams. OpenAI’s technology is becoming part of both the product Legora builds for its customers as well as shaping how the company itself operates. “It’s incredibly important to me that we stay as AI-native as possible,” confirms Junestrand.",
+      "en": "Legora’s use of AI goes beyond the product it sells, and has expanded its use of ChatGPT Work, Codex and dots across its own teams. OpenAI’s technology is becoming part of both the product Legora builds for its customers as well as shaping how the company itself operates. “It’s incredibly important to me that we stay as AI-native as possible,” confirms Junestrand.",
+      "zh": "Legora 对 AI 的应用不限于对外销售的产品，也已在内部各团队扩大了 ChatGPT 工作、Codex 和 dot 的使用。OpenAI 的技术不仅正融入 Legora 为客户打造的产品，也在重塑公司自身的运作方式。Junestrand 强调：“对我来说，尽可能保持 AI 原生的运作方式至关重要。”"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "For Jacob Lauritzen, CTO at Legora, coding agents have changed how quickly the engineering team can develop new ideas. Instead of researching one possible solution and committing engineering time before knowing whether it’s the right path, teams can prototype many approaches at once. “We can explore 20 solutions at the same time and, within days, pick the one we know will be the best.”",
+      "en": "For Jacob Lauritzen, CTO at Legora, coding agents have changed how quickly the engineering team can develop new ideas. Instead of researching one possible solution and committing engineering time before knowing whether it’s the right path, teams can prototype many approaches at once. “We can explore 20 solutions at the same time and, within days, pick the one we know will be the best.”",
+      "zh": "在 Legora 首席技术官 Jacob Lauritzen 看来，编程智能体改变了工程团队开发新想法的速度。团队不必再只研究一种可能的方案，在尚未确定方向是否正确时就投入工程资源，而是可以同时为多种方案构建原型。“我们可以同时探索 20 种解决方案，几天内就能选出我们确信最优的那一种。”"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "The same approach changes how Legora responds when something goes wrong. Previously, diagnosing a product issue could mean several engineers investigating different possible causes over a number of hours. Coding agents can now search millions of lines of logs and pursue many possible explanations simultaneously, sometimes taking Legora from bug report to working fix in around five minutes.",
+      "en": "The same approach changes how Legora responds when something goes wrong. Previously, diagnosing a product issue could mean several engineers investigating different possible causes over a number of hours. Coding agents can now search millions of lines of logs and pursue many possible explanations simultaneously, sometimes taking Legora from bug report to working fix in around five minutes.",
+      "zh": "同样的方法也改变了 Legora 应对问题的方式。过去，诊断一个产品问题，可能需要几名工程师花上数小时，分别排查不同的潜在原因。如今，编程智能体可以搜索数百万行日志，同时追查多种可能的原因，有时让 Legora 从收到缺陷报告到完成有效修复，仅需大约五分钟。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Customers, of course, don’t see the engineering efficiency itself. But they do experience the results: problems can be resolved faster, feedback can reach product teams sooner, and new ideas can be tested with customers earlier in the development cycle.",
+      "en": "Customers, of course, don’t see the engineering efficiency itself. But they do experience the results: problems can be resolved faster, feedback can reach product teams sooner, and new ideas can be tested with customers earlier in the development cycle.",
+      "zh": "当然，客户并不会直接看到工程效率的提升。但他们能感受到成果：问题解决得更快，反馈更早传递到产品团队，新想法也能在开发周期的更早阶段交给客户测试。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "“We can go to customers much more quickly with feedback. It enables us to build a better product faster.”",
+      "en": "“We can go to customers much more quickly with feedback. It enables us to build a better product faster.”",
+      "zh": "“我们能更快地向客户反馈，从而更快地打造更好的产品。”"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "—Jacob Lauritzen, CTO, Legora",
+      "en": "—Jacob Lauritzen, CTO, Legora",
+      "zh": "—Jacob Lauritzen，Legora 首席技术官"
+    },
+    {
+      "id": "p14",
+      "kind": "heading",
+      "text": "Giving Legora’s own lawyers room to do higher-value work",
+      "en": "Giving Legora’s own lawyers room to do higher-value work",
+      "zh": "让 Legora 自己的律师也能腾出精力，投入更高价值的工作"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "Legora’s own legal team experiences the same transformation its product is designed to create for customers. General Counsel Emma Kadri Bergström points to the example of NDAs. Her team analysed the agreements they had historically signed and built a playbook that allows Legora to take a first pass at incoming NDAs, highlighting terms that fall outside acceptable parameters.",
+      "en": "Legora’s own legal team experiences the same transformation its product is designed to create for customers. General Counsel Emma Kadri Bergström points to the example of NDAs. Her team analysed the agreements they had historically signed and built a playbook that allows Legora to take a first pass at incoming NDAs, highlighting terms that fall outside acceptable parameters.",
+      "zh": "Legora 的产品旨在为客户带来变革，而其内部法务团队也正亲身经历同样的转变。总法律顾问 Emma Kadri Bergström 以保密协议为例说明了这一点。她的团队分析了以往签署的协议，制定出一套审查指南，让 Legora 能够对新收到的保密协议进行初审，标出超出可接受范围的条款。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "Before the workflow was introduced, Kadri Bergström estimates that reviewing these “boring documents” consumed around 20% of the legal team’s capacity. Today, it’s under 1%.",
+      "en": "Before the workflow was introduced, Kadri Bergström estimates that reviewing these “boring documents” consumed around 20% of the legal team’s capacity. Today, it’s under 1%.",
+      "zh": "Kadri Bergström 估计，在引入这套工作流程之前，审查这些“枯燥的文件”大约占用了法务团队 20% 的可用工时。如今，这一比例已不足 1%。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "That reclaimed time matters because the company itself is scaling rapidly. In the past year, Kadri Bergström says the business has expanded from three offices to 18, completed three financing rounds and made five acquisitions. The legal team has had to support that growth while remaining closely connected to the business.",
+      "en": "That reclaimed time matters because the company itself is scaling rapidly. In the past year, Kadri Bergström says the business has expanded from three offices to 18, completed three financing rounds and made five acquisitions. The legal team has had to support that growth while remaining closely connected to the business.",
+      "zh": "省下来的时间意义重大，因为公司本身正在快速扩张。Kadri Bergström 表示，过去一年里，公司的办公室数量从3 个增加到 18 个，完成了三轮融资和五次收购。法务团队既要支持这种增长，也要始终与业务保持紧密联系。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "AI has also allowed the team to take on work that might previously have been outsourced or narrowed because of limited capacity. In M&A diligence, for example, agents can begin reviewing contracts and surfacing information across the deal set, with lawyers reviewing and interpreting the output.",
+      "en": "AI has also allowed the team to take on work that might previously have been outsourced or narrowed because of limited capacity. In M&A diligence, for example, agents can begin reviewing contracts and surfacing information across the deal set, with lawyers reviewing and interpreting the output.",
+      "zh": "AI 还让团队能够承担一些过去可能因精力有限而需要外包或缩小范围的工作。例如，在并购尽职调查中，智能体可以先审查合同，从整套交易资料中提取信息，再由律师审阅并解读结果。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "“AI doesn’t just make you faster. It also increases quality.”",
+      "en": "“AI doesn’t just make you faster. It also increases quality.”",
+      "zh": "“AI 不仅能让你提高效率，还能提升工作质量。”"
+    },
+    {
+      "id": "p20",
+      "kind": "heading",
+      "text": "From faster review to broader, higher-quality analysis",
+      "en": "From faster review to broader, higher-quality analysis",
+      "zh": "从加快审查，到开展更全面、更高质量的分析"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "For Legora’s customers, the opportunity isn’t simply to complete the same work faster. AI has also increased the scope of work that can be taken on.",
+      "en": "For Legora’s customers, the opportunity isn’t simply to complete the same work faster. AI has also increased the scope of work that can be taken on.",
+      "zh": "对 Legora 的客户而言，机会不只是更快地完成同样的工作。AI 也拓展了他们能够承担的工作范围。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Alex Fortescue-Webb, Global Head of Legal Engineering, points to due diligence as an example. In a traditional review, time and cost constraints can force teams to concentrate deeply on only the most valuable contracts. Legora’s Tabular Review workflow can analyse thousands of contracts across multiple questions in minutes, allowing lawyers to apply detailed scrutiny much more broadly.",
+      "en": "Alex Fortescue-Webb, Global Head of Legal Engineering, points to due diligence as an example. In a traditional review, time and cost constraints can force teams to concentrate deeply on only the most valuable contracts. Legora’s Tabular Review workflow can analyse thousands of contracts across multiple questions in minutes, allowing lawyers to apply detailed scrutiny much more broadly.",
+      "zh": "全球法律工程负责人 Alex Fortescue-Webb 以尽职调查为例说明了这一点。在传统审查中，受时间和成本限制，团队可能只能对价值最高的合同进行深入审查。Legora 的表格式审查工作流程可以在几分钟内，围绕多个问题分析数千份合同，让律师能够在更广的范围内开展细致审查。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "That can alter the quality of the final work. Risks that might previously have sat in contracts outside the manually reviewed subset can now be surfaced for a lawyer to assess.",
+      "en": "That can alter the quality of the final work. Risks that might previously have sat in contracts outside the manually reviewed subset can now be surfaced for a lawyer to assess.",
+      "zh": "这能改变最终的工作质量。过去，未被纳入人工审查范围的合同中可能藏着风险；如今，这些风险也能被识别出来，交由律师评估。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "The results are already measurable. Junestrand cites one Fortune 100 customer that has:",
+      "en": "The results are already measurable. Junestrand cites one Fortune 100 customer that has:",
+      "zh": "成果已经可以量化。Junestrand 提到，一家《财富》100 强客户已经："
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "reduced contract turnaround time by 90%",
+      "en": "reduced contract turnaround time by 90%",
+      "zh": "将合同处理周期缩短了 90%"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "saved more than $20 million on external litigation and diligence",
+      "en": "saved more than $20 million on external litigation and diligence",
+      "zh": "在外部诉讼和尽职调查方面节省了超过 2,000 万美元"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "returned 9.5 hours per lawyer each week for higher-value work",
+      "en": "returned 9.5 hours per lawyer each week for higher-value work",
+      "zh": "让每位律师每周节省 9.5 小时，用于更高价值的工作"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "“AI has fundamentally changed both the speed at which you can do existing tasks and the breadth of analysis you can apply.”",
+      "en": "“AI has fundamentally changed both the speed at which you can do existing tasks and the breadth of analysis you can apply.”",
+      "zh": "“无论是完成现有任务的速度，还是能够开展分析的广度，AI 都带来了根本性的改变。”"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "—Alex Fortescue-Webb, Global Head of Legal Engineering, Legora",
+      "en": "—Alex Fortescue-Webb, Global Head of Legal Engineering, Legora",
+      "zh": "—Alex Fortescue-Webb，Legora 全球法律工程负责人"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "Through the Legora plugin for ChatGPT, legal teams can also use Legora’s capabilities within their ChatGPT conversations.",
+      "en": "Through the Legora plugin for ChatGPT, legal teams can also use Legora’s capabilities within their ChatGPT conversations.",
+      "zh": "通过 ChatGPT 的 Legora 插件，法务团队也可以在 ChatGPT 对话中使用 Legora 的功能。"
+    },
+    {
+      "id": "p31",
+      "kind": "heading",
+      "text": "Results at a glance",
+      "en": "Results at a glance",
+      "zh": "成果一览"
+    },
+    {
+      "id": "p32",
+      "kind": "paragraph",
+      "text": "95%+ reduction in Legora legal-team time spent reviewing NDAs, from ~20% of team capacity to under 1%.",
+      "en": "95%+ reduction in Legora legal-team time spent reviewing NDAs, from ~20% of team capacity to under 1%.",
+      "zh": "Legora 法务团队审查保密协议的耗时减少了 95% 以上，占团队可用工时的比例从约 20% 降至不足 1%。"
+    },
+    {
+      "id": "p33",
+      "kind": "paragraph",
+      "text": "90% faster contract turnaround for one Fortune 100 Legora customer.",
+      "en": "90% faster contract turnaround for one Fortune 100 Legora customer.",
+      "zh": "Legora 的一家《财富》100 强客户将合同处理周期缩短了 90%。"
+    },
+    {
+      "id": "p34",
+      "kind": "paragraph",
+      "text": "$20M+ saved on external litigation and diligence for the same customer.",
+      "en": "$20M+ saved on external litigation and diligence for the same customer.",
+      "zh": "同一家客户在外部诉讼和尽职调查方面节省了超过 2,000 万美元。"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "9.5 hours returned per lawyer, per week for higher-value work.",
+      "en": "9.5 hours returned per lawyer, per week for higher-value work.",
+      "zh": "每位律师每周节省 9.5 小时，可用于更高价值的工作。"
+    },
+    {
+      "id": "p36",
+      "kind": "heading",
+      "text": "Leadership lessons",
+      "en": "Leadership lessons",
+      "zh": "管理者的经验"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "Lead by using. When more than 75% of leaders actively use Legora, median usage across the organisation is 3× higher.",
+      "en": "Lead by using. When more than 75% of leaders actively use Legora, median usage across the organisation is 3× higher.",
+      "zh": "以身作则，带头使用。当超过 75% 的管理者积极使用 Legora 时，整个组织的使用量中位数可达到原来的 3 倍。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "Start with the problem. Focus on what people need to accomplish, then determine where AI can improve the workflow.",
+      "en": "Start with the problem. Focus on what people need to accomplish, then determine where AI can improve the workflow.",
+      "zh": "从问题出发。先关注人们需要完成什么，再确定 AI 可以在哪些环节改善工作流程。"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "Build a network of champions. Internal advocates help turn experimentation into sustained adoption.",
+      "en": "Build a network of champions. Internal advocates help turn experimentation into sustained adoption.",
+      "zh": "建立内部推广网络。内部倡导者能帮助团队从尝试探索走向持续使用。"
+    },
+    {
+      "id": "p40",
+      "kind": "paragraph",
+      "text": "Be ready to rebuild. As models improve, yesterday’s product assumptions can quickly become outdated.",
+      "en": "Be ready to rebuild. As models improve, yesterday’s product assumptions can quickly become outdated.",
+      "zh": "做好重构的准备。随着模型不断进步，以往的产品假设可能很快就会过时。"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "Design for trust. Build evaluation, testing and transparency into the experience from the start.",
+      "en": "Design for trust. Build evaluation, testing and transparency into the experience from the start.",
+      "zh": "以赢得信任为设计目标。从一开始，就将评估、测试和透明度融入产品体验。"
+    },
+    {
+      "id": "p42",
+      "kind": "heading",
+      "text": "What’s next",
+      "en": "What’s next",
+      "zh": "下一步"
+    },
+    {
+      "id": "p43",
+      "kind": "paragraph",
+      "text": "For Legora, the next frontier isn’t just making today’s legal workflows faster. It’s expanding the kinds of work AI can take on, while making collaboration between lawyers and AI increasingly natural.",
+      "en": "For Legora, the next frontier isn’t just making today’s legal workflows faster. It’s expanding the kinds of work AI can take on, while making collaboration between lawyers and AI increasingly natural.",
+      "zh": "对 Legora 而言，下一步要探索的，不只是加快现有的法律工作流程。更是拓展 AI 能承担的工作类型，同时让律师与 AI 的协作越来越自然。"
+    },
+    {
+      "id": "p44",
+      "kind": "paragraph",
+      "text": "Jacob Lauritzen sees two advances happening in parallel. First, agents will be able to tackle longer-running tasks that require far greater context and autonomy. He imagines due diligence spanning millions of pages running overnight, with the analysis ready for a lawyer to review when they arrive the next morning.",
+      "en": "Jacob Lauritzen sees two advances happening in parallel. First, agents will be able to tackle longer-running tasks that require far greater context and autonomy. He imagines due diligence spanning millions of pages running overnight, with the analysis ready for a lawyer to review when they arrive the next morning.",
+      "zh": "Jacob Lauritzen 认为，两方面的进展正在同步发生。首先，智能体将能够处理耗时更长、需要更多上下文和更高自主性的任务。他设想，涉及数百万页材料的尽职调查可以在夜间进行，律师次日早晨到岗时，就能审阅已经完成的分析。"
+    },
+    {
+      "id": "p45",
+      "kind": "paragraph",
+      "text": "At the same time, increasingly capable models are becoming faster. That opens up a different kind of experience: real-time collaboration where a lawyer and AI can work back and forth on a contract, analysis or piece of advice rather than treating AI as a tool that receives a task and returns an answer.",
+      "en": "At the same time, increasingly capable models are becoming faster. That opens up a different kind of experience: real-time collaboration where a lawyer and AI can work back and forth on a contract, analysis or piece of advice rather than treating AI as a tool that receives a task and returns an answer.",
+      "zh": "与此同时，能力越来越强的模型，速度也在不断提升。这带来了一种不同的体验：律师可以与 AI 实时协作，围绕合同、分析或法律意见反复交流、共同完善，而不再只是把 AI 当作接收任务、返回答案的工具。"
+    },
+    {
+      "id": "p46",
+      "kind": "paragraph",
+      "text": "“When you blend human and AI, that’s when the output comes out best.”",
+      "en": "“When you blend human and AI, that’s when the output comes out best.”",
+      "zh": "“人与 AI 相互配合，才能取得最佳成果。”"
+    },
+    {
+      "id": "p47",
+      "kind": "paragraph",
+      "text": "That moving frontier means Legora’s roadmap can’t be static. “Model improvements force me to reconsider the roadmap on a biweekly basis,” says Lauritzen. Engineers, product managers, designers and sales teams all frequently ask him what’s the new thing that’s become possible for customers.",
+      "en": "That moving frontier means Legora’s roadmap can’t be static. “Model improvements force me to reconsider the roadmap on a biweekly basis,” says Lauritzen. Engineers, product managers, designers and sales teams all frequently ask him what’s the new thing that’s become possible for customers.",
+      "zh": "能力边界不断拓展，意味着 Legora 的产品路线图也不能一成不变。Lauritzen 表示：“模型的进步让我不得不每两周就重新审视一次产品路线图。”工程师、产品经理、设计师和销售团队都经常问他，如今客户又能实现哪些过去做不到的事。"
+    },
+    {
+      "id": "p48",
+      "kind": "paragraph",
+      "text": "For Bergström, it’s about changing the perception of legal teams. “Every legal department is worried about becoming a bottleneck. That’s when the business stops coming to you,” she says. AI is transforming legal teams from bottleneck to business partner, from the people you avoid to the people you want in the room alongside you.",
+      "en": "For Bergström, it’s about changing the perception of legal teams. “Every legal department is worried about becoming a bottleneck. That’s when the business stops coming to you,” she says. AI is transforming legal teams from bottleneck to business partner, from the people you avoid to the people you want in the room alongside you.",
+      "zh": "对 Bergström 而言，关键在于改变人们对法务团队的看法。“每个法务部门都担心自己成为瓶颈。一旦如此，业务部门就不再来找你了。”她说。AI 正在让法务团队从瓶颈转变为业务伙伴，从大家想要绕开的对象，变成希望并肩共事的伙伴。"
+    },
+    {
+      "id": "p49",
+      "kind": "paragraph",
+      "text": "If Legora succeeds, the outcome won’t simply be lawyers completing today’s workload more efficiently. It will be legal teams able to take on work that capacity once made impossible, with more time for judgement, strategy and the high-value decisions that still require a human.",
+      "en": "If Legora succeeds, the outcome won’t simply be lawyers completing today’s workload more efficiently. It will be legal teams able to take on work that capacity once made impossible, with more time for judgement, strategy and the high-value decisions that still require a human.",
+      "zh": "如果 Legora 成功了，成果将不仅仅是律师更高效地完成现有工作。法务团队还将能够承担过去因精力有限而无法开展的工作，并有更多时间用于判断、战略规划，以及仍需由人来做出的高价值决策。"
+    },
+    {
+      "id": "p50",
+      "kind": "paragraph",
+      "text": "As Junestrand puts it: “It’s the best time in history to be a lawyer.”",
+      "en": "As Junestrand puts it: “It’s the best time in history to be a lawyer.”",
+      "zh": "正如 Junestrand 所说：“这是有史以来最适合当律师的时代。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "Legora 于 2023 年在斯德哥尔摩成立，正在打造首席执行官兼联合创始人 Max Junestrand 所说的“面向法律工作的智能体操作系统”，将 AI 融入律师每天依赖的工作流程。",
+      "en": "Founded in Stockholm in 2023, Legora is building what CEO and co-founder Max Junestrand calls “the agentic operating system for legal work”: bringing AI into the workflows lawyers rely on every day."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "这家公司的创立源于一个洞察：法务团队的时间格外紧张，以至于一些有价值的工作无法开展。试想，一名初级律师被要求在一夜之间审查数量庞大、根本不可能看完的合同，最终只能重点审查其中一小部分。",
+      "en": "The company started with the insight that legal teams are unusually time crunched, meaning some valuable work doesn’t get done. Think of the junior lawyer told to review an impossible number of contracts overnight and only able to focus on a fraction."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "Legora 可以让这些服务“随需即用”，因此 Junestrand 的愿景是让全世界的每一项法律工作都在他的平台上开展。OpenAI 从一开始就参与了这段历程：GPT‑3.5 的发布，让创始团队一直在探索的许多法律应用场景成为可能。",
+      "en": "Legora can provide those services “on tap”, which is why Junestrand’s ambition is that every piece of legal work in the world should run on his platform. OpenAI has been part of that journey from the beginning: the release of GPT‑3.5 was the moment many of the legal use cases the founding team had been experimenting with became possible."
+    },
+    {
+      "paragraphId": "p16",
+      "zh": "Kadri Bergström 估计，在引入这套工作流程之前，审查这些“枯燥的文件”大约占用了法务团队 20% 的可用工时。如今，这一比例已不足 1%。",
+      "en": "Before the workflow was introduced, Kadri Bergström estimates that reviewing these “boring documents” consumed around 20% of the legal team’s capacity. Today, it’s under 1%."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/legora/",
+      "title": "Legora is building the agentic operating system for legal work"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/legora/",
+      "title": "Legora 正在打造面向法律工作的智能体操作系统"
+    }
+  },
+  "contentHash": "033801eebe393295cea22f2eaec2e306b1f2d9b45cb5cfea785156b9ee08cdd0",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/legora/"
 }

@@ -3,8 +3,212 @@
   "id": "rss-4094d4340f9e66f9e2fc",
   "url": "https://openai.com/index/qodo-codex-plugin",
   "sourceTitle": "Qodo builds context into AI code review with Codex",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.258189+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.286309+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:59:20.954Z",
+  "finalURL": "https://openai.com/index/qodo-codex-plugin/",
+  "language": "en",
+  "originalTitle": "Qodo builds context into AI code review with Codex",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Qodo builds AI tools for code review and software quality, giving coding agents the organizational knowledge they need to understand the code they change. Co-founder and CEO Itamar Friedman calls it “the coding agent’s best friend.”",
+      "en": "Qodo builds AI tools for code review and software quality, giving coding agents the organizational knowledge they need to understand the code they change. Co-founder and CEO Itamar Friedman calls it “the coding agent’s best friend.”",
+      "zh": "Qodo 开发用于代码审查和软件质量保障的 AI 工具，为编程智能体提供所需的组织知识，帮助它们理解自己修改的代码。联合创始人兼首席执行官 Itamar Friedman 称其为“编程智能体的最佳伙伴”。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Qodo uses OpenAI models including GPT‑6 Astra to gather engineering knowledge, review code, and monitor software quality. Its Codex plugin brings that context and review into developers’ coding sessions.",
+      "en": "Qodo uses OpenAI models including GPT‑6 Astra to gather engineering knowledge, review code, and monitor software quality. Its Codex plugin brings that context and review into developers’ coding sessions.",
+      "zh": "Qodo 使用包括 GPT‑6 Astra 在内的 OpenAI 模型来收集工程知识、审查代码并监测软件质量。其 Codex 插件将这些上下文和审查能力带入开发者的编程会话。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "“We love OpenAI models. We want the frontier, the best reasoning models, but also those that are really fast.”",
+      "en": "“We love OpenAI models. We want the frontier, the best reasoning models, but also those that are really fast.”",
+      "zh": "“我们非常喜欢 OpenAI 的模型。我们既想用最前沿、推理能力最强的模型，也想用速度特别快的模型。”"
+    },
+    {
+      "id": "p4",
+      "kind": "heading",
+      "text": "Finding P0 bugs across repositories with Codex",
+      "en": "Finding P0 bugs across repositories with Codex",
+      "zh": "借助 Codex 发现跨代码仓库的 P0 级缺陷"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Itamar describes customer environments that can span 10,000 or more repositories, where a local code change can break a downstream service, even if it looks correct on its own. Qodo built a plugin in the Codex marketplace to address this.",
+      "en": "Itamar describes customer environments that can span 10,000 or more repositories, where a local code change can break a downstream service, even if it looks correct on its own. Qodo built a plugin in the Codex marketplace to address this.",
+      "zh": "Itamar 介绍，有些客户的环境涉及 10,000 个甚至更多代码仓库。在这样的环境中，一处局部代码修改即使单独看起来没有问题，也可能导致下游服务故障。为解决这一问题，Qodo 开发了一款插件，并将其上架 Codex 插件市场。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "“Codex is really good at taking a local task and completing it in an efficient way,” Itamar says. Qodo’s plugin gives Codex access to codebase knowledge, organizational rules, and independent review through Qodo’s Agentic Toolbox.",
+      "en": "“Codex is really good at taking a local task and completing it in an efficient way,” Itamar says. Qodo’s plugin gives Codex access to codebase knowledge, organizational rules, and independent review through Qodo’s Agentic Toolbox.",
+      "zh": "Itamar 表示：“Codex 非常擅长高效完成局部任务。”Qodo 的插件让 Codex 能够通过 Qodo 的 Agentic Toolbox 获取代码库知识、组织规则和独立审查能力。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "With context, Codex can account for dependencies across repositories, including those hosted by different Git providers or services connected through Kafka. “Qodo will make that connection and will help Codex look at the software as a whole and not miss those P0 bugs,” Itamar says.",
+      "en": "With context, Codex can account for dependencies across repositories, including those hosted by different Git providers or services connected through Kafka. “Qodo will make that connection and will help Codex look at the software as a whole and not miss those P0 bugs,” Itamar says.",
+      "zh": "有了上下文，Codex 就能考虑跨代码仓库的依赖关系，包括托管在不同 Git 平台上的仓库之间，以及通过 Kafka 连接的服务之间的依赖关系。Itamar 表示：“Qodo 会识别这些关联，帮助 Codex 从整体上审视软件，不漏掉那些 P0 级缺陷。”"
+    },
+    {
+      "id": "p8",
+      "kind": "heading",
+      "text": "Automating review while keeping human judgment",
+      "en": "Automating review while keeping human judgment",
+      "zh": "让审查自动化，同时保留人类判断"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Before Codex starts writing code, it can use Qodo’s plugin to retrieve the relevant codebase rules and pull request history and patterns. After Codex makes the changes, Qodo reviews them and returns its findings directly to Codex in the same session, before the developer opens a pull request.",
+      "en": "Before Codex starts writing code, it can use Qodo’s plugin to retrieve the relevant codebase rules and pull request history and patterns. After Codex makes the changes, Qodo reviews them and returns its findings directly to Codex in the same session, before the developer opens a pull request.",
+      "zh": "在开始编写代码之前，Codex 可以通过 Qodo 插件检索相关代码库规则，以及 pull request 的历史记录和常见模式。Codex 完成修改后，Qodo 会审查这些改动，并在开发者发起 pull request 之前，将审查结果直接反馈给同一会话中的 Codex。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Nnenna Ndukwe, Qodo’s AI Developer Relations Lead, sees developers using this workflow to build features and tackle technical debt with GPT‑6 models in Codex. They are automating the handoff between Codex’s coding work and Qodo’s independent review. “That’s what I’ve been seeing developers do, which is really exciting because GPT‑6 is extremely capable,” Nnenna says.",
+      "en": "Nnenna Ndukwe, Qodo’s AI Developer Relations Lead, sees developers using this workflow to build features and tackle technical debt with GPT‑6 models in Codex. They are automating the handoff between Codex’s coding work and Qodo’s independent review. “That’s what I’ve been seeing developers do, which is really exciting because GPT‑6 is extremely capable,” Nnenna says.",
+      "zh": "Qodo 的 AI 开发者关系负责人 Nnenna Ndukwe 看到，开发者正在采用这一工作流，借助 Codex 中的 GPT‑6 模型开发功能、处理技术债务。他们正让 Codex 的编程工作与 Qodo 的独立审查自动衔接起来。Nnenna 表示：“我看到开发者正在这样做，这真的令人振奋，因为 GPT‑6 的能力非常强。”"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Itamar describes coding and review agents as “yin and yang”: one creates code, the other challenges it. Each role needs its own setup and context and may involve multiple agents. His vision is for agents to discuss findings and “surface only what they don’t accept” for human review. Developers would become planners and reviewers, able to inspect unresolved issues alongside the agents’ discussion, context, and prior developer decisions.",
+      "en": "Itamar describes coding and review agents as “yin and yang”: one creates code, the other challenges it. Each role needs its own setup and context and may involve multiple agents. His vision is for agents to discuss findings and “surface only what they don’t accept” for human review. Developers would become planners and reviewers, able to inspect unresolved issues alongside the agents’ discussion, context, and prior developer decisions.",
+      "zh": "Itamar 将编程智能体和审查智能体比作“阴阳两面”：一个编写代码，另一个对代码提出质疑。每种角色都需要各自的配置和上下文，也可能由多个智能体共同承担。他希望智能体能讨论审查发现的问题，“只把无法达成共识的部分”提交给人类审查。开发者将成为规划者和审查者，在查看未解决问题的同时，也能查阅智能体的讨论、上下文，以及开发者此前做出的决策。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "“That’s how you create trust,” Itamar says. “I think it makes the whole process overall more efficient,” Nnenna adds. “We get to leverage the best parts of our expertise.”",
+      "en": "“That’s how you create trust,” Itamar says. “I think it makes the whole process overall more efficient,” Nnenna adds. “We get to leverage the best parts of our expertise.”",
+      "zh": "Itamar 表示：“信任就是这样建立起来的。”Nnenna 补充道：“我认为这让整个流程更加高效。我们可以充分发挥自身最有价值的专业能力。”"
+    },
+    {
+      "id": "p13",
+      "kind": "heading",
+      "text": "Putting Codex to work every day",
+      "en": "Putting Codex to work every day",
+      "zh": "让 Codex 融入日常工作"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "Internally at Qodo, Nnenna has been using GPT‑6 Astra’s Extra High and Ultra effort settings in her own automated development workflows as well as knowledge work.",
+      "en": "Internally at Qodo, Nnenna has been using GPT‑6 Astra’s Extra High and Ultra effort settings in her own automated development workflows as well as knowledge work.",
+      "zh": "在 Qodo 内部，Nnenna 一直在自己的自动化开发工作流和知识工作中，使用 GPT‑6 Astra 的“极高”和“Ultra”推理强度设置。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "“What does Codex not do? I love everything that Codex does. I love the idea of combining AI and automation.”",
+      "en": "“What does Codex not do? I love everything that Codex does. I love the idea of combining AI and automation.”",
+      "zh": "“还有什么是 Codex 不做的？我喜欢 Codex 做的每一件事，也很喜欢把 AI 与自动化结合起来的想法。”"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "Nnenna schedules Codex to report on what she accomplished during the week and where she could focus or improve next. She also uses it to research conversations about agentic engineering on social platforms and suggest ideas for developer content. When it comes to her own code changes, she schedules Codex to analyze her work and suggest agent skills to create or refine.",
+      "en": "Nnenna schedules Codex to report on what she accomplished during the week and where she could focus or improve next. She also uses it to research conversations about agentic engineering on social platforms and suggest ideas for developer content. When it comes to her own code changes, she schedules Codex to analyze her work and suggest agent skills to create or refine.",
+      "zh": "Nnenna 为 Codex 设置了定时任务，让它汇总她这一周完成的工作，并建议她接下来可以重点关注哪些方面、在哪些地方作出改进。她还让 Codex 研究社交平台上有关智能体工程的讨论，并为面向开发者的内容提出选题建议。对于自己所做的代码修改，她会安排 Codex 定时分析，并建议创建或完善哪些智能体技能。"
+    },
+    {
+      "id": "p17",
+      "kind": "heading",
+      "text": "Choosing which coding rules apply with the Decisions API",
+      "en": "Choosing which coding rules apply with the Decisions API",
+      "zh": "通过 Decisions API 选择适用的编码规则"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Itamar sees an opportunity to use OpenAI’s recently launched Decisions API to choose which rules and agent skills apply at each stage of development, rather than rely on language models for every decision.",
+      "en": "Itamar sees an opportunity to use OpenAI’s recently launched Decisions API to choose which rules and agent skills apply at each stage of development, rather than rely on language models for every decision.",
+      "zh": "Itamar 认为，OpenAI 最近推出的 Decisions API 提供了一个机会：用它来选择开发各阶段适用的规则和智能体技能，而不必每次决策都依赖语言模型。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "He cites an example where the Decisions API could select which of 200 rules need checking before a language model reasons through the relevant ones, helping to make selection faster and cheaper while improving the quality of the review. “The Decisions API is an immense opportunity for us to bring more trust to the process,” Itamar says.",
+      "en": "He cites an example where the Decisions API could select which of 200 rules need checking before a language model reasons through the relevant ones, helping to make selection faster and cheaper while improving the quality of the review. “The Decisions API is an immense opportunity for us to bring more trust to the process,” Itamar says.",
+      "zh": "他举例说，Decisions API 可以先从 200 条规则中选出需要检查的规则，再由语言模型针对相关规则进行推理。这有助于加快筛选速度、降低成本，同时提高审查质量。Itamar 表示：“Decisions API 为我们提供了一个绝佳机会，让整个流程更值得信赖。”"
+    },
+    {
+      "id": "p20",
+      "kind": "heading",
+      "text": "Building software factories customers can own",
+      "en": "Building software factories customers can own",
+      "zh": "构建客户能自主拥有的软件工厂"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "Qodo’s approach combines “the best aspects of artificial intelligence and the best aspects of traditional software engineering and scripting,” Nnenna says. Company knowledge guides coding agents, independent review checks their work, and human expertise resolves the questions that remain.",
+      "en": "Qodo’s approach combines “the best aspects of artificial intelligence and the best aspects of traditional software engineering and scripting,” Nnenna says. Company knowledge guides coding agents, independent review checks their work, and human expertise resolves the questions that remain.",
+      "zh": "Nnenna 表示，Qodo 的方法结合了“人工智能的优势，以及传统软件工程和脚本编写的优势”。企业知识为编程智能体提供指引，独立审查检查其工作成果，而尚未解决的问题则交由人类运用专业知识处理。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "This creates the foundation of what Itamar describes as a software factory: a system customers could assemble and own, bringing coding and review agents together with an understanding of how software changes in production.",
+      "en": "This creates the foundation of what Itamar describes as a software factory: a system customers could assemble and own, bringing coding and review agents together with an understanding of how software changes in production.",
+      "zh": "这为 Itamar 所说的“软件工厂”奠定了基础。在他的设想中，客户可以自行搭建并拥有这样一套系统。它能将编程智能体和审查智能体结合起来，并利用有关软件在生产环境中如何变化的知识。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "With OpenAI, Qodo is building a future where coding agents put more of a company’s experience to work and developers can focus their judgment where it matters most.",
+      "en": "With OpenAI, Qodo is building a future where coding agents put more of a company’s experience to work and developers can focus their judgment where it matters most.",
+      "zh": "Qodo 正与 OpenAI 携手，希望未来编程智能体能更充分地运用企业积累的经验，开发者也能把判断力用在最关键的地方。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Qodo 开发用于代码审查和软件质量保障的 AI 工具，为编程智能体提供所需的组织知识，帮助它们理解自己修改的代码。联合创始人兼首席执行官 Itamar Friedman 称其为“编程智能体的最佳伙伴”。",
+      "en": "Qodo builds AI tools for code review and software quality, giving coding agents the organizational knowledge they need to understand the code they change. Co-founder and CEO Itamar Friedman calls it “the coding agent’s best friend.”"
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "Qodo 使用包括 GPT‑6 Astra 在内的 OpenAI 模型来收集工程知识、审查代码并监测软件质量。其 Codex 插件将这些上下文和审查能力带入开发者的编程会话。",
+      "en": "Qodo uses OpenAI models including GPT‑6 Astra to gather engineering knowledge, review code, and monitor software quality. Its Codex plugin brings that context and review into developers’ coding sessions."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "Itamar 表示：“Codex 非常擅长高效完成局部任务。”Qodo 的插件让 Codex 能够通过 Qodo 的 Agentic Toolbox 获取代码库知识、组织规则和独立审查能力。",
+      "en": "“Codex is really good at taking a local task and completing it in an efficient way,” Itamar says. Qodo’s plugin gives Codex access to codebase knowledge, organizational rules, and independent review through Qodo’s Agentic Toolbox."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "有了上下文，Codex 就能考虑跨代码仓库的依赖关系，包括托管在不同 Git 平台上的仓库之间，以及通过 Kafka 连接的服务之间的依赖关系。Itamar 表示：“Qodo 会识别这些关联，帮助 Codex 从整体上审视软件，不漏掉那些 P0 级缺陷。",
+      "en": "With context, Codex can account for dependencies across repositories, including those hosted by different Git providers or services connected through Kafka. “Qodo will make that connection and will help Codex look at the software as a whole and not miss those P0 bugs,” Itamar says."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/qodo-codex-plugin/",
+      "title": "Qodo builds context into AI code review with Codex"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/qodo-codex-plugin/",
+      "title": "Qodo 借助 Codex 将上下文融入 AI 代码审查"
+    }
+  },
+  "contentHash": "3c7b3b55a5e0e39a356b8afa9f44d2a110a64fc730df00b234de8c019ce11b70",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/qodo-codex-plugin/"
 }

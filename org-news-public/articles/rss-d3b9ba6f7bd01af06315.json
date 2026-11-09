@@ -3,8 +3,429 @@
   "id": "rss-d3b9ba6f7bd01af06315",
   "url": "https://openai.com/index/localiza-generative-ai",
   "sourceTitle": "How Localiza reorganized work around generative AI",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.900621+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.939157+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:53:55.555Z",
+  "finalURL": "https://openai.com/index/localiza-generative-ai/",
+  "language": "en",
+  "originalTitle": "How Localiza reorganized work around generative AI",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "heading",
+      "text": "A new kind of computing, not a new tool",
+      "en": "A new kind of computing, not a new tool",
+      "zh": "一种全新的计算方式，而不只是新工具"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "When generative AI arrived, Localiza took a view that defined everything that followed: this was more than another piece of software in the toolkit; it was a change in the way the company operates.",
+      "en": "When generative AI arrived, Localiza took a view that defined everything that followed: this was more than another piece of software in the toolkit; it was a change in the way the company operates.",
+      "zh": "生成式 AI 出现时，Localiza 就确立了一个观点，并以此引领后续行动：这不只是工具箱里又多了一款软件，而是公司运营方式的变革。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Rather than pursuing isolated use cases, the company organized its collaboration with OpenAI around three strategic pillars: transforming the business through experimentation at scale, creating new customer interfaces, and building AI-native products. What connects all three is the decision to redesign processes around intelligence, context, and speed.",
+      "en": "Rather than pursuing isolated use cases, the company organized its collaboration with OpenAI around three strategic pillars: transforming the business through experimentation at scale, creating new customer interfaces, and building AI-native products. What connects all three is the decision to redesign processes around intelligence, context, and speed.",
+      "zh": "公司没有着眼于孤立的用例，而是围绕三大战略支柱与 OpenAI 展开合作：通过大规模试验推动业务转型、打造新的客户交互界面，以及构建 AI 原生产品。贯穿这三大支柱的，是围绕智能、上下文和速度重新设计流程的决策。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "“We see this as a powerful tool that helps our teams do what they already do well. They live our culture, understand our customers’ needs, and know how to deliver great service.”",
+      "en": "“We see this as a powerful tool that helps our teams do what they already do well. They live our culture, understand our customers’ needs, and know how to deliver great service.”",
+      "zh": "“我们将其视为一款强大的工具，帮助团队更好地发挥已有优势。他们践行我们的文化，理解客户的需求，也知道如何提供出色的服务。”"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Pillar 1: scale enables learning",
+      "en": "Pillar 1: scale enables learning",
+      "zh": "支柱一：以规模促进学习"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "The principle guiding internal adoption is straightforward: scale enables learning, and learning creates better products.",
+      "en": "The principle guiding internal adoption is straightforward: scale enables learning, and learning creates better products.",
+      "zh": "指导内部应用的原则很简单：规模促进学习，学习带来更好的产品。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "In practice, that meant distributing ChatGPT licenses as a resource for experimentation and productivity, rather than simply as an individual benefit. Teams across Localiza, from finance to day-to-day operations, maintain active experiments with custom GPTs, agents, and Codex.",
+      "en": "In practice, that meant distributing ChatGPT licenses as a resource for experimentation and productivity, rather than simply as an individual benefit. Teams across Localiza, from finance to day-to-day operations, maintain active experiments with custom GPTs, agents, and Codex.",
+      "zh": "落实到实践中，就是将 ChatGPT 许可作为支持试验、提升生产力的资源来分配，而不只是个人福利。从财务到日常运营，Localiza 各团队都在积极尝试使用自定义 GPT、智能体和 Codex。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Codex first arrived in the technology department—software engineers, product managers, designers, and data scientists. But adoption did not stop there: analysts, managers, PMOs, lawyers, and other business specialists began building their own prototypes and automations to test hypotheses within their areas of expertise.",
+      "en": "Codex first arrived in the technology department—software engineers, product managers, designers, and data scientists. But adoption did not stop there: analysts, managers, PMOs, lawyers, and other business specialists began building their own prototypes and automations to test hypotheses within their areas of expertise.",
+      "zh": "Codex 最先在技术部门落地，由软件工程师、产品经理、设计师和数据科学家使用。但应用范围并未止步于此：分析师、经理、项目管理办公室人员、律师以及其他业务专家也开始自行构建原型和自动化流程，验证各自专业领域内的假设。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "This was an effect the company had not anticipated—a redefinition of the stages before development, with multidisciplinary teams prototyping solutions before they enter a development queue.",
+      "en": "This was an effect the company had not anticipated—a redefinition of the stages before development, with multidisciplinary teams prototyping solutions before they enter a development queue.",
+      "zh": "这带来了公司未曾预料的变化：开发前的工作阶段被重新定义，跨专业团队会先为解决方案构建原型，再将其纳入开发排期。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "The bottleneck, he says, is human rather than technical.",
+      "en": "The bottleneck, he says, is human rather than technical.",
+      "zh": "他说，瓶颈在人，而不在技术。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "“The big challenge is helping a large team learn new ways of working and build new skills, while ensuring that all 19 of our tribes and 130 squads work efficiently and consistently.”",
+      "en": "“The big challenge is helping a large team learn new ways of working and build new skills, while ensuring that all 19 of our tribes and 130 squads work efficiently and consistently.”",
+      "zh": "“最大的挑战在于，帮助庞大的团队学习新的工作方式、掌握新技能，同时确保全部 19 个部落和 130 个小队高效运作、步调一致。”"
+    },
+    {
+      "id": "p12",
+      "kind": "heading",
+      "text": "Pillar 2: customers describe their needs in natural language",
+      "en": "Pillar 2: customers describe their needs in natural language",
+      "zh": "支柱二：客户用自然语言描述需求"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "The second area starts with an observation about behavior: people have begun describing what they need in natural language, creating a new entry point for mobility services—at the very moment they express their intent.",
+      "en": "The second area starts with an observation about behavior: people have begun describing what they need in natural language, creating a new entry point for mobility services—at the very moment they express their intent.",
+      "zh": "第二个方向源于对用户行为的观察：人们开始用自然语言描述自己的需求。这为出行服务创造了一个新入口，让服务在人们表达意图的那一刻就能介入。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "Localiza’s internal data confirms this shift: traffic originating from LLMs has been growing rapidly since 2024, with ChatGPT emerging as the main channel.",
+      "en": "Localiza’s internal data confirms this shift: traffic originating from LLMs has been growing rapidly since 2024, with ChatGPT emerging as the main channel.",
+      "zh": "Localiza 的内部数据证实了这一转变：自 2024 年以来，来自大语言模型的流量快速增长，ChatGPT 已成为主要渠道。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "The company chose to establish a presence in this space early. In March 2026, it became Brazil’s first mobility platform—and one of the first in Latin America—to offer an app integrated directly into ChatGPT. Customers can explore rental, subscription, and used-car options and begin their journey in the conversation, before completing the transaction in Localiza’s secure environment.",
+      "en": "The company chose to establish a presence in this space early. In March 2026, it became Brazil’s first mobility platform—and one of the first in Latin America—to offer an app integrated directly into ChatGPT. Customers can explore rental, subscription, and used-car options and begin their journey in the conversation, before completing the transaction in Localiza’s secure environment.",
+      "zh": "公司选择及早布局这一领域。2026 年 3 月，Localiza 成为巴西首家、也是拉丁美洲最早一批推出直接集成于 ChatGPT 的应用的出行平台。客户可以在对话中了解租车、汽车订阅和二手车方案，开启服务旅程，再到 Localiza 的安全环境中完成交易。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "“We believe we’ve been able to serve our customers in these new ways because we took on this challenge early and have kept learning at every step.”",
+      "en": "“We believe we’ve been able to serve our customers in these new ways because we took on this challenge early and have kept learning at every step.”",
+      "zh": "“我们相信，之所以能够以这些新方式服务客户，是因为我们很早就迎接了这项挑战，并在每一步都坚持学习。”"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Internally, Localiza’s app in ChatGPT is treated as what it is: an experiment designed to keep the company close to the frontier of customer behavior, accelerate learning from real interactions, and explore how AI complements the existing ecosystem.",
+      "en": "Internally, Localiza’s app in ChatGPT is treated as what it is: an experiment designed to keep the company close to the frontier of customer behavior, accelerate learning from real interactions, and explore how AI complements the existing ecosystem.",
+      "zh": "在 Localiza 内部，团队明确将其在 ChatGPT 中的应用定位为一项试验：紧跟客户行为的最新变化，加快从真实交互中学习，并探索 AI 如何补充现有生态系统。"
+    },
+    {
+      "id": "p18",
+      "kind": "heading",
+      "text": "Pillar 3: Liza, a product designed around conversation",
+      "en": "Pillar 3: Liza, a product designed around conversation",
+      "zh": "支柱三：Liza，一款围绕对话设计的产品"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "The company’s clearest example of an AI-native product is Liza, a conversational assistant that has become an established success story in its operations.",
+      "en": "The company’s clearest example of an AI-native product is Liza, a conversational assistant that has become an established success story in its operations.",
+      "zh": "Liza 是公司最具代表性的 AI 原生产品。这款对话式助手已成为其运营中一个成熟的成功案例。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "The difference from a traditional chatbot lies in the architecture, not the interface. Rather than following a fixed decision tree, Liza was built around conversation, intent, and context: it combines OpenAI models, Localiza services, and specialized tools to support key parts of the experience, from understanding the initial request to assisting with key stages of the rental journey.",
+      "en": "The difference from a traditional chatbot lies in the architecture, not the interface. Rather than following a fixed decision tree, Liza was built around conversation, intent, and context: it combines OpenAI models, Localiza services, and specialized tools to support key parts of the experience, from understanding the initial request to assisting with key stages of the rental journey.",
+      "zh": "它与传统聊天机器人的区别在于架构，而非界面。Liza 并不遵循固定的决策树，而是围绕对话、意图和上下文构建：它将 OpenAI 模型、Localiza 服务和专用工具相结合，为体验中的重要环节提供支持，从理解最初的请求，到协助完成租车旅程的关键步骤。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "The ambition is to handle repetitive journeys with quality and free teams for complex, higher-value interactions.",
+      "en": "The ambition is to handle repetitive journeys with quality and free teams for complex, higher-value interactions.",
+      "zh": "其目标是高质量地处理重复性服务流程，让团队腾出精力应对更复杂、价值更高的交互。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "But success is not measured by the volume of automation.",
+      "en": "But success is not measured by the volume of automation.",
+      "zh": "但衡量成功的标准并不是自动化处理量。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "Localiza was already mapping and measuring its customer service journeys before it had access to this type of technology—and that foundation made it possible to decide clearly where an agent should step in and where a human needs to intervene.",
+      "en": "Localiza was already mapping and measuring its customer service journeys before it had access to this type of technology—and that foundation made it possible to decide clearly where an agent should step in and where a human needs to intervene.",
+      "zh": "在接触这类技术之前，Localiza 就已开始梳理和衡量客户服务旅程。有了这一基础，公司才能明确判断哪些环节应交给智能体，哪些环节需要人工介入。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "“We’ve always been committed to making the customer journey as seamless as possible, and we’ve developed metrics to measure the quality of that experience. We track conversion too, of course, but our main focus is the customer experience.”",
+      "en": "“We’ve always been committed to making the customer journey as seamless as possible, and we’ve developed metrics to measure the quality of that experience. We track conversion too, of course, but our main focus is the customer experience.”",
+      "zh": "“我们始终致力于让客户旅程尽可能顺畅，并制定了衡量体验质量的指标。当然，我们也跟踪转化情况，但最关注的始终是客户体验。”"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "Liza also serves as a continuous learning loop: aggregated, monitored signals from interactions help identify needs, points of friction, and service opportunities. Combined with voice capabilities—voice-to-text and text-to-voice—these signals support its evolution from a transactional chatbot into an AI-native customer interface that can learn and scale across different mobility journeys.",
+      "en": "Liza also serves as a continuous learning loop: aggregated, monitored signals from interactions help identify needs, points of friction, and service opportunities. Combined with voice capabilities—voice-to-text and text-to-voice—these signals support its evolution from a transactional chatbot into an AI-native customer interface that can learn and scale across different mobility journeys.",
+      "zh": "Liza 还构成了一个持续学习的闭环：通过汇总和监测交互信号，帮助识别客户需求、体验障碍和服务机会。结合语音转文字和文字转语音能力，这些信号推动 Liza 从交易型聊天机器人演进为 AI 原生的客户交互界面，能够在不同的出行服务旅程中持续学习并扩展应用。"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "“This frees up much of the team to tackle more meaningful problems with greater confidence and ease, helping us deliver on our mission for our customers.”",
+      "en": "“This frees up much of the team to tackle more meaningful problems with greater confidence and ease, helping us deliver on our mission for our customers.”",
+      "zh": "“这让团队中的许多人得以腾出精力，更有信心、更从容地解决更有意义的问题，帮助我们践行为客户服务的使命。”"
+    },
+    {
+      "id": "p27",
+      "kind": "heading",
+      "text": "Learning together, since GPT‑3.5",
+      "en": "Learning together, since GPT‑3.5",
+      "zh": "从 GPT‑3.5 时代起，共同学习"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "The partnership with OpenAI began early: the first version of Liza still ran on GPT‑3.5.",
+      "en": "The partnership with OpenAI began early: the first version of Liza still ran on GPT‑3.5.",
+      "zh": "与 OpenAI 的合作很早就开始了：Liza 的最初版本还运行在 GPT‑3.5 上。"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "For Petenussi, the central value of the relationship lies in active learning between two companies evolving in parallel, rather than in a specific feature—with the partner understanding Localiza’s challenges and the different maturity levels of its capabilities, both within and outside technology.",
+      "en": "For Petenussi, the central value of the relationship lies in active learning between two companies evolving in parallel, rather than in a specific feature—with the partner understanding Localiza’s challenges and the different maturity levels of its capabilities, both within and outside technology.",
+      "zh": "对 Petenussi 而言，这段合作关系的核心价值不在于某项具体功能，而在于两家同步发展的公司积极相互学习。在这一过程中，合作伙伴能够理解 Localiza 面临的挑战，以及其技术和非技术领域各项能力所处的不同成熟阶段。"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "It is an argument he often makes to other companies in the market: with a technology that is still maturing, trial and error and close collaboration have considerable value.",
+      "en": "It is an argument he often makes to other companies in the market: with a technology that is still maturing, trial and error and close collaboration have considerable value.",
+      "zh": "他也经常向市场上的其他公司强调这一点：面对仍在走向成熟的技术，试错与密切合作具有重要价值。"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "“We believe we’re still in the early years of a technology that is transforming markets, how we work, and how we use products and services. It will help shape our world over the next 5, 10, and 15 years.”",
+      "en": "“We believe we’re still in the early years of a technology that is transforming markets, how we work, and how we use products and services. It will help shape our world over the next 5, 10, and 15 years.”",
+      "zh": "“我们认为，这项技术的发展仍处于早期，但它已经在改变市场、我们的工作方式，以及我们使用产品和服务的方式。在未来 5 年、10 年乃至 15 年里，它都将参与塑造我们的世界。”"
+    },
+    {
+      "id": "p32",
+      "kind": "heading",
+      "text": "Results overview",
+      "en": "Results overview",
+      "zh": "成果概览"
+    },
+    {
+      "id": "p33",
+      "kind": "paragraph",
+      "text": "In March 2026, Localiza became the first company in Brazil, and one of the first in Latin America, to launch an app integrated directly into ChatGPT; more recently, it joined the platform’s advertising pilot in Brazil as an advertiser.",
+      "en": "In March 2026, Localiza became the first company in Brazil, and one of the first in Latin America, to launch an app integrated directly into ChatGPT; more recently, it joined the platform’s advertising pilot in Brazil as an advertiser.",
+      "zh": "2026 年 3 月，Localiza 成为巴西首家、也是拉丁美洲最早一批推出直接集成于 ChatGPT 的应用的公司；近期，它又以广告主身份参与了该平台在巴西的广告试点。"
+    },
+    {
+      "id": "p34",
+      "kind": "paragraph",
+      "text": "Traffic from LLMs has been growing rapidly since 2024, with ChatGPT as the main channel.",
+      "en": "Traffic from LLMs has been growing rapidly since 2024, with ChatGPT as the main channel.",
+      "zh": "自 2024 年以来，来自大语言模型的流量快速增长，其中 ChatGPT 是主要渠道。"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "The Liza assistant operates with more than 60 specialized agents, built on reasoning models, MCP integration, and specialized tools that orchestrate the rental journey.",
+      "en": "The Liza assistant operates with more than 60 specialized agents, built on reasoning models, MCP integration, and specialized tools that orchestrate the rental journey.",
+      "zh": "Liza 助手由 60 多个专用智能体协同运作，依托推理模型、MCP 集成和专用工具，统筹租车流程。"
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "Teams across the company—from finance to operations—maintain active experiments with custom GPTs, agents, and Codex.",
+      "en": "Teams across the company—from finance to operations—maintain active experiments with custom GPTs, agents, and Codex.",
+      "zh": "从财务到运营，公司各团队都在积极尝试使用自定义 GPT、智能体和 Codex。"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "Codex reached the technology department and spread to business areas, with analysts, managers, PMOs, and lawyers building their own prototypes and automations.",
+      "en": "Codex reached the technology department and spread to business areas, with analysts, managers, PMOs, and lawyers building their own prototypes and automations.",
+      "zh": "Codex 从技术部门推广到业务领域，分析师、经理、项目管理办公室人员和律师都开始自行构建原型和自动化流程。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "The technology operation is organized into 19 tribes and 130 squads.",
+      "en": "The technology operation is organized into 19 tribes and 130 squads.",
+      "zh": "技术团队由 19 个部落和 130 个小队组成。"
+    },
+    {
+      "id": "p39",
+      "kind": "heading",
+      "text": "Lessons for leaders",
+      "en": "Lessons for leaders",
+      "zh": "给领导者的启示"
+    },
+    {
+      "id": "p40",
+      "kind": "paragraph",
+      "text": "Treat AI as a new operating model, rather than a productivity layer. The greatest gains come from redesigning processes around intelligence, context, and speed.",
+      "en": "Treat AI as a new operating model, rather than a productivity layer. The greatest gains come from redesigning processes around intelligence, context, and speed.",
+      "zh": "将 AI 视为一种新的运营模式，而非提升生产力的辅助工具。最大的收益来自围绕智能、上下文和速度重新设计流程。"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "Use scale to generate learning. Simultaneous experiments at scale produce more organizational knowledge than a perfect pilot.",
+      "en": "Use scale to generate learning. Simultaneous experiments at scale produce more organizational knowledge than a perfect pilot.",
+      "zh": "以规模促进学习。大规模并行试验所积累的组织知识，比一次完美的试点更多。"
+    },
+    {
+      "id": "p42",
+      "kind": "paragraph",
+      "text": "Take experimentation beyond technology. When lawyers, PMOs, and analysts prototype within their own areas, the nature of upstream work changes.",
+      "en": "Take experimentation beyond technology. When lawyers, PMOs, and analysts prototype within their own areas, the nature of upstream work changes.",
+      "zh": "让试验走出技术部门。当律师、项目管理办公室人员和分析师在各自领域构建原型时，开发前期工作的性质也随之改变。"
+    },
+    {
+      "id": "p43",
+      "kind": "paragraph",
+      "text": "Map and measure your journeys before automating them. Having quality metrics in place enables you to decide where an agent should intervene and where a human is indispensable.",
+      "en": "Map and measure your journeys before automating them. Having quality metrics in place enables you to decide where an agent should intervene and where a human is indispensable.",
+      "zh": "先梳理和衡量客户旅程，再实现自动化。建立质量指标后，才能判断哪些环节应由智能体介入，哪些环节离不开人工。"
+    },
+    {
+      "id": "p44",
+      "kind": "paragraph",
+      "text": "The adoption bottleneck is reskilling, not the model. Changing how hundreds of people work is harder—and more decisive—than integrating the technology.",
+      "en": "The adoption bottleneck is reskilling, not the model. Changing how hundreds of people work is harder—and more decisive—than integrating the technology.",
+      "zh": "应用落地的瓶颈在于技能再培训，而非模型。改变数百人的工作方式，比技术集成更难，也更能决定成败。"
+    },
+    {
+      "id": "p45",
+      "kind": "heading",
+      "text": "Tips",
+      "en": "Tips",
+      "zh": "实用建议"
+    },
+    {
+      "id": "p46",
+      "kind": "paragraph",
+      "text": "Start with the customer’s problem and journey, rather than a model feature.",
+      "en": "Start with the customer’s problem and journey, rather than a model feature.",
+      "zh": "从客户的问题和旅程出发，而不是从模型的某项功能出发。"
+    },
+    {
+      "id": "p47",
+      "kind": "paragraph",
+      "text": "Allocate licenses as an experimentation budget, rather than an individual benefit.",
+      "en": "Allocate licenses as an experimentation budget, rather than an individual benefit.",
+      "zh": "将许可作为试验预算来分配，而非个人福利。"
+    },
+    {
+      "id": "p48",
+      "kind": "paragraph",
+      "text": "Establish quality metrics before scaling conversational agents.",
+      "en": "Establish quality metrics before scaling conversational agents.",
+      "zh": "先建立质量指标，再扩大对话式智能体的应用规模。"
+    },
+    {
+      "id": "p49",
+      "kind": "paragraph",
+      "text": "Treat a presence in new conversational channels as a learning experiment, rather than an acquisition campaign.",
+      "en": "Treat a presence in new conversational channels as a learning experiment, rather than an acquisition campaign.",
+      "zh": "将入驻新的对话渠道视为一次学习试验，而非获客活动。"
+    },
+    {
+      "id": "p50",
+      "kind": "paragraph",
+      "text": "Close the loop: use the signals generated by each interaction to improve the product itself.",
+      "en": "Close the loop: use the signals generated by each interaction to improve the product itself.",
+      "zh": "形成闭环：利用每次交互产生的信号，改进产品本身。"
+    },
+    {
+      "id": "p51",
+      "kind": "heading",
+      "text": "Next steps",
+      "en": "Next steps",
+      "zh": "下一步"
+    },
+    {
+      "id": "p52",
+      "kind": "paragraph",
+      "text": "Localiza’s ambition is to put AI at the center of its next experiences and processes—whether in how work is produced, the experience created for customers, or the resolution of an operational problem.",
+      "en": "Localiza’s ambition is to put AI at the center of its next experiences and processes—whether in how work is produced, the experience created for customers, or the resolution of an operational problem.",
+      "zh": "Localiza 希望将 AI 置于未来体验和流程的核心，无论是完成工作的方式、为客户打造的体验，还是运营问题的解决。"
+    },
+    {
+      "id": "p53",
+      "kind": "paragraph",
+      "text": "The next areas already being developed with OpenAI include the evolution of Liza and sales-focused agents, the establishment of conversational interfaces as a customer entry point, and the new cycle of agentic software development.",
+      "en": "The next areas already being developed with OpenAI include the evolution of Liza and sales-focused agents, the establishment of conversational interfaces as a customer entry point, and the new cycle of agentic software development.",
+      "zh": "公司已与 OpenAI 着手推进下一阶段的工作，包括升级 Liza 和面向销售的智能体、将对话式界面打造为客户入口，以及开启由智能体驱动的软件开发新周期。"
+    },
+    {
+      "id": "p54",
+      "kind": "paragraph",
+      "text": "“The main focus is how we create better experiences. Whether that is to improve the profitability of our business, to ensure its health, or, above all, to create delightful experiences for our customers and our employees.”",
+      "en": "“The main focus is how we create better experiences. Whether that is to improve the profitability of our business, to ensure its health, or, above all, to create delightful experiences for our customers and our employees.”",
+      "zh": "“我们最关注的是如何创造更好的体验。无论是为了提升业务盈利能力、确保业务健康发展，还是最重要的，为客户和员工创造愉悦的体验。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p6",
+      "zh": "指导内部应用的原则很简单：规模促进学习，学习带来更好的产品。",
+      "en": "The principle guiding internal adoption is straightforward: scale enables learning, and learning creates better products."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "“最大的挑战在于，帮助庞大的团队学习新的工作方式、掌握新技能，同时确保全部 19 个部落和 130 个小队高效运作、步调一致。”",
+      "en": "“The big challenge is helping a large team learn new ways of working and build new skills, while ensuring that all 19 of our tribes and 130 squads work efficiently and consistently.”"
+    },
+    {
+      "paragraphId": "p14",
+      "zh": "Localiza 的内部数据证实了这一转变：自 2024 年以来，来自大语言模型的流量快速增长，ChatGPT 已成为主要渠道。",
+      "en": "Localiza’s internal data confirms this shift: traffic originating from LLMs has been growing rapidly since 2024, with ChatGPT emerging as the main channel."
+    },
+    {
+      "paragraphId": "p15",
+      "zh": "公司选择及早布局这一领域。2026 年 3 月，Localiza 成为巴西首家、也是拉丁美洲最早一批推出直接集成于 ChatGPT 的应用的出行平台。",
+      "en": "The company chose to establish a presence in this space early. In March 2026, it became Brazil’s first mobility platform—and one of the first in Latin America—to offer an app integrated directly into ChatGPT."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/localiza-generative-ai/",
+      "title": "How Localiza reorganized work around generative AI"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/localiza-generative-ai/",
+      "title": "Localiza 如何围绕生成式 AI 重塑工作方式"
+    }
+  },
+  "contentHash": "3a851c511a4f1c214e9d0d799d616d03611ac40261e54a24f7f21bbbeea4c7ed",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/localiza-generative-ai/"
 }

@@ -3,8 +3,331 @@
   "id": "rss-de9db6f384cbc7887755",
   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
   "sourceTitle": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.774608+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.810337+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:55:12.432Z",
+  "finalURL": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+  "language": "en",
+  "originalTitle": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Over the past two months, we led a coalition of maintainers, researchers, and security providers to address critical vulnerabilities in PHP, an open-source programming language used to run websites and web applications. Calif identified a critical flaw using GPT‑5.6 Sol as part of our Patch the Planet initiative, with Wiz also independently discovering and reporting both vulnerabilities. PHP’s maintainers led the fixes and release, with our teams and partners like Wiz, Cloudflare, and others contributing research, technical support, and coordination to prepare protections ahead of disclosure.",
+      "en": "Over the past two months, we led a coalition of maintainers, researchers, and security providers to address critical vulnerabilities in PHP, an open-source programming language used to run websites and web applications. Calif identified a critical flaw using GPT‑5.6 Sol as part of our Patch the Planet initiative, with Wiz also independently discovering and reporting both vulnerabilities. PHP’s maintainers led the fixes and release, with our teams and partners like Wiz, Cloudflare, and others contributing research, technical support, and coordination to prepare protections ahead of disclosure.",
+      "zh": "过去两个月，我们牵头组建了一个由维护者、研究人员和安全服务商组成的联盟，共同应对 PHP 中的严重漏洞。PHP 是一种用于运行网站和 Web 应用程序的开源编程语言。在我们的 Patch the Planet 计划中，Calif 使用 GPT‑5.6 Sol 发现了一个严重漏洞；Wiz 也独立发现并报告了这两个漏洞。PHP 维护者主导了修复和版本发布工作，我们的团队以及 Wiz、Cloudflare 等合作伙伴则提供研究、技术支持和协调协助，以便在漏洞披露前准备好防护措施。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "For organizations using PHP, the priority now is applying the fixes. We’re sharing a PHP version checker as a Codex skill to help operators identify potentially vulnerable PHP versions and, alongside PHP’s and their providers’ guidance, determine which updates apply.",
+      "en": "For organizations using PHP, the priority now is applying the fixes. We’re sharing a PHP version checker as a Codex skill to help operators identify potentially vulnerable PHP versions and, alongside PHP’s and their providers’ guidance, determine which updates apply.",
+      "zh": "对于使用 PHP 的组织，当务之急是部署修复程序。我们正以 Codex 技能的形式提供 PHP 版本检查工具 ，帮助运维人员识别可能存在漏洞的 PHP 版本，并结合 PHP 官方及其服务商的指导，确定需要应用哪些更新。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Given the severity of these flaws and PHP’s widespread use, we consider this one of the most impactful security issues in recent memory. It highlights how AI can uncover security flaws with internet-scale impact, but the same capabilities can also help attackers rapidly develop offensive tools and exploits.",
+      "en": "Given the severity of these flaws and PHP’s widespread use, we consider this one of the most impactful security issues in recent memory. It highlights how AI can uncover security flaws with internet-scale impact, but the same capabilities can also help attackers rapidly develop offensive tools and exploits.",
+      "zh": "考虑到这些漏洞的严重程度和 PHP 的广泛使用，我们认为这是近年来影响最大的安全问题之一。这表明 AI 能够发现影响波及整个互联网的安全漏洞，但同样的能力也可能帮助攻击者快速开发攻击工具和漏洞利用程序。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "To our knowledge, frontier AI found these vulnerabilities before attackers did, opening a Defender’s Window for maintainers and security providers to prepare fixes and protections ahead of disclosure.",
+      "en": "To our knowledge, frontier AI found these vulnerabilities before attackers did, opening a Defender’s Window for maintainers and security providers to prepare fixes and protections ahead of disclosure.",
+      "zh": "据我们所知，前沿 AI 比攻击者更早发现了这些漏洞，为维护者和安全服务商打开了防御者窗口期，使其能够在漏洞披露前准备好修复和防护措施。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "To help more defenders use these capabilities, we’ve committed $1 billion in subsidized Daybreak access through Daybreak for Frontline Defenders, focused on organizations with limited security resources protecting essential services.",
+      "en": "To help more defenders use these capabilities, we’ve committed $1 billion in subsidized Daybreak access through Daybreak for Frontline Defenders, focused on organizations with limited security resources protecting essential services.",
+      "zh": "为帮助更多防御者运用这些能力，我们已承诺通过面向一线防御者的 Daybreak 计划，提供价值 10 亿美元的 Daybreak 使用补贴，重点支持安全资源有限、承担关键服务防护职责的组织。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "As significant as they are, these bugs are among several significant vulnerabilities we’ve already found and are working to fix, and we expect similar findings to increase sharply in the coming months. Drawing on our experience thus far, we’re sharing a proposed approach, appropriate for the AI era, to responding to critical vulnerabilities in widely used software, and we’re asking the security community to help improve this framework. It brings together our models, security expertise, and maintainers to help turn findings into protection and build a response that can scale as AI capabilities advance.",
+      "en": "As significant as they are, these bugs are among several significant vulnerabilities we’ve already found and are working to fix, and we expect similar findings to increase sharply in the coming months. Drawing on our experience thus far, we’re sharing a proposed approach, appropriate for the AI era, to responding to critical vulnerabilities in widely used software, and we’re asking the security community to help improve this framework. It brings together our models, security expertise, and maintainers to help turn findings into protection and build a response that can scale as AI capabilities advance.",
+      "zh": "尽管这些漏洞影响重大，但它们只是我们已经发现并正在着手修复的多个重大漏洞中的一部分。我们预计，未来几个月类似问题将大幅增加。基于迄今积累的经验，我们提出了一套适应 AI 时代的方法，用于应对广泛使用的软件中的严重漏洞，并邀请安全社区协助完善这一框架。这一框架将我们的模型、安全专业能力与维护者的力量汇聚起来，帮助把漏洞发现转化为防护措施，并建立能够随 AI 能力进步而扩大规模的响应机制。"
+    },
+    {
+      "id": "p7",
+      "kind": "heading",
+      "text": "Coordinating a global response",
+      "en": "Coordinating a global response",
+      "zh": "协调全球响应机制"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Getting a fix into use can mean adapting it for older releases, preparing provider mitigations, and updating systems across many organizations. A repeatable process helps those teams act quickly as more vulnerabilities are discovered.",
+      "en": "Getting a fix into use can mean adapting it for older releases, preparing provider mitigations, and updating systems across many organizations. A repeatable process helps those teams act quickly as more vulnerabilities are discovered.",
+      "zh": "要让修复措施真正落地，可能需要将其适配到旧版本、为服务商准备缓解措施，并更新众多组织的系统。随着更多漏洞被发现，一套可重复执行的流程能帮助这些团队迅速行动。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Through Patch the Planet, we contributed security expertise and model access to support the PHP response, and worked with maintainers and research partners to test fixes and prepare guidance. We also helped coordinate with infrastructure providers on protections for affected systems and engaged government cyber agencies to help guidance reach critical organizations. This supported the maintainer-led response and helped other defenders prepare.",
+      "en": "Through Patch the Planet, we contributed security expertise and model access to support the PHP response, and worked with maintainers and research partners to test fixes and prepare guidance. We also helped coordinate with infrastructure providers on protections for affected systems and engaged government cyber agencies to help guidance reach critical organizations. This supported the maintainer-led response and helped other defenders prepare.",
+      "zh": "通过 Patch the Planet，我们提供了安全专业支持和模型访问权限，助力提升 PHP 漏洞响应能力，并与维护者及研究合作伙伴一起测试修复程序、编制指导材料。我们还协助与基础设施服务商协调受影响系统的防护工作，并联络政府网络安全机构，帮助将指导信息传达给关键组织。这些工作支持了由维护者主导的响应流程，也帮助其他防御者做好准备。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "For some findings, researchers can work directly with the software’s maintainers to investigate the issue and develop a fix. Others need a wider response because they affect many products or because distributors and service providers need time (which may be in short supply if frontier capabilities are not too far ahead of those that are broadly available) to prepare updates and protections. In those cases, the proposed framework can help maintainers identify who needs to be involved and coordinate the work. The response can involve five stages:",
+      "en": "For some findings, researchers can work directly with the software’s maintainers to investigate the issue and develop a fix. Others need a wider response because they affect many products or because distributors and service providers need time (which may be in short supply if frontier capabilities are not too far ahead of those that are broadly available) to prepare updates and protections. In those cases, the proposed framework can help maintainers identify who needs to be involved and coordinate the work. The response can involve five stages:",
+      "zh": "对于发现的某些漏洞，研究人员可以直接与软件维护者合作，调查问题并开发修复方案。另一些漏洞则需要更广泛的协同响应，因为它们会影响众多产品，或者分发方和服务商需要时间准备更新及防护措施。如果前沿能力并未大幅领先于已广泛普及的能力，这段时间可能十分紧迫。在这些情况下，我们提出的框架可以帮助维护者确定需要哪些参与方，并协调相关工作。响应流程可包括五个阶段："
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Validate and fix the upstream vulnerability. The maintainer, researchers, and essential technical partners confirm the finding, assess its impact, and develop and test a fix. This process includes adversarial testing with frontier models to look for ways around the patch and related variants of the vulnerability.",
+      "en": "Validate and fix the upstream vulnerability. The maintainer, researchers, and essential technical partners confirm the finding, assess its impact, and develop and test a fix. This process includes adversarial testing with frontier models to look for ways around the patch and related variants of the vulnerability.",
+      "zh": "验证并修复上游漏洞。维护者、研究人员和必要的技术合作伙伴共同确认漏洞、评估影响，并开发和测试修复方案。这一过程包括使用前沿模型开展对抗性测试，寻找绕过补丁的方法及相关漏洞变体。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Give affected organizations time to act. We propose a framework for considering which organizations need advance information to prepare protections, while maintainers decide whom to involve. We help with outreach, information-sharing agreements, and coordination between teams. A distributor might adapt a fix for an older release, a hosting provider might test a mitigation, and a security provider might prepare detection or prevention measures, including web application firewall (WAF) rules.",
+      "en": "Give affected organizations time to act. We propose a framework for considering which organizations need advance information to prepare protections, while maintainers decide whom to involve. We help with outreach, information-sharing agreements, and coordination between teams. A distributor might adapt a fix for an older release, a hosting provider might test a mitigation, and a security provider might prepare detection or prevention measures, including web application firewall (WAF) rules.",
+      "zh": "为受影响组织留出行动时间。我们提出了一套框架，用于评估哪些组织需要提前获取信息以准备防护措施；具体邀请谁参与，则由维护者决定。我们协助开展联络、处理信息共享协议，并协调各团队的工作。分发方可能需要将修复程序适配到旧版本，托管服务商可能需要测试缓解措施，而安全服务商可能需要准备检测或预防措施，包括 Web 应用程序防火墙 (WAF) 规则。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "Coordinate with government partners to help protect critical systems. Government agencies play an essential role in coordinating a wider response and helping security guidance reach organizations responsible for critical infrastructure and other essential services. In the case of PHP, we worked, in collaboration with our partners, to engage with multiple parts of the U.S. government, including the White House’s Super Intelligence Force, the Office of the National Cyber Director (ONCD), the Cybersecurity and Infrastructure Security Agency (CISA), as well as international partners to support that effort.",
+      "en": "Coordinate with government partners to help protect critical systems. Government agencies play an essential role in coordinating a wider response and helping security guidance reach organizations responsible for critical infrastructure and other essential services. In the case of PHP, we worked, in collaboration with our partners, to engage with multiple parts of the U.S. government, including the White House’s Super Intelligence Force, the Office of the National Cyber Director (ONCD), the Cybersecurity and Infrastructure Security Agency (CISA), as well as international partners to support that effort.",
+      "zh": "与政府合作伙伴协调，协助保护关键系统。政府机构在协调更广泛的响应机制，以及将安全指导信息传达给负责关键基础设施和其他关键服务的组织方面，发挥着不可或缺的作用。在 PHP 漏洞响应案例中，我们与合作伙伴携手，联络了美国政府的多个部门，包括白宫超级智能工作组、国家网络总监办公室 (ONCD)、网络安全与基础设施安全局 (CISA) 以及国际合作伙伴，以支持这项工作。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "Prepare updates across affected products. As the fix, guidance, and disclosure plans become stable, maintainers can involve additional distributors, hosting and service providers, response teams, and operators to prepare updates and address gaps in coverage.",
+      "en": "Prepare updates across affected products. As the fix, guidance, and disclosure plans become stable, maintainers can involve additional distributors, hosting and service providers, response teams, and operators to prepare updates and address gaps in coverage.",
+      "zh": "为各受影响产品准备更新。随着修复方案、指导材料和披露计划趋于稳定，维护者可以邀请更多分发方、托管及其他服务商、响应团队和运维人员参与，准备更新并弥补覆盖缺口。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "Once a patch is available, publish guidance and support deployment. Public guidance helps people assess their exposure, find authoritative updates or interim mitigations, and check that a fix is running. The response continues as operators deploy updates and report where they need help.",
+      "en": "Once a patch is available, publish guidance and support deployment. Public guidance helps people assess their exposure, find authoritative updates or interim mitigations, and check that a fix is running. The response continues as operators deploy updates and report where they need help.",
+      "zh": "补丁一旦可用，就发布指导材料并支持部署。公开指导材料有助于人们评估自身面临的风险，找到权威来源的更新或临时缓解措施，并确认修复程序已生效。在运维人员部署更新并反馈需要协助之处的过程中，响应工作仍将继续。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "The proposed framework considers an organization’s protective role, including protecting its own systems and customers, the time needed to act, and its ability to handle sensitive information. The same criteria would apply to comparable organizations, with maintainers deciding whom to involve ahead of disclosure.",
+      "en": "The proposed framework considers an organization’s protective role, including protecting its own systems and customers, the time needed to act, and its ability to handle sensitive information. The same criteria would apply to comparable organizations, with maintainers deciding whom to involve ahead of disclosure.",
+      "zh": "所提出的框架会考虑组织的防护职责，包括保护自身系统和客户、采取行动所需的时间，以及处理敏感信息的能力。同类组织将适用相同标准，由维护者决定在披露前邀请哪些组织参与。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Each participant receives the information needed to carry out their protective work, from network logs with indicators of compromise to more sensitive working proof-of-concept exploits. Even limited details can reveal a vulnerability, so we weigh the risk of sharing them against the protection they enable.",
+      "en": "Each participant receives the information needed to carry out their protective work, from network logs with indicators of compromise to more sensitive working proof-of-concept exploits. Even limited details can reveal a vulnerability, so we weigh the risk of sharing them against the protection they enable.",
+      "zh": "每个参与方都会获得开展防护工作所需的信息，范围从包含失陷指标的网络日志，到更敏感、可实际运行的概念验证漏洞利用程序。即使是有限的细节也可能暴露漏洞，因此我们会权衡共享这些信息的风险与其带来的防护收益。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Teams following this framework would work with maintainers to give defenders time to prepare and reassess the timeline if there’s active exploitation in the wild, a leak, a revealing public patch, or increased risk to users from stalled remediation.",
+      "en": "Teams following this framework would work with maintainers to give defenders time to prepare and reassess the timeline if there’s active exploitation in the wild, a leak, a revealing public patch, or increased risk to users from stalled remediation.",
+      "zh": "遵循这一框架的团队将与维护者合作，为防御者留出准备时间；如果出现漏洞已被实际利用、信息泄露、公开补丁暴露漏洞，或修复工作停滞导致用户风险上升等情况，则会重新评估时间安排。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "The Patch the Planet website brings together public disclosures and guidance to help operators identify affected systems, find the right update, and verify that the updated software is running properly. For PHP, it points to the maintainers’ official patch and upgrade instructions and our partners’ technical research. The guidance also covers interim mitigations, when to involve a provider or expert, and backup and recovery. Interim protections can reduce risk, but we’ll make their limits and operational tradeoffs clear.",
+      "en": "The Patch the Planet website brings together public disclosures and guidance to help operators identify affected systems, find the right update, and verify that the updated software is running properly. For PHP, it points to the maintainers’ official patch and upgrade instructions and our partners’ technical research. The guidance also covers interim mitigations, when to involve a provider or expert, and backup and recovery. Interim protections can reduce risk, but we’ll make their limits and operational tradeoffs clear.",
+      "zh": "Patch the Planet 网站汇集了公开披露信息和指导材料，帮助运维人员识别受影响系统、找到合适的更新，并验证更新后的软件是否正常运行。针对 PHP，该网站提供了维护者发布的官方补丁、升级说明以及合作伙伴技术研究报告的链接。这些指导材料还涵盖临时缓解措施、何时需要服务商或专家介入，以及备份与恢复程序。临时防护措施能够降低风险，但我们也会明确说明其局限性，以及运维层面需要作出的权衡。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "Operators can use CISA’s guidance on prioritization and remediation to assess how quickly to act based on exposure, exploitation, and potential impact. That may mean emergency patching, immediate mitigation, or a planned update, alongside forensic triage where warranted to assess whether systems have already been compromised. Priorities should be reassessed as conditions change, with a clear path to lasting remediation.",
+      "en": "Operators can use CISA’s guidance on prioritization and remediation to assess how quickly to act based on exposure, exploitation, and potential impact. That may mean emergency patching, immediate mitigation, or a planned update, alongside forensic triage where warranted to assess whether systems have already been compromised. Priorities should be reassessed as conditions change, with a clear path to lasting remediation.",
+      "zh": "运维人员可以参考 CISA 关于优先级排序和修复的指导，根据暴露程度、漏洞利用情况和潜在影响，评估行动的紧迫性。这可能意味着紧急打补丁、立即采取缓解措施，或按计划更新；必要时还应同步开展取证初步研判，评估系统是否已被入侵。运维人员应随情况变化重新评估优先级，并明确实现持久修复的路径。"
+    },
+    {
+      "id": "p21",
+      "kind": "heading",
+      "text": "Giving maintainers the capacity and resources to respond",
+      "en": "Giving maintainers the capacity and resources to respond",
+      "zh": "为维护者提供响应所需的能力与资源"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Global coordination depends on the people who maintain the software. Many projects are run by small teams that review security reports alongside routine development. Those teams need help separating new issues from duplicates, assessing impact, and testing fixes across supported releases. We support that work with funding, access to capable models, and hands-on engineering help.",
+      "en": "Global coordination depends on the people who maintain the software. Many projects are run by small teams that review security reports alongside routine development. Those teams need help separating new issues from duplicates, assessing impact, and testing fixes across supported releases. We support that work with funding, access to capable models, and hands-on engineering help.",
+      "zh": "全球协调机制离不开软件维护者。许多项目由小型团队运营，他们需要在日常开发之外兼顾安全报告的审查。这些团队需要帮助，以区分新问题与重复报告、评估影响，并在各个仍受支持的版本上测试修复程序。我们通过资金资助、强大模型的访问权限，以及直接的工程协助来支持这些工作。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "Powerful AI capabilities are advancing across the industry, and we expect AI to play a growing role in helping defenders find vulnerabilities, monitor systems, and respond to threats. We’re investing in models, tools, and partnerships to help defenders put those capabilities to work.",
+      "en": "Powerful AI capabilities are advancing across the industry, and we expect AI to play a growing role in helping defenders find vulnerabilities, monitor systems, and respond to threats. We’re investing in models, tools, and partnerships to help defenders put those capabilities to work.",
+      "zh": "整个行业的 AI 能力正不断增强。我们预计，AI 将在帮助防御者发现漏洞、监控系统和应对威胁方面发挥越来越大的作用。我们正在投资模型、工具与合作关系，帮助防御者将这些能力付诸实践。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "Our investments include subscriptions for all maintainers through Codex for OSS and direct sponsorship of projects such as the Rust Foundation for maintainers and technical work. Each project sets its own priorities. Reusable tests and security workflows can reduce the effort needed to handle future findings. Open-source projects can apply to Patch the Planet for hands-on support.",
+      "en": "Our investments include subscriptions for all maintainers through Codex for OSS and direct sponsorship of projects such as the Rust Foundation for maintainers and technical work. Each project sets its own priorities. Reusable tests and security workflows can reduce the effort needed to handle future findings. Open-source projects can apply to Patch the Planet for hands-on support.",
+      "zh": "我们的投入包括通过 Codex for OSS 为所有维护者提供订阅，以及直接赞助 Rust 基金会等项目，支持维护者及技术工作。各项目自行确定优先事项。可复用的测试和安全工作流能够减少处理未来漏洞发现所需的工作量。开源项目可以向 Patch the Planet 提交申请，获得实际操作层面的支持。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "We’re also calibrating additional blocking classifiers for Daybreak to help reduce the potential for misuse. This involves difficult tradeoffs: safeguards intended to prevent abuse can also block legitimate security work. Broad access to capable models and effective protections against misuse are both critical. Our aim is to preserve the capabilities defenders need to find and fix vulnerabilities while limiting harmful use. We’ll continue refining that balance as capabilities advance and we learn from how these tools are used.",
+      "en": "We’re also calibrating additional blocking classifiers for Daybreak to help reduce the potential for misuse. This involves difficult tradeoffs: safeguards intended to prevent abuse can also block legitimate security work. Broad access to capable models and effective protections against misuse are both critical. Our aim is to preserve the capabilities defenders need to find and fix vulnerabilities while limiting harmful use. We’ll continue refining that balance as capabilities advance and we learn from how these tools are used.",
+      "zh": "我们也在为 Daybreak 校准更多用于拦截的分类器，以帮助降低滥用风险。这需要作出艰难的权衡：旨在防止滥用的安全措施，也可能阻碍正当的安全工作。让更多人能够使用强大的模型，以及有效防范滥用行为，两者都至关重要。我们的目标是在限制有害用途的同时，保留防御者发现和修复漏洞所需的能力。随着能力不断进步，我们也会从这些工具的实际使用中积累经验，持续调整以优化这一平衡。"
+    },
+    {
+      "id": "p26",
+      "kind": "heading",
+      "text": "Building more secure software foundations",
+      "en": "Building more secure software foundations",
+      "zh": "构建更安全的软件基础"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "As models become more capable, the opportunity extends beyond finding and fixing individual vulnerabilities. We want to help engineers build more secure software from the start. Improvements to a widely used component can prevent bugs or limit their impact across many products and services.",
+      "en": "As models become more capable, the opportunity extends beyond finding and fixing individual vulnerabilities. We want to help engineers build more secure software from the start. Improvements to a widely used component can prevent bugs or limit their impact across many products and services.",
+      "zh": "随着模型能力的增强，我们有机会做到的不再仅仅是发现和修复单个漏洞。我们希望帮助工程师从一开始就构建更安全的软件。改进一个广泛使用的组件，就能在众多产品和服务中预防漏洞，或限制其影响。"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "AI can help engineers understand existing code, prepare changes, and develop tests, while maintainers and security experts verify that those changes preserve the behavior users depend on. We see opportunities in several areas:",
+      "en": "AI can help engineers understand existing code, prepare changes, and develop tests, while maintainers and security experts verify that those changes preserve the behavior users depend on. We see opportunities in several areas:",
+      "zh": "AI 可以帮助工程师理解现有代码、准备变更并编写测试，而维护者和安全专家则负责验证这些改动是否保留了用户所依赖的行为。我们看到了以下几个领域的机遇："
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "Secure code from the start. Coding models can help developers choose safer defaults, use security libraries correctly, and catch risky patterns as they write. Preventing vulnerabilities during development means fewer emergency fixes for maintainers and users.",
+      "en": "Secure code from the start. Coding models can help developers choose safer defaults, use security libraries correctly, and catch risky patterns as they write. Preventing vulnerabilities during development means fewer emergency fixes for maintainers and users.",
+      "zh": "从源头保障代码安全。编程模型可以帮助开发者选择更安全的默认设置、正确使用安全库，并在编写代码时发现高风险模式。在开发阶段预防漏洞，就意味着维护者和用户需要应对的紧急修复工程更少。"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "Memory-safe software. Moving critical components to memory-safe languages can eliminate common classes of memory errors. AI can help with migrations, with tests and expert review to check behavior and compatibility.",
+      "en": "Memory-safe software. Moving critical components to memory-safe languages can eliminate common classes of memory errors. AI can help with migrations, with tests and expert review to check behavior and compatibility.",
+      "zh": "内存安全的软件。将关键组件迁移到内存安全语言，可以消除一些常见类别的内存错误。AI 可以协助迁移，再通过测试和专家审查来检查行为与兼容性。"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "Formal verification. Mathematical proofs can show that critical components satisfy specified security properties under stated assumptions. Applying these methods to widely used components could help rule out classes of vulnerabilities across the services and critical infrastructure that depend on them.",
+      "en": "Formal verification. Mathematical proofs can show that critical components satisfy specified security properties under stated assumptions. Applying these methods to widely used components could help rule out classes of vulnerabilities across the services and critical infrastructure that depend on them.",
+      "zh": "形式化验证。数学证明可以表明，在明确的假设条件下，关键组件满足指定的安全属性。将这些方法应用于广泛使用的组件，有望在依赖这些组件的服务和关键基础设施中排除整类漏洞。"
+    },
+    {
+      "id": "p32",
+      "kind": "paragraph",
+      "text": "Stronger isolation. Systems need protection against vulnerabilities that have not yet been found or fixed. Running software that processes untrusted files, images, or media in tightly restricted sandboxes can limit the damage if it is compromised. AI can help engineers test and strengthen widely used sandboxing technologies, improving protections across many applications.",
+      "en": "Stronger isolation. Systems need protection against vulnerabilities that have not yet been found or fixed. Running software that processes untrusted files, images, or media in tightly restricted sandboxes can limit the damage if it is compromised. AI can help engineers test and strengthen widely used sandboxing technologies, improving protections across many applications.",
+      "zh": "更强的隔离机制。系统也需要防范尚未发现或修复的漏洞。将处理不可信文件、图像或媒体的软件放在严格受限的沙箱中运行，可以在软件遭到入侵时限制损害。AI 可以帮助工程师测试并强化广泛使用的沙箱技术，从而提升众多应用程序的防护水平。"
+    },
+    {
+      "id": "p33",
+      "kind": "heading",
+      "text": "Help us improve this approach",
+      "en": "Help us improve this approach",
+      "zh": "帮助我们完善这一方法"
+    },
+    {
+      "id": "p34",
+      "kind": "paragraph",
+      "text": "We’re sharing our approach so maintainers, researchers, response teams, providers, and operators can help make it workable. We want to understand where it would help, where it could add delay or burden, and what we’ve missed. Examples from past disclosures would be especially useful.",
+      "en": "We’re sharing our approach so maintainers, researchers, response teams, providers, and operators can help make it workable. We want to understand where it would help, where it could add delay or burden, and what we’ve missed. Examples from past disclosures would be especially useful.",
+      "zh": "我们公开这一方法，是希望维护者、研究人员、响应团队、服务商和运维人员共同帮助提升其可行性。我们希望了解它在哪些方面能够发挥作用，哪些环节可能增加延误或负担，以及我们还有哪些遗漏。以往漏洞披露中的实例尤其有参考价值。"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "We’re particularly interested in:",
+      "en": "We’re particularly interested in:",
+      "zh": "我们尤其关注以下方面："
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "Disclosure windows. How much time do maintainers, operators, and defenders need to prepare and deploy reliable fixes? What evidence should trigger earlier disclosure, especially when some users can be protected sooner than others?",
+      "en": "Disclosure windows. How much time do maintainers, operators, and defenders need to prepare and deploy reliable fixes? What evidence should trigger earlier disclosure, especially when some users can be protected sooner than others?",
+      "zh": "披露窗口期。维护者、运维人员和防御者需要多少时间，才能准备并部署可靠的修复程序？哪些证据应促使我们提前披露，尤其是当部分用户能比其他用户更早获得保护时？"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "Emergency patching. When, if ever, should governments or other operators use a vulnerability to patch systems they own or are authorized to manage after losing administrative access? What safeguards should apply? We can imagine an end-state of internet-wide always-on scanning for known vulnerabilities, and either notifying site owners when one is detected or patching the system.",
+      "en": "Emergency patching. When, if ever, should governments or other operators use a vulnerability to patch systems they own or are authorized to manage after losing administrative access? What safeguards should apply? We can imagine an end-state of internet-wide always-on scanning for known vulnerabilities, and either notifying site owners when one is detected or patching the system.",
+      "zh": "紧急打补丁。对于政府或其他运维方拥有或授权管理的系统，如果已失去管理员访问权限，是否应利用漏洞为其打补丁？如果应当这样做，应在什么情况下进行？应采取哪些保障措施？我们可以设想这样一种最终形态：持续扫描整个互联网中的已知漏洞，一旦发现漏洞，就通知网站所有者或为系统打补丁。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "Early notice. Who needs advance warning to take a useful protective action, including defenders we might miss? When do staged notifications work better than notifying a wider group at once, and how should we weigh coverage against leak risk?",
+      "en": "Early notice. Who needs advance warning to take a useful protective action, including defenders we might miss? When do staged notifications work better than notifying a wider group at once, and how should we weigh coverage against leak risk?",
+      "zh": "提前通知。哪些参与方需要提前获知风险，才能采取有效的防护行动？其中是否包括我们可能遗漏的防御者？什么情况下，分阶段通知比一次性通知更广泛的群体更有效？又该如何权衡覆盖范围与泄露风险？"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "Secure-by-default software packages. How can we help identify and fix vulnerabilities in downstream packages while upstream fixes are pending, or backport fixes to older versions that no longer receive security updates? What testing and maintenance would make these packages reliable options when a timely upgrade isn’t feasible?",
+      "en": "Secure-by-default software packages. How can we help identify and fix vulnerabilities in downstream packages while upstream fixes are pending, or backport fixes to older versions that no longer receive security updates? What testing and maintenance would make these packages reliable options when a timely upgrade isn’t feasible?",
+      "zh": "默认安全的软件包。在上游修复工作尚未就绪时，我们如何帮助识别和修复下游软件包中的漏洞，或将修复回移到已不再接收安全更新的旧版本？当无法及时升级时，需要哪些测试和维护工作，才能让这些软件包成为可靠的选择？"
+    },
+    {
+      "id": "p40",
+      "kind": "paragraph",
+      "text": "We also welcome recommendations for independent security experts who can review the approach, challenge its assumptions, and identify gaps. Your input will help us refine the response and prioritize support. Share your feedback here.",
+      "en": "We also welcome recommendations for independent security experts who can review the approach, challenge its assumptions, and identify gaps. Your input will help us refine the response and prioritize support. Share your feedback here.",
+      "zh": "我们也欢迎大家推荐独立安全专家，帮助审查这一方法、质疑其假设，并找出缺口。你的意见将帮助我们完善响应机制，并确定支持工作的优先级。请在此分享你的反馈。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "过去两个月，我们牵头组建了一个由维护者、研究人员和安全服务商组成的联盟，共同应对 PHP 中的严重漏洞。PHP 是一种用于运行网站和 Web 应用程序的开源编程语言。",
+      "en": "Over the past two months, we led a coalition of maintainers, researchers, and security providers to address critical vulnerabilities in PHP, an open-source programming language used to run websites and web applications. Calif identified a critical flaw using GPT‑5.6 Sol as part of our Patch the Planet initiative, with Wiz also independently discovering and reporting both vulnerabilities."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "尽管这些漏洞影响重大，但它们只是我们已经发现并正在着手修复的多个重大漏洞中的一部分。我们预计，未来几个月类似问题将大幅增加。",
+      "en": "As significant as they are, these bugs are among several significant vulnerabilities we’ve already found and are working to fix, and we expect similar findings to increase sharply in the coming months. Drawing on our experience thus far, we’re sharing a proposed approach, appropriate for the AI era, to responding to critical vulnerabilities in widely used software, and we’re asking the security community to help improve this framework."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "通过 Patch the Planet，我们提供了安全专业支持和模型访问权限，助力提升 PHP 漏洞响应能力，并与维护者及研究合作伙伴一起测试修复程序、编制指导材料。我们还协助与基础设施服务商协调受影响系统的防护工作，并联络政府网络安全机构，帮助将指导信息传达给关键组织。",
+      "en": "Through Patch the Planet, we contributed security expertise and model access to support the PHP response, and worked with maintainers and research partners to test fixes and prepare guidance. We also helped coordinate with infrastructure providers on protections for affected systems and engaged government cyber agencies to help guidance reach critical organizations."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "对于发现的某些漏洞，研究人员可以直接与软件维护者合作，调查问题并开发修复方案。另一些漏洞则需要更广泛的协同响应，因为它们会影响众多产品，或者分发方和服务商需要时间准备更新及防护措施。",
+      "en": "For some findings, researchers can work directly with the software’s maintainers to investigate the issue and develop a fix. Others need a wider response because they affect many products or because distributors and service providers need time (which may be in short supply if frontier capabilities are not too far ahead of those that are broadly available) to prepare updates and protections."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "title": "Patch the Planet：协调全球响应机制，应对智能体发现的严重漏洞"
+    }
+  },
+  "contentHash": "086b0e57bbc3f3cd805765b54b5a6ec9b6eb4695d1c861de05fbeb893a57b714",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/coordinated-disclosure-of-critical-vulnerabilities/"
 }

@@ -3,8 +3,814 @@
   "id": "rss-e2ed7680c50ae3f074e0",
   "url": "https://openai.com/index/the-future-of-the-firm",
   "sourceTitle": "The future of the firm",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.457237+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.501491+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:50:15.996Z",
+  "finalURL": "https://openai.com/index/the-future-of-the-firm/",
+  "language": "en",
+  "originalTitle": "The future of the firm",
+  "author": "Hemanth Asirvatham, Elliott Mokski",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Authors’ note: This is the second essay in our series on the next economy, part of a new platform to host independent voices exploring an AGI future. It reflects our views, not those of OpenAI or our colleagues.",
+      "en": "Authors’ note: This is the second essay in our series on the next economy, part of a new platform to host independent voices exploring an AGI future. It reflects our views, not those of OpenAI or our colleagues.",
+      "zh": "作者按：这是我们探讨未来经济趋势的系列文章中的第二篇，发表于一个汇集独立洞见、探索 AGI 未来的新平台。本文仅代表我们个人的观点，不代表 OpenAI 或同事们的立场。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "The two of us were twenty-four when we started managing our own teams here at OpenAI. That is less impressive once you meet our teams.",
+      "en": "The two of us were twenty-four when we started managing our own teams here at OpenAI. That is less impressive once you meet our teams.",
+      "zh": "我们两人在 OpenAI 开始管理各自的团队时，都只有二十四岁。不过，等你见过我们的团队，就不会觉得这有多了不起了。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "We’re supposed to be grunts. At twenty-four, you’re at the bottom of the corporate ladder. You take the meeting notes and write a few memos. After years of drudgerous work, you are (hopefully) granted a broader remit.",
+      "en": "We’re supposed to be grunts. At twenty-four, you’re at the bottom of the corporate ladder. You take the meeting notes and write a few memos. After years of drudgerous work, you are (hopefully) granted a broader remit.",
+      "zh": "按理说，我们本该是埋头干杂活的小兵。二十四岁时，你通常处在职场阶梯的最底层。你负责做会议记录，写几份备忘录。熬过多年枯燥繁重的工作后，你才有望获得更大的职权范围。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Our path—and the path of many young people today—is looking different. We enter the workforce already with “employees” at our behest. These deputies work day and night, weekends and holidays. They are great at the grunt work. We even have math olympiad gold medalists on staff to advise us. Our new reports still make their share of mistakes. But they are getting better, learning our needs, and we are learning how to manage them.",
+      "en": "Our path—and the path of many young people today—is looking different. We enter the workforce already with “employees” at our behest. These deputies work day and night, weekends and holidays. They are great at the grunt work. We even have math olympiad gold medalists on staff to advise us. Our new reports still make their share of mistakes. But they are getting better, learning our needs, and we are learning how to manage them.",
+      "zh": "而我们，以及如今许多年轻人的职业道路，正在呈现不同的样貌。刚进入职场，我们就已经有了可供调遣的“员工”。这些助手日夜工作，周末和节假日也不休息。它们很擅长做那些基础杂活。我们甚至有数学奥林匹克金牌得主为我们出谋划策。这些新下属仍会犯不少错误。但它们在不断进步，逐渐了解我们的需求，我们也在学习如何管理它们。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Neither of us climbed the corporate ladder. Management has instead come down to our rung. This essay is about our promotion, and the other ways firms might reorganize as we enter the intelligence age.",
+      "en": "Neither of us climbed the corporate ladder. Management has instead come down to our rung. This essay is about our promotion, and the other ways firms might reorganize as we enter the intelligence age.",
+      "zh": "我们谁也没有沿着职场阶梯往上爬。反倒是管理职权主动降级到了我们这一层。这篇文章谈的就是我们的“晋升”，以及进入智能时代后，企业可能采取的其他组织架构调整方式。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "When AI enters the firm, where does it go? We present three illustrative scenarios:",
+      "en": "When AI enters the firm, where does it go? We present three illustrative scenarios:",
+      "zh": "AI 进入企业后，会处在什么位置？我们用以下三种情景来说明："
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Beneath us. Everyone keeps their seat, and a new basement of AI labor grows underneath. We all become managers. First we get assistants, then chiefs of staff, and eventually entire miniature firms reporting up to each of us. Every person gets a promotion.",
+      "en": "Beneath us. Everyone keeps their seat, and a new basement of AI labor grows underneath. We all become managers. First we get assistants, then chiefs of staff, and eventually entire miniature firms reporting up to each of us. Every person gets a promotion.",
+      "zh": "在我们之下。每个人都留在原位，下一层则由 AI 劳动力构成一个新的“地下室”。我们全都成了管理者。起初我们有了助手，之后有了幕僚长，最终，每个人都拥有一家向其汇报的完整微型企业。人人都能实现晋升。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Beside us. AI joins the org chart alongside people as a colleague of sorts, working directly for existing human managers and executives. It starts out by taking up this task and that role. In time, it performs broader functions, reporting higher up the flagpole.",
+      "en": "Beside us. AI joins the org chart alongside people as a colleague of sorts, working directly for existing human managers and executives. It starts out by taking up this task and that role. In time, it performs broader functions, reporting higher up the flagpole.",
+      "zh": "在我们周围。AI 以某种同事的身份加入组织架构，与人类并肩合作，直接向现有的人类管理者和高管汇报。起初，它接手的是某项任务或某个角色。随着时间的推移，它承担的职能范围越来越广，汇报对象的层级也越来越高。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Between us. The most unintuitive case: humans above and humans below, with AI in between. It coordinates and monitors work, enforcing an executive’s vision while recognizing unique contributions from enterprising workers.",
+      "en": "Between us. The most unintuitive case: humans above and humans below, with AI in between. It coordinates and monitors work, enforcing an executive’s vision while recognizing unique contributions from enterprising workers.",
+      "zh": "在我们之间。这是最出人意料的一种情景：上层是人类，下层也是人类，AI 则处于中层。它负责协调和监督工作，落实高管的愿景，同时识别出积极进取的员工所做的独特贡献。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "None of these scenarios will play out exactly as we describe, but we think aspects of all three will come true. All three are already happening in subtle ways.",
+      "en": "None of these scenarios will play out exactly as we describe, but we think aspects of all three will come true. All three are already happening in subtle ways.",
+      "zh": "这三种情景都不会完全按我们的描述展开，但我们认为，其中部分构想会成为现实。事实上，三者都已在悄然推进。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Our focus here isn’t total automation but a transitioning economy. We are interested in what chimeric firms will look like as AI improves and laces itself into existing organizations.",
+      "en": "Our focus here isn’t total automation but a transitioning economy. We are interested in what chimeric firms will look like as AI improves and laces itself into existing organizations.",
+      "zh": "在本文中，我们关注的不是全面自动化，而是转型中的经济。我们想探讨的是，随着 AI 能力提升并融入现有组织，人机混合型企业将呈现何种样貌。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "We believe the hybrid firm is conceptually important because productive adoption of AI isn’t instantaneous. When the models only do a subset of tasks, adoption may be easiest by ground-level employees familiar with the work. Once the models perform broad functions end-to-end, higher-ups can use them directly. In our view, more capable AI is more adoptable: firms must learn technologies, but labor learns the firm and can onboard itself.",
+      "en": "We believe the hybrid firm is conceptually important because productive adoption of AI isn’t instantaneous. When the models only do a subset of tasks, adoption may be easiest by ground-level employees familiar with the work. Once the models perform broad functions end-to-end, higher-ups can use them directly. In our view, more capable AI is more adoptable: firms must learn technologies, but labor learns the firm and can onboard itself.",
+      "zh": "我们认为，混合型企业是一个重要概念，因为采用 AI 并将其转化为生产力的过程并非一蹴而就。当模型只能完成部分任务时，由熟悉业务的基层员工率先使用 AI，或许最为有效。一旦模型可以端到端地承担广泛职能，高层就能直接使用它们。在我们看来，AI 能力越强，就越容易推广：企业必须了解技术，但员工会主动了解企业，自行适应工作。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "We’ll dissect the three new classes of org chart, then examine what they mean for the future of red tape, worker agency, firm size, and pay disparity.",
+      "en": "We’ll dissect the three new classes of org chart, then examine what they mean for the future of red tape, worker agency, firm size, and pay disparity.",
+      "zh": "我们将剖析这三类新的组织架构，再探讨它们对未来的繁文缛节、员工自主权、企业规模以及薪酬差距意味着什么。"
+    },
+    {
+      "id": "p14",
+      "kind": "heading",
+      "text": "The Promoting",
+      "en": "The Promoting",
+      "zh": "晋升模式"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "Our first scenario seems least disruptive. Here, people stay in the same seats with the same reporting lines, ostensibly doing the same jobs as before. The human org chart looks unchanged between today and this future.",
+      "en": "Our first scenario seems least disruptive. Here, people stay in the same seats with the same reporting lines, ostensibly doing the same jobs as before. The human org chart looks unchanged between today and this future.",
+      "zh": "第一种情景带来的冲击似乎最小。人们仍在原来的岗位上，汇报关系不变，表面上做的也还是原来的工作。无论是现在还是未来，人类员工的组织架构看起来似乎毫无变化。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "The difference is below us. Beneath each individual contributor, a new AI labor force reports up to each of us. Our org chart gets a basement, and we all become managers.",
+      "en": "The difference is below us. Beneath each individual contributor, a new AI labor force reports up to each of us. Our org chart gets a basement, and we all become managers.",
+      "zh": "区别在于基层员工。在每位非管理岗员工之下，都新增了一支向其汇报的 AI 员工队伍。组织架构多了一层“地下室”，我们全都成了管理者。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "At first, this basement is unfinished. We start with one or two agents apiece, less as seasoned employees, more as eager interns we must supervise and readily forgive. Our expectations are low: send an email here, draft a memo there, reply to Slack messages everywhere. Like junior human employees, they begin with little autonomy and trust.",
+      "en": "At first, this basement is unfinished. We start with one or two agents apiece, less as seasoned employees, more as eager interns we must supervise and readily forgive. Our expectations are low: send an email here, draft a memo there, reply to Slack messages everywhere. Like junior human employees, they begin with little autonomy and trust.",
+      "zh": "起初，这层“地下室”还没有建好。一开始，每人有一两个智能体。它们不像经验丰富的员工，更像热情的实习生，需要我们监督，也需要我们宽容对待它们的失误。我们的期望不高：发封邮件，起草一份备忘录，随时随地回复 Slack 消息。和初入职场的人类员工一样，它们起初获得的自主权和信任都很有限。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "But as models improve, our agents take on more tasks with less supervision. They coordinate with each other. There might be manager AIs and grunt AIs, accountants and lawyers, all working together at your behest. Far from handholding an intern, your operation eventually looks like a small firm in its own right, with its own org chart and you as its board of directors.",
+      "en": "But as models improve, our agents take on more tasks with less supervision. They coordinate with each other. There might be manager AIs and grunt AIs, accountants and lawyers, all working together at your behest. Far from handholding an intern, your operation eventually looks like a small firm in its own right, with its own org chart and you as its board of directors.",
+      "zh": "但随着模型的进步，智能体能承担的任务更多，需要的监督也随之减少。它们会相互协调。其中可能有 AI 管理者、AI 基层员工、会计和律师，全都在你的调遣下协同运作。最终，你不再是手把手地带实习生，而像是在掌管一家独立的小企业：它有自己的组织架构，而你就是它的董事会。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "Jace still does the accounting at his firm, but he’s no longer clicking around the spreadsheets. His agent underlings do that. Jace’s job is more like his manager’s from a few years ago. His manager, in turn, now has an even bigger remit.",
+      "en": "Jace still does the accounting at his firm, but he’s no longer clicking around the spreadsheets. His agent underlings do that. Jace’s job is more like his manager’s from a few years ago. His manager, in turn, now has an even bigger remit.",
+      "zh": "Jace 仍在公司负责会计工作，但无需亲自调阅检索电子表格。这些事由他手下的智能体完成。Jace 如今的工作，更像是几年前他上司的工作。而他的上司，现在又有了更大的职责范围。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "Jace’s day-to-day has completely changed, now focused on communication, coordination, and creativity. He works less and feels more challenged. His work life has more variance, and he distinguishes himself with leadership skills and a vision he couldn’t showcase before.",
+      "en": "Jace’s day-to-day has completely changed, now focused on communication, coordination, and creativity. He works less and feels more challenged. His work life has more variance, and he distinguishes himself with leadership skills and a vision he couldn’t showcase before.",
+      "zh": "Jace 的日常工作彻底变了，如今的重点是沟通、协调和创意。他工作的时间更少，却觉得更有挑战。他的工作更加丰富多变，他也凭借过去无从展现的领导能力和愿景脱颖而出。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "The accounting team hasn’t shrunk because the rest of the company has grown more productive too and demands more accounting than ever before. The agents can’t yet do everything his team does. The execs wouldn’t know the first thing about assembling financial data and need his domain expertise to use the agents effectively.",
+      "en": "The accounting team hasn’t shrunk because the rest of the company has grown more productive too and demands more accounting than ever before. The agents can’t yet do everything his team does. The execs wouldn’t know the first thing about assembling financial data and need his domain expertise to use the agents effectively.",
+      "zh": "会计团队并没有缩减，因为公司其他部门的生产力也提高了，对会计工作的需求比以往更多。智能体还无法完成团队承担的所有工作。高管们对如何汇集财务数据毫无头绪，需要借助他的专业知识，才能有效使用智能体。"
+    },
+    {
+      "id": "p22",
+      "kind": "heading",
+      "text": "Automation without pink slips",
+      "en": "Automation without pink slips",
+      "zh": "不裁员的自动化"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "Notice how this scenario doesn’t imply layoffs. Here we adopt AI without automating ourselves. We instead automate our past selves, and we move up in the hierarchy. AI takes on more and more of what we used to do. Our jobs remain because there is more to manage, and we gain responsibility for a greater sum of output.",
+      "en": "Notice how this scenario doesn’t imply layoffs. Here we adopt AI without automating ourselves. We instead automate our past selves, and we move up in the hierarchy. AI takes on more and more of what we used to do. Our jobs remain because there is more to manage, and we gain responsibility for a greater sum of output.",
+      "zh": "请注意，这种情景并不意味着裁员。在此情景中，我们虽然采用 AI，却没有被自动化所取代。被自动化取代的是过去的我们，而现在的我们则上升到更高的层级。AI 开始逐步接手我们过去做的工作。我们的岗位依然存在，因为需要管理的事情更多了，我们也要对更大规模的产出负责。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "Jobs aren’t static. Suppose that AI can do ninety percent of what you did before. You might conclude you’re left with only ten percent of the work. The other possibility is that you’re still doing a full job, just a different one—now focused on an objective ten times larger. That is the classic gift of technology: productivity rises, ambition rises to meet it, and wages can rise with the ambition.",
+      "en": "Jobs aren’t static. Suppose that AI can do ninety percent of what you did before. You might conclude you’re left with only ten percent of the work. The other possibility is that you’re still doing a full job, just a different one—now focused on an objective ten times larger. That is the classic gift of technology: productivity rises, ambition rises to meet it, and wages can rise with the ambition.",
+      "zh": "岗位并非一成不变。假设 AI 能完成你过去九成的工作。你可能会认为，自己只剩下一成工作可做。另一种可能是，你仍有一份完整的工作，只是内容变了 — 现在，你专注的目标规模变成了原来的十倍。这正是技术带来的恩赐：生产力提高，工作目标随之扩展，而工资也可能上涨。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "This all depends on whether we still add value to production. This essay focuses on the coming years where automation isn’t universally capable or adopted. Even if AI could do it all, we might still value something more because a person made it, or insist that a person have the final say.",
+      "en": "This all depends on whether we still add value to production. This essay focuses on the coming years where automation isn’t universally capable or adopted. Even if AI could do it all, we might still value something more because a person made it, or insist that a person have the final say.",
+      "zh": "这一切都取决于，我们是否仍能为生产增添价值。本文关注的是未来几年：那时自动化还没有达到无所不能的高度，也尚未实现全面采用。即便 AI 能包办一切，我们仍可能因为某件东西出自人手而更加珍视它，或坚持让人类拥有最终话语权。"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "It also depends on our appetite. If, as consumers, we don’t care for ten times more output, the equilibrium will shift toward fewer workers or fewer hours worked. Historically, increases in output have not satiated us. We have a lot more but work only a little less. Should our appetite continue to grow as output multiplies—and we remain additive to production—we will choose to keep trading our labor for more consumption. If instead production becomes so abundant that we are satiated, we might volunteer a smaller labor force.",
+      "en": "It also depends on our appetite. If, as consumers, we don’t care for ten times more output, the equilibrium will shift toward fewer workers or fewer hours worked. Historically, increases in output have not satiated us. We have a lot more but work only a little less. Should our appetite continue to grow as output multiplies—and we remain additive to production—we will choose to keep trading our labor for more consumption. If instead production becomes so abundant that we are satiated, we might volunteer a smaller labor force.",
+      "zh": "这也取决于我们的需求有多大。如果作为消费者，我们并不想要十倍的产出，那么均衡就会向员工更少或工时更短的方向移动。从历史上看，产出增加并没有让我们感到满足。我们拥有的东西多了很多，工作时间却只少了一点。如果产出成倍增长时，我们的需求也继续增长，而且我们仍能为生产作出贡献，那么我们就会选择继续用劳动换取更多消费。反过来，如果产出丰富到足以满足我们的需求，我们也可能主动选择减少劳动投入。"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "There are more objections we discuss later (e.g. whether we’ll have a larger number of smaller firms). We still think this scenario is important because adoption has to start somewhere. Firms need a way to stably evolve from their current org structures. Bolstering the work of existing employees may be an easier first step than wholesale restructuring. We see this in action today: one worker after another delegating to AI, without an organizational revolution so far.",
+      "en": "There are more objections we discuss later (e.g. whether we’ll have a larger number of smaller firms). We still think this scenario is important because adoption has to start somewhere. Firms need a way to stably evolve from their current org structures. Bolstering the work of existing employees may be an easier first step than wholesale restructuring. We see this in action today: one worker after another delegating to AI, without an organizational revolution so far.",
+      "zh": "后文还会讨论更多不同看法，例如，是否会出现数量更多、规模更小的企业。我们仍认为，这种情景很重要，因为采用新技术总得有个切入点。企业需要一种办法，从现有组织架构平稳演进。相比全面重组，增强现有员工的工作能力，可能是更容易迈出的第一步。今天我们已能看到这一点：越来越多的员工把任务交给 AI，但组织层面的革命尚未开始。"
+    },
+    {
+      "id": "p28",
+      "kind": "heading",
+      "text": "Why adoption might start at the bottom",
+      "en": "Why adoption might start at the bottom",
+      "zh": "为什么采用 AI 可能从基层开始"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "This scenario relies on the front line hiring first. Ground-level workers—not managers and executives—lead on AI adoption. That appears likely, so long as the person who best gets AI to do the work is the person who used to do it themselves.",
+      "en": "This scenario relies on the front line hiring first. Ground-level workers—not managers and executives—lead on AI adoption. That appears likely, so long as the person who best gets AI to do the work is the person who used to do it themselves.",
+      "zh": "这种情景的前提，是由一线员工先开始“招人”。率先采用 AI 的是基层员工，而不是管理者和高管。只要最擅长让 AI 完成某项工作的人，仍是过去亲自从事这项工作的人，这种情景就很有可能发生。"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "Models can already automate many data science tasks, but a department head unfamiliar with the methods and minutiae will struggle to leverage the tools. Until AI becomes proactive enough to tell you what you don’t know (see our next scenario), it will probably work best for those already familiar with how the work is done.",
+      "en": "Models can already automate many data science tasks, but a department head unfamiliar with the methods and minutiae will struggle to leverage the tools. Until AI becomes proactive enough to tell you what you don’t know (see our next scenario), it will probably work best for those already familiar with how the work is done.",
+      "zh": "模型已经能自动完成许多数据科学任务，但不熟悉相关方法和细节的部门负责人，很难用好这些工具。在 AI 足够主动、能够告诉你那些你不知道的事之前（见下一种情景），它很可能是那些已经熟悉相关工作的人的“好拍档”。"
+    },
+    {
+      "id": "p31",
+      "kind": "heading",
+      "text": "Entry level is no longer the lowest level",
+      "en": "Entry level is no longer the lowest level",
+      "zh": "入门岗位不再是最底层"
+    },
+    {
+      "id": "p32",
+      "kind": "paragraph",
+      "text": "The biggest change in this scenario is for entry-level workers. There would no longer be a lowest rung, at least not for humans. When we hire young people, it won’t be to place them at the drudgerous bottom of the firm. Those positions will be filled by something that doesn’t mind.",
+      "en": "The biggest change in this scenario is for entry-level workers. There would no longer be a lowest rung, at least not for humans. When we hire young people, it won’t be to place them at the drudgerous bottom of the firm. Those positions will be filled by something that doesn’t mind.",
+      "zh": "在这种情景中，变化最大的是入门岗位的员工。最底层将不再存在，至少对人类而言如此。我们招聘年轻人，不再是为了把他们放到企业最底层做苦差事。那些岗位将由不介意这些工作的 AI 来填补。"
+    },
+    {
+      "id": "p33",
+      "kind": "paragraph",
+      "text": "With that, we lose some traditional routes to educate young workers: the apprenticeship, the learning-by-grunt-work, the earning of stripes. These are genuine costs, but we mostly see this as a privilege. The greenest hire with a good idea has resources to experiment. The oldest excuse in the building, we just don’t have the manpower, is dying. A junior employee with a great video game in her head and no path to the headcount can now simply build it.",
+      "en": "With that, we lose some traditional routes to educate young workers: the apprenticeship, the learning-by-grunt-work, the earning of stripes. These are genuine costs, but we mostly see this as a privilege. The greenest hire with a good idea has resources to experiment. The oldest excuse in the building, we just don’t have the manpower, is dying. A junior employee with a great video game in her head and no path to the headcount can now simply build it.",
+      "zh": "随之而来的是，我们会失去一些培养年轻员工的传统路径：学徒制、在基础杂活中学习，以及靠历练沉淀资历。这些代价确实存在，但我们总体上仍认为，这是一种特权。即便是最没经验的新员工，只要有好想法，也能有资源去尝试。办公室里最老套的借口“我们实在抽不出人手”正逐渐失效。一名初级员工脑海里有个绝妙的电子游戏构想，却申请不到人手，如今也可以直接把它做出来。"
+    },
+    {
+      "id": "p34",
+      "kind": "paragraph",
+      "text": "In our view, this “promoting” scenario still has much for junior workers to learn—judgment, taste, the muscles of management and creative vision. We will be incentivized to cultivate these skills because they show up in our work product. We will still learn by doing, but at a higher level of scope. Firm elders remain incentivized to help us as responsible stewards (with equity stakes in our success). The opportunity here is a more stimulating role for everyone at every rung. Any worker can showcase their talents with a bigger remit, which matters most to entry workers who had no remit at all.",
+      "en": "In our view, this “promoting” scenario still has much for junior workers to learn—judgment, taste, the muscles of management and creative vision. We will be incentivized to cultivate these skills because they show up in our work product. We will still learn by doing, but at a higher level of scope. Firm elders remain incentivized to help us as responsible stewards (with equity stakes in our success). The opportunity here is a more stimulating role for everyone at every rung. Any worker can showcase their talents with a bigger remit, which matters most to entry workers who had no remit at all.",
+      "zh": "在我们看来，“晋升模式”下的初级员工仍有很多东西要学：判断力、品位、管理本领和创意眼光。我们会有动力培养这些能力，因为它们会直接体现在工作成果中。我们仍会在实践中学习，只是承担的工作范围更大了。企业资深员工仍有动力以负责任的引路人身份帮助我们，因为他们持有股权，也能从我们的成功中获益。这里的机遇在于，让每个层级的每个人都能承担更有挑战、更令人振奋的角色。任何员工都能在更大的职责范围内展示才华，而这对过去根本没有自主职责范围的职场新人尤其重要。"
+    },
+    {
+      "id": "p35",
+      "kind": "heading",
+      "text": "The Interleaving",
+      "en": "The Interleaving",
+      "zh": "交错模式"
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "AI’s second way into the firm weaves through the existing org chart. Here the agents aren’t dregs but colleagues. A traditional manager hands a slice of the team’s work to a model the way she might delegate to any employee. AI inserts itself next to humans, not just under them.",
+      "en": "AI’s second way into the firm weaves through the existing org chart. Here the agents aren’t dregs but colleagues. A traditional manager hands a slice of the team’s work to a model the way she might delegate to any employee. AI inserts itself next to humans, not just under them.",
+      "zh": "AI 进入企业的第二种方式，是穿插到现有的组织架构之中。在这种情景下，智能体不是最底层的小兵，而是同事。传统管理者把团队的一部分工作交给模型，就像把任务交给任何一位员工一样。AI 不只是处在人类员工的下层，也会成为其队友。"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "The key difference from the first scenario: here, productive AI is adopted by existing human managers, not only by current individual contributors. To do so, it must be competent enough to be a fully fledged team member.",
+      "en": "The key difference from the first scenario: here, productive AI is adopted by existing human managers, not only by current individual contributors. To do so, it must be competent enough to be a fully fledged team member.",
+      "zh": "与第一种情景的关键区别在于：在这一情景下，能够创造产出的 AI 由现有的人类管理者采用，而不只是由当前的非管理岗员工采用。要做到这一点，它必须具备足够的能力，成为能够独当一面的团队成员。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "Sheila is a VP at a furniture company. She has never run an ad campaign. She gives an AI marketing team a budget and a new sofa to sell. It divides the launch tasks among its own agents. Some interview the salespeople. Others coordinate with the factory on what they can actually deliver. One subagent launches an online survey while a few more prototype different visual styles.",
+      "en": "Sheila is a VP at a furniture company. She has never run an ad campaign. She gives an AI marketing team a budget and a new sofa to sell. It divides the launch tasks among its own agents. Some interview the salespeople. Others coordinate with the factory on what they can actually deliver. One subagent launches an online survey while a few more prototype different visual styles.",
+      "zh": "Sheila 是一家家具公司的副总裁，从未操盘过任何广告营销活动。她给了 AI 营销团队一笔预算，让它推销一款新沙发。团队把上市任务分配给各个智能体：有的访谈销售人员，有的与工厂协调以确认实际交付能力。一个子智能体发起线上调查，另外几个则负责制作不同视觉风格的样稿。"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "The drafts and revisions pass between them without crossing her desk. Her human sales and design teams still report to her, alongside the team of marketing agents. On Monday, she is handed a campaign to approve and a question about whether the photos make the sofa look too blue. She would never have realized that sort of detail without an ad expert proactively flagging it. She authorizes the agents to coordinate with the human photographer on a reshoot.",
+      "en": "The drafts and revisions pass between them without crossing her desk. Her human sales and design teams still report to her, alongside the team of marketing agents. On Monday, she is handed a campaign to approve and a question about whether the photos make the sofa look too blue. She would never have realized that sort of detail without an ad expert proactively flagging it. She authorizes the agents to coordinate with the human photographer on a reshoot.",
+      "zh": "初稿和修改稿在这些智能体之间流转，无须经她过目。人类销售和设计团队仍向她汇报工作，营销智能体团队也一样。周一，她收到一份待审批的营销活动方案，以及一个问题：照片中的沙发颜色是不是太蓝了？如果没有广告专家主动指出这一点，她根本不会注意到这种细节。她授权智能体与人类摄影师协调重拍。"
+    },
+    {
+      "id": "p40",
+      "kind": "heading",
+      "text": "The escalator of scope",
+      "en": "The escalator of scope",
+      "zh": "工作范围逐级扩展"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "Humans are generalists. A hammer helps with one task; a human does a whole lot more. AI’s journey from tool to labor is a widening ambit: automating the task, then the job, then a team, and finally a firm. Every step up in scope requires broader competence.",
+      "en": "Humans are generalists. A hammer helps with one task; a human does a whole lot more. AI’s journey from tool to labor is a widening ambit: automating the task, then the job, then a team, and finally a firm. Every step up in scope requires broader competence.",
+      "zh": "人类是多面手。锤子只能帮忙完成一项任务，而人能做的远不止这些。AI 从工具走向劳动力的过程，也是能力范围不断扩展的过程：先自动执行一项任务，再覆盖一个岗位、一个团队，乃至一家企业。范围每扩大一级，都需要更全面的能力。"
+    },
+    {
+      "id": "p42",
+      "kind": "paragraph",
+      "text": "A job is a suitcase full of many tasks. For a whole team, that suitcase is crammed with all sorts of diverse work. More tasks in the remit mean more potential chokepoints. If even one essential task in the team involves physical labor, a whole new set of peripherals is required. To be a slot-in substitute for an entire team, the AI must be capable across all its varied responsibilities.",
+      "en": "A job is a suitcase full of many tasks. For a whole team, that suitcase is crammed with all sorts of diverse work. More tasks in the remit mean more potential chokepoints. If even one essential task in the team involves physical labor, a whole new set of peripherals is required. To be a slot-in substitute for an entire team, the AI must be capable across all its varied responsibilities.",
+      "zh": "一个岗位，就像装满各种任务的行李箱。如果是整个团队，这只箱子里就塞满了形形色色的工作。职责范围内的任务越多，潜在瓶颈就越多。团队中哪怕只有一项关键任务涉及体力劳动，也需要一整套全新的外围设备。要直接替代整个团队，AI 就必须胜任团队承担的所有不同职责。"
+    },
+    {
+      "id": "p43",
+      "kind": "paragraph",
+      "text": "AI that can handle bigger scope is harder to build. But for firms—and this is the central asymmetry of the whole transition—bigger scope is easier to adopt.",
+      "en": "AI that can handle bigger scope is harder to build. But for firms—and this is the central asymmetry of the whole transition—bigger scope is easier to adopt.",
+      "zh": "能承担更大范围工作的 AI，更难构建。但对企业来说，工作范围越大，反而越容易采用 — 这正是整个转型过程中最关键的不对称之处。"
+    },
+    {
+      "id": "p44",
+      "kind": "paragraph",
+      "text": "An end-to-end automated team or broad function can be directly adopted by an executive. A tool with narrower capabilities can’t so simply be implemented from on high. The simpler tool relies on widespread buy-in and retraining across the workforce.",
+      "en": "An end-to-end automated team or broad function can be directly adopted by an executive. A tool with narrower capabilities can’t so simply be implemented from on high. The simpler tool relies on widespread buy-in and retraining across the workforce.",
+      "zh": "一个端到端自动化的团队，或一套覆盖广泛职能且可供高管直接引入的自动化方案。能力范围较窄的工具，无法由高层轻松推动落地。这种更简单的工具，需要员工广泛接纳，也需要大范围的再培训。"
+    },
+    {
+      "id": "p45",
+      "kind": "heading",
+      "text": "Firms learn technology; labor learns the firm",
+      "en": "Firms learn technology; labor learns the firm",
+      "zh": "企业学习技术，员工了解企业"
+    },
+    {
+      "id": "p46",
+      "kind": "paragraph",
+      "text": "New technologies traditionally make it cheaper to do a confined set of tasks. Then the burden shifts to the buyer. The firm must figure out how to leverage the new tool, and must retrain, reorganize, and rebuild its processes around it. Spreadsheet software didn’t install itself into the accounting department—the accounting department reshaped itself around the software.",
+      "en": "New technologies traditionally make it cheaper to do a confined set of tasks. Then the burden shifts to the buyer. The firm must figure out how to leverage the new tool, and must retrain, reorganize, and rebuild its processes around it. Spreadsheet software didn’t install itself into the accounting department—the accounting department reshaped itself around the software.",
+      "zh": "传统上，新技术会降低一组有限任务的完成成本。接下来，负担就转移到了购买者身上。企业必须摸索如何利用新工具，并围绕它开展再培训、调整组织架构、重建流程。电子表格软件不会自行融入会计部门；而是会计部门围绕软件重塑自身模式。"
+    },
+    {
+      "id": "p47",
+      "kind": "paragraph",
+      "text": "Labor is the opposite. An intern, an employee, and a good team figure out how to be useful to you. They interrogate you, absorb your context, notice your needs. They tell you what you didn’t even realize you didn’t know. The best labor onboards itself.",
+      "en": "Labor is the opposite. An intern, an employee, and a good team figure out how to be useful to you. They interrogate you, absorb your context, notice your needs. They tell you what you didn’t even realize you didn’t know. The best labor onboards itself.",
+      "zh": "劳动力则恰恰相反。实习生、员工和优秀的团队，会自己想办法为你创造价值。他们会向你提问，了解你的背景，留意你的需求。他们会告诉你那些你仍未察觉的事。最优秀的劳动力能自行适应工作。"
+    },
+    {
+      "id": "p48",
+      "kind": "paragraph",
+      "text": "The more AI becomes like labor in this sense, with initiative and adaptability, the less the firm must learn how to harness it and the more it figures out how to be useful to the firm. An executive probably won’t sit through a design software 101 lecture to learn a new tool. But he will happily entertain an offer that sounds like: say the word, and I’ll set up your whole marketing function.",
+      "en": "The more AI becomes like labor in this sense, with initiative and adaptability, the less the firm must learn how to harness it and the more it figures out how to be useful to the firm. An executive probably won’t sit through a design software 101 lecture to learn a new tool. But he will happily entertain an offer that sounds like: say the word, and I’ll set up your whole marketing function.",
+      "zh": "在这种情景下，AI 越接近劳动力的定义，就越具备主动性和适应力，企业就越不必费心学习使用方法，而是由 AI 逐步摸索如何为企业创造价值。高管多半不会为了学一个新工具，坐下来听完一堂设计软件入门课。但如果有人这样提议，他会很乐意考虑：你只要点头，我就能替你搭建整套营销职能架构。"
+    },
+    {
+      "id": "p49",
+      "kind": "heading",
+      "text": "This isn’t a lone-wolf economy",
+      "en": "This isn’t a lone-wolf economy",
+      "zh": "这不是一个靠单打独斗运转的经济体"
+    },
+    {
+      "id": "p50",
+      "kind": "paragraph",
+      "text": "Too often, we name the holy grail of AGI as automating a job. Granted, we haven’t even reached that yet. Jobs are so extraordinarily complicated because we are so impressively capable. Even so, very little of our economy’s output comes from lone-wolf workers. Productive jobs contribute to teams, teams to firms, and firms produce most everything we consume.",
+      "en": "Too often, we name the holy grail of AGI as automating a job. Granted, we haven’t even reached that yet. Jobs are so extraordinarily complicated because we are so impressively capable. Even so, very little of our economy’s output comes from lone-wolf workers. Productive jobs contribute to teams, teams to firms, and firms produce most everything we consume.",
+      "zh": "我们常常将岗位自动化视为 AGI 的终极目标。诚然，我们连这一步都还没达到。工作之所以如此复杂，正是因为人类的能力如此出众。即便如此，真正来自单打独斗的劳动者的经济产出，可谓少之又少。有产出的岗位为团队贡献力量，团队为企业贡献力量，而企业生产了我们消费的几乎所有产品与服务。"
+    },
+    {
+      "id": "p51",
+      "kind": "paragraph",
+      "text": "The “job” standard for AGI doesn’t give us humans enough credit. Labor isn’t just about the tasks, or even handling the non-routine components: our labor is also about prodigious coordination, our plasticity to do small parts of bigger outputs. Selling us as mere sacks of tasks is pennies on the dollar. Human capacity is in our organizations more than the individual. An economic AGI must reach the standard of people, not person.",
+      "en": "The “job” standard for AGI doesn’t give us humans enough credit. Labor isn’t just about the tasks, or even handling the non-routine components: our labor is also about prodigious coordination, our plasticity to do small parts of bigger outputs. Selling us as mere sacks of tasks is pennies on the dollar. Human capacity is in our organizations more than the individual. An economic AGI must reach the standard of people, not person.",
+      "zh": "用“岗位”来衡量 AGI，低估了我们人类。劳动不只是完成任务，甚至不只是处理非常规情况；它还包括非凡的协同能力，以及灵活适应、在推动更大成果的过程中承担小部分工作的能力。把人类仅仅看作一堆任务的集合，无异于贱卖我们的价值。人类的能力，更多体现在我们的组织中，而非单个个体身上。在经济层面，AGI 必须达到的是一群人的标准，而不是一个人的标准。"
+    },
+    {
+      "id": "p52",
+      "kind": "paragraph",
+      "text": "As a result, the “interleaving” scenario may be quite inefficient if the AI is still tool-like or even worker-like, instead of team-like or firm-like. A model wedged beside every worker means a thousand seams and handoffs. This piecemeal setup may slow adoption.",
+      "en": "As a result, the “interleaving” scenario may be quite inefficient if the AI is still tool-like or even worker-like, instead of team-like or firm-like. A model wedged beside every worker means a thousand seams and handoffs. This piecemeal setup may slow adoption.",
+      "zh": "因此，如果 AI 仍然只是一件工具，甚至只是单个员工，而不是化身为团队或企业，那么“交错模式”可能相当低效。在每个员工旁边加入一个模型，意味着成千上万的衔接和交接环节。这种零敲碎打的配置，可能拖慢采用进程。"
+    },
+    {
+      "id": "p53",
+      "kind": "paragraph",
+      "text": "We see a race between earlier, less capable implementations and later, more capable models. The victor hinges on whether adoption of future models is so much faster that it overcomes the extra time it takes to reach those competencies.",
+      "en": "We see a race between earlier, less capable implementations and later, more capable models. The victor hinges on whether adoption of future models is so much faster that it overcomes the extra time it takes to reach those competencies.",
+      "zh": "在我们看来，较早落地但能力较弱的应用，与较晚出现但能力更强的模型之间，正在展开一场竞赛。谁会胜出，取决于未来模型的采用速度能否快到足以弥补研发这些能力所投入的时间。"
+    },
+    {
+      "id": "p54",
+      "kind": "heading",
+      "text": "The two scenarios so far",
+      "en": "The two scenarios so far",
+      "zh": "目前讨论的两种情景"
+    },
+    {
+      "id": "p55",
+      "kind": "paragraph",
+      "text": "This “interleaving” scenario can coexist with the first “promoting” scenario. We may see firms shrink their human footprint as AI automates certain functions, while the remaining humans get much broader mandates aided by their agent workforces. Importantly, by itself this scenario doesn’t imply lower overall human employment. We could find ourselves with more firms, each with a lower headcount.",
+      "en": "This “interleaving” scenario can coexist with the first “promoting” scenario. We may see firms shrink their human footprint as AI automates certain functions, while the remaining humans get much broader mandates aided by their agent workforces. Importantly, by itself this scenario doesn’t imply lower overall human employment. We could find ourselves with more firms, each with a lower headcount.",
+      "zh": "这种“交错模式”可以与第一种“晋升模式”并存。我们可能会发现：随着 AI 实现部分职能的自动化，企业的人类员工人数逐步减少；与此同时，留下的人在智能体队伍的帮助下，获得更大的职权范围。重要的是，这种情景本身并不意味着人类总体就业率降低。最终可能是企业数量更多，而每家企业的员工更少。"
+    },
+    {
+      "id": "p56",
+      "kind": "heading",
+      "text": "The Layering",
+      "en": "The Layering",
+      "zh": "夹层模式"
+    },
+    {
+      "id": "p57",
+      "kind": "paragraph",
+      "text": "Our third scenario is the most confounding. Here, AI enters the firm above people. The stack is no longer humans over machines but human, AI, human: an automation sandwich. Some people “report” to an AI.",
+      "en": "Our third scenario is the most confounding. Here, AI enters the firm above people. The stack is no longer humans over machines but human, AI, human: an automation sandwich. Some people “report” to an AI.",
+      "zh": "第三种情景最令人困惑。在这种情景中，AI 进入企业后，其层级处在人类之上。层级结构不再是人类高于机器，而是人类、AI、人类的自动化“三明治”架构。有些人需要向 AI“汇报”。"
+    },
+    {
+      "id": "p58",
+      "kind": "paragraph",
+      "text": "It sounds far-fetched, especially as a starting point for firm adoption. But we think, in less radical ways, this has already begun.",
+      "en": "It sounds far-fetched, especially as a starting point for firm adoption. But we think, in less radical ways, this has already begun.",
+      "zh": "这听起来很不现实，尤其难以想象它会成为企业采用 AI 的起点。但我们认为，它已在以较温和的形式展开。"
+    },
+    {
+      "id": "p59",
+      "kind": "paragraph",
+      "text": "Asha, the chief executive, is pinged by her AI consultancy that there is a problem with an upcoming launch. It has already investigated the issue and found that sales promised a feature engineering isn’t building. The evidence is pulled from ordinary work threads in Slack; nobody has written her a report or even realized the miscommunication between the teams.",
+      "en": "Asha, the chief executive, is pinged by her AI consultancy that there is a problem with an upcoming launch. It has already investigated the issue and found that sales promised a feature engineering isn’t building. The evidence is pulled from ordinary work threads in Slack; nobody has written her a report or even realized the miscommunication between the teams.",
+      "zh": "首席执行官 Asha 收到 AI 咨询机构的提醒：即将发布的产品出了问题。经过调查，它发现销售团队承诺了一项工程团队并未开发的功能。证据来自 Slack 上日常的工作讨论，没有人为她撰写报告，甚至没人意识到团队之间存在沟通偏差。"
+    },
+    {
+      "id": "p60",
+      "kind": "paragraph",
+      "text": "The AI consultancy proposes she delay the launch and reassign three engineers. It also notices that Sarah, a work-from-home engineer, has already built some useful infrastructure for the project even though no one told her to. The consultancy ensures Sarah’s proactive contribution is recognized and communicated to Asha. Asha calls Sarah, thanks her for going above and beyond, and commends her by designating her the engineering lead of the new effort.",
+      "en": "The AI consultancy proposes she delay the launch and reassign three engineers. It also notices that Sarah, a work-from-home engineer, has already built some useful infrastructure for the project even though no one told her to. The consultancy ensures Sarah’s proactive contribution is recognized and communicated to Asha. Asha calls Sarah, thanks her for going above and beyond, and commends her by designating her the engineering lead of the new effort.",
+      "zh": "AI 咨询机构建议她推迟发布，并重新调配三名工程师。它还发现，居家办公的工程师 Sarah 已经主动为这个项目搭建了一些有用的基础设施，尽管没人要求她这么做。咨询机构确保 Sarah 的主动贡献得到认可，并将其告知 Asha。Asha 打电话给 Sarah，感谢她超出职责范围的付出，并任命她为这项新工作的工程负责人，以示嘉奖。"
+    },
+    {
+      "id": "p61",
+      "kind": "heading",
+      "text": "The ladder might burn from the top",
+      "en": "The ladder might burn from the top",
+      "zh": "职场阶梯可能从顶层逐步熔断"
+    },
+    {
+      "id": "p62",
+      "kind": "paragraph",
+      "text": "Even when we think of AI as a mechanizer of cognitive labor, we tend to focus on the lower rungs. We typically say AI automates spreadsheets and slide decks, not management. Our instinct is that automation climbs the hierarchy: cognitive gruntwork first and judgment last, with the manager as the final redoubt.",
+      "en": "Even when we think of AI as a mechanizer of cognitive labor, we tend to focus on the lower rungs. We typically say AI automates spreadsheets and slide decks, not management. Our instinct is that automation climbs the hierarchy: cognitive gruntwork first and judgment last, with the manager as the final redoubt.",
+      "zh": "即便把 AI 视为脑力劳动的自动化工具，我们的关注点也往往在较低层级。我们通常认为 AI 能自动制作电子表格和演示文稿，而无法自动完成管理工作。直觉告诉我们，自动化会沿着层级往上爬：先是基础脑力劳动，最后才是判断，而管理者是最后的堡垒。"
+    },
+    {
+      "id": "p63",
+      "kind": "paragraph",
+      "text": "But a manager’s work largely lives on a computer and in the mind: reading, meeting, weighing, holding context, making decisions. There is value to physical presence, to touring the office floors and being around the troops. Yet it is ground-level work, even when it is mostly cognitive work, that tangles with atoms and tools more than management. The intern is sent to the photocopier, not his boss.",
+      "en": "But a manager’s work largely lives on a computer and in the mind: reading, meeting, weighing, holding context, making decisions. There is value to physical presence, to touring the office floors and being around the troops. Yet it is ground-level work, even when it is mostly cognitive work, that tangles with atoms and tools more than management. The intern is sent to the photocopier, not his boss.",
+      "zh": "但管理者的大部分工作都需要依靠电脑和思维：阅读、开会、权衡、掌握背景情况、作出决策。亲临现场、巡视办公区、与员工互动，确实有其价值。然而，与管理工作相比，基层工作即便主要是脑力劳动，也更常需要与实体世界和工具打交道。被派去操作复印机的是实习生，而不是他的老板。"
+    },
+    {
+      "id": "p64",
+      "kind": "paragraph",
+      "text": "Managerial decision-making is hard to teach to a model, because success is ambiguous and measured over long time horizons. It is for similar reasons that training good human managers is hard. We don’t yet know how good the models are at management. Our evaluations abound for execution-focused cognitive labor, but few capture large-scale orchestration at the scope of managers and execs.",
+      "en": "Managerial decision-making is hard to teach to a model, because success is ambiguous and measured over long time horizons. It is for similar reasons that training good human managers is hard. We don’t yet know how good the models are at management. Our evaluations abound for execution-focused cognitive labor, but few capture large-scale orchestration at the scope of managers and execs.",
+      "zh": "管理决策很难教给模型，因为成功的标准模糊，而且需要很长的时间跨度才能衡量。培养优秀的人类管理者之所以困难，也出于类似原因。我们还不知道模型究竟有多擅长管理。针对执行型脑力劳动的评测已经很多，但很少有评测能涵盖管理者和高管职责范围内的大规模统筹工作。"
+    },
+    {
+      "id": "p65",
+      "kind": "paragraph",
+      "text": "It is still worth considering that today’s models may actually be closer in capability to human managers than ground-level workers. Some managerial functions may automate before the work they oversee.",
+      "en": "It is still worth considering that today’s models may actually be closer in capability to human managers than ground-level workers. Some managerial functions may automate before the work they oversee.",
+      "zh": "不过，仍有一种可能值得考虑：与基层员工相比，今天的模型在能力上或许更接近人类管理者。有些管理职能，可能会比它们所监督的工作更早实现自动化。"
+    },
+    {
+      "id": "p66",
+      "kind": "heading",
+      "text": "Consultants everywhere, all the time",
+      "en": "Consultants everywhere, all the time",
+      "zh": "顾问无处不在，随时待命"
+    },
+    {
+      "id": "p67",
+      "kind": "paragraph",
+      "text": "Perhaps the full version of this “layering” scenario is an AI that does the thinking, then fills its capability gaps with human contractors who report to it. That world seems quite foreign to us. A lot would need to change.",
+      "en": "Perhaps the full version of this “layering” scenario is an AI that does the thinking, then fills its capability gaps with human contractors who report to it. That world seems quite foreign to us. A lot would need to change.",
+      "zh": "这种“夹层模式”的完整形态，或许是由 AI 负责思考，再由向它汇报的人类承包者，补足 AI 自身的能力缺口。那样的世界对我们而言相当陌生。要走到那一步，我们需要做出很多改变。"
+    },
+    {
+      "id": "p68",
+      "kind": "paragraph",
+      "text": "But there is a more organic incarnation, and its opening act is already onstage: advising. Today, an exec can ask ChatGPT to read hundreds of Slack channels, documents, missives, and code files from across her company, and then answer questions. What does this team really do? Where is that vulnerability showing up? Every part of the org is increasingly parsable to her.",
+      "en": "But there is a more organic incarnation, and its opening act is already onstage: advising. Today, an exec can ask ChatGPT to read hundreds of Slack channels, documents, missives, and code files from across her company, and then answer questions. What does this team really do? Where is that vulnerability showing up? Every part of the org is increasingly parsable to her.",
+      "zh": "但还有一种更自然的演变形式，而且已经拉开序幕：提供咨询建议。今天，高管可以让 ChatGPT 阅读公司内的数百个 Slack 频道、文档、函件和代码文件，然后回答问题。这个团队究竟在做什么？那个薄弱点出现在哪些地方？组织的每个环节，对她而言都越来越容易解析。"
+    },
+    {
+      "id": "p69",
+      "kind": "paragraph",
+      "text": "Executives have long laced the org chart with mercenary middlemen—they called it consulting. A management consultancy layers you, briefly and expensively. Going forward, the AI consultants could be vanishingly cheap and ever-present.",
+      "en": "Executives have long laced the org chart with mercenary middlemen—they called it consulting. A management consultancy layers you, briefly and expensively. Going forward, the AI consultants could be vanishingly cheap and ever-present.",
+      "zh": "长期以来，高管始终在组织架构中安插花钱雇来的中间人，并将其称为“咨询”。管理咨询公司的地位高于企业顶层，而且收费不菲。未来，AI 顾问可能便宜到几乎可以让你忽略成本，而且无时不在。"
+    },
+    {
+      "id": "p70",
+      "kind": "paragraph",
+      "text": "Models are just beginning to reliably parse firm documents and communications. Their taste and proactivity must mature. For now, ChatGPT helps a motivated exec understand her org in greater detail. We see it eventually becoming a full-service consultancy. It won’t be a true “manager” of lower-level employees, but rather an in-house correspondent and advisor to executives. It will leverage business expertise to scan everything, proactively surfacing pain points and helping triage.",
+      "en": "Models are just beginning to reliably parse firm documents and communications. Their taste and proactivity must mature. For now, ChatGPT helps a motivated exec understand her org in greater detail. We see it eventually becoming a full-service consultancy. It won’t be a true “manager” of lower-level employees, but rather an in-house correspondent and advisor to executives. It will leverage business expertise to scan everything, proactively surfacing pain points and helping triage.",
+      "zh": "模型才刚开始能够有效解析企业文档和沟通内容。它们的品位和主动性仍有待提升。目前，ChatGPT 能帮助愿意投入精力的高管更细致地了解自己的组织。我们认为，它最终会成为一家提供全方位服务的咨询机构。它不会真正成为基层员工的“管理者”，而更像是为高管服务的内部记者和顾问。它将运用商业知识审视各项工作，主动发现痛点，并帮助判断轻重缓急。"
+    },
+    {
+      "id": "p71",
+      "kind": "paragraph",
+      "text": "Whether this is beneficial or detrimental will depend on the executive. The structural effect is centralization. We see this shortening the distance between C-suite and the company proper. It vests more power at the top, where information frictions used to favor more decentralized decision-making.",
+      "en": "Whether this is beneficial or detrimental will depend on the executive. The structural effect is centralization. We see this shortening the distance between C-suite and the company proper. It vests more power at the top, where information frictions used to favor more decentralized decision-making.",
+      "zh": "这究竟是好事还是坏事，取决于高管。它对组织结构的影响是集权。我们认为，这会缩短最高管理层与公司实际运作流程之间的距离。过去，信息流通不畅使分散决策更有优势；现在，它则让更多权力集中到顶层。"
+    },
+    {
+      "id": "p72",
+      "kind": "paragraph",
+      "text": "We find this scenario profound not just for how it shifts authority, but for how easily adoptable AI-as-a-consultancy can be. Just like with traditional consulting, the AI consultancy doesn’t require technical acumen from the executive. This is not the computer, adopted from below by whoever could type and terminal. You just talk to your consultant, and it handles the technical know-how. This adoption wave can start from the corner office. The consultancy, in turn, could accelerate AI adoption throughout the rest of the organization.",
+      "en": "We find this scenario profound not just for how it shifts authority, but for how easily adoptable AI-as-a-consultancy can be. Just like with traditional consulting, the AI consultancy doesn’t require technical acumen from the executive. This is not the computer, adopted from below by whoever could type and terminal. You just talk to your consultant, and it handles the technical know-how. This adoption wave can start from the corner office. The consultancy, in turn, could accelerate AI adoption throughout the rest of the organization.",
+      "zh": "我们认为，这种情景的深远意义不仅在于它如何改变权力分配，还在于作为咨询机构的 AI 有多容易被采用。和传统咨询一样，AI 咨询机构也不要求高管精通技术。这与计算机不同：计算机当年是由那些会打字、会用终端的人自下而上地引入的。你只管和顾问交流，技术细节交给它处理。这一轮采用浪潮，可以从高管办公室开始。反过来，咨询机构又能推动组织其他部门更快采用 AI。"
+    },
+    {
+      "id": "p73",
+      "kind": "heading",
+      "text": "The evolving employment contract",
+      "en": "The evolving employment contract",
+      "zh": "不断演变的雇佣契约"
+    },
+    {
+      "id": "p74",
+      "kind": "paragraph",
+      "text": "One reason looms large for why firms distrust remote work and contracting: enforceability. There has never been a cheap way for firms to observe the doing of work in its deserving richness. So they measure pantomimes of it, clicks counted, mouse wiggles, green status dots, signals so divorced from whether good work is happening.",
+      "en": "One reason looms large for why firms distrust remote work and contracting: enforceability. There has never been a cheap way for firms to observe the doing of work in its deserving richness. So they measure pantomimes of it, clicks counted, mouse wiggles, green status dots, signals so divorced from whether good work is happening.",
+      "zh": "企业不信任远程办公和外包模式，其中一个主要原因是：如何确保工作要求得到落实。企业从来没有一种低成本的办法，能够充分观察工作过程的丰富细节。因此，它们衡量的只是工作的表象：点击次数、鼠标移动频率、绿色在线状态点 — 这些信号难以如实反应员工是否在好好工作。"
+    },
+    {
+      "id": "p75",
+      "kind": "paragraph",
+      "text": "AI offers a monitor that understands. It can look at what a person produces and recognize real progress towards bigger objectives. As we explore in the next section, any new surveillance mustn’t be implemented lightly. But, under the right circumstances, it can increase trust and encourage firms to give their employees more freedom.",
+      "en": "AI offers a monitor that understands. It can look at what a person produces and recognize real progress towards bigger objectives. As we explore in the next section, any new surveillance mustn’t be implemented lightly. But, under the right circumstances, it can increase trust and encourage firms to give their employees more freedom.",
+      "zh": "AI 提供了一种真正懂行的监督手段。它可以查看一个人的产出，识别出其是否在为实现更大目标而切实推动工作进展。正如下一节将要探讨的，任何新的监控手段都不应轻率推行。不过，在适当条件下，它可以增进信任，促使企业给员工更多自由。"
+    },
+    {
+      "id": "p76",
+      "kind": "paragraph",
+      "text": "If the monitor comprehends the many disparate paths that can lead to good work product, employees can work more the way they want. Progress toward good results will matter more, rather than one prescribed method easy for bosses to track. An intelligent monitor affords flexibility and punishes the performative productivity we all loathe.",
+      "en": "If the monitor comprehends the many disparate paths that can lead to good work product, employees can work more the way they want. Progress toward good results will matter more, rather than one prescribed method easy for bosses to track. An intelligent monitor affords flexibility and punishes the performative productivity we all loathe.",
+      "zh": "如果监督者理解，通往优秀工作成果的路径可以各不相同，员工就能按自己喜欢的方式工作。重点在于朝着目标推进工作，而不是遵循某种便于老板追踪的指定方法。智能监督者具备灵活性，也能让我们都讨厌的“表演式生产力”受到惩罚。"
+    },
+    {
+      "id": "p77",
+      "kind": "paragraph",
+      "text": "The value proposition here resembles that of the insurers who reduce your rates if you install a tracker in your car. If you were trying to game the system, this hurts you; if you were simply doing your job, the monitor can vindicate you, and management trusts you more.",
+      "en": "The value proposition here resembles that of the insurers who reduce your rates if you install a tracker in your car. If you were trying to game the system, this hurts you; if you were simply doing your job, the monitor can vindicate you, and management trusts you more.",
+      "zh": "这种情景下的价值交换，类似于保险公司承诺：只要你在车里安装追踪器，就能降低保费。如果你想钻制度的空子，它会让你吃亏；如果你只是在认真做事，它就能为你正名，让管理层更加信任你。"
+    },
+    {
+      "id": "p78",
+      "kind": "paragraph",
+      "text": "That trust is generative. We might see new willingness from firms that were previously reluctant to hybrid work, to unorthodox minds, to contractors, or to hiring brilliant people in countries far away.",
+      "en": "That trust is generative. We might see new willingness from firms that were previously reluctant to hybrid work, to unorthodox minds, to contractors, or to hiring brilliant people in countries far away.",
+      "zh": "这种信任能催生新的可能。那些过去不愿接受混合办公、不愿接纳非传统思维者和承包者、不愿雇用国外优秀人才的企业，可能会表现出新的意愿。"
+    },
+    {
+      "id": "p79",
+      "kind": "paragraph",
+      "text": "There are many problems that ground-floor employees have with the org chart today. It is immensely dispiriting to have no way to surface a problem up the ladder that we see firsthand. It’s a raw deal to be stuck under an ineffectual manager, or to do great work that goes unrecognized.",
+      "en": "There are many problems that ground-floor employees have with the org chart today. It is immensely dispiriting to have no way to surface a problem up the ladder that we see firsthand. It’s a raw deal to be stuck under an ineffectual manager, or to do great work that goes unrecognized.",
+      "zh": "如今的组织架构，让基层员工面临许多问题。亲眼看到问题，却没有渠道向上传达，是一件极其令人沮丧的事。被困在无能的上司手下，或做出了好成绩却无人认可，都很不公平。"
+    },
+    {
+      "id": "p80",
+      "kind": "paragraph",
+      "text": "We see the previous wave of business hyperoptimization as being built on limited data, rough guidelines, and dumb algorithms. If all you can process is gear ratios, then everyone looks like a cog. Firms have long had a measurement problem of their workforce. An intelligent monitor could recognize valuable contributions and unique approaches that today’s crude metrics miss.",
+      "en": "We see the previous wave of business hyperoptimization as being built on limited data, rough guidelines, and dumb algorithms. If all you can process is gear ratios, then everyone looks like a cog. Firms have long had a measurement problem of their workforce. An intelligent monitor could recognize valuable contributions and unique approaches that today’s crude metrics miss.",
+      "zh": "在我们看来，上一轮企业极致优化浪潮，是建立在有限的数据、粗略的准则和死板的算法之上的。如果你只能处理齿轮传动比，那么在你眼中，每个人都会像一枚齿轮。长期以来，企业一直难以准确衡量员工的工作。智能监督者可以识别那些被当今粗糙指标遗漏的宝贵贡献和独特方法。"
+    },
+    {
+      "id": "p81",
+      "kind": "heading",
+      "text": "Four big questions",
+      "en": "Four big questions",
+      "zh": "四个关键问题"
+    },
+    {
+      "id": "p82",
+      "kind": "paragraph",
+      "text": "Drawing from across the three stylized scenarios, we now explore some of the determinative questions on the future of the firm.",
+      "en": "Drawing from across the three stylized scenarios, we now explore some of the determinative questions on the future of the firm.",
+      "zh": "结合上述三种简化情景，我们接下来将探讨几个决定企业未来走向的问题。"
+    },
+    {
+      "id": "p83",
+      "kind": "heading",
+      "text": "Will firms have more or less red tape?",
+      "en": "Will firms have more or less red tape?",
+      "zh": "企业的繁文缛节会增多还是减少？"
+    },
+    {
+      "id": "p84",
+      "kind": "paragraph",
+      "text": "Building is generally quite expensive. An app, a film, a deck, a feature, an analysis: these are all costly, slow, and agonizing to redo. When you effectively get one shot, you invest in aim. There are planning cycles and roadmap ceremonies and sign-off committees all to ensure that when the firm finally says go, it goes at something worthwhile. Many checks in our hierarchies exist because execution was precious.",
+      "en": "Building is generally quite expensive. An app, a film, a deck, a feature, an analysis: these are all costly, slow, and agonizing to redo. When you effectively get one shot, you invest in aim. There are planning cycles and roadmap ceremonies and sign-off committees all to ensure that when the firm finally says go, it goes at something worthwhile. Many checks in our hierarchies exist because execution was precious.",
+      "zh": "完成构建工作，通常成本不低。无论是应用、电影、演示文稿、功能还是分析报告，返工都很昂贵、耗时且折磨人。如果实际上只有一次机会，你就会在瞄准“靶心”上多下功夫。规划周期、路线图评审、审批委员会，都是为了确保企业最终决定行动时，瞄准的是值得投入的目标。层级体系中之所以存在许多把关环节，是因为过去每次执行的代价都很高。"
+    },
+    {
+      "id": "p85",
+      "kind": "paragraph",
+      "text": "Across many domains, AI is collapsing the cost of building—at least to the level of prototyping, if not to final completion. We believe the firm’s approach should shift with it: aim less, fire more. A firm can build a prototype, observe, learn fast, reorient itself, and build it again. Easy prototyping should drift firms away from the institutions which underpin planning-intensive production.",
+      "en": "Across many domains, AI is collapsing the cost of building—at least to the level of prototyping, if not to final completion. We believe the firm’s approach should shift with it: aim less, fire more. A firm can build a prototype, observe, learn fast, reorient itself, and build it again. Easy prototyping should drift firms away from the institutions which underpin planning-intensive production.",
+      "zh": "在许多领域，AI 正大幅压低构建成本 — 即便还不能覆盖最终成品，至少已能覆盖原型制作。我们认为，企业的做法也应随之改变：少瞄准，多开火。企业可以先设计原型，再观察、快速学习、调整方向，然后重新构建。简化原型构建，应推动企业逐渐摆脱那些支撑再规划生产模式的制度。"
+    },
+    {
+      "id": "p86",
+      "kind": "paragraph",
+      "text": "The simplest version of this is a team that iterates more quickly. In a more radical interpretation, the team itself is called into question. If collaborative planning matters less and uncorrelated diverse ideas matter more, is it better to have a single team that iterates quickly, or many individuals each putting forward their own working prototypes? If a real prototype transmits a vision better than any scoping document ever could, will our norms for communication change: sharing more, earlier, and sharing artifacts rather than memos?",
+      "en": "The simplest version of this is a team that iterates more quickly. In a more radical interpretation, the team itself is called into question. If collaborative planning matters less and uncorrelated diverse ideas matter more, is it better to have a single team that iterates quickly, or many individuals each putting forward their own working prototypes? If a real prototype transmits a vision better than any scoping document ever could, will our norms for communication change: sharing more, earlier, and sharing artifacts rather than memos?",
+      "zh": "最简单的变化，是团队迭代的速度变得更快。更激进的理解则是：连团队本身存在的必要性，都值得重新审视。如果协作规划没那么重要，而彼此独立、多种多样的想法更重要，那么，是让一个团队快速迭代更好，还是让许多个体各自拿出可行的原型更好？如果一个真实的原型比任何范围说明文档都更能传达构想，我们的沟通习惯会不会改变：更早、更多地开始分享，且专注于分享实际成果，而不是备忘录？"
+    },
+    {
+      "id": "p87",
+      "kind": "paragraph",
+      "text": "Cheap building may tilt the firm toward individuals. This would mean fewer layers of middle management and less asking for permission, because asking used to be cheaper than doing and now it is not.",
+      "en": "Cheap building may tilt the firm toward individuals. This would mean fewer layers of middle management and less asking for permission, because asking used to be cheaper than doing and now it is not.",
+      "zh": "构建成本降低，可能会让企业更倚重个人。这意味着中层管理层级更少，请示也更少，因为过去请示的成本比动手更为低廉，如今情况已截然不同。"
+    },
+    {
+      "id": "p88",
+      "kind": "paragraph",
+      "text": "All that said, as we discuss next, the same technology which empowers individuals to prototype with less risk can also enforce larger spools of red tape.",
+      "en": "All that said, as we discuss next, the same technology which empowers individuals to prototype with less risk can also enforce larger spools of red tape.",
+      "zh": "话虽如此，正如我们接下来要讨论的，同一项技术既能让个人以更低风险构建原型，也可能催生更多的繁文缛节。"
+    },
+    {
+      "id": "p89",
+      "kind": "heading",
+      "text": "Will workers have more or less agency?",
+      "en": "Will workers have more or less agency?",
+      "zh": "员工的自主权会增加还是减少？"
+    },
+    {
+      "id": "p90",
+      "kind": "paragraph",
+      "text": "A major reason firms enforce top-down management is the belief that executives make better business-relevant decisions than junior workers. Firms pay more for highly competent veterans at the top, and managers are often trained in business strategy while individual contributors are specialized in their expertise. If AI offers excellent advice to all workers, the gap in decision-making quality shrinks. There would be less reason for managers to meddle. This would increase worker autonomy, and potentially reduce layers of management.",
+      "en": "A major reason firms enforce top-down management is the belief that executives make better business-relevant decisions than junior workers. Firms pay more for highly competent veterans at the top, and managers are often trained in business strategy while individual contributors are specialized in their expertise. If AI offers excellent advice to all workers, the gap in decision-making quality shrinks. There would be less reason for managers to meddle. This would increase worker autonomy, and potentially reduce layers of management.",
+      "zh": "企业实行自上而下的管理模式，其中一个重要原因是相信高管比基层员工更能做出好的业务决策。企业花更高的薪酬聘请能力出众、经验丰富的人担任高层；管理者通常受过商业战略训练，而非管理岗员工则专精于自己的领域。如果 AI 能为所有员工提供出色的建议，决策质量上的差距就会缩小。管理者也就没那么多理由插手了。这会增强员工的自主性，也可能会进一步精简管理层架构。"
+    },
+    {
+      "id": "p91",
+      "kind": "paragraph",
+      "text": "Similarly, the “AI consultancy” ensures that nothing too consequential happens without an executive being alerted. If a worker is about to publish a blog post with serious repercussions for the company, the consultancy will proactively flag it to the exec. This begets trust: management need not worry big mishaps will happen without their awareness, so they needn’t keep such a tight leash on how a worker practices their job.",
+      "en": "Similarly, the “AI consultancy” ensures that nothing too consequential happens without an executive being alerted. If a worker is about to publish a blog post with serious repercussions for the company, the consultancy will proactively flag it to the exec. This begets trust: management need not worry big mishaps will happen without their awareness, so they needn’t keep such a tight leash on how a worker practices their job.",
+      "zh": "同样，“AI 咨询机构”能确保任何重大事件都不会在高管不知情的情况下发生。如果一名员工即将发布一篇会对公司造成严重影响的博客文章，咨询机构会主动提醒高管。这有助于增进信任：管理层不必担心在自己毫不知情的情况下出现重大纰漏，因此也不必对员工的工作方式严加监管。"
+    },
+    {
+      "id": "p92",
+      "kind": "paragraph",
+      "text": "But the AI consultancy is a double-edged sword. It can instill more trust in workers as an intelligent monitor; it can also more vigorously enforce a CEO’s preferred way of doing things throughout the organization. Firms value coherence: not just a good decision, but a decision compatible with the company’s culture, brand, and economies of scale. A restaurant chain may prefer a common menu across its franchises, so that ingredients can be bulk-ordered and customers can expect a consistent product.",
+      "en": "But the AI consultancy is a double-edged sword. It can instill more trust in workers as an intelligent monitor; it can also more vigorously enforce a CEO’s preferred way of doing things throughout the organization. Firms value coherence: not just a good decision, but a decision compatible with the company’s culture, brand, and economies of scale. A restaurant chain may prefer a common menu across its franchises, so that ingredients can be bulk-ordered and customers can expect a consistent product.",
+      "zh": "但 AI 咨询机构是一把双刃剑。作为智能监督者，它可以让管理层更加信任员工；但它也能在整个组织内更强力地推行首席执行官偏好的工作方式。企业重视一致性：决策不仅要好，还要符合公司的文化、品牌和规模经济要求。一家连锁餐厅可能希望所有加盟店使用统一菜单，这样既能批量采购食材，也能让顾客对产品品质有一致的预期。"
+    },
+    {
+      "id": "p93",
+      "kind": "paragraph",
+      "text": "Relatedly, the incentives for firm bosses don’t always align with workers. Workers optimize for their domain’s success while execs care about the firm overall. Equity owners have different preferences than wage workers, because they reap the rewards of harder work. The consultancy could enforce stricter adherence to specific regimens prescribed from the top.",
+      "en": "Relatedly, the incentives for firm bosses don’t always align with workers. Workers optimize for their domain’s success while execs care about the firm overall. Equity owners have different preferences than wage workers, because they reap the rewards of harder work. The consultancy could enforce stricter adherence to specific regimens prescribed from the top.",
+      "zh": "与此相关的是，企业老板与员工的工作动力并不总是一致。员工追求在自己的职责范围内取得成功，高管则关心整个企业。股权所有者与领工资的员工偏好不同，因为更辛勤的工作所带来的回报归员工所有。咨询机构可能会更严格地要求员工遵守高层制定的具体规程。"
+    },
+    {
+      "id": "p94",
+      "kind": "paragraph",
+      "text": "Our view is, on net, workers will gain agency. Our optimism rests on firms using AI to flag consequential exceptions while leaving more decisions with workers.",
+      "en": "Our view is, on net, workers will gain agency. Our optimism rests on firms using AI to flag consequential exceptions while leaving more decisions with workers.",
+      "zh": "我们的看法是，总体而言，员工的自主权会增加。我们的乐观判断有一个前提：企业用 AI 标记影响重大的异常情况，同时把更多决策权留给员工。"
+    },
+    {
+      "id": "p95",
+      "kind": "paragraph",
+      "text": "We believe that AI will act as a scaffold—even if executives wish to maintain a coherent brand, this will merely be a constraint to operate within. Workers are made better aware of the business constraints at play and are better insured for creativity outside those restrictions. With their bases covered, execs can let employees try potentially lucrative new approaches. Aided by AI helpers beneath us, workers will also be responsible for more substantial outputs. We see more opportunities for creativity when commanding more complex work.",
+      "en": "We believe that AI will act as a scaffold—even if executives wish to maintain a coherent brand, this will merely be a constraint to operate within. Workers are made better aware of the business constraints at play and are better insured for creativity outside those restrictions. With their bases covered, execs can let employees try potentially lucrative new approaches. Aided by AI helpers beneath us, workers will also be responsible for more substantial outputs. We see more opportunities for creativity when commanding more complex work.",
+      "zh": "我们认为，AI 会像脚手架一样支撑整个企业。即便高管希望保持品牌一致性，这也只会成为员工开展工作时需要遵守的一项约束条件。员工会更清楚当前的业务约束条件，也能在这些限制之外更有保障地发挥创造力。守住底线后，高管就能让员工尝试可能带来丰厚收益的新方法。有了手下 AI 助手的支持，员工还将负责更大规模的产出。我们认为，统筹更复杂的工作，会带来更多发挥创造力的机会。"
+    },
+    {
+      "id": "p96",
+      "kind": "heading",
+      "text": "Will firms shrink or widen?",
+      "en": "Will firms shrink or widen?",
+      "zh": "企业规模会缩小还是扩大？"
+    },
+    {
+      "id": "p97",
+      "kind": "paragraph",
+      "text": "The same logic on worker autonomy also applies to firm size. Ronald Coase asked why we organize production inside firms rather than through a web of contracts. Even an airplane could be constructed purely through peer-to-peer contracting, but it would be very inefficient. Firms muster economies of scale, align incentives, organize large projects, and absolve the need for constant bartering.",
+      "en": "The same logic on worker autonomy also applies to firm size. Ronald Coase asked why we organize production inside firms rather than through a web of contracts. Even an airplane could be constructed purely through peer-to-peer contracting, but it would be very inefficient. Firms muster economies of scale, align incentives, organize large projects, and absolve the need for constant bartering.",
+      "zh": "关于员工自主权的同一套逻辑，也适用于企业规模。Ronald Coase 曾问：我们为什么在企业内部管理生产环境，而不是通过一张契约网络来进行管理？即便是一架飞机，也可以完全靠各方彼此签约来制造，只是效率会非常低。企业能实现规模经济、协调各方激励措施、组织大型项目，并免去频繁议价的负担。"
+    },
+    {
+      "id": "p98",
+      "kind": "paragraph",
+      "text": "By easing communication, AI could justify larger or smaller firms. The classical firm is infrastructure for passing information up and instructions down, full of frictions and telephone-game. A larger firm (with more human employees) is less unwieldy if AI acts as a coordination layer. With the “AI consultancy,” an executive can know her firm the way a founder knows a twenty-person startup. She can watch an initiative’s implementation rather than await its quarterly retelling, and be pinged if anything happens. Her vision can infuse more broadly. Everyone is more aware of what everyone else is doing, and of the organization’s overall priorities.",
+      "en": "By easing communication, AI could justify larger or smaller firms. The classical firm is infrastructure for passing information up and instructions down, full of frictions and telephone-game. A larger firm (with more human employees) is less unwieldy if AI acts as a coordination layer. With the “AI consultancy,” an executive can know her firm the way a founder knows a twenty-person startup. She can watch an initiative’s implementation rather than await its quarterly retelling, and be pinged if anything happens. Her vision can infuse more broadly. Everyone is more aware of what everyone else is doing, and of the organization’s overall priorities.",
+      "zh": "通过降低沟通成本，AI 可以为扩大或缩小企业规模提供依据。传统企业是一套向上传递信息、向下传达指令的基础设施，其中充满了阻力，也充斥着层层转述造成的失真。如果由 AI 充当协调层，规模更大、人类员工更多的企业就不会那么难以管理。借助“AI 咨询机构”，一位高管可以像创始人了解一家二十人的初创公司那样，了解自己的企业。她可以直接看到一项计划的执行情况，而不必等待季度汇报；一旦发生问题，也能及时收到提醒。她的愿景可以更广泛地贯彻落实。每个人都能了解其他人在做什么，也更清楚整个组织的工作重点。"
+    },
+    {
+      "id": "p99",
+      "kind": "paragraph",
+      "text": "It could instead work the other way. If communication is frictionless and compliance more monitorable, a firm needn’t internalize so much of its supply chain. The firm can better trust outside suppliers and contractors.",
+      "en": "It could instead work the other way. If communication is frictionless and compliance more monitorable, a firm needn’t internalize so much of its supply chain. The firm can better trust outside suppliers and contractors.",
+      "zh": "但结果也可能恰恰相反。如果沟通畅通无阻，履约情况也更容易监督，企业就不必把那么多供应链环节纳入内部。企业可以更加信任外部供应商和承包商。"
+    },
+    {
+      "id": "p100",
+      "kind": "paragraph",
+      "text": "A major motivation for vertical integration is to align incentives. There’s the idea of incomplete contracts—an aerospace company could contract with a jet engine company, but for everything not explicitly required in the contract, the jet engine company is incentivized to cheap out and look after its own bottom line. To avoid this, the aerospace company buys the jet engine company. Just like with workers and bosses: if contracts are more monitorable and arbitrated intelligently rather than by checking off boxes, firms may be more comfortable relying on other firms. There would be less cause to do everything in-house.",
+      "en": "A major motivation for vertical integration is to align incentives. There’s the idea of incomplete contracts—an aerospace company could contract with a jet engine company, but for everything not explicitly required in the contract, the jet engine company is incentivized to cheap out and look after its own bottom line. To avoid this, the aerospace company buys the jet engine company. Just like with workers and bosses: if contracts are more monitorable and arbitrated intelligently rather than by checking off boxes, firms may be more comfortable relying on other firms. There would be less cause to do everything in-house.",
+      "zh": "纵向整合的一个主要动机，在于统筹激励措施。经济学中有个不完全契约的概念：航空航天公司可以与喷气发动机公司签约，但凡合同没有明确规定的事项，发动机公司都有动力省钱凑合，以保住自己的利润。为了避免这种情况，航空航天公司便会收购发动机公司。这与员工和老板的关系一样：如果合同更容易监督，争议也能得到明智裁决，而不是机械地逐项核实，企业就可以更放心地依赖其他企业。凡事都在内部完成的必要性就会降低。"
+    },
+    {
+      "id": "p101",
+      "kind": "paragraph",
+      "text": "We expect to see many smaller firms, but also sprawling AI “holding companies” where a huge number of different projects are conducted within one enterprise. The conglomerate is economical where there is some common asset leveraged by all the different projects. This common asset could be compute, though compute can easily be provisioned in small ad hoc quantities. A common factory or robot fleet is a better motivation.",
+      "en": "We expect to see many smaller firms, but also sprawling AI “holding companies” where a huge number of different projects are conducted within one enterprise. The conglomerate is economical where there is some common asset leveraged by all the different projects. This common asset could be compute, though compute can easily be provisioned in small ad hoc quantities. A common factory or robot fleet is a better motivation.",
+      "zh": "我们预计会出现许多小型企业，也会出现庞大的 AI“控股公司”，在一家企业内部同时开展大量不同项目。当不同项目都能利用某种共同资产时，企业集团就具有经济优势。这种共同资产可以是算力，不过算力很容易按需、小批量地配置。共用工厂或机器人队伍，是更有力的动因。"
+    },
+    {
+      "id": "p102",
+      "kind": "paragraph",
+      "text": "The large “holding company” can also be justified by aligned incentives. If a large organization of AIs and capital is entirely devoted to a common mission—say, curing cancer—there is less need for separate smaller initiatives. An AI firm could avoid power struggles, share all information, and, where needed, instantiate creative diversity among its agents so that different paths are explored.",
+      "en": "The large “holding company” can also be justified by aligned incentives. If a large organization of AIs and capital is entirely devoted to a common mission—say, curing cancer—there is less need for separate smaller initiatives. An AI firm could avoid power struggles, share all information, and, where needed, instantiate creative diversity among its agents so that different paths are explored.",
+      "zh": "统一的激励机制也可以成为大型“控股公司”存在的理由。如果一个由 AI 和资本构成的大型组织完全致力于践行同一个使命 — 例如治愈癌症，就没必要拆分成彼此独立的小项目。一家 AI 企业可以避免权力斗争，共享所有信息，并在需要时让不同的智能体各展所长，以探索不同路径。"
+    },
+    {
+      "id": "p103",
+      "kind": "heading",
+      "text": "Will pay disparity rise or fall?",
+      "en": "Will pay disparity rise or fall?",
+      "zh": "薪酬差距会扩大还是缩小？"
+    },
+    {
+      "id": "p104",
+      "kind": "paragraph",
+      "text": "Today’s system is supposed to reward standout workers. They rise through the ranks and are better compensated. But in a world of superb model advisors, how will workers distinguish themselves?",
+      "en": "Today’s system is supposed to reward standout workers. They rise through the ranks and are better compensated. But in a world of superb model advisors, how will workers distinguish themselves?",
+      "zh": "现行制度的本意，是奖励表现突出的员工。他们逐级晋升，获得更高的报酬。但如果人人都有出色的模型顾问，员工又该如何脱颖而出？"
+    },
+    {
+      "id": "p105",
+      "kind": "paragraph",
+      "text": "If AI gives the same great idea to everyone, we have fewer opportunities to differentiate. Pay scales should compress.",
+      "en": "If AI gives the same great idea to everyone, we have fewer opportunities to differentiate. Pay scales should compress.",
+      "zh": "如果 AI 给每个人的都是同一个好主意，我们展现差异的机会就会减少。薪酬差距理应随之缩小。"
+    },
+    {
+      "id": "p106",
+      "kind": "paragraph",
+      "text": "What stands against this compression is judgment, taste, and scope. If we each lead AI firms beneath us, the residual human value is our decision-making. If each person is responsible for a larger effort under them, the difference between good judgment and bad rings louder.",
+      "en": "What stands against this compression is judgment, taste, and scope. If we each lead AI firms beneath us, the residual human value is our decision-making. If each person is responsible for a larger effort under them, the difference between good judgment and bad rings louder.",
+      "zh": "与这种趋势相抗衡的，是判断力、品位和职责范围。如果每个人都领导着自己手下的 AI 企业，那么人类剩下的价值就在于决策。如果每个人都对手下更大规模的工作负责，判断力优劣与否带来的差异就会更加显著。"
+    },
+    {
+      "id": "p107",
+      "kind": "paragraph",
+      "text": "We have long applied this logic to the top of the org chart. We justify CEO pay with the idea that marginally better decisions up top can have huge effects on the bottom line. Pay inequality could increase if some workers better manage the AI firms beneath them to deploy scarce resources.",
+      "en": "We have long applied this logic to the top of the org chart. We justify CEO pay with the idea that marginally better decisions up top can have huge effects on the bottom line. Pay inequality could increase if some workers better manage the AI firms beneath them to deploy scarce resources.",
+      "zh": "我们早已把这套逻辑用于组织架构的顶端。我们用来解释首席执行官薪酬合理性的理由是：高层的决策哪怕只好一点点，也可能对利润产生巨大影响。如果有些员工能更好地管理手下的 AI 企业，调配稀缺资源，薪酬差距就可能扩大。"
+    },
+    {
+      "id": "p108",
+      "kind": "paragraph",
+      "text": "The more at stake, the more your small edge over someone else shows up in your paycheck. On the other hand, AI will give good advice to everyone. Less differentiation squishes the pay distribution.",
+      "en": "The more at stake, the more your small edge over someone else shows up in your paycheck. On the other hand, AI will give good advice to everyone. Less differentiation squishes the pay distribution.",
+      "zh": "牵涉的利益越大，你相对于别人的微小优势，就越会体现在工资单上。另一方面，AI 会为每个人提供好建议。个人差异减小，会让薪酬分布更加集中。"
+    },
+    {
+      "id": "p109",
+      "kind": "paragraph",
+      "text": "Here and elsewhere, the prevailing force will perhaps hinge on whether we are mostly providing judgment or following it.",
+      "en": "Here and elsewhere, the prevailing force will perhaps hinge on whether we are mostly providing judgment or following it.",
+      "zh": "无论在这一领域还是其他领域，哪种力量占上风，或许都取决于我们主要是在作出判断，还是遵循判断。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p4",
+      "zh": "而我们，以及如今许多年轻人的职业道路，正在呈现不同的样貌。刚进入职场，我们就已经有了可供调遣的“员工”。",
+      "en": "Our path—and the path of many young people today—is looking different. We enter the workforce already with “employees” at our behest."
+    },
+    {
+      "paragraphId": "p12",
+      "zh": "我们认为，混合型企业是一个重要概念，因为采用 AI 并将其转化为生产力的过程并非一蹴而就。当模型只能完成部分任务时，由熟悉业务的基层员工率先使用 AI，或许最为有效。",
+      "en": "We believe the hybrid firm is conceptually important because productive adoption of AI isn’t instantaneous. When the models only do a subset of tasks, adoption may be easiest by ground-level employees familiar with the work."
+    },
+    {
+      "paragraphId": "p27",
+      "zh": "后文还会讨论更多不同看法，例如，是否会出现数量更多、规模更小的企业。我们仍认为，这种情景很重要，因为采用新技术总得有个切入点。",
+      "en": "There are more objections we discuss later (e.g. whether we’ll have a larger number of smaller firms). We still think this scenario is important because adoption has to start somewhere."
+    },
+    {
+      "paragraphId": "p34",
+      "zh": "在我们看来，“晋升模式”下的初级员工仍有很多东西要学：判断力、品位、管理本领和创意眼光。我们会有动力培养这些能力，因为它们会直接体现在工作成果中。",
+      "en": "In our view, this “promoting” scenario still has much for junior workers to learn—judgment, taste, the muscles of management and creative vision. We will be incentivized to cultivate these skills because they show up in our work product."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/the-future-of-the-firm/",
+      "title": "The future of the firm"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/the-future-of-the-firm/",
+      "title": "企业的未来"
+    }
+  },
+  "contentHash": "46cdf8ea5bba1b4d20ad3bee356cf9be79f8c6b3715f240ea71243681cd38a89",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/the-future-of-the-firm/"
 }

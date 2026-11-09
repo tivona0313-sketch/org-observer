@@ -3,8 +3,128 @@
   "id": "rss-a60f4a701f887ae8f46b",
   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
   "sourceTitle": "Teaching students to think and learn through questions",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.985557+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:52.019762+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:56:31.793Z",
+  "finalURL": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions/",
+  "language": "en",
+  "originalTitle": "Teaching students to think and learn through questions",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "On Teachers’ Day, we celebrate those who help us learn. A good question can change the course of a lesson. It can bring an unspoken question to light, open up another way to solve a problem, or help someone recognize what they already know. Teachers do this work every day: they know their students, choose how to introduce an idea, and guide them from their first attempt to understanding.",
+      "en": "On Teachers’ Day, we celebrate those who help us learn. A good question can change the course of a lesson. It can bring an unspoken question to light, open up another way to solve a problem, or help someone recognize what they already know. Teachers do this work every day: they know their students, choose how to introduce an idea, and guide them from their first attempt to understanding.",
+      "zh": "教师节之际，我们向帮助我们学习的老师们致敬。一个好问题，可以改变一堂课的走向。它可以让未说出口的疑问浮现，打开解决问题的新思路，也可以帮助一个人意识到自己已经掌握了哪些知识。这正是老师们每天都在做的事：了解学生，选择引入新概念的方式，并引导他们从初次尝试走向理解。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Set in a university classroom, the campaign takes a humorous look at the changing relationship between teachers and students and celebrates the role of educators in a world with AI.",
+      "en": "Set in a university classroom, the campaign takes a humorous look at the changing relationship between teachers and students and celebrates the role of educators in a world with AI.",
+      "zh": "这次宣传以大学课堂为背景，用幽默的视角呈现师生关系的变化，并向 AI 时代的教育工作者致敬。"
+    },
+    {
+      "id": "p3",
+      "kind": "heading",
+      "text": "AI for Educators now available in Portuguese",
+      "en": "AI for Educators now available in Portuguese",
+      "zh": "“面向教育工作者的 AI”课程现已推出葡萄牙语版"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Today, we are launching the AI for Educators course in Brazilian Portuguese on OpenAI Academy, OpenAI’s free learning platform. Designed for educators in primary, secondary, and higher education, the course shows how to use AI to plan lessons, create activities and assessments, and prepare communications while preserving educators’ pedagogical judgment.",
+      "en": "Today, we are launching the AI for Educators course in Brazilian Portuguese on OpenAI Academy, OpenAI’s free learning platform. Designed for educators in primary, secondary, and higher education, the course shows how to use AI to plan lessons, create activities and assessments, and prepare communications while preserving educators’ pedagogical judgment.",
+      "zh": "今天，我们在 OpenAI 的免费学习平台 OpenAI Academy 上推出巴西葡萄牙语版的“面向教育工作者的 AI”课程。本课程面向小学、中学及高等教育阶段的教育工作者，介绍如何在保留教师自身教学判断的前提下，使用 AI 备课、设计活动与测评，以及起草沟通材料。"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Learning through active participation, step by step",
+      "en": "Learning through active participation, step by step",
+      "zh": "主动参与，循序渐进地学习"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Study Mode helps you explore a subject step by step, with questions, hints, explanations, and checks for understanding. Developed in collaboration with teachers, scientists, and experts in pedagogy, the feature aims to encourage active participation and reflection on one’s own reasoning.",
+      "en": "Study Mode helps you explore a subject step by step, with questions, hints, explanations, and checks for understanding. Developed in collaboration with teachers, scientists, and experts in pedagogy, the feature aims to encourage active participation and reflection on one’s own reasoning.",
+      "zh": "学习模式帮助你探索一个主题，通过提问、提示、讲解和理解程度检查，引导你逐步深入。这项功能由我们与教师、科学家和教育学专家合作开发，旨在鼓励学习者主动参与，并反思自己的推理过程。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "To turn on Study Mode, select Study from the tools menu in ChatGPT.",
+      "en": "To turn on Study Mode, select Study from the tools menu in ChatGPT.",
+      "zh": "要开启学习模式，请在 ChatGPT 的工具菜单中选择“学习”。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "A student reviewing biology, for example, might ask: “I’m studying enzymes. Ask me one question at a time, wait for my answer, and help me identify what I need to review.”",
+      "en": "A student reviewing biology, for example, might ask: “I’m studying enzymes. Ask me one question at a time, wait for my answer, and help me identify what I need to review.”",
+      "zh": "例如，一名正在复习生物的学生可以这样提问：“我正在学习酶的相关知识。请一次问我一个问题，等我回答后再继续，并帮我找出需要复习的内容。”"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Teachers can also try Study Mode with subjects they know well, looking at whether the questions encourage reasoning and whether the explanations are appropriate for their class.",
+      "en": "Teachers can also try Study Mode with subjects they know well, looking at whether the questions encourage reasoning and whether the explanations are appropriate for their class.",
+      "zh": "教师也可以用自己熟悉的学科内容试用学习模式，看看它提出的问题是否能促进推理，讲解是否适合自己班级的学生。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "In a science lesson on evaporation, for example, a teacher might ask students to investigate why clothes dry on a clothesline. After exploring the topic with Study Mode, each student writes their own explanation and a question to discuss in class, without referring back to the conversation. The teacher can use these responses to identify what needs to be revisited with the class.",
+      "en": "In a science lesson on evaporation, for example, a teacher might ask students to investigate why clothes dry on a clothesline. After exploring the topic with Study Mode, each student writes their own explanation and a question to discuss in class, without referring back to the conversation. The teacher can use these responses to identify what needs to be revisited with the class.",
+      "zh": "例如，在一堂讲解蒸发现象的科学课上，教师可以让学生探究衣服为什么会在晾衣绳上晾干。通过学习模式探索这一主题后，每位学生不再回看对话，而是用自己的话写下解释，并提出一个供课堂讨论的问题。教师可以根据这些回答，判断哪些内容需要带领全班重新梳理。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "This Teachers’ Day, we invite you to experiment: explore the AI for Educators course, try Study Mode, and discover how these tools can be useful in different teaching contexts. Technology can open up new ways to learn, but it is teachers who know their students, ask the most important questions, and help turn curiosity into knowledge.",
+      "en": "This Teachers’ Day, we invite you to experiment: explore the AI for Educators course, try Study Mode, and discover how these tools can be useful in different teaching contexts. Technology can open up new ways to learn, but it is teachers who know their students, ask the most important questions, and help turn curiosity into knowledge.",
+      "zh": "这个教师节，我们邀请你动手尝试：了解“面向教育工作者的 AI”课程，试用学习模式，探索这些工具如何在不同教学场景中发挥作用。技术可以开辟新的学习途径，但真正了解学生、提出关键问题、帮助学生将好奇心转化为知识的，始终是教师。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "教师节之际，我们向帮助我们学习的老师们致敬。一个好问题，可以改变一堂课的走向。",
+      "en": "On Teachers’ Day, we celebrate those who help us learn. A good question can change the course of a lesson."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "今天，我们在 OpenAI 的免费学习平台 OpenAI Academy 上推出巴西葡萄牙语版的“面向教育工作者的 AI”课程。本课程面向小学、中学及高等教育阶段的教育工作者，介绍如何在保留教师自身教学判断的前提下，使用 AI 备课、设计活动与测评，以及起草沟通材料。",
+      "en": "Today, we are launching the AI for Educators course in Brazilian Portuguese on OpenAI Academy, OpenAI’s free learning platform. Designed for educators in primary, secondary, and higher education, the course shows how to use AI to plan lessons, create activities and assessments, and prepare communications while preserving educators’ pedagogical judgment."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "学习模式帮助你探索一个主题，通过提问、提示、讲解和理解程度检查，引导你逐步深入。这项功能由我们与教师、科学家和教育学专家合作开发，旨在鼓励学习者主动参与，并反思自己的推理过程。",
+      "en": "Study Mode helps you explore a subject step by step, with questions, hints, explanations, and checks for understanding. Developed in collaboration with teachers, scientists, and experts in pedagogy, the feature aims to encourage active participation and reflection on one’s own reasoning."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "这个教师节，我们邀请你动手尝试：了解“面向教育工作者的 AI”课程，试用学习模式，探索这些工具如何在不同教学场景中发挥作用。技术可以开辟新的学习途径，但真正了解学生、提出关键问题、帮助学生将好奇心转化为知识的，始终是教师。",
+      "en": "This Teachers’ Day, we invite you to experiment: explore the AI for Educators course, try Study Mode, and discover how these tools can be useful in different teaching contexts. Technology can open up new ways to learn, but it is teachers who know their students, ask the most important questions, and help turn curiosity into knowledge."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions/",
+      "title": "Teaching students to think and learn through questions"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/teaching-students-to-think-and-learn-through-questions/",
+      "title": "教会学生通过提问来思考和学习"
+    }
+  },
+  "contentHash": "3dccbd43d95bd18bdd1a077e0b21c4565d955b0cfe8179961407473e8e836600",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/teaching-students-to-think-and-learn-through-questions/"
 }

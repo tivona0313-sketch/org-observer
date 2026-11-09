@@ -3,8 +3,142 @@
   "id": "rss-ebb413cc5359756bf923",
   "url": "https://openai.com/index/jump-trading",
   "sourceTitle": "How Jump Trading is scaling quant research with ChatGPT",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:52.209981+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:52.244324+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:54:57.047Z",
+  "finalURL": "https://openai.com/index/jump-trading/",
+  "language": "en",
+  "originalTitle": "How Jump Trading is scaling quant research with ChatGPT",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "As a quantitative trading firm, Jump Trading creates predictive models that use market data, news and events, and a range of alternative data sources to make the best possible predictions about asset prices. Because markets are complex, noisy, and changing over time, it is rarely possible to anticipate exactly what will happen. But according to Lucas Baker, Head of LLM R&D at Jump, predicting even slightly better than a coin flip at scale is enough to result in a successful strategy.",
+      "en": "As a quantitative trading firm, Jump Trading creates predictive models that use market data, news and events, and a range of alternative data sources to make the best possible predictions about asset prices. Because markets are complex, noisy, and changing over time, it is rarely possible to anticipate exactly what will happen. But according to Lucas Baker, Head of LLM R&D at Jump, predicting even slightly better than a coin flip at scale is enough to result in a successful strategy.",
+      "zh": "作为一家量化交易公司，Jump Trading 构建预测模型，利用市场数据、新闻事件以及各类另类数据源，尽可能准确地预测资产价格。市场复杂、噪声繁多且不断变化，因此几乎不可能准确预判接下来会发生什么。但 Jump 的 LLM 研发负责人 Lucas Baker 表示，只要规模足够大，即使预测准确率仅略高于抛硬币，也足以成就一套成功的策略。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Baker leads agentic research and development, and he’s focused on building the agents, harnesses, and infrastructure that let quantitative researchers explore their ideas in greater breadth and depth. Adding GPT‑6 Astra has dramatically expanded the scale and complexity of workflows that can be handed off to agents, from day-to-day coding to advanced quantitative studies to validate new hypotheses.",
+      "en": "Baker leads agentic research and development, and he’s focused on building the agents, harnesses, and infrastructure that let quantitative researchers explore their ideas in greater breadth and depth. Adding GPT‑6 Astra has dramatically expanded the scale and complexity of workflows that can be handed off to agents, from day-to-day coding to advanced quantitative studies to validate new hypotheses.",
+      "zh": "Baker 负责智能体技术的研发，专注于构建智能体、执行框架和基础设施，帮助量化研究员更广泛、更深入地探索自己的想法。引入 GPT‑6 Astra 后，可以交由智能体执行的工作流程在规模和复杂度上都大幅提升，涵盖日常编程到验证新假设的高级量化研究。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "“With the GPT-6 series, especially GPT-6 Astra, OpenAI has unlocked a new tier of autonomy for long-horizon tasks that require flexible agent coordination and extreme persistence on complex workflows. Where we used to require frequent human guidance and intervention, we can now focus fully on defining a secure and well-monitored environment with clear goals and letting the agents find their own way.”",
+      "en": "“With the GPT-6 series, especially GPT-6 Astra, OpenAI has unlocked a new tier of autonomy for long-horizon tasks that require flexible agent coordination and extreme persistence on complex workflows. Where we used to require frequent human guidance and intervention, we can now focus fully on defining a secure and well-monitored environment with clear goals and letting the agents find their own way.”",
+      "zh": "“GPT-6 系列，尤其是 GPT-6 Astra，让 OpenAI 将长周期任务的自主执行能力提升到了新层次。这类任务要求智能体灵活协作，并在复杂工作流程中极其持久地推进工作。过去，我们需要频繁提供人工指导和干预；现在，我们可以全力专注于构建一个安全、监控完善且目标明确的环境，让智能体自行探索实现目标的路径。”"
+    },
+    {
+      "id": "p4",
+      "kind": "heading",
+      "text": "From short snippets of code to comprehensive analysis",
+      "en": "From short snippets of code to comprehensive analysis",
+      "zh": "从简短代码片段到全面分析"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Over the past year, AI has transformed from a helpful tool, useful for writing one-off code snippets or finding small bugs into a capable, versatile system that can develop entire codebases and services by itself. Now, Baker and his team find that AI works best when treated more like a colleague. Researchers can define a key problem, a work environment, and a way of evaluating the quality and significance of results, then steer one or many agents in real time about where to focus the analysis or which job to run next.",
+      "en": "Over the past year, AI has transformed from a helpful tool, useful for writing one-off code snippets or finding small bugs into a capable, versatile system that can develop entire codebases and services by itself. Now, Baker and his team find that AI works best when treated more like a colleague. Researchers can define a key problem, a work environment, and a way of evaluating the quality and significance of results, then steer one or many agents in real time about where to focus the analysis or which job to run next.",
+      "zh": "过去一年里，AI 已从辅助编写临时代码片段、查找小错误的实用工具，发展为能够独立开发完整代码库和服务的多面手。如今，Baker 和他的团队发现，把 AI 当作同事来合作，更能发挥它的优势。研究员可以明确一个关键问题，设定工作环境以及评估结果质量和重要性的方法，然后实时引导一个或多个智能体，指明分析的重点或下一步要运行的任务。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Baker says that with GPT‑6 Astra, agents are now capable of not only finding meaningful and practical changes, but merging and stacking those wins together in a process of recursive improvement. Over the course of a single long-running task, the system can analyze its findings, judge them against the agreed-upon criteria from an initial proposal, and actively redirect its efforts rather than needing a person to analyze each round of changes. As he puts it, “You can define something that needs to run for days—it needs to pull from many data sources, it needs to make those subtle calls about what is important and what is not, and it needs to interrelate everything—to create a comprehensive analysis that actually works now,” he says.",
+      "en": "Baker says that with GPT‑6 Astra, agents are now capable of not only finding meaningful and practical changes, but merging and stacking those wins together in a process of recursive improvement. Over the course of a single long-running task, the system can analyze its findings, judge them against the agreed-upon criteria from an initial proposal, and actively redirect its efforts rather than needing a person to analyze each round of changes. As he puts it, “You can define something that needs to run for days—it needs to pull from many data sources, it needs to make those subtle calls about what is important and what is not, and it needs to interrelate everything—to create a comprehensive analysis that actually works now,” he says.",
+      "zh": "Baker 表示，有了 GPT‑6 Astra，智能体如今不仅能够找到有价值、可落地的改进方案，还能将这些成果整合叠加，通过递归过程持续改进。在一项长时间运行的任务中，系统可以分析自己的发现，依据初始方案中约定的标准进行评判，并主动调整工作方向，无须人工逐轮分析每次改动。正如他所说：“你可以设定一项需要运行数天的任务——它需要从多个数据源获取数据，对哪些信息重要、哪些不重要作出细致判断，并将一切关联起来，形成全面的分析。如今，这样的任务确实能完成了。”"
+    },
+    {
+      "id": "p7",
+      "kind": "heading",
+      "text": "Keeping human judgment at the center",
+      "en": "Keeping human judgment at the center",
+      "zh": "始终以人的判断为核心"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Jump Trading works across every time horizon and asset class. Every step of the process is complex, and in a heavily regulated industry such as finance, mistakes can have both financial and compliance consequences. Baker says that it is critical to be aware of the risks that arise from entrusting work to AI, but also that agentic intelligence can also be applied to improving quality, security, and monitoring, not just adding features. Strong system design and boundaries, clear constraints, infrastructure that promotes steerability and observability, and human review of changes help Jump Trading’s team ensure that AI-enabled workflows are ready to scale in a regulated environment.",
+      "en": "Jump Trading works across every time horizon and asset class. Every step of the process is complex, and in a heavily regulated industry such as finance, mistakes can have both financial and compliance consequences. Baker says that it is critical to be aware of the risks that arise from entrusting work to AI, but also that agentic intelligence can also be applied to improving quality, security, and monitoring, not just adding features. Strong system design and boundaries, clear constraints, infrastructure that promotes steerability and observability, and human review of changes help Jump Trading’s team ensure that AI-enabled workflows are ready to scale in a regulated environment.",
+      "zh": "Jump Trading 的业务覆盖各类交易周期和资产类别。整个流程的每一步都很复杂，而在金融这样监管严格的行业中，失误既可能造成财务损失，也可能带来合规后果。Baker 表示，必须认识到将工作交给 AI 所带来的风险；但智能体的能力也可以用于提升质量、安全性和监控水平，而不只是增加功能。稳健的系统设计与边界、明确的约束、增强可控性和可观测性的基础设施，以及对改动的人工审核，共同帮助 Jump Trading 团队确保 AI 驱动的工作流程能够在受监管环境中规模化应用。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "“If you have a safe environment where the agent or system is free to produce any output that it needs, but there is also a human review process at the end of it where critical validation takes place with human acceptance, that’s what gives us confidence,” he says. For example, if an agent produces a trading signal, it’s scoped and reviewed the same way any output would be: as a signal, usually informative but potentially wrong, and integrated with every other signal in a stringently reviewed and controlled execution environment.",
+      "en": "“If you have a safe environment where the agent or system is free to produce any output that it needs, but there is also a human review process at the end of it where critical validation takes place with human acceptance, that’s what gives us confidence,” he says. For example, if an agent produces a trading signal, it’s scoped and reviewed the same way any output would be: as a signal, usually informative but potentially wrong, and integrated with every other signal in a stringently reviewed and controlled execution environment.",
+      "zh": "他说：“在安全的环境中，智能体或系统可以自由生成所需的任何输出，但流程最后还要有人工审核，由人完成关键验证并确认验收。这样的安排让我们有信心。”例如，如果智能体生成了一个交易信号，团队就会像对待任何其他输出一样，界定其适用范围并加以审核：它只是一个信号，通常有参考价值，但也可能出错，需要在经过严格审核和管控的执行环境中，与所有其他信号结合使用。"
+    },
+    {
+      "id": "p10",
+      "kind": "heading",
+      "text": "What’s next",
+      "en": "What’s next",
+      "zh": "未来展望"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Baker says he thinks we’re headed towards a world where “autoresearch,” or the recursive improvement of measurable systems by agent researchers, will become so ubiquitous it is considered simply part of a quantitative researcher’s ordinary workflow. Today, even GPT‑6 Astra’s longest-running work still involves regular check-ins with the person defining the task—not only what data to pull, how long to run, and what counts as important, but whether the intermediate results make sense. Advanced autoresearch would still begin with a human-defined system, including inputs, environment definition, evaluation metrics, trade-offs, and overall priorities, but would entrust the rest of the process to a loosely structured “fleet” of agents themselves coordinated by other agents. Within a well-structured research pipeline, these agents would be able to make intelligent decisions about how to explore ideas, allocate compute time, and integrate promising findings, all starting with little more than an open question.",
+      "en": "Baker says he thinks we’re headed towards a world where “autoresearch,” or the recursive improvement of measurable systems by agent researchers, will become so ubiquitous it is considered simply part of a quantitative researcher’s ordinary workflow. Today, even GPT‑6 Astra’s longest-running work still involves regular check-ins with the person defining the task—not only what data to pull, how long to run, and what counts as important, but whether the intermediate results make sense. Advanced autoresearch would still begin with a human-defined system, including inputs, environment definition, evaluation metrics, trade-offs, and overall priorities, but would entrust the rest of the process to a loosely structured “fleet” of agents themselves coordinated by other agents. Within a well-structured research pipeline, these agents would be able to make intelligent decisions about how to explore ideas, allocate compute time, and integrate promising findings, all starting with little more than an open question.",
+      "zh": "Baker 认为，我们正走向这样一个未来：“自主研究”，也就是由研究型智能体对可衡量的系统进行递归式改进，将变得极为普遍，被视为量化研究员日常工作流程的一部分。如今，即便是 GPT‑6 Astra 执行的耗时最长的工作，也仍需定期与任务设定者沟通确认——不仅要确认提取哪些数据、运行多久、哪些信息算重要，还要判断中间结果是否合理。更高级的自主研究仍将从人类定义的系统出发，包括输入、环境设定、评估指标、取舍和总体优先事项，但后续流程则会交给一支组织结构较松散的智能体“团队”，这些智能体本身又由其他智能体协调。在结构完善的研究流程中，这些智能体只需以一个开放性问题为起点，就能明智地决定如何探索思路、分配计算时间，以及整合有前景的发现。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "“What does it look like when you can put all of this end to end, ask a general question that even you don’t know the answer to, and have a useful result come back?” he asks. “If you can solve a Millennium problem, you can probably also figure out some pretty interesting facts about quant finance.”",
+      "en": "“What does it look like when you can put all of this end to end, ask a general question that even you don’t know the answer to, and have a useful result come back?” he asks. “If you can solve a Millennium problem, you can probably also figure out some pretty interesting facts about quant finance.”",
+      "zh": "“当你能把这一切从头到尾串联起来，提出一个连自己也不知道答案的宽泛问题，并得到有用的结果时，那会是什么样的情景？”他问道。“如果你能解决一道千禧年难题，大概也能在量化金融领域发现一些相当有趣的事实。”"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "Every year has brought not only steady advancements in benchmark measurements, but also step changes in the type of work models were capable of performing. Often these developments were difficult to predict even months in advance: while it was considered impressive in 2024 for early agents to write a single file without mistakes, it became possible in 2025 to create entire codebases from scratch, and in 2026 to make progress on open research questions with many agents collaborating dynamically side by side. “What are we going to have next year?” he says. “It’s a pretty incredible prospect.”",
+      "en": "Every year has brought not only steady advancements in benchmark measurements, but also step changes in the type of work models were capable of performing. Often these developments were difficult to predict even months in advance: while it was considered impressive in 2024 for early agents to write a single file without mistakes, it became possible in 2025 to create entire codebases from scratch, and in 2026 to make progress on open research questions with many agents collaborating dynamically side by side. “What are we going to have next year?” he says. “It’s a pretty incredible prospect.”",
+      "zh": "每一年，模型不仅在基准测试中稳步提升，在能够胜任的工作类型上也实现了跨越式进步。这些进展往往连提前几个月都难以预测：2024 年，早期智能体能无误地编写一个文件就已令人印象深刻；到了 2025 年，从零创建完整代码库已成为可能；而在 2026 年，多个智能体已能动态协作，共同推进尚无定论的研究问题。“明年又会有什么进展？”他说。“这样的前景实在令人惊叹。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "作为一家量化交易公司，Jump Trading 构建预测模型，利用市场数据、新闻事件以及各类另类数据源，尽可能准确地预测资产价格。市场复杂、噪声繁多且不断变化，因此几乎不可能准确预判接下来会发生什么。",
+      "en": "As a quantitative trading firm, Jump Trading creates predictive models that use market data, news and events, and a range of alternative data sources to make the best possible predictions about asset prices. Because markets are complex, noisy, and changing over time, it is rarely possible to anticipate exactly what will happen."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "Baker 负责智能体技术的研发，专注于构建智能体、执行框架和基础设施，帮助量化研究员更广泛、更深入地探索自己的想法。引入 GPT‑6 Astra 后，可以交由智能体执行的工作流程在规模和复杂度上都大幅提升，涵盖日常编程到验证新假设的高级量化研究。",
+      "en": "Baker leads agentic research and development, and he’s focused on building the agents, harnesses, and infrastructure that let quantitative researchers explore their ideas in greater breadth and depth. Adding GPT‑6 Astra has dramatically expanded the scale and complexity of workflows that can be handed off to agents, from day-to-day coding to advanced quantitative studies to validate new hypotheses."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "Baker 认为，我们正走向这样一个未来：“自主研究”，也就是由研究型智能体对可衡量的系统进行递归式改进，将变得极为普遍，被视为量化研究员日常工作流程的一部分。如今，即便是 GPT‑6 Astra 执行的耗时最长的工作，也仍需定期与任务设定者沟通确认——不仅要确认提取哪些数据、运行多久、哪些信息算重要，还要判断中间结果是否合理。",
+      "en": "Baker says he thinks we’re headed towards a world where “autoresearch,” or the recursive improvement of measurable systems by agent researchers, will become so ubiquitous it is considered simply part of a quantitative researcher’s ordinary workflow. Today, even GPT‑6 Astra’s longest-running work still involves regular check-ins with the person defining the task—not only what data to pull, how long to run, and what counts as important, but whether the intermediate results make sense."
+    },
+    {
+      "paragraphId": "p13",
+      "zh": "每一年，模型不仅在基准测试中稳步提升，在能够胜任的工作类型上也实现了跨越式进步。这些进展往往连提前几个月都难以预测：2024 年，早期智能体能无误地编写一个文件就已令人印象深刻；到了 2025 年，从零创建完整代码库已成为可能；而在 2026 年，多个智能体已能动态协作，共同推进尚无定论的研究问题。",
+      "en": "Every year has brought not only steady advancements in benchmark measurements, but also step changes in the type of work models were capable of performing. Often these developments were difficult to predict even months in advance: while it was considered impressive in 2024 for early agents to write a single file without mistakes, it became possible in 2025 to create entire codebases from scratch, and in 2026 to make progress on open research questions with many agents collaborating dynamically side by side. “What are we going to have next year?” he says. “It’s a pretty incredible prospect.”"
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/jump-trading/",
+      "title": "How Jump Trading is scaling quant research with ChatGPT"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/jump-trading/",
+      "title": "Jump Trading 如何借助 ChatGPT 扩大量化研究规模"
+    }
+  },
+  "contentHash": "6dd2fe3ca1a5c392c3f8f287e2ad6a2e7ccd4aedaf4517279722f6eb4db187df",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/jump-trading/"
 }

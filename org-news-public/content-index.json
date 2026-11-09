@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T22:46:52.797894+00:00",
+  "updatedAt": "2026-11-09T03:06:17.453398+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -24,10 +24,11 @@
       "fetchedAt": "2026-11-05T11:28:16.767235+00:00"
     },
     "tencent-project-2026": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260522_2982969.shtml",
       "sourceTitle": "媒体观察：腾讯部分团队试行项目负责制，管理角色随业务任务调整",
-      "error": "redirect_outside_source"
+      "contentHash": "42101ba26c0c71ab92101b703179a2232df6fbbdd422485857d70c68b61e510d",
+      "fetchedAt": "2026-11-09T03:06:17.453398+00:00"
     },
     "ms-wti-2026": {
       "status": "ready",
@@ -77,10 +78,11 @@
       "error": "http_403"
     },
     "rss-25fa4dd18ec78a48a923": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
       "sourceTitle": "Setting a new standard for responsible AI infrastructure",
-      "error": "http_403"
+      "contentHash": "ba3f28ec67f477cda4db4f9ec81e29933fa33221de60c642b39bdf67073804c9",
+      "fetchedAt": "2026-11-09T02:54:44.977Z"
     },
     "rss-485654c1f98a7cdcb606": {
       "status": "ready",
@@ -156,10 +158,11 @@
       "fetchedAt": "2026-11-05T11:28:25.449144+00:00"
     },
     "rss-981785a01550309d0739": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/devrev-enterprise-self-service",
       "sourceTitle": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "error": "http_403"
+      "contentHash": "58460f9d6dd457eea0d21e3cdfe5fad1ec03bc0ee63ea0ee7700083cd0d540b9",
+      "fetchedAt": "2026-11-09T02:57:36.495Z"
     },
     "rss-4bbda0ce74fa502d3f00": {
       "status": "ready",
@@ -169,10 +172,11 @@
       "fetchedAt": "2026-11-05T11:28:25.350591+00:00"
     },
     "rss-fc87a45dcfbf03d41725": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/heimstaden",
       "sourceTitle": "Heimstaden is changing residential real estate management with AI",
-      "error": "http_403"
+      "contentHash": "0f4438095af1140f3f136128713631efff591ba341cd1b2f474f57c152090ad6",
+      "fetchedAt": "2026-11-09T02:52:05.933Z"
     },
     "rss-cbb0fcae787c165c5bda": {
       "status": "ready",
@@ -210,22 +214,25 @@
       "fetchedAt": "2026-11-05T11:28:30.359456+00:00"
     },
     "rss-25493a43cba550c7fe81": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "sourceTitle": "Accelerating engineering for the physical world",
-      "error": "http_403"
+      "contentHash": "07a1c24d750d26d81e719418c83acc666cf3a75c187919afdb879517ceb60ec3",
+      "fetchedAt": "2026-11-09T02:52:31.395Z"
     },
     "rss-34e7d62615202d0de65f": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/cisco-cyber",
       "sourceTitle": "How Cisco defends at machine speed with OpenAI",
-      "error": "http_403"
+      "contentHash": "78641ef858ee8cd3e22bf5537ad147df150528add0d95c6ae7e2182c6d56615b",
+      "fetchedAt": "2026-11-09T02:58:59.309Z"
     },
     "rss-019edb616369c3322f4c": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
       "sourceTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "error": "http_403"
+      "contentHash": "f701f155772018740f50426dea3703ad17996b6e97d613195a5133fe79df1575",
+      "fetchedAt": "2026-11-09T02:51:02.575Z"
     },
     "rss-996c88dfa31d64c0a9d6": {
       "status": "ready",
@@ -235,28 +242,32 @@
       "fetchedAt": "2026-11-05T11:28:31.869379+00:00"
     },
     "rss-0d297090385ad5a72451": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "sourceTitle": "Preparing our next security sprint to harden OpenAI",
-      "error": "http_403"
+      "contentHash": "1399547993638d94cdb3ec4a6221fcaa8e7068483355cc5a883f3b1cdefcb9e9",
+      "fetchedAt": "2026-11-09T02:56:09.865Z"
     },
     "rss-5a014341bc3fc0f1d8b6": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/lifeval",
       "sourceTitle": "LifeVal",
-      "error": "http_403"
+      "contentHash": "b34b13917a083c9f639fa28b6e90922954dedb2578b54b423ffd71af716c9310",
+      "fetchedAt": "2026-11-09T02:51:49.824Z"
     },
     "rss-4094d4340f9e66f9e2fc": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/qodo-codex-plugin",
       "sourceTitle": "Qodo builds context into AI code review with Codex",
-      "error": "http_403"
+      "contentHash": "3c7b3b55a5e0e39a356b8afa9f44d2a110a64fc730df00b234de8c019ce11b70",
+      "fetchedAt": "2026-11-09T02:59:20.954Z"
     },
     "rss-945f879ef3a469b4aebe": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "sourceTitle": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "error": "http_403"
+      "contentHash": "920d877c4d0a075f994eb62fea4f8fcfd0b19d61a1a08ba7c1fed3c497fa261f",
+      "fetchedAt": "2026-11-09T02:58:16.926Z"
     },
     "rss-cbcd682a693800b6056a": {
       "status": "ready",
@@ -266,16 +277,18 @@
       "fetchedAt": "2026-11-05T11:28:32.001488+00:00"
     },
     "rss-84abd1857de5dfd951d9": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "sourceTitle": "Making it easier for websites to express AI training preferences",
-      "error": "http_403"
+      "contentHash": "a36f6b2178306898d2835126c78fb0633f6df38844c71e41cccfffb03e264a5d",
+      "fetchedAt": "2026-11-09T02:56:21.101Z"
     },
     "rss-574dbaf7fc8731e40575": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/fair-use-benefits-everyone",
       "sourceTitle": "Fair use benefits everyone",
-      "error": "http_403"
+      "contentHash": "bbe33a039ef531ea9ba9593fdf9ce2c050c30b1c760a4da2f3aa40b157591a92",
+      "fetchedAt": "2026-11-09T02:59:09.592Z"
     },
     "rss-7ff097b88dbb7fb2e75d": {
       "status": "ready",
@@ -327,28 +340,32 @@
       "fetchedAt": "2026-11-05T11:28:38.472538+00:00"
     },
     "rss-9349f418e7bc7ab45091": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/updated-model-spec",
       "sourceTitle": "An updated Model Spec for more capable and beneficial AI",
-      "error": "http_403"
+      "contentHash": "31699c32531b118a49bb1578e4d334a8543fb392b336a4970d189847c1a99012",
+      "fetchedAt": "2026-11-09T02:50:47.276Z"
     },
     "rss-0f01adb2acab0a67ba71": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "sourceTitle": "How we detect frontier model misalignment",
-      "error": "http_403"
+      "contentHash": "fd06b9cb41280dbb2f11f673326b72a6543b8f797250da452bdadad0f2bd5f38",
+      "fetchedAt": "2026-11-09T02:53:43.731Z"
     },
     "rss-d948735545c20cf30721": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/ropes-gray-ai-diligence",
       "sourceTitle": "How Ropes & Gray is developing AI for transactional diligence",
-      "error": "http_403"
+      "contentHash": "016a29e636f45a0fc3ad73f3ed87c6abaf21d1929ea00404de2fa219d91dcf89",
+      "fetchedAt": "2026-11-09T02:55:30.564Z"
     },
     "rss-85f94c0fe8f02a81789b": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/credit-saison",
       "sourceTitle": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "error": "http_403"
+      "contentHash": "83b6ce83fb068f5e9ae49e13225155a99d059275edf8f654d70f7bab307aeff2",
+      "fetchedAt": "2026-11-09T02:57:54.215Z"
     },
     "rss-41804386d21a770b2b19": {
       "status": "ready",
@@ -386,22 +403,25 @@
       "fetchedAt": "2026-11-05T11:28:46.797786+00:00"
     },
     "rss-a395c7da350b5086cc15": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "sourceTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "error": "http_403"
+      "contentHash": "153c727e6f5fe94d0f78a64c31471929ae6d3d602114a494aff869d32f362a66",
+      "fetchedAt": "2026-11-09T02:51:54.858Z"
     },
     "rss-e2ed7680c50ae3f074e0": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/the-future-of-the-firm",
       "sourceTitle": "The future of the firm",
-      "error": "http_403"
+      "contentHash": "46cdf8ea5bba1b4d20ad3bee356cf9be79f8c6b3715f240ea71243681cd38a89",
+      "fetchedAt": "2026-11-09T02:50:15.996Z"
     },
     "rss-709cc8e2bd467b791689": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/legora",
       "sourceTitle": "Legora is building the agentic operating system for legal work",
-      "error": "http_403"
+      "contentHash": "033801eebe393295cea22f2eaec2e306b1f2d9b45cb5cfea785156b9ee08cdd0",
+      "fetchedAt": "2026-11-09T02:54:06.871Z"
     },
     "rss-0581385f35cc1b6867a0": {
       "status": "ready",
@@ -418,28 +438,32 @@
       "fetchedAt": "2026-11-05T11:28:50.292987+00:00"
     },
     "rss-16681fd606d5f6994d06": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/ads/customers/evernote",
       "sourceTitle": "Evernote turns AI-driven discovery into paid subscriptions",
-      "error": "http_403"
+      "contentHash": "eeb3ef4e4482cfea1f573cf294261eecaa2a7190cbabcd18b8db9c0e999e1cad",
+      "fetchedAt": "2026-11-09T02:59:04.193Z"
     },
     "rss-1e3ebf94e41ebe19793b": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/retell-ai",
       "sourceTitle": "Retell uses OpenAI models to help power 100M monthly calls",
-      "error": "http_403"
+      "contentHash": "a55cde85c9ca1436042d6048896bdc6b21971e5937a73f1553b8b86c69631976",
+      "fetchedAt": "2026-11-09T02:59:14.971Z"
     },
     "rss-c417f8e3d39d0b893c07": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "sourceTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "error": "http_403"
+      "contentHash": "315a826a478af0abf1c71b27383bd3c145bb88112a827e3db9a26a07561b0f6f",
+      "fetchedAt": "2026-11-09T02:58:39.464Z"
     },
     "rss-c44dc9ed271ff418b14a": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/check-point-daybreak",
       "sourceTitle": "How Check Point accelerates vulnerability research with Daybreak",
-      "error": "http_403"
+      "contentHash": "560c544eed77b620b61dfb46cc5f604f7050047ad5661b9e4585172b23b9d1a6",
+      "fetchedAt": "2026-11-09T02:56:26.331Z"
     },
     "rss-a2c86f83567732fb85f8": {
       "status": "ready",
@@ -449,76 +473,88 @@
       "fetchedAt": "2026-11-05T11:28:49.169570+00:00"
     },
     "rss-a9c488820a62ac4adcd9": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/greptile-code-review-codex-astra",
       "sourceTitle": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "error": "http_403"
+      "contentHash": "9bddf94c5dc028986cae1b52b313cb2228505e160bf667c44dbb766800d7e789",
+      "fetchedAt": "2026-11-09T02:58:00.751Z"
     },
     "rss-8eb6001a836a6e50b8fb": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "sourceTitle": "Working with academic communities to build scientific understanding",
-      "error": "http_403"
+      "contentHash": "b19edb10f716aa17c1351d284fbd2de2e482dc00a96b06a15e07565d018547f7",
+      "fetchedAt": "2026-11-09T02:57:48.657Z"
     },
     "rss-7d972df501d01ba1f64a": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "sourceTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "error": "http_403"
+      "contentHash": "d7cd4aff31751113f332fc92ed15c78e446051bbe249870c076788cc15fe1ba4",
+      "fetchedAt": "2026-11-09T02:50:56.990Z"
     },
     "rss-742d30efdc4090c11a97": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/openai-cut-incident-investigation",
       "sourceTitle": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "error": "http_403"
+      "contentHash": "15bf8f0cbc6beb4838bbe299742c8d9096f9104f9bc8ae164e3b693eb82f7ff9",
+      "fetchedAt": "2026-11-09T02:53:13.857Z"
     },
     "rss-f8c156dba7886826388b": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "sourceTitle": "Securing our frontier model training environment",
-      "error": "http_403"
+      "contentHash": "ee69e4095cc2223f3ba895e6063b88290a702dc71c950792b704bbae6ecdc40b",
+      "fetchedAt": "2026-11-09T02:57:42.688Z"
     },
     "rss-3b5a2a6a27ab5490f80a": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/anima",
       "sourceTitle": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "error": "http_403"
+      "contentHash": "93b7faf18a3ee2d13370ec2f0f3ff63a4f89e83e9cc1f8828d42c6af9821f1ba",
+      "fetchedAt": "2026-11-09T02:52:48.531Z"
     },
     "rss-1a543055a02f9816518c": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "sourceTitle": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "error": "http_403"
+      "contentHash": "e1d35d4bfd366cc9b270131e0eaedd75a90601b72ab24761f199f804b027e30a",
+      "fetchedAt": "2026-11-09T02:56:15.310Z"
     },
     "rss-eda525050cea8fce4b13": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "sourceTitle": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "error": "http_403"
+      "contentHash": "c8892e0e753a57e032f67f6054ff2e58e467d251a399cdf112650cb2ee9b0100",
+      "fetchedAt": "2026-11-09T02:54:40.098Z"
     },
     "rss-95dedf578de78f3ec264": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "sourceTitle": "OpenAI models are coming to Google Cloud",
-      "error": "http_403"
+      "contentHash": "8b7edabe8f1ddf217e6b1222ea862781df80eb121eedafb4b5b1420759634be9",
+      "fetchedAt": "2026-11-09T02:51:44.313Z"
     },
     "rss-de9db6f384cbc7887755": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "sourceTitle": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "error": "http_403"
+      "contentHash": "086b0e57bbc3f3cd805765b54b5a6ec9b6eb4695d1c861de05fbeb893a57b714",
+      "fetchedAt": "2026-11-09T02:55:12.432Z"
     },
     "rss-64ddfb139fec8a1cb459": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "sourceTitle": "Using thousands of AI agents to uncover new leads in biological data",
-      "error": "http_403"
+      "contentHash": "16b60798a18153250725996e078bf75e1ea467db7e76aa81b9e717e46e2f353a",
+      "fetchedAt": "2026-11-09T02:55:36.181Z"
     },
     "rss-e270f5ba4688033de075": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/empowering-cyber-defenders",
       "sourceTitle": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "error": "http_403"
+      "contentHash": "db3e61d7fbfaa13e7c19e31a02ea8a4fe28f6a7a3fc4ff9b74d28502ee7165aa",
+      "fetchedAt": "2026-11-09T02:58:27.440Z"
     },
     "rss-130b99afb50dd1d71a0d": {
       "status": "ready",
@@ -528,22 +564,25 @@
       "fetchedAt": "2026-11-05T11:28:51.461030+00:00"
     },
     "rss-1725d137aa3debc0d8ae": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/ted-taylor-restaurant",
       "sourceTitle": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "error": "http_403"
+      "contentHash": "b35f2e647e2456a2be0cd0934a8ee80f890ab6d9d7cd68de3a39073cb1c19a0f",
+      "fetchedAt": "2026-11-09T02:53:06.744Z"
     },
     "rss-aa8847d44cbae3328f3c": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/terminal-x",
       "sourceTitle": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "error": "http_403"
+      "contentHash": "332f5bfbaaa79a5a9b10570bdd69521f7862b60a6e30075084dfc271c8fe6c46",
+      "fetchedAt": "2026-11-09T02:52:25.786Z"
     },
     "rss-1cfb6291fa158d05a5ba": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
       "sourceTitle": "OpenAI acquires Orchestra Bio",
-      "error": "http_403"
+      "contentHash": "4c535a416022223e93c8fc5c2bd9df1fc95820d4cdd2b2796a3ef0f82914a5ad",
+      "fetchedAt": "2026-11-09T02:52:36.570Z"
     },
     "rss-d5edcab10a18dcceb353": {
       "status": "ready",
@@ -553,46 +592,53 @@
       "fetchedAt": "2026-11-05T11:28:52.504120+00:00"
     },
     "rss-9732b2763df5a67ab945": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/itau-generative-ai",
       "sourceTitle": "How Itaú is building generative AI for its entire customer base",
-      "error": "http_403"
+      "contentHash": "30f6d47c09f9fe60c3f184b5b172e19e24108bb8cc4775fadb5eb33d2f7fafbb",
+      "fetchedAt": "2026-11-09T02:53:49.707Z"
     },
     "rss-d3b9ba6f7bd01af06315": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/localiza-generative-ai",
       "sourceTitle": "How Localiza reorganized work around generative AI",
-      "error": "http_403"
+      "contentHash": "3a851c511a4f1c214e9d0d799d616d03611ac40261e54a24f7f21bbbeea4c7ed",
+      "fetchedAt": "2026-11-09T02:53:55.555Z"
     },
     "rss-86dbfdb5b436c283839e": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/grupo-boticario",
       "sourceTitle": "How Grupo Boticário uses AI to strengthen human connections",
-      "error": "http_403"
+      "contentHash": "681a2f6c933474f39d18b55ecc3a53cb57ed99b69f7c803a0db746d09db8ab60",
+      "fetchedAt": "2026-11-09T02:54:50.951Z"
     },
     "rss-9e63539289a31c8631b6": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "sourceTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "error": "http_403"
+      "contentHash": "0cacf5b08809ef3953212e839c8ddd128461683c9af21096b65f15f40431618a",
+      "fetchedAt": "2026-11-09T02:53:25.191Z"
     },
     "rss-32165ee6af8945a5bd83": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "sourceTitle": "Bringing GPT-Rosalind to academic research labs",
-      "error": "http_403"
+      "contentHash": "ff71e4e4632a762900ebd0be2c97a8dc32179236f74d5e335b0c8b71ee85f030",
+      "fetchedAt": "2026-11-09T02:53:19.466Z"
     },
     "rss-a60f4a701f887ae8f46b": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
       "sourceTitle": "Teaching students to think and learn through questions",
-      "error": "http_403"
+      "contentHash": "3dccbd43d95bd18bdd1a077e0b21c4565d955b0cfe8179961407473e8e836600",
+      "fetchedAt": "2026-11-09T02:56:31.793Z"
     },
     "rss-94eadcab22c41e356a1d": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/sullivan-cromwell",
       "sourceTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "error": "http_403"
+      "contentHash": "784b15da6c87d72c43dfee3ee0e5352eec02985bf4b6ce893f2911e40561f496",
+      "fetchedAt": "2026-11-09T02:58:33.182Z"
     },
     "rss-144647f83aa6804e0beb": {
       "status": "ready",
@@ -602,28 +648,32 @@
       "fetchedAt": "2026-11-05T11:28:56.418444+00:00"
     },
     "rss-57c3309db5bedcdec4e0": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/amp-beyond-coding",
       "sourceTitle": "Amp puts AI agents to work beyond code with OpenAI models",
-      "error": "http_403"
+      "contentHash": "65b3a7d2915d019ecc664e5dfab2551465c99ce26861d00cbdba28808e93537b",
+      "fetchedAt": "2026-11-09T02:52:00.489Z"
     },
     "rss-a8b8c31de898145e14c8": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/third-moment-research",
       "sourceTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "error": "http_403"
+      "contentHash": "a185876dcff99cac311fb9d31e78571b721ccaafbe3a919fcee6e96be91e3056",
+      "fetchedAt": "2026-11-09T02:54:34.839Z"
     },
     "rss-94ee28b93f9d2d830319": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/block-ai-powered-security",
       "sourceTitle": "How Block is building AI-powered security with OpenAI technology",
-      "error": "http_403"
+      "contentHash": "57bb773fc730346a5caf6a552cb23d4c2903b5fd0e2948c1d4e421b34edd0462",
+      "fetchedAt": "2026-11-09T02:50:51.790Z"
     },
     "rss-200a5d3dd39c6bfb7a20": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "sourceTitle": "The EU’s next chapter in AI is agentic",
-      "error": "http_403"
+      "contentHash": "2995bf5d192a7defc2815f36ebfad145f011f2e37db2f7c449b0876291307b84",
+      "fetchedAt": "2026-11-09T02:55:24.212Z"
     },
     "rss-fb9782751b5c994c8a85": {
       "status": "ready",
@@ -633,10 +683,11 @@
       "fetchedAt": "2026-11-05T11:28:59.249318+00:00"
     },
     "rss-8d45898e533e591d4241": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/higgsfield-longer-videos-voice",
       "sourceTitle": "Higgsfield takes AI video from 1 minute to over 10",
-      "error": "http_403"
+      "contentHash": "2f11dc4b6b1c694d2c18fd767a06630dd0cff4a4aa3c5f0715d356d66cefa90d",
+      "fetchedAt": "2026-11-09T02:53:30.943Z"
     },
     "rss-677117a6476c9ea93f69": {
       "status": "ready",
@@ -646,40 +697,46 @@
       "fetchedAt": "2026-11-05T11:28:59.245385+00:00"
     },
     "rss-9bf93d58cc35db9987f8": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/asana-browser-agent",
       "sourceTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "error": "http_403"
+      "contentHash": "16631ae9fb34e87e34e883f71c3e61d6eaa27b50f94d0c84f81b2c6ac27ac0b4",
+      "fetchedAt": "2026-11-09T02:55:18.116Z"
     },
     "rss-db7b9e6fe248e3146f87": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/oracle",
       "sourceTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "error": "http_403"
+      "contentHash": "0ec7da87b5e1b6d1637b674b5b1e1c597b317c1d02232add54d6e9a75764f66c",
+      "fetchedAt": "2026-11-09T02:54:01.223Z"
     },
     "rss-855092fba1df7e8a668b": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/pollo-ai",
       "sourceTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "error": "http_403"
+      "contentHash": "b6e489b25368baec370fb2b16cdc21a8ecbd2b14ec19ced9e466fcc4618ec810",
+      "fetchedAt": "2026-11-09T02:58:52.985Z"
     },
     "rss-d9e485b409fe8517ac6e": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "sourceTitle": "Disrupting AI-enabled “false front” operations",
-      "error": "http_403"
+      "contentHash": "ead5b981341394c00f1786d06bc85514136e13eb57eff87f12260cbaf1671de9",
+      "fetchedAt": "2026-11-09T02:52:42.812Z"
     },
     "rss-661f64ddb5f472a2675e": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/teens-learn-and-plan",
       "sourceTitle": "Helping teens learn, plan, and shape the future of AI",
-      "error": "http_403"
+      "contentHash": "9382b3e6087b97de3713ccb3d42bed8e968346fb35c8ecd1b027e865801c1824",
+      "fetchedAt": "2026-11-09T02:58:22.345Z"
     },
     "rss-ebb413cc5359756bf923": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/jump-trading",
       "sourceTitle": "How Jump Trading is scaling quant research with ChatGPT",
-      "error": "http_403"
+      "contentHash": "6dd2fe3ca1a5c392c3f8f287e2ad6a2e7ccd4aedaf4517279722f6eb4db187df",
+      "fetchedAt": "2026-11-09T02:54:57.047Z"
     },
     "rss-3f1df7d1e497a618a33d": {
       "status": "ready",

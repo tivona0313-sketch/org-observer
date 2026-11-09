@@ -3,8 +3,219 @@
   "id": "rss-94ee28b93f9d2d830319",
   "url": "https://openai.com/index/block-ai-powered-security",
   "sourceTitle": "How Block is building AI-powered security with OpenAI technology",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:52.058683+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:52.095284+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:50:51.790Z",
+  "finalURL": "https://openai.com/index/block-ai-powered-security/",
+  "language": "en",
+  "originalTitle": "How Block is building AI-powered security with OpenAI technology",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "At Block, the company behind Square, Cash App, and Afterpay, the security team leverages the OpenAI Defense Factory: where AI handles vulnerability discovery, detection, and response at a scale that no human team could keep up with. With AI systems including OpenAI Daybreak, Block is taking just hours to do work that used to take weeks.",
+      "en": "At Block, the company behind Square, Cash App, and Afterpay, the security team leverages the OpenAI Defense Factory: where AI handles vulnerability discovery, detection, and response at a scale that no human team could keep up with. With AI systems including OpenAI Daybreak, Block is taking just hours to do work that used to take weeks.",
+      "zh": "Block 是 Square、Cash App 和 Afterpay 背后的公司。其安全团队借助 OpenAI Defense Factory，让 AI 以人工团队无法企及的规模开展漏洞发现、检测和响应工作。借助 OpenAI Daybreak 等 AI 系统，Block 只需几小时就能完成过去需要数周的工作。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "“AI is compressing the time from human intent to action. For a while, it was assumed that there was an attacker advantage since they’re faster and more nimble. But with things like Daybreak and the advancements in OpenAI’s tooling, defenders are able to fight fire with fire and keep up with the rapid pace of AI adoption.”",
+      "en": "“AI is compressing the time from human intent to action. For a while, it was assumed that there was an attacker advantage since they’re faster and more nimble. But with things like Daybreak and the advancements in OpenAI’s tooling, defenders are able to fight fire with fire and keep up with the rapid pace of AI adoption.”",
+      "zh": "“AI 正在缩短从人的意图到实际行动之间的时间。曾有一段时间，人们认为攻击者占据优势，因为他们行动更快、更灵活。但有了 Daybreak 这样的系统，加上 OpenAI 工具的不断进步，防御者也能以 AI 应对 AI，跟上 AI 快速应用的步伐。”"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Block’s security team has been focused on responsibly adopting AI across workflows, whether that’s code generation or security operations. “What it’s really centered on is having a new teammate that you can scale with,” James Nettesheim, Chief Information Security Officer, says. “It’s not like a more traditional automation where you had to go step by step. You can prompt it with a fairly bespoke, ambiguous problem and work through it together.”",
+      "en": "Block’s security team has been focused on responsibly adopting AI across workflows, whether that’s code generation or security operations. “What it’s really centered on is having a new teammate that you can scale with,” James Nettesheim, Chief Information Security Officer, says. “It’s not like a more traditional automation where you had to go step by step. You can prompt it with a fairly bespoke, ambiguous problem and work through it together.”",
+      "zh": "从代码生成到安全运营，Block 安全团队一直致力于以负责任的方式将 AI 引入各项工作流程。首席信息安全官 James Nettesheim 表示：“这件事的核心，是多了一位能与你一起扩展工作规模的新队友。这不同于传统的自动化，不需要你一步一步设定流程。你可以通过提示词把一个针对特定需求、尚不明确的问题交给它，再一起逐步解决。”"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Projects like reviewing a software bug or parsing a log would take days or weeks to complete. Now the team can complete those projects in a fraction of the time, with a human still validating every result.",
+      "en": "Projects like reviewing a software bug or parsing a log would take days or weeks to complete. Now the team can complete those projects in a fraction of the time, with a human still validating every result.",
+      "zh": "审查软件缺陷或解析日志等工作，以往需要数天甚至数周才能完成。如今，团队完成这些工作所需的时间大幅缩短，同时仍由人工验证每一项结果。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "For example, for detection tuning, every investigation stores its raw query evidence, so the team can now replay a proposed detection change against seven months of production telemetry in under an hour. That work used to mean requerying hundreds of old cases by hand, and often it rarely happened in practice since it was so time-consuming.",
+      "en": "For example, for detection tuning, every investigation stores its raw query evidence, so the team can now replay a proposed detection change against seven months of production telemetry in under an hour. That work used to mean requerying hundreds of old cases by hand, and often it rarely happened in practice since it was so time-consuming.",
+      "zh": "以检测调优为例，每次调查都会保存原始查询证据，因此团队现在可以在不到一小时内，利用七个月的生产环境遥测数据，回放验证拟议的检测规则变更。过去，这意味着要手动重新查询数百起历史事件。由于太耗时，这项工作在实践中很少真正开展。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "The team has also gotten more particular about which model they’re using for which job. “We used to use the latest model, but you don’t need to do that anymore,” he says. “It’s been a learning experience to choose different models for different tasks.” Block’s security harness is built on top of Daybreak to help route tasks to the right model, and it includes hooks for humans to take over tasks or for agents to verify each other’s work. The team continually evaluates these systems against internal benchmarks and real-world performance, adjusting its approach when needed, including routing work to human review when that is the responsible path.",
+      "en": "The team has also gotten more particular about which model they’re using for which job. “We used to use the latest model, but you don’t need to do that anymore,” he says. “It’s been a learning experience to choose different models for different tasks.” Block’s security harness is built on top of Daybreak to help route tasks to the right model, and it includes hooks for humans to take over tasks or for agents to verify each other’s work. The team continually evaluates these systems against internal benchmarks and real-world performance, adjusting its approach when needed, including routing work to human review when that is the responsible path.",
+      "zh": "团队在为不同任务选择模型时，也更加讲究。他表示：“以前我们总是用最新的模型，但现在没必要了。为不同任务选择不同模型，是一个不断学习的过程。”Block 基于 Daybreak 构建了安全执行框架，帮助将任务分配给合适的模型，并设置了相应接口，供人工接管任务或让智能体相互验证工作成果。团队持续依据内部基准和实际表现评估这些系统，并在必要时调整方法；如果人工审核才是负责任的做法，就将工作转交人工审核。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "The automated triage system has resulted in faster work (and more of it) getting done. Block’s security team has seen a 50% boost to triage throughput, a 50% increase in intelligence gathering and investigations, and an entirely new autonomous hunting capability. Nettesheim says, “This performs ~1,100 analyst-hours of investigation per quarter, because every alert now gets a full, deep investigation across all elements the alert involves. Our system works every alert like it’s the only alert we’ve got that day.”",
+      "en": "The automated triage system has resulted in faster work (and more of it) getting done. Block’s security team has seen a 50% boost to triage throughput, a 50% increase in intelligence gathering and investigations, and an entirely new autonomous hunting capability. Nettesheim says, “This performs ~1,100 analyst-hours of investigation per quarter, because every alert now gets a full, deep investigation across all elements the alert involves. Our system works every alert like it’s the only alert we’ve got that day.”",
+      "zh": "自动化分流系统让团队能够更快地完成更多工作。Block 安全团队的分流吞吐量提升了 50%，情报收集和调查工作量增加了 50%，还获得了全新的自主威胁搜寻能力。Nettesheim 表示：“这套系统每季度完成的调查工作，相当于分析师约 1,100 小时的工作量，因为现在每一条告警涉及的所有要素都会得到全面、深入的调查。我们的系统处理每一条告警时，都像当天只有这一条告警一样认真。”"
+    },
+    {
+      "id": "p8",
+      "kind": "heading",
+      "text": "The OpenAI Defense Factory at work",
+      "en": "The OpenAI Defense Factory at work",
+      "zh": "OpenAI Defense Factory 的实践"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Traditional scanning tools flag a single vulnerability in isolation, but Block’s security team can go much further with Daybreak. The model helps hypothesize about attack patterns and chain together a series of attacks into a full end-to-end compromise path, surfacing vulnerabilities that might have existed for years.",
+      "en": "Traditional scanning tools flag a single vulnerability in isolation, but Block’s security team can go much further with Daybreak. The model helps hypothesize about attack patterns and chain together a series of attacks into a full end-to-end compromise path, surfacing vulnerabilities that might have existed for years.",
+      "zh": "传统扫描工具只能孤立地标记单个漏洞，而借助 Daybreak，Block 安全团队可以深入得多。模型帮助团队推测可能的攻击模式，并将一系列攻击串联成完整的端到端入侵路径，从而揭示可能已存在多年的漏洞。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "In one case, an alert on a single laptop looked like a minor policy issue on its own. But during peer review, the model followed an indicator that appeared only incidentally in the evidence, joined it against Block’s identity logs, and surfaced a much larger set of issues. “One routine endpoint alert became a campaign takedown. No single tool makes that join. The signal only exists across two products’ logs,” James says.",
+      "en": "In one case, an alert on a single laptop looked like a minor policy issue on its own. But during peer review, the model followed an indicator that appeared only incidentally in the evidence, joined it against Block’s identity logs, and surfaced a much larger set of issues. “One routine endpoint alert became a campaign takedown. No single tool makes that join. The signal only exists across two products’ logs,” James says.",
+      "zh": "在一个案例中，单看某台笔记本电脑上的告警，似乎只是一个轻微的策略违规问题。但在交叉复核时，模型追踪了证据中一条不起眼的迹象，将其与 Block 的身份日志进行关联，发现了范围大得多的一系列问题。“一条常规终端告警，最终促成了对整场攻击活动的瓦解。没有任何单一工具能建立这样的关联。只有把两个产品的日志结合起来，才能发现这个信号。”James 表示。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Another example when Daybreak helped was during a recent red team exercise. The model was given a few hints about an internal system, and it chained together a full attack path—SQL injection, privilege escalation, a foothold, credential enumeration, and a pivot to other systems—in about two hours. This would typically take a human red teamer several days. In recent red team exercises, the time from submitting a high-level vulnerability to an automated proposed patch was 18 minutes.",
+      "en": "Another example when Daybreak helped was during a recent red team exercise. The model was given a few hints about an internal system, and it chained together a full attack path—SQL injection, privilege escalation, a foothold, credential enumeration, and a pivot to other systems—in about two hours. This would typically take a human red teamer several days. In recent red team exercises, the time from submitting a high-level vulnerability to an automated proposed patch was 18 minutes.",
+      "zh": "在近期的一次红队演练中，Daybreak 也发挥了作用。模型只获得了关于某个内部系统的几条线索，就在大约两小时内串联出一条完整的攻击路径：SQL 注入、权限提升、建立立足点、凭证枚举，再到横向移动至其他系统。这通常需要人工红队测试人员花上好几天。在近期的红队演练中，从提交漏洞概要到自动生成补丁建议，用时仅为 18 分钟。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Finding the vulnerabilities is only as good as the ability to fix them. Nettesheim walks through the process his team uses on every finding: locate where the issue lives in the code and identify who owns it, then move to remediation. “You propose a patch, you confirm exploitability, and then you verify that you have fixed it, with a human in the loop guiding it and deploying the code changes.”",
+      "en": "Finding the vulnerabilities is only as good as the ability to fix them. Nettesheim walks through the process his team uses on every finding: locate where the issue lives in the code and identify who owns it, then move to remediation. “You propose a patch, you confirm exploitability, and then you verify that you have fixed it, with a human in the loop guiding it and deploying the code changes.”",
+      "zh": "发现漏洞的价值，取决于能否将其修复。Nettesheim 介绍了团队处理每项发现的流程：先定位问题所在的代码并明确负责人，然后着手修复。“先提出补丁建议，确认漏洞是否可被利用，再验证是否已修复。整个过程中都有人参与指导，并负责部署代码变更。”"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "While agents are technically capable, they don’t carry an organization’s context or the reasoning behind previous decisions. A human provides that context and strategy, and that’s where his team comes in to provide a human layer of review. As AI’s judgment is proven out in practice, Nettesheim says, “we’ll slowly ladder up the risk level to use it for more sensitive systems.”",
+      "en": "While agents are technically capable, they don’t carry an organization’s context or the reasoning behind previous decisions. A human provides that context and strategy, and that’s where his team comes in to provide a human layer of review. As AI’s judgment is proven out in practice, Nettesheim says, “we’ll slowly ladder up the risk level to use it for more sensitive systems.”",
+      "zh": "尽管智能体具备技术能力，却不了解组织的具体情况，也不了解以往决策背后的考量。这些背景信息和策略需要由人来提供，这也正是他的团队介入、开展人工审核的环节。Nettesheim 表示，随着 AI 的判断能力在实践中得到验证，“我们会逐步提高可接受的风险等级，将它用于更敏感的系统。”"
+    },
+    {
+      "id": "p14",
+      "kind": "heading",
+      "text": "Results at a glance",
+      "en": "Results at a glance",
+      "zh": "成效一览"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "Less than one hour to replay a proposed detection change against seven months of telemetry.",
+      "en": "Less than one hour to replay a proposed detection change against seven months of telemetry.",
+      "zh": "利用七个月的遥测数据回放验证拟议的检测变更，用时不到一小时。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "18 minutes from submitting a high-level vulnerability to an automated proposed patch in recent red team exercises.",
+      "en": "18 minutes from submitting a high-level vulnerability to an automated proposed patch in recent red team exercises.",
+      "zh": "在近期的红队演练中，从提交漏洞概要到自动生成补丁建议，用时 18 分钟。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Roughly 600 analyst-hours per quarter of false-positive triage handed back.",
+      "en": "Roughly 600 analyst-hours per quarter of false-positive triage handed back.",
+      "zh": "每季度节省约 600 小时原本用于误报分流的分析师工时。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Approximately 1,100 analyst-hours of investigation completed per quarter.",
+      "en": "Approximately 1,100 analyst-hours of investigation completed per quarter.",
+      "zh": "每季度完成的调查工作，相当于分析师约 1,100 小时的工作量。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "50% boost to triage throughput.",
+      "en": "50% boost to triage throughput.",
+      "zh": "分流吞吐量提升 50%。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "50% increase in intelligence gathering and investigations.",
+      "en": "50% increase in intelligence gathering and investigations.",
+      "zh": "情报收集和调查工作量增加 50%。"
+    },
+    {
+      "id": "p21",
+      "kind": "heading",
+      "text": "What’s next",
+      "en": "What’s next",
+      "zh": "未来展望"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Detection and response work alone has handed back roughly 600 analyst-hours per quarter that used to go toward triaging false positives. With that time back, the team now spends more time on deeper investigations and building more automation responsibly.",
+      "en": "Detection and response work alone has handed back roughly 600 analyst-hours per quarter that used to go toward triaging false positives. With that time back, the team now spends more time on deeper investigations and building more automation responsibly.",
+      "zh": "仅在检测和响应环节，每季度就节省了约 600 小时原本用于误报分流的分析师工时。有了这些节省下来的时间，团队如今能够投入更多精力开展深入调查，并以负责任的方式构建更多自动化流程。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "As the pace of attack increases and AI models keep advancing, Nettesheim sees an opportunity to reduce the number of vulnerabilities introduced in the first place. That would free security teams to spend less time patching and more time on preventative, strategic work.",
+      "en": "As the pace of attack increases and AI models keep advancing, Nettesheim sees an opportunity to reduce the number of vulnerabilities introduced in the first place. That would free security teams to spend less time patching and more time on preventative, strategic work.",
+      "zh": "随着攻击节奏加快、AI 模型不断进步，Nettesheim 看到了从源头减少漏洞引入的机会。这将让安全团队少花时间打补丁，把更多精力投入预防性、战略性的工作。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "“OpenAI is shifting the advantage to defenders by putting these advanced capabilities in everyone’s hands,” he says. “It’s typically only been in very high-profile technology companies and government hands. But everyone, including critical infrastructure, schools, small businesses, can now start utilizing this technology to defend their networks.”",
+      "en": "“OpenAI is shifting the advantage to defenders by putting these advanced capabilities in everyone’s hands,” he says. “It’s typically only been in very high-profile technology companies and government hands. But everyone, including critical infrastructure, schools, small businesses, can now start utilizing this technology to defend their networks.”",
+      "zh": "他表示：“OpenAI 正把这些先进能力交到每个人手中，让优势转向防御者一方。过去，这类能力通常只掌握在知名科技公司和政府手中。但现在，包括关键基础设施运营方、学校和小企业在内，所有人都可以开始利用这项技术保护自己的网络。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Block 是 Square、Cash App 和 Afterpay 背后的公司。其安全团队借助 OpenAI Defense Factory，让 AI 以人工团队无法企及的规模开展漏洞发现、检测和响应工作。",
+      "en": "At Block, the company behind Square, Cash App, and Afterpay, the security team leverages the OpenAI Defense Factory: where AI handles vulnerability discovery, detection, and response at a scale that no human team could keep up with. With AI systems including OpenAI Daybreak, Block is taking just hours to do work that used to take weeks."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "从代码生成到安全运营，Block 安全团队一直致力于以负责任的方式将 AI 引入各项工作流程。首席信息安全官 James Nettesheim 表示：“这件事的核心，是多了一位能与你一起扩展工作规模的新队友。",
+      "en": "Block’s security team has been focused on responsibly adopting AI across workflows, whether that’s code generation or security operations. “What it’s really centered on is having a new teammate that you can scale with,” James Nettesheim, Chief Information Security Officer, says. “It’s not like a more traditional automation where you had to go step by step. You can prompt it with a fairly bespoke, ambiguous problem and work through it together.”"
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "团队在为不同任务选择模型时，也更加讲究。他表示：“以前我们总是用最新的模型，但现在没必要了。",
+      "en": "The team has also gotten more particular about which model they’re using for which job. “We used to use the latest model, but you don’t need to do that anymore,” he says. “It’s been a learning experience to choose different models for different tasks.” Block’s security harness is built on top of Daybreak to help route tasks to the right model, and it includes hooks for humans to take over tasks or for agents to verify each other’s work. The team continually evaluates these systems against internal benchmarks and real-world performance, adjusting its approach when needed, including routing work to human review when that is the responsible path."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "自动化分流系统让团队能够更快地完成更多工作。Block 安全团队的分流吞吐量提升了 50%，情报收集和调查工作量增加了 50%，还获得了全新的自主威胁搜寻能力。",
+      "en": "The automated triage system has resulted in faster work (and more of it) getting done. Block’s security team has seen a 50% boost to triage throughput, a 50% increase in intelligence gathering and investigations, and an entirely new autonomous hunting capability."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/block-ai-powered-security/",
+      "title": "How Block is building AI-powered security with OpenAI technology"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/block-ai-powered-security/",
+      "title": "Block 如何借助 OpenAI 技术构建 AI 驱动的安全防护"
+    }
+  },
+  "contentHash": "57bb773fc730346a5caf6a552cb23d4c2903b5fd0e2948c1d4e421b34edd0462",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/block-ai-powered-security/"
 }

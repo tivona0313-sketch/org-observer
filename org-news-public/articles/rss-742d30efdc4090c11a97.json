@@ -3,8 +3,163 @@
   "id": "rss-742d30efdc4090c11a97",
   "url": "https://openai.com/index/openai-cut-incident-investigation",
   "sourceTitle": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.667602+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.723497+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:53:13.857Z",
+  "finalURL": "https://openai.com/index/openai-cut-incident-investigation/",
+  "language": "en",
+  "originalTitle": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "This is part of our series sharing internal examples of how OpenAI is using its own technology and APIs. These tools are being used internally, at OpenAI, and are shared here as illustrative examples of how frontier AI is supporting use cases across our teams.",
+      "en": "This is part of our series sharing internal examples of how OpenAI is using its own technology and APIs. These tools are being used internally, at OpenAI, and are shared here as illustrative examples of how frontier AI is supporting use cases across our teams.",
+      "zh": "本文属于我们的系列文章，分享 OpenAI 在内部使用自身技术和 API 的实例。这些工具正在 OpenAI 内部使用，我们在此分享这些实例，展示前沿 AI 如何支持各团队的不同应用场景。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Ultrafast is a high-speed mode in Codex, and for engineers at OpenAI, it’s become the default for incident response. When something breaks, engineers often don’t have time to wait minutes for an answer while the issue compounds. With Ultrafast, they can investigate multiple potential causes at once and get answers without splitting their attention.",
+      "en": "Ultrafast is a high-speed mode in Codex, and for engineers at OpenAI, it’s become the default for incident response. When something breaks, engineers often don’t have time to wait minutes for an answer while the issue compounds. With Ultrafast, they can investigate multiple potential causes at once and get answers without splitting their attention.",
+      "zh": "Ultrafast 是 Codex 的一种高速模式，已成为 OpenAI 工程师响应故障时的默认选择。一旦出现故障，问题可能不断恶化，工程师往往没有时间花上几分钟等待答案。借助 Ultrafast，他们可以同时排查多种潜在原因，无需分散注意力就能获得答案。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "“If you take two humans who are equally smart, and one gets back to you in an hour and one gets back to you in a minute, the second person is way better. You’re just going to get way more done with somebody who responds faster.”",
+      "en": "“If you take two humans who are equally smart, and one gets back to you in an hour and one gets back to you in a minute, the second person is way better. You’re just going to get way more done with somebody who responds faster.”",
+      "zh": "“两个人同样聪明，一个要一小时才能给你答复，另一个只要一分钟，那第二个人就强太多了。和回复更快的人合作，你就是能完成更多工作。”"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "—Adam Perry, Member of Technical Staff, OpenAI",
+      "en": "—Adam Perry, Member of Technical Staff, OpenAI",
+      "zh": "—Adam Perry，OpenAI 技术团队成员"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Finding the needle in the haystack",
+      "en": "Finding the needle in the haystack",
+      "zh": "从海量线索中找出问题根源"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Aaron Friel, Member of the Technical Staff at OpenAI, is usually the one running point on an incident. He spins up a Slack channel for incident response and then points Codex at the problem, asking Codex to monitor, investigate, and answer any questions as they come in. “In any incident, there are usually many hops along the way of what could have gone wrong, and finding the right needle in the right haystack is really the chief job of the people on that channel,” he says. “Using Ultrafast, I’m able to essentially search all of those haystacks at the same time, and respond to incidents much faster.”",
+      "en": "Aaron Friel, Member of the Technical Staff at OpenAI, is usually the one running point on an incident. He spins up a Slack channel for incident response and then points Codex at the problem, asking Codex to monitor, investigate, and answer any questions as they come in. “In any incident, there are usually many hops along the way of what could have gone wrong, and finding the right needle in the right haystack is really the chief job of the people on that channel,” he says. “Using Ultrafast, I’m able to essentially search all of those haystacks at the same time, and respond to incidents much faster.”",
+      "zh": "OpenAI 技术团队成员 Aaron Friel 通常负责牵头处理故障。他会创建一个用于故障响应的 Slack 频道，然后把问题交给 Codex，让它持续监控、排查，并随时回答新出现的问题。他说：“任何一次故障，都可能涉及链路上多个出错的环节。找准排查方向，再从海量线索中找到关键问题，才是频道里大家最主要的工作。用了 Ultrafast，我基本上能同时排查所有这些方向，更快地响应故障。”"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "AJ Trbojevic, Member of the Technical Staff and a Datacenter Security Architect, says investigations into security issues used to take an hour or two to pull structured and unstructured data together, normalize it, and provide context to make a decision. “Now that happens in 10 to 15 minutes,” he says. “And at times it’s near real time.”",
+      "en": "AJ Trbojevic, Member of the Technical Staff and a Datacenter Security Architect, says investigations into security issues used to take an hour or two to pull structured and unstructured data together, normalize it, and provide context to make a decision. “Now that happens in 10 to 15 minutes,” he says. “And at times it’s near real time.”",
+      "zh": "技术团队成员兼数据中心安全架构师 AJ Trbojevic 表示，以前调查安全问题时，需要花一两个小时汇集结构化和非结构化数据、统一数据格式，并补充决策所需的背景信息。他说：“现在这些工作只要 10 到 15 分钟就能完成。有时甚至接近实时完成。”"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Adam Perry and Sayan Sisodiya both work on the core agent team, building the code that lets Codex take actions, run commands, and use tools. Ultrafast has changed how they operate during security incidents. “Before, I’d ask Codex to look into something, and then go look into it myself at the same time, because I knew it wouldn’t be fast enough to just wait on,” Adam says. “Now with Ultrafast, Codex is fast enough that I can just stay focused instead of splitting my attention.”",
+      "en": "Adam Perry and Sayan Sisodiya both work on the core agent team, building the code that lets Codex take actions, run commands, and use tools. Ultrafast has changed how they operate during security incidents. “Before, I’d ask Codex to look into something, and then go look into it myself at the same time, because I knew it wouldn’t be fast enough to just wait on,” Adam says. “Now with Ultrafast, Codex is fast enough that I can just stay focused instead of splitting my attention.”",
+      "zh": "Adam Perry 和 Sayan Sisodiya 都在核心智能体团队工作，编写让 Codex 能够执行操作、运行命令和使用工具的代码。Ultrafast 改变了他们应对安全事件的工作方式。Adam 说：“以前，我让 Codex 调查一个问题时，自己也会同时去查，因为我知道它不够快，不能只等它给结果。现在有了 Ultrafast，Codex 已经足够快，我可以保持专注，不用再分心了。”"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Sayan appreciates how Ultrafast lets him get immediate answers from multiple data sources: “Beyond just digging through logs in an incident, I use Codex to dig through Slack to see if there are references to changes that might be suspect or people talking about similar symptoms elsewhere in Slack,” he says.",
+      "en": "Sayan appreciates how Ultrafast lets him get immediate answers from multiple data sources: “Beyond just digging through logs in an incident, I use Codex to dig through Slack to see if there are references to changes that might be suspect or people talking about similar symptoms elsewhere in Slack,” he says.",
+      "zh": "Sayan 很看重 Ultrafast 能从多个数据源即时获取答案这一点。他说：“故障发生时，除了查日志，我还会用 Codex 搜索 Slack，看看有没有人提到可能有问题的变更，或者在其他频道讨论类似的症状。”"
+    },
+    {
+      "id": "p10",
+      "kind": "heading",
+      "text": "Fast responses in under 30 seconds",
+      "en": "Fast responses in under 30 seconds",
+      "zh": "不到 30 秒，快速获得答复"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "If it takes more than 30 seconds to find an answer with AI, Jeff Niu, another Member of the Technical Staff, says he’ll check Slack or chat with a coworker. But most of his work is now under that threshold with Ultrafast. He used to ask Codex a question, switch over to something else while it thought, and come back having lost his train of thought. Now that conversation happens in real time; it helps him stay focused on the task at hand.",
+      "en": "If it takes more than 30 seconds to find an answer with AI, Jeff Niu, another Member of the Technical Staff, says he’ll check Slack or chat with a coworker. But most of his work is now under that threshold with Ultrafast. He used to ask Codex a question, switch over to something else while it thought, and come back having lost his train of thought. Now that conversation happens in real time; it helps him stay focused on the task at hand.",
+      "zh": "另一位技术团队成员 Jeff Niu 表示，如果用 AI 寻找答案需要等上 30 秒以上，他就会去看看 Slack，或者和同事聊几句。但有了 Ultrafast，他现在处理大多数工作时，等待时间都不到 30 秒。以前，他向 Codex 提问后，会在它思考时转去做别的事，等回来时，原来的思路已经断了。现在，对话可以实时进行，让他能专注于手头的任务。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Ultrafast also makes Jeff more willing to tackle large refactors, because reworking existing code takes less time. “Technical debt is much easier to pay down now than it ever was before,” he says. “Code is cheap, and now it’s very quick to produce. A refactor that used to cost a lot happens almost instantly.”",
+      "en": "Ultrafast also makes Jeff more willing to tackle large refactors, because reworking existing code takes less time. “Technical debt is much easier to pay down now than it ever was before,” he says. “Code is cheap, and now it’s very quick to produce. A refactor that used to cost a lot happens almost instantly.”",
+      "zh": "Ultrafast 也让 Jeff 更愿意着手进行大规模重构，因为修改现有代码所需的时间更短了。他说：“现在偿还技术债比以往任何时候都容易。写代码的成本很低，现在速度也非常快。过去代价高昂的重构，如今几乎瞬间就能完成。”"
+    },
+    {
+      "id": "p13",
+      "kind": "heading",
+      "text": "Working as a copilot",
+      "en": "Working as a copilot",
+      "zh": "成为得力助手"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "Adam keeps a running Codex thread that he calls his chief of staff. Every morning it tells him what meetings he has and which messages he might have forgotten to reply to. “It’s already looked at all the data to write that summary, so when I ask a followup, it’s not waiting to go fetch more,” he says. “I can just keep asking questions in the same conversation just like an actual chief of staff.”",
+      "en": "Adam keeps a running Codex thread that he calls his chief of staff. Every morning it tells him what meetings he has and which messages he might have forgotten to reply to. “It’s already looked at all the data to write that summary, so when I ask a followup, it’s not waiting to go fetch more,” he says. “I can just keep asking questions in the same conversation just like an actual chief of staff.”",
+      "zh": "Adam 一直保留着一个持续使用的 Codex 对话，把它称作自己的幕僚长。每天早上，它都会告诉他当天有哪些会议，以及哪些消息可能忘了回复。他说：“为了写这份摘要，它已经看过所有数据，所以我追问时，不用再等它去获取更多信息。我可以在同一个对话里不断提问，就像在和一位真正的幕僚长交流。”"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "Sayan uses Codex to do tedious manual work in the browser, like filling out forms—something he’d previously avoided because it was too slow. “It would open a browser, sit there thinking for five seconds, click something, sit there again,” he says. With the latest models’ improvements in computer use, he’s more comfortable letting Codex handle that work. “Now I’m totally fine letting it click through the browser and it’s fast enough that I’m not losing time by not doing it myself.”",
+      "en": "Sayan uses Codex to do tedious manual work in the browser, like filling out forms—something he’d previously avoided because it was too slow. “It would open a browser, sit there thinking for five seconds, click something, sit there again,” he says. With the latest models’ improvements in computer use, he’s more comfortable letting Codex handle that work. “Now I’m totally fine letting it click through the browser and it’s fast enough that I’m not losing time by not doing it myself.”",
+      "zh": "Sayan 用 Codex 在浏览器中完成填写表单等繁琐的手动操作。以前他不愿让它做这些，因为速度太慢。他说：“它打开浏览器后，会停在那里思考五秒，点一下，然后又停在那里。”随着最新模型的计算机操作能力提升，他更放心地把这类工作交给 Codex。“现在我完全愿意让它在浏览器里一步步点击操作。它的速度已经足够快，交给它做并不比自己动手更费时间。”"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "Across incident response, daily planning, and refactoring, Ultrafast lets OpenAI’s Technical Staff work with Codex at the pace of their questions. They can follow up on an answer, try another approach, and keep working without losing their train of thought. That shorter wait also changes what they’re willing to take on, from a refactor they’d put off to a routine task that’s finally worth delegating.",
+      "en": "Across incident response, daily planning, and refactoring, Ultrafast lets OpenAI’s Technical Staff work with Codex at the pace of their questions. They can follow up on an answer, try another approach, and keep working without losing their train of thought. That shorter wait also changes what they’re willing to take on, from a refactor they’d put off to a routine task that’s finally worth delegating.",
+      "zh": "无论是故障响应、日常规划，还是代码重构，Ultrafast 都让 Codex 跟得上 OpenAI 技术团队成员提问的节奏。他们可以根据回答继续追问、尝试其他方法，并在不中断思路的情况下继续工作。等待时间缩短，也让他们愿意着手处理更多工作：原本搁置的重构可以提上日程，例行任务也终于值得交给 Codex 代劳。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "Ultrafast 是 Codex 的一种高速模式，已成为 OpenAI 工程师响应故障时的默认选择。一旦出现故障，问题可能不断恶化，工程师往往没有时间花上几分钟等待答案。",
+      "en": "Ultrafast is a high-speed mode in Codex, and for engineers at OpenAI, it’s become the default for incident response. When something breaks, engineers often don’t have time to wait minutes for an answer while the issue compounds."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "OpenAI 技术团队成员 Aaron Friel 通常负责牵头处理故障。他会创建一个用于故障响应的 Slack 频道，然后把问题交给 Codex，让它持续监控、排查，并随时回答新出现的问题。",
+      "en": "Aaron Friel, Member of the Technical Staff at OpenAI, is usually the one running point on an incident. He spins up a Slack channel for incident response and then points Codex at the problem, asking Codex to monitor, investigate, and answer any questions as they come in. “In any incident, there are usually many hops along the way of what could have gone wrong, and finding the right needle in the right haystack is really the chief job of the people on that channel,” he says. “Using Ultrafast, I’m able to essentially search all of those haystacks at the same time, and respond to incidents much faster.”"
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "技术团队成员兼数据中心安全架构师 AJ Trbojevic 表示，以前调查安全问题时，需要花一两个小时汇集结构化和非结构化数据、统一数据格式，并补充决策所需的背景信息。他说：“现在这些工作只要 10 到 15 分钟就能完成。",
+      "en": "AJ Trbojevic, Member of the Technical Staff and a Datacenter Security Architect, says investigations into security issues used to take an hour or two to pull structured and unstructured data together, normalize it, and provide context to make a decision. “Now that happens in 10 to 15 minutes,” he says. “And at times it’s near real time.”"
+    },
+    {
+      "paragraphId": "p16",
+      "zh": "无论是故障响应、日常规划，还是代码重构，Ultrafast 都让 Codex 跟得上 OpenAI 技术团队成员提问的节奏。他们可以根据回答继续追问、尝试其他方法，并在不中断思路的情况下继续工作。",
+      "en": "Across incident response, daily planning, and refactoring, Ultrafast lets OpenAI’s Technical Staff work with Codex at the pace of their questions. They can follow up on an answer, try another approach, and keep working without losing their train of thought."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/openai-cut-incident-investigation/",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/openai-cut-incident-investigation/",
+      "title": "Ultrafast 如何将 OpenAI 的故障排查时间从数小时缩短至几分钟"
+    }
+  },
+  "contentHash": "15bf8f0cbc6beb4838bbe299742c8d9096f9104f9bc8ae164e3b693eb82f7ff9",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/openai-cut-incident-investigation/"
 }

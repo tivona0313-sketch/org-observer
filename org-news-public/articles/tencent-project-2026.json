@@ -3,8 +3,347 @@
   "id": "tencent-project-2026",
   "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260522_2982969.shtml",
   "sourceTitle": "媒体观察：腾讯部分团队试行项目负责制，管理角色随业务任务调整",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.116901+00:00",
-  "error": "redirect_outside_source",
-  "nextAttempt": "2026-11-09T22:46:52.785230+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T03:06:17.453398+00:00",
+  "finalURL": "https://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260522_2982969.shtml",
+  "language": "zh",
+  "originalTitle": "腾讯正在“消灭”小组长",
+  "author": "林秋艺、王怡洁（中国企业家）",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "5月，一则关于腾讯微信事业群（WXG）将取消“组长负责制”的消息，开始在圈内流传。与以往官方发布的调整不同，这次变革没有全员邮件或内部公告，而是在“地下”进行。",
+      "en": "In May, reports began circulating that Tencent's Weixin Group (WXG) would abolish its team-leader system. Unlike previous officially announced reorganizations, this change proceeded quietly, without a company-wide email or internal announcement.",
+      "zh": "5月，一则关于腾讯微信事业群（WXG）将取消“组长负责制”的消息，开始在圈内流传。与以往官方发布的调整不同，这次变革没有全员邮件或内部公告，而是在“地下”进行。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "多名腾讯在职、离职员工告诉《中国企业家》，WXG多部门正在试行“项目负责制”。此前，腾讯架构以组为单位，一个组少则三五人，多则十余人，由组长安排工作；几个组再合成事业部或工作室，由总监带队。调整后，分组模式被打破，员工按项目组队，实线组长、总监被“项目负责人”取而代之。",
+      "en": "Several current and former Tencent employees told China Entrepreneur that multiple WXG departments were piloting a project-owner system. Previously, Tencent organized work into teams of as few as three to five people or more than ten, with a team leader allocating work. Several teams formed a business department or studio led by a director. Under the adjustment, these fixed groupings are broken up: employees assemble around projects, and permanent line-management roles such as team leader and director are replaced by project owners.",
+      "zh": "多名腾讯在职、离职员工告诉《中国企业家》，WXG多部门正在试行“项目负责制”。此前，腾讯架构以组为单位，一个组少则三五人，多则十余人，由组长安排工作；几个组再合成事业部或工作室，由总监带队。调整后，分组模式被打破，员工按项目组队，实线组长、总监被“项目负责人”取而代之。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "有员工评价：这次调整，主要是为了强化业务和业绩导向，弱化基干的管理职能。“以前组长、总监的位置是固定的，变成项目负责人后，那就要‘可上可下、自负盈亏’了。”",
+      "en": "One employee said the main purpose was to strengthen the focus on business results and performance while reducing the management responsibilities attached to established positions. \"Team leaders and directors used to hold fixed positions. Once they become project owners, they can move up or down and must take responsibility for their own project's profits and losses.\"",
+      "zh": "有员工评价：这次调整，主要是为了强化业务和业绩导向，弱化基干的管理职能。“以前组长、总监的位置是固定的，变成项目负责人后，那就要‘可上可下、自负盈亏’了。”"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "相似的变化，也正在腾讯混元大模型团队中发生。",
+      "en": "Similar changes are taking place in Tencent's Hunyuan large-model team.",
+      "zh": "相似的变化，也正在腾讯混元大模型团队中发生。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "有员工透露，腾讯AI业务负责人姚顺雨上任后，将汇报线从“基层员工—组长—总监”，简化为了“基层研发—项目方向负责人—姚顺雨”三级，让管理跟着业务走。",
+      "en": "An employee said that after Yao Shunyu became Tencent's AI business leader, he simplified reporting from \"front-line employee—team leader—director\" to three levels: \"front-line R&D staff—project-area owner—Yao Shunyu,\" making management follow the business.",
+      "zh": "有员工透露，腾讯AI业务负责人姚顺雨上任后，将汇报线从“基层员工—组长—总监”，简化为了“基层研发—项目方向负责人—姚顺雨”三级，让管理跟着业务走。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "这场转型背后，是腾讯希望打破山头文化，推行干部年轻化，激活组织动能的决心。另外，腾讯或许也在尝试给组织做更多“减法”，以破解AI“落子”慢人一步的焦虑。",
+      "en": "Behind this transformation is Tencent's determination to break down internal fiefdoms, bring younger people into leadership, and reinvigorate the organization. Tencent may also be trying to simplify its structure to address anxiety over moving more slowly than competitors in AI.",
+      "zh": "这场转型背后，是腾讯希望打破山头文化，推行干部年轻化，激活组织动能的决心。另外，腾讯或许也在尝试给组织做更多“减法”，以破解AI“落子”慢人一步的焦虑。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "此刻的腾讯，正在遭到资本市场冷遇，股价从2026年1月的633港元高点，跌到了5月20日的455.20港元，市值蒸发近三分之一，约1.5万亿港元。不断下滑的股价，也让许多腾讯员工的薪酬缩水，内部人心浮动。",
+      "en": "At the time, Tencent was facing a cool reception in capital markets. Its share price had fallen from a January 2026 high of HK$633 to HK$455.20 on May 20, erasing nearly one-third of its market value, or roughly HK$1.5 trillion. The falling share price had also reduced compensation for many Tencent employees, unsettling staff.",
+      "zh": "此刻的腾讯，正在遭到资本市场冷遇，股价从2026年1月的633港元高点，跌到了5月20日的455.20港元，市值蒸发近三分之一，约1.5万亿港元。不断下滑的股价，也让许多腾讯员工的薪酬缩水，内部人心浮动。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "5月13日，腾讯发布2026年Q1财报，财报会当天，马化腾在面对“腾讯AI是否落后”的提问时回应：“一年前，我们以为上了船，后来发现那个船漏水了。现在感觉站上去了，还坐不下去，还是希望船速能快一点。”",
+      "en": "Tencent released its first-quarter 2026 results on May 13. Asked at the earnings briefing whether Tencent was falling behind in AI, Pony Ma replied: \"A year ago, we thought we had boarded the boat, only to discover that it was leaking. Now it feels as though we have managed to stand on it, but still cannot sit down. We hope it can move faster.\"",
+      "zh": "5月13日，腾讯发布2026年Q1财报，财报会当天，马化腾在面对“腾讯AI是否落后”的提问时回应：“一年前，我们以为上了船，后来发现那个船漏水了。现在感觉站上去了，还坐不下去，还是希望船速能快一点。”"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "据《中国企业家》了解，近年来腾讯对重塑组织已做了许多努力，马化腾为此多次在内外表态。但变革的真实效果，与市场期待还存在落差。更有员工直言：“腾讯不是组长太多，而是山头太多。”",
+      "en": "According to China Entrepreneur, Tencent has made considerable efforts to reshape its organization in recent years, with Pony Ma speaking about it repeatedly both internally and publicly. Yet the actual effects still fall short of market expectations. One employee put it bluntly: \"Tencent doesn't have too many team leaders; it has too many fiefdoms.\"",
+      "zh": "据《中国企业家》了解，近年来腾讯对重塑组织已做了许多努力，马化腾为此多次在内外表态。但变革的真实效果，与市场期待还存在落差。更有员工直言：“腾讯不是组长太多，而是山头太多。”"
+    },
+    {
+      "id": "p10",
+      "kind": "heading",
+      "text": "01",
+      "en": "01",
+      "zh": "01"
+    },
+    {
+      "id": "p11",
+      "kind": "heading",
+      "text": "“年轻化”不易行",
+      "en": "Bringing in younger leaders is not easy",
+      "zh": "“年轻化”不易行"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "负责人制和组长制到底有什么区别？是最近在腾讯内部，频频被提出，却没有一致答案的问题。“换汤不换药，leader仍然是此前的组长和总监，新人还是很难上位。”一位腾讯员工说。",
+      "en": "What exactly distinguishes a project-owner system from a team-leader system? The question has been raised frequently inside Tencent, without a common answer. \"It is old wine in a new bottle. The leaders are still the former team leaders and directors, and newcomers still find it hard to move up,\" one Tencent employee said.",
+      "zh": "负责人制和组长制到底有什么区别？是最近在腾讯内部，频频被提出，却没有一致答案的问题。“换汤不换药，leader仍然是此前的组长和总监，新人还是很难上位。”一位腾讯员工说。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "员工更多的观感是，调整像是头衔的重新排列组合，而非权力的真正让渡。这种“换汤不换药”的局面，与马化腾力推数年的“干部年轻化”愿景形成了鲜明反差。",
+      "en": "Employees more often perceive the adjustment as a reshuffling of titles rather than a genuine transfer of authority. This sense of unchanged substance contrasts sharply with Pony Ma's long-standing ambition to bring younger people into management.",
+      "zh": "员工更多的观感是，调整像是头衔的重新排列组合，而非权力的真正让渡。这种“换汤不换药”的局面，与马化腾力推数年的“干部年轻化”愿景形成了鲜明反差。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "2019年前后，马化腾曾在内部会议上抛出尖锐问题：“腾讯一两千个总监级干部里，30岁以下的有多少？答案是不到10人。”这个数据让腾讯决定：通过中层干部调整，以适应业务变化。彼时，马化腾还说了一句后来被外界广泛引用的话：“可能你什么错都没有，最后就是错在自己太老了。”",
+      "en": "Around 2019, Pony Ma asked a pointed question at an internal meeting: \"Among Tencent's one or two thousand director-level managers, how many are under 30? The answer is fewer than ten.\" The figure prompted Tencent to decide to adjust middle management to keep pace with business changes. Ma also made a remark that was subsequently widely quoted: \"You may have done nothing wrong; in the end, the only problem is that you have become too old.\"",
+      "zh": "2019年前后，马化腾曾在内部会议上抛出尖锐问题：“腾讯一两千个总监级干部里，30岁以下的有多少？答案是不到10人。”这个数据让腾讯决定：通过中层干部调整，以适应业务变化。彼时，马化腾还说了一句后来被外界广泛引用的话：“可能你什么错都没有，最后就是错在自己太老了。”"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "但从2020年前后，“居家办公”等变化让互联网、游戏业务意外获得增长机会，也让腾讯组织人才快速膨胀，“年轻化”的变革节奏随之被打断。",
+      "en": "But around 2020, changes such as working from home unexpectedly created growth opportunities for internet and gaming businesses. Tencent's workforce expanded rapidly, interrupting the effort to bring younger people into leadership.",
+      "zh": "但从2020年前后，“居家办公”等变化让互联网、游戏业务意外获得增长机会，也让腾讯组织人才快速膨胀，“年轻化”的变革节奏随之被打断。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "2023年，马化腾发布全员信“旧事重提”。他提出要让“状态最好的人上场”，并解释称：“状态是激发出来的，行为是可管理的，结果是可以度量的。”这一表态也被解读为，高层已对腾讯业务产生结构性担忧，决心彻底变革组织。",
+      "en": "In 2023, Pony Ma revisited the issue in a company-wide letter. He called for \"putting the people in the best form on the field,\" explaining: \"Motivation can be stimulated, behavior can be managed, and results can be measured.\" His comments were also interpreted as a sign that senior management had developed structural concerns about Tencent's businesses and was determined to reform the organization.",
+      "zh": "2023年，马化腾发布全员信“旧事重提”。他提出要让“状态最好的人上场”，并解释称：“状态是激发出来的，行为是可管理的，结果是可以度量的。”这一表态也被解读为，高层已对腾讯业务产生结构性担忧，决心彻底变革组织。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "有离职员工告诉《中国企业家》，从彼时开始，PCG等BG就在小范围改革“组长制”，变为“项目制”。“有段时间，管理层还暗示过，以后新提拔的组长，要尽量在30岁以下。”",
+      "en": "A former employee told China Entrepreneur that from then on, business groups such as PCG began making limited changes from a team-leader system to a project system. \"For a while, management even hinted that newly promoted team leaders should preferably be under 30.\"",
+      "zh": "有离职员工告诉《中国企业家》，从彼时开始，PCG等BG就在小范围改革“组长制”，变为“项目制”。“有段时间，管理层还暗示过，以后新提拔的组长，要尽量在30岁以下。”"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "“项目制”除了改变了汇报层级，也将“自负盈亏”放在了更重要的位置。上述员工表示，改革后，员工的年终奖也将与所在项目的盈利情况直接挂钩。",
+      "en": "Besides changing reporting levels, the project system placed greater weight on responsibility for profits and losses. The same employee said that after the reform, employees' year-end bonuses would also be directly tied to the profitability of their projects.",
+      "zh": "“项目制”除了改变了汇报层级，也将“自负盈亏”放在了更重要的位置。上述员工表示，改革后，员工的年终奖也将与所在项目的盈利情况直接挂钩。"
+    },
+    {
+      "id": "p19",
+      "kind": "heading",
+      "text": "02",
+      "en": "02",
+      "zh": "02"
+    },
+    {
+      "id": "p20",
+      "kind": "heading",
+      "text": "组织还需合力",
+      "en": "The organization still needs to work together",
+      "zh": "组织还需合力"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "这场“消灭小组长”的改革，在腾讯内部引发了两种声音。有人视其为敏捷转型的关键一步；也有人认为治标不治本，难破深层病灶。",
+      "en": "The reform aimed at \"eliminating team leaders\" has prompted two views inside Tencent. Some consider it a key step toward greater agility; others believe it treats symptoms rather than causes and cannot resolve deeper problems.",
+      "zh": "这场“消灭小组长”的改革，在腾讯内部引发了两种声音。有人视其为敏捷转型的关键一步；也有人认为治标不治本，难破深层病灶。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "2026年1月的年度员工大会上，马化腾再次提及：过去一年腾讯“大幅优化了AI人才结构，引入了更多年轻化的原生AI人才”。",
+      "en": "At the annual employee meeting in January 2026, Pony Ma again said that during the preceding year Tencent had \"substantially improved the composition of its AI workforce and brought in more younger, AI-native talent.\"",
+      "zh": "2026年1月的年度员工大会上，马化腾再次提及：过去一年腾讯“大幅优化了AI人才结构，引入了更多年轻化的原生AI人才”。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "但有技术侧员工表示：腾讯AI布局目前仍然比较分散。WXG、TEG（技术工程事业群）、CSIG（云与智慧产业事业群）都各有大模型团队，缺乏统一的顶层设计和资源协调。而微信手握最大流量，被集团寄予了破局希望，却尚未跑出标杆级AI应用。",
+      "en": "But one technical employee said Tencent's AI efforts remained fragmented. WXG, TEG (Technology Engineering Group), and CSIG (Cloud and Smart Industries Group) each had their own large-model teams, with insufficient unified strategic design and resource coordination. Despite controlling the company's largest pool of user traffic and carrying hopes for a breakthrough, Weixin had not yet produced a benchmark AI application.",
+      "zh": "但有技术侧员工表示：腾讯AI布局目前仍然比较分散。WXG、TEG（技术工程事业群）、CSIG（云与智慧产业事业群）都各有大模型团队，缺乏统一的顶层设计和资源协调。而微信手握最大流量，被集团寄予了破局希望，却尚未跑出标杆级AI应用。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "事实上，WXG在这次变革中首当其冲，很大原因也源于正在承受来自集团层的创新压力。",
+      "en": "Indeed, a major reason WXG was at the forefront of this reform was the innovation pressure it faced from the group.",
+      "zh": "事实上，WXG在这次变革中首当其冲，很大原因也源于正在承受来自集团层的创新压力。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "5月13日的财报会上，刘炽平强调：“在微信生态系统中，我们有机会创造一个非常独特的人工智能，包括社交图谱、通信、社区等，以及公众号和视频号为代表的内容系统。”",
+      "en": "At the May 13 earnings briefing, Martin Lau emphasized: \"Within the Weixin ecosystem, we have an opportunity to create a very distinctive artificial intelligence, encompassing the social graph, communication, communities, and the content systems represented by Official Accounts and Channels.\"",
+      "zh": "5月13日的财报会上，刘炽平强调：“在微信生态系统中，我们有机会创造一个非常独特的人工智能，包括社交图谱、通信、社区等，以及公众号和视频号为代表的内容系统。”"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "微信需要与AI整合，创造崭新的产品的背景下，其所需的工作量和资源也随之激增。据《中国企业家》了解，在2026年腾讯年会上，曾有微信高层公开表达了希望自己训练大模型，集团能给予更多GPU支持。",
+      "en": "As Weixin needs to integrate with AI and create new products, the work and resources required have increased sharply. China Entrepreneur learned that at Tencent's 2026 annual meeting, a senior Weixin executive publicly expressed a desire to train its own large model and asked the group for more GPU support.",
+      "zh": "微信需要与AI整合，创造崭新的产品的背景下，其所需的工作量和资源也随之激增。据《中国企业家》了解，在2026年腾讯年会上，曾有微信高层公开表达了希望自己训练大模型，集团能给予更多GPU支持。"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "但微信多线承压的同时，WXG独立于集团、各自为战的问题，也引发了一些内部不满。",
+      "en": "While Weixin was under pressure on several fronts, WXG's independence from the group and tendency to work in isolation also generated internal dissatisfaction.",
+      "zh": "但微信多线承压的同时，WXG独立于集团、各自为战的问题，也引发了一些内部不满。"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "有员工透露，微信不喜欢使用公司开发的CodeBuddy工具，更愿意自建平台或模型。原因一方面是用自家模型，还要走内部结算，“反正开源模型可以自己搭建和部署，可替代性比较强”。另外“自家模型的能力，可能满足不了微信的高标准”。",
+      "en": "An employee said Weixin preferred building its own platforms or models to using the company's CodeBuddy tool. One reason was that using the company's own models required internal chargebacks: \"Open-source models can be set up and deployed independently anyway, so alternatives are readily available.\" Another was that \"the capabilities of the company's own models may not meet Weixin's high standards.\"",
+      "zh": "有员工透露，微信不喜欢使用公司开发的CodeBuddy工具，更愿意自建平台或模型。原因一方面是用自家模型，还要走内部结算，“反正开源模型可以自己搭建和部署，可替代性比较强”。另外“自家模型的能力，可能满足不了微信的高标准”。"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "类似的“诸侯割据”局面，在元宝团队身上同样存在。2025年1月，元宝从TEG被划转至CSIG，由原腾讯会议负责人吴祖榕接管。",
+      "en": "A similar pattern of internal fiefdoms was present in the Yuanbao team. In January 2025, Yuanbao was transferred from TEG to CSIG and placed under Wu Zurong, formerly the head of Tencent Meeting.",
+      "zh": "类似的“诸侯割据”局面，在元宝团队身上同样存在。2025年1月，元宝从TEG被划转至CSIG，由原腾讯会议负责人吴祖榕接管。"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "《中国企业家》获悉，元宝产品端最近一年新引入了不少字节背景的员工。同时，吴祖榕也将腾讯会议的旧部带入了元宝。双方经常理念不合。一位接近腾讯的人士直言：“两边经常打架。”",
+      "en": "China Entrepreneur learned that Yuanbao's product organization had recruited many employees with ByteDance backgrounds over the past year. At the same time, Wu Zurong brought former Tencent Meeting colleagues into Yuanbao. The two sides often disagreed in their thinking. Someone close to Tencent said plainly: \"The two sides frequently clash.\"",
+      "zh": "《中国企业家》获悉，元宝产品端最近一年新引入了不少字节背景的员工。同时，吴祖榕也将腾讯会议的旧部带入了元宝。双方经常理念不合。一位接近腾讯的人士直言：“两边经常打架。”"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "为解开症结，腾讯也寄希望于借助组织改革，将压力下沉。但有两位资深人士向《中国企业家》表达了相似判断：腾讯一直找不到状态，根源还是在顶层，“对AI的重视与资源倾斜不足”。",
+      "en": "Tencent also hoped organizational reform would pass pressure down through the organization and help resolve these problems. However, two experienced industry figures offered China Entrepreneur similar judgments: Tencent's continuing difficulty in finding its footing originated at the top, with \"insufficient attention and resource commitment to AI.\"",
+      "zh": "为解开症结，腾讯也寄希望于借助组织改革，将压力下沉。但有两位资深人士向《中国企业家》表达了相似判断：腾讯一直找不到状态，根源还是在顶层，“对AI的重视与资源倾斜不足”。"
+    },
+    {
+      "id": "p32",
+      "kind": "paragraph",
+      "text": "“尽管腾讯在GPU采购上加码，但腾讯云的打法还局限于自身云业务的延伸，仍处在跟随者位置，没有建立起主导性优势。在社交、游戏、内容电商等高价值流量场景中，腾讯也没有表现出强烈的AI创新和落地意愿，技术与业务的融合停留于表面。”一位行业人士说。",
+      "en": "\"Although Tencent has increased GPU purchases, Tencent Cloud's approach remains an extension of its existing cloud business. It is still a follower and has not established a leading advantage. In high-value user-traffic settings such as social networking, gaming, and content-driven e-commerce, Tencent has also not demonstrated a strong commitment to AI innovation and deployment. The integration of technology and business remains superficial,\" an industry figure said.",
+      "zh": "“尽管腾讯在GPU采购上加码，但腾讯云的打法还局限于自身云业务的延伸，仍处在跟随者位置，没有建立起主导性优势。在社交、游戏、内容电商等高价值流量场景中，腾讯也没有表现出强烈的AI创新和落地意愿，技术与业务的融合停留于表面。”一位行业人士说。"
+    },
+    {
+      "id": "p33",
+      "kind": "heading",
+      "text": "03",
+      "en": "03",
+      "zh": "03"
+    },
+    {
+      "id": "p34",
+      "kind": "heading",
+      "text": "薪酬激增，股价低迷",
+      "en": "Compensation surges while the share price remains weak",
+      "zh": "薪酬激增，股价低迷"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "这场以“去小组长化”为核心的组织改革，本质还是腾讯在多重压力下的破局之举。",
+      "en": "This organizational reform, centered on removing fixed team-leader roles, is fundamentally an attempt by Tencent to find a way forward under multiple pressures.",
+      "zh": "这场以“去小组长化”为核心的组织改革，本质还是腾讯在多重压力下的破局之举。"
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "开年以来，腾讯控股股价一路震荡下行。市值缩水近三分之一，这也给高度依赖股权激励绑定人才的腾讯提出了严峻挑战。",
+      "en": "Since the beginning of the year, Tencent Holdings' share price had trended downward amid volatility. The loss of nearly one-third of its market value posed a serious challenge for a company that relies heavily on equity incentives to retain talent.",
+      "zh": "开年以来，腾讯控股股价一路震荡下行。市值缩水近三分之一，这也给高度依赖股权激励绑定人才的腾讯提出了严峻挑战。"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "腾讯2025年财报显示，公司“股份酬金开支”为318.59亿元，同比增长36%；而“总酬金成本”为1307亿元，同比增长15.9%——股份酬金增幅的36%，远高于总酬金成本15.9%的增速。",
+      "en": "Tencent's 2025 financial report showed share-based compensation expense of RMB31.859 billion, up 36% year on year, while total compensation costs reached RMB130.7 billion, up 15.9%. The 36% increase in share-based compensation was much higher than the 15.9% increase in overall compensation costs.",
+      "zh": "腾讯2025年财报显示，公司“股份酬金开支”为318.59亿元，同比增长36%；而“总酬金成本”为1307亿元，同比增长15.9%——股份酬金增幅的36%，远高于总酬金成本15.9%的增速。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "据腾讯员工透露，为了招募AI人才，许多核心骨干被许诺了大量股权激励——这也是当下行业的通行做法。字节跳动同样推出了专属的“豆包股”，以奖励核心骨干。",
+      "en": "Tencent employees said many key contributors had been promised substantial equity incentives to attract AI talent, a common industry practice. ByteDance had likewise introduced dedicated \"Doubao shares\" to reward key personnel.",
+      "zh": "据腾讯员工透露，为了招募AI人才，许多核心骨干被许诺了大量股权激励——这也是当下行业的通行做法。字节跳动同样推出了专属的“豆包股”，以奖励核心骨干。"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "但资本市场已进入AI叙事周期，而腾讯的AI业务不及预期，造成市场预期下调。而股价的低迷，又进一步影响到了核心员工的收入和士气，为招揽更多人才笼上阴霾。",
+      "en": "Capital markets had entered a cycle centered on the AI narrative, however, and Tencent's AI business fell short of expectations, prompting investors to lower their outlook. The weak share price then affected key employees' income and morale, casting a shadow over further recruitment.",
+      "zh": "但资本市场已进入AI叙事周期，而腾讯的AI业务不及预期，造成市场预期下调。而股价的低迷，又进一步影响到了核心员工的收入和士气，为招揽更多人才笼上阴霾。"
+    },
+    {
+      "id": "p40",
+      "kind": "paragraph",
+      "text": "今年春节各家的AI红包大战中，腾讯投入不菲。财报显示，第一季度腾讯的资本开支达到319.36亿元，同比增长16%，环比增长63%。但留存难以令腾讯满意。QuestMobile发布的《2026中国移动互联网春季大报告》显示，2026年3月，豆包MAU达到3.45亿，位列AI原生App规模榜TOP1；元宝MAU仅5734万，排在榜单第4。",
+      "en": "Tencent invested heavily in the AI red-packet promotions around that year's Spring Festival. Its financial results showed first-quarter capital expenditure of RMB31.936 billion, up 16% year on year and 63% quarter on quarter. User retention, however, was difficult to regard as satisfactory. QuestMobile's 2026 China Mobile Internet Spring Report showed that in March 2026, Doubao had 345 million monthly active users, ranking first among AI-native apps, while Yuanbao had only 57.34 million and ranked fourth.",
+      "zh": "今年春节各家的AI红包大战中，腾讯投入不菲。财报显示，第一季度腾讯的资本开支达到319.36亿元，同比增长16%，环比增长63%。但留存难以令腾讯满意。QuestMobile发布的《2026中国移动互联网春季大报告》显示，2026年3月，豆包MAU达到3.45亿，位列AI原生App规模榜TOP1；元宝MAU仅5734万，排在榜单第4。"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "近日，业内开始流传“姚顺雨将离职”的传言。虽然腾讯很快辟谣，但传言也折射了市场对腾讯AI战略稳定性、核心人才留存能力的深层担忧。",
+      "en": "Rumors recently circulated in the industry that Yao Shunyu would leave. Although Tencent quickly denied them, the rumors reflected deeper market concerns about the stability of Tencent's AI strategy and its ability to retain key talent.",
+      "zh": "近日，业内开始流传“姚顺雨将离职”的传言。虽然腾讯很快辟谣，但传言也折射了市场对腾讯AI战略稳定性、核心人才留存能力的深层担忧。"
+    },
+    {
+      "id": "p42",
+      "kind": "paragraph",
+      "text": "马化腾的表态：“现在感觉站上去了，还坐不下去，还是希望船速能快一点。”更已直接向技术团队施压，要求尽快跑出成果。",
+      "en": "Pony Ma's statement—\"Now it feels as though we have managed to stand on it, but still cannot sit down. We hope it can move faster\"—also put direct pressure on the technical teams to deliver results as soon as possible.",
+      "zh": "马化腾的表态：“现在感觉站上去了，还坐不下去，还是希望船速能快一点。”更已直接向技术团队施压，要求尽快跑出成果。"
+    },
+    {
+      "id": "p43",
+      "kind": "paragraph",
+      "text": "当业务推进受阻，组织调整往往成为优先选项。但依靠组织层面的“减法”，未必能真正帮腾讯快速摆脱“死亡螺旋”。腾讯最需要的，还是及早拿出真正令市场信服的AI产品。",
+      "en": "When business progress stalls, organizational adjustment often becomes an early option. But simplifying the organization alone may not help Tencent quickly escape a \"death spiral.\" What Tencent most needs is to bring forward AI products that can genuinely convince the market.",
+      "zh": "当业务推进受阻，组织调整往往成为优先选项。但依靠组织层面的“减法”，未必能真正帮腾讯快速摆脱“死亡螺旋”。腾讯最需要的，还是及早拿出真正令市场信服的AI产品。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "多名腾讯在职、离职员工告诉《中国企业家》，WXG多部门正在试行“项目负责制”。此前，腾讯架构以组为单位，一个组少则三五人，多则十余人，由组长安排工作；几个组再合成事业部或工作室，由总监带队。",
+      "en": "Several current and former Tencent employees told China Entrepreneur that multiple WXG departments were piloting a project-owner system. Previously, Tencent organized work into teams of as few as three to five people or more than ten, with a team leader allocating work."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "此刻的腾讯，正在遭到资本市场冷遇，股价从2026年1月的633港元高点，跌到了5月20日的455.20港元，市值蒸发近三分之一，约1.5万亿港元。不断下滑的股价，也让许多腾讯员工的薪酬缩水，内部人心浮动。",
+      "en": "At the time, Tencent was facing a cool reception in capital markets. Its share price had fallen from a January 2026 high of HK$633 to HK$455.20 on May 20, erasing nearly one-third of its market value, or roughly HK$1.5 trillion."
+    },
+    {
+      "paragraphId": "p14",
+      "zh": "2019年前后，马化腾曾在内部会议上抛出尖锐问题：“腾讯一两千个总监级干部里，30岁以下的有多少？答案是不到10人。",
+      "en": "Around 2019, Pony Ma asked a pointed question at an internal meeting: \"Among Tencent's one or two thousand director-level managers, how many are under 30? The answer is fewer than ten.\" The figure prompted Tencent to decide to adjust middle management to keep pace with business changes."
+    },
+    {
+      "paragraphId": "p15",
+      "zh": "但从2020年前后，“居家办公”等变化让互联网、游戏业务意外获得增长机会，也让腾讯组织人才快速膨胀，“年轻化”的变革节奏随之被打断。",
+      "en": "But around 2020, changes such as working from home unexpectedly created growth opportunities for internet and gaming businesses. Tencent's workforce expanded rapidly, interrupting the effort to bring younger people into leadership."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "ai-reviewed",
+  "translation": "AI translation checked against source paragraphs",
+  "sourceVersions": {
+    "original": {
+      "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260522_2982969.shtml",
+      "title": "腾讯正在“消灭”小组长"
+    }
+  },
+  "contentHash": "42101ba26c0c71ab92101b703179a2232df6fbbdd422485857d70c68b61e510d",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00"
 }

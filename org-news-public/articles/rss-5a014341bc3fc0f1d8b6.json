@@ -3,8 +3,233 @@
   "id": "rss-5a014341bc3fc0f1d8b6",
   "url": "https://openai.com/index/lifeval",
   "sourceTitle": "LifeVal",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.233567+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.282259+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:51:49.824Z",
+  "finalURL": "https://openai.com/index/lifeval/",
+  "language": "en",
+  "originalTitle": "LifeVal",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. For the more than one billion people who currently use ChatGPT every week, we want to build AI that can help with the practical challenges of everyday life, like finding childcare, accessing government services, creating a budget, preparing for school, modifying recipes, ordering groceries, designing workout plans, and more.",
+      "en": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. For the more than one billion people who currently use ChatGPT every week, we want to build AI that can help with the practical challenges of everyday life, like finding childcare, accessing government services, creating a budget, preparing for school, modifying recipes, ordering groceries, designing workout plans, and more.",
+      "zh": "OpenAI 的使命是确保通用人工智能造福全人类。目前，每周有超过十亿人使用 ChatGPT。我们希望打造能帮助他们应对日常生活实际难题的 AI，例如寻找托育服务、获取政务服务、制定预算、为上学做准备、调整食谱、订购食材、设计健身计划等。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "When someone is looking for help making their life easier, they need more than advice or a chat response. To be a truly helpful personal assistant, ChatGPT should be able to take actions that actually get things done.",
+      "en": "When someone is looking for help making their life easier, they need more than advice or a chat response. To be a truly helpful personal assistant, ChatGPT should be able to take actions that actually get things done.",
+      "zh": "当人们寻求帮助，希望让生活更轻松时，他们需要的不只是建议或聊天回复。要成为真正有用的个人助手，ChatGPT 应当能够采取行动，切实把事情办好。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "To measure model performance over time on everyday tasks, we built an evaluation of tasks covering areas where users wanted the most help from AI and personal agents. We used this evaluation to track and drive improvement in model performance on everyday tasks over the past year.",
+      "en": "To measure model performance over time on everyday tasks, we built an evaluation of tasks covering areas where users wanted the most help from AI and personal agents. We used this evaluation to track and drive improvement in model performance on everyday tasks over the past year.",
+      "zh": "为了衡量模型在日常任务中的表现随时间的变化，我们构建了一套任务评估方案，覆盖用户最希望 AI 和个人智能体提供帮助的领域。过去一年，我们利用这套评估方案来跟踪并优化模型在日常任务中的表现。"
+    },
+    {
+      "id": "p4",
+      "kind": "heading",
+      "text": "Background",
+      "en": "Background",
+      "zh": "背景"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "To identify the tasks people value most, we started with two large studies that track how people spend time in both the U.S. and internationally: the American Time Use Survey and the Multinational Time Use Study. Together, these datasets provide a detailed catalog of everyday life tasks that people do across different demographics, times of day, and seasons. To understand where people would most value AI assistance, we expanded on these existing surveys with a new demographically representative survey of 3,995 respondents. For each task, we asked a variety of questions to identify the areas where everyday people most wanted help from a personal assistant. The resulting tasks span the most important areas that people want help with, including caregiving, health, education, household administration, personal finances, shopping, and accessing government services.",
+      "en": "To identify the tasks people value most, we started with two large studies that track how people spend time in both the U.S. and internationally: the American Time Use Survey and the Multinational Time Use Study. Together, these datasets provide a detailed catalog of everyday life tasks that people do across different demographics, times of day, and seasons. To understand where people would most value AI assistance, we expanded on these existing surveys with a new demographically representative survey of 3,995 respondents. For each task, we asked a variety of questions to identify the areas where everyday people most wanted help from a personal assistant. The resulting tasks span the most important areas that people want help with, including caregiving, health, education, household administration, personal finances, shopping, and accessing government services.",
+      "zh": "为了找出人们最关注的任务，我们首先参考了两项分别追踪美国和国际人群时间分配的大型研究：美国时间使用情况调查和多国时间使用情况研究。这两个数据集详细列出了不同人群在一天中不同时段、不同季节所做的日常生活任务。为了解人们最关注哪些方面的 AI 协助，我们在现有调查的基础上开展了一项新调查，涵盖 3,995 名具有典型人口统计特征的受访者。针对每项任务，我们提出了多个问题，以找出普通人最希望个人助手提供帮助的领域。最终确定的任务覆盖了人们最需要帮助的重要领域，包括照护、健康、教育、家庭事务管理、个人财务、购物和获取政务服务。"
+    },
+    {
+      "id": "p6",
+      "kind": "heading",
+      "text": "Individual task examples",
+      "en": "Individual task examples",
+      "zh": "具体任务示例"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Below are some examples of how our current models perform on practical workflows from everyday life.",
+      "en": "Below are some examples of how our current models perform on practical workflows from everyday life.",
+      "zh": "以下示例展示了我们当前模型在日常生活实际工作流中的表现。"
+    },
+    {
+      "id": "p8",
+      "kind": "heading",
+      "text": "Enroll in the right kindergarten after moving",
+      "en": "Enroll in the right kindergarten after moving",
+      "zh": "搬家后报名合适的幼儿园"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Compare kindergartens near our new home and shortlist the best fits.",
+      "en": "Compare kindergartens near our new home and shortlist the best fits.",
+      "zh": "比较我们新家附近的幼儿园，筛选出最合适的几所。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "I’ve narrowed it to three kindergartens and organized the enrollment details. Two preferences still need your call. Want to review the shortlist?",
+      "en": "I’ve narrowed it to three kindergartens and organized the enrollment details. Two preferences still need your call. Want to review the shortlist?",
+      "zh": "我已筛选出三所幼儿园，并整理好了入园报名信息。还有两项偏好需要你来决定。想看看候选名单吗？"
+    },
+    {
+      "id": "p11",
+      "kind": "heading",
+      "text": "Manage volunteers ahead of a flood",
+      "en": "Manage volunteers ahead of a flood",
+      "zh": "在洪水来临前协调志愿者"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Help me organize our community’s flood preparation volunteer force for four neighbors needing floodproofing assistance.",
+      "en": "Help me organize our community’s flood preparation volunteer force for four neighbors needing floodproofing assistance.",
+      "zh": "帮我组织社区防汛志愿者队伍，为四位需要防洪改造协助的邻居提供支援。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "I’ve prepared a simple action plan to help volunteers assess the sites mentioned and help them prepare for upcoming severe weather.",
+      "en": "I’ve prepared a simple action plan to help volunteers assess the sites mentioned and help them prepare for upcoming severe weather.",
+      "zh": "我准备了一份简明的行动计划，帮助志愿者评估提到的地点，并为即将到来的恶劣天气做好准备。"
+    },
+    {
+      "id": "p14",
+      "kind": "heading",
+      "text": "Find a new home for my family",
+      "en": "Find a new home for my family",
+      "zh": "为我们一家人找个新家"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "Find a home in Luzerne County that fits my budget, has a separate living unit, and keeps my commute short after school drop-off. Add the deed to my cart so I can review it.",
+      "en": "Find a home in Luzerne County that fits my budget, has a separate living unit, and keeps my commute short after school drop-off. Add the deed to my cart so I can review it.",
+      "zh": "在卢泽恩县找一套符合我预算、带独立居住单元的房子，而且送孩子上学后去上班的路程要短。把房契加入我的购物车，方便我查看。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "I found one home that meets your requirements. I’ve calculated the transfer tax and added the deed to your country records cart to review.",
+      "en": "I found one home that meets your requirements. I’ve calculated the transfer tax and added the deed to your country records cart to review.",
+      "zh": "我找到了一套符合你要求的房子。我已算好过户税，并将房契加入你在县档案网站的购物车，供你查看。"
+    },
+    {
+      "id": "p17",
+      "kind": "heading",
+      "text": "Watch a game with grandma from far away",
+      "en": "Watch a game with grandma from far away",
+      "zh": "和远方的奶奶一起看比赛"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Set up an easy way for grandma and me to watch the game together remotely.",
+      "en": "Set up an easy way for grandma and me to watch the game together remotely.",
+      "zh": "帮我设置一个简单的方法，让我和奶奶能远程一起看比赛。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "The easiest watch setup is ready, with a backup if the stream fails. Want me to walk you through it with grandma?",
+      "en": "The easiest watch setup is ready, with a backup if the stream fails. Want me to walk you through it with grandma?",
+      "zh": "最简单的观赛方案已准备好，还备有直播出故障时的替代方案。要我带你和奶奶一步步设置吗？"
+    },
+    {
+      "id": "p20",
+      "kind": "heading",
+      "text": "Meal prep for a parent adjusting to a new diabetes diagnosis",
+      "en": "Meal prep for a parent adjusting to a new diabetes diagnosis",
+      "zh": "为刚确诊糖尿病、正在适应的父母准备膳食"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "Help my parent adjust to a new diabetes diagnosis with a practical care and meal plan.",
+      "en": "Help my parent adjust to a new diabetes diagnosis with a practical care and meal plan.",
+      "zh": "制定一份实用的护理和膳食计划，帮助我的父母适应刚确诊糖尿病后的生活。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "The first-week plan is ready, including meals, reminders, and questions for the care team. Want to review it together before you share it with your parent?",
+      "en": "The first-week plan is ready, including meals, reminders, and questions for the care team. Want to review it together before you share it with your parent?",
+      "zh": "第一周的计划已准备好，包括膳食安排、提醒事项和要向医护团队询问的问题。在分享给父母之前，要不要一起看看？"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "Our latest models score very highly on many LifeVal tasks.",
+      "en": "Our latest models score very highly on many LifeVal tasks.",
+      "zh": "我们的最新模型在多项 LifeVal 任务中取得了很高的分数。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "Over the past year, we’ve trained our models to become much faster, more capable, and more aligned on browser use, computer use, and connectors tasks. Enabling these capabilities in ChatGPT also expands the types of tasks the model can help with, helping move ChatGPT beyond a chat tool and towards a truly agentic personal assistant.",
+      "en": "Over the past year, we’ve trained our models to become much faster, more capable, and more aligned on browser use, computer use, and connectors tasks. Enabling these capabilities in ChatGPT also expands the types of tasks the model can help with, helping move ChatGPT beyond a chat tool and towards a truly agentic personal assistant.",
+      "zh": "过去一年，我们通过训练，大幅提升了模型在浏览器使用、计算机操作和连接器任务上的速度与能力，也让其行为更符合用户意图。在 ChatGPT 中引入这些能力，也拓宽了模型能够协助处理的任务范围，推动 ChatGPT 从聊天工具迈向真正能自主行动的智能体个人助手。"
+    },
+    {
+      "id": "p25",
+      "kind": "heading",
+      "text": "Why this matters",
+      "en": "Why this matters",
+      "zh": "这为什么重要"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "To ensure AGI benefits all of humanity, we need to measure and improve model progress on what matters in the lives of everyday people. That means going beyond academic assessments of model knowledge and actually measuring how well AI models can help people navigate decisions, manage everyday responsibilities, and get meaningful things done. We are hopeful that LifeVal represents a step towards that goal.",
+      "en": "To ensure AGI benefits all of humanity, we need to measure and improve model progress on what matters in the lives of everyday people. That means going beyond academic assessments of model knowledge and actually measuring how well AI models can help people navigate decisions, manage everyday responsibilities, and get meaningful things done. We are hopeful that LifeVal represents a step towards that goal.",
+      "zh": "要确保 AGI 造福全人类，我们需要围绕普通人真正关心的生活议题，衡量并提升模型的能力。这意味着，我们不能只从学术角度评估模型掌握的知识，还要实际衡量 AI 模型在帮助人们做决策、处理日常事务和办成实事方面表现如何。我们希望 LifeVal 能成为迈向这一目标的一步。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "OpenAI 的使命是确保通用人工智能造福全人类。目前，每周有超过十亿人使用 ChatGPT。",
+      "en": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. For the more than one billion people who currently use ChatGPT every week, we want to build AI that can help with the practical challenges of everyday life, like finding childcare, accessing government services, creating a budget, preparing for school, modifying recipes, ordering groceries, designing workout plans, and more."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "当人们寻求帮助，希望让生活更轻松时，他们需要的不只是建议或聊天回复。要成为真正有用的个人助手，ChatGPT 应当能够采取行动，切实把事情办好。",
+      "en": "When someone is looking for help making their life easier, they need more than advice or a chat response. To be a truly helpful personal assistant, ChatGPT should be able to take actions that actually get things done."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "为了衡量模型在日常任务中的表现随时间的变化，我们构建了一套任务评估方案，覆盖用户最希望 AI 和个人智能体提供帮助的领域。过去一年，我们利用这套评估方案来跟踪并优化模型在日常任务中的表现。",
+      "en": "To measure model performance over time on everyday tasks, we built an evaluation of tasks covering areas where users wanted the most help from AI and personal agents. We used this evaluation to track and drive improvement in model performance on everyday tasks over the past year."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "为了找出人们最关注的任务，我们首先参考了两项分别追踪美国和国际人群时间分配的大型研究：美国时间使用情况调查和多国时间使用情况研究。这两个数据集详细列出了不同人群在一天中不同时段、不同季节所做的日常生活任务。",
+      "en": "To identify the tasks people value most, we started with two large studies that track how people spend time in both the U.S. and internationally: the American Time Use Survey and the Multinational Time Use Study. Together, these datasets provide a detailed catalog of everyday life tasks that people do across different demographics, times of day, and seasons."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/lifeval/",
+      "title": "LifeVal"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/lifeval/",
+      "title": "LifeVal"
+    }
+  },
+  "contentHash": "b34b13917a083c9f639fa28b6e90922954dedb2578b54b423ffd71af716c9310",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/lifeval/"
 }

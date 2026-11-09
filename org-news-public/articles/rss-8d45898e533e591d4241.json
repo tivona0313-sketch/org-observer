@@ -3,8 +3,184 @@
   "id": "rss-8d45898e533e591d4241",
   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
   "sourceTitle": "Higgsfield takes AI video from 1 minute to over 10",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:52.096026+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:52.136886+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:53:30.943Z",
+  "finalURL": "https://openai.com/index/higgsfield-longer-videos-voice/",
+  "language": "en",
+  "originalTitle": "Higgsfield takes AI video from 1 minute to over 10",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Higgsfield AI is on a mission to make professional video and image creation accessible to anyone with an idea. Before GPT‑6 Astra, those videos topped out at around one minute. Now, says CEO and co-founder Alex Mashrabov, users can create videos over 10 minutes long.",
+      "en": "Higgsfield AI is on a mission to make professional video and image creation accessible to anyone with an idea. Before GPT‑6 Astra, those videos topped out at around one minute. Now, says CEO and co-founder Alex Mashrabov, users can create videos over 10 minutes long.",
+      "zh": "Higgsfield AI 致力于让每一个有想法的人都能创作专业水准的视频和图像。在使用 GPT‑6 Astra 之前，这些视频最长只有一分钟左右。如今，首席执行官兼联合创始人 Alex Mashrabov 表示，用户已经可以制作时长超过 10 分钟的视频。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Longer videos are just one way Higgsfield AI helps smaller creative teams take on more ambitious work. According to Alex, with models like GPT‑6 Astra and GPT‑Image‑2.5, it’s now possible for a single creator to execute high-end fashion campaigns from start to finish.",
+      "en": "Longer videos are just one way Higgsfield AI helps smaller creative teams take on more ambitious work. According to Alex, with models like GPT‑6 Astra and GPT‑Image‑2.5, it’s now possible for a single creator to execute high-end fashion campaigns from start to finish.",
+      "zh": "制作更长的视频，只是 Higgsfield AI 帮助小型创意团队挑战更宏大项目的方式之一。据 Alex 介绍，借助 GPT‑6 Astra 和 GPT‑Image‑2.5 等模型，如今一位创作者就能从头到尾完成高端时尚营销项目。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "“What’s most important for us at Higgsfield is to see that smaller creative teams can actually be more successful now with the power of models like GPT-6 Astra and GPT-Image-2.5.”",
+      "en": "“What’s most important for us at Higgsfield is to see that smaller creative teams can actually be more successful now with the power of models like GPT-6 Astra and GPT-Image-2.5.”",
+      "zh": "“对我们 Higgsfield 来说，最重要的是看到小型创意团队如今借助 GPT-6 Astra 和 GPT-Image-2.5 等模型的力量，确实能够取得更大的成功。”"
+    },
+    {
+      "id": "p4",
+      "kind": "heading",
+      "text": "Making longer videos possible with GPT‑6 Astra",
+      "en": "Making longer videos possible with GPT‑6 Astra",
+      "zh": "借助 GPT‑6 Astra，让更长的视频成为可能"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Higgsfield AI’s creative agents take on repetitive production tasks, such as creating multiple variations of a shot. With GPT‑6 Astra, those agents can also call external tools to handle complex, manual work in 3D modeling. Alex says that capability helps address one of creative AI’s hardest problems: maintaining consistency across longer videos.",
+      "en": "Higgsfield AI’s creative agents take on repetitive production tasks, such as creating multiple variations of a shot. With GPT‑6 Astra, those agents can also call external tools to handle complex, manual work in 3D modeling. Alex says that capability helps address one of creative AI’s hardest problems: maintaining consistency across longer videos.",
+      "zh": "Higgsfield AI 的创意智能体可以承担重复性的制作任务，例如为同一个镜头生成多个版本。借助 GPT‑6 Astra，这些智能体还可以调用外部工具，处理 3D 建模中复杂的手动操作。Alex 表示，这项能力有助于解决创意 AI 面临的最大难题之一：在较长的视频中保持一致性。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "The evidence can be seen on Higgsfield AI’s own YouTube channel, which Alex says has almost half a million subscribers. The channel teaches creatives how to use AI models and workflows. It used to require considerable manual effort for Higgsfield AI to produce that content. But with GPT‑6 Astra, the team has built a workflow that uses AI to generate instructional videos over 10 minutes long.",
+      "en": "The evidence can be seen on Higgsfield AI’s own YouTube channel, which Alex says has almost half a million subscribers. The channel teaches creatives how to use AI models and workflows. It used to require considerable manual effort for Higgsfield AI to produce that content. But with GPT‑6 Astra, the team has built a workflow that uses AI to generate instructional videos over 10 minutes long.",
+      "zh": "Higgsfield AI 自己的 YouTube 频道就是例证。据 Alex 介绍，该频道拥有近 50 万订阅者。这个频道教创意工作者如何使用 AI 模型和工作流。过去，Higgsfield AI 制作这些内容需要投入大量人力。但借助 GPT‑6 Astra，团队构建了一套工作流，能用 AI 生成时长超过 10 分钟的教学视频。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "Being able to create longer instructional videos also matters to Alex personally. He supports rural schools in Kazakhstan and describes an early effort using GPT‑6 Astra’s visual understanding to identify topics students may be struggling with and create videos tailored to what they need to learn.",
+      "en": "Being able to create longer instructional videos also matters to Alex personally. He supports rural schools in Kazakhstan and describes an early effort using GPT‑6 Astra’s visual understanding to identify topics students may be struggling with and create videos tailored to what they need to learn.",
+      "zh": "能够制作更长的教学视频，对 Alex 本人也有重要意义。他一直在支持哈萨克斯坦的乡村学校，并介绍了一项初步尝试：利用 GPT‑6 Astra 的视觉理解能力，识别学生可能遇到困难的知识点，再根据他们的学习需求定制视频。"
+    },
+    {
+      "id": "p8",
+      "kind": "heading",
+      "text": "More precise images for small businesses with GPT‑Image‑2.5",
+      "en": "More precise images for small businesses with GPT‑Image‑2.5",
+      "zh": "借助 GPT‑Image‑2.5，为小企业打造更精准的图像"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "For small businesses creating promotional content, having readable text and precise infographics can be just as important as the image itself. GPT‑Image‑2.5 makes that kind of content possible for businesses without large production budgets, Alex says.",
+      "en": "For small businesses creating promotional content, having readable text and precise infographics can be just as important as the image itself. GPT‑Image‑2.5 makes that kind of content possible for businesses without large production budgets, Alex says.",
+      "zh": "对于制作宣传内容的小企业来说，清晰可读的文字和准确的信息图表，可能与图像本身同样重要。Alex 表示，GPT‑Image‑2.5 让制作预算有限的企业也能创作这类内容。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "“GPT‑Image‑2.5 is state of the art and the first model of its kind that can reliably render the text and infographics on top of the imagery,” he says.",
+      "en": "“GPT‑Image‑2.5 is state of the art and the first model of its kind that can reliably render the text and infographics on top of the imagery,” he says.",
+      "zh": "他说：“GPT‑Image‑2.5 处于行业前沿，也是首个能在图像上稳定、准确地呈现文字和信息图表的同类模型。”"
+    },
+    {
+      "id": "p11",
+      "kind": "heading",
+      "text": "Enabling a faster path from creative idea to product with Codex",
+      "en": "Enabling a faster path from creative idea to product with Codex",
+      "zh": "借助 Codex，加速从创意到产品的转化"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Higgsfield AI builds its product through close collaboration between around 200 creatives and 100 engineers. Codex gives the creative team “the power of a really strong software engineer,” shares Alex.",
+      "en": "Higgsfield AI builds its product through close collaboration between around 200 creatives and 100 engineers. Codex gives the creative team “the power of a really strong software engineer,” shares Alex.",
+      "zh": "Higgsfield AI 通过约 200 名创意工作者与 100 名工程师的紧密协作来打造产品。Alex 分享道，Codex 让创意团队拥有了“顶尖软件工程师的能力”。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "Creatives use Codex to turn their ideas into software prototypes. Previously, bringing those prototypes into production required heavy involvement from front-end and back-end engineers. Now, Alex says GPT‑6 Astra reduces the work needed to bring those ideas into the product.",
+      "en": "Creatives use Codex to turn their ideas into software prototypes. Previously, bringing those prototypes into production required heavy involvement from front-end and back-end engineers. Now, Alex says GPT‑6 Astra reduces the work needed to bring those ideas into the product.",
+      "zh": "创意工作者使用 Codex，将想法变成软件原型。过去，要让这些原型真正上线，需要前端和后端工程师投入大量精力。Alex 表示，如今 GPT‑6 Astra 减少了将这些想法融入产品所需的工作量。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "“GPT-6 Astra can ship production-ready code, which was never possible before.”",
+      "en": "“GPT-6 Astra can ship production-ready code, which was never possible before.”",
+      "zh": "“GPT-6 Astra 可以交付能直接用于生产环境的代码，这在以前从未实现过。”"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "With less friction between prototyping and production, Alex says Higgsfield AI can develop and ship better products faster.",
+      "en": "With less friction between prototyping and production, Alex says Higgsfield AI can develop and ship better products faster.",
+      "zh": "Alex 说，从原型到上线的过程更顺畅后，Higgsfield AI 就能更快地开发并交付更好的产品。"
+    },
+    {
+      "id": "p16",
+      "kind": "heading",
+      "text": "Looking ahead to voice-to-video with GPT‑Live‑1",
+      "en": "Looking ahead to voice-to-video with GPT‑Live‑1",
+      "zh": "展望 GPT‑Live‑1 带来的语音生成视频体验"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Next, Higgsfield AI wants creators to be able to describe an idea and see it take shape as they talk. Alex calls that vision “voice to movie,” with AI understanding a creator’s spoken intention and rendering their vision in real time.",
+      "en": "Next, Higgsfield AI wants creators to be able to describe an idea and see it take shape as they talk. Alex calls that vision “voice to movie,” with AI understanding a creator’s spoken intention and rendering their vision in real time.",
+      "zh": "接下来，Higgsfield AI 希望创作者在口述想法的同时，就能看到它逐渐成形。Alex 将这一愿景称为“开口成片”：AI 理解创作者口述的意图，并实时将其构想呈现出来。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "He sees OpenAI’s advances in planning, tool calling, image generation, and voice bringing that experience closer. He describes its voice model as “best in class for voice understanding and just for regular communication.”",
+      "en": "He sees OpenAI’s advances in planning, tool calling, image generation, and voice bringing that experience closer. He describes its voice model as “best in class for voice understanding and just for regular communication.”",
+      "zh": "在他看来，OpenAI 在规划、工具调用、图像生成和语音方面的进展，正让这一体验越来越接近现实。他称 OpenAI 的语音模型“无论是语音理解，还是日常交流，都处于同类领先水平”。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "For Higgsfield AI, the ambition is to make creating a film feel more like describing an idea, with AI handling more of the work in between.",
+      "en": "For Higgsfield AI, the ambition is to make creating a film feel more like describing an idea, with AI handling more of the work in between.",
+      "zh": "Higgsfield AI 的目标是，让电影创作更像是在描述一个想法，而从想法到成片之间的更多工作，则交给 AI 来完成。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Higgsfield AI 致力于让每一个有想法的人都能创作专业水准的视频和图像。在使用 GPT‑6 Astra 之前，这些视频最长只有一分钟左右。",
+      "en": "Higgsfield AI is on a mission to make professional video and image creation accessible to anyone with an idea. Before GPT‑6 Astra, those videos topped out at around one minute."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "制作更长的视频，只是 Higgsfield AI 帮助小型创意团队挑战更宏大项目的方式之一。据 Alex 介绍，借助 GPT‑6 Astra 和 GPT‑Image‑2.5 等模型，如今一位创作者就能从头到尾完成高端时尚营销项目。",
+      "en": "Longer videos are just one way Higgsfield AI helps smaller creative teams take on more ambitious work. According to Alex, with models like GPT‑6 Astra and GPT‑Image‑2.5, it’s now possible for a single creator to execute high-end fashion campaigns from start to finish."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "Higgsfield AI 的创意智能体可以承担重复性的制作任务，例如为同一个镜头生成多个版本。借助 GPT‑6 Astra，这些智能体还可以调用外部工具，处理 3D 建模中复杂的手动操作。",
+      "en": "Higgsfield AI’s creative agents take on repetitive production tasks, such as creating multiple variations of a shot. With GPT‑6 Astra, those agents can also call external tools to handle complex, manual work in 3D modeling."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "Higgsfield AI 自己的 YouTube 频道就是例证。据 Alex 介绍，该频道拥有近 50 万订阅者。",
+      "en": "The evidence can be seen on Higgsfield AI’s own YouTube channel, which Alex says has almost half a million subscribers. The channel teaches creatives how to use AI models and workflows."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice/",
+      "title": "Higgsfield takes AI video from 1 minute to over 10"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/higgsfield-longer-videos-voice/",
+      "title": "Higgsfield 将 AI 视频时长从 1 分钟延长至 10 分钟以上"
+    }
+  },
+  "contentHash": "2f11dc4b6b1c694d2c18fd767a06630dd0cff4a4aa3c5f0715d356d66cefa90d",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/higgsfield-longer-videos-voice/"
 }

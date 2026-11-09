@@ -3,8 +3,331 @@
   "id": "rss-8eb6001a836a6e50b8fb",
   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
   "sourceTitle": "Working with academic communities to build scientific understanding",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.617555+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.666996+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:57:48.657Z",
+  "finalURL": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+  "language": "en",
+  "originalTitle": "Working with academic communities to build scientific understanding",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.",
+      "en": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.",
+      "zh": "我们现公布数学、计算机科学和物理学领域的三项新发现，分别涉及调和分析、复杂性理论和量子场论。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Our release process continues to evolve in response to feedback from the associated academic communities. In our view, these manuscripts are best understood as a form of raw research data. To convert this raw research data into scientific understanding, in this release we are experimenting with a new approach. We reached out to external experts and asked them to act as shepherds, organizing groups to understand the new results. They advised three different release strategies:",
+      "en": "Our release process continues to evolve in response to feedback from the associated academic communities. In our view, these manuscripts are best understood as a form of raw research data. To convert this raw research data into scientific understanding, in this release we are experimenting with a new approach. We reached out to external experts and asked them to act as shepherds, organizing groups to understand the new results. They advised three different release strategies:",
+      "zh": "我们持续根据相关学术界的反馈，调整成果发布流程。在我们看来，最恰当的做法是将这些文稿视为一种原始研究数据。为了将这些原始研究数据转化为科学认识，我们在本次发布中尝试了一种新方法。我们联系了外部专家，邀请他们牵头组织小组，研究并理解这些新成果。他们建议采用三种不同的发布策略："
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "For the math result, release the AI output, leaving researchers free to organize their own efforts to explain the result.",
+      "en": "For the math result, release the AI output, leaving researchers free to organize their own efforts to explain the result.",
+      "zh": "对于数学成果，公开 AI 的输出，让研究人员自由组织研究，阐释这一成果。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "For the computer science result, form an external group of collaborators to explain the result, while making the AI output publicly available for anyone to examine and build on.",
+      "en": "For the computer science result, form an external group of collaborators to explain the result, while making the AI output publicly available for anyone to examine and build on.",
+      "zh": "对于计算机科学成果，组建外部合作小组来阐释这一成果，同时公开 AI 的输出，供所有人审查并据此开展进一步研究。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "For the physics result, form an external group of collaborators and defer to them on the release of materials.",
+      "en": "For the physics result, form an external group of collaborators and defer to them on the release of materials.",
+      "zh": "对于物理学成果，组建外部合作小组，并由该小组决定材料的发布事宜。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "We do not yet know which of these three approaches will be most useful, and we welcome feedback on what works and what we can improve.",
+      "en": "We do not yet know which of these three approaches will be most useful, and we welcome feedback on what works and what we can improve.",
+      "zh": "我们尚不确定这三种方法中哪一种最有帮助，欢迎大家就哪些做法有效、哪些方面可以改进提出反馈。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "The external collaborations will follow four principles:",
+      "en": "The external collaborations will follow four principles:",
+      "zh": "外部合作将遵循四项原则："
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Transparency. We are transparent about the existence of our collaborations. Participants will not be asked to sign nondisclosure agreements and will be free to discuss the work, share intermediate products, and publish their conclusions.",
+      "en": "Transparency. We are transparent about the existence of our collaborations. Participants will not be asked to sign nondisclosure agreements and will be free to discuss the work, share intermediate products, and publish their conclusions.",
+      "zh": "透明。我们公开说明这些合作的存在。参与者无需签署保密协议，可以自由讨论这项工作、分享阶段性成果并发表自己的结论。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "No Academic Credit. We do not seek academic credit for the discoveries produced by our internal models. Inviting a researcher to help steward a collaboration also does not imply that they or their working group made the original discovery.",
+      "en": "No Academic Credit. We do not seek academic credit for the discoveries produced by our internal models. Inviting a researcher to help steward a collaboration also does not imply that they or their working group made the original discovery.",
+      "zh": "不主张学术署名。对于内部模型产出的结果，我们不会谋求其学术署名。邀请研究人员协助牵头推进合作，也不意味着该研究人员或其工作小组得出了最初的结果。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Recognition. This group should receive recognition for the understanding they develop, the writeups they author, and the other materials they create. The group will also help ensure that the work appropriately credits researchers, techniques, and ideas that it draws on.",
+      "en": "Recognition. This group should receive recognition for the understanding they develop, the writeups they author, and the other materials they create. The group will also help ensure that the work appropriately credits researchers, techniques, and ideas that it draws on.",
+      "zh": "认可贡献。小组在深化理解、撰写文稿和制作其他材料方面的贡献应得到认可。小组还将协助确保，这项工作恰当地注明其借鉴的研究人员、技术和思想的贡献。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Independence. Participation is voluntary and unpaid. Working-group members participate independently, and their conclusions are their own. They do not speak on behalf of OpenAI, and OpenAI does not speak on their behalf.",
+      "en": "Independence. Participation is voluntary and unpaid. Working-group members participate independently, and their conclusions are their own. They do not speak on behalf of OpenAI, and OpenAI does not speak on their behalf.",
+      "zh": "独立。参与完全自愿，且不付报酬。工作小组成员独立参与，得出的结论仅代表其自身观点。他们并不代表 OpenAI 的立场，OpenAI 也不代表他们的立场。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "We will turn over materials and artifacts related to these results to the collaborations. For the computer science collaboration, the group has decided to make the natural language proof and Lean formalization public immediately, and we are publishing them directly to our GitHub repository. For the physics collaboration, the group has decided to hold off on releasing the AI-produced artifacts and instead work on writing it up themselves.",
+      "en": "We will turn over materials and artifacts related to these results to the collaborations. For the computer science collaboration, the group has decided to make the natural language proof and Lean formalization public immediately, and we are publishing them directly to our GitHub repository. For the physics collaboration, the group has decided to hold off on releasing the AI-produced artifacts and instead work on writing it up themselves.",
+      "zh": "我们将把与这些成果相关的材料和产出移交给各合作小组。计算机科学合作小组决定立即公开自然语言证明及其 Lean 形式化版本，我们将把它们直接发布到我们的 GitHub 代码仓库中。物理学合作小组决定暂缓发布 AI 生成的材料，转而自行撰写相关文稿。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "All of these approaches involve tradeoffs. On the one hand, the collaborations empower experts to foster unpacking the results and contextualizing them in the broader academic community. On the other hand, choosing initial shepherds necessarily shapes who gets involved first and creates asymmetry of information. We welcome feedback on how to broaden participation and make this process more useful.",
+      "en": "All of these approaches involve tradeoffs. On the one hand, the collaborations empower experts to foster unpacking the results and contextualizing them in the broader academic community. On the other hand, choosing initial shepherds necessarily shapes who gets involved first and creates asymmetry of information. We welcome feedback on how to broaden participation and make this process more useful.",
+      "zh": "这些方法都各有取舍。一方面，这些合作让专家能够推动对成果的深入解析，并帮助更广泛的学术界理解这些成果在相关领域中的意义。另一方面，选择最初的牵头者，必然会影响谁能率先参与，并造成信息不对称。欢迎大家就如何扩大参与范围、提高流程实用性提出反馈。"
+    },
+    {
+      "id": "p14",
+      "kind": "heading",
+      "text": "Local smoothing and the Kakeya conjecture",
+      "en": "Local smoothing and the Kakeya conjecture",
+      "zh": "局部光滑性与 Kakeya 猜想"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "The result in mathematics concerns harmonic analysis. In 1991, Sogge proposed the local smoothing conjecture, which concerns the behavior of waves as they become focused. In particular, the conjecture states that the most extreme focusing must be short-lived. The amount of focusing at a typical random time is always much smaller than what can happen at the worst-case time. This is a familiar pattern throughout mathematics: what can happen in the worst case is more extreme than what is observed after averaging. Because of how fundamental this conjectured phenomenon is, it also has wide ranging implications throughout mathematical analysis. For instance, it implies the Kakeya conjecture and Stein’s restriction conjecture.",
+      "en": "The result in mathematics concerns harmonic analysis. In 1991, Sogge proposed the local smoothing conjecture, which concerns the behavior of waves as they become focused. In particular, the conjecture states that the most extreme focusing must be short-lived. The amount of focusing at a typical random time is always much smaller than what can happen at the worst-case time. This is a familiar pattern throughout mathematics: what can happen in the worst case is more extreme than what is observed after averaging. Because of how fundamental this conjectured phenomenon is, it also has wide ranging implications throughout mathematical analysis. For instance, it implies the Kakeya conjecture and Stein’s restriction conjecture.",
+      "zh": "数学方面的成果涉及调和分析。1991 年，Sogge 提出了局部光滑性猜想，研究波在聚焦时的行为。具体而言，该猜想指出，最极端的聚焦状态必然只能短暂持续。在典型的随机时刻，聚焦程度总是远低于最坏情况下可能达到的程度。这是数学中一种常见的规律：最坏情况下可能出现的现象，比取平均后观察到的现象更为极端。由于这一猜想所描述的现象具有基础性意义，它在数学分析的诸多领域也有广泛的推论。例如，由它可以推出 Kakeya 猜想和 Stein 限制性猜想。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "In 2019, Guth, Wang, and Zhang proved the local smoothing conjecture in two spatial dimensions. In 2025, Wang and Zahl proved the Kakeya conjecture in three dimensions. Our models produced a proof of the local smoothing conjecture in every dimension and therefore also resolve the Kakeya conjecture and Stein’s restriction conjecture in all dimensions. The new proof is based on a novel auxiliary partial differential equation.",
+      "en": "In 2019, Guth, Wang, and Zhang proved the local smoothing conjecture in two spatial dimensions. In 2025, Wang and Zahl proved the Kakeya conjecture in three dimensions. Our models produced a proof of the local smoothing conjecture in every dimension and therefore also resolve the Kakeya conjecture and Stein’s restriction conjecture in all dimensions. The new proof is based on a novel auxiliary partial differential equation.",
+      "zh": "2019 年，Guth、Wang 和 Zhang 证明了二维空间中的局部光滑性猜想。2025 年，Wang 和 Zahl 证明了三维空间中的 Kakeya 猜想。我们的模型生成了任意维度下局部光滑性猜想的证明，因此也解决了所有维度下的 Kakeya 猜想和 Stein 限制性猜想。这一新证明基于一个新颖的辅助偏微分方程。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "We obtained our AI output on October 18th, 2026, which was formalized in Lean the following day, and then we reached out to an expert to discuss forming a collaboration around this result. Following their recommendation, we decided to release the AI output publicly, following the same strategy for this result as our October 6th, 2026 release. We have released both an AI natural language output writeup produced by our models and a Lean proof in our public GitHub repository.",
+      "en": "We obtained our AI output on October 18th, 2026, which was formalized in Lean the following day, and then we reached out to an expert to discuss forming a collaboration around this result. Following their recommendation, we decided to release the AI output publicly, following the same strategy for this result as our October 6th, 2026 release. We have released both an AI natural language output writeup produced by our models and a Lean proof in our public GitHub repository.",
+      "zh": "我们于 2026 年 10 月 18 日获得了 AI 的输出，并于次日在 Lean 中完成了形式化。随后，我们联系了一位专家，讨论围绕这一成果开展合作。根据这位专家的建议，我们决定公开 AI 的输出，对这一成果采取与 2026 年 10 月 6 日发布时相同的策略。我们已在公开的 GitHub 代码仓库中发布了由模型生成的AI 自然语言文稿和一份Lean 证明。"
+    },
+    {
+      "id": "p18",
+      "kind": "heading",
+      "text": "The Exponential Time Hypothesis is false",
+      "en": "The Exponential Time Hypothesis is false",
+      "zh": "指数时间假设不成立"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "The computer science collaboration will understand and explain a result concerning the Exponential Time Hypothesis (ETH), a longstanding conjecture about the computational complexity of Boolean formula satisfiability, a problem deeply related to the P vs. NP problem. The ETH has been widely believed to be true, and has been used in hundreds of papers to derive conditional computational hardness results across a wide variety of fields including graph theory, computational biology, databases, computational geometry, and more. Surprisingly, our system has recently proved that the ETH is false, a result that was subsequently verified in Lean. The refutation of the ETH reopens questions about how much faster these tasks could become, and may help guide the search for better algorithms. Finding such algorithms, and turning theoretical advances into practical improvements, will require significant further research.",
+      "en": "The computer science collaboration will understand and explain a result concerning the Exponential Time Hypothesis (ETH), a longstanding conjecture about the computational complexity of Boolean formula satisfiability, a problem deeply related to the P vs. NP problem. The ETH has been widely believed to be true, and has been used in hundreds of papers to derive conditional computational hardness results across a wide variety of fields including graph theory, computational biology, databases, computational geometry, and more. Surprisingly, our system has recently proved that the ETH is false, a result that was subsequently verified in Lean. The refutation of the ETH reopens questions about how much faster these tasks could become, and may help guide the search for better algorithms. Finding such algorithms, and turning theoretical advances into practical improvements, will require significant further research.",
+      "zh": "计算机科学合作小组将研究并阐释一项有关指数时间假设 (ETH) 的成果。ETH 是一个长期未决的猜想，涉及布尔公式可满足性问题的计算复杂性，而这一问题与 P 与 NP 问题密切相关。学界普遍认为 ETH 成立。数百篇论文以此为前提，推导出了有条件的计算困难性结论，涉及图论、计算生物学、数据库、计算几何等众多领域。出人意料的是，我们的系统最近证明了 ETH 不成立，且这一结果随后在 Lean 中得到了验证。ETH 被推翻，使得这些计算任务究竟还能加快多少重新成为开放问题，也可能为寻找更好的算法指明方向。要找到这样的算法，并将理论进展转化为实际改进，还需要大量后续研究。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "This work will be verified and shepherded by a group led by Russell Impagliazzo (UC San Diego), Ramamohan Paturi (UC San Diego), and Ryan Williams (MIT). All three are experts in algorithm design and complexity theory.",
+      "en": "This work will be verified and shepherded by a group led by Russell Impagliazzo (UC San Diego), Ramamohan Paturi (UC San Diego), and Ryan Williams (MIT). All three are experts in algorithm design and complexity theory.",
+      "zh": "这项工作将由 Russell Impagliazzo（加利福尼亚大学圣迭戈分校）、Ramamohan Paturi（加利福尼亚大学圣迭戈分校）和 Ryan Williams（麻省理工学院）领导的小组负责验证并推动后续研究。三位都是算法设计和复杂性理论方面的专家。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "Impagliazzo and Paturi, along with Francis Zane, are the original proposers of the Exponential Time Hypothesis, and have authored a number of influential papers on the topic over the last 30 years.",
+      "en": "Impagliazzo and Paturi, along with Francis Zane, are the original proposers of the Exponential Time Hypothesis, and have authored a number of influential papers on the topic over the last 30 years.",
+      "zh": "Impagliazzo、Paturi 与 Francis Zane 是指数时间假说的最初提出者；过去 30 年间，他们撰写了多篇有影响力的 论文，探讨这一主题。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Williams has refuted strong versions of the ETH, used ETH for hardness results, and connected algorithms and lower bounds.",
+      "en": "Williams has refuted strong versions of the ETH, used ETH for hardness results, and connected algorithms and lower bounds.",
+      "zh": "Williams 已证伪了 ETH 的更强 版本，并利用 ETH 得出了关于计算困难性的 结论，还建立了算法与下界之间的联系。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "We have agreed to the group’s requests that all raw data of the results be made public to facilitate independent verification by the community, and that OpenAI commit to funding a conference to understand the implications of this work on the field as a whole. The group invites the community to help organize an open examination of the ETH claim and to discuss the broader questions that AI-generated breakthroughs raise about verification, access, credit, and the future of research.",
+      "en": "We have agreed to the group’s requests that all raw data of the results be made public to facilitate independent verification by the community, and that OpenAI commit to funding a conference to understand the implications of this work on the field as a whole. The group invites the community to help organize an open examination of the ETH claim and to discuss the broader questions that AI-generated breakthroughs raise about verification, access, credit, and the future of research.",
+      "zh": "我们已同意该小组的请求：公开这些成果的所有原始数据，以便学术界独立验证；同时，OpenAI 承诺资助一场学术会议，探讨这项工作对整个领域的影响。该小组邀请学术界协助组织对这一 ETH 结论的公开审查，并探讨 AI 生成的突破性进展在研究的验证、渠道、署名及前景等方面所引发的一系列问题。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "Our AI found its natural language disproof for the ETH on October 16th, 2026 and then subsequently we formalized the result in Lean on October 17th, 2026, which led us to develop the collaboration described here. To that end, we have released both an AI natural language output writeup produced by our models and a Lean proof in our public GitHub repository.",
+      "en": "Our AI found its natural language disproof for the ETH on October 16th, 2026 and then subsequently we formalized the result in Lean on October 17th, 2026, which led us to develop the collaboration described here. To that end, we have released both an AI natural language output writeup produced by our models and a Lean proof in our public GitHub repository.",
+      "zh": "我们的 AI 于 2026 年 10 月 16 日找到了以自然语言表述的 ETH 反证。随后，我们于 2026 年 10 月 17 日在 Lean 中完成了这一结果的形式化，并由此促成了本文所述的合作。为此，我们已在公开的 GitHub 代码仓库中发布了由我们的模型生成的 AI 自然语言文稿和一份 Lean 证明。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "Computational complexity has many open questions and conjectures, whose proofs or refutations have so far eluded the best efforts of scientists. We hope that humans with AI can provide new understanding in this field, and shed light on the inherent capabilities and limits of efficient computation.",
+      "en": "Computational complexity has many open questions and conjectures, whose proofs or refutations have so far eluded the best efforts of scientists. We hope that humans with AI can provide new understanding in this field, and shed light on the inherent capabilities and limits of efficient computation.",
+      "zh": "计算复杂性领域仍有许多开放问题和猜想，尽管科学家竭尽全力，迄今仍未能将其证明或推翻。我们希望，人类借助 AI 能够为这一领域带来新的认识，揭示高效计算的内在能力与局限。"
+    },
+    {
+      "id": "p26",
+      "kind": "heading",
+      "text": "Existence of quantum chromodynamics and completions of the Standard Model",
+      "en": "Existence of quantum chromodynamics and completions of the Standard Model",
+      "zh": "量子色动力学与标准模型完备理论的存在性"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "The physics collaboration will understand and explain a result that gives a mathematically rigorous existence proof of certain interacting quantum field theories containing gauge fields and fermions in four dimensions, including Quantum Chromodynamics (QCD) and a unified completion of the Standard Model of particle physics. Our work builds on Balaban’s approach in constructive quantum field theory. As a subproblem, this work also includes a proof of the existence of pure Yang–Mills theory, which is part of the Quantum Yang–Mills Theory Clay Mathematics Institute Millennium Prize problem.",
+      "en": "The physics collaboration will understand and explain a result that gives a mathematically rigorous existence proof of certain interacting quantum field theories containing gauge fields and fermions in four dimensions, including Quantum Chromodynamics (QCD) and a unified completion of the Standard Model of particle physics. Our work builds on Balaban’s approach in constructive quantum field theory. As a subproblem, this work also includes a proof of the existence of pure Yang–Mills theory, which is part of the Quantum Yang–Mills Theory Clay Mathematics Institute Millennium Prize problem.",
+      "zh": "物理学合作小组将研究并阐释一项成果：它为四维时空中某些包含规范场和费米子的相互作用量子场论，给出了数学上严格的存在性证明。这些理论包括量子色动力学 (QCD)，以及粒子物理标准模型的统一完备理论。我们的工作建立在构造性量子场论中的 Balaban 方法之上。作为其中的一个子问题，这项工作还证明了纯 Yang–Mills 理论的存在性。这也是克雷数学研究所量子 Yang–Mills 理论千禧年大奖难题的一部分。"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "The Standard Model describes the interaction of fundamental subatomic particles for three of the four fundamental forces, excepting gravity. The existence proof pertains to the simplest grand unified theory that includes the gauge fields and fermions of the Standard Model (as the Standard Model itself cannot be extrapolated to arbitrarily short distances). QCD describes the interaction of particles such as quarks and gluons via the strong force. Pure Yang–Mills theory only describes the self-interactions of the gluons, the force carriers, rather than matter such as quarks.",
+      "en": "The Standard Model describes the interaction of fundamental subatomic particles for three of the four fundamental forces, excepting gravity. The existence proof pertains to the simplest grand unified theory that includes the gauge fields and fermions of the Standard Model (as the Standard Model itself cannot be extrapolated to arbitrarily short distances). QCD describes the interaction of particles such as quarks and gluons via the strong force. Pure Yang–Mills theory only describes the self-interactions of the gluons, the force carriers, rather than matter such as quarks.",
+      "zh": "标准模型描述了基本亚原子粒子在四种基本力中除引力以外的三种力作用下的相互作用。这一存在性证明针对的是包含标准模型规范场和费米子、最简单的大统一理论，因为标准模型本身无法外推至任意短的距离尺度。QCD 描述了夸克和胶子等粒子通过强力发生的相互作用。纯 Yang–Mills 理论仅描述作为力载体的胶子之间的自相互作用，不涉及夸克等物质粒子。"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "David Gross will lead a group including Michael Douglas, Arthur Jaffe, Igor Klebanov, and Nikita Nekrasov that will shepherd this work.",
+      "en": "David Gross will lead a group including Michael Douglas, Arthur Jaffe, Igor Klebanov, and Nikita Nekrasov that will shepherd this work.",
+      "zh": "David Gross 将领导一个由 Michael Douglas、Arthur Jaffe、Igor Klebanov 和 Nikita Nekrasov 等人组成的小组，推动这项工作的后续研究。"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "Gross’s 1973 work on asymptotic freedom in Yang-Mills theories helped establish QCD as the theory of the strong interactions and earned him a share of the 2004 Nobel Prize in Physics. Asymptotic freedom is also the key mechanism underlying the existence of these theories as mathematically rigorous objects.",
+      "en": "Gross’s 1973 work on asymptotic freedom in Yang-Mills theories helped establish QCD as the theory of the strong interactions and earned him a share of the 2004 Nobel Prize in Physics. Asymptotic freedom is also the key mechanism underlying the existence of these theories as mathematically rigorous objects.",
+      "zh": "Gross 于 1973 年对 Yang-Mills 理论中渐近自由的研究，帮助确立了 QCD 作为强相互作用理论的地位，并使他成为 2004 年诺贝尔物理学奖的共同得主。渐近自由也是这些理论能够作为数学上严格定义的对象而存在的关键机制。"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "Jaffe formulated the Quantum Yang-Mills Theory Millenium Prize problem with Witten and also envisioned the idea of Millennium Prize problems and co-founded the Clay Mathematics Institute.",
+      "en": "Jaffe formulated the Quantum Yang-Mills Theory Millenium Prize problem with Witten and also envisioned the idea of Millennium Prize problems and co-founded the Clay Mathematics Institute.",
+      "zh": "Jaffe 与 Witten 共同提出了量子 Yang-Mills 理论千禧年大奖难题。此外，Jaffe 还构想了千禧年大奖难题计划，并共同创立了 Clay 数学研究所。"
+    },
+    {
+      "id": "p32",
+      "kind": "paragraph",
+      "text": "Douglas has already been a steward of this problem over the last 20 years, reporting on its status in 2004 and then providing a comprehensive update on the progress at the beginning of this year.",
+      "en": "Douglas has already been a steward of this problem over the last 20 years, reporting on its status in 2004 and then providing a comprehensive update on the progress at the beginning of this year.",
+      "zh": "过去 20 年来，Douglas 一直在推动这一问题的研究：他曾于 2004 年报告其研究现状，并于今年年初再次全面综述了最新进展。"
+    },
+    {
+      "id": "p33",
+      "kind": "paragraph",
+      "text": "Klebanov helped pioneer the application of gauge–string duality to confinement, an important property of QCD, and now directs the Simons Collaboration on Confinement and QCD Strings,",
+      "en": "Klebanov helped pioneer the application of gauge–string duality to confinement, an important property of QCD, and now directs the Simons Collaboration on Confinement and QCD Strings,",
+      "zh": "Klebanov 是将规范–弦对偶应用于禁闭现象研究的先驱之一，禁闭是 QCD 的一个重要性质。他目前负责领导 Simons 禁闭与 QCD 弦合作项目，"
+    },
+    {
+      "id": "p34",
+      "kind": "paragraph",
+      "text": "Nekrasov has done groundbreaking work on exact methods for generalizations of Yang–Mills theory and won the Dannie Heineman Prize for Mathematical Physics in 2023.",
+      "en": "Nekrasov has done groundbreaking work on exact methods for generalizations of Yang–Mills theory and won the Dannie Heineman Prize for Mathematical Physics in 2023.",
+      "zh": "Nekrasov 在 Yang–Mills 理论推广形式的精确方法研究中做出了开创性贡献，并于 2023 年获得 Dannie Heineman 数学物理奖。"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "The group requests that all communications with any and all members of the group regarding this effort be directed to the following email account: YANGMILLS4D@gmail.com.",
+      "en": "The group requests that all communications with any and all members of the group regarding this effort be directed to the following email account: YANGMILLS4D@gmail.com.",
+      "zh": "该小组请求，凡就此项工作与小组任何成员沟通，均请发送邮件至以下邮箱：YANGMILLS4D@gmail.com。"
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "Our models produced a natural language proof for Yang–Mills existence on September 9th, 2026, and then subsequently produced a proof for QCD on September 18th, 2026. Given the length and complexity of the work, we postponed release until the Lean formalization completed. We finished our formalization of Yang–Mills’ existence on October 16th, 2026, which led us to develop the collaboration described here.",
+      "en": "Our models produced a natural language proof for Yang–Mills existence on September 9th, 2026, and then subsequently produced a proof for QCD on September 18th, 2026. Given the length and complexity of the work, we postponed release until the Lean formalization completed. We finished our formalization of Yang–Mills’ existence on October 16th, 2026, which led us to develop the collaboration described here.",
+      "zh": "我们的模型于 2026 年 9 月 9 日生成了以自然语言表述的 Yang–Mills 理论存在性证明，随后于 2026 年 9 月 18 日生成了 QCD 的证明。鉴于这项工作的篇幅和复杂程度，我们将发布时间推迟至 Lean 形式化完成之后。我们于 2026 年 10 月 16 日完成了 Yang–Mills 理论存在性证明的形式化工作，并由此促成了本文所述的合作。"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "We hope that these results mark the beginning of a transition in which quantum field theory, the most important framework in modern theoretical physics, becomes a mathematically rigorous field. We are excited to provide resources for academic-led progress towards that goal.",
+      "en": "We hope that these results mark the beginning of a transition in which quantum field theory, the most important framework in modern theoretical physics, becomes a mathematically rigorous field. We are excited to provide resources for academic-led progress towards that goal.",
+      "zh": "量子场论是现代理论物理最重要的框架。我们希望，这些成果标志着转变的开端 — 量子场论将逐渐成为一门严谨的数学学科。我们很高兴能提供资源，支持学术界主导的研究朝着这一目标迈进。"
+    },
+    {
+      "id": "p38",
+      "kind": "heading",
+      "text": "Supporting scientists",
+      "en": "Supporting scientists",
+      "zh": "支持科学家"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "We are committed to supporting the broader work of understanding and building on these results. These collaborations complement our recently announced $5 million contribution to a new Simons Foundation initiative. Managed and awarded by the Simons Foundation, that funding will support workshops, conferences, and special programs to help researchers understand and build on results produced by AI. We are committed to ensuring funding for researchers to independently examine, explain, and build on the results above.",
+      "en": "We are committed to supporting the broader work of understanding and building on these results. These collaborations complement our recently announced $5 million contribution to a new Simons Foundation initiative. Managed and awarded by the Simons Foundation, that funding will support workshops, conferences, and special programs to help researchers understand and build on results produced by AI. We are committed to ensuring funding for researchers to independently examine, explain, and build on the results above.",
+      "zh": "我们致力于支持更广泛的研究工作，以理解这些成果并在此基础上继续推进。我们近期宣布向 Simons 基金会的一项新计划捐赠 500 万美元，这些合作是对该项资助的补充。这笔资金由 Simons 基金会管理和发放，将用于支持研讨会、学术会议及专项计划，帮助研究人员理解 AI 产出的成果，并在此基础上开展研究。我们致力于为研究人员提供资金保障，支持他们独立审查、阐释上述成果，并在此基础上继续研究。"
+    },
+    {
+      "id": "p40",
+      "kind": "paragraph",
+      "text": "We continue to invite feedback on the best way to disclose results and engage with scientists to accelerate discovery.",
+      "en": "We continue to invite feedback on the best way to disclose results and engage with scientists to accelerate discovery.",
+      "zh": "我们继续欢迎各方就如何更好地公开成果、与科学家合作以加速发现提出反馈。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "我们持续根据相关学术界的反馈，调整成果发布流程。在我们看来，最恰当的做法是将这些文稿视为一种原始研究数据。",
+      "en": "Our release process continues to evolve in response to feedback from the associated academic communities. In our view, these manuscripts are best understood as a form of raw research data."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "透明。我们公开说明这些合作的存在。",
+      "en": "Transparency. We are transparent about the existence of our collaborations."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "不主张学术署名。对于内部模型产出的结果，我们不会谋求其学术署名。",
+      "en": "No Academic Credit. We do not seek academic credit for the discoveries produced by our internal models."
+    },
+    {
+      "paragraphId": "p39",
+      "zh": "我们致力于支持更广泛的研究工作，以理解这些成果并在此基础上继续推进。我们近期宣布向 Simons 基金会的一项新计划捐赠 500 万美元，这些合作是对该项资助的补充。",
+      "en": "We are committed to supporting the broader work of understanding and building on these results. These collaborations complement our recently announced $5 million contribution to a new Simons Foundation initiative."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "title": "Working with academic communities to build scientific understanding"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/building-scientific-understanding-with-academic-communities/",
+      "title": "携手学术界，深化科学认知"
+    }
+  },
+  "contentHash": "b19edb10f716aa17c1351d284fbd2de2e482dc00a96b06a15e07565d018547f7",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/building-scientific-understanding-with-academic-communities/"
 }

@@ -3,8 +3,184 @@
   "id": "rss-95dedf578de78f3ec264",
   "url": "https://openai.com/index/openai-models-google-cloud",
   "sourceTitle": "OpenAI models are coming to Google Cloud",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.772345+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.805390+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:51:44.313Z",
+  "finalURL": "https://openai.com/index/openai-models-google-cloud/",
+  "language": "en",
+  "originalTitle": "OpenAI models are coming to Google Cloud",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "OpenAI and Google Cloud are partnering to bring OpenAI’s frontier models and Codex agentic workflows into Google Cloud’s Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale, backed by Google Cloud’s data governance and high-performance infrastructure.",
+      "en": "OpenAI and Google Cloud are partnering to bring OpenAI’s frontier models and Codex agentic workflows into Google Cloud’s Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale, backed by Google Cloud’s data governance and high-performance infrastructure.",
+      "zh": "OpenAI 正与 Google Cloud 合作，将 OpenAI 的前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden。此次集成将让客户能够原生访问这些模型，并依托 Google Cloud 的数据治理能力和高性能基础设施，大规模运行复杂的智能体工作流。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Google Cloud’s longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them. Bringing OpenAI models to its model garden gives these teams access to OpenAI’s frontier models within the environment where they already work, enabling enterprises to modernize their software development lifecycle, build agentic workflows, and change how people work.",
+      "en": "Google Cloud’s longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them. Bringing OpenAI models to its model garden gives these teams access to OpenAI’s frontier models within the environment where they already work, enabling enterprises to modernize their software development lifecycle, build agentic workflows, and change how people work.",
+      "zh": "Google Cloud 长期投入机器学习和 AI，已成为承载 AI 工作负载的重要平台，吸引了众多构建这些工作负载的开发者和数据科学家。将 OpenAI 模型引入其 Model Garden 后，这些团队便能在现有工作环境中使用 OpenAI 的前沿模型，帮助企业实现软件开发生命周期的现代化、构建智能体工作流，并改变人们的工作方式。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "For organizations in regulated industries, deploying AI requires control over who can access sensitive data and how it is used. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
+      "en": "For organizations in regulated industries, deploying AI requires control over who can access sensitive data and how it is used. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
+      "zh": "对于受监管行业的组织而言，部署 AI 需要掌控敏感数据的访问权限和使用方式。此次集成将把 OpenAI 的前沿模型与 Google Cloud 内置的访问控制、集中式数据治理和高性能基础设施相结合，支持要求严苛的企业工作负载。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Google Cloud customers will be able to purchase OpenAI frontier models via model garden, transacted through the Google Cloud Marketplace. Enterprises with Google Cloud spend commitments will be able to draw down their GCP commitments for these purchases.",
+      "en": "Google Cloud customers will be able to purchase OpenAI frontier models via model garden, transacted through the Google Cloud Marketplace. Enterprises with Google Cloud spend commitments will be able to draw down their GCP commitments for these purchases.",
+      "zh": "Google Cloud 客户将能够通过 Model Garden 购买 OpenAI 前沿模型，并在 Google Cloud Marketplace 完成交易。已承诺 Google Cloud 消费额度的企业，可将这些采购费用计入其 GCP 承诺消费额。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "Additionally, OpenAI models will soon be available in Google Antigravity and the Gemini Agent, providing enterprise customers with model choice flexibility and the best model for each task. By expanding access through Google Cloud, we are giving enterprises greater choice in how they discover and use frontier models, with a path from evaluation to broader adoption.",
+      "en": "Additionally, OpenAI models will soon be available in Google Antigravity and the Gemini Agent, providing enterprise customers with model choice flexibility and the best model for each task. By expanding access through Google Cloud, we are giving enterprises greater choice in how they discover and use frontier models, with a path from evaluation to broader adoption.",
+      "zh": "此外，OpenAI 模型也将很快在 Google Antigravity 和 Gemini Agent 中推出，让企业客户能够灵活选择模型，为每项任务选用最佳模型。通过 Google Cloud 拓宽使用渠道，我们为企业探索和使用前沿模型提供了更多选择，并帮助它们从评估迈向更广泛的应用。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "“Google Cloud is a leading platform for developers and businesses building AI agents, writing software, and putting AI to work. This partnership is an important step in making our most capable models and Codex available where customers are already building, giving them even more choice in how they use frontier AI as we grow the agentic ecosystem together.”",
+      "en": "“Google Cloud is a leading platform for developers and businesses building AI agents, writing software, and putting AI to work. This partnership is an important step in making our most capable models and Codex available where customers are already building, giving them even more choice in how they use frontier AI as we grow the agentic ecosystem together.”",
+      "zh": "“Google Cloud 是领先的平台，支持开发者和企业构建 AI 智能体、编写软件并将 AI 付诸应用。通过此次合作，我们将把最强大的模型和 Codex 带到客户已在使用的开发环境中，这是重要的一步。我们将携手壮大智能体生态系统，让客户在如何使用前沿 AI 方面拥有更多选择。”"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "—Greg Brockman, President and co-founder, OpenAI",
+      "en": "—Greg Brockman, President and co-founder, OpenAI",
+      "zh": "—Greg Brockman，OpenAI 总裁兼联合创始人"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "“We are focused on giving customers a broad selection of models, including those from OpenAI, so they can choose the right model for any given job, helping to deliver optimal quality and lower costs.”",
+      "en": "“We are focused on giving customers a broad selection of models, including those from OpenAI, so they can choose the right model for any given job, helping to deliver optimal quality and lower costs.”",
+      "zh": "“我们致力于为客户提供丰富的模型选择，包括 OpenAI 的模型，让他们能为每项任务选择合适的模型，从而帮助他们实现最佳质量并降低成本。”"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "—Thomas Kurian, Chief Executive Officer, Google Cloud",
+      "en": "—Thomas Kurian, Chief Executive Officer, Google Cloud",
+      "zh": "—Thomas Kurian，Google Cloud 首席执行官"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "“Google Cloud is a leading platform for developers and businesses building AI agents, writing software, and putting AI to work. This partnership is an important step in making our most capable models and Codex available where customers are already building, giving them even more choice in how they use frontier AI as we grow the agentic ecosystem together.”",
+      "en": "“Google Cloud is a leading platform for developers and businesses building AI agents, writing software, and putting AI to work. This partnership is an important step in making our most capable models and Codex available where customers are already building, giving them even more choice in how they use frontier AI as we grow the agentic ecosystem together.”",
+      "zh": "“Google Cloud 是领先的平台，支持开发者和企业构建 AI 智能体、编写软件并将 AI 付诸应用。通过此次合作，我们将把最强大的模型和 Codex 带到客户已在使用的开发环境中，这是重要的一步。我们将携手壮大智能体生态系统，让客户在如何使用前沿 AI 方面拥有更多选择。”"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "—Greg Brockman, President and co-founder, OpenAI",
+      "en": "—Greg Brockman, President and co-founder, OpenAI",
+      "zh": "—Greg Brockman，OpenAI 总裁兼联合创始人"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "“We are focused on giving customers a broad selection of models, including those from OpenAI, so they can choose the right model for any given job, helping to deliver optimal quality and lower costs.”",
+      "en": "“We are focused on giving customers a broad selection of models, including those from OpenAI, so they can choose the right model for any given job, helping to deliver optimal quality and lower costs.”",
+      "zh": "“我们致力于为客户提供丰富的模型选择，包括 OpenAI 的模型，让他们能为每项任务选择合适的模型，从而帮助他们实现最佳质量并降低成本。”"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "—Thomas Kurian, Chief Executive Officer, Google Cloud",
+      "en": "—Thomas Kurian, Chief Executive Officer, Google Cloud",
+      "zh": "—Thomas Kurian，Google Cloud 首席执行官"
+    },
+    {
+      "id": "p14",
+      "kind": "list",
+      "text": "Greg Brockman",
+      "en": "Greg Brockman",
+      "zh": "Greg Brockman"
+    },
+    {
+      "id": "p15",
+      "kind": "list",
+      "text": "Thomas Kurian",
+      "en": "Thomas Kurian",
+      "zh": "Thomas Kurian"
+    },
+    {
+      "id": "p16",
+      "kind": "list",
+      "text": "Greg Brockman",
+      "en": "Greg Brockman",
+      "zh": "Greg Brockman"
+    },
+    {
+      "id": "p17",
+      "kind": "list",
+      "text": "Thomas Kurian",
+      "en": "Thomas Kurian",
+      "zh": "Thomas Kurian"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "General availability is planned in the coming weeks. Request access to OpenAI on Google Cloud here.",
+      "en": "General availability is planned in the coming weeks. Request access to OpenAI on Google Cloud here.",
+      "zh": "计划在未来几周内正式推出。请点击此处申请在 Google Cloud 上使用 OpenAI。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "Microsoft remains OpenAI’s primary cloud partner.",
+      "en": "Microsoft remains OpenAI’s primary cloud partner.",
+      "zh": "微软仍是 OpenAI 的主要云合作伙伴。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "OpenAI 正与 Google Cloud 合作，将 OpenAI 的前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden。此次集成将让客户能够原生访问这些模型，并依托 Google Cloud 的数据治理能力和高性能基础设施，大规模运行复杂的智能体工作流。",
+      "en": "OpenAI and Google Cloud are partnering to bring OpenAI’s frontier models and Codex agentic workflows into Google Cloud’s Model Garden. The integration will give customers native access to these models to power complex agentic workflows at scale, backed by Google Cloud’s data governance and high-performance infrastructure."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "Google Cloud 长期投入机器学习和 AI，已成为承载 AI 工作负载的重要平台，吸引了众多构建这些工作负载的开发者和数据科学家。将 OpenAI 模型引入其 Model Garden 后，这些团队便能在现有工作环境中使用 OpenAI 的前沿模型，帮助企业实现软件开发生命周期的现代化、构建智能体工作流，并改变人们的工作方式。",
+      "en": "Google Cloud’s longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them. Bringing OpenAI models to its model garden gives these teams access to OpenAI’s frontier models within the environment where they already work, enabling enterprises to modernize their software development lifecycle, build agentic workflows, and change how people work."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "对于受监管行业的组织而言，部署 AI 需要掌控敏感数据的访问权限和使用方式。此次集成将把 OpenAI 的前沿模型与 Google Cloud 内置的访问控制、集中式数据治理和高性能基础设施相结合，支持要求严苛的企业工作负载。",
+      "en": "For organizations in regulated industries, deploying AI requires control over who can access sensitive data and how it is used. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "Google Cloud 客户将能够通过 Model Garden 购买 OpenAI 前沿模型，并在 Google Cloud Marketplace 完成交易。已承诺 Google Cloud 消费额度的企业，可将这些采购费用计入其 GCP 承诺消费额。",
+      "en": "Google Cloud customers will be able to purchase OpenAI frontier models via model garden, transacted through the Google Cloud Marketplace. Enterprises with Google Cloud spend commitments will be able to draw down their GCP commitments for these purchases."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "title": "OpenAI models are coming to Google Cloud"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/openai-models-google-cloud/",
+      "title": "OpenAI 模型即将登陆 Google Cloud"
+    }
+  },
+  "contentHash": "8b7edabe8f1ddf217e6b1222ea862781df80eb121eedafb4b5b1420759634be9",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/openai-models-google-cloud/"
 }

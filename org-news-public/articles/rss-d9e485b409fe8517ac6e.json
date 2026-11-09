@@ -3,8 +3,597 @@
   "id": "rss-d9e485b409fe8517ac6e",
   "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
   "sourceTitle": "Disrupting AI-enabled “false front” operations",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:52.170303+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:52.209478+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:52:42.812Z",
+  "finalURL": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+  "language": "en",
+  "originalTitle": "Disrupting AI-enabled “false front” operations",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Over the past two and a half years, we’ve reported on many of the ways in which threat actors tried to use our models to conduct cyber attacks, covert influence operations (IO), scams, and other violations of our Usage Policies. We publish these reports to inform regulators, our industry peers, and wider society of how we see threat actors trying to leverage AI, and to shine a light on the vulnerabilities they try to exploit.",
+      "en": "Over the past two and a half years, we’ve reported on many of the ways in which threat actors tried to use our models to conduct cyber attacks, covert influence operations (IO), scams, and other violations of our Usage Policies. We publish these reports to inform regulators, our industry peers, and wider society of how we see threat actors trying to leverage AI, and to shine a light on the vulnerabilities they try to exploit.",
+      "zh": "过去两年半里，我们发布报告，介绍了威胁行为者尝试滥用我们模型的多种方式。在这些活动中，他们试图利用模型开展网络攻击、隐蔽影响行动 (IO)、诈骗，以及其他违反我们使用政策的行为。我们发布这些报告，是为了让监管机构、行业同行和更广泛的社会公众了解我们观察到的威胁行为者利用 AI 的企图，并揭示他们试图利用的薄弱环节。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "We recently banned two IO—one from Russia and one from Iran—that used our models in combination with more traditional techniques and technologies to support sophisticated “false front” entities. They used those entities to launder geopolitical, conflict-related messaging into their target audiences. The Iranian operation included a stable of seven “journalist” personas which it used to pitch long-form articles to small and medium online outlets around the world; the Russian operation appears to have co-opted unwitting people in Latin America to run a “think tank” on the ground.",
+      "en": "We recently banned two IO—one from Russia and one from Iran—that used our models in combination with more traditional techniques and technologies to support sophisticated “false front” entities. They used those entities to launder geopolitical, conflict-related messaging into their target audiences. The Iranian operation included a stable of seven “journalist” personas which it used to pitch long-form articles to small and medium online outlets around the world; the Russian operation appears to have co-opted unwitting people in Latin America to run a “think tank” on the ground.",
+      "zh": "我们近期阻断了两场影响行动，一场来自俄罗斯，一场来自伊朗。它们将我们的模型与更传统的手段和技术结合，用来支撑精心构建的“虚假掩护” (false front) 实体。它们利用这些实体掩盖信息的真实来源，向目标受众传播有关地缘政治和冲突的宣传信息。伊朗行动使用了七个虚构“记者”身份，向全球中小型网络媒体推介长篇文章；俄罗斯行动则似乎利用了拉丁美洲不知情的人员，在当地运营一家“智库”。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Both operations were multi-dimensional, trying a range of different tactics to achieve their goals. As well as long-form articles, the Iranian operation generated batches of social media comments, generally on topics related to the US-Iran war. As well as controlling the “think tank,” the Russian operation created fake “leaked” documents and audio scripts, some of which we identified being spread online. Both operations also made heavy use of AI to draft internal reports (the Russian operation did this more than anything else); in both cases, the actors used questionable or outright deceitful methodologies to exaggerate the operators’ effectiveness.",
+      "en": "Both operations were multi-dimensional, trying a range of different tactics to achieve their goals. As well as long-form articles, the Iranian operation generated batches of social media comments, generally on topics related to the US-Iran war. As well as controlling the “think tank,” the Russian operation created fake “leaked” documents and audio scripts, some of which we identified being spread online. Both operations also made heavy use of AI to draft internal reports (the Russian operation did this more than anything else); in both cases, the actors used questionable or outright deceitful methodologies to exaggerate the operators’ effectiveness.",
+      "zh": "两场行动都从多个方向展开，尝试通过各种不同策略实现目标。除了长篇文章，伊朗行动还批量生成社交媒体评论，话题通常与美伊战争有关。俄罗斯行动除了控制这家“智库”，还制作了虚假的“泄露”文件和音频脚本；我们发现其中一些已在网上传播。两场行动还大量使用 AI 起草内部报告，其中俄罗斯行动在这方面的使用最多。在两起案例中，行为者都使用了可疑乃至明显欺骗性的方法来夸大操盘人员的成效。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "What is most striking about these operations is that they closely resembled complex influence operations of the pre-AI age, but used AI to make some of the workflows easier. The journalist personas run by the Iranian operation bore a family resemblance to the fake journalist “Alice Donovan,” a front for Russian military intelligence whose articles were published by a range of Western outlets in 2016-17. In 2020, individuals associated with past activity by the Russian Internet Research Agency ran a fake “news” outlet called “PeaceData,” which co-opted unwitting journalists around the world into writing for it.",
+      "en": "What is most striking about these operations is that they closely resembled complex influence operations of the pre-AI age, but used AI to make some of the workflows easier. The journalist personas run by the Iranian operation bore a family resemblance to the fake journalist “Alice Donovan,” a front for Russian military intelligence whose articles were published by a range of Western outlets in 2016-17. In 2020, individuals associated with past activity by the Russian Internet Research Agency ran a fake “news” outlet called “PeaceData,” which co-opted unwitting journalists around the world into writing for it.",
+      "zh": "这些行动最引人注目的一点是：它们与 AI 出现之前的复杂影响行动高度相似，只是用 AI 简化了部分工作流程。伊朗行动运营的虚构记者身份，与假记者“Alice Donovan”有相似之处。后者是俄罗斯军事情报机构的掩护身份，其文章曾于 2016—2017 年间发表于多家西方媒体。2020 年，一些与俄罗斯互联网研究机构过去活动有关联的人运营了一家名为“PeaceData”的虚假“新闻”媒体，利用全球不知情的记者为其撰稿。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "These operations were also unusual for their potential reach. Using the IO Breakout Scale, which rates IO on a scale of 1 (lowest) to 6 (highest), we would assess the Russia-origin operation as belonging in Category 5. This is the first Category 5 operation we’ve disrupted since we began our reporting. The Iran-origin operation reached Category 4. Both managed to land their content (not all of which was generated from our models) in mainstream media outlets, rather than simply posting it on social media. This is consistent with a pattern we’ve observed across the 30 covert influence operations we’ve exposed in the last two and a half years: the operations which try to land their content in real media outlets, rather than relying on fake social media distribution, tend to have the highest potential reach and impact.",
+      "en": "These operations were also unusual for their potential reach. Using the IO Breakout Scale, which rates IO on a scale of 1 (lowest) to 6 (highest), we would assess the Russia-origin operation as belonging in Category 5. This is the first Category 5 operation we’ve disrupted since we began our reporting. The Iran-origin operation reached Category 4. Both managed to land their content (not all of which was generated from our models) in mainstream media outlets, rather than simply posting it on social media. This is consistent with a pattern we’ve observed across the 30 covert influence operations we’ve exposed in the last two and a half years: the operations which try to land their content in real media outlets, rather than relying on fake social media distribution, tend to have the highest potential reach and impact.",
+      "zh": "这些行动的潜在传播范围也不同寻常。根据影响行动破圈量表 (Breakout Scale)，我们将这场源自俄罗斯的行动评为第 5 级。该量表从 1 级（最低）到 6 级（最高）对影响行动进行评级。这是我们自开始发布报告以来阻断的首场第 5 级行动。源自伊朗的行动达到了第 4 级。两场行动都成功让主流媒体刊登了其内容，而不只是将内容发布在社交媒体上；这些内容并非全部由我们的模型生成。这与我们过去两年半揭露的 30 场隐蔽影响行动中观察到的规律一致：与依赖虚假社交账号传播的行动相比，试图将内容投放到真实媒体的行动，往往具有最大的潜在传播范围和影响力。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Matrix of the 30 IO we’ve exposed since early 2024, assessed by primary distribution method (social media, operation-run website, external publications) and score on the Breakout Scale. Operations which used more than one distribution method, such as running a website and promoting it on social media, are classified by the method which appeared to constitute the core of the operation.",
+      "en": "Matrix of the 30 IO we’ve exposed since early 2024, assessed by primary distribution method (social media, operation-run website, external publications) and score on the Breakout Scale. Operations which used more than one distribution method, such as running a website and promoting it on social media, are classified by the method which appeared to constitute the core of the operation.",
+      "zh": "自 2024 年初以来我们揭露的 30 场影响行动矩阵，按主要传播方式（社交媒体、行动自营网站、外部刊物）和破圈量表 (Breakout Scale) 评级进行评估。采用多种传播方式的行动，例如运营网站并在社交媒体上推广，按看起来构成行动核心的方式分类。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "AI can give such false-front operations greater scale, efficiency, linguistic fluency, and editorial ability. The operators can use these advantages to exploit unsuspecting victims, such as employees or editors, and plant their content in front of audiences who have no idea who was behind it, or what their motivations were. These operations also demonstrate the complexity and sophistication of threat actors’ use of false personas and entities to achieve their goals. Understanding the vulnerabilities that threat actors exploit in these efforts, and how those vulnerabilities can translate into audience and reach, will be essential to maintaining robust defenses across organizations.",
+      "en": "AI can give such false-front operations greater scale, efficiency, linguistic fluency, and editorial ability. The operators can use these advantages to exploit unsuspecting victims, such as employees or editors, and plant their content in front of audiences who have no idea who was behind it, or what their motivations were. These operations also demonstrate the complexity and sophistication of threat actors’ use of false personas and entities to achieve their goals. Understanding the vulnerabilities that threat actors exploit in these efforts, and how those vulnerabilities can translate into audience and reach, will be essential to maintaining robust defenses across organizations.",
+      "zh": "AI 可以让这类虚假掩护行动扩大规模、提高效率，并增强语言表达的流畅度和编辑能力。操盘人员可以利用这些优势，利用毫无戒心的员工或编辑等受害者，将内容投放给完全不了解幕后主使及其动机的受众。这些行动也表明，威胁行为者利用虚构身份和实体实现目标的手法既复杂又精巧。要让各类组织维持稳健的防护，就必须了解威胁行为者在这些行动中利用的薄弱环节，以及这些薄弱环节如何帮助其触及受众、扩大传播。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "But the covert nature of these false-front operations also makes them particularly vulnerable to responsible disclosure. Both “Alice Donovan” and “PeaceData” ceased their activity after they were exposed. That’s why our goal in reporting these false-front operations is to make further research and disruption easier—and make continuing the operations harder.",
+      "en": "But the covert nature of these false-front operations also makes them particularly vulnerable to responsible disclosure. Both “Alice Donovan” and “PeaceData” ceased their activity after they were exposed. That’s why our goal in reporting these false-front operations is to make further research and disruption easier—and make continuing the operations harder.",
+      "zh": "不过，这些虚假掩护行动的隐蔽性，也使负责任的披露对它们尤其具有打击力。“Alice Donovan”和“PeaceData”在被揭露后都停止了活动。因此，我们报告这些虚假掩护行动的目标，是让后续研究和阻断更容易，也让这些行动更难继续下去。"
+    },
+    {
+      "id": "p9",
+      "kind": "heading",
+      "text": "Russia: Operation “Dark Clark”",
+      "en": "Russia: Operation “Dark Clark”",
+      "zh": "俄罗斯：“Dark Clark”行动"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Russia-origin actors running influence campaigns across Latin America.",
+      "en": "Russia-origin actors running influence campaigns across Latin America.",
+      "zh": "源自俄罗斯的行为者在拉丁美洲各地开展影响行动。"
+    },
+    {
+      "id": "p11",
+      "kind": "heading",
+      "text": "Actor",
+      "en": "Actor",
+      "zh": "行为主体"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "We banned a cluster of ChatGPT accounts that originated in Russia. They used ChatGPT for a range of tasks associated with covert influence operations targeting countries across Latin America. Much of this activity appeared aimed at undermining Ukraine’s reputation in the region, but some appeared aimed at influencing local political outcomes, especially in Argentina and Bolivia. Most of the operators prompted in Russian; one prompted in Spanish, but nevertheless appeared to be located in Russia. We have shared information on this case with the relevant authorities.",
+      "en": "We banned a cluster of ChatGPT accounts that originated in Russia. They used ChatGPT for a range of tasks associated with covert influence operations targeting countries across Latin America. Much of this activity appeared aimed at undermining Ukraine’s reputation in the region, but some appeared aimed at influencing local political outcomes, especially in Argentina and Bolivia. Most of the operators prompted in Russian; one prompted in Spanish, but nevertheless appeared to be located in Russia. We have shared information on this case with the relevant authorities.",
+      "zh": "我们封禁了一组源自俄罗斯的 ChatGPT 账号。这些账号使用 ChatGPT 执行一系列任务，涉及针对拉丁美洲各国的隐蔽影响行动。其中大部分活动似乎旨在损害乌克兰在该地区的声誉，但也有一些似乎意在影响当地政治局势，尤其是在阿根廷和玻利维亚。多数操盘人员用俄语输入提示；一人使用西班牙语，但似乎同样位于俄罗斯。我们已与有关部门分享本案信息。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "The operators used ChatGPT to perform three main tasks: writing internal reports on their activities (and other people’s activities which they could plausibly take credit for), creating content for their operations, and drafting reports on the performance of a self-described “research platform” in Latin America called the Social Research Center (SRC). They appear to have controlled the SRC via a fake persona named “Mia Clark”; in honor of the name, we have nicknamed this operation “Dark Clark.” Since we do not allow access to our models from Russia, they used VPNs to connect to our services.",
+      "en": "The operators used ChatGPT to perform three main tasks: writing internal reports on their activities (and other people’s activities which they could plausibly take credit for), creating content for their operations, and drafting reports on the performance of a self-described “research platform” in Latin America called the Social Research Center (SRC). They appear to have controlled the SRC via a fake persona named “Mia Clark”; in honor of the name, we have nicknamed this operation “Dark Clark.” Since we do not allow access to our models from Russia, they used VPNs to connect to our services.",
+      "zh": "操盘人员主要用 ChatGPT 执行三类任务：撰写关于自身活动的内部报告，也包括那些能被他们貌似合理地据为己功的他人活动；为行动创作内容；以及起草报告，汇报拉丁美洲一家自称“研究平台”的社会研究中心 (SRC) 的工作表现。他们似乎通过一个名为“Mia Clark”的虚构身份控制 SRC；由此，我们将这场行动称为“Dark Clark”。由于我们不允许从俄罗斯访问我们的模型，他们使用 VPN 连接我们的服务。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "In their internal reports, the operators claimed to have spread fake stories across Latin America to undermine Ukraine or local leaders. Some of these fakes have been attributed by open-source researchers to a Russian entity known as “Politology” or “La Compania,” a reported successor to the Wagner Group and other entities founded by Russian oligarch Yevgeniy Prigozhin. The operators also asked our models to translate or explain public reporting about Politology and Wagner, far more than asking about any other Russia-origin networks.",
+      "en": "In their internal reports, the operators claimed to have spread fake stories across Latin America to undermine Ukraine or local leaders. Some of these fakes have been attributed by open-source researchers to a Russian entity known as “Politology” or “La Compania,” a reported successor to the Wagner Group and other entities founded by Russian oligarch Yevgeniy Prigozhin. The operators also asked our models to translate or explain public reporting about Politology and Wagner, far more than asking about any other Russia-origin networks.",
+      "zh": "操盘人员在内部报告中声称，他们在拉丁美洲各地传播虚假消息，以打击乌克兰或当地领导人。公开来源研究人员将其中一些虚假内容归因于一个名为“Politology”或“La Compania”的俄罗斯实体。据报道，该实体承接了瓦格纳集团 (Wagner Group) 及俄罗斯寡头 Yevgeniy Prigozhin 创立的其他实体的活动。操盘人员还要求我们的模型翻译或解释有关 Politology 和瓦格纳的公开报道，这类请求远多于对其他源自俄罗斯的网络的询问。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "This operation was unusual in two ways. First, it appears to have successfully co-opted individuals in Latin America to work for the SRC. The Russian operators’ reports on the SRC referred to decisions over issues such as pay scales, hiring, and firing, suggesting that they controlled the entity, rather than cooperating with it. The available evidence indicates that the SRC’s employees in Latin America were not aware that they were working for a Russian group. Unlike another Russia-linked “think tank” that we recently exposed, the SRC appears to have produced a majority of original content via its co-opted staff. This stands out as the most complex attempt to run a front identity that we’ve disrupted over the past two and a half years.",
+      "en": "This operation was unusual in two ways. First, it appears to have successfully co-opted individuals in Latin America to work for the SRC. The Russian operators’ reports on the SRC referred to decisions over issues such as pay scales, hiring, and firing, suggesting that they controlled the entity, rather than cooperating with it. The available evidence indicates that the SRC’s employees in Latin America were not aware that they were working for a Russian group. Unlike another Russia-linked “think tank” that we recently exposed, the SRC appears to have produced a majority of original content via its co-opted staff. This stands out as the most complex attempt to run a front identity that we’ve disrupted over the past two and a half years.",
+      "zh": "这场行动有两点不同寻常。首先，它似乎成功利用了拉丁美洲的人员，让他们为 SRC 工作。俄罗斯操盘人员关于 SRC 的报告提到了薪酬标准、招聘和解雇等决策，表明他们控制着该实体，而不是与其合作。现有证据表明，SRC 在拉丁美洲的员工并不知道自己在为一个俄罗斯团体工作。与我们近期揭露的另一家与俄罗斯有关联的“智库”不同，SRC 似乎通过被其利用的员工产出了以原创为主的内容。这是我们过去两年半阻断的行动中，运营掩护身份最为复杂的一次尝试。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "Second, some open-source evidence suggests that Dark Clark’s fakes spread widely enough to provoke fact checks and official denials, indicating a degree of penetration which goes beyond any of the influence operations we disrupted over the past two years. One fake that the operation claimed to have planted in Peru even fed into public tensions between Ukraine and Poland.",
+      "en": "Second, some open-source evidence suggests that Dark Clark’s fakes spread widely enough to provoke fact checks and official denials, indicating a degree of penetration which goes beyond any of the influence operations we disrupted over the past two years. One fake that the operation claimed to have planted in Peru even fed into public tensions between Ukraine and Poland.",
+      "zh": "其次，一些公开来源证据表明，“Dark Clark”的虚假内容传播范围已大到引发事实核查和官方辟谣。这显示，其渗透程度超过了我们过去两年阻断的任何一场影响行动。该行动声称在秘鲁投放的一则虚假内容，甚至加剧了乌克兰与波兰之间的公开紧张关系。"
+    },
+    {
+      "id": "p17",
+      "kind": "heading",
+      "text": "Internal reporting",
+      "en": "Internal reporting",
+      "zh": "内部报告"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "The main way the operators used ChatGPT was to draft and update internal reports to an unknown superior. These regular reports described efforts to conduct covert influence campaigns across Latin America. They encompassed three main workstreams: efforts to denigrate Ukraine and undermine recruitment for the Ukrainian Armed Forces; efforts to interfere in the domestic politics of certain countries, especially Bolivia and Argentina; and management of the SRC. In the majority of cases, we did not observe the threat actors using our models to create content for the campaigns, only to report on them (the few exceptions are described below).",
+      "en": "The main way the operators used ChatGPT was to draft and update internal reports to an unknown superior. These regular reports described efforts to conduct covert influence campaigns across Latin America. They encompassed three main workstreams: efforts to denigrate Ukraine and undermine recruitment for the Ukrainian Armed Forces; efforts to interfere in the domestic politics of certain countries, especially Bolivia and Argentina; and management of the SRC. In the majority of cases, we did not observe the threat actors using our models to create content for the campaigns, only to report on them (the few exceptions are described below).",
+      "zh": "操盘人员使用 ChatGPT 的主要方式，是起草和更新提交给某位身份不明的上级的内部报告。这些定期报告描述了在拉丁美洲各地开展隐蔽影响行动的工作。报告涵盖三项主要工作：诋毁乌克兰并破坏乌克兰武装部队的征募；干预某些国家的国内政治，尤其是玻利维亚和阿根廷；以及管理 SRC。在大多数情况下，我们并未观察到威胁行为者使用我们的模型为这些行动创作内容，而只是用模型撰写相关报告（少数例外见下文）。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "The reports were rich in tactical detail, shining a light on how the operation sought to undermine Ukraine and some national leaders, notably the presidents of Argentina, Bolivia, and Ecuador. Some described efforts to trick locals into carrying out activities that the operators could weaponize; others described fake “leaks” that the operators claimed to have spread.",
+      "en": "The reports were rich in tactical detail, shining a light on how the operation sought to undermine Ukraine and some national leaders, notably the presidents of Argentina, Bolivia, and Ecuador. Some described efforts to trick locals into carrying out activities that the operators could weaponize; others described fake “leaks” that the operators claimed to have spread.",
+      "zh": "这些报告包含丰富的策略细节，揭示了该行动如何试图打击乌克兰及一些国家领导人，尤其是阿根廷、玻利维亚和厄瓜多尔的总统。有些报告描述了如何诱骗当地人开展可被操盘人员利用的活动；另一些则描述了操盘人员声称已传播的虚假“泄露”材料。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "In two cases, the evidence ties the operators to public reporting on “Politology.” The operators reported that, in 2024, they ran two campaigns targeting Argentina’s President Javier Milei. First, they said they spread a false report that Milei had bought Cartier jeweled collars for his dogs. Second, they claimed that they paid local actors to post anti-Milei graffiti in Buenos Aires. Based on leaked documents, both these claims have been publicly attributed to “Politology” and “La Compania.”",
+      "en": "In two cases, the evidence ties the operators to public reporting on “Politology.” The operators reported that, in 2024, they ran two campaigns targeting Argentina’s President Javier Milei. First, they said they spread a false report that Milei had bought Cartier jeweled collars for his dogs. Second, they claimed that they paid local actors to post anti-Milei graffiti in Buenos Aires. Based on leaked documents, both these claims have been publicly attributed to “Politology” and “La Compania.”",
+      "zh": "在两起案例中，证据将操盘人员与关于“Politology”的公开报道联系起来。操盘人员报告称，他们在 2024 年针对阿根廷总统 Javier Milei 开展了两场活动。第一，他们说自己传播了一则虚假报道，称 Milei 为他的狗购买了卡地亚珠宝项圈。第二，他们声称付钱给当地人员，让其在布宜诺斯艾利斯涂写反对 Milei 的涂鸦。根据泄露的文件，这两项活动均已被公开归因于“Politology”和“La Compania”。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "Many more fakes have not been previously tied to Russian IO. For example, the operators claimed that in May 2026, they created a fake email address purporting to come from the Regional Directorate of Education in Lima, Peru. They used this to instruct schools in the district to hold events dedicated to Ukraine on the national Day of Cultural and Linguistic Diversity (May 21). The emails included explicit instructions to reference, among others, controversial twentieth-century Ukrainian nationalist Stepan Bandera, who is seen by some Ukrainians as an independence figure, but associated in Russia and Poland with fascism, wartime collaboration, and atrocities. According to the operators, some schools replied to the fake email address, confirming that they had held such events and even providing pictures.",
+      "en": "Many more fakes have not been previously tied to Russian IO. For example, the operators claimed that in May 2026, they created a fake email address purporting to come from the Regional Directorate of Education in Lima, Peru. They used this to instruct schools in the district to hold events dedicated to Ukraine on the national Day of Cultural and Linguistic Diversity (May 21). The emails included explicit instructions to reference, among others, controversial twentieth-century Ukrainian nationalist Stepan Bandera, who is seen by some Ukrainians as an independence figure, but associated in Russia and Poland with fascism, wartime collaboration, and atrocities. According to the operators, some schools replied to the fake email address, confirming that they had held such events and even providing pictures.",
+      "zh": "还有更多虚假内容此前未被发现与俄罗斯的影响行动有关。例如，操盘人员声称，他们于 2026 年 5 月创建了一个假冒秘鲁利马地区教育局的电子邮件地址。他们用这个地址通知辖区学校，在全国文化与语言多样性日（5 月 21 日）举办以乌克兰为主题的活动。邮件明确要求提及一些人物，其中包括颇具争议的二十世纪乌克兰民族主义者 Stepan Bandera。一些乌克兰人视其为争取独立的人物，但在俄罗斯和波兰，人们将他与法西斯主义、战时通敌及暴行联系在一起。据操盘人员称，一些学校回复了这个虚假邮箱，确认已举办此类活动，甚至还提供了照片。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "The operators then claimed to have planted stories about the events in the media in both Peru and Poland, alongside allegations that Ukraine was “exporting” ultra-nationalist ideologies, triggering outrage. Open-source searches identified stories that matched this claim in the Peruvian and Polish press, and an English-language publication in Hungary (some of the articles have since been deleted). Some articles included a reaction from a Polish Member of the European Parliament proposing that people who showed “anti-Polishness” be declared persona non grata in Poland. The Russian fake thus both fed on, and fed into, historical tensions between Ukrainians and Poles.",
+      "en": "The operators then claimed to have planted stories about the events in the media in both Peru and Poland, alongside allegations that Ukraine was “exporting” ultra-nationalist ideologies, triggering outrage. Open-source searches identified stories that matched this claim in the Peruvian and Polish press, and an English-language publication in Hungary (some of the articles have since been deleted). Some articles included a reaction from a Polish Member of the European Parliament proposing that people who showed “anti-Polishness” be declared persona non grata in Poland. The Russian fake thus both fed on, and fed into, historical tensions between Ukrainians and Poles.",
+      "zh": "随后，操盘人员声称，他们安排秘鲁和波兰的媒体刊登了有关这些活动的报道，同时指控乌克兰正在“输出”极端民族主义思想，引发了愤怒。通过公开来源检索，我们在秘鲁和波兰的媒体，以及匈牙利的一家英语刊物中，找到了与这一说法相符的报道（其中部分文章后来已被删除）。一些文章提到了一名波兰籍欧洲议会议员的回应，他提议将表现出“反波兰倾向”的人列为波兰的不受欢迎人物。因此，这则来自俄罗斯的虚假内容既利用了乌克兰人与波兰人之间的历史矛盾，也进一步加剧了这些矛盾。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "Similarly, in June, the operators claimed they used a different fake email address to trick schools in Ecuador into holding a ceremony pledging allegiance to President Daniel Noboa and to Erik Prince, former head of private military contractor Blackwater. The operators claimed that the incident provoked outrage in Ecuador and put pressure on the government to deny the fake, thus amplifying it to a nationwide audience. Again, open-source research identified media coverage in the Ecuadorian press that closely resembled this claim, and even a detailed rebuttal by Ecuador’s Minister for Education.",
+      "en": "Similarly, in June, the operators claimed they used a different fake email address to trick schools in Ecuador into holding a ceremony pledging allegiance to President Daniel Noboa and to Erik Prince, former head of private military contractor Blackwater. The operators claimed that the incident provoked outrage in Ecuador and put pressure on the government to deny the fake, thus amplifying it to a nationwide audience. Again, open-source research identified media coverage in the Ecuadorian press that closely resembled this claim, and even a detailed rebuttal by Ecuador’s Minister for Education.",
+      "zh": "类似地，6 月，操盘人员声称，他们用另一个虚假邮箱诱骗厄瓜多尔的学校举行仪式，宣誓效忠总统 Daniel Noboa 和私人军事承包商黑水公司 (Blackwater) 的前负责人 Erik Prince。操盘人员声称，此事在厄瓜多尔引发愤怒，迫使政府出面辟谣，从而让这则虚假内容传播到了全国受众面前。同样，通过公开来源研究，我们在厄瓜多尔新闻界找到了与这一说法高度相似的媒体报道，甚至还有厄瓜多尔教育部长的详细辟谣。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "The operators used a range of techniques to underpin their false stories. According to their internal reporting, they spread two different fakes targeting Ecuador in March. One used fake audio attributed to Ukraine’s consul in Ecuador, in which he was alleged to have made disparaging comments about Ecuadorians. Our open-source investigation identified a post on TikTok which matched this precise claim; it appeared to receive only limited engagement. The other described a fake video clip spread on X and TikTok under the logo of a genuine news channel, alleging that Noboa’s government was recruiting young men to fight in Ukraine. Fact checkers in Ecuador described a campaign that matched this description in early April.",
+      "en": "The operators used a range of techniques to underpin their false stories. According to their internal reporting, they spread two different fakes targeting Ecuador in March. One used fake audio attributed to Ukraine’s consul in Ecuador, in which he was alleged to have made disparaging comments about Ecuadorians. Our open-source investigation identified a post on TikTok which matched this precise claim; it appeared to receive only limited engagement. The other described a fake video clip spread on X and TikTok under the logo of a genuine news channel, alleging that Noboa’s government was recruiting young men to fight in Ukraine. Fact checkers in Ecuador described a campaign that matched this description in early April.",
+      "zh": "操盘人员运用了一系列手段，为他们的虚假叙事提供支撑。根据其内部报告，他们在 3 月传播了两则针对厄瓜多尔的不同虚假内容。其中一则使用了假冒乌克兰驻厄瓜多尔领事的伪造音频，声称他发表了贬损厄瓜多尔人的言论。我们的公开来源调查发现，TikTok 上有一条帖子与这一说法完全吻合；该帖获得的互动似乎很有限。另一则描述了一段在 X 和 TikTok 上传播的伪造视频，视频冒用一家真实新闻频道的标志，声称 Noboa 政府正在招募年轻男性赴乌克兰参战。厄瓜多尔的事实核查人员在 4 月初描述了一场与此相符的活动。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "TikTok video posted on April 8, 2026, with the faked audio claimed by this operation and attributed to the Ukrainian Consul.",
+      "en": "TikTok video posted on April 8, 2026, with the faked audio claimed by this operation and attributed to the Ukrainian Consul.",
+      "zh": "2026 年 4 月 8 日发布的 TikTok 视频，包含该行动声称制作的伪造音频，冒充乌克兰领事的讲话。"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "Another internal report described a fake they spread in Bolivia in late May, at the height of anti-government protests. The operators described the goal of this campaign explicitly as to exacerbate the crisis around the protests. The campaign featured a fake audio recording of a worker at the state water company, EPSAS, saying that the government was going to shut off water to the administrative capital, La Paz, and declare a state of emergency. Our open-source research identified a debunk of the matching claim and an official denial from EPSAS.",
+      "en": "Another internal report described a fake they spread in Bolivia in late May, at the height of anti-government protests. The operators described the goal of this campaign explicitly as to exacerbate the crisis around the protests. The campaign featured a fake audio recording of a worker at the state water company, EPSAS, saying that the government was going to shut off water to the administrative capital, La Paz, and declare a state of emergency. Our open-source research identified a debunk of the matching claim and an official denial from EPSAS.",
+      "zh": "另一份内部报告描述了他们在 5 月下旬反政府抗议最激烈时，在玻利维亚传播的一则虚假内容。操盘人员明确表示，这场活动的目标是加剧抗议引发的危机。该活动使用了一段伪造录音，冒充国有供水公司 EPSAS 的员工，声称政府将切断行政首都拉巴斯的供水，并宣布进入紧急状态。我们的公开来源研究找到了一篇针对相同说法的辟谣文章，以及 EPSAS 发布的官方否认声明。"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "Other internal reports included fakes that we were unable to corroborate from open sources, possibly because they had already been taken down, or failed to spread. For example, the operators claimed to have spread a story in January alleging that a Brazilian influencer and model had been trafficked into Ukraine by representatives of the Ukrainian Embassy, and had been killed in Kyiv. In June, they claimed to have spread another fake audio clip in Bolivia, this time purporting to come from an employee of the Central Bank of Bolivia, warning that the Bank was about to limit cash withdrawals. They also claimed to have spread a faked letter from the country’s hydrocarbons agency, warning of restrictions on fuel sales to private cars.",
+      "en": "Other internal reports included fakes that we were unable to corroborate from open sources, possibly because they had already been taken down, or failed to spread. For example, the operators claimed to have spread a story in January alleging that a Brazilian influencer and model had been trafficked into Ukraine by representatives of the Ukrainian Embassy, and had been killed in Kyiv. In June, they claimed to have spread another fake audio clip in Bolivia, this time purporting to come from an employee of the Central Bank of Bolivia, warning that the Bank was about to limit cash withdrawals. They also claimed to have spread a faked letter from the country’s hydrocarbons agency, warning of restrictions on fuel sales to private cars.",
+      "zh": "其他内部报告还提到了一些虚假内容，但我们无法通过公开来源核实，可能是因为这些内容已被下架，或未能传播开来。例如，操盘人员声称，他们在 1 月传播了一则消息，称一名巴西网红兼模特遭乌克兰大使馆代表贩运至乌克兰，并在基辅遇害。6 月，他们声称又在玻利维亚传播了一段伪造音频，这次冒充玻利维亚中央银行员工，警告该行即将限制现金提取。他们还声称传播了一封冒用该国油气管理机构名义的伪造信函，警告将限制向私家车出售燃料。"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "In other reports, the operators asked our models to help identify incidents in the target countries that they could take credit for, even if they had not been involved. For example, in Argentina, the operators claimed that the Argentinian Foreign Minister had quoted their operation in a United Nations committee meeting on the Falkland / Malvinas islands. The operators took credit for seeding the arguments that the principle of self-determination does not apply to the islands, and that the UK maintains a disproportionate military presence there. In fact, both arguments have been part of Argentina’s official position for many years. Similarly, in June, Brazilian media reported on the case of a Brazilian citizen who had travelled to Ukraine to join the army, been captured by Russian forces, and then made a televised statement claiming that he had been tricked into fighting. The ChatGPT operators tried to claim that this report reproduced their operation’s messaging; in fact, it quoted the captive’s own video. This suggests an attempt by the operators to run an influence operation targeting their own employers, rather than any external audience.",
+      "en": "In other reports, the operators asked our models to help identify incidents in the target countries that they could take credit for, even if they had not been involved. For example, in Argentina, the operators claimed that the Argentinian Foreign Minister had quoted their operation in a United Nations committee meeting on the Falkland / Malvinas islands. The operators took credit for seeding the arguments that the principle of self-determination does not apply to the islands, and that the UK maintains a disproportionate military presence there. In fact, both arguments have been part of Argentina’s official position for many years. Similarly, in June, Brazilian media reported on the case of a Brazilian citizen who had travelled to Ukraine to join the army, been captured by Russian forces, and then made a televised statement claiming that he had been tricked into fighting. The ChatGPT operators tried to claim that this report reproduced their operation’s messaging; in fact, it quoted the captive’s own video. This suggests an attempt by the operators to run an influence operation targeting their own employers, rather than any external audience.",
+      "zh": "在其他报告中，操盘人员要求我们的模型帮助寻找目标国家发生的事件，好让他们即使未曾参与，也能将其算作自己的功劳。例如，在阿根廷，操盘人员声称，阿根廷外长在联合国一次有关福克兰群岛／马尔维纳斯群岛的委员会会议上，引用了他们行动中的内容。操盘人员将以下论点的传播归功于自己：自决原则不适用于这些岛屿，且英国在当地维持了不成比例的军事存在。事实上，这两个论点长期以来一直是阿根廷官方立场的一部分。类似地，6 月，巴西媒体报道了一名巴西公民的经历：他前往乌克兰参军，被俄军俘虏，随后在电视声明中声称自己是被骗去参战的。这些使用 ChatGPT 的操盘人员试图声称，该报道转述了他们行动中的宣传信息；事实上，报道引用的是这名俘虏本人的视频。这表明，操盘人员试图开展一场针对自己雇主而非外部受众的影响行动。"
+    },
+    {
+      "id": "p29",
+      "kind": "heading",
+      "text": "The “research platform”",
+      "en": "The “research platform”",
+      "zh": "“研究平台”"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "Some of the operators’ reports referred to a self-styled “research platform” called the Social Research Center (in Russian, Центр социологических исследований). According to the SRC’s website, it focuses on the Indian diaspora in Latin America, and relations between India and the countries of the region.",
+      "en": "Some of the operators’ reports referred to a self-styled “research platform” called the Social Research Center (in Russian, Центр социологических исследований). According to the SRC’s website, it focuses on the Indian diaspora in Latin America, and relations between India and the countries of the region.",
+      "zh": "操盘人员的一些报告提到了一个自称“研究平台”的机构，名为社会研究中心（Social Research Center，俄语名称为 Центр социологических исследований）。社会研究中心 (SRC) 的网站称，该中心关注拉丁美洲的印度侨民，以及印度与该地区各国之间的关系。"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "The internal reports suggested that the operators controlled the think tank, rather than merely working with it. They referenced, for example, hiring and firing decisions, pay scales, staffing plans, and ongoing research projects. Crucially, they also stated that the operators had created a fake persona, named “Mia Clark,” to run the operation’s social media activity and engage with staff on the ground in Latin America. The available evidence suggests that these on-the-ground employees had no idea that they were working for a Russian operation, and conducted research tasks in good faith. This use of unwitting cutouts strongly resembles the earlier Russian operation also linked to Prigozhin’s world, “PeaceData,” which Meta exposed in 2020.",
+      "en": "The internal reports suggested that the operators controlled the think tank, rather than merely working with it. They referenced, for example, hiring and firing decisions, pay scales, staffing plans, and ongoing research projects. Crucially, they also stated that the operators had created a fake persona, named “Mia Clark,” to run the operation’s social media activity and engage with staff on the ground in Latin America. The available evidence suggests that these on-the-ground employees had no idea that they were working for a Russian operation, and conducted research tasks in good faith. This use of unwitting cutouts strongly resembles the earlier Russian operation also linked to Prigozhin’s world, “PeaceData,” which Meta exposed in 2020.",
+      "zh": "内部报告表明，操盘人员控制着这家智库，而非仅仅与其合作。例如，报告提到了招聘和解雇决定、薪酬标准、人员配置计划，以及正在进行的研究项目。关键在于，报告还指出，操盘人员创建了一个名为“Mia Clark”的虚构身份，用来管理该行动的社交媒体活动，并与拉丁美洲当地员工沟通。现有证据表明，这些当地员工并不知道自己在为一场俄罗斯行动工作，而是真诚地执行研究任务。这种利用不知情人员充当中间人的做法，与早先同样关联 Prigozhin 势力的一场俄罗斯行动“PeaceData”十分相似；Meta 于 2020 年揭露了该行动。"
+    },
+    {
+      "id": "p32",
+      "kind": "paragraph",
+      "text": "To judge by the Russian operators’ reports, their staff on the ground in Latin America conducted interviews with experts and commentators across the region, and then drafted research papers based on their findings. The topics ranged from a broad analysis of public opinion on the BRICS group, to a detailed comparison of the Brazilian economy under presidents Jair Bolsonaro and Luiz Inácio Lula da Silva. Sometimes, the Russian operators drafted status reports on the research projects before they had been published, indicating close engagement in the production process. We identified well over 60 articles on the SRC website, the great majority of which appeared to be original compositions. This sets Dark Clark apart from the Russia-origin operation we exposed recently, which also ran a think tank as a front, but plagiarized most of its content; it suggests an intention to build a more durable front entity, with contacts throughout Latin America.",
+      "en": "To judge by the Russian operators’ reports, their staff on the ground in Latin America conducted interviews with experts and commentators across the region, and then drafted research papers based on their findings. The topics ranged from a broad analysis of public opinion on the BRICS group, to a detailed comparison of the Brazilian economy under presidents Jair Bolsonaro and Luiz Inácio Lula da Silva. Sometimes, the Russian operators drafted status reports on the research projects before they had been published, indicating close engagement in the production process. We identified well over 60 articles on the SRC website, the great majority of which appeared to be original compositions. This sets Dark Clark apart from the Russia-origin operation we exposed recently, which also ran a think tank as a front, but plagiarized most of its content; it suggests an intention to build a more durable front entity, with contacts throughout Latin America.",
+      "zh": "从俄罗斯操盘人员的报告来看，他们在拉丁美洲的当地员工采访了该地区各地的专家和评论人士，随后根据调查结果撰写研究论文。研究主题既有对金砖国家集团相关民意的广泛分析，也有对 Jair Bolsonaro 和 Luiz Inácio Lula da Silva 两任总统执政期间巴西经济的详细比较。有时，在研究成果发表之前，俄罗斯操盘人员就已起草相关项目的进展报告，表明他们深度参与了产出过程。我们在 SRC 网站上发现了远超 60 篇文章，其中绝大多数似乎为原创。这使“Dark Clark”有别于我们近期揭露的另一场源自俄罗斯的行动。后者也以智库作掩护，但大部分内容是抄袭的；相比之下，“Dark Clark”似乎有意打造一个更能长期运作的掩护机构，并建立遍布拉丁美洲的人脉。"
+    },
+    {
+      "id": "p33",
+      "kind": "paragraph",
+      "text": "To promote the SRC’s work, the Russian operators claimed that they had tried to create a network of social media assets. According to their reports, this social media activity ran into problems when operators in different parts of the world tried to access the same accounts, leading to account restrictions. Traces of this can be seen in the open-source record: for example, the transparency settings of the main SRC account on X showed a German location (possibly as a result of VPN use) but a connection via the Russian Federation App Store, while the transparency settings of one of its Instagram accounts showed an admin location in Venezuela. None of the three SRC-branded Facebook accounts that we identified had enough followers to trigger admin location settings.",
+      "en": "To promote the SRC’s work, the Russian operators claimed that they had tried to create a network of social media assets. According to their reports, this social media activity ran into problems when operators in different parts of the world tried to access the same accounts, leading to account restrictions. Traces of this can be seen in the open-source record: for example, the transparency settings of the main SRC account on X showed a German location (possibly as a result of VPN use) but a connection via the Russian Federation App Store, while the transparency settings of one of its Instagram accounts showed an admin location in Venezuela. None of the three SRC-branded Facebook accounts that we identified had enough followers to trigger admin location settings.",
+      "zh": "为推广 SRC 的工作，俄罗斯操盘人员声称，他们曾试图建立一个社交媒体账号网络。根据其报告，这些社交媒体活动遇到了问题：身处世界不同地区的操盘人员尝试登录同一批账号，导致账号受到限制。公开来源记录中也能找到相应痕迹：例如，SRC 的 X 主账号透明度信息显示所在地为德国（可能因为使用了 VPN），但连接方式是俄罗斯联邦 App Store；其一个 Instagram 账号的透明度信息则显示管理员位于委内瑞拉。我们发现的三个以 SRC 名义运营的 Facebook 账号，关注者数量均不足以触发管理员所在地信息的显示。"
+    },
+    {
+      "id": "p34",
+      "kind": "paragraph",
+      "text": "Left, X account linked to the Social Research Center. Note the transparency setting that shows the account connected via the Russian Federation app store. Right, SRC Instagram account: note the Venezuela location.",
+      "en": "Left, X account linked to the Social Research Center. Note the transparency setting that shows the account connected via the Russian Federation app store. Right, SRC Instagram account: note the Venezuela location.",
+      "zh": "左图为与社会研究中心相关联的 X 账号。请注意，透明度信息显示该账号通过俄罗斯联邦 App Store 连接。右图为 SRC 的 Instagram 账号，请注意其所在地为委内瑞拉。"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "The operators reported particular problems on LinkedIn, where they said they created an explicitly fake account to represent SRC, but then struggled to build a network for it. According to their reports, the solution was to create more fake accounts to follow the first one and make it look more convincing. As of August 17, a LinkedIn account with the same Social Research Center branding counted 961 followers and claimed 200-500 staff, but only listed two employees.",
+      "en": "The operators reported particular problems on LinkedIn, where they said they created an explicitly fake account to represent SRC, but then struggled to build a network for it. According to their reports, the solution was to create more fake accounts to follow the first one and make it look more convincing. As of August 17, a LinkedIn account with the same Social Research Center branding counted 961 followers and claimed 200-500 staff, but only listed two employees.",
+      "zh": "操盘人员报告称，在 LinkedIn 上遇到的问题尤其突出。他们表示，自己为代表 SRC 创建了一个明确属于虚假的账号，但之后难以为其建立人脉网络。根据其报告，解决办法是创建更多虚假账号来关注第一个账号，使其看起来更可信。截至 8 月 17 日，一个使用相同社会研究中心品牌标识的 LinkedIn 账号有 961 名关注者，声称拥有 200-500 名员工，但仅列出了两名员工。"
+    },
+    {
+      "id": "p36",
+      "kind": "heading",
+      "text": "Creating fakes",
+      "en": "Creating fakes",
+      "zh": "制作虚假内容"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "Occasionally, as well as using AI to update reports, the operators did ask our model to help design and create texts that they could use in their operations: for example, asking for help in making sure that their fakes used the correct accent, vocabulary, and institutional style for different countries. This was a relatively small proportion of the overall workload, perhaps because the operation appears to have included at least one native Spanish speaker from Latin America, and therefore had less need of AI language support.",
+      "en": "Occasionally, as well as using AI to update reports, the operators did ask our model to help design and create texts that they could use in their operations: for example, asking for help in making sure that their fakes used the correct accent, vocabulary, and institutional style for different countries. This was a relatively small proportion of the overall workload, perhaps because the operation appears to have included at least one native Spanish speaker from Latin America, and therefore had less need of AI language support.",
+      "zh": "除了用 AI 更新报告，操盘人员偶尔也会要求我们的模型帮助构思和撰写可用于行动的文本，例如帮助确保虚假内容符合不同国家的口音、词汇用法和机构文风。这在整体工作量中占比较小，或许是因为该行动似乎至少有一名来自拉丁美洲、以西班牙语为母语的成员，因此对 AI 语言支持的需求较低。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "For example, on one occasion, one of the Russian-speaking operators asked the model to help draft, in Russian, a letter which would implicate Ukraine’s honorary consul to Panama in corruption. The Spanish-speaking operator then asked the model to translate the letter into Spanish, and to generate an audio script to accompany it. A photo that matched the text of the letter, with a voiceover that matched the operator’s script, was posted on TikTok by an account that purported to be a news outlet, but with the logo of Panama’s TVN Noticias. The TikTok channel only had one follower, and stopped posting after it planted this fake.",
+      "en": "For example, on one occasion, one of the Russian-speaking operators asked the model to help draft, in Russian, a letter which would implicate Ukraine’s honorary consul to Panama in corruption. The Spanish-speaking operator then asked the model to translate the letter into Spanish, and to generate an audio script to accompany it. A photo that matched the text of the letter, with a voiceover that matched the operator’s script, was posted on TikTok by an account that purported to be a news outlet, but with the logo of Panama’s TVN Noticias. The TikTok channel only had one follower, and stopped posting after it planted this fake.",
+      "zh": "例如，有一次，一名使用俄语的操盘人员要求模型协助用俄语起草一封信，意图将乌克兰驻巴拿马名誉领事牵涉进腐败事件。随后，使用西班牙语的操盘人员要求模型将信函译成西班牙语，并生成配套的音频脚本。一个自称新闻媒体的 TikTok 账号随后发布了一张照片，照片中的文字与这封信的文本相符，配音也与操盘人员的脚本相符，但使用的是巴拿马 TVN Noticias 的标志。该 TikTok 频道只有一名关注者，投放这则虚假内容后便停止发帖。"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "TikTok post showing the letter whose text was generated by this operation, with a voiceover script likewise generated by the operation.",
+      "en": "TikTok post showing the letter whose text was generated by this operation, with a voiceover script likewise generated by the operation.",
+      "zh": "TikTok 帖子展示了该行动生成文本的信函，配套旁白脚本也由该行动生成。"
+    },
+    {
+      "id": "p40",
+      "kind": "paragraph",
+      "text": "On another occasion, the Spanish-speaking operator in Russia gave the model a Russian-language script that claimed Noboa had insulted poor people in Ecuador, and asked the model to translate it into Ecuadorian Spanish. On a third, in March, the same user asked the model to proofread a draft Spanish-language contract between a company called “International Security Solutions FZE” and an individual in Ecuador, purporting to provide infrastructure services in Ukraine. The user’s questions focused on how to improve the language and layout, including asking which words should be in bold.",
+      "en": "On another occasion, the Spanish-speaking operator in Russia gave the model a Russian-language script that claimed Noboa had insulted poor people in Ecuador, and asked the model to translate it into Ecuadorian Spanish. On a third, in March, the same user asked the model to proofread a draft Spanish-language contract between a company called “International Security Solutions FZE” and an individual in Ecuador, purporting to provide infrastructure services in Ukraine. The user’s questions focused on how to improve the language and layout, including asking which words should be in bold.",
+      "zh": "另一次，位于俄罗斯、使用西班牙语的操盘人员向模型提供了一份俄语脚本，声称 Noboa 侮辱了厄瓜多尔穷人，并要求模型将其译成厄瓜多尔西班牙语。第三次发生在 3 月，同一用户要求模型校对一份西班牙语合同草稿。合同双方是一家名为“International Security Solutions FZE”的公司和一名厄瓜多尔个人，声称要在乌克兰提供基础设施服务。该用户的问题集中在如何改进语言和版式，包括询问哪些词应该加粗。"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "The user’s prompts about the contract finished once the wording was finalized. Open-source research, however, shows that a picture of the “contract” was subsequently circulated on social media. It was used to bolster the claim that Noboa’s government had worked with a front company to trick Ecuadorians into being recruited into the Ukrainian army. The fake spread widely enough to trigger a fact check in early April: the fact checkers concluded that the company “does not appear in the registry of Ecuador’s Superintendency of Companies, Securities, and Insurance”.",
+      "en": "The user’s prompts about the contract finished once the wording was finalized. Open-source research, however, shows that a picture of the “contract” was subsequently circulated on social media. It was used to bolster the claim that Noboa’s government had worked with a front company to trick Ecuadorians into being recruited into the Ukrainian army. The fake spread widely enough to trigger a fact check in early April: the fact checkers concluded that the company “does not appear in the registry of Ecuador’s Superintendency of Companies, Securities, and Insurance”.",
+      "zh": "合同措辞定稿后，该用户便不再提交相关提示。然而，公开来源研究显示，这份“合同”的图片随后在社交媒体上传播。它被用来为一种说法提供佐证：Noboa 政府与一家掩护公司合作，诱骗厄瓜多尔人加入乌克兰军队。这则虚假内容传播范围已大到在 4 月初引发一次事实核查。核查人员认定，该公司“未出现在厄瓜多尔公司、证券和保险监管局的登记名册中”。"
+    },
+    {
+      "id": "p42",
+      "kind": "heading",
+      "text": "Impact",
+      "en": "Impact",
+      "zh": "影响"
+    },
+    {
+      "id": "p43",
+      "kind": "paragraph",
+      "text": "The impact of this operation requires particularly careful assessment. As noted above, one of the operators’ main approaches was to take credit for activity which had nothing to do with their operation. As such, their own claims of impact in their internal reporting cannot be taken at face value. Similarly, some of the fake stories that they claimed to have planted did not show up in open-source research, potentially because they were spread in non-public channels, already taken down, or not actually posted.",
+      "en": "The impact of this operation requires particularly careful assessment. As noted above, one of the operators’ main approaches was to take credit for activity which had nothing to do with their operation. As such, their own claims of impact in their internal reporting cannot be taken at face value. Similarly, some of the fake stories that they claimed to have planted did not show up in open-source research, potentially because they were spread in non-public channels, already taken down, or not actually posted.",
+      "zh": "对这场行动的影响需要格外谨慎地评估。如上所述，操盘人员的一项主要做法，是将与自身行动无关的活动归功于自己。因此，不能轻信他们在内部报告中对自身影响力的说法。同样，他们声称投放的一些虚假消息未出现在公开来源研究结果中，可能是因为这些消息通过非公开渠道传播、已经下架，或根本没有发布。"
+    },
+    {
+      "id": "p44",
+      "kind": "paragraph",
+      "text": "However, open-source evidence allowed us to corroborate some of the claims that they made. Some of the fakes that the operation claimed to have spread were subsequently reported by fact checkers and debunked by governments, suggesting that they had spread widely enough to merit a response. In other cases, we were able to identify content online that closely matched the content generated by this operation. Most notably, the operation’s claim to have tricked a Peruvian school into holding an event that portrayed Bandera was subsequently reported on in both Latin America and Europe, and appears to have led to comment from at least one Polish MEP.",
+      "en": "However, open-source evidence allowed us to corroborate some of the claims that they made. Some of the fakes that the operation claimed to have spread were subsequently reported by fact checkers and debunked by governments, suggesting that they had spread widely enough to merit a response. In other cases, we were able to identify content online that closely matched the content generated by this operation. Most notably, the operation’s claim to have tricked a Peruvian school into holding an event that portrayed Bandera was subsequently reported on in both Latin America and Europe, and appears to have led to comment from at least one Polish MEP.",
+      "zh": "不过，公开来源证据仍让我们核实了他们的部分说法。该行动声称传播的一些虚假内容，后来被事实核查人员报道，并遭政府辟谣，表明其传播范围已大到值得作出回应。在其他情况下，我们在网上找到了与该行动生成的内容高度吻合的材料。最值得注意的是，该行动声称曾诱骗一所秘鲁学校举办展示 Bandera 形象的活动；这一说法随后在拉丁美洲和欧洲均有报道，并且似乎促使至少一名波兰籍欧洲议会议员发表评论。"
+    },
+    {
+      "id": "p45",
+      "kind": "paragraph",
+      "text": "Using the IO Breakout Scale, which rates IO on a scale of 1 (lowest) to 6 (highest), we would assess this operation as belonging in Category 5, with evidence that suggests that it led to public comment by politicians in a number of countries. This is the first Category 5 operation we’ve disrupted since we began our reporting.",
+      "en": "Using the IO Breakout Scale, which rates IO on a scale of 1 (lowest) to 6 (highest), we would assess this operation as belonging in Category 5, with evidence that suggests that it led to public comment by politicians in a number of countries. This is the first Category 5 operation we’ve disrupted since we began our reporting.",
+      "zh": "根据影响行动破圈量表 (Breakout Scale)，我们将这场行动评为第 5 级。该量表从 1 级（最低）到 6 级（最高）评级。现有证据表明，该行动促使多个国家的政治人物公开发表评论。这是我们自开始发布报告以来阻断的首场第 5 级行动。"
+    },
+    {
+      "id": "p46",
+      "kind": "heading",
+      "text": "Iran: Operation “Bogus Bylines”",
+      "en": "Iran: Operation “Bogus Bylines”",
+      "zh": "伊朗：“虚假署名” (Bogus Bylines) 行动"
+    },
+    {
+      "id": "p47",
+      "kind": "paragraph",
+      "text": "Iran-origin operation seeding long-form articles under deceptive bylines in online news outlets.",
+      "en": "Iran-origin operation seeding long-form articles under deceptive bylines in online news outlets.",
+      "zh": "源自伊朗的行动，以虚假署名向网络新闻媒体投放长篇文章。"
+    },
+    {
+      "id": "p48",
+      "kind": "heading",
+      "text": "Actor",
+      "en": "Actor",
+      "zh": "行为主体"
+    },
+    {
+      "id": "p49",
+      "kind": "paragraph",
+      "text": "We banned a cluster of ChatGPT accounts that originated in Iran. They prompted in Persian, and generated content in Persian and English. The actors obscured their location by using VPNs to access ChatGPT.",
+      "en": "We banned a cluster of ChatGPT accounts that originated in Iran. They prompted in Persian, and generated content in Persian and English. The actors obscured their location by using VPNs to access ChatGPT.",
+      "zh": "我们封禁了一组源自伊朗的 ChatGPT 账号。这些账号以波斯语输入提示，并生成波斯语和英语内容。行为者使用 VPN 访问 ChatGPT，以掩盖其所在地。"
+    },
+    {
+      "id": "p50",
+      "kind": "paragraph",
+      "text": "The operation used our models to refine long-form articles and editorial pitches, generate social media comments, and refine internal reports. The operators used seven different bylines to pitch their articles, so we have dubbed their campaign “Bogus Bylines.” The long-form articles focused on the US-Iran conflict. The majority of the comments likewise dealt with the conflict; a minority dealt with US politics, typically in the wider context of the conflict.",
+      "en": "The operation used our models to refine long-form articles and editorial pitches, generate social media comments, and refine internal reports. The operators used seven different bylines to pitch their articles, so we have dubbed their campaign “Bogus Bylines.” The long-form articles focused on the US-Iran conflict. The majority of the comments likewise dealt with the conflict; a minority dealt with US politics, typically in the wider context of the conflict.",
+      "zh": "该行动利用我们的模型润色长篇文章和投稿推介文案、生成社交媒体评论，以及完善内部报告。操盘人员使用七个不同署名推介文章，因此我们将其行动称为“虚假署名” (Bogus Bylines)。这些长篇文章聚焦美伊冲突。大多数评论同样围绕这场冲突；少数涉及美国政治，通常也置于冲突的大背景下。"
+    },
+    {
+      "id": "p51",
+      "kind": "paragraph",
+      "text": "The apparent impact of their main workstreams varied significantly. We identified almost 100 articles published or syndicated under the operation’s bylines across roughly a dozen online outlets around the world. These were small to medium outlets, generally focused on international affairs, geopolitics, and events in the Middle East. By contrast, none of the social media comments appears to have generated substantial engagement in terms of likes, shares, or further replies. In fact, the operators’ internal reports used a deceptive calculation to measure their social media impact, possibly in an attempt to inflate the operators’ apparent effectiveness.",
+      "en": "The apparent impact of their main workstreams varied significantly. We identified almost 100 articles published or syndicated under the operation’s bylines across roughly a dozen online outlets around the world. These were small to medium outlets, generally focused on international affairs, geopolitics, and events in the Middle East. By contrast, none of the social media comments appears to have generated substantial engagement in terms of likes, shares, or further replies. In fact, the operators’ internal reports used a deceptive calculation to measure their social media impact, possibly in an attempt to inflate the operators’ apparent effectiveness.",
+      "zh": "从可观察到的结果来看，他们几项主要工作的影响程度差异显著。我们发现，全球约十余家网络媒体发表或转载了近 100 篇以该行动所用身份署名的文章。这些都是中小型媒体，主要关注国际事务、地缘政治和中东事件。相比之下，没有任何一条社交媒体评论看起来获得了大量点赞、分享或后续回复。事实上，操盘人员在内部报告中使用了一种具有误导性的算法来衡量其社交媒体影响力，可能是为了夸大行动成效。"
+    },
+    {
+      "id": "p52",
+      "kind": "paragraph",
+      "text": "The overall activity appeared consistent with a commercial actor running a for-hire influence campaign, but we are unable to identify the particular actor involved. We have shared information on this case with the relevant authorities.",
+      "en": "The overall activity appeared consistent with a commercial actor running a for-hire influence campaign, but we are unable to identify the particular actor involved. We have shared information on this case with the relevant authorities.",
+      "zh": "整体活动看起来符合商业主体受雇开展影响行动的特征，但我们无法确定具体涉及哪个主体。我们已与有关部门分享本案信息。"
+    },
+    {
+      "id": "p53",
+      "kind": "heading",
+      "text": "Planting articles",
+      "en": "Planting articles",
+      "zh": "投放文章"
+    },
+    {
+      "id": "p54",
+      "kind": "paragraph",
+      "text": "This operation’s most far-reaching activity consisted of asking ChatGPT to review and refine long-form, English-language articles about the geopolitics of the US-Iran conflict. Typical prompts asked the model to assess an English-language draft against the submission criteria for a specific online outlet, and suggest edits to make sure it complied. Once the operators approved the edits, they asked the model to generate an email that they could use to pitch the article to the editor of the online outlet in question.",
+      "en": "This operation’s most far-reaching activity consisted of asking ChatGPT to review and refine long-form, English-language articles about the geopolitics of the US-Iran conflict. Typical prompts asked the model to assess an English-language draft against the submission criteria for a specific online outlet, and suggest edits to make sure it complied. Once the operators approved the edits, they asked the model to generate an email that they could use to pitch the article to the editor of the online outlet in question.",
+      "zh": "该行动传播最广的活动，是要求 ChatGPT 审阅和润色关于美伊冲突地缘政治问题的英语长篇文章。典型的提示会要求模型对照某家网络媒体的投稿标准评估英语草稿，并提出修改建议，确保符合要求。操盘人员批准修改后，就要求模型生成一封邮件，用于向相应网络媒体的编辑推荐文章。"
+    },
+    {
+      "id": "p55",
+      "kind": "paragraph",
+      "text": "These pitching messages were drafted using seven different fake bylines: Ervin B. Hoskins, Noah Lamington, Sophia Gonzalez, Michael Harrison, Ericka Feusier, Jenny Williams, and Alice Johnson. According to the biographies that were posted online alongside some of these articles, each persona purported to be a Western journalist (usually American, though the Noah Lamington persona’s bio claimed that they were in New Zealand), often with a focus on international politics, the Middle East, human rights, or conflict. For one of the personas, “Michael Harrison,” the operators asked the model to write the bio itself. (Of note, in March Meta disrupted an Iranian IO that also featured a “Michael Harrison” journalist persona.)",
+      "en": "These pitching messages were drafted using seven different fake bylines: Ervin B. Hoskins, Noah Lamington, Sophia Gonzalez, Michael Harrison, Ericka Feusier, Jenny Williams, and Alice Johnson. According to the biographies that were posted online alongside some of these articles, each persona purported to be a Western journalist (usually American, though the Noah Lamington persona’s bio claimed that they were in New Zealand), often with a focus on international politics, the Middle East, human rights, or conflict. For one of the personas, “Michael Harrison,” the operators asked the model to write the bio itself. (Of note, in March Meta disrupted an Iranian IO that also featured a “Michael Harrison” journalist persona.)",
+      "zh": "这些投稿邮件使用了七个不同的虚假署名：Ervin B. Hoskins、Noah Lamington、Sophia Gonzalez、Michael Harrison、Ericka Feusier、Jenny Williams 和 Alice Johnson。根据随部分文章一同发布的在线简介，这些虚构身份均自称西方记者，通常声称是美国人，但 Noah Lamington 的简介称其身在新西兰；他们往往自称关注国际政治、中东、人权或冲突。其中，“Michael Harrison”这一虚构身份的简介本身就是操盘人员要求模型撰写的。（值得注意的是，Meta 在 3 月阻断了一场伊朗影响行动，该行动也使用了名为“Michael Harrison”的虚构记者身份。）"
+    },
+    {
+      "id": "p56",
+      "kind": "paragraph",
+      "text": "Some of these personas were backstopped by accounts across a range of social media platforms. The Michael Harrison persona, for example, was backstopped on Medium, X, and Facebook. The Ervin B. Hoskins persona featured accounts on X, Facebook, Instagram, and Threads. This persona’s bio claimed to be “an American freelance writer”, but social media transparency settings located the accounts in Iran.",
+      "en": "Some of these personas were backstopped by accounts across a range of social media platforms. The Michael Harrison persona, for example, was backstopped on Medium, X, and Facebook. The Ervin B. Hoskins persona featured accounts on X, Facebook, Instagram, and Threads. This persona’s bio claimed to be “an American freelance writer”, but social media transparency settings located the accounts in Iran.",
+      "zh": "其中一些虚构身份还在多个社交媒体平台上设有账号，以增强可信度。例如，Michael Harrison 这一身份在 Medium、X 和 Facebook 上都有账号作为支撑。Ervin B. Hoskins 这一身份则在 X、Facebook、Instagram 和 Threads 上设有账号。该身份的简介自称“一名美国自由撰稿人”，但社交媒体透明度信息显示，这些账号位于伊朗。"
+    },
+    {
+      "id": "p57",
+      "kind": "paragraph",
+      "text": "Top, Instagram bio for the Ervin Hoskins persona. Bottom left, X account transparency information, showing the use of the West Asia Android app. Bottom right, Instagram account transparency information, showing location in Iran. Meta banned the Instagram account in August.",
+      "en": "Top, Instagram bio for the Ervin Hoskins persona. Bottom left, X account transparency information, showing the use of the West Asia Android app. Bottom right, Instagram account transparency information, showing location in Iran. Meta banned the Instagram account in August.",
+      "zh": "上图为虚构身份 Ervin Hoskins 的 Instagram 简介。左下图为 X 账号透明度信息，显示其使用西亚地区 Android 应用。右下图为 Instagram 账号透明度信息，显示所在地为伊朗。Meta 已于 8 月封禁该 Instagram 账号。"
+    },
+    {
+      "id": "p58",
+      "kind": "paragraph",
+      "text": "Using open-source investigation techniques, we identified almost 100 articles that had been published under one or other of the operators’ bylines, across over a dozen different publications. These publications generally focused on international affairs, geopolitics, and events in the Middle East, sometimes from an antiwar or progressive point of view. The earliest article we identified was published in July 2025, and the latest in October 2026. The frequency of articles greatly increased after the outbreak of the US-Iran conflict.",
+      "en": "Using open-source investigation techniques, we identified almost 100 articles that had been published under one or other of the operators’ bylines, across over a dozen different publications. These publications generally focused on international affairs, geopolitics, and events in the Middle East, sometimes from an antiwar or progressive point of view. The earliest article we identified was published in July 2025, and the latest in October 2026. The frequency of articles greatly increased after the outbreak of the US-Iran conflict.",
+      "zh": "通过公开来源调查技术，我们在十余家不同刊物中发现了近 100 篇文章，均以操盘人员使用的某个身份署名发表。这些刊物通常关注国际事务、地缘政治和中东事件，有时采取反战或进步主义立场。我们发现的最早一篇文章发表于 2025 年 7 月，最晚一篇发表于 2026 年 10 月。美伊冲突爆发后，文章发表频率大幅上升。"
+    },
+    {
+      "id": "p59",
+      "kind": "paragraph",
+      "text": "Timeline of articles, by author and theme, July 2025—September 2026. Note the density of publications on US-Iran relations from March 2026 onwards.",
+      "en": "Timeline of articles, by author and theme, July 2025—September 2026. Note the density of publications on US-Iran relations from March 2026 onwards.",
+      "zh": "2025 年 7 月至 2026 年 9 月的文章时间线，按作者和主题分类。请注意，自 2026 年 3 月起，美伊关系相关文章密集发表。"
+    },
+    {
+      "id": "p60",
+      "kind": "paragraph",
+      "text": "Sample headlines of articles published under the bylines linked to this operation between February and July 2026 in a range of online outlets.",
+      "en": "Sample headlines of articles published under the bylines linked to this operation between February and July 2026 in a range of online outlets.",
+      "zh": "2026 年 2 月至 7 月，多家网络媒体刊登的部分文章标题，这些文章的署名均与该行动相关联。"
+    },
+    {
+      "id": "p61",
+      "kind": "paragraph",
+      "text": "At least some of the articles were then promoted by the social media accounts of the outlets in question, giving the Iranian operators a potential way to access audiences that they would not otherwise have reached.",
+      "en": "At least some of the articles were then promoted by the social media accounts of the outlets in question, giving the Iranian operators a potential way to access audiences that they would not otherwise have reached.",
+      "zh": "至少有部分文章随后得到了相关媒体社交账号的推广，使伊朗操盘人员有机会触及原本无法接触到的受众。"
+    },
+    {
+      "id": "p62",
+      "kind": "heading",
+      "text": "Mass commenting",
+      "en": "Mass commenting",
+      "zh": "批量评论"
+    },
+    {
+      "id": "p63",
+      "kind": "paragraph",
+      "text": "Alongside the articles, the threat actors asked ChatGPT to generate batches of comments on geopolitical or political topics in English or Persian. The actors’ typical approach was to input the text or a screenshot of a social media post, and ask the model for a set of replies that aligned with their overall focus. These were then posted online, often within a few minutes of each other. The operators’ internal reporting referred to both human and automated posting; we have no evidence to suggest that this automation was carried out with the help of our models.",
+      "en": "Alongside the articles, the threat actors asked ChatGPT to generate batches of comments on geopolitical or political topics in English or Persian. The actors’ typical approach was to input the text or a screenshot of a social media post, and ask the model for a set of replies that aligned with their overall focus. These were then posted online, often within a few minutes of each other. The operators’ internal reporting referred to both human and automated posting; we have no evidence to suggest that this automation was carried out with the help of our models.",
+      "zh": "除文章外，这些威胁行为者还要求 ChatGPT 成批生成有关地缘政治或政治话题的英语或波斯语评论。其典型做法是输入社交媒体帖子的文字或截图，要求模型生成一组符合其整体宣传方向的回复。这些回复随后被发布到网上，发布时间往往只相隔几分钟。操盘人员的内部报告同时提到了人工和自动化发布；我们没有证据表明，这些自动化操作借助了我们的模型。"
+    },
+    {
+      "id": "p64",
+      "kind": "paragraph",
+      "text": "Tweets in English, left, and Persian, right, generated by this operation and posted in July. The English-language comments replied to an English-language tweet warning that the US was preparing a “large scale assault” on Iran. All the comments in this image were posted in a 10-minute span. The Persian-language comments replied to a Persian-language tweet about US strikes on Iran, and were posted within 13 minutes.",
+      "en": "Tweets in English, left, and Persian, right, generated by this operation and posted in July. The English-language comments replied to an English-language tweet warning that the US was preparing a “large scale assault” on Iran. All the comments in this image were posted in a 10-minute span. The Persian-language comments replied to a Persian-language tweet about US strikes on Iran, and were posted within 13 minutes.",
+      "zh": "该行动生成并于 7 月发布的推文，左侧为英语，右侧为波斯语。英语评论回复的是一条警告美国正准备对伊朗发动“大规模袭击”的英语推文。图中所有英语评论均在 10 分钟内发布。波斯语评论回复的是一条有关美国打击伊朗的波斯语推文，均在 13 分钟内发布。"
+    },
+    {
+      "id": "p65",
+      "kind": "paragraph",
+      "text": "Some of this batch commenting activity consisted of generating replies to social media posts about the operation’s own news articles. Here, the operators input screenshots of posts that promoted their articles, and then generated comments that praised or endorsed them, likely to make the articles look more popular.",
+      "en": "Some of this batch commenting activity consisted of generating replies to social media posts about the operation’s own news articles. Here, the operators input screenshots of posts that promoted their articles, and then generated comments that praised or endorsed them, likely to make the articles look more popular.",
+      "zh": "部分批量评论活动，是为推广该行动自制新闻文章的社交媒体帖子生成回复。在这些情况下，操盘人员输入推广其文章的帖子截图，然后生成赞扬或支持文章的评论，很可能是为了让文章显得更受欢迎。"
+    },
+    {
+      "id": "p66",
+      "kind": "paragraph",
+      "text": "Facebook post by a local US news Page sharing an article generated by the operation, and comments on that post generated by the operation.",
+      "en": "Facebook post by a local US news Page sharing an article generated by the operation, and comments on that post generated by the operation.",
+      "zh": "美国一家地方新闻主页发布的 Facebook 帖子，分享了该行动生成的一篇文章；帖子下的评论也由该行动生成。"
+    },
+    {
+      "id": "p67",
+      "kind": "paragraph",
+      "text": "The majority of the comment batches focused more generally on the conflict between Iran, the United States, and Israel. The users asked for comments on topics such as missile strikes, ceasefires, and diplomatic maneuvering, specifying outputs that portrayed the US as the aggressor, Israel as an unreliable ally of the US, and Iran as a defiant but resilient victim. The operators generated a particularly large number of replies to posts by UK-based satellite network Iran International—a critic of the Iranian regime—generating over two dozen batches of hostile Persian-language replies. A minority of the batches generated replies to social media posts about US political issues, typically also in the wider context of the conflict.",
+      "en": "The majority of the comment batches focused more generally on the conflict between Iran, the United States, and Israel. The users asked for comments on topics such as missile strikes, ceasefires, and diplomatic maneuvering, specifying outputs that portrayed the US as the aggressor, Israel as an unreliable ally of the US, and Iran as a defiant but resilient victim. The operators generated a particularly large number of replies to posts by UK-based satellite network Iran International—a critic of the Iranian regime—generating over two dozen batches of hostile Persian-language replies. A minority of the batches generated replies to social media posts about US political issues, typically also in the wider context of the conflict.",
+      "zh": "大多数批量评论更广泛地聚焦于伊朗、美国与以色列之间的冲突。这些用户要求生成有关导弹袭击、停火和外交博弈等话题的评论，并指定将美国描绘为侵略者、以色列描绘为美国不可靠的盟友、伊朗描绘为不屈且坚韧的受害者。操盘人员尤其大量生成了针对英国卫星电视网“伊朗国际” (Iran International) 帖子的回复。该媒体批评伊朗政权，而这些操盘人员生成了超过 24 批带有敌意的波斯语回复。少数批次生成的是对美国政治议题相关社交帖子的回复，通常也置于冲突的大背景下。"
+    },
+    {
+      "id": "p68",
+      "kind": "paragraph",
+      "text": "Instagram comments generated by this operation in reply to posts about US politics.",
+      "en": "Instagram comments generated by this operation in reply to posts about US politics.",
+      "zh": "该行动生成的 Instagram 评论，用于回复有关美国政治的帖子。"
+    },
+    {
+      "id": "p69",
+      "kind": "paragraph",
+      "text": "We identified a small number of these replies being posted online; many more did not appear in our open-source searches, potentially because they were either not posted, or posted by accounts that had already been taken down. (For example, three of the journalist personas—Ericka Feusier, Alice Johnson, and Jenny Williams—listed X account handles in their published bios: all had been suspended as of August 2026.) Some of the accounts that did post comments online had Western-seeming names, but showed account locations in Iran.",
+      "en": "We identified a small number of these replies being posted online; many more did not appear in our open-source searches, potentially because they were either not posted, or posted by accounts that had already been taken down. (For example, three of the journalist personas—Ericka Feusier, Alice Johnson, and Jenny Williams—listed X account handles in their published bios: all had been suspended as of August 2026.) Some of the accounts that did post comments online had Western-seeming names, but showed account locations in Iran.",
+      "zh": "我们发现其中少量回复已被发布到网上；更多回复并未出现在公开来源检索结果中，可能是因为它们未被发布，或发布它们的账号已被下架。（例如，三个虚构记者身份 Ericka Feusier、Alice Johnson 和 Jenny Williams 在公开简介中列出了 X 账号用户名；截至 2026 年 8 月，这些账号均已被停用。）部分确实发布了评论的账号使用看似西方人的姓名，但显示的账号所在地为伊朗。"
+    },
+    {
+      "id": "p70",
+      "kind": "paragraph",
+      "text": "The transparency settings of the Instagram accounts that made the comments illustrated above, showing that they were located in Iran.",
+      "en": "The transparency settings of the Instagram accounts that made the comments illustrated above, showing that they were located in Iran.",
+      "zh": "发布上图评论的 Instagram 账号的透明度信息，显示其所在地为伊朗。"
+    },
+    {
+      "id": "p71",
+      "kind": "paragraph",
+      "text": "Where we did find these replies being posted, they typically made up a minority of total comments on the post in question, suggesting that the operators were not a dominant voice among the authentic responses. Nor did they appear to have attracted substantial engagement: indeed, many of the likes on the operation’s replies came from accounts that were themselves linked to the operation. We have shared information on this case with industry partners, who are best placed to provide holistic assessments on engagement.",
+      "en": "Where we did find these replies being posted, they typically made up a minority of total comments on the post in question, suggesting that the operators were not a dominant voice among the authentic responses. Nor did they appear to have attracted substantial engagement: indeed, many of the likes on the operation’s replies came from accounts that were themselves linked to the operation. We have shared information on this case with industry partners, who are best placed to provide holistic assessments on engagement.",
+      "zh": "在我们找到的已发布回复中，这些内容通常只占相关帖子评论总数的一小部分，表明操盘人员并未在真实用户的回复中占据主导地位。这些回复似乎也没有吸引大量互动；事实上，该行动回复所获的许多点赞，本身就来自与该行动有关联的账号。我们已与行业合作伙伴分享本案信息，他们最有条件对互动情况进行全面评估。"
+    },
+    {
+      "id": "p72",
+      "kind": "heading",
+      "text": "Internal reporting",
+      "en": "Internal reporting",
+      "zh": "内部报告"
+    },
+    {
+      "id": "p73",
+      "kind": "paragraph",
+      "text": "The attempt to make their activity look more popular was not limited to public-facing posts. Alongside their content generation, the operators occasionally asked ChatGPT to refine what appeared to be internal reports about their social media campaign. This typically consisted of providing the model with a series of statistics, and asking it to turn them into polished presentations.",
+      "en": "The attempt to make their activity look more popular was not limited to public-facing posts. Alongside their content generation, the operators occasionally asked ChatGPT to refine what appeared to be internal reports about their social media campaign. This typically consisted of providing the model with a series of statistics, and asking it to turn them into polished presentations.",
+      "zh": "让自身活动看起来更受欢迎的尝试，并不限于面向公众的帖子。除了生成内容，操盘人员偶尔还会要求 ChatGPT 润色一些看起来是关于其社交媒体行动的内部报告。其典型做法是向模型提供一组统计数据，再要求模型将其整理成精美的汇报材料。"
+    },
+    {
+      "id": "p74",
+      "kind": "paragraph",
+      "text": "This is not the first operation we’ve disrupted that used AI to write its own self-review. What was most striking about the Iranian operators’ efforts to mark their own homework was the method they used to do so. The main “impact” metric they used was the number of views on the posts to which they replied (not the number of views on the actual replies), counted before, and an unspecified amount of time after, the replies were posted. This calculation did not account for any views which may have been the result of other factors, such as the original posts’ popularity or other comments. As such, it greatly exaggerated the operation’s impact figures, suggesting that the operators either did not know a more effective way of calculating them, or did not choose to use it.",
+      "en": "This is not the first operation we’ve disrupted that used AI to write its own self-review. What was most striking about the Iranian operators’ efforts to mark their own homework was the method they used to do so. The main “impact” metric they used was the number of views on the posts to which they replied (not the number of views on the actual replies), counted before, and an unspecified amount of time after, the replies were posted. This calculation did not account for any views which may have been the result of other factors, such as the original posts’ popularity or other comments. As such, it greatly exaggerated the operation’s impact figures, suggesting that the operators either did not know a more effective way of calculating them, or did not choose to use it.",
+      "zh": "这并非我们阻断的首场利用 AI 撰写自身绩效评估的行动。伊朗操盘人员给自己打分的做法中，最引人注目的是他们所用的方法。他们使用的主要“影响力”指标，是被回复的原帖浏览量（而非回复本身的浏览量），统计时间点分别为回复发布前，以及发布后某个未说明的时间。这种计算没有考虑其他因素可能带来的浏览量，例如原帖本身的热度或其他评论。因此，这种算法大幅夸大了行动的影响力数据，表明操盘人员要么不知道更有效的计算方法，要么没有选择使用。"
+    },
+    {
+      "id": "p75",
+      "kind": "heading",
+      "text": "Impact",
+      "en": "Impact",
+      "zh": "影响"
+    },
+    {
+      "id": "p76",
+      "kind": "paragraph",
+      "text": "In fact, based on the evidence that can be gleaned from open-source observation, the operation’s two main workstreams appear to have had very different degrees of likely impact.",
+      "en": "In fact, based on the evidence that can be gleaned from open-source observation, the operation’s two main workstreams appear to have had very different degrees of likely impact.",
+      "zh": "事实上，根据公开来源观察所能收集到的证据，该行动两项主要工作的可能影响程度似乎相差甚远。"
+    },
+    {
+      "id": "p77",
+      "kind": "paragraph",
+      "text": "The social media replies that we were able to identify generally enjoyed low numbers of likes, views, and comments (in the single or double digits). As noted above, the replies typically made up a minority of total comments on the post in question. Using the IO Breakout Scale, which rates IO on a scale of 1 (lowest) to 6 (highest), we would assess this part of the operation at Category 2, with comments on multiple platforms, but little sign of breakout or ability to dominate the replies.",
+      "en": "The social media replies that we were able to identify generally enjoyed low numbers of likes, views, and comments (in the single or double digits). As noted above, the replies typically made up a minority of total comments on the post in question. Using the IO Breakout Scale, which rates IO on a scale of 1 (lowest) to 6 (highest), we would assess this part of the operation at Category 2, with comments on multiple platforms, but little sign of breakout or ability to dominate the replies.",
+      "zh": "我们能够找到的社交媒体回复，其点赞量、浏览量和评论量普遍较低，仅为个位数或两位数。如上所述，这些回复通常只占相关帖子评论总数的一小部分。根据影响行动破圈量表 (Breakout Scale)，我们将该行动的这一部分评为第 2 级。该量表从 1 级（最低）到 6 级（最高）评级。这部分活动在多个平台上发布评论，但几乎没有迹象表明其实现了破圈传播，或能够在回复中占据主导地位。"
+    },
+    {
+      "id": "p78",
+      "kind": "paragraph",
+      "text": "By contrast, the journalist personas succeeded in getting their articles published by a range of outlets, some with substantial followings: for example, one of the online outlets that published this operation’s articles had almost 2 million followers on Facebook, almost 355,000 followers on X, and over 544,000 on Instagram as of August 2026. We would assess this part of the operation as a Category 4, based on its consistent breakout to a number of media outlets.",
+      "en": "By contrast, the journalist personas succeeded in getting their articles published by a range of outlets, some with substantial followings: for example, one of the online outlets that published this operation’s articles had almost 2 million followers on Facebook, almost 355,000 followers on X, and over 544,000 on Instagram as of August 2026. We would assess this part of the operation as a Category 4, based on its consistent breakout to a number of media outlets.",
+      "zh": "相比之下，这些虚构记者身份成功让多家媒体发表了其文章，其中一些媒体拥有大量关注者。例如，截至 2026 年 8 月，一家刊登过该行动文章的网络媒体在 Facebook 上有近 200 万名关注者，在 X 上有近 35.5 万名，在 Instagram 上有超过 54.4 万名。鉴于这部分活动持续突破自身渠道、进入多家媒体，我们将其评为第 4 级。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p4",
+      "zh": "这些行动最引人注目的一点是：它们与 AI 出现之前的复杂影响行动高度相似，只是用 AI 简化了部分工作流程。伊朗行动运营的虚构记者身份，与假记者“Alice Donovan”有相似之处。",
+      "en": "What is most striking about these operations is that they closely resembled complex influence operations of the pre-AI age, but used AI to make some of the workflows easier. The journalist personas run by the Iranian operation bore a family resemblance to the fake journalist “Alice Donovan,” a front for Russian military intelligence whose articles were published by a range of Western outlets in 2016-17."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "AI 可以让这类虚假掩护行动扩大规模、提高效率，并增强语言表达的流畅度和编辑能力。操盘人员可以利用这些优势，利用毫无戒心的员工或编辑等受害者，将内容投放给完全不了解幕后主使及其动机的受众。",
+      "en": "AI can give such false-front operations greater scale, efficiency, linguistic fluency, and editorial ability. The operators can use these advantages to exploit unsuspecting victims, such as employees or editors, and plant their content in front of audiences who have no idea who was behind it, or what their motivations were."
+    },
+    {
+      "paragraphId": "p15",
+      "zh": "这场行动有两点不同寻常。首先，它似乎成功利用了拉丁美洲的人员，让他们为 SRC 工作。",
+      "en": "This operation was unusual in two ways. First, it appears to have successfully co-opted individuals in Latin America to work for the SRC."
+    },
+    {
+      "paragraphId": "p31",
+      "zh": "内部报告表明，操盘人员控制着这家智库，而非仅仅与其合作。例如，报告提到了招聘和解雇决定、薪酬标准、人员配置计划，以及正在进行的研究项目。",
+      "en": "The internal reports suggested that the operators controlled the think tank, rather than merely working with it. They referenced, for example, hiring and firing decisions, pay scales, staffing plans, and ongoing research projects."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations/",
+      "title": "Disrupting AI-enabled “false front” operations"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/disrupting-ai-enabled-false-front-operations/",
+      "title": "阻断借助 AI 的“虚假掩护”行动"
+    }
+  },
+  "contentHash": "ead5b981341394c00f1786d06bc85514136e13eb57eff87f12260cbaf1671de9",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/disrupting-ai-enabled-false-front-operations/"
 }

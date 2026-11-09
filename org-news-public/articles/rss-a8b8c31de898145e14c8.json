@@ -3,8 +3,261 @@
   "id": "rss-a8b8c31de898145e14c8",
   "url": "https://openai.com/index/third-moment-research",
   "sourceTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:52.029856+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:52.061700+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:54:34.839Z",
+  "finalURL": "https://openai.com/index/third-moment-research/",
+  "language": "en",
+  "originalTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Every company has its own workflows, tools, edge cases, and definitions of success. Third Moment Research believes the best agents should be really good at that specific work and should improve their capabilities the more they’re used.",
+      "en": "Every company has its own workflows, tools, edge cases, and definitions of success. Third Moment Research believes the best agents should be really good at that specific work and should improve their capabilities the more they’re used.",
+      "zh": "每家公司都有自己的工作流程、工具、边缘情况和成功标准。 Third Moment Research 认为，最好的智能体应当精通这些具体工作，并且用得越多，能力越强。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "The company is building a self-improving AI system around that idea, using OpenAI’s latest models to understand agent behavior, identify recurring weaknesses, and automatically create thousands of synthetic scenarios around those problems. The team uses those scenarios to improve agents, repeating the process as new issues emerge.",
+      "en": "The company is building a self-improving AI system around that idea, using OpenAI’s latest models to understand agent behavior, identify recurring weaknesses, and automatically create thousands of synthetic scenarios around those problems. The team uses those scenarios to improve agents, repeating the process as new issues emerge.",
+      "zh": "围绕这一理念，该公司正在构建一套能够自我改进的 AI 系统，利用 OpenAI 的最新模型来理解智能体行为，找出反复出现的薄弱环节，并针对这些问题自动生成数千个合成场景。团队利用这些场景改进智能体，并在新问题出现时重复这一过程。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Codex, GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol support the system’s research and computational work, enabling Third Moment to run 10,000 agents at once on investigations lasting 36-48 hours. The company also uses Daybreak to test the security of the environments where agents work.",
+      "en": "Codex, GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol support the system’s research and computational work, enabling Third Moment to run 10,000 agents at once on investigations lasting 36-48 hours. The company also uses Daybreak to test the security of the environments where agents work.",
+      "zh": "Codex、GPT‑6 Astra、GPT‑6 Sol 和 GPT‑6.1 Sol 为系统的研究与计算工作提供支持，让 Third Moment 能够同时运行 10,000 个智能体，开展持续 36–48 小时的研究。该公司还使用 Daybreak 测试智能体工作环境的安全性。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "“In a single session, GPT-6.1 Sol is able to maintain a coherent thread of computational research across days of compute without losing the plot.”",
+      "en": "“In a single session, GPT-6.1 Sol is able to maintain a coherent thread of computational research across days of compute without losing the plot.”",
+      "zh": "“在单次会话中，即使计算持续数天，GPT-6.1 Sol 也能保持计算研究思路连贯，始终围绕研究目标推进。”"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Reducing runtime and token waste with Codex",
+      "en": "Reducing runtime and token waste with Codex",
+      "zh": "用 Codex 缩短运行时间，减少 Token 浪费"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "One of Third Moment’s early applications is in the field of quantitative finance given the clear measure of success. This domain provides a concrete setting to study how agents work and where they struggle. The team uses Codex to find and address problems in the research environment.",
+      "en": "One of Third Moment’s early applications is in the field of quantitative finance given the clear measure of success. This domain provides a concrete setting to study how agents work and where they struggle. The team uses Codex to find and address problems in the research environment.",
+      "zh": "量化金融领域有明确的成功衡量标准，因此成为 Third Moment 早期应用方向之一。这一领域提供了具体的场景，便于研究智能体如何工作、在哪些环节遇到困难。团队使用 Codex 查找并解决研究环境中的问题。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "In one instance, it used Codex with GPT‑5.6, the latest GPT model at the time, to analyze thousands of recorded simulation trajectories (the agents’ actions and the environment’s responses) alongside timestamps and the codebase.",
+      "en": "In one instance, it used Codex with GPT‑5.6, the latest GPT model at the time, to analyze thousands of recorded simulation trajectories (the agents’ actions and the environment’s responses) alongside timestamps and the codebase.",
+      "zh": "有一次，团队将 Codex 与当时最新的 GPT 模型 GPT‑5.6 结合使用，分析了数千条已记录的仿真轨迹（智能体的操作及环境的响应），以及相应的时间戳和代码库。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "Codex uncovered a bottleneck: backtesting a trading strategy across a year of order-level US equity data took several hours. While waiting, agents repeatedly polled for completion, wasting tokens and filling their context with status checks.",
+      "en": "Codex uncovered a bottleneck: backtesting a trading strategy across a year of order-level US equity data took several hours. While waiting, agents repeatedly polled for completion, wasting tokens and filling their context with status checks.",
+      "zh": "Codex 发现了一个瓶颈：用一整年的美股订单级数据回测交易策略，需要数小时。等待期间，智能体不断轮询任务是否完成，不仅浪费 Token，还让状态检查记录占满了上下文。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "After profiling the backtest and analyzing its inputs and usage, Codex identified a caching optimization and a memory-packing technique. It experimented with solutions and deployed the fix to production, reducing the backtest from approximately 3 hours to approximately 3 to 5 minutes. This reduced token use and context pollution, freeing more of the agents’ token budget for further experiments.",
+      "en": "After profiling the backtest and analyzing its inputs and usage, Codex identified a caching optimization and a memory-packing technique. It experimented with solutions and deployed the fix to production, reducing the backtest from approximately 3 hours to approximately 3 to 5 minutes. This reduced token use and context pollution, freeing more of the agents’ token budget for further experiments.",
+      "zh": "在对回测进行性能剖析，并分析其输入和使用方式后，Codex 找到了一项缓存优化方案和一种内存紧凑存储技术。它试验了解决方案，并将修复部署到生产环境，把回测时间从约 3 小时缩短至约 3–5 分钟。这减少了 Token 消耗和上下文污染，为智能体腾出了更多 Token 预算，用于后续实验。"
+    },
+    {
+      "id": "p10",
+      "kind": "heading",
+      "text": "Keeping agents on task with Codex and GPT‑6",
+      "en": "Keeping agents on task with Codex and GPT‑6",
+      "zh": "用 Codex 和 GPT‑6 让智能体持续推进任务"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Third Moment gives each agent the tools, information, and environment it needs for a specific job. For quantitative research, the team runs the default Codex harness inside a Dockerized environment. Agents receive a terabyte of data, documentation, and a research repository with modules for feature engineering, GPU-supported model training, trading strategies, and simulation.",
+      "en": "Third Moment gives each agent the tools, information, and environment it needs for a specific job. For quantitative research, the team runs the default Codex harness inside a Dockerized environment. Agents receive a terabyte of data, documentation, and a research repository with modules for feature engineering, GPU-supported model training, trading strategies, and simulation.",
+      "zh": "Third Moment 为每个智能体配备完成特定工作所需的工具、信息和环境。在量化研究中，团队在 Docker 容器化环境内运行默认的 Codex 执行框架。智能体获得 1 TB 的数据、文档，以及一个研究代码仓库，其中包含特征工程、GPU 支持的模型训练、交易策略和仿真模块。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol provide the reasoning, while the Codex harness gives agents tools to act, create plans, set objectives, spawn subagents, and compact context as work continues.",
+      "en": "GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol provide the reasoning, while the Codex harness gives agents tools to act, create plans, set objectives, spawn subagents, and compact context as work continues.",
+      "zh": "GPT‑6 Astra、GPT‑6 Sol 和 GPT‑6.1 Sol 提供推理能力，Codex 执行框架则为智能体提供工具，使其能够执行操作、制定计划、设定目标、创建子智能体，并随着工作推进压缩上下文。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "To address agents that stop before completing a task, Third Moment treats Codex as a subagent within an outer harness powered by GPT‑6 Sol or GPT‑6.1 Sol. The outer harness examines the trajectory when a task is left unfinished and determines whether to retry, terminate the job, or escalate to human review.",
+      "en": "To address agents that stop before completing a task, Third Moment treats Codex as a subagent within an outer harness powered by GPT‑6 Sol or GPT‑6.1 Sol. The outer harness examines the trajectory when a task is left unfinished and determines whether to retry, terminate the job, or escalate to human review.",
+      "zh": "为解决智能体在完成任务前就停止工作的问题，Third Moment 将 Codex 作为子智能体，置于由 GPT‑6 Sol 或 GPT‑6.1 Sol 驱动的外层执行框架中。当任务未完成时，外层执行框架会检查执行轨迹，决定是重试、终止任务，还是转交人工审核。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "“The Codex harness is extremely versatile, and it enables use across many different domains.”",
+      "en": "“The Codex harness is extremely versatile, and it enables use across many different domains.”",
+      "zh": "“Codex 执行框架用途极为广泛，能够应用于众多不同领域。”"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "In that research environment, agents work to improve a baseline trading system built by Third Moment’s engineers. They test trading strategies on historical data, assess whether an improvement is meaningful or noise, and use each result to choose the next experiment. According to Adam, their work has improved the baseline trading system.",
+      "en": "In that research environment, agents work to improve a baseline trading system built by Third Moment’s engineers. They test trading strategies on historical data, assess whether an improvement is meaningful or noise, and use each result to choose the next experiment. According to Adam, their work has improved the baseline trading system.",
+      "zh": "在这一研究环境中，智能体致力于改进由 Third Moment 工程师构建的基准交易系统。它们用历史数据测试交易策略，评估改进是真正有效还是仅由噪声造成，并根据每次结果选择下一项实验。据 Adam 介绍，它们的工作已经改善了基准交易系统。"
+    },
+    {
+      "id": "p16",
+      "kind": "heading",
+      "text": "Sustaining longer research with greater token efficiency",
+      "en": "Sustaining longer research with greater token efficiency",
+      "zh": "以更高的 Token 利用率支持更持久的研究"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Before GPT‑5.5, Adam says models could only execute experiments prescribed by a user. With GPT‑5.5 and GPT‑5.6, models working with the Codex harness could use results to design follow-up experiments. Now with GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol, agents can investigate root causes through hundreds of experiments running in parallel with subagents.",
+      "en": "Before GPT‑5.5, Adam says models could only execute experiments prescribed by a user. With GPT‑5.5 and GPT‑5.6, models working with the Codex harness could use results to design follow-up experiments. Now with GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol, agents can investigate root causes through hundreds of experiments running in parallel with subagents.",
+      "zh": "Adam 表示，在 GPT‑5.5 之前，模型只能执行用户指定的实验。到了 GPT‑5.5 和 GPT‑5.6，模型配合 Codex 执行框架，已经能根据结果设计后续实验。如今，借助 GPT‑6 Astra、GPT‑6 Sol 和 GPT‑6.1 Sol，智能体可以通过子智能体并行开展数百项实验，探究根本原因。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "That progression has helped agents explore research directions the team hadn’t anticipated. In one session, GPT‑6.1 Sol identified the impact of non-displayed trades on an exchange where those trades accounted for an unexpectedly large share of volume. “This was an unobvious result that our research team did not initially consider,” says Adam.",
+      "en": "That progression has helped agents explore research directions the team hadn’t anticipated. In one session, GPT‑6.1 Sol identified the impact of non-displayed trades on an exchange where those trades accounted for an unexpectedly large share of volume. “This was an unobvious result that our research team did not initially consider,” says Adam.",
+      "zh": "这一进步帮助智能体探索了团队未曾预想到的研究方向。在一次会话中，GPT‑6.1 Sol 识别出了某交易所非公开显示交易的影响；这类交易占该交易所成交量的比例之高，出乎意料。“这是一个并不显而易见的结果，我们的研究团队起初并未考虑到这一点。”Adam 说。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "Third Moment evaluates models across optimization, machine learning systems, and quantitative research. It tests frontier releases at their highest reasoning settings, assessing their ability to navigate repositories, write efficient code, and sustain an investigation. Current testing also includes GPT‑6 Luna.",
+      "en": "Third Moment evaluates models across optimization, machine learning systems, and quantitative research. It tests frontier releases at their highest reasoning settings, assessing their ability to navigate repositories, write efficient code, and sustain an investigation. Current testing also includes GPT‑6 Luna.",
+      "zh": "Third Moment 从优化、机器学习系统和量化研究等方面评估模型。团队以最高推理设置测试新发布的前沿模型，评估它们理解和查阅代码仓库、编写高效代码以及持续开展研究的能力。目前的测试也包括 GPT‑6 Luna。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "“GPT-6.1 Sol is currently our most-used model given its token efficiency. It completes tasks with the fewest tokens while delivering performance similar to GPT-6 Astra.”",
+      "en": "“GPT-6.1 Sol is currently our most-used model given its token efficiency. It completes tasks with the fewest tokens while delivering performance similar to GPT-6 Astra.”",
+      "zh": "“凭借高效的 Token 利用率，GPT-6.1 Sol 目前是我们使用最多的模型。它能以最少的 Token 完成任务，同时实现与 GPT-6 Astra 相近的性能。”"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "One benchmark asks agents to reduce a live scoreboard service’s update latency while preserving its outputs. The team measures speedup by dividing the average runtime of an expert-crafted solution by that of the model’s solution on the same hardware, subject to correctness. GPT‑6 Astra delivered the biggest speedup, according to Adam.",
+      "en": "One benchmark asks agents to reduce a live scoreboard service’s update latency while preserving its outputs. The team measures speedup by dividing the average runtime of an expert-crafted solution by that of the model’s solution on the same hardware, subject to correctness. GPT‑6 Astra delivered the biggest speedup, according to Adam.",
+      "zh": "其中一项基准测试要求智能体在保持输出不变的前提下，降低实时记分板服务的更新延迟。在确保结果正确的前提下，团队将专家编写的方案与模型方案在相同硬件上的平均运行时间相除，以此衡量加速比。据 Adam 介绍，GPT‑6 Astra 实现的加速幅度最大。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "For targeted work, including checks for specific security weaknesses in the simulation system, the team uses more efficient models like GPT‑5.6 Terra. For deep research, Adam believes stronger reasoning can justify higher cost: “In the space of quantitative finance, the value of finding some interesting signal is extremely high.”",
+      "en": "For targeted work, including checks for specific security weaknesses in the simulation system, the team uses more efficient models like GPT‑5.6 Terra. For deep research, Adam believes stronger reasoning can justify higher cost: “In the space of quantitative finance, the value of finding some interesting signal is extremely high.”",
+      "zh": "对于针对性任务，例如检查仿真系统中的特定安全弱点，团队使用 GPT‑5.6 Terra 等效率更高的模型。对于深度研究，Adam 认为更强的推理能力值得付出更高成本：“在量化金融领域，找到某个值得关注的信号，其价值极高。”"
+    },
+    {
+      "id": "p23",
+      "kind": "heading",
+      "text": "Automating security testing with Daybreak",
+      "en": "Automating security testing with Daybreak",
+      "zh": "用 Daybreak 实现安全测试自动化"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "With 10,000 agents running autonomously, Third Moment needs a way to test the security of its research environments at scale. The team uses the Daybreak cybersecurity platform to automate that testing before simulations launch.",
+      "en": "With 10,000 agents running autonomously, Third Moment needs a way to test the security of its research environments at scale. The team uses the Daybreak cybersecurity platform to automate that testing before simulations launch.",
+      "zh": "有 10,000 个智能体自主运行，Third Moment 需要一种能够大规模测试研究环境安全性的方法。团队使用 Daybreak 网络安全平台，在仿真启动前自动完成这些测试。"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "The tests check whether an agent could break out of its research environment and access the wider network. “By using Daybreak, we’re able to have agents themselves do penetration testing on the simulation and test the infrastructure and security of it,” says Adam.",
+      "en": "The tests check whether an agent could break out of its research environment and access the wider network. “By using Daybreak, we’re able to have agents themselves do penetration testing on the simulation and test the infrastructure and security of it,” says Adam.",
+      "zh": "这些测试检查智能体是否可能突破研究环境的隔离限制，访问更广泛的网络。“使用 Daybreak，我们能够让智能体自行对仿真环境开展渗透测试，检验其基础设施和安全性。”Adam 说。"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "“Without Daybreak, we would not be able to autonomously test this at scale.”",
+      "en": "“Without Daybreak, we would not be able to autonomously test this at scale.”",
+      "zh": "“没有 Daybreak，我们就无法自主开展大规模测试。”"
+    },
+    {
+      "id": "p27",
+      "kind": "heading",
+      "text": "Moving toward hundreds of thousands of collaborating agents",
+      "en": "Moving toward hundreds of thousands of collaborating agents",
+      "zh": "迈向数十万个智能体协同工作"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "Third Moment’s ambition extends to the specialized work companies do every day. For a retailer, that could mean making better supply chain decisions when inventory is short or a supplier is delayed. For an engineering team, it could mean finding performance bottlenecks in a large codebase. For a document-heavy business, it could mean identifying where commitments in one document don’t match outcomes recorded in another.",
+      "en": "Third Moment’s ambition extends to the specialized work companies do every day. For a retailer, that could mean making better supply chain decisions when inventory is short or a supplier is delayed. For an engineering team, it could mean finding performance bottlenecks in a large codebase. For a document-heavy business, it could mean identifying where commitments in one document don’t match outcomes recorded in another.",
+      "zh": "Third Moment 的愿景还延伸到了企业日常开展的专业工作。对零售商而言，这可能意味着在库存短缺或供应商延迟交货时，做出更好的供应链决策。对工程团队而言，这可能意味着找出大型代码库中的性能瓶颈。对需要处理大量文档的企业而言，这可能意味着找出一份文档中的承诺与另一份文档所记录的结果之间不一致的地方。"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "Building on the reasoning capabilities of GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol, Third Moment plans to expand from individual investigations to hundreds of thousands of collaborating subagents. Its roadmap calls for trillions of tokens supporting chains of dozens of dependent experiments, with the goal of using that research to autonomously improve agents as new challenges arise.",
+      "en": "Building on the reasoning capabilities of GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol, Third Moment plans to expand from individual investigations to hundreds of thousands of collaborating subagents. Its roadmap calls for trillions of tokens supporting chains of dozens of dependent experiments, with the goal of using that research to autonomously improve agents as new challenges arise.",
+      "zh": "依托 GPT‑6 Astra、GPT‑6 Sol 和 GPT‑6.1 Sol 的推理能力，Third Moment 计划从单个研究任务扩展到数十万个子智能体的协同研究。其路线图规划使用数万亿 Token，支持由数十项相互依赖的实验串联而成的研究流程，目标是在新挑战出现时，利用这些研究自主改进智能体。"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "For Adam, this would give people more capacity to shape how agents learn and work: “Humans can be in a much more leveraged position, where they can think about how to do research and optimize the research itself instead of actually doing the research.”",
+      "en": "For Adam, this would give people more capacity to shape how agents learn and work: “Humans can be in a much more leveraged position, where they can think about how to do research and optimize the research itself instead of actually doing the research.”",
+      "zh": "在 Adam 看来，这将让人们更有能力塑造智能体的学习和工作方式：“人类可以发挥更大的作用，将精力用于思考如何开展研究、优化研究本身，而不必亲自执行研究。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p3",
+      "zh": "Codex、GPT‑6 Astra、GPT‑6 Sol 和 GPT‑6.1 Sol 为系统的研究与计算工作提供支持，让 Third Moment 能够同时运行 10,000 个智能体，开展持续 36–48 小时的研究。该公司还使用 Daybreak 测试智能体工作环境的安全性。",
+      "en": "Codex, GPT‑6 Astra, GPT‑6 Sol, and GPT‑6.1 Sol support the system’s research and computational work, enabling Third Moment to run 10,000 agents at once on investigations lasting 36-48 hours. The company also uses Daybreak to test the security of the environments where agents work."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "量化金融领域有明确的成功衡量标准，因此成为 Third Moment 早期应用方向之一。这一领域提供了具体的场景，便于研究智能体如何工作、在哪些环节遇到困难。",
+      "en": "One of Third Moment’s early applications is in the field of quantitative finance given the clear measure of success. This domain provides a concrete setting to study how agents work and where they struggle."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "Third Moment 为每个智能体配备完成特定工作所需的工具、信息和环境。在量化研究中，团队在 Docker 容器化环境内运行默认的 Codex 执行框架。",
+      "en": "Third Moment gives each agent the tools, information, and environment it needs for a specific job. For quantitative research, the team runs the default Codex harness inside a Dockerized environment."
+    },
+    {
+      "paragraphId": "p19",
+      "zh": "Third Moment 从优化、机器学习系统和量化研究等方面评估模型。团队以最高推理设置测试新发布的前沿模型，评估它们理解和查阅代码仓库、编写高效代码以及持续开展研究的能力。",
+      "en": "Third Moment evaluates models across optimization, machine learning systems, and quantitative research. It tests frontier releases at their highest reasoning settings, assessing their ability to navigate repositories, write efficient code, and sustain an investigation."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/third-moment-research/",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/third-moment-research/",
+      "title": "Third Moment Research 如何让 10,000 个智能体持续运行 36 小时以上"
+    }
+  },
+  "contentHash": "a185876dcff99cac311fb9d31e78571b721ccaafbe3a919fcee6e96be91e3056",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/third-moment-research/"
 }

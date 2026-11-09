@@ -3,8 +3,394 @@
   "id": "rss-9bf93d58cc35db9987f8",
   "url": "https://openai.com/index/asana-browser-agent",
   "sourceTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:52.105350+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:52.136497+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:55:18.116Z",
+  "finalURL": "https://openai.com/index/asana-browser-agent/",
+  "language": "en",
+  "originalTitle": "Asana cuts model costs 76x in browser tests with GPT‑6.1 Sol",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "With GPT‑6 Astra in Codex running experiments, Asana optimized its browser agent’s workflow on GPT‑6.1 Sol to run 76x cheaper and 5x faster.",
+      "en": "With GPT‑6 Astra in Codex running experiments, Asana optimized its browser agent’s workflow on GPT‑6.1 Sol to run 76x cheaper and 5x faster.",
+      "zh": "Asana 利用 Codex 中的 GPT‑6 Astra 开展实验，优化了基于 GPT‑6.1 Sol 的浏览器智能体工作流，将运行成本降至原来的 1/76，速度提升至原来的 5 倍。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Asana helps customers automate work across business applications through StackAI, a platform it acquired. Using StackAI, customers can build workflows that navigate websites, fill out forms, and gather information without writing code. At Asana’s scale, small inefficiencies in these workflows add up.",
+      "en": "Asana helps customers automate work across business applications through StackAI, a platform it acquired. Using StackAI, customers can build workflows that navigate websites, fill out forms, and gather information without writing code. At Asana’s scale, small inefficiencies in these workflows add up.",
+      "zh": "Asana 通过其收购的 StackAI 平台，帮助客户实现跨业务应用的工作自动化。借助 StackAI，客户无需编写代码，即可构建能够浏览网站、填写表单和收集信息的工作流。以 Asana 的业务规模，这些工作流中再微小的低效环节也会积少成多。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Asana’s StackAI CTO, Frank Hidalgo, PhD, set out to make the browser agent faster and cheaper to run. He directed GPT‑6 Astra in Codex to investigate the agent, test improvements, and compare the results. Work he estimates would have taken one to two months by hand took about a week.",
+      "en": "Asana’s StackAI CTO, Frank Hidalgo, PhD, set out to make the browser agent faster and cheaper to run. He directed GPT‑6 Astra in Codex to investigate the agent, test improvements, and compare the results. Work he estimates would have taken one to two months by hand took about a week.",
+      "zh": "Asana 的 StackAI 首席技术官 Frank Hidalgo 博士着手提升浏览器智能体的运行速度，并降低运行成本。他指导 Codex 中的 GPT‑6 Astra 分析这个智能体、测试改进方案并对比结果。据他估计，这项工作如果靠人工完成，需要一到两个月，而实际只花了约一周。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "Asana’s 144-run study tested GPT‑6.1 Sol and three other frontier models, called here Models A, B and C. The optimized workflow that emerged on GPT‑6.1 Sol averaged $0.47 in estimated model costs and about four minutes per run, 76x cheaper and 5x faster than the original production setup on Model B.",
+      "en": "Asana’s 144-run study tested GPT‑6.1 Sol and three other frontier models, called here Models A, B and C. The optimized workflow that emerged on GPT‑6.1 Sol averaged $0.47 in estimated model costs and about four minutes per run, 76x cheaper and 5x faster than the original production setup on Model B.",
+      "zh": "Asana 的研究共进行了 144 次运行测试，测试对象包括 GPT‑6.1 Sol 和另外三个前沿模型，本文将它们称为模型 A、B 和 C。最终得到的 GPT‑6.1 Sol 优化工作流，平均每次运行的预估模型成本为 0.47 美元，耗时约四分钟。相比基于模型 B 的原有生产配置，成本降至原来的 1/76，速度提升至原来的 5 倍。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "“This is what teams of humans and agents look like in practice. An engineer set the direction, GPT-6 Astra ran the experiments, and the results went through Command to production. This demonstrates how Asana brings human and agent teams to life.”",
+      "en": "“This is what teams of humans and agents look like in practice. An engineer set the direction, GPT-6 Astra ran the experiments, and the results went through Command to production. This demonstrates how Asana brings human and agent teams to life.”",
+      "zh": "“这就是人类与智能体团队在实践中的协作方式。工程师确定方向，GPT-6 Astra 开展实验，再通过 Command 将成果部署到生产环境。这展现了 Asana 如何让人类与智能体组成团队、真正协同工作。”"
+    },
+    {
+      "id": "p6",
+      "kind": "heading",
+      "text": "Identifying browser-agent inefficiencies with GPT‑6 Astra",
+      "en": "Identifying browser-agent inefficiencies with GPT‑6 Astra",
+      "zh": "借助 GPT‑6 Astra 找出浏览器智能体的低效环节"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "To move quickly, Hidalgo started by using GPT‑6 Astra in Codex to map the codebase and explain how the agent built each model request. GPT‑6 Astra discovered that the agent cached its fixed instructions and tool definitions, but not the growing history of page text and screenshots it gathered, so every request resent that history at full price.",
+      "en": "To move quickly, Hidalgo started by using GPT‑6 Astra in Codex to map the codebase and explain how the agent built each model request. GPT‑6 Astra discovered that the agent cached its fixed instructions and tool definitions, but not the growing history of page text and screenshots it gathered, so every request resent that history at full price.",
+      "zh": "为了快速推进，Hidalgo 首先使用 Codex 中的 GPT‑6 Astra 梳理代码库，并解释智能体如何构建每次模型请求。GPT‑6 Astra 发现，智能体缓存了固定指令和工具定义，却没有缓存不断累积的网页文本与截图历史，因此每次请求都会重新发送这些历史记录，并按全价计费。"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "The agent also dropped older screenshots and trimmed text at nearly every step. Each edit altered the history, so caching the history alone would not have helped, and losing those facts could require the agent to revisit pages it had already read.",
+      "en": "The agent also dropped older screenshots and trimmed text at nearly every step. Each edit altered the history, so caching the history alone would not have helped, and losing those facts could require the agent to revisit pages it had already read.",
+      "zh": "智能体还几乎在每一步都会删除较早的截图并裁剪文本。每次修改都会改变历史记录，因此仅仅缓存历史记录并不能解决问题；而丢失这些信息，还可能迫使智能体重新访问已经读过的页面。"
+    },
+    {
+      "id": "p9",
+      "kind": "heading",
+      "text": "From an estimated two months of research to one week with GPT‑6 Astra",
+      "en": "From an estimated two months of research to one week with GPT‑6 Astra",
+      "zh": "借助 GPT‑6 Astra，将预计两个月的研究缩短至一周"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Hidalgo reviewed GPT‑6 Astra’s proposed fixes and selected three to test:",
+      "en": "Hidalgo reviewed GPT‑6 Astra’s proposed fixes and selected three to test:",
+      "zh": "Hidalgo 审阅了 GPT‑6 Astra 提出的改进方案，并选出三项进行测试："
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Extending caching to the agent’s browsing history",
+      "en": "Extending caching to the agent’s browsing history",
+      "zh": "将缓存范围扩展至智能体的浏览历史"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "Increasing the amount of text it could retain",
+      "en": "Increasing the amount of text it could retain",
+      "zh": "增加可保留的文本量"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "Removing screenshots in batches rather than at every step",
+      "en": "Removing screenshots in batches rather than at every step",
+      "zh": "批量删除截图，而不是每一步都删除"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "GPT‑6 Astra began with quick tests to establish which variables mattered. Because the code was not designed for controlled experiments, it then refactored the code so one frontend and backend could support many workflows in parallel, each with its own settings.",
+      "en": "GPT‑6 Astra began with quick tests to establish which variables mattered. Because the code was not designed for controlled experiments, it then refactored the code so one frontend and backend could support many workflows in parallel, each with its own settings.",
+      "zh": "GPT‑6 Astra 先通过快速测试，确定哪些变量会影响结果。由于原有代码并非为对照实验设计，它随后重构了代码，使一套前后端能够并行支持多个工作流，且各自使用独立设置。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "Astra conducted the full study: history budgets of 120,000 and 480,000 characters and six caching and screenshot policies, each tested three times on each of the four models (see the table below). The best-performing policy allowed screenshots to accumulate to 20 before cutting back to the most recent one. This kept earlier history unchanged for longer stretches between removals. Combined with the larger history budget, it became the optimized workflow. Each configuration performed the same task: collecting six fields for each of 32 books from a public demo catalog, representative of what some Asana customers run in StackAI.",
+      "en": "Astra conducted the full study: history budgets of 120,000 and 480,000 characters and six caching and screenshot policies, each tested three times on each of the four models (see the table below). The best-performing policy allowed screenshots to accumulate to 20 before cutting back to the most recent one. This kept earlier history unchanged for longer stretches between removals. Combined with the larger history budget, it became the optimized workflow. Each configuration performed the same task: collecting six fields for each of 32 books from a public demo catalog, representative of what some Asana customers run in StackAI.",
+      "zh": "Astra 执行了完整研究：将历史记录容量上限分别设为 12 万和 48 万字符，搭配六种缓存和截图策略，在四个模型上对每种组合各测试三次（见下表）。表现最佳的策略是让截图累积至 20 张，再删减至仅保留最新的一张。这样，两次删除操作之间的间隔更长，较早的历史记录也能更久地保持不变。这项策略与更大的历史记录容量相结合，构成了最终的优化工作流。每种配置都执行同一项任务：从一个公开的演示目录中，收集 32 本书中每本书的六个字段。这项任务代表了部分 Asana 客户在 StackAI 中运行的工作。"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "Model",
+      "en": "Model",
+      "zh": "模型"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Description",
+      "en": "Description",
+      "zh": "描述"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Price",
+      "en": "Price",
+      "zh": "价格"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "Model A",
+      "en": "Model A",
+      "zh": "模型 A"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "A smaller, less expensive model from another frontier lab, released Fall 2025",
+      "en": "A smaller, less expensive model from another frontier lab, released Fall 2025",
+      "zh": "另一家前沿实验室于 2025 年秋季发布的模型，规模更小、价格更低"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "Half the price of GPT‑6.1 Sol",
+      "en": "Half the price of GPT‑6.1 Sol",
+      "zh": "价格为 GPT‑6.1 Sol 的一半"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Model B",
+      "en": "Model B",
+      "zh": "模型 B"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "The model originally used in production, from the same lab as Model A, released Summer 2026",
+      "en": "The model originally used in production, from the same lab as Model A, released Summer 2026",
+      "zh": "最初用于生产环境的模型，与模型 A 出自同一家实验室，于 2026 年夏季发布"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "Same price as GPT‑6.1 Sol",
+      "en": "Same price as GPT‑6.1 Sol",
+      "zh": "与 GPT‑6.1 Sol 价格相同"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "Model C",
+      "en": "Model C",
+      "zh": "模型 C"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "An updated version of Model B, released Fall 2026",
+      "en": "An updated version of Model B, released Fall 2026",
+      "zh": "模型 B 的更新版本，于 2026 年秋季发布"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "Same price as GPT‑6.1 Sol",
+      "en": "Same price as GPT‑6.1 Sol",
+      "zh": "与 GPT‑6.1 Sol 价格相同"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "GPT‑6.1 Sol",
+      "en": "GPT‑6.1 Sol",
+      "zh": "GPT‑6.1 Sol"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "OpenAI’s model",
+      "en": "OpenAI’s model",
+      "zh": "OpenAI 的模型"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "GPT‑6 Astra ran the workflows and examined the requests, usage records and outputs, and separate model sessions reviewed the work. Every session’s requests, data traces and results were recorded in Command, Asana’s software delivery platform, so the team could review the complete study afterward. From Command, the findings were turned into tickets, then pull requests, and the changes went to production.",
+      "en": "GPT‑6 Astra ran the workflows and examined the requests, usage records and outputs, and separate model sessions reviewed the work. Every session’s requests, data traces and results were recorded in Command, Asana’s software delivery platform, so the team could review the complete study afterward. From Command, the findings were turned into tickets, then pull requests, and the changes went to production.",
+      "zh": "GPT‑6 Astra 运行了这些工作流，检查请求、用量记录和输出，并由独立的模型会话复核工作。每个会话的请求、数据轨迹和结果都记录在 Asana 的软件交付平台 Command 中，方便团队事后审阅完整研究。研究发现先在 Command 中转为工单，再转为拉取请求，最终将这些改动部署到生产环境。"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "“This would have taken me one to two months by hand. With GPT-6 Astra in Codex, it took about a week: I’d set a /goal before going to bed and review the results in the morning.”",
+      "en": "“This would have taken me one to two months by hand. With GPT-6 Astra in Codex, it took about a week: I’d set a /goal before going to bed and review the results in the morning.”",
+      "zh": "“如果靠我手动完成，需要一到两个月。借助 Codex 中的 GPT-6 Astra，只花了约一周：我睡前用 /goal 设置目标，早上再查看结果。”"
+    },
+    {
+      "id": "p32",
+      "kind": "heading",
+      "text": "Bringing model cost below $0.50 per run",
+      "en": "Bringing model cost below $0.50 per run",
+      "zh": "将每次运行的模型成本降至 0.50 美元以下"
+    },
+    {
+      "id": "p33",
+      "kind": "paragraph",
+      "text": "For Model B, the optimization reduced estimated model cost from at least $36.21 (some original runs reached the step limit before they finished) to $1.24 per run, a reduction of 29x. The optimized workflow on GPT‑6.1 Sol was 2.6x cheaper still, at $0.47. Every run in the optimized workflow completed the task and returned the correct answer.",
+      "en": "For Model B, the optimization reduced estimated model cost from at least $36.21 (some original runs reached the step limit before they finished) to $1.24 per run, a reduction of 29x. The optimized workflow on GPT‑6.1 Sol was 2.6x cheaper still, at $0.47. Every run in the optimized workflow completed the task and returned the correct answer.",
+      "zh": "对于模型 B，优化将每次运行的预估模型成本从至少 36.21 美元降至 1.24 美元，即原来的 1/29（原有配置的部分运行在完成前就达到了步数上限）。基于 GPT‑6.1 Sol 的优化工作流成本进一步降至 0.47 美元，仅为前者的 1/2.6。优化工作流的每次运行都完成了任务，并返回了正确答案。"
+    },
+    {
+      "id": "p34",
+      "kind": "paragraph",
+      "text": "Means of 3 runs. ≥: the baseline includes capped runs, so its mean is a lower bound.",
+      "en": "Means of 3 runs. ≥: the baseline includes capped runs, so its mean is a lower bound.",
+      "zh": "3 次运行的平均值。≥：基线包含达到上限的运行，因此其平均值为下限。"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "The two right folds compare against Model B optimized. Model B ran in phase 1, Model C and Sol 6.1 in phase 2 of the same study (dotted line).",
+      "en": "The two right folds compare against Model B optimized. Model B ran in phase 1, Model C and Sol 6.1 in phase 2 of the same study (dotted line).",
+      "zh": "右侧的两个倍数均以模型 B 优化配置为比较基准。模型 B 在本研究的阶段 1 运行，模型 C 和 Sol 6.1 在阶段 2 运行（以虚线分隔）。"
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "On GPT‑6.1 Sol alone, with the larger history budget, the new caching and screenshot policy reduced cost 4x, from $1.97 to $0.47 per run. Each call was about 3x cheaper, because 89% of the input came from cache at 5% of the uncached price. Runs also became faster: at least 22.5 minutes on the original setup on Model B, roughly four minutes with the optimized workflow on GPT‑6.1 Sol.",
+      "en": "On GPT‑6.1 Sol alone, with the larger history budget, the new caching and screenshot policy reduced cost 4x, from $1.97 to $0.47 per run. Each call was about 3x cheaper, because 89% of the input came from cache at 5% of the uncached price. Runs also became faster: at least 22.5 minutes on the original setup on Model B, roughly four minutes with the optimized workflow on GPT‑6.1 Sol.",
+      "zh": "仅看 GPT‑6.1 Sol，在采用更大的历史记录容量时，新的缓存和截图策略将每次运行的成本从 1.97 美元降至 0.47 美元，约为原来的四分之一。每次调用的成本约降至原来的三分之一，因为 89% 的输入来自缓存，而缓存输入的价格仅为未缓存输入的 5%。运行速度也更快了：模型 B 的原有配置至少需要 22.5 分钟，而 GPT‑6.1 Sol 的优化工作流仅需约四分钟。"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "Mean of 3 runs, SD whiskers. ≥: mean includes a capped or unfinished run, so the true value is at least this large.",
+      "en": "Mean of 3 runs, SD whiskers. ≥: mean includes a capped or unfinished run, so the true value is at least this large.",
+      "zh": "3 次运行的平均值，误差线表示标准差。≥：平均值包含达到上限或未完成的运行，因此实际值至少为此数值。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "Bars use the blue theme. Read caching effects against the 480k larger-budget bar.",
+      "en": "Bars use the blue theme. Read caching effects against the 480k larger-budget bar.",
+      "zh": "柱形采用蓝色配色。请以“更大容量（48 万字符）”柱形为基准，比较缓存带来的效果。"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "Run markers and SD whiskers are approximate reconstructions from the source image; underlying run values and standard deviations were not available.",
+      "en": "Run markers and SD whiskers are approximate reconstructions from the source image; underlying run values and standard deviations were not available.",
+      "zh": "运行标记和标准差误差线均根据原图近似还原，未获得原始运行数值和标准差。"
+    },
+    {
+      "id": "p40",
+      "kind": "paragraph",
+      "text": "Mean of 3 runs, SD whiskers. ≥: mean includes a capped or unfinished run, so the true value is at least this large.",
+      "en": "Mean of 3 runs, SD whiskers. ≥: mean includes a capped or unfinished run, so the true value is at least this large.",
+      "zh": "3 次运行的平均值，误差线表示标准差。≥：平均值包含达到上限或未完成的运行，因此实际值至少为此数值。"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "Bars use the blue theme. Read caching effects against the 480k larger-budget bar.",
+      "en": "Bars use the blue theme. Read caching effects against the 480k larger-budget bar.",
+      "zh": "柱形采用蓝色配色。请以“更大容量（48 万字符）”柱形为基准，比较缓存带来的效果。"
+    },
+    {
+      "id": "p42",
+      "kind": "paragraph",
+      "text": "Run markers and SD whiskers are approximate reconstructions from the source image; underlying run values and standard deviations were not available.",
+      "en": "Run markers and SD whiskers are approximate reconstructions from the source image; underlying run values and standard deviations were not available.",
+      "zh": "运行标记和标准差误差线均根据原图近似还原，未获得原始运行数值和标准差。"
+    },
+    {
+      "id": "p43",
+      "kind": "paragraph",
+      "text": "The investigation also showed how history management affected whether the agent produced an answer at all. Giving GPT‑6.1 Sol more room to retain its browsing history increased the number of runs that produced an answer from three of 18 with the smaller history budget to all 18 with the larger budget, each with the correct answer. For Hidalgo, the business value is giving customers access to faster, more capable models while keeping operating costs sustainable.",
+      "en": "The investigation also showed how history management affected whether the agent produced an answer at all. Giving GPT‑6.1 Sol more room to retain its browsing history increased the number of runs that produced an answer from three of 18 with the smaller history budget to all 18 with the larger budget, each with the correct answer. For Hidalgo, the business value is giving customers access to faster, more capable models while keeping operating costs sustainable.",
+      "zh": "这项研究还揭示了历史记录的管理方式如何影响智能体能否给出答案。为 GPT‑6.1 Sol 提供更多空间来保留浏览历史后，能给出答案的运行次数从较小容量下的 18 次中仅 3 次，增加到较大容量下的 18 次全部，而且答案均正确。在 Hidalgo 看来，其商业价值在于：让客户能够使用速度更快、能力更强的模型，同时将运营成本控制在可持续的水平。"
+    },
+    {
+      "id": "p44",
+      "kind": "paragraph",
+      "text": "“Cost used to limit which models we could offer customers for these workloads. By making the agent more efficient, we can give customers a better, faster model while lowering our operating costs.”",
+      "en": "“Cost used to limit which models we could offer customers for these workloads. By making the agent more efficient, we can give customers a better, faster model while lowering our operating costs.”",
+      "zh": "“过去，成本限制了我们能为客户提供哪些模型来处理这些工作负载。提升智能体的效率后，我们既能为客户提供更好、更快的模型，也能降低自身的运营成本。”"
+    },
+    {
+      "id": "p45",
+      "kind": "heading",
+      "text": "Scaling experimentation and product testing",
+      "en": "Scaling experimentation and product testing",
+      "zh": "扩大实验与产品测试的规模"
+    },
+    {
+      "id": "p46",
+      "kind": "paragraph",
+      "text": "Asana has released the changes to browser navigation in StackAI and is developing tools to make similar experiments easier to repeat. Over time, the team plans to incorporate this testing into the platform’s evaluations, so customers and internal teams can compare cost, runtime, and answer quality when configuring their agents.",
+      "en": "Asana has released the changes to browser navigation in StackAI and is developing tools to make similar experiments easier to repeat. Over time, the team plans to incorporate this testing into the platform’s evaluations, so customers and internal teams can compare cost, runtime, and answer quality when configuring their agents.",
+      "zh": "Asana 已在 StackAI 中上线了浏览器导航功能的改进，并正在开发工具，让类似实验更容易复现。团队计划逐步将这类测试纳入平台评估，使客户和内部团队在配置智能体时，能够比较成本、运行时间和答案质量。"
+    },
+    {
+      "id": "p47",
+      "kind": "paragraph",
+      "text": "“Shipping speed is no longer the bottleneck; human attention is. We’re close to a world where every engineer is a PM leading a fleet of agents.”",
+      "en": "“Shipping speed is no longer the bottleneck; human attention is. We’re close to a world where every engineer is a PM leading a fleet of agents.”",
+      "zh": "“交付速度已不再是瓶颈，人的注意力才是。我们正接近这样一个时代：每位工程师都像产品经理一样，带领一支智能体团队。”"
+    },
+    {
+      "id": "p48",
+      "kind": "paragraph",
+      "text": "Asana is now using GPT‑6 Astra in Codex to test product features before release: Astra navigates the platform, tries different inputs and reports bugs for human QA reviewers. Hidalgo views this as the foundation for a new software development lifecycle, with many cloud agent sessions testing features in parallel.",
+      "en": "Asana is now using GPT‑6 Astra in Codex to test product features before release: Astra navigates the platform, tries different inputs and reports bugs for human QA reviewers. Hidalgo views this as the foundation for a new software development lifecycle, with many cloud agent sessions testing features in parallel.",
+      "zh": "Asana 目前正使用 Codex 中的 GPT‑6 Astra 在产品功能发布前进行测试：Astra 浏览平台、尝试不同输入，并向人工 QA 审核人员报告软件缺陷。Hidalgo 认为，这为一种新的软件开发生命周期奠定了基础：由多个云端智能体会话并行测试功能。"
+    },
+    {
+      "id": "p49",
+      "kind": "paragraph",
+      "text": "The complete study is available on the Asana and StackAI blogs.",
+      "en": "The complete study is available on the Asana and StackAI blogs.",
+      "zh": "完整研究可在 Asana 和 StackAI 的博客上查阅。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Asana 利用 Codex 中的 GPT‑6 Astra 开展实验，优化了基于 GPT‑6.1 Sol 的浏览器智能体工作流，将运行成本降至原来的 1/76，速度提升至原来的 5 倍。",
+      "en": "With GPT‑6 Astra in Codex running experiments, Asana optimized its browser agent’s workflow on GPT‑6.1 Sol to run 76x cheaper and 5x faster."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "Asana 的研究共进行了 144 次运行测试，测试对象包括 GPT‑6.1 Sol 和另外三个前沿模型，本文将它们称为模型 A、B 和 C。最终得到的 GPT‑6.1 Sol 优化工作流，平均每次运行的预估模型成本为 0.47 美元，耗时约四分钟。",
+      "en": "Asana’s 144-run study tested GPT‑6.1 Sol and three other frontier models, called here Models A, B and C. The optimized workflow that emerged on GPT‑6.1 Sol averaged $0.47 in estimated model costs and about four minutes per run, 76x cheaper and 5x faster than the original production setup on Model B."
+    },
+    {
+      "paragraphId": "p15",
+      "zh": "Astra 执行了完整研究：将历史记录容量上限分别设为 12 万和 48 万字符，搭配六种缓存和截图策略，在四个模型上对每种组合各测试三次（见下表）。表现最佳的策略是让截图累积至 20 张，再删减至仅保留最新的一张。",
+      "en": "Astra conducted the full study: history budgets of 120,000 and 480,000 characters and six caching and screenshot policies, each tested three times on each of the four models (see the table below). The best-performing policy allowed screenshots to accumulate to 20 before cutting back to the most recent one."
+    },
+    {
+      "paragraphId": "p43",
+      "zh": "这项研究还揭示了历史记录的管理方式如何影响智能体能否给出答案。为 GPT‑6.1 Sol 提供更多空间来保留浏览历史后，能给出答案的运行次数从较小容量下的 18 次中仅 3 次，增加到较大容量下的 18 次全部，而且答案均正确。",
+      "en": "The investigation also showed how history management affected whether the agent produced an answer at all. Giving GPT‑6.1 Sol more room to retain its browsing history increased the number of runs that produced an answer from three of 18 with the smaller history budget to all 18 with the larger budget, each with the correct answer."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/asana-browser-agent/",
+      "title": "Asana cuts model costs 76x in browser tests with GPT‑6.1 Sol"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/asana-browser-agent/",
+      "title": "Asana 借助 GPT‑6.1 Sol，在浏览器测试中将模型成本降至原来的 1/76"
+    }
+  },
+  "contentHash": "16631ae9fb34e87e34e883f71c3e61d6eaa27b50f94d0c84f81b2c6ac27ac0b4",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/asana-browser-agent/"
 }

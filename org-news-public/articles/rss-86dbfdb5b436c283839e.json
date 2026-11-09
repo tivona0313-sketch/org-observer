@@ -3,8 +3,422 @@
   "id": "rss-86dbfdb5b436c283839e",
   "url": "https://openai.com/index/grupo-boticario",
   "sourceTitle": "How Grupo Boticário uses AI to strengthen human connections",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.918265+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.955676+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:54:50.951Z",
+  "finalURL": "https://openai.com/index/grupo-boticario/",
+  "language": "en",
+  "originalTitle": "How Grupo Boticário uses AI to strengthen human connections",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "heading",
+      "text": "Two things done well, now at scale",
+      "en": "Two things done well, now at scale",
+      "zh": "把两件事做好，如今更能大规模实现"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Grupo Boticário began in 1977 as a small compounding pharmacy in Paraná. According to Renato Pedigoni, the group’s CTO, the founder did two things very well: he served customers with care and affection, understanding their needs, and created high-quality products.",
+      "en": "Grupo Boticário began in 1977 as a small compounding pharmacy in Paraná. According to Renato Pedigoni, the group’s CTO, the founder did two things very well: he served customers with care and affection, understanding their needs, and created high-quality products.",
+      "zh": "Grupo Boticário 于 1977 年起步于巴拉那州的一家小型配药药房。集团首席技术官 Renato Pedigoni 表示，创始人把两件事做得非常出色：用心、热情地服务客户，理解他们的需求；以及打造高品质产品。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "Almost five decades later, its ecosystem encompasses laboratories, factories, innovation, technology, logistics, marketing, and retail—with a presence in more than 40 countries, more than 4,000 physical stores across more than 1,700 Brazilian cities, and an ecosystem of 200,000 points of sale across retail, partners, and suppliers. It is one of Brazil’s largest beauty franchise networks.",
+      "en": "Almost five decades later, its ecosystem encompasses laboratories, factories, innovation, technology, logistics, marketing, and retail—with a presence in more than 40 countries, more than 4,000 physical stores across more than 1,700 Brazilian cities, and an ecosystem of 200,000 points of sale across retail, partners, and suppliers. It is one of Brazil’s largest beauty franchise networks.",
+      "zh": "近五十年后，集团的生态系统已涵盖实验室、工厂、创新、技术、物流、营销和零售，业务遍及 40 多个国家，在巴西 1,700 多个城市拥有 4,000 多家实体门店，并通过零售、合作伙伴及供应商构建了拥有 20 万个销售点的生态网络。它是巴西最大的美妆特许经营网络之一。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "The company’s premise is that technology exists to keep doing those same two things—on a massive scale.",
+      "en": "The company’s premise is that technology exists to keep doing those same two things—on a massive scale.",
+      "zh": "公司的理念是，技术的意义在于让这两件事能够持续做好，并实现大规模推广。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "“Today, almost 50 years later, we use technology to continue doing those two things well, and at scale,” says Pedigoni.",
+      "en": "“Today, almost 50 years later, we use technology to continue doing those two things well, and at scale,” says Pedigoni.",
+      "zh": "Pedigoni 表示：“近 50 年后的今天，我们借助技术，继续把这两件事做好，并且做到规模化。”"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "This is the origin of the term the company adopted to describe itself: Lovetech—the union of technology and human sensitivity as pillars of its culture, helping the company innovate while preserving the human touch.",
+      "en": "This is the origin of the term the company adopted to describe itself: Lovetech—the union of technology and human sensitivity as pillars of its culture, helping the company innovate while preserving the human touch.",
+      "zh": "这也是公司用来定义自身的词语 Lovetech 的由来：将技术与人文关怀相结合，作为企业文化的支柱，帮助公司在创新的同时保留人情味。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "“We like to call ourselves a Lovetech, using technology to bring people closer together, encourage self-care, and connect with the people in our ecosystem.”",
+      "en": "“We like to call ourselves a Lovetech, using technology to bring people closer together, encourage self-care, and connect with the people in our ecosystem.”",
+      "zh": "“我们喜欢称自己为 Lovetech，用技术拉近人与人之间的距离，鼓励人们关爱自己，并与生态系统中的每个人建立联系。”"
+    },
+    {
+      "id": "p8",
+      "kind": "heading",
+      "text": "Why the platform had to be proprietary",
+      "en": "Why the platform had to be proprietary",
+      "zh": "为什么必须自研平台"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "The decision to develop solutions internally stems from how the group operates: a vertically integrated chain that runs from research and development laboratories through manufacturing, distribution, and logistics to the final interaction with customers.",
+      "en": "The decision to develop solutions internally stems from how the group operates: a vertically integrated chain that runs from research and development laboratories through manufacturing, distribution, and logistics to the final interaction with customers.",
+      "zh": "选择自主开发解决方案，源于集团的运营方式：一条纵向整合的业务链，从研发实验室出发，贯穿制造、分销和物流，直至最终与客户互动。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "That interaction happens on many fronts at once. Beyond being multi-brand, the group is multichannel: physical stores, e-commerce, marketplaces, franchising, direct sales, B2B, and B2P. More than 10 consumer brands—including O Boticário, Eudora, Quem Disse Berenice, Vult, and Truss—operate under different business models, with franchisees, resellers, and beauty professionals in salons.",
+      "en": "That interaction happens on many fronts at once. Beyond being multi-brand, the group is multichannel: physical stores, e-commerce, marketplaces, franchising, direct sales, B2B, and B2P. More than 10 consumer brands—including O Boticário, Eudora, Quem Disse Berenice, Vult, and Truss—operate under different business models, with franchisees, resellers, and beauty professionals in salons.",
+      "zh": "这些互动同时发生在多个渠道。集团不仅拥有多个品牌，还布局了多种渠道：实体门店、电商、第三方电商平台、特许经营、直销、B2B 和 B2P。旗下 10 多个消费品牌，包括 O Boticário、Eudora、Quem Disse Berenice、Vult 和 Truss，采用不同的商业模式，与加盟商、经销商以及沙龙中的美容美发专业人士合作。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "“Once we have this complexity of multiple brands, categories, and channels, we can build our own technology that brings it all together,” Pedigoni explains.",
+      "en": "“Once we have this complexity of multiple brands, categories, and channels, we can build our own technology that brings it all together,” Pedigoni explains.",
+      "zh": "Pedigoni 解释道：“面对多品牌、多品类、多渠道的复杂业务，我们可以打造自己的技术，把这一切整合起来。”"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "The return is twofold: better listening to customers at the point of contact and optimization of the production chain—which inputs to buy, where to distribute them, to which store, and how many units of each SKU need to be delivered.",
+      "en": "The return is twofold: better listening to customers at the point of contact and optimization of the production chain—which inputs to buy, where to distribute them, to which store, and how many units of each SKU need to be delivered.",
+      "zh": "这带来了双重回报：在客户接触环节更好地倾听需求，同时优化生产链——该采购哪些物料、配送到哪里、送往哪家门店，以及每个 SKU 需要配送多少件。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "Grupo Boticário was not born digital. But it has reached a stage where it develops critical solutions and processes internally—supported by the premise of digital democratization: making data accessible across the company for analyses, AI models, and dashboards. For the fifth consecutive year, the company was recognized among Latin America’s most admired companies in data, ranking second in State of Data Brazil 2025–2026, by Data Hackers in partnership with Bain & Company.",
+      "en": "Grupo Boticário was not born digital. But it has reached a stage where it develops critical solutions and processes internally—supported by the premise of digital democratization: making data accessible across the company for analyses, AI models, and dashboards. For the fifth consecutive year, the company was recognized among Latin America’s most admired companies in data, ranking second in State of Data Brazil 2025–2026, by Data Hackers in partnership with Bain & Company.",
+      "zh": "Grupo Boticário 并非一家数字原生企业。但如今，它已能够自主开发关键解决方案和流程。这背后是数字普惠的理念：让全公司都能获取数据，用于分析、AI 模型和数据看板。公司已连续第五年获评拉丁美洲数据领域最受推崇的企业之一，并在 Data Hackers 与 Bain & Company 联合发布的《2025—2026 年巴西数据现状》报告中位列第二。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "“With this view of an integrated chain, this mix of channels, and collaboration with other business partners, our own technology allows us to be more effective and closer to the customer.”",
+      "en": "“With this view of an integrated chain, this mix of channels, and collaboration with other business partners, our own technology allows us to be more effective and closer to the customer.”",
+      "zh": "“凭借对一体化业务链的整体把握、多渠道布局，以及与其他业务伙伴的合作，我们的自研技术让我们能够更有效地开展业务，也更贴近客户。”"
+    },
+    {
+      "id": "p15",
+      "kind": "heading",
+      "text": "An agent platform for the entire reseller journey",
+      "en": "An agent platform for the entire reseller journey",
+      "zh": "覆盖经销商服务全流程的智能体平台"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "OpenAI provides the technology in the group’s proprietary agent orchestration platform, which combines foundation models with business rules to democratize the creation of agents focused on activating and serving its key partners: resellers and franchisees.",
+      "en": "OpenAI provides the technology in the group’s proprietary agent orchestration platform, which combines foundation models with business rules to democratize the creation of agents focused on activating and serving its key partners: resellers and franchisees.",
+      "zh": "OpenAI 为集团自研的智能体编排平台提供技术支持。该平台将基础模型与业务规则相结合，降低智能体创建门槛，帮助团队构建智能体，专注于激活和服务集团的核心合作伙伴：经销商与加盟商。"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "“Today we have hundreds of agents in our ecosystem serving customers, partners, franchisees, and resellers,” says Pedigoni.",
+      "en": "“Today we have hundreds of agents in our ecosystem serving customers, partners, franchisees, and resellers,” says Pedigoni.",
+      "zh": "Pedigoni 表示：“如今，我们的生态系统中已有数百个智能体，为客户、合作伙伴、加盟商和经销商提供服务。”"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "The reseller journey alone has more than 30 agents, covering everything from registration and the first order to day-to-day operational support—alongside agents dedicated to validating the content and effectiveness of responses, ensuring continuous improvement of the solution. The architecture combines generative and predictive AI.",
+      "en": "The reseller journey alone has more than 30 agents, covering everything from registration and the first order to day-to-day operational support—alongside agents dedicated to validating the content and effectiveness of responses, ensuring continuous improvement of the solution. The architecture combines generative and predictive AI.",
+      "zh": "仅经销商服务全流程就部署了 30 多个智能体，覆盖从注册、首次下单到日常业务支持的各个环节。此外，还有专门核验回复内容和效果的智能体，确保解决方案持续改进。该架构结合了生成式 AI 和预测式 AI。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "The journey is divided into two areas.",
+      "en": "The journey is divided into two areas.",
+      "zh": "整个流程分为两个部分。"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "For reseller onboarding, AI qualifies leads: a lead arrives through a digital channel and is received by AI to clarify questions about joining. When the lead signals an intention to complete an order, it is transferred to human support. This ensures a prompt first response, with service available 24 hours a day, and directs leads ready to advance through the journey to the human team. The solution covers 90% of leads captured in direct sales.",
+      "en": "For reseller onboarding, AI qualifies leads: a lead arrives through a digital channel and is received by AI to clarify questions about joining. When the lead signals an intention to complete an order, it is transferred to human support. This ensures a prompt first response, with service available 24 hours a day, and directs leads ready to advance through the journey to the human team. The solution covers 90% of leads captured in direct sales.",
+      "zh": "在经销商加入阶段，AI 负责评估潜在客户的资格：潜在客户通过数字渠道联系集团后，由 AI 接待并解答有关加入的疑问。当潜在客户表示有意完成下单时，就会转接至人工服务。这既能确保及时响应首次咨询、提供全天候服务，也能将准备进入下一阶段的潜在客户交由人工团队跟进。该解决方案覆盖了直销渠道获取的 90% 的潜在客户。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "For reseller support, agents autonomously resolve day-to-day operational requests: sending catalogs, answering questions about payment slips, handling app questions, and addressing general topics. Since November 2025, they have covered 100% of conversations generated in appchat and WhatsApp Enterprise, with up to 80% autonomous resolution.",
+      "en": "For reseller support, agents autonomously resolve day-to-day operational requests: sending catalogs, answering questions about payment slips, handling app questions, and addressing general topics. Since November 2025, they have covered 100% of conversations generated in appchat and WhatsApp Enterprise, with up to 80% autonomous resolution.",
+      "zh": "在经销商支持方面，智能体可自主解决日常业务请求，包括发送产品目录、解答付款单和应用使用方面的疑问，以及处理一般咨询。自 2025 年 11 月以来，它们已覆盖应用内聊天和 WhatsApp Enterprise 中产生的全部对话，自主解决率最高达 80%。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "“OpenAI helps us enormously by delivering foundation models at scale, so we can focus on our business rules and what our resellers need,” says Pedigoni.",
+      "en": "“OpenAI helps us enormously by delivering foundation models at scale, so we can focus on our business rules and what our resellers need,” says Pedigoni.",
+      "zh": "Pedigoni 表示：“OpenAI 大规模提供基础模型，为我们带来了巨大帮助，让我们可以专注于自身的业务规则和经销商的需求。”"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "He is careful to shift the interpretation of these figures.",
+      "en": "He is careful to shift the interpretation of these figures.",
+      "zh": "他特别强调，应当换个角度解读这些数字。"
+    },
+    {
+      "id": "p24",
+      "kind": "paragraph",
+      "text": "“Sometimes we think of automation as something closely tied to efficiency. We prefer to see this automation as improving the quality of our service and enabling our supervisors to have an even deeper relationship with consumers and resellers, too.”",
+      "en": "“Sometimes we think of automation as something closely tied to efficiency. We prefer to see this automation as improving the quality of our service and enabling our supervisors to have an even deeper relationship with consumers and resellers, too.”",
+      "zh": "“有时，我们会认为自动化与效率密切相关。但我们更愿意看到的是，自动化提升了服务质量，让我们的主管能够与消费者和经销商建立更深厚的关系。”"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "Repetitive work is removed from the sales force’s routine, allowing it to focus on better understanding resellers, their context, and their customers. On the other side, resellers receive quick answers and gain time to act as advisors within their own businesses.",
+      "en": "Repetitive work is removed from the sales force’s routine, allowing it to focus on better understanding resellers, their context, and their customers. On the other side, resellers receive quick answers and gain time to act as advisors within their own businesses.",
+      "zh": "销售团队不再需要在日常工作中处理重复性任务，从而能够专注于更深入地了解经销商、他们的经营状况及其客户。另一方面，经销商能够迅速获得答复，也有更多时间在自己的业务中发挥顾问作用。"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "“Our deal with OpenAI brings to life our vision that AI exists to amplify human talent. By integrating these models into our proprietary platform through multiple agents, we achieved autonomous resolution of up to 80% of operational requests. This frees our sales force from repetitive tasks, enabling them to take on a truly advisory role, focused on what matters most: strengthening connections and growing the businesses of our reseller network.”",
+      "en": "“Our deal with OpenAI brings to life our vision that AI exists to amplify human talent. By integrating these models into our proprietary platform through multiple agents, we achieved autonomous resolution of up to 80% of operational requests. This frees our sales force from repetitive tasks, enabling them to take on a truly advisory role, focused on what matters most: strengthening connections and growing the businesses of our reseller network.”",
+      "zh": "“我们与 OpenAI 的合作让我们的愿景成为现实：AI 的存在是为了放大人的才能。通过多个智能体将这些模型集成到自研平台中，我们实现了最高 80% 的日常业务请求自主解决率。这让销售团队摆脱重复性任务，真正承担起顾问的角色，专注于最重要的事：加深联系，帮助经销商网络中的伙伴发展业务。”"
+    },
+    {
+      "id": "p27",
+      "kind": "heading",
+      "text": "The people serving customers write the prompts",
+      "en": "The people serving customers write the prompts",
+      "zh": "让服务客户的人编写提示词"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "One of the operation’s distinguishing features is organizational rather than technical: the business team manages prompts on the platform.",
+      "en": "One of the operation’s distinguishing features is organizational rather than technical: the business team manages prompts on the platform.",
+      "zh": "这套运营方式的一大特色不在技术，而在组织分工：由业务团队管理平台上的提示词。"
+    },
+    {
+      "id": "p29",
+      "kind": "paragraph",
+      "text": "It was not always this way. When the first agents were built years ago, prompts were the technology team’s responsibility—a more technical task in unfamiliar territory. Results were good, but the group saw value in continuous iteration: optimizing prompts every day and running A/B tests between approaches.",
+      "en": "It was not always this way. When the first agents were built years ago, prompts were the technology team’s responsibility—a more technical task in unfamiliar territory. Results were good, but the group saw value in continuous iteration: optimizing prompts every day and running A/B tests between approaches.",
+      "zh": "最初并非如此。几年前构建首批智能体时，提示词由技术团队负责——在当时这个陌生领域，这被视为一项偏技术性的任务。虽然效果不错，但集团也看到了持续迭代的价值：每天优化提示词，并对不同方案开展 A/B 测试。"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "“And there is no one better to do that than the team serving customers today,” Pedigoni says.",
+      "en": "“And there is no one better to do that than the team serving customers today,” Pedigoni says.",
+      "zh": "Pedigoni 表示：“而最适合做这件事的，正是如今在一线服务客户的团队。”"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "The change altered the teams’ roles. Sales, customer service, and support teams began managing their own prompts, with continuous incremental improvements based on feedback from daily use. They expanded their focus beyond direct work with resellers to include service systems and models—drawing on their own frontline experience.",
+      "en": "The change altered the teams’ roles. Sales, customer service, and support teams began managing their own prompts, with continuous incremental improvements based on feedback from daily use. They expanded their focus beyond direct work with resellers to include service systems and models—drawing on their own frontline experience.",
+      "zh": "这一变化改变了各团队的角色。销售、客户服务和支持团队开始自行管理提示词，并根据日常使用反馈持续进行小步改进。他们的工作不再局限于直接服务经销商，还利用自身的一线经验，参与服务系统和模型的改进。"
+    },
+    {
+      "id": "p32",
+      "kind": "paragraph",
+      "text": "“With this, we improved service quality for our resellers and also created new career paths for teams that continue serving customers while also contributing to the creation of a better automated service system.”",
+      "en": "“With this, we improved service quality for our resellers and also created new career paths for teams that continue serving customers while also contributing to the creation of a better automated service system.”",
+      "zh": "“通过这一举措，我们提升了面向经销商的服务质量，也为团队开辟了新的职业发展路径。他们在继续服务客户的同时，也参与构建更完善的自动化服务系统。”"
+    },
+    {
+      "id": "p33",
+      "kind": "heading",
+      "text": "Results overview",
+      "en": "Results overview",
+      "zh": "成果概览"
+    },
+    {
+      "id": "p34",
+      "kind": "paragraph",
+      "text": "Since November 2025, agents have covered 100% of conversations generated in appchat and WhatsApp Enterprise, with up to 80% autonomous resolution of operational requests.",
+      "en": "Since November 2025, agents have covered 100% of conversations generated in appchat and WhatsApp Enterprise, with up to 80% autonomous resolution of operational requests.",
+      "zh": "自 2025 年 11 月以来，智能体已覆盖应用内聊天和 WhatsApp Enterprise 中产生的全部对话，日常业务请求的自主解决率最高达 80%。"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "The solution covers 90% of direct-sales leads, initially received and qualified by AI, with 24-hour service at first contact and transfer to the human team when there is an intention to proceed with an order.",
+      "en": "The solution covers 90% of direct-sales leads, initially received and qualified by AI, with 24-hour service at first contact and transfer to the human team when there is an intention to proceed with an order.",
+      "zh": "该解决方案覆盖了 90% 的直销潜在客户，由 AI 负责初步接待和资格评估，在首次接触时提供全天候服务，并在对方有意下单时转交人工团队。"
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "The group operates hundreds of agents across its ecosystem; the reseller journey alone has more than 30, from registration and the first order to operational support, with agents dedicated to validating content and response effectiveness.",
+      "en": "The group operates hundreds of agents across its ecosystem; the reseller journey alone has more than 30, from registration and the first order to operational support, with agents dedicated to validating content and response effectiveness.",
+      "zh": "集团在整个生态系统中部署了数百个智能体；仅经销商服务全流程就有 30 多个，覆盖从注册、首次下单到日常业务支持的各个环节，其中还有专门核验回复内容和效果的智能体。"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "The solution is proprietary, combines generative and predictive AI, and operates with business-team autonomy: the team manages prompts directly on the platform.",
+      "en": "The solution is proprietary, combines generative and predictive AI, and operates with business-team autonomy: the team manages prompts directly on the platform.",
+      "zh": "该解决方案由集团自主研发，结合了生成式 AI 和预测式 AI，并赋予业务团队自主权：团队可直接在平台上管理提示词。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "Sales, customer service, and support teams began contributing directly to the system’s evolution, creating new career paths.",
+      "en": "Sales, customer service, and support teams began contributing directly to the system’s evolution, creating new career paths.",
+      "zh": "销售、客户服务和支持团队开始直接参与系统的持续改进，由此开辟了新的职业发展路径。"
+    },
+    {
+      "id": "p39",
+      "kind": "heading",
+      "text": "Lessons for leaders",
+      "en": "Lessons for leaders",
+      "zh": "给领导者的启示"
+    },
+    {
+      "id": "p40",
+      "kind": "paragraph",
+      "text": "Automation is about service quality before efficiency. The benefit appears in the deeper relationships that humans have time to build.",
+      "en": "Automation is about service quality before efficiency. The benefit appears in the deeper relationships that humans have time to build.",
+      "zh": "自动化首先关乎服务质量，其次才是效率。它的价值在于让员工有时间与客户建立更深厚的关系。"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "Put the agent where users already are. Convenience determines adoption more than technical capability.",
+      "en": "Put the agent where users already are. Convenience determines adoption more than technical capability.",
+      "zh": "把智能体部署在用户已经使用的渠道中。相比技术能力，使用是否便捷更能决定用户是否愿意采用。"
+    },
+    {
+      "id": "p42",
+      "kind": "paragraph",
+      "text": "Give prompt control to the people who know the customer. Those serving customers daily iterate better and faster than those who only implement the technology.",
+      "en": "Give prompt control to the people who know the customer. Those serving customers daily iterate better and faster than those who only implement the technology.",
+      "zh": "让了解客户的人掌握提示词的管理权。每天服务客户的人，比只负责技术实施的人迭代得更好、更快。"
+    },
+    {
+      "id": "p43",
+      "kind": "paragraph",
+      "text": "A proprietary platform makes sense when complexity is your advantage. Many brands, channels, and partnership models require a layer that no one provides out of the box.",
+      "en": "A proprietary platform makes sense when complexity is your advantage. Many brands, channels, and partnership models require a layer that no one provides out of the box.",
+      "zh": "当业务的复杂性是你的优势时，自研平台就有了价值。要整合众多品牌、渠道和合作模式，需要一层没有现成产品能够提供的系统能力。"
+    },
+    {
+      "id": "p44",
+      "kind": "paragraph",
+      "text": "Treat the change as career design. New paths keep frontline knowledge involved in building the system.",
+      "en": "Treat the change as career design. New paths keep frontline knowledge involved in building the system.",
+      "zh": "把这场变革视为职业发展路径的设计。新的发展路径能让一线经验持续融入系统建设。"
+    },
+    {
+      "id": "p45",
+      "kind": "heading",
+      "text": "Tips",
+      "en": "Tips",
+      "zh": "实用建议"
+    },
+    {
+      "id": "p46",
+      "kind": "paragraph",
+      "text": "Use foundation models to avoid spending energy on areas outside your business rules.",
+      "en": "Use foundation models to avoid spending energy on areas outside your business rules.",
+      "zh": "使用基础模型，避免将精力花在业务规则之外的领域。"
+    },
+    {
+      "id": "p47",
+      "kind": "paragraph",
+      "text": "Separate lead qualification from operational support—these journeys have different success criteria.",
+      "en": "Separate lead qualification from operational support—these journeys have different success criteria.",
+      "zh": "将潜在客户资格评估与日常业务支持分开处理——两类流程的成功标准并不相同。"
+    },
+    {
+      "id": "p48",
+      "kind": "paragraph",
+      "text": "Define the handoff to humans early; at Boticário, it is the intention to complete an order.",
+      "en": "Define the handoff to humans early; at Boticário, it is the intention to complete an order.",
+      "zh": "尽早明确转接人工的时机；在 Boticário，这个时机就是对方有意完成下单时。"
+    },
+    {
+      "id": "p49",
+      "kind": "paragraph",
+      "text": "Create dedicated agents to validate other agents’ responses.",
+      "en": "Create dedicated agents to validate other agents’ responses.",
+      "zh": "创建专门的智能体，核验其他智能体的回复。"
+    },
+    {
+      "id": "p50",
+      "kind": "paragraph",
+      "text": "Establish a routine of prompt A/B testing run by business teams.",
+      "en": "Establish a routine of prompt A/B testing run by business teams.",
+      "zh": "建立由业务团队定期开展提示词 A/B 测试的机制。"
+    },
+    {
+      "id": "p51",
+      "kind": "heading",
+      "text": "Next steps",
+      "en": "Next steps",
+      "zh": "下一步"
+    },
+    {
+      "id": "p52",
+      "kind": "paragraph",
+      "text": "The group sees agent adoption as creating space: removing day-to-day operational overload to free up higher-value work—performed by people with practical frontline knowledge.",
+      "en": "The group sees agent adoption as creating space: removing day-to-day operational overload to free up higher-value work—performed by people with practical frontline knowledge.",
+      "zh": "集团认为，采用智能体能够创造更多空间：减轻繁重的日常业务负担，让具备一线实践经验的员工腾出精力，投入价值更高的工作。"
+    },
+    {
+      "id": "p53",
+      "kind": "paragraph",
+      "text": "“The more we invest in AI adoption, the more we can also create new opportunities for both the people on our team and our business, using the knowledge of the people who operate it.”",
+      "en": "“The more we invest in AI adoption, the more we can also create new opportunities for both the people on our team and our business, using the knowledge of the people who operate it.”",
+      "zh": "“我们在 AI 应用上投入越多，就越能借助实际使用 AI 的员工所积累的知识，为团队成员和业务创造新的机会。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "Grupo Boticário 于 1977 年起步于巴拉那州的一家小型配药药房。集团首席技术官 Renato Pedigoni 表示，创始人把两件事做得非常出色：用心、热情地服务客户，理解他们的需求；以及打造高品质产品。",
+      "en": "Grupo Boticário began in 1977 as a small compounding pharmacy in Paraná. According to Renato Pedigoni, the group’s CTO, the founder did two things very well: he served customers with care and affection, understanding their needs, and created high-quality products."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "这些互动同时发生在多个渠道。集团不仅拥有多个品牌，还布局了多种渠道：实体门店、电商、第三方电商平台、特许经营、直销、B2B 和 B2P。",
+      "en": "That interaction happens on many fronts at once. Beyond being multi-brand, the group is multichannel: physical stores, e-commerce, marketplaces, franchising, direct sales, B2B, and B2P."
+    },
+    {
+      "paragraphId": "p13",
+      "zh": "Grupo Boticário 并非一家数字原生企业。但如今，它已能够自主开发关键解决方案和流程。",
+      "en": "Grupo Boticário was not born digital. But it has reached a stage where it develops critical solutions and processes internally—supported by the premise of digital democratization: making data accessible across the company for analyses, AI models, and dashboards."
+    },
+    {
+      "paragraphId": "p26",
+      "zh": "“我们与 OpenAI 的合作让我们的愿景成为现实：AI 的存在是为了放大人的才能。通过多个智能体将这些模型集成到自研平台中，我们实现了最高 80% 的日常业务请求自主解决率。",
+      "en": "“Our deal with OpenAI brings to life our vision that AI exists to amplify human talent. By integrating these models into our proprietary platform through multiple agents, we achieved autonomous resolution of up to 80% of operational requests."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/grupo-boticario/",
+      "title": "How Grupo Boticário uses AI to strengthen human connections"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/grupo-boticario/",
+      "title": "Grupo Boticário 如何利用 AI 智能体加深人与人之间的联系"
+    }
+  },
+  "contentHash": "681a2f6c933474f39d18b55ecc3a53cb57ed99b69f7c803a0db746d09db8ab60",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/grupo-boticario/"
 }

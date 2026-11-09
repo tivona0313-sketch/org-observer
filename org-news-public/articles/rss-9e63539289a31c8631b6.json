@@ -3,8 +3,205 @@
   "id": "rss-9e63539289a31c8631b6",
   "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
   "sourceTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.939647+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.984999+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:53:25.191Z",
+  "finalURL": "https://openai.com/index/stack-overflow-chatgpt-plugin/",
+  "language": "en",
+  "originalTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "People and AI agents need context to get work done, but it’s usually scattered across systems, from Slack to Google Docs. Finding it and understanding how it all fits together can be a challenge.",
+      "en": "People and AI agents need context to get work done, but it’s usually scattered across systems, from Slack to Google Docs. Finding it and understanding how it all fits together can be a challenge.",
+      "zh": "人和 AI 智能体都需要上下文信息才能完成工作，但这些信息通常散落在 Slack、Google Docs 等不同系统中。找到这些信息，并理清它们之间的联系，并非易事。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "That’s why Stack Overflow is building a knowledge intelligence platform that unifies those sources and turns raw context into verified knowledge available wherever people and agents work.",
+      "en": "That’s why Stack Overflow is building a knowledge intelligence platform that unifies those sources and turns raw context into verified knowledge available wherever people and agents work.",
+      "zh": "为此，Stack Overflow 正在打造一个智能知识平台，整合这些信息来源，将原始上下文转化为经过验证的知识，让人和智能体无论在哪里工作都能随时获取。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "OpenAI models like GPT‑6 Astra and GPT‑6 Sol power the platform’s AI, with tasks routing to different models based on the reasoning required and cost. Codex helps the company’s engineers build the products, while a ChatGPT plugin makes their newer agentic product, Stack Overflow for Agents, easier to discover and use.",
+      "en": "OpenAI models like GPT‑6 Astra and GPT‑6 Sol power the platform’s AI, with tasks routing to different models based on the reasoning required and cost. Codex helps the company’s engineers build the products, while a ChatGPT plugin makes their newer agentic product, Stack Overflow for Agents, easier to discover and use.",
+      "zh": "GPT‑6 Astra 和 GPT‑6 Sol 等 OpenAI 模型为该平台的 AI 功能提供支持，平台根据任务所需的推理能力和成本，将任务分配给不同模型。Codex 帮助公司的工程师开发产品，而 ChatGPT 插件则让用户更容易发现和使用 Stack Overflow for Agents。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "“We built a ChatGPT plugin for Stack Overflow for Agents, and our registrations tripled overnight.”",
+      "en": "“We built a ChatGPT plugin for Stack Overflow for Agents, and our registrations tripled overnight.”",
+      "zh": "“我们为 Stack Overflow for Agents 开发了一个 ChatGPT 插件，注册量一夜之间就增至原来的三倍。”"
+    },
+    {
+      "id": "p5",
+      "kind": "heading",
+      "text": "Two engineers ship a net-new product in a few weeks with Codex",
+      "en": "Two engineers ship a net-new product in a few weeks with Codex",
+      "zh": "两名工程师借助 Codex，几周内便推出全新产品"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "Stack Overflow for Agents, which extends Stack’s intelligence layer to agents, began with a hypothesis and two engineers using Codex. The engineers gave Codex a development environment and a plan, and then worked with it to build the product. Within a few weeks, Alex says, they had a full-fledged product.",
+      "en": "Stack Overflow for Agents, which extends Stack’s intelligence layer to agents, began with a hypothesis and two engineers using Codex. The engineers gave Codex a development environment and a plan, and then worked with it to build the product. Within a few weeks, Alex says, they had a full-fledged product.",
+      "zh": "Stack Overflow for Agents 将 Stack 的智能层扩展至智能体。这款产品起步时，只有一个待验证的设想，以及两名使用 Codex 的工程师。工程师为 Codex 提供了开发环境和计划，随后与它协作开发产品。Alex 表示，仅仅几周后，他们就做出了一款功能完备的产品。"
+    },
+    {
+      "id": "p7",
+      "kind": "paragraph",
+      "text": "“So it really made their team feel bigger,” Alex says. “They were able to throw a container at it and say, ‘This is our plan, help us build it.’”",
+      "en": "“So it really made their team feel bigger,” Alex says. “They were able to throw a container at it and say, ‘This is our plan, help us build it.’”",
+      "zh": "“这确实让他们感觉团队壮大了，”Alex 说。“他们只需把一个容器交给它，然后说：‘这是我们的计划，帮我们把它做出来。’”"
+    },
+    {
+      "id": "p8",
+      "kind": "heading",
+      "text": "Developing connectors in days, not weeks, with Codex",
+      "en": "Developing connectors in days, not weeks, with Codex",
+      "zh": "借助 Codex，连接器开发从数周缩短至数天"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "Stack Internal, Stack Overflow’s enterprise product, needs to connect to all the systems where organizations keep their knowledge. Building this capability requires more human involvement than the two-engineer effort behind Stack Overflow for Agents, but Codex is accelerating this work, too.",
+      "en": "Stack Internal, Stack Overflow’s enterprise product, needs to connect to all the systems where organizations keep their knowledge. Building this capability requires more human involvement than the two-engineer effort behind Stack Overflow for Agents, but Codex is accelerating this work, too.",
+      "zh": "Stack Overflow 的企业级产品 Stack Internal 需要连接组织存储知识的所有系统。与仅由两名工程师完成的 Stack Overflow for Agents 相比，开发这项功能需要更多人力参与，但 Codex 同样在加快这项工作。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "Alex describes using Codex to pursue a much shorter path to market for the enterprise product: three months rather than a year. Building connectors is one concrete example.",
+      "en": "Alex describes using Codex to pursue a much shorter path to market for the enterprise product: three months rather than a year. Building connectors is one concrete example.",
+      "zh": "Alex 介绍，他们正借助 Codex，力争将这款企业级产品的上市周期从一年大幅缩短至三个月。连接器开发就是一个具体例子。"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "“On average, it takes us 3 to 6 weeks to build one connector. With Codex, we were able to build it within 4 days.”",
+      "en": "“On average, it takes us 3 to 6 weeks to build one connector. With Codex, we were able to build it within 4 days.”",
+      "zh": "“我们开发一个连接器平均需要 3 到 6 周。有了 Codex，我们在 4 天内就能完成。”"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "More recently, the team built a connector in a single day. By accelerating connectors, Codex helps Stack Overflow bring enterprise products to market faster.",
+      "en": "More recently, the team built a connector in a single day. By accelerating connectors, Codex helps Stack Overflow bring enterprise products to market faster.",
+      "zh": "最近，团队仅用一天就开发出了一个连接器。通过加快连接器开发，Codex 帮助 Stack Overflow 更快地将企业级产品推向市场。"
+    },
+    {
+      "id": "p13",
+      "kind": "heading",
+      "text": "Increasing agent creation and signups with a ChatGPT plugin",
+      "en": "Increasing agent creation and signups with a ChatGPT plugin",
+      "zh": "通过 ChatGPT 插件，提升智能体创建量和注册量"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "Once Stack Overflow for Agents was ready for distribution, the team needed a way to get it into people’s workflows. It built a ChatGPT plugin so users could discover and set up the product in ChatGPT, with fewer steps than a traditional Model Context Protocol (MCP) setup.",
+      "en": "Once Stack Overflow for Agents was ready for distribution, the team needed a way to get it into people’s workflows. It built a ChatGPT plugin so users could discover and set up the product in ChatGPT, with fewer steps than a traditional Model Context Protocol (MCP) setup.",
+      "zh": "Stack Overflow for Agents 准备好发布后，团队需要找到一种方式，让它融入用户的工作流程。团队开发了一个 ChatGPT 插件，让用户可以在 ChatGPT 中发现并设置这款产品，所需步骤比传统的模型上下文协议（MCP）设置更少。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "“Once you have a plugin, it becomes a frictionless setup with ChatGPT.”",
+      "en": "“Once you have a plugin, it becomes a frictionless setup with ChatGPT.”",
+      "zh": "“有了插件，就能在 ChatGPT 中轻松完成设置。”"
+    },
+    {
+      "id": "p16",
+      "kind": "paragraph",
+      "text": "Alex says the plugin tripled registrations and accelerated agent creation: “I think we were up to 10X last time I checked.”",
+      "en": "Alex says the plugin tripled registrations and accelerated agent creation: “I think we were up to 10X last time I checked.”",
+      "zh": "Alex 表示，这个插件让注册量增至原来的三倍，也推动了智能体创建量的增长：“我记得上次查看时，已经达到原来的 10 倍了。”"
+    },
+    {
+      "id": "p17",
+      "kind": "heading",
+      "text": "Reducing configuration work with the Decisions API",
+      "en": "Reducing configuration work with the Decisions API",
+      "zh": "借助 Decisions API，减少配置工作"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "Stack Overflow manages its own model routing and configuration, but Alex hopes to explore using the Decisions API to reduce some of that work and put more engineering capacity into the product.",
+      "en": "Stack Overflow manages its own model routing and configuration, but Alex hopes to explore using the Decisions API to reduce some of that work and put more engineering capacity into the product.",
+      "zh": "Stack Overflow 自行管理模型路由和配置，但 Alex 希望探索使用 Decisions API 来减少部分工作，从而将更多工程资源投入产品开发。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "“If we’re able to automate that through OpenAI directly, that saves us a ton of time and money, allows us to focus more on the actual product we’re building rather than the guardrails around it,” Alex says.",
+      "en": "“If we’re able to automate that through OpenAI directly, that saves us a ton of time and money, allows us to focus more on the actual product we’re building rather than the guardrails around it,” Alex says.",
+      "zh": "“如果能直接通过 OpenAI 将这些工作自动化，就能为我们节省大量时间和资金，让我们更专注于正在打造的产品本身，而不是围绕它的防护机制，”Alex 说。"
+    },
+    {
+      "id": "p20",
+      "kind": "heading",
+      "text": "Expanding across the full knowledge lifecycle",
+      "en": "Expanding across the full knowledge lifecycle",
+      "zh": "拓展至知识的完整生命周期"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "Stack Overflow is also working on expanding its knowledge product to enable sharing of what people learn. To date, its focus has been pulling information in. Now, Alex is closing the loop so knowledge gained in a one-to-one session with a developer or someone outside engineering can help others, too.",
+      "en": "Stack Overflow is also working on expanding its knowledge product to enable sharing of what people learn. To date, its focus has been pulling information in. Now, Alex is closing the loop so knowledge gained in a one-to-one session with a developer or someone outside engineering can help others, too.",
+      "zh": "Stack Overflow 也在扩展其知识产品的功能，让人们能够分享所学。迄今为止，该产品一直侧重于汇集信息。如今，Alex 正在打通知识流转的闭环，让开发者或非工程岗位人员在一对一会话中获得的知识，也能帮助其他人。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "“As I’m learning, how do I make sure that the rest of my organization is learning with me?”, said Alex. “I’m really looking forward to building a product that allows for that full knowledge life cycle.”",
+      "en": "“As I’m learning, how do I make sure that the rest of my organization is learning with me?”, said Alex. “I’m really looking forward to building a product that allows for that full knowledge life cycle.”",
+      "zh": "“在我学习的过程中，如何确保组织中的其他人也能与我一起学习？”Alex 说。“我非常期待打造一款覆盖知识完整生命周期的产品。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p3",
+      "zh": "GPT‑6 Astra 和 GPT‑6 Sol 等 OpenAI 模型为该平台的 AI 功能提供支持，平台根据任务所需的推理能力和成本，将任务分配给不同模型。Codex 帮助公司的工程师开发产品，而 ChatGPT 插件则让用户更容易发现和使用 Stack Overflow for Agents。",
+      "en": "OpenAI models like GPT‑6 Astra and GPT‑6 Sol power the platform’s AI, with tasks routing to different models based on the reasoning required and cost. Codex helps the company’s engineers build the products, while a ChatGPT plugin makes their newer agentic product, Stack Overflow for Agents, easier to discover and use."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "“我们为 Stack Overflow for Agents 开发了一个 ChatGPT 插件，注册量一夜之间就增至原来的三倍。”",
+      "en": "“We built a ChatGPT plugin for Stack Overflow for Agents, and our registrations tripled overnight.”"
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "Stack Overflow for Agents 将 Stack 的智能层扩展至智能体。这款产品起步时，只有一个待验证的设想，以及两名使用 Codex 的工程师。",
+      "en": "Stack Overflow for Agents, which extends Stack’s intelligence layer to agents, began with a hypothesis and two engineers using Codex. The engineers gave Codex a development environment and a plan, and then worked with it to build the product."
+    },
+    {
+      "paragraphId": "p14",
+      "zh": "Stack Overflow for Agents 准备好发布后，团队需要找到一种方式，让它融入用户的工作流程。团队开发了一个 ChatGPT 插件，让用户可以在 ChatGPT 中发现并设置这款产品，所需步骤比传统的模型上下文协议（MCP）设置更少。",
+      "en": "Once Stack Overflow for Agents was ready for distribution, the team needed a way to get it into people’s workflows. It built a ChatGPT plugin so users could discover and set up the product in ChatGPT, with fewer steps than a traditional Model Context Protocol (MCP) setup."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin/",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/stack-overflow-chatgpt-plugin/",
+      "title": "Stack Overflow for Agents 借助 ChatGPT 插件，注册量增至三倍"
+    }
+  },
+  "contentHash": "0cacf5b08809ef3953212e839c8ddd128461683c9af21096b65f15f40431618a",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/stack-overflow-chatgpt-plugin/"
 }

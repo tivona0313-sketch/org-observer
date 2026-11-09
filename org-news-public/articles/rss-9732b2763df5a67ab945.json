@@ -3,8 +3,394 @@
   "id": "rss-9732b2763df5a67ab945",
   "url": "https://openai.com/index/itau-generative-ai",
   "sourceTitle": "How Itaú is building generative AI for its entire customer base",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.877940+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.917875+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:53:49.707Z",
+  "finalURL": "https://openai.com/index/itau-generative-ai/",
+  "language": "en",
+  "originalTitle": "How Itaú is building generative AI for its entire customer base",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "heading",
+      "text": "The challenge is to make the technology disappear",
+      "en": "The challenge is to make the technology disappear",
+      "zh": "挑战在于让技术隐于无形"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Creating a close, personalized experience for millions of customers in a country like Brazil is, first and foremost, a question of simplicity rather than of models.",
+      "en": "Creating a close, personalized experience for millions of customers in a country like Brazil is, first and foremost, a question of simplicity rather than of models.",
+      "zh": "在巴西这样的国家，为数百万客户打造贴心、个性化的体验，首先要考虑的是如何化繁为简，而不是模型本身。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "“Much of it is about making something simple, direct, and useful, delivering a direct benefit to the customer, and making the technology almost unnoticeable,” says Carlos Eduardo Mazzei, CTO of Itaú.",
+      "en": "“Much of it is about making something simple, direct, and useful, delivering a direct benefit to the customer, and making the technology almost unnoticeable,” says Carlos Eduardo Mazzei, CTO of Itaú.",
+      "zh": "Itaú 首席技术官 Carlos Eduardo Mazzei 表示：“很大程度上，我们要做的是让产品简单、直接、实用，为客户带来切实的好处，同时让技术几乎不被察觉。”"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "The standard he describes is demanding: the solution must solve a real everyday problem and be direct, simple, and memorable. Technology serves as the means, never as the centerpiece of the experience.",
+      "en": "The standard he describes is demanding: the solution must solve a real everyday problem and be direct, simple, and memorable. Technology serves as the means, never as the centerpiece of the experience.",
+      "zh": "他提出的标准很高：解决方案必须解决日常生活中的实际问题，而且要直接、简单、令人印象深刻。技术是实现体验的手段，绝不是体验的主角。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "There is demand for this. A study by Itaú in partnership with Grupo Consumoteca shows that 80% of Brazilians want to better organize their financial lives and seek more effective support for decisions, and that 65% would like technologies that act as a financial copilot, providing ongoing guidance.",
+      "en": "There is demand for this. A study by Itaú in partnership with Grupo Consumoteca shows that 80% of Brazilians want to better organize their financial lives and seek more effective support for decisions, and that 65% would like technologies that act as a financial copilot, providing ongoing guidance.",
+      "zh": "这样的需求确实存在。Itaú 与 Grupo Consumoteca 联合开展的一项研究显示，80% 的巴西人希望更好地安排财务生活，并在决策时获得更有效的支持；65% 的人希望借助技术，拥有一位提供持续指导的财务助手。"
+    },
+    {
+      "id": "p6",
+      "kind": "paragraph",
+      "text": "“OpenAI’s models were very important in delivering this experience, because they were able to operate across this range of solutions.”",
+      "en": "“OpenAI’s models were very important in delivering this experience, because they were able to operate across this range of solutions.”",
+      "zh": "“OpenAI 的模型对实现这一体验至关重要，因为它们能够支持这一系列不同的解决方案。”"
+    },
+    {
+      "id": "p7",
+      "kind": "heading",
+      "text": "ia.i: from convenience to advice, in one place",
+      "en": "ia.i: from convenience to advice, in one place",
+      "zh": "ia.i：从便捷操作到财务建议，一站式满足需求"
+    },
+    {
+      "id": "p8",
+      "kind": "paragraph",
+      "text": "The journey began in 2024, when the bank introduced the first Inteligência Itaú capabilities for specific financial needs. ia.i is the next stage: a complete conversational layer, activated by text or voice, bringing interactions related to checking accounts, credit, cards, insurance, and other services into one environment — and connecting customers to specialized human support whenever needed.",
+      "en": "The journey began in 2024, when the bank introduced the first Inteligência Itaú capabilities for specific financial needs. ia.i is the next stage: a complete conversational layer, activated by text or voice, bringing interactions related to checking accounts, credit, cards, insurance, and other services into one environment — and connecting customers to specialized human support whenever needed.",
+      "zh": "这一探索始于 2024 年，当时该银行推出了 Inteligência Itaú 的首批功能，满足特定的金融需求。ia.i 代表着下一个阶段：它是一个完整的对话交互层，支持文字或语音，将活期账户、信贷、银行卡、保险及其他服务的相关交互整合到同一环境中，并在需要时为客户接入专业人工支持。"
+    },
+    {
+      "id": "p9",
+      "kind": "paragraph",
+      "text": "This breadth was precisely what guided the choice of models.",
+      "en": "This breadth was precisely what guided the choice of models.",
+      "zh": "正是如此广泛的服务范围，决定了模型的选择。"
+    },
+    {
+      "id": "p10",
+      "kind": "paragraph",
+      "text": "“OpenAI’s models were very important in delivering this experience, because they were able to operate across this range of solutions,” Mazzei explains. “From the simplest ones, which need to be efficient in cost and latency, to more complex solutions, where reasoning and all the necessary grounding are required to provide an appropriate answer.”",
+      "en": "“OpenAI’s models were very important in delivering this experience, because they were able to operate across this range of solutions,” Mazzei explains. “From the simplest ones, which need to be efficient in cost and latency, to more complex solutions, where reasoning and all the necessary grounding are required to provide an appropriate answer.”",
+      "zh": "Mazzei 解释道：“OpenAI 的模型对实现这一体验至关重要，因为它们能够支持这一系列不同的解决方案。从需要兼顾成本与延迟的最简单的方案，到需要推理和充分的事实落地 (grounding) 支持才能给出恰当回答的复杂方案，它们都能胜任。”"
+    },
+    {
+      "id": "p11",
+      "kind": "paragraph",
+      "text": "Having a range of models — rather than a single model — made it possible to deliver the complete solution in one product. At the center of this experience is Customer DNA, a layer of financial context that helps the bank understand the needs, habits, and life stages of approximately 70 million customers. Under governance and responsible AI controls, GPT models are among the components that help maintain and enrich this representation, making interactions progressively more relevant.",
+      "en": "Having a range of models — rather than a single model — made it possible to deliver the complete solution in one product. At the center of this experience is Customer DNA, a layer of financial context that helps the bank understand the needs, habits, and life stages of approximately 70 million customers. Under governance and responsible AI controls, GPT models are among the components that help maintain and enrich this representation, making interactions progressively more relevant.",
+      "zh": "采用一系列模型而非单一模型，让银行得以在一款产品中提供完整的解决方案。这一体验的核心是 Customer DNA，它作为财务背景信息层，帮助银行了解约 7,000 万客户的需求、习惯和人生阶段。在治理机制和负责任 AI 管控措施下，GPT 模型作为其中的组成部分，帮助维护和丰富这一客户画像，让交互越来越贴合客户需求。"
+    },
+    {
+      "id": "p12",
+      "kind": "paragraph",
+      "text": "The solution rests on three principles: interactivity, multimodality — text, voice, image, and clicks in the same experience — and individualization.",
+      "en": "The solution rests on three principles: interactivity, multimodality — text, voice, image, and clicks in the same experience — and individualization.",
+      "zh": "该解决方案基于三项原则：交互性、多模态（在同一体验中融合文字、语音、图像和点击操作），以及个性化。"
+    },
+    {
+      "id": "p13",
+      "kind": "paragraph",
+      "text": "With approximately 300,000 customers in the first phase, the bank entered a period of learning about the real relationship between customer and product.",
+      "en": "With approximately 300,000 customers in the first phase, the bank entered a period of learning about the real relationship between customer and product.",
+      "zh": "第一阶段覆盖约 30 万客户后，银行开始深入了解客户与产品之间的真实互动。"
+    },
+    {
+      "id": "p14",
+      "kind": "paragraph",
+      "text": "“We can understand how customers begin to use this product more deeply and see how it can directly benefit each person’s daily financial life,” says Mazzei. Its presence extends across the journey: from a question about an expense in an account statement to investment advice and convenient transactions on WhatsApp.",
+      "en": "“We can understand how customers begin to use this product more deeply and see how it can directly benefit each person’s daily financial life,” says Mazzei. Its presence extends across the journey: from a question about an expense in an account statement to investment advice and convenient transactions on WhatsApp.",
+      "zh": "Mazzei 表示：“我们可以了解客户如何开始更深入地使用这款产品，以及它如何为每个人的日常财务生活带来直接帮助。”它贯穿客户使用服务的全过程：从解答账户对账单中某笔支出的疑问，到提供投资建议，再到通过 WhatsApp 便捷地完成交易。"
+    },
+    {
+      "id": "p15",
+      "kind": "paragraph",
+      "text": "“The financial world often has products that are not so straightforward and need this context, this simpler relationship with money.”",
+      "en": "“The financial world often has products that are not so straightforward and need this context, this simpler relationship with money.”",
+      "zh": "“金融领域的产品往往不那么容易理解，因此需要结合具体情境，让人们以更简单的方式管理资金。”"
+    },
+    {
+      "id": "p16",
+      "kind": "heading",
+      "text": "IARA: the layer that makes scale possible",
+      "en": "IARA: the layer that makes scale possible",
+      "zh": "IARA：支撑规模化的底层平台"
+    },
+    {
+      "id": "p17",
+      "kind": "paragraph",
+      "text": "Behind the visible experiences is an architectural decision. To operate AI at the scale of a bank, Itaú built IARA — a governance and orchestration platform that gives teams controlled access to different models in line with internal policies. OpenAI is among the model providers available in this environment.",
+      "en": "Behind the visible experiences is an architectural decision. To operate AI at the scale of a bank, Itaú built IARA — a governance and orchestration platform that gives teams controlled access to different models in line with internal policies. OpenAI is among the model providers available in this environment.",
+      "zh": "这些可见体验的背后，是一项架构决策。为了在整个银行范围内运行 AI，Itaú 构建了治理与编排平台 IARA，让各团队按照内部政策，在受控环境中访问不同模型。OpenAI 是该环境中可供选择的模型提供商之一。"
+    },
+    {
+      "id": "p18",
+      "kind": "paragraph",
+      "text": "This layer supports solutions such as the legal department’s, where the platform automates document reading, analysis, and interpretation. The solution operates on a repository of more than 90 million documents and executes more than 2 million tasks per month, with efficiency gains of 20% to 80% in stages of the department’s processes.",
+      "en": "This layer supports solutions such as the legal department’s, where the platform automates document reading, analysis, and interpretation. The solution operates on a repository of more than 90 million documents and executes more than 2 million tasks per month, with efficiency gains of 20% to 80% in stages of the department’s processes.",
+      "zh": "这一平台支持多种解决方案，例如，法务部门利用它自动完成文档阅读、分析和解读。该解决方案基于包含逾 9,000 万份文档的资料库运行，每月执行超过 200 万项任务，使该部门各流程环节的效率提升了 20% 至 80%。"
+    },
+    {
+      "id": "p19",
+      "kind": "paragraph",
+      "text": "“It is essential that this information be preserved, remain within the bank’s context, and access models in a secure, governed way, with an understanding of token-use efficiency so that the entire solution is economically viable for the bank,” Mazzei says.",
+      "en": "“It is essential that this information be preserved, remain within the bank’s context, and access models in a secure, governed way, with an understanding of token-use efficiency so that the entire solution is economically viable for the bank,” Mazzei says.",
+      "zh": "Mazzei 表示：“必须保护这些信息，确保它们留在银行的环境中，并以安全且符合治理要求的方式调用模型，同时了解 Token 的使用效率，确保整套解决方案对银行而言具有经济可行性。”"
+    },
+    {
+      "id": "p20",
+      "kind": "paragraph",
+      "text": "IARA addresses three problems at once: cost control per token, accuracy of responses, and application of responsible AI policies. In such a regulated sector, this makes it possible to move quickly while maintaining control.",
+      "en": "IARA addresses three problems at once: cost control per token, accuracy of responses, and application of responsible AI policies. In such a regulated sector, this makes it possible to move quickly while maintaining control.",
+      "zh": "IARA 同时解决了三个问题：单个 Token 的成本控制、回答的准确性，以及负责任 AI 政策的执行。在这样一个受到严格监管的行业，这让银行能够在保持可控的同时快速推进。"
+    },
+    {
+      "id": "p21",
+      "kind": "paragraph",
+      "text": "“When we talk about Responsible AI at the bank, it is a discipline we take great care with,” he says. “We need customers to interact with the bank and our responses to align with our values and culture.” This includes reducing any risk of bias that may arise in frontier models.",
+      "en": "“When we talk about Responsible AI at the bank, it is a discipline we take great care with,” he says. “We need customers to interact with the bank and our responses to align with our values and culture.” This includes reducing any risk of bias that may arise in frontier models.",
+      "zh": "他表示：“在银行内部，负责任 AI 是我们极为重视的一项专业工作。我们需要让客户与银行互动，也需要确保我们的回答符合自身的价值观和文化。”这也包括降低前沿模型可能出现的任何偏见风险。"
+    },
+    {
+      "id": "p22",
+      "kind": "paragraph",
+      "text": "Responsible AI principles guide the entire lifecycle of solutions, from development to continuous monitoring, aiming to ensure safety, transparency, ethics, and regulatory compliance as the technology scales.",
+      "en": "Responsible AI principles guide the entire lifecycle of solutions, from development to continuous monitoring, aiming to ensure safety, transparency, ethics, and regulatory compliance as the technology scales.",
+      "zh": "负责任 AI 原则贯穿解决方案从开发到持续监测的整个生命周期，旨在随着技术应用规模扩大，确保安全、透明、符合伦理及监管要求。"
+    },
+    {
+      "id": "p23",
+      "kind": "paragraph",
+      "text": "“IARA is a fundamental platform, because it ensures we can have governance and observability in a highly regulated environment.”",
+      "en": "“IARA is a fundamental platform, because it ensures we can have governance and observability in a highly regulated environment.”",
+      "zh": "“IARA 是一个基础性平台，确保我们在严格监管的环境中具备治理能力和可观测性。”"
+    },
+    {
+      "id": "p24",
+      "kind": "heading",
+      "text": "AI First on the inside, too",
+      "en": "AI First on the inside, too",
+      "zh": "对内同样践行 AI 优先"
+    },
+    {
+      "id": "p25",
+      "kind": "paragraph",
+      "text": "The bank’s AI First strategy extends beyond end customers. The same intelligence layer that supports ia.i also assists specialists, managers, and customer service teams.",
+      "en": "The bank’s AI First strategy extends beyond end customers. The same intelligence layer that supports ia.i also assists specialists, managers, and customer service teams.",
+      "zh": "该银行的 AI 优先战略并不只面向终端客户。支持 ia.i 的同一智能层，也为专业人员、客户经理和客服团队提供支持。"
+    },
+    {
+      "id": "p26",
+      "kind": "paragraph",
+      "text": "Mazzei describes a range extending from automating simple tasks to performing work that was previously unfeasible — but adds value to customer relationships: summaries before meetings, meeting preparation, understanding a specific issue, and developing plans and alternatives that were previously less obvious and time-consuming.",
+      "en": "Mazzei describes a range extending from automating simple tasks to performing work that was previously unfeasible — but adds value to customer relationships: summaries before meetings, meeting preparation, understanding a specific issue, and developing plans and alternatives that were previously less obvious and time-consuming.",
+      "zh": "Mazzei 介绍，其应用范围涵盖简单任务的自动化，以及过去难以实现、却能为客户关系创造价值的工作：生成会前摘要、筹备会议、了解具体问题，以及制定以往不易想到、需要花费大量时间构思的计划与备选方案。"
+    },
+    {
+      "id": "p27",
+      "kind": "paragraph",
+      "text": "The bank has significant expectations for this implementation: three times more time available for customer relationships, service up to twice as fast, and conversations up to three times more effective.",
+      "en": "The bank has significant expectations for this implementation: three times more time available for customer relationships, service up to twice as fast, and conversations up to three times more effective.",
+      "zh": "银行对这项应用寄予厚望：希望将可用于维护客户关系的时间增至原来的三倍，服务速度最高达到原来的两倍，沟通成效最高达到原来的三倍。"
+    },
+    {
+      "id": "p28",
+      "kind": "paragraph",
+      "text": "“This set of tools in the hands of relationship managers allows us to focus on what matters most: creating value for our customers.”",
+      "en": "“This set of tools in the hands of relationship managers allows us to focus on what matters most: creating value for our customers.”",
+      "zh": "“客户经理有了这套工具，我们就能专注于最重要的事：为客户创造价值。”"
+    },
+    {
+      "id": "p29",
+      "kind": "heading",
+      "text": "Results overview",
+      "en": "Results overview",
+      "zh": "成效概览"
+    },
+    {
+      "id": "p30",
+      "kind": "paragraph",
+      "text": "ia.i reached approximately 300,000 customers in its first phase, covering everything from convenient transactions to investment advice, activated by text or voice.",
+      "en": "ia.i reached approximately 300,000 customers in its first phase, covering everything from convenient transactions to investment advice, activated by text or voice.",
+      "zh": "ia.i 在第一阶段覆盖了约 30 万客户，支持通过文字或语音使用从便捷交易到投资建议的各项服务。"
+    },
+    {
+      "id": "p31",
+      "kind": "paragraph",
+      "text": "The IARA platform makes different models available to the bank’s teams with governance, observability, cost control per token, and enforcement of Responsible AI.",
+      "en": "The IARA platform makes different models available to the bank’s teams with governance, observability, cost control per token, and enforcement of Responsible AI.",
+      "zh": "IARA 平台为银行各团队提供不同模型，同时具备治理、可观测性、单个 Token 成本控制和负责任 AI 执行机制。"
+    },
+    {
+      "id": "p32",
+      "kind": "paragraph",
+      "text": "The legal solution operates on more than 90 million documents and executes more than 2 million tasks per month, with efficiency gains of 20% to 80%.",
+      "en": "The legal solution operates on more than 90 million documents and executes more than 2 million tasks per month, with efficiency gains of 20% to 80%.",
+      "zh": "法务解决方案基于逾 9,000 万份文档运行，每月执行超过 200 万项任务，效率提升了 20% 至 80%。"
+    },
+    {
+      "id": "p33",
+      "kind": "paragraph",
+      "text": "Using a range of models made it possible to serve both cost- and latency-sensitive cases and those requiring deeper reasoning; GPT‑5.x models are part of Customer DNA, which provides financial context for approximately 70 million customers.",
+      "en": "Using a range of models made it possible to serve both cost- and latency-sensitive cases and those requiring deeper reasoning; GPT‑5.x models are part of Customer DNA, which provides financial context for approximately 70 million customers.",
+      "zh": "采用一系列模型，既能满足对成本和延迟敏感的场景，也能支持需要更深入推理的场景；GPT‑5.x 模型是 Customer DNA 的组成部分，后者提供约 7,000 万客户的财务背景信息。"
+    },
+    {
+      "id": "p34",
+      "kind": "heading",
+      "text": "Lessons for leaders",
+      "en": "Lessons for leaders",
+      "zh": "给管理者的启示"
+    },
+    {
+      "id": "p35",
+      "kind": "paragraph",
+      "text": "Measure the experience by its simplicity, rather than sophistication. The goal is for the technology to go unnoticed and the benefit to be apparent.",
+      "en": "Measure the experience by its simplicity, rather than sophistication. The goal is for the technology to go unnoticed and the benefit to be apparent.",
+      "zh": "衡量体验，要看是否简单易用，而非技术是否复杂精巧。目标是让技术隐于无形，让价值显而易见。"
+    },
+    {
+      "id": "p36",
+      "kind": "paragraph",
+      "text": "Choose a range of models, rather than a single one. Real journeys combine low-latency interactions with decisions that require reasoning.",
+      "en": "Choose a range of models, rather than a single one. Real journeys combine low-latency interactions with decisions that require reasoning.",
+      "zh": "选择一系列模型，而非单一模型。真实的使用流程既包含低延迟交互，也包含需要推理的决策。"
+    },
+    {
+      "id": "p37",
+      "kind": "paragraph",
+      "text": "Build the governance layer before scaling. Observability, cost control, and responsible AI make scale viable in regulated sectors.",
+      "en": "Build the governance layer before scaling. Observability, cost control, and responsible AI make scale viable in regulated sectors.",
+      "zh": "先构建治理层，再扩大应用规模。可观测性、成本控制和负责任 AI，让受监管行业的规模化应用成为可能。"
+    },
+    {
+      "id": "p38",
+      "kind": "paragraph",
+      "text": "Treat bias and cultural alignment as product requirements. Responses to customers must reflect the institution’s values.",
+      "en": "Treat bias and cultural alignment as product requirements. Responses to customers must reflect the institution’s values.",
+      "zh": "将控制偏见、契合组织文化纳入产品要求。面向客户的回答必须体现机构的价值观。"
+    },
+    {
+      "id": "p39",
+      "kind": "paragraph",
+      "text": "Apply the strategy internally, too. Giving time back to teams frees up human relationships where they matter most.",
+      "en": "Apply the strategy internally, too. Giving time back to teams frees up human relationships where they matter most.",
+      "zh": "将这一战略同样应用于内部。为团队腾出时间，让他们能在最需要人与人沟通的环节投入更多精力。"
+    },
+    {
+      "id": "p40",
+      "kind": "heading",
+      "text": "Tips",
+      "en": "Tips",
+      "zh": "实用建议"
+    },
+    {
+      "id": "p41",
+      "kind": "paragraph",
+      "text": "Start with concrete everyday problems, such as a question about an account statement or a simple transaction.",
+      "en": "Start with concrete everyday problems, such as a question about an account statement or a simple transaction.",
+      "zh": "从具体的日常问题入手，例如解答账户对账单疑问，或完成一笔简单交易。"
+    },
+    {
+      "id": "p42",
+      "kind": "paragraph",
+      "text": "Launch to an initial customer group and use it to learn actual behavior before expanding.",
+      "en": "Launch to an initial customer group and use it to learn actual behavior before expanding.",
+      "zh": "先向一批客户开放，了解实际使用行为后再扩大范围。"
+    },
+    {
+      "id": "p43",
+      "kind": "paragraph",
+      "text": "Centralize model access on one platform to maintain control over costs and quality.",
+      "en": "Centralize model access on one platform to maintain control over costs and quality.",
+      "zh": "通过统一平台访问模型，以持续管控成本和质量。"
+    },
+    {
+      "id": "p44",
+      "kind": "paragraph",
+      "text": "Monitor token efficiency from day one — economic viability is part of the design.",
+      "en": "Monitor token efficiency from day one — economic viability is part of the design.",
+      "zh": "从第一天起就监测 Token 使用效率 — 经济可行性本就是设计的一部分。"
+    },
+    {
+      "id": "p45",
+      "kind": "paragraph",
+      "text": "Combine conversation and navigation: not every action is best handled through natural language.",
+      "en": "Combine conversation and navigation: not every action is best handled through natural language.",
+      "zh": "结合对话与界面导航：并非每项操作都最适合通过自然语言完成。"
+    },
+    {
+      "id": "p46",
+      "kind": "heading",
+      "text": "Next steps",
+      "en": "Next steps",
+      "zh": "下一步计划"
+    },
+    {
+      "id": "p47",
+      "kind": "paragraph",
+      "text": "ia.i continues to evolve. The bank expects to make the experience available to its entire customer base by the end of 2026. Planned capabilities for the next stages include product simulations and sign-ups, as well as recurring financial analyses of income, expenses, and habits.",
+      "en": "ia.i continues to evolve. The bank expects to make the experience available to its entire customer base by the end of 2026. Planned capabilities for the next stages include product simulations and sign-ups, as well as recurring financial analyses of income, expenses, and habits.",
+      "zh": "ia.i 仍在持续演进。该银行计划在 2026 年底前向全体客户开放这一体验。后续阶段的规划功能包括产品模拟测算与申请办理，以及针对收入、支出和财务习惯的定期分析。"
+    },
+    {
+      "id": "p48",
+      "kind": "paragraph",
+      "text": "For Mazzei, the significance of the initiative goes beyond the product — the bank has navigated decades of transformation, with customers’ habits and expectations constantly changing.",
+      "en": "For Mazzei, the significance of the initiative goes beyond the product — the bank has navigated decades of transformation, with customers’ habits and expectations constantly changing.",
+      "zh": "在 Mazzei 看来，这项举措的意义超越了产品本身：几十年来，银行一路应对转型，客户的习惯与期望也始终在变化。"
+    },
+    {
+      "id": "p49",
+      "kind": "paragraph",
+      "text": "“Leading the AI era is about responding faster to our customers’ needs. It is about understanding how technology can add value and help customers engage with financial products and services in a much simpler, more direct way that helps them achieve what they are seeking.”",
+      "en": "“Leading the AI era is about responding faster to our customers’ needs. It is about understanding how technology can add value and help customers engage with financial products and services in a much simpler, more direct way that helps them achieve what they are seeking.”",
+      "zh": "“引领 AI 时代，就是更快地响应客户需求。这意味着理解技术如何创造价值，帮助客户以更简单、更直接的方式使用金融产品和服务，实现他们的目标。”"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p5",
+      "zh": "这样的需求确实存在。Itaú 与 Grupo Consumoteca 联合开展的一项研究显示，80% 的巴西人希望更好地安排财务生活，并在决策时获得更有效的支持；65% 的人希望借助技术，拥有一位提供持续指导的财务助手。",
+      "en": "There is demand for this. A study by Itaú in partnership with Grupo Consumoteca shows that 80% of Brazilians want to better organize their financial lives and seek more effective support for decisions, and that 65% would like technologies that act as a financial copilot, providing ongoing guidance."
+    },
+    {
+      "paragraphId": "p8",
+      "zh": "这一探索始于 2024 年，当时该银行推出了 Inteligência Itaú 的首批功能，满足特定的金融需求。ia.i 代表着下一个阶段：它是一个完整的对话交互层，支持文字或语音，将活期账户、信贷、银行卡、保险及其他服务的相关交互整合到同一环境中，并在需要时为客户接入专业人工支持。",
+      "en": "The journey began in 2024, when the bank introduced the first Inteligência Itaú capabilities for specific financial needs. ia.i is the next stage: a complete conversational layer, activated by text or voice, bringing interactions related to checking accounts, credit, cards, insurance, and other services into one environment — and connecting customers to specialized human support whenever needed."
+    },
+    {
+      "paragraphId": "p13",
+      "zh": "第一阶段覆盖约 30 万客户后，银行开始深入了解客户与产品之间的真实互动。",
+      "en": "With approximately 300,000 customers in the first phase, the bank entered a period of learning about the real relationship between customer and product."
+    },
+    {
+      "paragraphId": "p47",
+      "zh": "ia.i 仍在持续演进。该银行计划在 2026 年底前向全体客户开放这一体验。",
+      "en": "ia.i continues to evolve. The bank expects to make the experience available to its entire customer base by the end of 2026."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/itau-generative-ai/",
+      "title": "How Itaú is building generative AI for its entire customer base"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/itau-generative-ai/",
+      "title": "Itaú 如何为全体客户打造生成式 AI"
+    }
+  },
+  "contentHash": "30f6d47c09f9fe60c3f184b5b172e19e24108bb8cc4775fadb5eb33d2f7fafbb",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/itau-generative-ai/"
 }

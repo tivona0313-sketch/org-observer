@@ -149,6 +149,24 @@
         const tag=block.kind==="heading"?"h4":"p";
         return `<${tag} id="body-${esc(block.id)}" class="body-block ${block.kind==="heading"?"body-heading":""}" tabindex="-1"><span class="paragraph-number" aria-label="段落 ${index+1}">${String(index+1).padStart(2,"0")}</span><span class="body-translated">${dualText(block.zh,block.en)}</span><span class="body-original" lang="${esc(body.language||"en")}">${esc(block.text)}</span></${tag}>`;
       }).join("")}</div></section>`;
+    const translationLabels={
+      official:["正文采用发布方官方中英版本。","Article text uses the publisher’s official English and Chinese versions."],
+      "official-supplemented":["正文采用发布方官方中文版本，末段引语为 AI 补译并经逐段核对。","Article text uses the publisher’s official Chinese version; the closing quotation was AI-translated and checked against the source."],
+      "ai-reviewed":["正文译文由 AI 生成并逐段核对，未经人工审校。","Article translation was AI-generated and checked paragraph by paragraph, without human editorial review."]
+    };
+    const translationLabel=translationLabels[body.translationKind]||["正文译文为机器翻译。","Article translations are machine-generated."];
+    region.querySelector(".article-body-section .content-method").innerHTML=dualText(
+      `保留正文段落和小标题，移除导航与广告；图片、视频和交互内容请查看原站。${translationLabel[0]}`,
+      `Article paragraphs and headings are retained; navigation and ads are removed. Images, videos and interactive content remain on the source website. ${translationLabel[1]}`
+    );
+    $("reader-content").querySelector(".reader-translation").innerHTML=dualText(
+      `标题、导读摘要等含机器翻译。${translationLabel[0]}`,
+      `Titles and introductory summaries include machine translation. ${translationLabel[1]}`
+    );
+    const translationURL=safeURL(body.translationSourceURL);
+    if(translationURL){
+      region.querySelector(".body-provenance").insertAdjacentHTML("beforeend",` · <a href="${esc(translationURL)}" target="_blank" rel="noopener noreferrer">官方中文来源 / Official Chinese version</a>`);
+    }
     region.querySelectorAll("[data-paragraph]").forEach(button=>button.addEventListener("click",()=>{
       const target=$(`body-${button.dataset.paragraph}`);
       target?.scrollIntoView({behavior:"smooth",block:"start"});target?.focus({preventScroll:true});

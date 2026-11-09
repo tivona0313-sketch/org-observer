@@ -3,8 +3,86 @@
   "id": "rss-84abd1857de5dfd951d9",
   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
   "sourceTitle": "Making it easier for websites to express AI training preferences",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-08T22:46:51.286904+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-09T22:46:51.317595+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-09T03:06:17.453398+00:00",
+  "fetchedAt": "2026-11-09T02:56:21.101Z",
+  "finalURL": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+  "language": "en",
+  "originalTitle": "Making it easier for websites to express AI training preferences",
+  "author": "OpenAI",
+  "blocks": [
+    {
+      "id": "p1",
+      "kind": "paragraph",
+      "text": "Today, we’re announcing that OpenAI will honor a common signal in robots.txt, the file that lets websites express their preferences about the use of their content for foundational generative AI training. This voluntary effort makes it easier for publishers and website operators to communicate the same preference to multiple participating providers at once.",
+      "en": "Today, we’re announcing that OpenAI will honor a common signal in robots.txt, the file that lets websites express their preferences about the use of their content for foundational generative AI training. This voluntary effort makes it easier for publishers and website operators to communicate the same preference to multiple participating providers at once.",
+      "zh": "今天，我们宣布，OpenAI 将遵循 robots.txt 文件中的一项通用信号。网站可通过该文件表明其是否愿意将内容用于基础生成式 AI 模型训练。通过这一自愿举措，内容发布者和网站运营者只需设置一次，即可向多家参与的服务提供商传达相同的意愿。"
+    },
+    {
+      "id": "p2",
+      "kind": "paragraph",
+      "text": "Previously, website operators would identify individual crawlers and maintain separate rules for each and every provider. Having a shared signal across multiple providers reduces that work for operators.",
+      "en": "Previously, website operators would identify individual crawlers and maintain separate rules for each and every provider. Having a shared signal across multiple providers reduces that work for operators.",
+      "zh": "此前，网站运营者需要识别各个爬虫，并为每家服务提供商分别维护规则。多家服务提供商共用一项信号，可以减轻网站运营者的工作负担。"
+    },
+    {
+      "id": "p3",
+      "kind": "paragraph",
+      "text": "We aim to implement the signal in the coming months, and will share another update with details about our implementation when we do so. This new signal will not replace the controls we already provide through robots.txt. Our existing crawler controls, which provide web publishers flexibility and control over their pages, will continue to apply and be respected.",
+      "en": "We aim to implement the signal in the coming months, and will share another update with details about our implementation when we do so. This new signal will not replace the controls we already provide through robots.txt. Our existing crawler controls, which provide web publishers flexibility and control over their pages, will continue to apply and be respected.",
+      "zh": "我们计划在未来几个月内落实这项信号，并将在届时发布更新，说明具体的实施细节。这项新信号不会取代我们已通过 robots.txt 提供的控制机制。我们现有的爬虫控制机制为网站内容发布者提供了灵活性，让他们能够掌控自己的网页。这些机制将继续沿用，我们也将继续遵循。"
+    },
+    {
+      "id": "p4",
+      "kind": "paragraph",
+      "text": "This draws on the ongoing work of the Internet Engineering Task Force’s (IETF) AI Preferences working group. We’re joining other participants in the working group in today’s announcement of this shared signal, and believe this strengthens our continued participation in the IETF standards discussions. OpenAI will continue to adapt its practices as those conversations and the landscape continue to evolve in view of appropriate controls and fairness.",
+      "en": "This draws on the ongoing work of the Internet Engineering Task Force’s (IETF) AI Preferences working group. We’re joining other participants in the working group in today’s announcement of this shared signal, and believe this strengthens our continued participation in the IETF standards discussions. OpenAI will continue to adapt its practices as those conversations and the landscape continue to evolve in view of appropriate controls and fairness.",
+      "zh": "这项举措借鉴了互联网工程任务组 (IETF) AI 偏好工作组正在推进的工作。今天，我们与该工作组的其他参与方共同宣布这项通用信号。我们相信，这将进一步推动我们持续参与 IETF 标准的讨论。随着这些讨论不断深入、相关环境持续变化，OpenAI 将继续调整自身策略，兼顾适当的控制措施与公平性。"
+    },
+    {
+      "id": "p5",
+      "kind": "paragraph",
+      "text": "We believe this is a practical step toward an open web where people can publish and discover information, and website owners have clearer, simpler ways to communicate their choices about how their content is used. We encourage other AI providers to honor the signal.",
+      "en": "We believe this is a practical step toward an open web where people can publish and discover information, and website owners have clearer, simpler ways to communicate their choices about how their content is used. We encourage other AI providers to honor the signal.",
+      "zh": "我们相信，这是迈向开放网络的务实一步：人们可以在其中发布和搜索信息，网站所有者也能以更清晰、更简单的渠道，表达自己对内容使用方式的选择。我们鼓励其他 AI 提供商遵循这项信号。"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天，我们宣布，OpenAI 将遵循 robots.txt 文件中的一项通用信号。网站可通过该文件表明其是否愿意将内容用于基础生成式 AI 模型训练。",
+      "en": "Today, we’re announcing that OpenAI will honor a common signal in robots.txt, the file that lets websites express their preferences about the use of their content for foundational generative AI training. This voluntary effort makes it easier for publishers and website operators to communicate the same preference to multiple participating providers at once."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "此前，网站运营者需要识别各个爬虫，并为每家服务提供商分别维护规则。多家服务提供商共用一项信号，可以减轻网站运营者的工作负担。",
+      "en": "Previously, website operators would identify individual crawlers and maintain separate rules for each and every provider. Having a shared signal across multiple providers reduces that work for operators."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "我们计划在未来几个月内落实这项信号，并将在届时发布更新，说明具体的实施细节。这项新信号不会取代我们已通过 robots.txt 提供的控制机制。",
+      "en": "We aim to implement the signal in the coming months, and will share another update with details about our implementation when we do so. This new signal will not replace the controls we already provide through robots.txt."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "这项举措借鉴了互联网工程任务组 (IETF) AI 偏好工作组正在推进的工作。今天，我们与该工作组的其他参与方共同宣布这项通用信号。",
+      "en": "This draws on the ongoing work of the Internet Engineering Task Force’s (IETF) AI Preferences working group. We’re joining other participants in the working group in today’s announcement of this shared signal, and believe this strengthens our continued participation in the IETF standards discussions."
+    }
+  ],
+  "method": "public-page-browser / checked-paragraph-alignment / extractive-key-sentences",
+  "translationKind": "official",
+  "translation": "Official publisher bilingual text",
+  "sourceVersions": {
+    "original": {
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+      "title": "Making it easier for websites to express AI training preferences"
+    },
+    "zh": {
+      "url": "https://openai.com/zh-Hans-CN/index/helping-websites-express-ai-training-preferences/",
+      "title": "让网站更轻松地表达 AI 训练偏好"
+    }
+  },
+  "contentHash": "a36f6b2178306898d2835126c78fb0633f6df38844c71e41cccfffb03e264a5d",
+  "recoveryCheckedAt": "2026-11-09T03:06:17.453398+00:00",
+  "translationSourceURL": "https://openai.com/zh-Hans-CN/index/helping-websites-express-ai-training-preferences/"
 }

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-02e9abf47eaf3fa01f98",
+  "url": "https://openai.com/index/coderabbit-codex-daybreak",
+  "sourceTitle": "CodeRabbit scales agentic software development and ships 20x more",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-09T22:55:11.185304+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-10T22:55:11.255419+00:00"
+}

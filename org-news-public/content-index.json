@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T17:19:33.310257+00:00",
+  "updatedAt": "2026-11-09T22:55:11.274504+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -85,6 +85,24 @@
       "sourceTitle": "Expanding Teen Account Protections to Teens Around the World",
       "contentHash": "a9242665d43a66bb114c9f9b76c0a2653ddc6b8d46270af4a6aca83239936292",
       "fetchedAt": "2026-11-09T17:19:27.852461+00:00"
+    },
+    "rss-caa9073cefb43725f1a5": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "sourceTitle": "ChatGPT Enterprise now available in AWS Marketplace",
+      "error": "http_403"
+    },
+    "rss-952d2516af2e905436ad": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/control-room",
+      "sourceTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "error": "http_403"
+    },
+    "rss-02e9abf47eaf3fa01f98": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "sourceTitle": "CodeRabbit scales agentic software development and ships 20x more",
+      "error": "http_403"
     },
     "rss-a0a44ed09dc9a1089b4e": {
       "status": "unavailable",

@@ -50,6 +50,55 @@
       "sourceId": "meta"
     },
     {
+      "id": "rss-caa9073cefb43725f1a5",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "date": "2026-11-09",
+      "categories": [
+        "运营模式"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "ChatGPT Enterprise now available in AWS Marketplace",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-952d2516af2e905436ad",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/control-room",
+      "date": "2026-11-09",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-02e9abf47eaf3fa01f98",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "date": "2026-11-09",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "CodeRabbit scales agentic software development and ships 20x more",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-a0a44ed09dc9a1089b4e",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
@@ -1702,35 +1751,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-09T17:19:17.131409+00:00",
-      "lastSuccess": "2026-11-09T17:19:17.395214+00:00",
+      "attemptedAt": "2026-11-09T22:55:09.085600+00:00",
+      "lastSuccess": "2026-11-09T22:55:09.290968+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-09T17:19:17.132208+00:00",
-      "lastSuccess": "2026-11-09T17:19:17.378562+00:00",
+      "attemptedAt": "2026-11-09T22:55:09.086415+00:00",
+      "lastSuccess": "2026-11-09T22:55:09.363640+00:00",
       "count": 16
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-09T17:19:17.132701+00:00",
-      "lastSuccess": "2026-11-09T17:19:17.255946+00:00",
+      "attemptedAt": "2026-11-09T22:55:09.086888+00:00",
+      "lastSuccess": "2026-11-09T22:55:09.265910+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-09T17:19:17.133384+00:00",
-      "lastSuccess": "2026-11-09T17:19:18.242493+00:00",
+      "attemptedAt": "2026-11-09T22:55:09.087533+00:00",
+      "lastSuccess": "2026-11-09T22:55:10.253564+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-09T17:19:18.243972+00:00",
-  "nextRefresh": "2026-11-09T22:17:00+00:00",
+  "lastRefresh": "2026-11-09T22:55:10.254826+00:00",
+  "nextRefresh": "2026-11-10T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "38627b3472b50f0adf27303d67a6ea987f493a04420239fceb9a06aa2120674b"
+  "bilingualRevision": "f6d369fa486505fb27330f82f02bd8040b4426dd32b8e4b6361813dd3f84f5e8"
 }

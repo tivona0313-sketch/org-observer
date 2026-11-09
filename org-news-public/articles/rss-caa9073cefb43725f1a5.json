@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-caa9073cefb43725f1a5",
+  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "sourceTitle": "ChatGPT Enterprise now available in AWS Marketplace",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-09T22:55:11.183963+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-10T22:55:11.233942+00:00"
+}

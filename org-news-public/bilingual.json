@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-09T17:19:19.401476+00:00",
-  "revision": "38627b3472b50f0adf27303d67a6ea987f493a04420239fceb9a06aa2120674b",
+  "generatedAt": "2026-11-09T22:55:11.145734+00:00",
+  "revision": "f6d369fa486505fb27330f82f02bd8040b4426dd32b8e4b6361813dd3f84f5e8",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -458,6 +458,66 @@
         "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. The post Expanding Teen Account Protections to Teens Around the World appeared first on Meta Newsroom .",
         "sourceTitle": "Expanding Teen Account Protections to Teens Around the World",
         "source": "Meta Newsroom"
+      }
+    },
+    "rss-caa9073cefb43725f1a5": {
+      "original": {
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+        "sourceTitle": "ChatGPT Enterprise now available in AWS Marketplace",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "ChatGPT 企業公司( ChatGPT Entertainment) 现可在 AWS 市场获取",
+        "summary": "ChatGPT Entertainment现在通过AWS Marketplace提供,帮助各组织通过现有AWS采购和开具账单的关系简化采购。",
+        "sourceTitle": "ChatGPT 企業公司( ChatGPT Entertainment) 现可在 AWS 市场获取",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+        "sourceTitle": "ChatGPT Enterprise now available in AWS Marketplace",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-952d2516af2e905436ad": {
+      "original": {
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+        "sourceTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "控制室:跟踪和制止我们研究基础设施的模型工作量的中央系统",
+        "summary": "了解OpenAI控制室如何追踪我们研究基础设施的模型工作量,",
+        "sourceTitle": "控制室:跟踪和制止我们研究基础设施的模型工作量的中央系统",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+        "sourceTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-02e9abf47eaf3fa01f98": {
+      "original": {
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "sourceTitle": "CodeRabbit scales agentic software development and ships 20x more",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "CodeRabbit 比例尺代理软件开发及船舶",
+        "summary": "CodeRabbit使用OpenAI模型来管理和信任AI生成的代码和Codex,将20倍多的软件运送给同一个工程团队.",
+        "sourceTitle": "CodeRabbit 比例尺代理软件开发及船舶",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+        "sourceTitle": "CodeRabbit scales agentic software development and ships 20x more",
+        "source": "OpenAI News"
       }
     },
     "rss-a0a44ed09dc9a1089b4e": {

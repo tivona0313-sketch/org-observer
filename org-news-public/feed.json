@@ -1653,34 +1653,34 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-08T22:46:49.806180+00:00",
-      "lastSuccess": "2026-11-08T22:46:49.944878+00:00",
+      "attemptedAt": "2026-11-09T03:09:35.125500+00:00",
+      "lastSuccess": "2026-11-09T03:09:35.298282+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-08T22:46:49.807059+00:00",
-      "lastSuccess": "2026-11-08T22:46:50.036283+00:00",
+      "attemptedAt": "2026-11-09T03:09:35.126320+00:00",
+      "lastSuccess": "2026-11-09T03:09:35.337391+00:00",
       "count": 15
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-08T22:46:49.807586+00:00",
-      "lastSuccess": "2026-11-08T22:46:49.929881+00:00",
+      "attemptedAt": "2026-11-09T03:09:35.126832+00:00",
+      "lastSuccess": "2026-11-09T03:09:35.214400+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-08T22:46:49.808069+00:00",
-      "lastSuccess": "2026-11-08T22:46:51.019763+00:00",
+      "attemptedAt": "2026-11-09T03:09:35.127389+00:00",
+      "lastSuccess": "2026-11-09T03:09:36.360986+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-08T22:46:51.021179+00:00",
+  "lastRefresh": "2026-11-09T03:09:36.362462+00:00",
   "nextRefresh": "2026-11-09T04:17:00+00:00",
   "deploymentMode": "github-actions",
   "bilingualRevision": "7a1eaaec7e38bd94636bcb901182fa2b01d0ea06d12010f412821f707d261eef"

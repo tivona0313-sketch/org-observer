@@ -3,7 +3,7 @@
     {
       "id": "rss-69d4d9d74efa01629a6c",
       "title": "Closing the AI guidance gap in education",
-      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "company": "OpenAI",
       "source": "OpenAI News",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -14,6 +14,137 @@
       "type": "官方订阅",
       "live": true,
       "sourceTitle": "Closing the AI guidance gap in education",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-28c6d3cdb92b83f182ea",
+      "title": "Gemini 4 Carbon is now available for developers.",
+      "summary": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "date": "2026-11-10",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Gemini 4 Carbon is now available for developers.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-2ffd7e8cb1f550c679e6",
+      "title": "Introducing the Multimodal Knowledge Agent benchmark",
+      "summary": "We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "date": "2026-11-10",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Introducing the Multimodal Knowledge Agent benchmark",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-5b4c18faabadfb3802c4",
+      "title": "Gemini 4 Carbon is now available",
+      "summary": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "date": "2026-11-10",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Gemini 4 Carbon is now available",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-e192e4f92a704298f96f",
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "date": "2026-11-10",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-3ff9a4aa639bf46ff8d4",
+      "title": "40 years of American culinary history with the James Beard Foundation",
+      "summary": "A new Google Arts & Culture collaboration with the James Beard Foundation brings 10,000 menus to life.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
+      "date": "2026-11-10",
+      "categories": [
+        "组织文化"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "40 years of American culinary history with the James Beard Foundation",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-c979be8e72cc92b8a0fb",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "date": "2026-11-10",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Google Cloud launches Gemini for healthcare.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-0f0020abcf733229d29f",
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "date": "2026-11-10",
+      "categories": [
+        "人才标准",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Helping caregivers use AI in everyday life",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-f3fc54cd1d78c100d666",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "date": "2026-11-10",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Work at the Frontier: AI’s effect on freelance work",
       "sourceId": "openai"
     },
     {
@@ -1767,35 +1898,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-10T10:59:39.907841+00:00",
-      "lastSuccess": "2026-11-10T10:59:40.045893+00:00",
+      "attemptedAt": "2026-11-10T17:00:38.231262+00:00",
+      "lastSuccess": "2026-11-10T17:00:38.465587+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-10T10:59:39.908742+00:00",
-      "lastSuccess": "2026-11-10T10:59:40.042962+00:00",
+      "attemptedAt": "2026-11-10T17:00:38.231823+00:00",
+      "lastSuccess": "2026-11-10T17:00:38.526077+00:00",
       "count": 16
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-10T10:59:39.909243+00:00",
-      "lastSuccess": "2026-11-10T10:59:40.005182+00:00",
+      "attemptedAt": "2026-11-10T17:00:38.232170+00:00",
+      "lastSuccess": "2026-11-10T17:00:38.438716+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-10T10:59:39.909892+00:00",
-      "lastSuccess": "2026-11-10T10:59:41.009517+00:00",
+      "attemptedAt": "2026-11-10T17:00:38.232464+00:00",
+      "lastSuccess": "2026-11-10T17:00:39.407511+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-10T10:59:41.010982+00:00",
-  "nextRefresh": "2026-11-10T16:17:00+00:00",
+  "lastRefresh": "2026-11-10T17:00:39.408453+00:00",
+  "nextRefresh": "2026-11-10T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "66e76a0ebaf69a298b4b10745212770cd2b5d83478c742ed53f7df07193da3e9"
+  "bilingualRevision": "b0496473029da399370e5cdfa93b8eaf639bd41bf4e03ab828e9c15e720f2e86"
 }

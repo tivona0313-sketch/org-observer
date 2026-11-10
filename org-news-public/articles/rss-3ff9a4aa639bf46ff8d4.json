@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-3ff9a4aa639bf46ff8d4",
+  "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
+  "sourceTitle": "40 years of American culinary history with the James Beard Foundation",
+  "status": "ready",
+  "attemptedAt": "2026-11-10T17:00:44.481577+00:00",
+  "fetchedAt": "2026-11-10T17:00:47.243464+00:00",
+  "finalURL": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
+  "language": "en",
+  "originalTitle": "40 years of American culinary history with the James Beard Foundation",
+  "author": "Clare Reichenbach",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Dive into American culinary history like never before, thanks to a new partnership between the James Beard Foundation and Google Arts & Culture: Bite by Bite.",
+      "id": "p1",
+      "zh": "潜入美国烹饪史 前所未有的,James Beard基金会与Google艺术与文化公司建立了新的合作关系:咬着咬着。",
+      "en": "Dive into American culinary history like never before, thanks to a new partnership between the James Beard Foundation and Google Arts & Culture: Bite by Bite."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For over four decades, the James Beard Foundation — a launchpad for many of today’s top chefs — has hosted dinners capturing the evolution of American cuisine. This new James Beard Foundation digital archive opens a window into that evolution, with an interactive experiment and more than 10,000 digitized menus from those dinners documenting how ingredients, trends, and values have shifted across generations.",
+      "id": "p2",
+      "zh": "四十多年来,詹姆斯·比尔德基金会(James Beard Foundation)是今天许多顶级厨师的发起板,它主持晚餐,捕捉美国菜肴的进化。这个新的詹姆斯·比尔德基金会数字档案 打开了这个进化的窗口,并用互动实验 和超过10,000个数字化菜单 从这些晚餐记录 如何成份,趋势,价值观世代相传。",
+      "en": "For over four decades, the James Beard Foundation — a launchpad for many of today’s top chefs — has hosted dinners capturing the evolution of American cuisine. This new James Beard Foundation digital archive opens a window into that evolution, with an interactive experiment and more than 10,000 digitized menus from those dinners documenting how ingredients, trends, and values have shifted across generations."
+    },
+    {
+      "kind": "heading",
+      "text": "Mapping 40 years of food trends",
+      "id": "p3",
+      "zh": "绘制40年粮食趋势图",
+      "en": "Mapping 40 years of food trends"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The James Beard Menu Archive makes thousands of menus easy to explore and learn from. It uses AI to analyze ingredients across decades, letting you discover how dining habits have changed, from the explosion of kale in the 2000s to the decline of foie gras. More than just lists of dishes, the menus serve as cultural time capsules, revealing what diners valued at exact moments in history, how sourcing has evolved, and how regional and global influences have reshaped American dining.",
+      "id": "p4",
+      "zh": "\"詹姆斯·比尔德菜单档案\"(The James Beard Menu Archive)使数千个菜单易于探索和学习.它用AI来分析几十年的成分,让你发现饮食习惯如何改变,从2000年代甘蓝的爆炸到鹅肝的衰落.不只是盘子清单,菜单是文化时间胶囊,揭示了在历史时刻 餐馆的价值来源是如何演变的,以及区域和全球影响如何重塑美国餐饮。",
+      "en": "The James Beard Menu Archive makes thousands of menus easy to explore and learn from. It uses AI to analyze ingredients across decades, letting you discover how dining habits have changed, from the explosion of kale in the 2000s to the decline of foie gras. More than just lists of dishes, the menus serve as cultural time capsules, revealing what diners valued at exact moments in history, how sourcing has evolved, and how regional and global influences have reshaped American dining."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Beyond the menus, the archive also features a curated story series that spotlights James Beard, “the father of American gastronomy,” the history of the James Beard Foundation’s New York City headquarters, and more.",
+      "id": "p5",
+      "zh": "在菜单之外,档案馆还设有一个故事集 以詹姆斯·比尔德为焦点\" 美国胃学之父 \" 詹姆斯·比尔德基金会纽约市总部的历史,还有更多",
+      "en": "Beyond the menus, the archive also features a curated story series that spotlights James Beard, “the father of American gastronomy,” the history of the James Beard Foundation’s New York City headquarters, and more."
+    },
+    {
+      "kind": "heading",
+      "text": "Listening to voices from the culinary community",
+      "id": "p6",
+      "zh": "听烹饪界的声音",
+      "en": "Listening to voices from the culinary community"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Regarding this project, James Beard Award–winning chef Marcus Samuelsson says that food connects diverse communities. The collaboration celebrates the people behind every plate and honors their cultures and innovations. By bringing their heritage online and opening the archive to kitchens everywhere, we hope to inspire the next generation of culinary creatives.",
+      "id": "p7",
+      "zh": "关于这个项目,James Beard Award 获奖主厨Marcus Samuelsson表示,合作庆祝每个板块背后的人民,并尊重他们的文化和创新。把他们的遗产放到网上 并且把档案打开给各地的厨房我们希望激励下一代的烹饪创意。",
+      "en": "Regarding this project, James Beard Award–winning chef Marcus Samuelsson says that food connects diverse communities. The collaboration celebrates the people behind every plate and honors their cultures and innovations. By bringing their heritage online and opening the archive to kitchens everywhere, we hope to inspire the next generation of culinary creatives."
+    },
+    {
+      "kind": "paragraph",
+      "text": "JBF Experiment | James Beard Foundation on Google Arts & Culture",
+      "id": "p8",
+      "zh": "JBF 谷歌艺术与文化实验 James Beard基金会",
+      "en": "JBF Experiment | James Beard Foundation on Google Arts & Culture"
+    },
+    {
+      "kind": "paragraph",
+      "text": "James Beard holding tray of cooked chicken by Dan Wynn | James Beard Foundation on Google Arts & Culture",
+      "id": "p9",
+      "zh": "詹姆斯·比尔德(英语:James Beard)拿着盘子煮鸡,由丹·温恩(英语:Dan Wynn) QQ James Beard Foundation关于谷歌艺术与文化的介绍.",
+      "en": "James Beard holding tray of cooked chicken by Dan Wynn | James Beard Foundation on Google Arts & Culture"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Chefs Nicola Blaque, John Russ, and Sofia Tejeda by Jeffrey Gurwin | James Beard Foundation on Google Arts & Culture",
+      "id": "p10",
+      "zh": "大厨尼古拉·布莱克,约翰·鲁斯Jeffrey Gurwin James Beard Foundation关于谷歌艺术与文化的著作",
+      "en": "Chefs Nicola Blaque, John Russ, and Sofia Tejeda by Jeffrey Gurwin | James Beard Foundation on Google Arts & Culture"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Immerse yourself in American culinary history by exploring the James Beard Foundation on Google Arts & Culture.",
+      "id": "p11",
+      "zh": "通过探索关于谷歌艺术与文化的詹姆斯·比尔德基金会,让自己沉浸在美国烹饪史中.",
+      "en": "Immerse yourself in American culinary history by exploring the James Beard Foundation on Google Arts & Culture."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "潜入美国烹饪史 前所未有的,James Beard基金会与Google艺术与文化公司建立了新的合作关系:咬着咬着。",
+      "en": "Dive into American culinary history like never before, thanks to a new partnership between the James Beard Foundation and Google Arts & Culture: Bite by Bite."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "四十多年来,詹姆斯·比尔德基金会(James Beard Foundation)是今天许多顶级厨师的发起板,它主持晚餐,捕捉美国菜肴的进化。这个新的詹姆斯·比尔德基金会数字档案 打开了这个进化的窗口,并用互动实验 和超过10,000个数字化菜单 从这些晚餐记录 如何成份,趋势,价值观世代相传。",
+      "en": "For over four decades, the James Beard Foundation — a launchpad for many of today’s top chefs — has hosted dinners capturing the evolution of American cuisine. This new James Beard Foundation digital archive opens a window into that evolution, with an interactive experiment and more than 10,000 digitized menus from those dinners documenting how ingredients, trends, and values have shifted across generations."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "\"詹姆斯·比尔德菜单档案\"(The James Beard Menu Archive)使数千个菜单易于探索和学习.它用AI来分析几十年的成分,让你发现饮食习惯如何改变,从2000年代甘蓝的爆炸到鹅肝的衰落.不只是盘子清单,菜单是文化时间胶囊,揭示了在历史时刻 餐馆的价值来源是如何演变的,以及区域和全球影响如何重塑美国餐饮。",
+      "en": "The James Beard Menu Archive makes thousands of menus easy to explore and learn from. It uses AI to analyze ingredients across decades, letting you discover how dining habits have changed, from the explosion of kale in the 2000s to the decline of foie gras."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "通过探索关于谷歌艺术与文化的詹姆斯·比尔德基金会,让自己沉浸在美国烹饪史中.",
+      "en": "Immerse yourself in American culinary history by exploring the James Beard Foundation on Google Arts & Culture."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "a576597577e9573d5d243b8206746172c54a245d4b7507b65b223aaa1eb28e2f"
+}

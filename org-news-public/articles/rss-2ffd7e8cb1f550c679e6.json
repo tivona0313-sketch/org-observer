@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-2ffd7e8cb1f550c679e6",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+  "sourceTitle": "Introducing the Multimodal Knowledge Agent benchmark",
+  "status": "ready",
+  "attemptedAt": "2026-11-10T17:00:40.751125+00:00",
+  "fetchedAt": "2026-11-10T17:00:42.895889+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+  "language": "en",
+  "originalTitle": "Introducing the Multimodal Knowledge Agent benchmark",
+  "author": "Rohan Doshi",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "In partnership with Artificial Analysis, we're launching MKA (Multimodal Knowledge Agent), a new benchmark built to evaluate how agents reason across visually complex files to solve real-world knowledge work tasks.",
+      "id": "p1",
+      "zh": "与人工分析公司合作我们正在推出MKA(多模式知识代理),一个新的基准,用来评价代理商如何在视觉复杂文件中说明理由,以解决现实世界的知识工作任务。",
+      "en": "In partnership with Artificial Analysis, we're launching MKA (Multimodal Knowledge Agent), a new benchmark built to evaluate how agents reason across visually complex files to solve real-world knowledge work tasks."
+    },
+    {
+      "kind": "heading",
+      "text": "Introducing MKA",
+      "id": "p2",
+      "zh": "介绍 MKA",
+      "en": "Introducing MKA"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Most knowledge work benchmarks can be solved with text alone, without ever needing to look at an image or page layout. Yet, everyday professional work looks very different. Across many industries, day-to-day work is deeply visual — from cross-referencing architectural blueprints and tracing engineering schematics to synthesizing findings into polished decks, reports, and spreadsheets. We built MKA to measure how well agents can handle this visually complex work.",
+      "id": "p3",
+      "zh": "大多数知识工作基准可以单靠文本来解决,不需要查看图像或页面布局。不过,日常的职业工作看起来非常不同。在许多行业,日常工作具有深刻的目视性——从交叉参考的建筑蓝图和追踪工程图谱到将发现合成磨损的甲板,报告,和电子表格。我们建造了MKA来测量 智能体们能处理这个复杂的视觉工作",
+      "en": "Most knowledge work benchmarks can be solved with text alone, without ever needing to look at an image or page layout. Yet, everyday professional work looks very different. Across many industries, day-to-day work is deeply visual — from cross-referencing architectural blueprints and tracing engineering schematics to synthesizing findings into polished decks, reports, and spreadsheets. We built MKA to measure how well agents can handle this visually complex work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To ground the benchmark in real-world workflows, we partnered with domain experts across 10 verticals and 83 occupations where day-to-day work is inherently visual. Together, these specialists — from architects and biologists to underwriters and data scientists — created MKA's 200-task evaluation set to assist them in their jobs.",
+      "id": "p4",
+      "zh": "为了在现实世界的工作流程中建立基准,我们与领域专家合作 跨越10个垂直 和83个职业 日常工作本质上是视觉的。一起来,这些专家——从建筑师和生物学家到承保人和数据科学家——创建了MKA的200个任务评价集,以帮助他们的工作。",
+      "en": "To ground the benchmark in real-world workflows, we partnered with domain experts across 10 verticals and 83 occupations where day-to-day work is inherently visual. Together, these specialists — from architects and biologists to underwriters and data scientists — created MKA's 200-task evaluation set to assist them in their jobs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "MKA's 10 verticals.",
+      "id": "p5",
+      "zh": "MKA的10个垂直.",
+      "en": "MKA's 10 verticals."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Each task reflects a multi-step project that takes a seasoned professional three to eight hours to complete, pairing a realistic prompt and a bundle of multimodal input files with an expert-written rubric of roughly 70 yes/no checks, weighted 75% on factual accuracy and 25% on visual design.",
+      "id": "p6",
+      "zh": "每项任务都反映一个多步骤项目,需要3至8小时的专业经验丰富才能完成,将一个现实的即时输入文件和一组多式联运输入文件与大约70个 \" 是/否 \" 的专家笔划组合起来,将75%加权于事实准确性,25%加权于外观设计。",
+      "en": "Each task reflects a multi-step project that takes a seasoned professional three to eight hours to complete, pairing a realistic prompt and a bundle of multimodal input files with an expert-written rubric of roughly 70 yes/no checks, weighted 75% on factual accuracy and 25% on visual design."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Three MKA tasks, from prompt and input files to golden output and rubric.",
+      "id": "p7",
+      "zh": "三MKA任务,从即时输入文件到黄金输出和标题。",
+      "en": "Three MKA tasks, from prompt and input files to golden output and rubric."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Starting today, you can explore the benchmark and evaluate your own models on Artificial Analysis. Every model runs in the same open-source agent harness, Stirrup, with the same tools, sandbox, and turn budget.",
+      "id": "p8",
+      "zh": "从今天开始您可以在人工分析中探索基准并评估自己的模型。每个型号都运行在同一个开源的代理带中,斯特鲁普,拥有同样的工具,沙盒 沙盒 沙盒 沙盒 沙盒 沙盒转预算。",
+      "en": "Starting today, you can explore the benchmark and evaluate your own models on Artificial Analysis. Every model runs in the same open-source agent harness, Stirrup, with the same tools, sandbox, and turn budget."
+    },
+    {
+      "kind": "paragraph",
+      "text": "An agentic autorater built on a non-Google model grades each deliverable. It opens every file, renders pages, inspects spreadsheet formulas, and checks the work against the expert rubric. When domain experts graded model outputs themselves, they agreed with the autorater 96% of the time. To keep results meaningful, Artificial Analysis runs the 200-task evaluation set and keeps it private so the tasks can't leak into training data or be found by the model via search. We've also released a separate set of 10 public tasks on Hugging Face, so anyone can inspect the format and test their own agents. Our technical report covers the methodology and results in detail. It shows that frontier models work in very different ways. On the same tasks, the models we tested have extreme differences in efficiency, using between 30 and 130 turns on average to complete each task. We show how strong perception abilities are necessary to solve each task, and we also show how models try and fail to compensate when vision is removed.",
+      "id": "p9",
+      "zh": "一个基于非Google模型分数的代理自动解析器,每个可交付品.它打开了每个文件,制作页面,检查电子表格公式,并对照专家题材检查工作。当域专家对模型本身进行分级时,他们同意96%的时间自动检票员的意见为了使结果有意义,人工分析运行200任务评价集,并保持其隐私性,以便任务不能泄露到训练数据中,或者被模型通过搜索找到.我们还发布了一套单独的 10项公共任务 关于Hugging Face,这样任何人都可以检查格式,测试自己的代理人.我们的技术报告详细介绍了方法和结果。这表明边疆模型的运作方式大不相同.在同样的任务,我们测试的模型在效率上有极大的差异,平均使用30至130个转弯来完成每项任务。我们展现出如何强大的感知能力 需要解决每项任务,我们还展示了模型如何尝试和失败 补偿,当视觉被移除。",
+      "en": "An agentic autorater built on a non-Google model grades each deliverable. It opens every file, renders pages, inspects spreadsheet formulas, and checks the work against the expert rubric. When domain experts graded model outputs themselves, they agreed with the autorater 96% of the time. To keep results meaningful, Artificial Analysis runs the 200-task evaluation set and keeps it private so the tasks can't leak into training data or be found by the model via search. We've also released a separate set of 10 public tasks on Hugging Face, so anyone can inspect the format and test their own agents. Our technical report covers the methodology and results in detail. It shows that frontier models work in very different ways. On the same tasks, the models we tested have extreme differences in efficiency, using between 30 and 130 turns on average to complete each task. We show how strong perception abilities are necessary to solve each task, and we also show how models try and fail to compensate when vision is removed."
+    },
+    {
+      "kind": "heading",
+      "text": "Expanding visual frontiers with Gemini 4 Carbon",
+      "id": "p10",
+      "zh": "以Gemini 4 Carbon 扩展视界",
+      "en": "Expanding visual frontiers with Gemini 4 Carbon"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini 4 Carbon achieves #2 in quality among the models we tested, and completes tasks at 6x lower cost on average compared to the top scoring model.",
+      "id": "p11",
+      "zh": "Gemini4碳在质量上达到了2号 我们测试的模型,并且与最高评分模式相比,平均以6x较低成本完成任务.",
+      "en": "Gemini 4 Carbon achieves #2 in quality among the models we tested, and completes tasks at 6x lower cost on average compared to the top scoring model."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini 4 Carbon is on the pareto frontier of quality and price for the MKA eval.",
+      "id": "p12",
+      "zh": "Gemini4碳处于MKA eval质量和价格的边缘。",
+      "en": "Gemini 4 Carbon is on the pareto frontier of quality and price for the MKA eval."
+    },
+    {
+      "kind": "heading",
+      "text": "Getting started",
+      "id": "p13",
+      "zh": "开始",
+      "en": "Getting started"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini 4 Carbon is available today via the Gemini API in Google AI Studio. Explore our updated Gemini 4 developer guide and documentation to get started.",
+      "id": "p14",
+      "zh": "Gemini4 Carbon今天通过Google AI Studio的GeminiAPI提供.探索我们更新的Gemini4开发者指南和文档启动.",
+      "en": "Gemini 4 Carbon is available today via the Gemini API in Google AI Studio. Explore our updated Gemini 4 developer guide and documentation to get started."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "与人工分析公司合作我们正在推出MKA(多模式知识代理),一个新的基准,用来评价代理商如何在视觉复杂文件中说明理由,以解决现实世界的知识工作任务。",
+      "en": "In partnership with Artificial Analysis, we're launching MKA (Multimodal Knowledge Agent), a new benchmark built to evaluate how agents reason across visually complex files to solve real-world knowledge work tasks."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "大多数知识工作基准可以单靠文本来解决,不需要查看图像或页面布局。不过,日常的职业工作看起来非常不同。",
+      "en": "Most knowledge work benchmarks can be solved with text alone, without ever needing to look at an image or page layout. Yet, everyday professional work looks very different."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "为了在现实世界的工作流程中建立基准,我们与领域专家合作 跨越10个垂直 和83个职业 日常工作本质上是视觉的。一起来,这些专家——从建筑师和生物学家到承保人和数据科学家——创建了MKA的200个任务评价集,以帮助他们的工作。",
+      "en": "To ground the benchmark in real-world workflows, we partnered with domain experts across 10 verticals and 83 occupations where day-to-day work is inherently visual. Together, these specialists — from architects and biologists to underwriters and data scientists — created MKA's 200-task evaluation set to assist them in their jobs."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "一个基于非Google模型分数的代理自动解析器,每个可交付品.它打开了每个文件,制作页面,检查电子表格公式,并对照专家题材检查工作。当域专家对模型本身进行分级时,他们同意96%的时间自动检票员的意见为了使结果有意义,人工分析运行200任务评价集,并保持其隐私性,以便任务不能泄露到训练数据中,或者被模型通过搜索找到.我们还发布了一套单独的 10项公共任务 关于Hugging Face,这样任何人都可以检查格式,测试自己的代理人.我们的技术报告详细介绍了方法和结果。",
+      "en": "An agentic autorater built on a non-Google model grades each deliverable. It opens every file, renders pages, inspects spreadsheet formulas, and checks the work against the expert rubric."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "f3837f8f2aeba0421f915a66a254e5249bc0b9bf08f15b8bfbef0073345b86a7"
+}

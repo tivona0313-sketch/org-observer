@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-5b4c18faabadfb3802c4",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+  "sourceTitle": "Gemini 4 Carbon is now available",
+  "status": "ready",
+  "attemptedAt": "2026-11-10T17:00:40.751354+00:00",
+  "fetchedAt": "2026-11-10T17:00:42.942946+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+  "language": "en",
+  "originalTitle": "Gemini 4 Carbon is now available",
+  "author": "Koray Kavukcuoglu",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. Carbon is our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows across complex knowledge work, software engineering, and scientific reasoning.",
+      "id": "p1",
+      "zh": "今天,我们...我们让Gemini4碳提供给开发者,企业,科学家们,和消费者。碳是我们最强的模型,在网络安全能力和跨越复杂知识工作的长距离代理工作流程方面有着前沿性能,软件工程,和科学推理。",
+      "en": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. Carbon is our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows across complex knowledge work, software engineering, and scientific reasoning."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Two weeks ago, we released Carbon to a set of cybersecurity defenders via our Fairwind Program. Following our recent launch of Gemini 4 Argon, Carbon pushes the frontier even further. Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is built for tasks that test the limits of a model’s intelligence like complex, multi-step coding and debugging and open-ended scientific research and discovery — using more tokens than Argon to explore thoroughly, reason deeply, and run extended verification loops.",
+      "id": "p2",
+      "zh": "两周前我们通过Fairwind计划 将Carbon交给了网络安全保卫者继我们最近发射Gemini四号卫星后碳进一步推进了边界。Argon仍然是大多数软件工程和知识工作的理想选择,碳是用来测试模型智能的极限 像复杂,多步骤编码和调试以及开放式的科学研究和发现——用比阿贡更多的符号来彻底探索,深究原因,并运行扩展验证循环。",
+      "en": "Two weeks ago, we released Carbon to a set of cybersecurity defenders via our Fairwind Program. Following our recent launch of Gemini 4 Argon, Carbon pushes the frontier even further. Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is built for tasks that test the limits of a model’s intelligence like complex, multi-step coding and debugging and open-ended scientific research and discovery — using more tokens than Argon to explore thoroughly, reason deeply, and run extended verification loops."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Across independent benchmarks designed to test model performance in real workflows, Carbon pairs frontier accuracy with practical production economics. It ranks #1 on CursorBench 4.0, Perplexity’s WANDR, and Zapier’s AutomationBench at more than 2X lower cost per task compared to the next best external model.",
+      "id": "p3",
+      "zh": "在实际工作流程中测试模型性能的独立基准中,碳对称与实际生产经济学的前沿精度.它在Cursor Bench 4.0上排名第1位.困惑的WANDR,和Zapier的自动化奔驰相比,每个任务的成本比次佳的外部模式低2X以上.",
+      "en": "Across independent benchmarks designed to test model performance in real workflows, Carbon pairs frontier accuracy with practical production economics. It ranks #1 on CursorBench 4.0, Perplexity’s WANDR, and Zapier’s AutomationBench at more than 2X lower cost per task compared to the next best external model."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To put Carbon’s capabilities to work on larger and complex projects, we’re previewing /swarm in Google Antigravity, turning a single prompt into a coordinated team of agents you can track in real time. Developers can assign Carbon to roles that demand the deepest reasoning, like architectural design, coordination, and auditing, while pairing it with faster, lighter models across parallel isolated workspaces and adversarial verifiers that test every change.",
+      "id": "p4",
+      "zh": "为了让Carbon有能力在更大和复杂的项目上工作,在谷歌反重力的预览中,将一个单一的提示变成一个协调的智能体团队 你可以实时追踪。开发者可以将碳指派给那些需要最深刻推理的角色,像建筑设计,协调,和审计,以更快的速度配对,比较轻的模型跨越平行的隔离工作空间和测试每个变化的对抗性验证器.",
+      "en": "To put Carbon’s capabilities to work on larger and complex projects, we’re previewing /swarm in Google Antigravity, turning a single prompt into a coordinated team of agents you can track in real time. Developers can assign Carbon to roles that demand the deepest reasoning, like architectural design, coordination, and auditing, while pairing it with faster, lighter models across parallel isolated workspaces and adversarial verifiers that test every change."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini 4 Carbon is available via the API in Google AI Studio and Gemini for business for all paying developers and enterprises, at the same introductory price 1 as Gemini 4 Argon ($2 per million input tokens and $10 per million output tokens). It is also rolling out to all Google AI Ultra subscribers in Google Antigravity, the Gemini app, and AI Mode in Search.",
+      "id": "p5",
+      "zh": "Gemini4 Carbon通过谷歌AI Studio和Gemini的API供所有付费开发商和企业经商,与Gemini4Argon的引入价格1相同(每百万输入令牌2个,每百万输出令牌10个)。它也向Google Antigravity的所有Google AI Ultra用户推出,Gemini应用,和搜索中的AI模式。",
+      "en": "Gemini 4 Carbon is available via the API in Google AI Studio and Gemini for business for all paying developers and enterprises, at the same introductory price 1 as Gemini 4 Argon ($2 per million input tokens and $10 per million output tokens). It is also rolling out to all Google AI Ultra subscribers in Google Antigravity, the Gemini app, and AI Mode in Search."
+    },
+    {
+      "kind": "heading",
+      "text": "Higher-precision knowledge work, artifact generation, and data analysis",
+      "id": "p6",
+      "zh": "高精度的知识工作,工艺品的生成,和数据分析",
+      "en": "Higher-precision knowledge work, artifact generation, and data analysis"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Across legal, finance, and enterprise operations, Gemini 4 Carbon combines frontier visual understanding, reasoning, and exhaustive retrieval to synthesize grounded insights across large sets of dense documents and data. It follows strict schemas and formatting to generate polished and precise spreadsheets, presentations, and reports.",
+      "id": "p7",
+      "zh": "纵观法律,金融,和企业业务,Gemini4碳结合了前沿视觉理解,推理,并进行详尽的检索,以综合对大量密集文件和数据的有根据的见解。它遵循严格的计划 和格式化生成 抛光和精确的电子表格,讲演,和报告。",
+      "en": "Across legal, finance, and enterprise operations, Gemini 4 Carbon combines frontier visual understanding, reasoning, and exhaustive retrieval to synthesize grounded insights across large sets of dense documents and data. It follows strict schemas and formatting to generate polished and precise spreadsheets, presentations, and reports."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Existing benchmarks don’t adequately capture how agents reason natively over dense files with charts, images, blueprints, schematics, and tables, so we partnered with Artificial Analysis to launch the new Multimodal Knowledge Agent (MKA) benchmark that tests a model’s multimodal performance in agentic workflows. Carbon ranks #2 while being more than 6X lower in average cost per task compared to the top performing model.",
+      "id": "p8",
+      "zh": "现有基准无法充分记录代理商如何用图表来解释本地过于密集的文件,图像,蓝图,示意图,和餐桌,因此,我们与人工分析合作,推出了新的多式联运知识代理(MKA)基准,测试一个模型在代理工作流程中的多式联运性能。碳排行榜第2位,而与顶级性能模型相比,每项任务的平均成本则低于6X以上.",
+      "en": "Existing benchmarks don’t adequately capture how agents reason natively over dense files with charts, images, blueprints, schematics, and tables, so we partnered with Artificial Analysis to launch the new Multimodal Knowledge Agent (MKA) benchmark that tests a model’s multimodal performance in agentic workflows. Carbon ranks #2 while being more than 6X lower in average cost per task compared to the top performing model."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Using Google Antigravity’s new /swarm feature, a team of Gemini 4 Carbon agents turned historical photos and engineering plates into an interactive Three.js 3D exhibition of the Eiffel Tower's 1887–1889 construction from a single prompt.",
+      "id": "p9",
+      "zh": "使用Google反重力的新功能,一组Gemini4碳代理 将历史照片和工程板块 变成了互动的三.js 3D展览 艾菲尔铁塔的1887年 - 1889年建筑从一个单程快速 。",
+      "en": "Using Google Antigravity’s new /swarm feature, a team of Gemini 4 Carbon agents turned historical photos and engineering plates into an interactive Three.js 3D exhibition of the Eiffel Tower's 1887–1889 construction from a single prompt."
+    },
+    {
+      "kind": "paragraph",
+      "text": "With seven public City Council planning PDFs (206 extracted engineering drawing views) and a single prompt, a multi-agent Carbon team using Google Antigravity’s /swarm feature built an interactive 906K-triangle Three.js reconstruction of Google’s Platform 37 office across 10 overnight loops.",
+      "id": "p10",
+      "zh": "7个公共市议会规划PDF(206个提取的工程绘图视图)和1个提示,使用Google Antigravity/swarm特性的多代理Carbon团队在一夜之间搭建了一个互动的906K-triangle Three.j 重建了Google的平台37的办公室.循环。",
+      "en": "With seven public City Council planning PDFs (206 extracted engineering drawing views) and a single prompt, a multi-agent Carbon team using Google Antigravity’s /swarm feature built an interactive 906K-triangle Three.js reconstruction of Google’s Platform 37 office across 10 overnight loops."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In Google Antigravity, Gemini 4 Carbon built an interactive multiscale textile visualizer based on an academic paper, modeling a virtual-fiber finite element framework with interactive 3D yarn meshes, 110-fiber polar tracking, and dynamic stress-strain curves with minimal prompting.",
+      "id": "p11",
+      "zh": "在谷歌反重力,Gemini4 Carbon根据一份学术论文 建造了一个交互式的多尺度纺织视觉器以交互式的3D线束建立虚拟纤维有限元素框架,110纤维极地跟踪,和动态压力曲线 最小的导线。",
+      "en": "In Google Antigravity, Gemini 4 Carbon built an interactive multiscale textile visualizer based on an academic paper, modeling a virtual-fiber finite element framework with interactive 3D yarn meshes, 110-fiber polar tracking, and dynamic stress-strain curves with minimal prompting."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In pre-release evaluations, Carbon matched the performance of the best model tested on deep financial research on Hebbia’s E2E Financial Agentic evaluation, and ranked at the top out of 23 frontier model configurations on Balyasny Asset Management’s General Financial Intelligence benchmark, spanning legal expertise, agentic tool use and execution, coding and data engineering, and perception and context understanding.",
+      "id": "p12",
+      "zh": "在发布前评价中,Carbon与Hebbia的E2E金融代理评估的深度金融研究所测试的最佳模型的性能相匹配,在Balyasny资产管理总体金融情报基准上的23个前沿模型配置中排名前茅,跨越法律专业知识,代理工具的使用和执行,编码和数据工程,认识和背景理解。",
+      "en": "In pre-release evaluations, Carbon matched the performance of the best model tested on deep financial research on Hebbia’s E2E Financial Agentic evaluation, and ranked at the top out of 23 frontier model configurations on Balyasny Asset Management’s General Financial Intelligence benchmark, spanning legal expertise, agentic tool use and execution, coding and data engineering, and perception and context understanding."
+    },
+    {
+      "kind": "heading",
+      "text": "Improved agentic coding, full stack development, and 3D and UI design",
+      "id": "p13",
+      "zh": "改进了代理编码,完整的堆栈开发,以及3D和UI设计",
+      "en": "Improved agentic coding, full stack development, and 3D and UI design"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Carbon performs exceptionally well on engineering tasks that require multi-agent collaboration like multi-package migrations, cross-subsystem root-cause investigations, and complex architectural redesigns. For web app development, it runs build-and-verify loops, recovers from errors, and checks both its code and the rendered UI to produce complete, working applications. Stronger visual design, spatial reasoning, and attention to environmental detail also carry over to 3D game development and creative coding.",
+      "id": "p14",
+      "zh": "碳在工程任务上表现特别出色,这些任务需要多剂协作,如多包迁移,跨子系统 根源调查,和复杂的建筑重新设计。在网络应用开发方面,它运行 建设和验证的循环,从错误中恢复,并检查它的代码 和制成的UI生产完整,工作申请。更强大的视觉设计,空间推理,对环境细节的关注也延续到3D游戏开发与创意编码.",
+      "en": "Carbon performs exceptionally well on engineering tasks that require multi-agent collaboration like multi-package migrations, cross-subsystem root-cause investigations, and complex architectural redesigns. For web app development, it runs build-and-verify loops, recovers from errors, and checks both its code and the rendered UI to produce complete, working applications. Stronger visual design, spatial reasoning, and attention to environmental detail also carry over to 3D game development and creative coding."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Using Google Antigravity’s /swarm feature, Carbon built an open-world 3D game where you explore Google’s Mountain View campus as a pelican riding a GBike — coordinating subagents to model 3D assets in Blender from Omni and Nano Banana references, build the browser game in Three.js with WebGL shaders, and pair procedural Web Audio sound effects with Lyria music. Try the live app.",
+      "id": "p15",
+      "zh": "使用Google反重力的/swarm特性,Carbon建立了一个开放世界的3D游戏,其中你探索Google的山景园校园,作为骑着GBike的鹏——协调子代理,以模拟来自Omni的Blender的3D资产.纳诺香蕉参考文献使用 WebGL 遮蔽器在 Three.js 中构建浏览器游戏,并配对程序Web音频音效与Lyria音乐.试试直播的应用",
+      "en": "Using Google Antigravity’s /swarm feature, Carbon built an open-world 3D game where you explore Google’s Mountain View campus as a pelican riding a GBike — coordinating subagents to model 3D assets in Blender from Omni and Nano Banana references, build the browser game in Three.js with WebGL shaders, and pair procedural Web Audio sound effects with Lyria music. Try the live app."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Paired with improved front end taste and motion design skills in Google Antigravity, Carbon reimagined the Google Merchandise Store in two prompts, proposing five art direction concepts and generating all-new product imagery with Nano Banana 2.1. Try the live app and Gemini front end design skill.",
+      "id": "p16",
+      "zh": "在Google Antigravity中具有更好的前端口味和运动设计技能的Paired,碳在两个提示中重新构思了谷歌商品商店,提出5个艺术方向概念,并用纳米香蕉2.1制作全新产品图像。尝试现场应用和Gemini前端设计技巧.",
+      "en": "Paired with improved front end taste and motion design skills in Google Antigravity, Carbon reimagined the Google Merchandise Store in two prompts, proposing five art direction concepts and generating all-new product imagery with Nano Banana 2.1. Try the live app and Gemini front end design skill."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Starting from a video reference generated with Gemini Omni in Google Antigravity, built a cinematic multi-shot underwater Atlantis scene. The pipeline modeled procedural ruins, volumetric caustic lighting, and water simulation in Blender before converting the full environment to Three.js for real-time browser rendering.",
+      "id": "p17",
+      "zh": "从Google Antigravity中与GeminiOmni一起生成的视频参考开始,在亚特兰蒂斯水下建造了一个多镜头的电影场景.管道模拟了程序废墟,体积性致癌照明,和 Blender 中的水模拟,然后将整个环境转换为 Three.js 用于实时浏览器渲染。",
+      "en": "Starting from a video reference generated with Gemini Omni in Google Antigravity, built a cinematic multi-shot underwater Atlantis scene. The pipeline modeled procedural ruins, volumetric caustic lighting, and water simulation in Blender before converting the full environment to Three.js for real-time browser rendering."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Using a multi-agent loop in Google Antigravity, Carbon reconstructed a playable c. 1780 Stein-Schule fortepiano with 61-key escapement physics from CAD drawings and X-ray radiographs and placed it in a 3D model of the Royal Conservatory of Music's Koerner Hall in Toronto with seat-specific spatial acoustics. Try the live app.",
+      "id": "p18",
+      "zh": "使用谷歌反重力的多代理环路,碳重建了可玩性c.1780 Stein-Schule fortepiano 配有来自CAD图画和X射线射线的61键逃生物理,并放在皇家音乐学院柯尔纳音乐厅的3D模型中.多伦多有座位专用空间声学.试试直播的应用",
+      "en": "Using a multi-agent loop in Google Antigravity, Carbon reconstructed a playable c. 1780 Stein-Schule fortepiano with 61-key escapement physics from CAD drawings and X-ray radiographs and placed it in a 3D model of the Royal Conservatory of Music's Koerner Hall in Toronto with seat-specific spatial acoustics. Try the live app."
+    },
+    {
+      "kind": "heading",
+      "text": "Frontier cybersecurity capabilities",
+      "id": "p19",
+      "zh": "边境网络安全能力",
+      "en": "Frontier cybersecurity capabilities"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini 4 Carbon for cyber delivers our strongest cybersecurity capabilities to date, giving security teams the end-to-end intelligence they need in protecting critical software. When accessed through the Fairwind Program, Carbon leads on key benchmarks across finding (SEC-bench Pro), exploiting (ExploitGym), and patching (CWE-bench v1) vulnerabilities: inspecting software, tracing how flaws can be chained together across systems, and generating verified root-cause patches.",
+      "id": "p20",
+      "zh": "Gemini4碳网络 提供我们迄今为止最强的网络安全能力,给安全小组 保护关键软件所需的端到端情报当通过Fairwind程序访问时,碳领先于贯穿整个发现的关键基准(SEC-bench Pro),剥削(剥削健身),和补丁(CWE-bench v1) 脆弱性:检查软件,追踪系统之间如何将缺陷连在一起,生成经验证的根源补丁。",
+      "en": "Gemini 4 Carbon for cyber delivers our strongest cybersecurity capabilities to date, giving security teams the end-to-end intelligence they need in protecting critical software. When accessed through the Fairwind Program, Carbon leads on key benchmarks across finding (SEC-bench Pro), exploiting (ExploitGym), and patching (CWE-bench v1) vulnerabilities: inspecting software, tracing how flaws can be chained together across systems, and generating verified root-cause patches."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Early testers inside and outside of Google are already seeing strong results with Carbon for cyber in practice.",
+      "id": "p21",
+      "zh": "谷歌内外的早期测试者已经在实际中看到Carbon对网络的强大效果.",
+      "en": "Early testers inside and outside of Google are already seeing strong results with Carbon for cyber in practice."
+    },
+    {
+      "kind": "list",
+      "text": "In Project Fortify, Google’s autonomous system spanning scanning, triage, and remediation, Carbon hit 100% recall on scanning and 95% precision on triage, on our internal benchmark. On Open Source code repository testing we see an over 25% relative improvement on Argon's already strong recall rate, surfacing previously undetected, real-world logic flaws. Bringing these gains across Google, one of the world’s largest users of open-source software, helps secure both our own systems and the broader ecosystem.",
+      "id": "p22",
+      "zh": "在加强工程中,谷歌的自主系统 横跨扫描,分门别类和补救,碳在扫描中被100%的回击 和95%的精度在分解,我们的内部基准。在开源代码存储器测试中,我们看到Argon已经很强的召回率相对提高了25%以上,之前没有被发现的表面,现实世界逻辑的缺陷。把这些收益带过谷歌开源软件的世界最大用户之一,帮助确保我们自己的系统和更广泛的生态系统的安全。",
+      "en": "In Project Fortify, Google’s autonomous system spanning scanning, triage, and remediation, Carbon hit 100% recall on scanning and 95% precision on triage, on our internal benchmark. On Open Source code repository testing we see an over 25% relative improvement on Argon's already strong recall rate, surfacing previously undetected, real-world logic flaws. Bringing these gains across Google, one of the world’s largest users of open-source software, helps secure both our own systems and the broader ecosystem."
+    },
+    {
+      "kind": "list",
+      "text": "Google’s Cloud Vulnerability Research (CVR) team recently used Carbon to prove that two bugs in a popular open-source software were in fact exploitable vulnerabilities, comparable in severity to the recent PHP2Shell exploit. By using Carbon to build a proof of concept, CVR helped maintainers re-classify the bug as critical and swiftly issue a patch. Details will be shared after the responsible disclosure process completes.",
+      "id": "p23",
+      "zh": "Google的云脆弱性研究小组最近利用Carbon来证明,一个流行的开源软件中的两个bug事实上是可以利用的弱点,与最近的PHP2壳开发相似。利用Carbon来证明概念CVR帮助维护者将错误重新分类为关键,并迅速发布补丁.详细情况将在负责任的披露程序完成后分享。",
+      "en": "Google’s Cloud Vulnerability Research (CVR) team recently used Carbon to prove that two bugs in a popular open-source software were in fact exploitable vulnerabilities, comparable in severity to the recent PHP2Shell exploit. By using Carbon to build a proof of concept, CVR helped maintainers re-classify the bug as critical and swiftly issue a patch. Details will be shared after the responsible disclosure process completes."
+    },
+    {
+      "kind": "list",
+      "text": "As part of Wiz’s Scan for Good program, the team used Carbon to assess vulnerabilities in public digital infrastructure. For example, when scanning two major SaaS providers, the model uncovered 0-day vulnerabilities in under two hours compressing weeks of vulnerability research to a single afternoon. The team partnered with the impacted organizations to remediate in record time, helping to mitigate potential impact on tens of thousands of companies.",
+      "id": "p24",
+      "zh": "作为Wiz“扫描好程序”的一部分,该小组利用Carbon评估公共数字基础设施的脆弱性。举例来说,当扫描两个主要的SaaS供应商时,模型在不到两小时的时间里发现了0天的弱点 将几周的弱点研究压缩到一个下午小组与受影响组织合作,在创纪录的时间内进行补救,帮助减轻对数以万计的公司的潜在影响。",
+      "en": "As part of Wiz’s Scan for Good program, the team used Carbon to assess vulnerabilities in public digital infrastructure. For example, when scanning two major SaaS providers, the model uncovered 0-day vulnerabilities in under two hours compressing weeks of vulnerability research to a single afternoon. The team partnered with the impacted organizations to remediate in record time, helping to mitigate potential impact on tens of thousands of companies."
+    },
+    {
+      "kind": "heading",
+      "text": "Stronger scientific and mathematical reasoning",
+      "id": "p25",
+      "zh": "加强科学和数学推理",
+      "en": "Stronger scientific and mathematical reasoning"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini 4 Carbon shows strongly improved performance in reasoning across physics, math, and life sciences, synthesizing experimental data, testing hypotheses, and reasoning through multi-step domain problems. For drug toxicity research company Axiom Bio, Carbon is now the leading model in performance for translational science, finding novel mechanisms of toxicity they hadn’t found previously. Axiom is now moving their production scientific analyses and agents to both Carbon and Argon to unlock the creation of safer drugs.",
+      "id": "p26",
+      "zh": "Gemini4 Carbon显示 整个物理学的推理性能有了显著的提高数学和生命科学,合成实验数据,测试假说,和通过多步骤域问题进行推理。对于药物毒性研究公司Axiom Bio,碳现在是翻译科学中 表现的主要模型,寻找他们以前没有找到的新型毒性机制。Axiom现在正在把生产科学分析和物剂转移到Carbon和Argon,以释放更安全药物的创造。",
+      "en": "Gemini 4 Carbon shows strongly improved performance in reasoning across physics, math, and life sciences, synthesizing experimental data, testing hypotheses, and reasoning through multi-step domain problems. For drug toxicity research company Axiom Bio, Carbon is now the leading model in performance for translational science, finding novel mechanisms of toxicity they hadn’t found previously. Axiom is now moving their production scientific analyses and agents to both Carbon and Argon to unlock the creation of safer drugs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Researchers across Google have been using Carbon in Google Antigravity to accelerate their work:",
+      "id": "p27",
+      "zh": "Google的研究人员在Google Antigravity中一直使用Carbon来加速工作:",
+      "en": "Researchers across Google have been using Carbon in Google Antigravity to accelerate their work:"
+    },
+    {
+      "kind": "list",
+      "text": "Code verification: Researchers built a new agentic framework for formal verification called AlphaProof Code and put it to work on a major security challenge: mathematically proving the actual code underlying the cryptographic protocol of Signal. Using Carbon alongside other models, our researchers translated security goals to mathematical theorems. AlphaProof Code agents then used Carbon to generate millions of lines of code in Lean, a computer language for writing mathematical proofs, helping them prove key security properties in weeks — a task that historically takes expert teams years. The result indicates Carbon’s potential to unlock scalable formal verification, long considered a gold-standard approach to building secure software.",
+      "id": "p28",
+      "zh": "代码校验 :研究人员为正式核查建立了一个新的代理框架,称为AlphaProof Code,并将其用于应对重大的安全挑战:在数学上证明信号密码协议背后的实际代码。使用碳与其它模型,我们的研究人员将安全目标 翻译为数学定理。AlphaProof代码代理 然后利用Carbon 生成百万行代码在Lean,一个写数学证明的计算机语言,帮助他们在几周内证明关键的安全性能,这项任务历来需要专家小组几年的时间。结果显示Carbon有可能解锁可扩展的正式核查,长期以来,人们一直认为是建立安全软件的黄金标准方法。",
+      "en": "Code verification: Researchers built a new agentic framework for formal verification called AlphaProof Code and put it to work on a major security challenge: mathematically proving the actual code underlying the cryptographic protocol of Signal. Using Carbon alongside other models, our researchers translated security goals to mathematical theorems. AlphaProof Code agents then used Carbon to generate millions of lines of code in Lean, a computer language for writing mathematical proofs, helping them prove key security properties in weeks — a task that historically takes expert teams years. The result indicates Carbon’s potential to unlock scalable formal verification, long considered a gold-standard approach to building secure software."
+    },
+    {
+      "kind": "list",
+      "text": "Enzyme assay development: Provided with only lab notebooks and raw data, Carbon went beyond standard analysis to surface hard-to-interpret data anomalies, which it used to diagnose subtle wet lab experimental artifacts such as incomplete automated mixing in deep wells, leading to substantially improved reproducibility. Moreover Carbon improved methods to deconvolute chromatography peaks and caught trace sample carryover in research instruments, significantly accelerating the development of new assays and tightening the feedback loop between computation and the bench.",
+      "id": "p29",
+      "zh": "酶实验开发:只提供实验室笔记本和原始数据,碳超越了标准分析 表面难以解释的数据异常,用来诊断细微的湿润实验室实验品 比如在深井中不完全的自动混合大大改进了可复制性。此外,碳改进方法使色谱学峰值分解,并捕获研究仪器中遗留的痕量样品,显著加快新分析的开发,收紧计算与席间反馈回路.",
+      "en": "Enzyme assay development: Provided with only lab notebooks and raw data, Carbon went beyond standard analysis to surface hard-to-interpret data anomalies, which it used to diagnose subtle wet lab experimental artifacts such as incomplete automated mixing in deep wells, leading to substantially improved reproducibility. Moreover Carbon improved methods to deconvolute chromatography peaks and caught trace sample carryover in research instruments, significantly accelerating the development of new assays and tightening the feedback loop between computation and the bench."
+    },
+    {
+      "kind": "list",
+      "text": "Protein structure prediction: Structure prediction models like AlphaFold 3 use Multiple Sequence Alignments (MSAs) of evolutionary relatives to help infer how amino acid chains fold. As a result they often struggle on understudied, viral, microbial, and eukaryotic proteins that have very few matches in standard databases. Working in a multi-agent setup, our researchers used Gemini 4 Carbon to autonomously discover remote homologs across petabase-scale unannotated sequence archives, environmental and viral sequence catalogs, and 3D structure databases. For example, across 7 low-homolog protein families from the CASP17 blind test set, Carbon increased the number of homologs retrieved by 40-fold on average, greatly increasing the information available to structure prediction models without need for retraining. While broader benchmarking is still underway, addressing this upstream search bottleneck potentially offers a promising path toward modeling hard-to-characterize regions of the proteome.",
+      "id": "p30",
+      "zh": "蛋白质结构预测:AlphaFold 3等结构预测模型使用进化亲缘的多序列对齐(MSA)帮助推断氨基酸链的折叠方式.结果,他们常常在研究不足方面挣扎,病毒 病毒 病毒微生物,和在标准数据库中很少匹配的蛋白质。在一个多代理机构工作,我们的研究人员利用Gemini4碳 自主地发现远程同系物 跨越石基尺度无附加说明的序列档案环境和病毒序列目录,和三维结构数据库。举例来说,跨7个低血糖蛋白家族 从CASP17盲检测组,碳将平均检索到的同位素数量增加了40倍,大幅增加结构预测模型的可用信息,而无需再培训。虽然更广泛的基准制定工作仍在进行中,解决这一上游搜索瓶颈,有可能为培养蛋白质组难以定性的区域提供一条有希望的道路。",
+      "en": "Protein structure prediction: Structure prediction models like AlphaFold 3 use Multiple Sequence Alignments (MSAs) of evolutionary relatives to help infer how amino acid chains fold. As a result they often struggle on understudied, viral, microbial, and eukaryotic proteins that have very few matches in standard databases. Working in a multi-agent setup, our researchers used Gemini 4 Carbon to autonomously discover remote homologs across petabase-scale unannotated sequence archives, environmental and viral sequence catalogs, and 3D structure databases. For example, across 7 low-homolog protein families from the CASP17 blind test set, Carbon increased the number of homologs retrieved by 40-fold on average, greatly increasing the information available to structure prediction models without need for retraining. While broader benchmarking is still underway, addressing this upstream search bottleneck potentially offers a promising path toward modeling hard-to-characterize regions of the proteome."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Four weeks ago, we opened applications to give 10,000 scientists access to Argon in Google Antigravity free of charge for six months to accelerate the pace of their research, and we’ve onboarded thousands of scientists already. Today, we’re expanding access to Carbon for current and future participants, and going forward, the program will continue providing access to our latest frontier models as they become available. Applications remain open and onboarding continues on a weekly rolling basis, subject to eligibility, capacity, and selection.",
+      "id": "p31",
+      "zh": "四个星期前,我们在Google Antigravity免费开放了10 000名科学家进入Argon的应用,为期六个月,以加快他们的研究速度,已经接纳了数千名科学家。今天,我们...我们正在扩大目前和未来的参与者获得碳的机会,和前进的路程,该方案将继续提供我们最新的前沿模型。申请继续开放,继续每周滚动录用,符合资格,能力,和选择。",
+      "en": "Four weeks ago, we opened applications to give 10,000 scientists access to Argon in Google Antigravity free of charge for six months to accelerate the pace of their research, and we’ve onboarded thousands of scientists already. Today, we’re expanding access to Carbon for current and future participants, and going forward, the program will continue providing access to our latest frontier models as they become available. Applications remain open and onboarding continues on a weekly rolling basis, subject to eligibility, capacity, and selection."
+    },
+    {
+      "kind": "heading",
+      "text": "Progress in model safety and security",
+      "id": "p32",
+      "zh": "安全和安保模式方面的进展",
+      "en": "Progress in model safety and security"
+    },
+    {
+      "kind": "paragraph",
+      "text": "With each new model release, we continue to strengthen our safety and security mitigations, agentic misuse prevention, model alignment, and harm reduction proportionately with model capability.",
+      "id": "p33",
+      "zh": "每个新模型的发布,我们继续加强我们的安全和安保措施,预防滥用,模型对齐,并按模型能力按比例减少伤害。",
+      "en": "With each new model release, we continue to strengthen our safety and security mitigations, agentic misuse prevention, model alignment, and harm reduction proportionately with model capability."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Because Gemini 4 Carbon introduces stronger cyber capabilities we build on Argon’s strong safety and security stack to fortify robustness to misuse and prompt injection.",
+      "id": "p34",
+      "zh": "因为Gemini4 Carbon引入了更强大的网络能力,",
+      "en": "Because Gemini 4 Carbon introduces stronger cyber capabilities we build on Argon’s strong safety and security stack to fortify robustness to misuse and prompt injection."
+    },
+    {
+      "kind": "list",
+      "text": "Mitigating frontier safety misuse risks: We’ve strengthened our misuse safeguards to help ensure stronger defensive reasoning does not translate into offensive risk. In simulated cyberattack testing environments seeded with ExploitBench and CyScenarioBench, Carbon blocked 99% of attack trajectories from our adaptive red-teaming agent that can iteratively revisit its attack plans after each block. The Carbon safeguards lowered the per-attempt breach rate to just 0.8% (down from 3.1% on Argon). Our safeguards also lowered the automated cyberattack query success rate to 2.17% in Gray Swan’s testing, compared to 9.86% on Argon. And external testing by Trajectory Labs found zero new universal jailbreaks across 132 hours and over 13,000 requests.",
+      "id": "p35",
+      "zh": "减少边境安全滥用风险:我们强化了滥用保障措施,以确保更强大的防御推理不会转化为攻击性风险。在模拟的网络攻击测试环境 种子与探索奔驰和CyScenario奔驰,碳阻断了99%的攻击轨迹 从我们的适应性红队剂, 可以迭代地重温它的攻击计划 在每个街区后。碳保障措施将每一次事故的违约率降低到0.8%(从Argon的3.1%)。在Gray Swan的测试中,相对于阿尔贡的9.86%.而Trajectory Labs的外部测试发现,在132小时和超过13000个请求中,零个新的普遍越狱事件.",
+      "en": "Mitigating frontier safety misuse risks: We’ve strengthened our misuse safeguards to help ensure stronger defensive reasoning does not translate into offensive risk. In simulated cyberattack testing environments seeded with ExploitBench and CyScenarioBench, Carbon blocked 99% of attack trajectories from our adaptive red-teaming agent that can iteratively revisit its attack plans after each block. The Carbon safeguards lowered the per-attempt breach rate to just 0.8% (down from 3.1% on Argon). Our safeguards also lowered the automated cyberattack query success rate to 2.17% in Gray Swan’s testing, compared to 9.86% on Argon. And external testing by Trajectory Labs found zero new universal jailbreaks across 132 hours and over 13,000 requests."
+    },
+    {
+      "kind": "list",
+      "text": "Promoting safe and aligned model interactions: When we announced Carbon, we showed significant improvements in alignment as measured by our monitor flag rates across the model’s lifecycle, as well as reductions in data fabrication. New results show that on our 375-task agentic honesty benchmark, it passed 92% of tasks (compared to 70% for Argon) — declining to fill in missing experimental data 98% of the time and flagging methodological flaws 68% of the time.",
+      "id": "p36",
+      "zh": "促进安全和一致的模型互动:当我们宣布Carbon,根据模型整个寿命周期的监控旗率,我们显示在调整方面有了显著的改进,以及减少数据制造。新的结果表明,在我们375任务 代理诚实基准,它通过了92%的任务(Argon为70%)——拒绝填写98%的缺失实验数据,并暴露了68%的时间在方法上的缺陷。",
+      "en": "Promoting safe and aligned model interactions: When we announced Carbon, we showed significant improvements in alignment as measured by our monitor flag rates across the model’s lifecycle, as well as reductions in data fabrication. New results show that on our 375-task agentic honesty benchmark, it passed 92% of tasks (compared to 70% for Argon) — declining to fill in missing experimental data 98% of the time and flagging methodological flaws 68% of the time."
+    },
+    {
+      "kind": "list",
+      "text": "Protecting users from indirect prompt injection attacks: Two weeks ago, we shared that Carbon achieved a 0% prompt injection attack success rate on the Gray Swan IPI benchmark — marking the first time that milestone has been reached. At the same time, we know that prompt injection robustness remains an area for continued improvement. Our advanced automated red teaming continues to push the limits here and has shown that models could be further improved against sophisticated attacks in some distributions. It provides the data for us to continuously advance our models’ security to the next frontier.",
+      "id": "p37",
+      "zh": "保护使用者免受间接即时注射攻击:两周前我们分享到,Carbon在Gray Swan IPI基准上实现了0%的快速注射攻击成功率,这是首次达到这一里程碑。同时,我们知道,迅速注入稳健性仍然是一个需要继续改进的领域。我们的高级自动红色组合继续把极限推到这里,并且已经表明,在一些分布中,可以针对尖端的攻击进一步改进模型.它为我们提供了数据,以不断将我们的模型的安全推进到下一个前沿。",
+      "en": "Protecting users from indirect prompt injection attacks: Two weeks ago, we shared that Carbon achieved a 0% prompt injection attack success rate on the Gray Swan IPI benchmark — marking the first time that milestone has been reached. At the same time, we know that prompt injection robustness remains an area for continued improvement. Our advanced automated red teaming continues to push the limits here and has shown that models could be further improved against sophisticated attacks in some distributions. It provides the data for us to continuously advance our models’ security to the next frontier."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For more details, read the full Gemini 4 Carbon Safety and Security report.",
+      "id": "p38",
+      "zh": "更多细节阅读Gemini4号碳安全保障报告全文。",
+      "en": "For more details, read the full Gemini 4 Carbon Safety and Security report."
+    },
+    {
+      "kind": "heading",
+      "text": "Getting started with Gemini 4 Carbon",
+      "id": "p39",
+      "zh": "开始Gemini4 Carbon",
+      "en": "Getting started with Gemini 4 Carbon"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Starting today, Carbon joins Argon in our family of frontier models across our products:",
+      "id": "p40",
+      "zh": "从今天开始碳会加入我们家族的前沿模型 跨越我们的产品:",
+      "en": "Starting today, Carbon joins Argon in our family of frontier models across our products:"
+    },
+    {
+      "kind": "list",
+      "text": "For developers: Build with the Gemini API paid tier in AI Studio and Android Studio, and if you’re a Google AI Ultra subscriber, you can try it in Google Antigravity and AI Studio.",
+      "id": "p41",
+      "zh": "对于开发者:与GeminiAPI在AI Studio和Android Studio的付费级构建,如果你是Google AI Ultra用户,你可以在Google Antigravity和AI Studio中尝试.",
+      "en": "For developers: Build with the Gemini API paid tier in AI Studio and Android Studio, and if you’re a Google AI Ultra subscriber, you can try it in Google Antigravity and AI Studio."
+    },
+    {
+      "kind": "list",
+      "text": "For enterprises: Try it in Gemini for business via the API or model drop down, Google Antigravity, or CodeMender.",
+      "id": "p42",
+      "zh": "对于企业:在Gemini通过API或模型下降来进行交易,谷歌反重力,或编剧。",
+      "en": "For enterprises: Try it in Gemini for business via the API or model drop down, Google Antigravity, or CodeMender."
+    },
+    {
+      "kind": "list",
+      "text": "For everyday users: Try Carbon starting today in the Gemini app and AI Mode in Search if you’re a Google AI Ultra subscriber.",
+      "id": "p43",
+      "zh": "对于日常用户:如果你是Google AI Ultra的订阅者,",
+      "en": "For everyday users: Try Carbon starting today in the Gemini app and AI Mode in Search if you’re a Google AI Ultra subscriber."
+    },
+    {
+      "kind": "list",
+      "text": "For scientists & researchers: Apply for a chance to get access to both Argon and Carbon via Google Antigravity’s highest usage tier free of charge for 6 months (onboarded on a rolling basis), subject to eligibility, capacity, and selection.",
+      "id": "p44",
+      "zh": "对于科学家和研究人员:申请通过Google Antigravity公司6个月的最高使用水平免费访问Argon和Carbon的机会(滚动上船),符合资格,能力,和选择。",
+      "en": "For scientists & researchers: Apply for a chance to get access to both Argon and Carbon via Google Antigravity’s highest usage tier free of charge for 6 months (onboarded on a rolling basis), subject to eligibility, capacity, and selection."
+    },
+    {
+      "kind": "list",
+      "text": "For cybersecurity defenders: Apply to join the Fairwind Program to get access to Carbon for cyber on a rolling basis.",
+      "id": "p45",
+      "zh": "网络安全维护者:申请加入Fairwind程序,以滚动方式获取Carbon的网络访问权限.",
+      "en": "For cybersecurity defenders: Apply to join the Fairwind Program to get access to Carbon for cyber on a rolling basis."
+    },
+    {
+      "kind": "paragraph",
+      "text": "See the model card to learn more about Gemini 4 Carbon and to start building with it, explore our updated Gemini 4 developer guide and documentation for best practices on migrating workflows to the model.",
+      "id": "p46",
+      "zh": "见模型卡 了解更多的Gemini4碳 并开始建造它,探讨我们更新的Gemini4开发者指南和关于向模型迁移工作流程的最佳做法的文件。",
+      "en": "See the model card to learn more about Gemini 4 Carbon and to start building with it, explore our updated Gemini 4 developer guide and documentation for best practices on migrating workflows to the model."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...我们让Gemini4碳提供给开发者,企业,科学家们,和消费者。碳是我们最强的模型,在网络安全能力和跨越复杂知识工作的长距离代理工作流程方面有着前沿性能,软件工程,和科学推理。",
+      "en": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. Carbon is our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows across complex knowledge work, software engineering, and scientific reasoning."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "两周前我们通过Fairwind计划 将Carbon交给了网络安全保卫者继我们最近发射Gemini四号卫星后碳进一步推进了边界。Argon仍然是大多数软件工程和知识工作的理想选择,碳是用来测试模型智能的极限 像复杂,多步骤编码和调试以及开放式的科学研究和发现——用比阿贡更多的符号来彻底探索,深究原因,并运行扩展验证循环。",
+      "en": "Two weeks ago, we released Carbon to a set of cybersecurity defenders via our Fairwind Program. Following our recent launch of Gemini 4 Argon, Carbon pushes the frontier even further."
+    },
+    {
+      "paragraphId": "p12",
+      "zh": "在发布前评价中,Carbon与Hebbia的E2E金融代理评估的深度金融研究所测试的最佳模型的性能相匹配,在Balyasny资产管理总体金融情报基准上的23个前沿模型配置中排名前茅,跨越法律专业知识,代理工具的使用和执行,编码和数据工程,认识和背景理解。",
+      "en": "In pre-release evaluations, Carbon matched the performance of the best model tested on deep financial research on Hebbia’s E2E Financial Agentic evaluation, and ranked at the top out of 23 frontier model configurations on Balyasny Asset Management’s General Financial Intelligence benchmark, spanning legal expertise, agentic tool use and execution, coding and data engineering, and perception and context understanding."
+    },
+    {
+      "paragraphId": "p16",
+      "zh": "在Google Antigravity中具有更好的前端口味和运动设计技能的Paired,碳在两个提示中重新构思了谷歌商品商店,提出5个艺术方向概念,并用纳米香蕉2.1制作全新产品图像。尝试现场应用和Gemini前端设计技巧.",
+      "en": "Paired with improved front end taste and motion design skills in Google Antigravity, Carbon reimagined the Google Merchandise Store in two prompts, proposing five art direction concepts and generating all-new product imagery with Nano Banana 2.1. Try the live app and Gemini front end design skill."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "c58fd0e67287e4dbbf30120b0bf4b206ad5dbe28f5af78d96e24bc90fcedb530"
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-28c6d3cdb92b83f182ea",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+  "sourceTitle": "Gemini 4 Carbon is now available for developers.",
+  "status": "ready",
+  "attemptedAt": "2026-11-10T17:00:40.750604+00:00",
+  "fetchedAt": "2026-11-10T17:00:43.034316+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+  "language": "en",
+  "originalTitle": "Gemini 4 Carbon is now available for developers.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustained agentic workflows, Carbon tackles complex, multi-step problems across software engineering, full-stack web development, scientific research, and shows strong cybersecurity capabilities. With stronger alignment and reliable follow-through, it helps you stay focused on building and shipping great, secure products. Start building using the paid tier of the API in Google AI Studio and Android Studio, and Google AI Ultra subscribers can try it in AI Studio and our agent-first development platform, Google Antigravity.",
+      "id": "p1",
+      "zh": "从今天开始开发者可以与Gemini4 Carbon一起构建,我们最强的网络安全和远视能力模式用于持续代理工作流程,碳处理复杂,跨软件工程的多步骤问题,全面网络开发,科学研究,并显示出强大的网络安全能力。有了更紧密的配合和可靠的后续,它帮助你保持 专注于建筑和航运大,安全产品。在Google AI Studio和Android Studio使用API的付费级别开始建设,而Google AI Ultra的订阅者可以在AI Studio和我们的代理第一开发平台中尝试,谷歌反引力.",
+      "en": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustained agentic workflows, Carbon tackles complex, multi-step problems across software engineering, full-stack web development, scientific research, and shows strong cybersecurity capabilities. With stronger alignment and reliable follow-through, it helps you stay focused on building and shipping great, secure products. Start building using the paid tier of the API in Google AI Studio and Android Studio, and Google AI Ultra subscribers can try it in AI Studio and our agent-first development platform, Google Antigravity."
+    },
+    {
+      "kind": "list",
+      "text": "Check out the Gemini API Developer Guide for model details and setup instructions.",
+      "id": "p2",
+      "zh": "请检查access-date=中的日期值 (帮助) GeminiAPI开发者指南关于模型细节和设置说明.",
+      "en": "Check out the Gemini API Developer Guide for model details and setup instructions."
+    },
+    {
+      "kind": "list",
+      "text": "Read the Google Antigravity blog for details on using Carbon in our agent-first development platform.",
+      "id": "p3",
+      "zh": "阅读Google Antigravity博客,",
+      "en": "Read the Google Antigravity blog for details on using Carbon in our agent-first development platform."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "从今天开始开发者可以与Gemini4 Carbon一起构建,我们最强的网络安全和远视能力模式用于持续代理工作流程,碳处理复杂,跨软件工程的多步骤问题,全面网络开发,科学研究,并显示出强大的网络安全能力。有了更紧密的配合和可靠的后续,它帮助你保持 专注于建筑和航运大,安全产品。",
+      "en": "Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustained agentic workflows, Carbon tackles complex, multi-step problems across software engineering, full-stack web development, scientific research, and shows strong cybersecurity capabilities."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "请检查access-date=中的日期值 (帮助) GeminiAPI开发者指南关于模型细节和设置说明.",
+      "en": "Check out the Gemini API Developer Guide for model details and setup instructions."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "阅读Google Antigravity博客,",
+      "en": "Read the Google Antigravity blog for details on using Carbon in our agent-first development platform."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "f352231b949da8bed7f74aa763e1166e09406daf13d34d602ded1d1834d1225e"
+}

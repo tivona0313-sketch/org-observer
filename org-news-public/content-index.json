@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T10:59:41.504647+00:00",
+  "updatedAt": "2026-11-10T17:00:51.548265+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -69,6 +69,60 @@
       "status": "unavailable",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "sourceTitle": "Closing the AI guidance gap in education",
+      "error": "http_403"
+    },
+    "rss-28c6d3cdb92b83f182ea": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
+      "sourceTitle": "Gemini 4 Carbon is now available for developers.",
+      "contentHash": "f352231b949da8bed7f74aa763e1166e09406daf13d34d602ded1d1834d1225e",
+      "fetchedAt": "2026-11-10T17:00:43.034316+00:00"
+    },
+    "rss-2ffd7e8cb1f550c679e6": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "sourceTitle": "Introducing the Multimodal Knowledge Agent benchmark",
+      "contentHash": "f3837f8f2aeba0421f915a66a254e5249bc0b9bf08f15b8bfbef0073345b86a7",
+      "fetchedAt": "2026-11-10T17:00:42.895889+00:00"
+    },
+    "rss-5b4c18faabadfb3802c4": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "sourceTitle": "Gemini 4 Carbon is now available",
+      "contentHash": "c58fd0e67287e4dbbf30120b0bf4b206ad5dbe28f5af78d96e24bc90fcedb530",
+      "fetchedAt": "2026-11-10T17:00:42.942946+00:00"
+    },
+    "rss-e192e4f92a704298f96f": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "sourceTitle": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "contentHash": "e05851798a19ac588f7705c441d0a824a99c2a13ac68350290f1360b3ef8f7db",
+      "fetchedAt": "2026-11-10T17:00:46.741418+00:00"
+    },
+    "rss-3ff9a4aa639bf46ff8d4": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
+      "sourceTitle": "40 years of American culinary history with the James Beard Foundation",
+      "contentHash": "a576597577e9573d5d243b8206746172c54a245d4b7507b65b223aaa1eb28e2f",
+      "fetchedAt": "2026-11-10T17:00:47.243464+00:00"
+    },
+    "rss-c979be8e72cc92b8a0fb": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "sourceTitle": "Google Cloud launches Gemini for healthcare.",
+      "contentHash": "60b5760831d50cb6f54e54f298b896abee4073672aac5b7570c18e0269363494",
+      "fetchedAt": "2026-11-10T17:00:50.729953+00:00"
+    },
+    "rss-0f0020abcf733229d29f": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "sourceTitle": "Helping caregivers use AI in everyday life",
+      "error": "http_403"
+    },
+    "rss-f3fc54cd1d78c100d666": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "sourceTitle": "Work at the Frontier: AI’s effect on freelance work",
       "error": "http_403"
     },
     "rss-f116c1896a2161e2c2d9": {

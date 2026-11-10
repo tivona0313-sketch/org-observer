@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-0f0020abcf733229d29f",
+  "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+  "sourceTitle": "Helping caregivers use AI in everyday life",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-10T17:00:49.423362+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-11T17:00:49.503602+00:00"
+}

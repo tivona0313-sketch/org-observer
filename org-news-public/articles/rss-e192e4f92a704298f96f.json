@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-e192e4f92a704298f96f",
+  "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+  "sourceTitle": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "status": "ready",
+  "attemptedAt": "2026-11-10T17:00:44.086874+00:00",
+  "fetchedAt": "2026-11-10T17:00:46.741418+00:00",
+  "finalURL": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+  "language": "en",
+  "originalTitle": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today at Adobe MAX, we announced we’re expanding our partnership with Adobe.",
+      "id": "p1",
+      "zh": "今天在阿多贝MAX,我们宣布要扩大与Adobe的合作关系。",
+      "en": "Today at Adobe MAX, we announced we’re expanding our partnership with Adobe."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Switching between apps to edit a PDF or fine-tune an image can quickly break your focus. Our partnership will bring Adobe’s creative and productivity tools directly into the Google products you use every day. It will also bring Google’s frontier AI models into Adobe’s apps. Here’s what’s coming:",
+      "id": "p2",
+      "zh": "在应用程序间切换以编辑一个PDF或微调一个图像可以快速打破你的焦点.我们的合作关系将使Adobe的创意和生产力工具直接进入你每天使用的Google产品中.也会将Google的前沿AI模型带入Adobe的应用中.未来将如何:",
+      "en": "Switching between apps to edit a PDF or fine-tune an image can quickly break your focus. Our partnership will bring Adobe’s creative and productivity tools directly into the Google products you use every day. It will also bring Google’s frontier AI models into Adobe’s apps. Here’s what’s coming:"
+    },
+    {
+      "kind": "list",
+      "text": "Work faster with PDFs: You’ll soon have a direct pathway from Google Drive and Gmail into Adobe Acrobat, surfaced as a suggested app across both services, including an “Edit with” entry point in file previews.",
+      "id": "p3",
+      "zh": "加快 PDF 工作速度 :Google Drive和Gmail将直接进入Adobe Acrobat,作为一种建议应用 贯穿于两个服务,在文件预览中包括“带有”条目点的编辑。",
+      "en": "Work faster with PDFs: You’ll soon have a direct pathway from Google Drive and Gmail into Adobe Acrobat, surfaced as a suggested app across both services, including an “Edit with” entry point in file previews."
+    },
+    {
+      "kind": "list",
+      "text": "Create right where you search and chat: Adobe is expanding its connectors in Gemini and Gemini Enterprise with Acrobat and additional creative tools. Adobe will also bring its creative tools to AI Mode in Google Search.",
+      "id": "p4",
+      "zh": "在搜索和聊天的地方创建 :Adobe正在用Acrobat和额外的创意工具来扩展其在Gemini和Gemini企业的连接器.Adobe也会在Google Search中将其创意工具带入AI Mode.",
+      "en": "Create right where you search and chat: Adobe is expanding its connectors in Gemini and Gemini Enterprise with Acrobat and additional creative tools. Adobe will also bring its creative tools to AI Mode in Google Search."
+    },
+    {
+      "kind": "list",
+      "text": "Powering creatives and enterprises: Businesses will be able to use Adobe’s CX Enterprise Coworker agent in Gemini Enterprise — an AI assistant that helps teams design graphics, work with PDFs, and launch marketing campaigns without switching apps.",
+      "id": "p5",
+      "zh": "激发创造力和企业:企业可以使用 Adobe 的 CX 企业合作者代理 在Gemini企业—— 一个AI助手,帮助团队设计图形,与PDF合作,并发起不切换应用程序的营销活动。",
+      "en": "Powering creatives and enterprises: Businesses will be able to use Adobe’s CX Enterprise Coworker agent in Gemini Enterprise — an AI assistant that helps teams design graphics, work with PDFs, and launch marketing campaigns without switching apps."
+    },
+    {
+      "kind": "list",
+      "text": "Exploring editing experiences with DeepMind: Adobe and Google DeepMind will explore new editing capabilities for creative professionals, starting with an image model for Photoshop that could enable near-real-time edits.",
+      "id": "p6",
+      "zh": "探索DeepMind的编辑经验 :Adobe和Google DeepMind将探索创意专业人员的新编辑能力,从Photoshop的图像模型开始,该模型可以实现近实时编辑。",
+      "en": "Exploring editing experiences with DeepMind: Adobe and Google DeepMind will explore new editing capabilities for creative professionals, starting with an image model for Photoshop that could enable near-real-time edits."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "在应用程序间切换以编辑一个PDF或微调一个图像可以快速打破你的焦点.我们的合作关系将使Adobe的创意和生产力工具直接进入你每天使用的Google产品中.也会将Google的前沿AI模型带入Adobe的应用中.未来将如何:",
+      "en": "Switching between apps to edit a PDF or fine-tune an image can quickly break your focus. Our partnership will bring Adobe’s creative and productivity tools directly into the Google products you use every day."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "在搜索和聊天的地方创建 :Adobe正在用Acrobat和额外的创意工具来扩展其在Gemini和Gemini企业的连接器.Adobe也会在Google Search中将其创意工具带入AI Mode.",
+      "en": "Create right where you search and chat: Adobe is expanding its connectors in Gemini and Gemini Enterprise with Acrobat and additional creative tools. Adobe will also bring its creative tools to AI Mode in Google Search."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "激发创造力和企业:企业可以使用 Adobe 的 CX 企业合作者代理 在Gemini企业—— 一个AI助手,帮助团队设计图形,与PDF合作,并发起不切换应用程序的营销活动。",
+      "en": "Powering creatives and enterprises: Businesses will be able to use Adobe’s CX Enterprise Coworker agent in Gemini Enterprise — an AI assistant that helps teams design graphics, work with PDFs, and launch marketing campaigns without switching apps."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "探索DeepMind的编辑经验 :Adobe和Google DeepMind将探索创意专业人员的新编辑能力,从Photoshop的图像模型开始,该模型可以实现近实时编辑。",
+      "en": "Exploring editing experiences with DeepMind: Adobe and Google DeepMind will explore new editing capabilities for creative professionals, starting with an image model for Photoshop that could enable near-real-time edits."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "e05851798a19ac588f7705c441d0a824a99c2a13ac68350290f1360b3ef8f7db"
+}

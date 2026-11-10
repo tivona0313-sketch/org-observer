@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-c979be8e72cc92b8a0fb",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+  "sourceTitle": "Google Cloud launches Gemini for healthcare.",
+  "status": "ready",
+  "attemptedAt": "2026-11-10T17:00:47.891683+00:00",
+  "fetchedAt": "2026-11-10T17:00:50.729953+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+  "language": "en",
+  "originalTitle": "Google Cloud launches Gemini for healthcare.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Google Cloud has announced Gemini for healthcare, an AI solution engineered to unify fragmented clinical, operational, and administrative systems. Moving beyond simple information retrieval, it enables healthcare teams to turn siloed data into coordinated action.",
+      "id": "p1",
+      "zh": "Google Cloud已经宣布Gemini医疗,一个AI解决方案 设计统一分散的临床,业务,和行政管理系统。超越简单的信息检索,它使医疗队能够将各自为政的数据转化为协调行动。",
+      "en": "Google Cloud has announced Gemini for healthcare, an AI solution engineered to unify fragmented clinical, operational, and administrative systems. Moving beyond simple information retrieval, it enables healthcare teams to turn siloed data into coordinated action."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Clinicians lose nearly 28 hours each week to paperwork and administrative tasks, fueling burnout and straining budgets. By integrating specialized skills and data connectors with existing third-party systems, the platform brings together critical information from electronic health records, billing platforms, clinical guidelines, and Medicare datasets.",
+      "id": "p2",
+      "zh": "临床医生每周因文书和行政工作损失近28小时,消耗和紧张的预算。通过将专门技能和数据连接器与现有的第三方系统相结合,该平台汇集了来自电子健康记录的关键信息,计费平台,临床指南,和医疗计划数据集。",
+      "en": "Clinicians lose nearly 28 hours each week to paperwork and administrative tasks, fueling burnout and straining budgets. By integrating specialized skills and data connectors with existing third-party systems, the platform brings together critical information from electronic health records, billing platforms, clinical guidelines, and Medicare datasets."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini for healthcare reasons across this context to orchestrate and execute complex, multi-step workflows — such as medical records synthesis and prior authorization review — within defined guardrails and with appropriate human oversight. Initially available in preview alongside launch partners including HCA Healthcare, Highmark Health, and Northwell Health, it resolves bottlenecks and reclaims valuable staff time for patient care. Learn more on the Cloud blog.",
+      "id": "p3",
+      "zh": "出于健康考虑 Gemini 在整个背景下 协调和执行复合体,多步骤工作流程——如病历综合和事先批准审查——在规定的护栏内进行,并有适当的人监督。最初可与包括HCA保健在内的发射伙伴一起预览,高马克健康,和诺斯韦尔健康,它解决了瓶颈问题,恢复了宝贵的工作人员时间来照顾病人。在\"云\"博客上学习更多.",
+      "en": "Gemini for healthcare reasons across this context to orchestrate and execute complex, multi-step workflows — such as medical records synthesis and prior authorization review — within defined guardrails and with appropriate human oversight. Initially available in preview alongside launch partners including HCA Healthcare, Highmark Health, and Northwell Health, it resolves bottlenecks and reclaims valuable staff time for patient care. Learn more on the Cloud blog."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "Google Cloud已经宣布Gemini医疗,一个AI解决方案 设计统一分散的临床,业务,和行政管理系统。超越简单的信息检索,它使医疗队能够将各自为政的数据转化为协调行动。",
+      "en": "Google Cloud has announced Gemini for healthcare, an AI solution engineered to unify fragmented clinical, operational, and administrative systems. Moving beyond simple information retrieval, it enables healthcare teams to turn siloed data into coordinated action."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "临床医生每周因文书和行政工作损失近28小时,消耗和紧张的预算。通过将专门技能和数据连接器与现有的第三方系统相结合,该平台汇集了来自电子健康记录的关键信息,计费平台,临床指南,和医疗计划数据集。",
+      "en": "Clinicians lose nearly 28 hours each week to paperwork and administrative tasks, fueling burnout and straining budgets. By integrating specialized skills and data connectors with existing third-party systems, the platform brings together critical information from electronic health records, billing platforms, clinical guidelines, and Medicare datasets."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "出于健康考虑 Gemini 在整个背景下 协调和执行复合体,多步骤工作流程——如病历综合和事先批准审查——在规定的护栏内进行,并有适当的人监督。最初可与包括HCA保健在内的发射伙伴一起预览,高马克健康,和诺斯韦尔健康,它解决了瓶颈问题,恢复了宝贵的工作人员时间来照顾病人。",
+      "en": "Gemini for healthcare reasons across this context to orchestrate and execute complex, multi-step workflows — such as medical records synthesis and prior authorization review — within defined guardrails and with appropriate human oversight. Initially available in preview alongside launch partners including HCA Healthcare, Highmark Health, and Northwell Health, it resolves bottlenecks and reclaims valuable staff time for patient care."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "60b5760831d50cb6f54e54f298b896abee4073672aac5b7570c18e0269363494"
+}

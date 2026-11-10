@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-fafff4292c09fd9370c5",
+  "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "sourceTitle": "Gemini Intelligence: New features, on more devices",
+  "status": "ready",
+  "attemptedAt": "2026-11-10T22:52:59.683170+00:00",
+  "fetchedAt": "2026-11-10T22:53:01.500416+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "language": "en",
+  "originalTitle": "Gemini Intelligence: New features, on more devices",
+  "author": "Karthik Thirumalai",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Gemini Intelligence 1 brings the best of Gemini to Android devices, helping your devices work harder for you. Earlier this year, we announced Gemini Intelligence, and this summer devices started rolling out — from the Pixel 11 to the Samsung Galaxy Z Fold8 Ultra, Z Fold8, Z Flip8 and S26 series. 2 Today, we’re introducing new features built for Gemini Intelligence, and expanding capabilities to more of Android’s most advanced devices. 3 Here’s a look at what’s new.",
+      "id": "p1",
+      "zh": "双子智能一号将双子智能最好的设备带到安卓帮助您的设备为您更努力工作。今年早些时候,我们宣布了Gemini情报而这个夏天的装置开始推出——从像素11号到三星银河Z Fold8 Ultra,Z 佛尔德8,Z Flip8和S26系列.2 今天,我们正在引入为Gemini情报部门打造的新功能,并且将能力扩展至更多Android最先进的设备.3 以下是新情况。",
+      "en": "Gemini Intelligence 1 brings the best of Gemini to Android devices, helping your devices work harder for you. Earlier this year, we announced Gemini Intelligence, and this summer devices started rolling out — from the Pixel 11 to the Samsung Galaxy Z Fold8 Ultra, Z Fold8, Z Flip8 and S26 series. 2 Today, we’re introducing new features built for Gemini Intelligence, and expanding capabilities to more of Android’s most advanced devices. 3 Here’s a look at what’s new."
+    },
+    {
+      "kind": "heading",
+      "text": "Gemini Intelligence on more devices, including motorola signature 27 and Pixel 10",
+      "id": "p2",
+      "zh": "Gemini情报部门关于更多设备,包括机动车签名 27 和像素 10",
+      "en": "Gemini Intelligence on more devices, including motorola signature 27 and Pixel 10"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini Intelligence is coming to even more devices. Motorola is introducing its first Gemini Intelligence device, motorola signature 27, which is available for pre-order in the U.S. on November 19. And with today’s Pixel Drop, Pixel 10, Pixel 10 Pro XL, and Pixel 10 Pro Fold get the latest features for Gemini Intelligence.",
+      "id": "p3",
+      "zh": "Gemini情报部门会有更多装置摩托罗拉正在推出第一个Gemini情报装置摩托拉签名 27,在美国可以预购。11月19日,在华盛顿和今天的像素滴水,象素 10, 单曲像素 10 Pro XL, 请检查url=值 (帮助).而Pixel 10 Pro Fold为Gemini情报机构获得最新功能.",
+      "en": "Gemini Intelligence is coming to even more devices. Motorola is introducing its first Gemini Intelligence device, motorola signature 27, which is available for pre-order in the U.S. on November 19. And with today’s Pixel Drop, Pixel 10, Pixel 10 Pro XL, and Pixel 10 Pro Fold get the latest features for Gemini Intelligence."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Alongside this expansion, we’re bringing some of our favorite capabilities to more devices and regions, helping handle the busywork so you can focus on what matters. Rambler 4 — which turns spoken thoughts into clean, organized text in real-time — is now available on Pixel 10, Pixel 10 Pro, Pixel 10, Pro XL and Pixel 10 Pro Fold, as well as the new motorola signature 27. And task automation 5 — which lets you ask Gemini to handle logistics like ordering food, hailing rides, or booking reservations across your favorite apps — is expanding to the UK, India, and Japan.",
+      "id": "p4",
+      "zh": "在扩张的同时,我们把一些我们最喜欢的能力 带到更多的装置和地区,帮助处理繁忙的工作,这样你就可以专注于什么重要的事情。朗布勒4号 将言语中的念头变成干净的,实时的有组织文本——现在可在像素10上查阅,像素 10 Pro, 时速 10象素 10, 单曲Pro XL和Pixel 10 Pro Fold, Pro. Pro XL和Pixel 10 Pro Fold, Pro XL和Pixel 10 Pro Fold, Pro XL和Pixel 10 Pro Fold, Pro XL, Pro XL和Pixel 10 Pro Fold,以及新的摩托罗拉签名 27.而任务自动化5——让你要求Gemini处理物流如订购食品,欢呼的驾车,或者在您最喜欢的应用软件上订位 正在向英国扩展,印度和日本,美国和日本",
+      "en": "Alongside this expansion, we’re bringing some of our favorite capabilities to more devices and regions, helping handle the busywork so you can focus on what matters. Rambler 4 — which turns spoken thoughts into clean, organized text in real-time — is now available on Pixel 10, Pixel 10 Pro, Pixel 10, Pro XL and Pixel 10 Pro Fold, as well as the new motorola signature 27. And task automation 5 — which lets you ask Gemini to handle logistics like ordering food, hailing rides, or booking reservations across your favorite apps — is expanding to the UK, India, and Japan."
+    },
+    {
+      "kind": "heading",
+      "text": "Build custom widgets with a prompt",
+      "id": "p5",
+      "zh": "以提示方式构建自定义部件",
+      "en": "Build custom widgets with a prompt"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Create My Widget 6, which is rolling out over the next few weeks, lets you design a personalized widget with a simple description in your own words — no coding required. Whether you want a dashboard for your upcoming trip, a monthly spending tracker, or a race day countdown, Create My Widget can pull in information from Gmail, Calendar, and Search to create a custom widget just for you, giving you the information you want at a glance on your homescreen.",
+      "id": "p6",
+      "zh": "创建我的部件 6,在接下来的几个星期里,让您设计一个个性化的部件,在自己的单词中有一个简单的描述——不需要编码。无论你是否想要一个仪表盘 为你即将到来的旅行,一个月度支出追踪器,或比赛日倒计时,创建我的部件可以从 Gmail 调取信息 ,日历,并搜索为您创建自定义部件,提供您想要的信息 在您的家用屏幕上一览。",
+      "en": "Create My Widget 6, which is rolling out over the next few weeks, lets you design a personalized widget with a simple description in your own words — no coding required. Whether you want a dashboard for your upcoming trip, a monthly spending tracker, or a race day countdown, Create My Widget can pull in information from Gmail, Calendar, and Search to create a custom widget just for you, giving you the information you want at a glance on your homescreen."
+    },
+    {
+      "kind": "heading",
+      "text": "Get personalized tech support with Device Assistance",
+      "id": "p7",
+      "zh": "获得设备辅助的个性化技术支持",
+      "en": "Get personalized tech support with Device Assistance"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Device Assistance 7 helps you control, change, or fix your device by just asking your phone for help. Ask Gemini to clear up space on your device, check which apps can access your location, or mute distractions while making sure important calls still come through. Gemini deeply understands your device so it can act as your personal device expert.",
+      "id": "p8",
+      "zh": "设备协助 7 帮助您控制,变化,或者用手机求救来修复你的设备叫Gemini清理你设备上的空间检查哪个应用程序可以访问您的位置,或哑声分心 同时确保重要电话仍然通过。Gemini非常理解你的装置 这样它就可以做你的私人装置专家了",
+      "en": "Device Assistance 7 helps you control, change, or fix your device by just asking your phone for help. Ask Gemini to clear up space on your device, check which apps can access your location, or mute distractions while making sure important calls still come through. Gemini deeply understands your device so it can act as your personal device expert."
+    },
+    {
+      "kind": "heading",
+      "text": "Experience proactive help across a range of screens",
+      "id": "p9",
+      "zh": "积极的经验有助于各种屏幕",
+      "en": "Experience proactive help across a range of screens"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini Intelligence is designed to support you across whatever screen you’re using. Last month we launched Googlebook, the first laptop designed for Gemini Intelligence.",
+      "id": "p10",
+      "zh": "Gemini情报系统旨在支持您通过您使用的屏幕。上个月我们推出了Googlebook,Gemini情报部的第一台笔记本电脑",
+      "en": "Gemini Intelligence is designed to support you across whatever screen you’re using. Last month we launched Googlebook, the first laptop designed for Gemini Intelligence."
+    },
+    {
+      "kind": "paragraph",
+      "text": "And if you have a Pixel phone with Gemini Intelligence, it will soon bring proactive suggestions to Android Auto — connecting the dots across your apps to surface helpful, personalized suggestions 8 when you need them. For example, if your friend texts you to ask where you are meeting for a pilates class, Gemini Intelligence on Android Auto can find your confirmation email and instantly suggest sending the address with a single tap.",
+      "id": "p11",
+      "zh": "如果你有Gemini情报部的像素电话它很快会给Android Auto 带来主动的建议——将你的应用软件上的点连接到表面来帮助,个性化建议8 当你需要它们的时候。举例来说,如果你朋友给你发短信 问问你在哪里参加皮拉茨课Android Auto上的双子智能可以找到你的确认邮件,并立即建议用一个窃听器发送地址.",
+      "en": "And if you have a Pixel phone with Gemini Intelligence, it will soon bring proactive suggestions to Android Auto — connecting the dots across your apps to surface helpful, personalized suggestions 8 when you need them. For example, if your friend texts you to ask where you are meeting for a pilates class, Gemini Intelligence on Android Auto can find your confirmation email and instantly suggest sending the address with a single tap."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Plus, in the next few weeks, Create My Widget is coming to Pixel Watch. You’ll be able to design widgets that keep the details that matter to you right on your wrist.",
+      "id": "p12",
+      "zh": "再说在接下来的几个星期里,创建我的部件即将到来像素监视 。你可以设计一些部件, 将手腕上的细节保留下来。",
+      "en": "Plus, in the next few weeks, Create My Widget is coming to Pixel Watch. You’ll be able to design widgets that keep the details that matter to you right on your wrist."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "双子智能一号将双子智能最好的设备带到安卓帮助您的设备为您更努力工作。今年早些时候,我们宣布了Gemini情报而这个夏天的装置开始推出——从像素11号到三星银河Z Fold8 Ultra,Z 佛尔德8,Z Flip8和S26系列.2 今天,我们正在引入为Gemini情报部门打造的新功能,并且将能力扩展至更多Android最先进的设备.3 以下是新情况。",
+      "en": "Gemini Intelligence 1 brings the best of Gemini to Android devices, helping your devices work harder for you. Earlier this year, we announced Gemini Intelligence, and this summer devices started rolling out — from the Pixel 11 to the Samsung Galaxy Z Fold8 Ultra, Z Fold8, Z Flip8 and S26 series. 2 Today, we’re introducing new features built for Gemini Intelligence, and expanding capabilities to more of Android’s most advanced devices. 3 Here’s a look at what’s new."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "Gemini情报部门会有更多装置摩托罗拉正在推出第一个Gemini情报装置摩托拉签名 27,在美国可以预购。11月19日,在华盛顿和今天的像素滴水,象素 10, 单曲像素 10 Pro XL, 请检查url=值 (帮助).而Pixel 10 Pro Fold为Gemini情报机构获得最新功能.",
+      "en": "Gemini Intelligence is coming to even more devices. Motorola is introducing its first Gemini Intelligence device, motorola signature 27, which is available for pre-order in the U.S. on November 19."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "在扩张的同时,我们把一些我们最喜欢的能力 带到更多的装置和地区,帮助处理繁忙的工作,这样你就可以专注于什么重要的事情。朗布勒4号 将言语中的念头变成干净的,实时的有组织文本——现在可在像素10上查阅,像素 10 Pro, 时速 10象素 10, 单曲Pro XL和Pixel 10 Pro Fold, Pro.",
+      "en": "Alongside this expansion, we’re bringing some of our favorite capabilities to more devices and regions, helping handle the busywork so you can focus on what matters. Rambler 4 — which turns spoken thoughts into clean, organized text in real-time — is now available on Pixel 10, Pixel 10 Pro, Pixel 10, Pro XL and Pixel 10 Pro Fold, as well as the new motorola signature 27."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "如果你有Gemini情报部的像素电话它很快会给Android Auto 带来主动的建议——将你的应用软件上的点连接到表面来帮助,个性化建议8 当你需要它们的时候。举例来说,如果你朋友给你发短信 问问你在哪里参加皮拉茨课Android Auto上的双子智能可以找到你的确认邮件,并立即建议用一个窃听器发送地址.",
+      "en": "And if you have a Pixel phone with Gemini Intelligence, it will soon bring proactive suggestions to Android Auto — connecting the dots across your apps to surface helpful, personalized suggestions 8 when you need them. For example, if your friend texts you to ask where you are meeting for a pilates class, Gemini Intelligence on Android Auto can find your confirmation email and instantly suggest sending the address with a single tap."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "5e457bc8fea56c2eb2903c80f5c6c509b32f6bbb98934f485aaadcd1e99aaa8e"
+}

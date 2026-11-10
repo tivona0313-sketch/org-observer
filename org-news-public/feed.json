@@ -148,6 +148,38 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-fafff4292c09fd9370c5",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "date": "2026-11-10",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Gemini Intelligence: New features, on more devices",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-fed0553263a8b330ef0b",
+      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+      "summary": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+      "date": "2026-11-10",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+      "sourceId": "google"
+    },
+    {
       "id": "rss-f116c1896a2161e2c2d9",
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "summary": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -1898,35 +1930,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-10T17:00:38.231262+00:00",
-      "lastSuccess": "2026-11-10T17:00:38.465587+00:00",
+      "attemptedAt": "2026-11-10T22:52:57.863225+00:00",
+      "lastSuccess": "2026-11-10T22:52:58.072876+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-10T17:00:38.231823+00:00",
-      "lastSuccess": "2026-11-10T17:00:38.526077+00:00",
-      "count": 16
+      "attemptedAt": "2026-11-10T22:52:57.863822+00:00",
+      "lastSuccess": "2026-11-10T22:52:58.141272+00:00",
+      "count": 15
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-10T17:00:38.232170+00:00",
-      "lastSuccess": "2026-11-10T17:00:38.438716+00:00",
+      "attemptedAt": "2026-11-10T22:52:57.864207+00:00",
+      "lastSuccess": "2026-11-10T22:52:58.019908+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-10T17:00:38.232464+00:00",
-      "lastSuccess": "2026-11-10T17:00:39.407511+00:00",
+      "attemptedAt": "2026-11-10T22:52:57.864606+00:00",
+      "lastSuccess": "2026-11-10T22:52:59.199565+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-10T17:00:39.408453+00:00",
-  "nextRefresh": "2026-11-10T22:17:00+00:00",
+  "lastRefresh": "2026-11-10T22:52:59.200705+00:00",
+  "nextRefresh": "2026-11-11T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "b0496473029da399370e5cdfa93b8eaf639bd41bf4e03ab828e9c15e720f2e86"
+  "bilingualRevision": "bf0b8af0cba90c1334e45ba9c20b34269dd55a2906cd650ed8b0a2c38cb669d8"
 }

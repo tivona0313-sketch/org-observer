@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-10T17:00:40.720191+00:00",
-  "revision": "b0496473029da399370e5cdfa93b8eaf639bd41bf4e03ab828e9c15e720f2e86",
+  "generatedAt": "2026-11-10T22:52:59.648922+00:00",
+  "revision": "bf0b8af0cba90c1334e45ba9c20b34269dd55a2906cd650ed8b0a2c38cb669d8",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -578,6 +578,46 @@
         "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
         "sourceTitle": "Work at the Frontier: AI’s effect on freelance work",
         "source": "OpenAI News"
+      }
+    },
+    "rss-fafff4292c09fd9370c5": {
+      "original": {
+        "title": "Gemini Intelligence: New features, on more devices",
+        "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+        "sourceTitle": "Gemini Intelligence: New features, on more devices",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Gemini情报:新的特征,在更多设备上",
+        "summary": "Gemini情报部门正在向更多设备推广看看这些设备的扩展能力如何帮助你做更多的工作.",
+        "sourceTitle": "Gemini情报:新的特征,在更多设备上",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Gemini Intelligence: New features, on more devices",
+        "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+        "sourceTitle": "Gemini Intelligence: New features, on more devices",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-fed0553263a8b330ef0b": {
+      "original": {
+        "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+        "summary": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
+        "sourceTitle": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "10像素和Gemini情报自定义部件,更多在我们的11月像素落下",
+        "summary": "探索最新的像素特性,包括像素10上的Gemini情报Google信件的HiLight提示,还有更多",
+        "sourceTitle": "10像素和Gemini情报自定义部件,更多在我们的11月像素落下",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+        "summary": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
+        "sourceTitle": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+        "source": "Google The Keyword"
       }
     },
     "rss-f116c1896a2161e2c2d9": {

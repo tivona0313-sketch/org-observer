@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T17:00:51.548265+00:00",
+  "updatedAt": "2026-11-10T22:53:10.847416+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -124,6 +124,20 @@
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "sourceTitle": "Work at the Frontier: AI’s effect on freelance work",
       "error": "http_403"
+    },
+    "rss-fafff4292c09fd9370c5": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "sourceTitle": "Gemini Intelligence: New features, on more devices",
+      "contentHash": "5e457bc8fea56c2eb2903c80f5c6c509b32f6bbb98934f485aaadcd1e99aaa8e",
+      "fetchedAt": "2026-11-10T22:53:01.500416+00:00"
+    },
+    "rss-fed0553263a8b330ef0b": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+      "sourceTitle": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+      "contentHash": "730e8cc2f09fe72ffb028f51f362147cb4caccfb9e482cb6a2bf809e9c65208d",
+      "fetchedAt": "2026-11-10T22:53:01.570104+00:00"
     },
     "rss-f116c1896a2161e2c2d9": {
       "status": "ready",

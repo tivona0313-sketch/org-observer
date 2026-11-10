@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-09T22:55:11.145734+00:00",
-  "revision": "f6d369fa486505fb27330f82f02bd8040b4426dd32b8e4b6361813dd3f84f5e8",
+  "generatedAt": "2026-11-10T10:59:41.380188+00:00",
+  "revision": "66e76a0ebaf69a298b4b10745212770cd2b5d83478c742ed53f7df07193da3e9",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,26 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-69d4d9d74efa01629a6c": {
+      "original": {
+        "title": "Closing the AI guidance gap in education",
+        "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+        "sourceTitle": "Closing the AI guidance gap in education",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "缩小AI在教育指导方面的差距",
+        "summary": "OpenAI的EMEA教育伙伴关系和新思维青年研究的教训。支持教师,AI 识字和独立学习。",
+        "sourceTitle": "缩小AI在教育指导方面的差距",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Closing the AI guidance gap in education",
+        "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+        "sourceTitle": "Closing the AI guidance gap in education",
+        "source": "OpenAI News"
       }
     },
     "rss-f116c1896a2161e2c2d9": {

@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "rss-69d4d9d74efa01629a6c",
+      "title": "Closing the AI guidance gap in education",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "date": "2026-11-10",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Closing the AI guidance gap in education",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-f116c1896a2161e2c2d9",
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "summary": "Developers can now build with Google Maps Platform in AI Studio.",
@@ -1751,35 +1767,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-10T05:02:27.924177+00:00",
-      "lastSuccess": "2026-11-10T05:02:28.114522+00:00",
+      "attemptedAt": "2026-11-10T10:59:39.907841+00:00",
+      "lastSuccess": "2026-11-10T10:59:40.045893+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-10T05:02:27.924686+00:00",
-      "lastSuccess": "2026-11-10T05:02:28.104288+00:00",
+      "attemptedAt": "2026-11-10T10:59:39.908742+00:00",
+      "lastSuccess": "2026-11-10T10:59:40.042962+00:00",
       "count": 16
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-10T05:02:27.924981+00:00",
-      "lastSuccess": "2026-11-10T05:02:28.101395+00:00",
+      "attemptedAt": "2026-11-10T10:59:39.909243+00:00",
+      "lastSuccess": "2026-11-10T10:59:40.005182+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-10T05:02:27.925324+00:00",
-      "lastSuccess": "2026-11-10T05:02:29.071961+00:00",
+      "attemptedAt": "2026-11-10T10:59:39.909892+00:00",
+      "lastSuccess": "2026-11-10T10:59:41.009517+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-10T05:02:29.072876+00:00",
-  "nextRefresh": "2026-11-10T10:17:00+00:00",
+  "lastRefresh": "2026-11-10T10:59:41.010982+00:00",
+  "nextRefresh": "2026-11-10T16:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "f6d369fa486505fb27330f82f02bd8040b4426dd32b8e4b6361813dd3f84f5e8"
+  "bilingualRevision": "66e76a0ebaf69a298b4b10745212770cd2b5d83478c742ed53f7df07193da3e9"
 }

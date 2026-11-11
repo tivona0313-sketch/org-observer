@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-10T22:52:59.648922+00:00",
-  "revision": "bf0b8af0cba90c1334e45ba9c20b34269dd55a2906cd650ed8b0a2c38cb669d8",
+  "generatedAt": "2026-11-11T05:10:20.410669+00:00",
+  "revision": "3d61de46ac0fae4e004faa2a3cd00f5456deedaafe9bc33297bfd679189d5fc6",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,26 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-65b96c238445cdedc96b": {
+      "original": {
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "sourceTitle": "Gilbert + Tobin rethinks the business of law with AI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Gilbert + Tobin 与AI重新思考法律事务",
+        "summary": "和萨姆·尼克莱斯的谈话吉尔伯特+托宾的合伙人兼首席执行官.",
+        "sourceTitle": "Gilbert + Tobin 与AI重新思考法律事务",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+        "sourceTitle": "Gilbert + Tobin rethinks the business of law with AI",
+        "source": "OpenAI News"
       }
     },
     "rss-69d4d9d74efa01629a6c": {

@@ -3,8 +3,304 @@
   "id": "rss-952d2516af2e905436ad",
   "url": "https://openai.com/index/control-room",
   "sourceTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-09T22:55:11.184441+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-10T22:55:11.238924+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-11T05:10:20.441181+00:00",
+  "fetchedAt": "2026-11-11T05:10:22.146878+00:00",
+  "finalURL": "https://openai.com/index/control-room/",
+  "language": "en",
+  "originalTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "heading",
+      "text": "Control Room",
+      "id": "p1",
+      "zh": "控制室( C)",
+      "en": "Control Room"
+    },
+    {
+      "kind": "paragraph",
+      "text": "As our models get more powerful and the associated safety and security risks become bigger, it becomes more and more critical that we can detect potential issues, and quickly stop models in their tracks when needed. To solve this, we built Control Room.",
+      "id": "p2",
+      "zh": "随着我们的模型变得更加强大 相关的安全保障风险也越来越大我们发现潜在的问题变得越来越重要,并迅速停止模型 在他们的轨道上需要时。为了解决这个问题,我们建造了控制室。",
+      "en": "As our models get more powerful and the associated safety and security risks become bigger, it becomes more and more critical that we can detect potential issues, and quickly stop models in their tracks when needed. To solve this, we built Control Room."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Control Room is a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job. It has been built to keep working even when other systems fail, and to stop model output if Control Room itself goes down.",
+      "id": "p3",
+      "zh": "控制室是一个中央系统,用于跟踪我们研究基础设施的模型工作量,并在出现安全或安保问题时迅速加以制止。它连接每个研究推理的工作量,包括用于示范培训和评估的剂性取样,数据处理,还有更多这和我们的错位监控系统一起工作,在决定干预停止或暂停某项工作后35秒内停止模型输出。即使其他系统失灵 也要继续工作如果控制室本身倒塌,则停止模型输出。",
+      "en": "Control Room is a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more. This works together with our misalignment monitoring systems, and halts model output within 35 seconds of a decision to intervene to stop or pause a job. It has been built to keep working even when other systems fail, and to stop model output if Control Room itself goes down."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Control Room is already deployed across our research infrastructure, where the need is greatest. Our external model-serving stack is already much more centralized by nature, with a well-developed operational capability to quickly take down model deployments if needed.",
+      "id": "p4",
+      "zh": "控制室已经部署在我们的研究基础设施上在最需要的时候。我们的外部模型服务堆栈 已经更加集中 自然,具备完善的业务能力,可在需要时迅速削减模型部署。",
+      "en": "Control Room is already deployed across our research infrastructure, where the need is greatest. Our external model-serving stack is already much more centralized by nature, with a well-developed operational capability to quickly take down model deployments if needed."
+    },
+    {
+      "kind": "heading",
+      "text": "How it works",
+      "id": "p5",
+      "zh": "如何运作",
+      "en": "How it works"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Control Room works by integrating a few systems: the workload, the inference engine, and the centralized Control Room service.",
+      "id": "p6",
+      "zh": "控制室通过整合几个系统进行工作:工作量,推理引擎,和中央控制室服务。",
+      "en": "Control Room works by integrating a few systems: the workload, the inference engine, and the centralized Control Room service."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The workload is the job being run, such as a reinforcement learning experiment, an evaluation, a high-volume sampling or data processing job. We require every research workload that does agentic inference to be associated with an approved safety case.",
+      "id": "p7",
+      "zh": "工作量是正在经营的工作,例如强化学习实验,评估,大量采样或数据处理工作。我们要求每个研究工作量,凡能作出代理推断的,都必须与核准的安全案例相关联。",
+      "en": "The workload is the job being run, such as a reinforcement learning experiment, an evaluation, a high-volume sampling or data processing job. We require every research workload that does agentic inference to be associated with an approved safety case."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The inference engine, or just engine, is the model itself. You can think of the engine as the brain of the model, running directly on GPUs. A workload normally uses one or more models, which might be running on one or more different inference engines. The same inference engine might be used by more than one different workload.",
+      "id": "p8",
+      "zh": "推理引擎,或只是发动机,是模型本身。你可以把引擎看作是模型的大脑,直接运行在 GPU 上。工作量通常使用一种或多种模式,可能运行在一个或多个不同的推理引擎上。同一推理引擎可能被用于一个以上不同的工作量。",
+      "en": "The inference engine, or just engine, is the model itself. You can think of the engine as the brain of the model, running directly on GPUs. A workload normally uses one or more models, which might be running on one or more different inference engines. The same inference engine might be used by more than one different workload."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Control Room service tracks jobs and controls whether they are allowed to continue generating model output. Engines check with the Control Room service before fulfilling a request. If a job has been stopped, the service denies the request, preventing further output.",
+      "id": "p9",
+      "zh": "控制室服务跟踪工作并控制是否允许他们继续生成模型输出.引擎在满足要求之前,先与控制室服务进行核对.如果一个工作被停止,该服务拒绝了请求,防止进一步输出。",
+      "en": "The Control Room service tracks jobs and controls whether they are allowed to continue generating model output. Engines check with the Control Room service before fulfilling a request. If a job has been stopped, the service denies the request, preventing further output."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Control Room is integrated in the following way:",
+      "id": "p10",
+      "zh": "控制室采用如下方式进行整合:",
+      "en": "Control Room is integrated in the following way:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "When starting a new job, the workload code requests a new job_id from Control Room.",
+      "id": "p11",
+      "zh": "当开始新的工作时,工作量代码要求从控制室获得新的工作编号。",
+      "en": "When starting a new job, the workload code requests a new job_id from Control Room."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Whenever the workload needs to sample tokens from a model, it makes a request to an inference engine running that model, passing the job_id. The engine requests permission from Control Room to fulfill that request, passing the job_id along to Control Room.",
+      "id": "p12",
+      "zh": "只要工作量需要从模型中抽取代币,它向一个运行该模型的 推理引擎提出要求,传递任务_id.引擎向控制室请求许可 以完成这个请求,把工作交给控制室",
+      "en": "Whenever the workload needs to sample tokens from a model, it makes a request to an inference engine running that model, passing the job_id. The engine requests permission from Control Room to fulfill that request, passing the job_id along to Control Room."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Control Room checks whether that job has been terminated, and if so, it denies the inference request. The engine responds to the workload's inference request with a refusal, stopping further model output from being produced for that job.",
+      "id": "p13",
+      "zh": "控制室检查那份工作是否已经终止如果是这样的话,它拒绝了推断的要求。引擎响应工作量的推断请求 拒绝,停止为这项工作生产更多的模型产出。",
+      "en": "Control Room checks whether that job has been terminated, and if so, it denies the inference request. The engine responds to the workload's inference request with a refusal, stopping further model output from being produced for that job."
+    },
+    {
+      "kind": "caption",
+      "text": "How Control Room works",
+      "id": "p14",
+      "zh": "控制室如何运作",
+      "en": "How Control Room works"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Researcher",
+      "id": "p15",
+      "zh": "研究员",
+      "en": "Researcher"
+    },
+    {
+      "kind": "heading",
+      "text": "Research job",
+      "id": "p16",
+      "zh": "研究工作",
+      "en": "Research job"
+    },
+    {
+      "kind": "paragraph",
+      "text": "<No job ID yet>job_042",
+      "id": "p17",
+      "zh": "< no job ID > job_ 042",
+      "en": "<No job ID yet>job_042"
+    },
+    {
+      "kind": "heading",
+      "text": "Inference engine",
+      "id": "p18",
+      "zh": "推理引擎",
+      "en": "Inference engine"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Runs the model on GPUs",
+      "id": "p19",
+      "zh": "在 GPU 上运行模型",
+      "en": "Runs the model on GPUs"
+    },
+    {
+      "kind": "heading",
+      "text": "Control Room",
+      "id": "p20",
+      "zh": "控制室( C)",
+      "en": "Control Room"
+    },
+    {
+      "kind": "list",
+      "text": "job_039, activejob_039",
+      "id": "p21",
+      "zh": "job_039, 请检查url=值 (帮助).活动工作_ 039",
+      "en": "job_039, activejob_039"
+    },
+    {
+      "kind": "list",
+      "text": "job_040, activejob_040",
+      "id": "p22",
+      "zh": "任务_ 040,活动工作_ 040",
+      "en": "job_040, activejob_040"
+    },
+    {
+      "kind": "list",
+      "text": "job_041, activejob_041",
+      "id": "p23",
+      "zh": "任务_041,活动工作_ 041",
+      "en": "job_041, activejob_041"
+    },
+    {
+      "kind": "paragraph",
+      "text": "STEP 1",
+      "id": "p24",
+      "zh": "步骤1",
+      "en": "STEP 1"
+    },
+    {
+      "kind": "heading",
+      "text": "A researcher decides to start a job",
+      "id": "p25",
+      "zh": "研究者决定开始工作",
+      "en": "A researcher decides to start a job"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The process starts with a researcher launching a job—for example, an experiment or an evaluation.",
+      "id": "p26",
+      "zh": "这一过程首先由研究人员发起工作——例如,实验或评估。",
+      "en": "The process starts with a researcher launching a job—for example, an experiment or an evaluation."
+    },
+    {
+      "kind": "heading",
+      "text": "Example: reacting to a monitoring alert",
+      "id": "p27",
+      "zh": "示例:对监测警报作出反应",
+      "en": "Example: reacting to a monitoring alert"
+    },
+    {
+      "kind": "paragraph",
+      "text": "All of our frontier reinforcement learning jobs run with a monitor. A monitor is another model which inspects everything that the model-being-trained is doing, and raises an alert if it detects a problem. For example, our recent DNS-related incident ⁠ was caught by a monitor.",
+      "id": "p28",
+      "zh": "我们所有的边疆强化学习工作都有一个监视器。一个监视器是另一个模式,它检查了模型训练出来的每样东西,如果发现有问题,则会发出警报。举例来说,我们最近与DNS有关的事件 被监视器抓住了",
+      "en": "All of our frontier reinforcement learning jobs run with a monitor. A monitor is another model which inspects everything that the model-being-trained is doing, and raises an alert if it detects a problem. For example, our recent DNS-related incident ⁠ was caught by a monitor."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Control Room and our monitoring system are integrated in the following way:",
+      "id": "p29",
+      "zh": "控制室和我们的监测系统采用以下方式:",
+      "en": "Control Room and our monitoring system are integrated in the following way:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "If the monitoring system detects a potential issue, depending on the details and severity, the monitoring system may decide to stop the job.",
+      "id": "p30",
+      "zh": "如果监测系统发现潜在的问题,根据细节和严重程度,监测系统可决定停止工作。",
+      "en": "If the monitoring system detects a potential issue, depending on the details and severity, the monitoring system may decide to stop the job."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In this case, the monitoring system sends a message to Control Room to stop the job, passing the job_id. Control Room records that the job is terminated.",
+      "id": "p31",
+      "zh": "在这种情况下,监控系统向控制室发出一个信息 阻止工作,传递任务_id.控制室记录 工作终止。",
+      "en": "In this case, the monitoring system sends a message to Control Room to stop the job, passing the job_id. Control Room records that the job is terminated."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Next time the job having that job_id makes an inference request to sample more tokens from any model running on any engine, the request will be denied, stopping further model output.",
+      "id": "p32",
+      "zh": "下次有这个工作时 ID 请求从任何引擎上运行的模型中 抽取更多的信物请求将被拒绝,停止进一步的模型输出 。",
+      "en": "Next time the job having that job_id makes an inference request to sample more tokens from any model running on any engine, the request will be denied, stopping further model output."
+    },
+    {
+      "kind": "heading",
+      "text": "Speed and reliability",
+      "id": "p33",
+      "zh": "速度和可靠性",
+      "en": "Speed and reliability"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The maximum time between the moment when Control Room receives an instruction to stop a job, and the moment when further progress is no longer possible, is 35 seconds. The 35-second lag comes from a caching layer for inference authorization, to support the required volume of traffic. We are working to drive this number down to zero so that we can end jobs instantly.",
+      "id": "p34",
+      "zh": "控制室接到停止工作指示之间的最长时间以及不再可能取得进一步进展的时刻,是35秒钟。35秒的后差来自于一个缓存层 用于推断授权,支持所需流量。我们正在努力将这一数字降到零,以便我们立即结束工作。",
+      "en": "The maximum time between the moment when Control Room receives an instruction to stop a job, and the moment when further progress is no longer possible, is 35 seconds. The 35-second lag comes from a caching layer for inference authorization, to support the required volume of traffic. We are working to drive this number down to zero so that we can end jobs instantly."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Workloads, including experiments, evaluation jobs, etc., are normally owned and operated by researchers or teams of researchers. As a result, workload code changes often, and is not an ideal place to implement critical load-bearing safety protections. Because of this, our implementation is designed to be resilient to buggy or broken workload code.",
+      "id": "p35",
+      "zh": "工作量,包括实验,评价工作,例如,通常由研究人员或研究人员团队拥有和经营。结果,工作量代码经常变化,并且不是实施关键负载安全防护的理想场所.因为这个,我们的实施是为了适应错误或破损的工作量代码。",
+      "en": "Workloads, including experiments, evaluation jobs, etc., are normally owned and operated by researchers or teams of researchers. As a result, workload code changes often, and is not an ideal place to implement critical load-bearing safety protections. Because of this, our implementation is designed to be resilient to buggy or broken workload code."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We achieve this by implementing the termination mechanism in the inference layer. Workload code is highly-varied and decentralized. In contrast, there are only a very small number of inference code paths in use across all of OpenAI research, and their deployments are much more centralized and uniform. This means that the inference layer can serve as a bottleneck, where we can get strong guarantees that all model inference running in research is subject to Control Room authorization checks on every inference request. We additionally run continual agentic and programmatic sweeps to check that users are not accidentally or maliciously launching rogue engine implementations with Control Room unimplemented or disabled.",
+      "id": "p36",
+      "zh": "我们通过在推断层实施终止机制来实现这一目标。工作负荷代码具有高度的变异性和分散性.相比之下,在OpenAI的所有研究中,只有极少数的推理代码路径被使用,他们的部署更加集中和统一。这意味着推理层 可以作为瓶颈,在那里,我们可以得到有力的保证 研究中的所有模型推理 都受到控制室 授权检查 每一个推理请求。我们额外运行连续的代理和程序扫描,检查用户是否无意或恶意地与控制室一起启动无赖引擎执行程序未执行或已残疾。",
+      "en": "We achieve this by implementing the termination mechanism in the inference layer. Workload code is highly-varied and decentralized. In contrast, there are only a very small number of inference code paths in use across all of OpenAI research, and their deployments are much more centralized and uniform. This means that the inference layer can serve as a bottleneck, where we can get strong guarantees that all model inference running in research is subject to Control Room authorization checks on every inference request. We additionally run continual agentic and programmatic sweeps to check that users are not accidentally or maliciously launching rogue engine implementations with Control Room unimplemented or disabled."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Finally, our system “fails closed”, meaning that the Control Room integration in the engines is configured in such a way that if the Control Room service goes down, either due to a system error or because it is disabled for any other reason, including tampering by a bad actor, then all inference requests will be denied until Control Room resumes normal operation. Fail-closed is rolled out now to all frontier model research workloads, and will finish rolling out across all remaining research workloads over the next few days.",
+      "id": "p37",
+      "zh": "终于我们的系统“关闭失败”,意思是控制室在引擎中的集成 被配置成这样 如果控制室服务下降,系统错误或因任何其他原因而停用,包括由坏角色篡改,然后所有推断请求都会被拒绝,直到控制室恢复正常运行.现在所有前沿模型研究工作量 都出现了不成功的情况并将在今后几天内完成所有剩余研究工作。",
+      "en": "Finally, our system “fails closed”, meaning that the Control Room integration in the engines is configured in such a way that if the Control Room service goes down, either due to a system error or because it is disabled for any other reason, including tampering by a bad actor, then all inference requests will be denied until Control Room resumes normal operation. Fail-closed is rolled out now to all frontier model research workloads, and will finish rolling out across all remaining research workloads over the next few days."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Control Room is just one part of our holistic approach to safe frontier model training and deployment. We’ll continue to strengthen and expand the system over the coming months, alongside our investments in monitoring for misaligned behavior and security breaches. If you want to help build systems for the safe and secure development and deployment of AGI, we're ⁠ hiring ⁠!",
+      "id": "p38",
+      "zh": "控制室只是我们安全边境模式培训和部署综合办法的一部分。我们将继续在未来几个月中加强和扩大这一系统,与我们的投资 监测 错误的行为和违反安全。如果你想帮助建立安全可靠地发展和部署AGI的系统,我们要雇人了!",
+      "en": "Control Room is just one part of our holistic approach to safe frontier model training and deployment. We’ll continue to strengthen and expand the system over the coming months, alongside our investments in monitoring for misaligned behavior and security breaches. If you want to help build systems for the safe and secure development and deployment of AGI, we're ⁠ hiring ⁠!"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p3",
+      "zh": "控制室是一个中央系统,用于跟踪我们研究基础设施的模型工作量,并在出现安全或安保问题时迅速加以制止。它连接每个研究推理的工作量,包括用于示范培训和评估的剂性取样,数据处理,还有更多这和我们的错位监控系统一起工作,在决定干预停止或暂停某项工作后35秒内停止模型输出。",
+      "en": "Control Room is a central system to track model workloads across our research infrastructure and stop them quickly when safety or security concerns arise. It connects every research inference workload, including agentic sampling for model training and evaluation, data processing, and more."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "控制室已经部署在我们的研究基础设施上在最需要的时候。我们的外部模型服务堆栈 已经更加集中 自然,具备完善的业务能力,可在需要时迅速削减模型部署。",
+      "en": "Control Room is already deployed across our research infrastructure, where the need is greatest. Our external model-serving stack is already much more centralized by nature, with a well-developed operational capability to quickly take down model deployments if needed."
+    },
+    {
+      "paragraphId": "p36",
+      "zh": "我们通过在推断层实施终止机制来实现这一目标。工作负荷代码具有高度的变异性和分散性.相比之下,在OpenAI的所有研究中,只有极少数的推理代码路径被使用,他们的部署更加集中和统一。",
+      "en": "We achieve this by implementing the termination mechanism in the inference layer. Workload code is highly-varied and decentralized."
+    },
+    {
+      "paragraphId": "p37",
+      "zh": "终于我们的系统“关闭失败”,意思是控制室在引擎中的集成 被配置成这样 如果控制室服务下降,系统错误或因任何其他原因而停用,包括由坏角色篡改,然后所有推断请求都会被拒绝,直到控制室恢复正常运行.现在所有前沿模型研究工作量 都出现了不成功的情况并将在今后几天内完成所有剩余研究工作。",
+      "en": "Finally, our system “fails closed”, meaning that the Control Room integration in the engines is configured in such a way that if the Control Room service goes down, either due to a system error or because it is disabled for any other reason, including tampering by a bad actor, then all inference requests will be denied until Control Room resumes normal operation. Fail-closed is rolled out now to all frontier model research workloads, and will finish rolling out across all remaining research workloads over the next few days."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "60358539c75e122687ad3f1de4e897858518f5b6d56539b5d76702aa1a774d7b"
 }

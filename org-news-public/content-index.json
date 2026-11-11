@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T22:53:10.847416+00:00",
+  "updatedAt": "2026-11-11T05:10:26.585058+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -64,6 +64,13 @@
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
       "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
+    },
+    "rss-65b96c238445cdedc96b": {
+      "status": "ready",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "sourceTitle": "Gilbert + Tobin rethinks the business of law with AI",
+      "contentHash": "f97c09e23479ef29cc1bc7735efba27d3cff3d537aa0b5025cac09aa097eb60a",
+      "fetchedAt": "2026-11-11T05:10:22.032395+00:00"
     },
     "rss-69d4d9d74efa01629a6c": {
       "status": "unavailable",
@@ -161,22 +168,25 @@
       "fetchedAt": "2026-11-09T17:19:27.852461+00:00"
     },
     "rss-caa9073cefb43725f1a5": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "sourceTitle": "ChatGPT Enterprise now available in AWS Marketplace",
-      "error": "http_403"
+      "contentHash": "c3df5f1329560931798b289160e545a7dbfc527769ab6321ab8518f6c3ccf422",
+      "fetchedAt": "2026-11-11T05:10:21.995413+00:00"
     },
     "rss-952d2516af2e905436ad": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/control-room",
       "sourceTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "error": "http_403"
+      "contentHash": "60358539c75e122687ad3f1de4e897858518f5b6d56539b5d76702aa1a774d7b",
+      "fetchedAt": "2026-11-11T05:10:22.146878+00:00"
     },
     "rss-02e9abf47eaf3fa01f98": {
-      "status": "unavailable",
+      "status": "ready",
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "sourceTitle": "CodeRabbit scales agentic software development and ships 20x more",
-      "error": "http_403"
+      "contentHash": "6354dc504017ef90e2a20043ba74c6c06efb94a44475ca219732c1dc978933f8",
+      "fetchedAt": "2026-11-11T05:10:24.798808+00:00"
     },
     "rss-a0a44ed09dc9a1089b4e": {
       "status": "unavailable",

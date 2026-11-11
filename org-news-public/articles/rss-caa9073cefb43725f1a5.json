@@ -3,8 +3,108 @@
   "id": "rss-caa9073cefb43725f1a5",
   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
   "sourceTitle": "ChatGPT Enterprise now available in AWS Marketplace",
-  "status": "unavailable",
-  "attemptedAt": "2026-11-09T22:55:11.183963+00:00",
-  "error": "http_403",
-  "nextAttempt": "2026-11-10T22:55:11.233942+00:00"
+  "status": "ready",
+  "attemptedAt": "2026-11-11T05:10:20.440893+00:00",
+  "fetchedAt": "2026-11-11T05:10:21.995413+00:00",
+  "finalURL": "https://openai.com/index/chatgpt-enterprise-aws-marketplace/",
+  "language": "en",
+  "originalTitle": "ChatGPT Enterprise now available in AWS Marketplace",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, ChatGPT Enterprise is available through AWS Marketplace. The listing gives organizations a simpler way to discover, buy, and manage ChatGPT Enterprise using their existing AWS purchasing and billing relationship and to apply eligible spend toward their AWS commitments.",
+      "id": "p1",
+      "zh": "今天,我们...ChatGPT Entertainment通过AWS Marketplace提供.这份清单为各组织提供了更简单的发现方式,买并管理ChatGPT企业,利用它们现有的AWS采购和计费关系,将符合资格的开支用于其AWS承诺。",
+      "en": "Today, ChatGPT Enterprise is available through AWS Marketplace. The listing gives organizations a simpler way to discover, buy, and manage ChatGPT Enterprise using their existing AWS purchasing and billing relationship and to apply eligible spend toward their AWS commitments."
+    },
+    {
+      "kind": "paragraph",
+      "text": "More than 1.2 billion people use ChatGPT each week. ChatGPT Enterprise brings that familiar experience to work with ChatGPT, ChatGPT Work, Codex, and dots. With ChatGPT Enterprise now available in AWS Marketplace, AWS customers get the same models, features, and functionality available directly from OpenAI, with new features released at the same time.",
+      "id": "p2",
+      "zh": "每周有超过12亿人使用ChatGPT.ChatGPT Entertainment公司为ChatGPT公司带来了熟悉的经验,ChatGPT 工作, 将工作,代码和点。随着ChatGPT Entertainment现在可以在AWS Marketplace上找到,AWS客户得到相同的型号,特征,和可直接从OpenAI获取的功能,并同时发布新功能.",
+      "en": "More than 1.2 billion people use ChatGPT each week. ChatGPT Enterprise brings that familiar experience to work with ChatGPT, ChatGPT Work, Codex, and dots. With ChatGPT Enterprise now available in AWS Marketplace, AWS customers get the same models, features, and functionality available directly from OpenAI, with new features released at the same time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "These OpenAI products complement the OpenAI models available in Amazon Bedrock. Developers can build AI applications and agents with OpenAI models in Amazon Bedrock, while teams across the business use ChatGPT Enterprise in their daily work. Organizations can choose the approach that fits their workloads and governance requirements.",
+      "id": "p3",
+      "zh": "这些OpenAI产品补充了亚马逊贝德罗克现有的OpenAI模型.开发者可以在亚马逊Bedrock中使用OpenAI模型构建AI应用程序和代理,.而跨行业的团队在日常工作中使用ChatGPT Entertainment.各组织可以选择符合其工作量和治理要求的办法。",
+      "en": "These OpenAI products complement the OpenAI models available in Amazon Bedrock. Developers can build AI applications and agents with OpenAI models in Amazon Bedrock, while teams across the business use ChatGPT Enterprise in their daily work. Organizations can choose the approach that fits their workloads and governance requirements."
+    },
+    {
+      "kind": "paragraph",
+      "text": "1 of 3",
+      "id": "p4",
+      "zh": "3个中的1个",
+      "en": "1 of 3"
+    },
+    {
+      "kind": "paragraph",
+      "text": "“Enterprises want to put AI to work across their teams without adding new layers of procurement. With ChatGPT Enterprise in AWS Marketplace, customers can buy it through their AWS account, govern it alongside the rest of their software spend, and move from evaluation to rollout faster. Working with OpenAI, we’re bringing one of the world’s most widely used AI products to AWS customers.”",
+      "id": "p5",
+      "zh": "“企业希望让大赦国际在其团队中开展工作,而不增加新的采购层次。与ChatGPT企业在AWS市场,顾客可以通过他们的AWS账户购买,管理它和他们剩下的软件一起使用,并且从评价转向推出的速度更快。与OpenAI合作,我们正将世界上最广泛使用的AI产品之一带给AWS的客户。",
+      "en": "“Enterprises want to put AI to work across their teams without adding new layers of procurement. With ChatGPT Enterprise in AWS Marketplace, customers can buy it through their AWS account, govern it alongside the rest of their software spend, and move from evaluation to rollout faster. Working with OpenAI, we’re bringing one of the world’s most widely used AI products to AWS customers.”"
+    },
+    {
+      "kind": "caption",
+      "text": "—Matt Yanchyshyn, Vice President, AWS Marketplace and Partner Services, AWS",
+      "id": "p6",
+      "zh": "- 马特·扬奇申,副总统,AWS 市场和伙伴服务,AWS 战备状态",
+      "en": "—Matt Yanchyshyn, Vice President, AWS Marketplace and Partner Services, AWS"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Eligible customers can also access ChatGPT for Healthcare and ChatGPT for Financial Services through AWS Marketplace.",
+      "id": "p7",
+      "zh": "符合条件的顾客也可通过AWS Marketplace获得医疗保健的ChatGPT和金融服务的ChatGPT。",
+      "en": "Eligible customers can also access ChatGPT for Healthcare and ChatGPT for Financial Services through AWS Marketplace."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Contact your OpenAI or AWS account team to confirm eligibility and get started with ChatGPT Enterprise through AWS Marketplace here⁠.",
+      "id": "p8",
+      "zh": "联系您的 OpenAI 或 AWS 账户团队确认资格,并通过 AWS Marketplace 启动 ChatGPT Entertainment 。",
+      "en": "Contact your OpenAI or AWS account team to confirm eligibility and get started with ChatGPT Enterprise through AWS Marketplace here⁠."
+    },
+    {
+      "kind": "heading",
+      "text": "Author",
+      "id": "p9",
+      "zh": "作者",
+      "en": "Author"
+    },
+    {
+      "kind": "paragraph",
+      "text": "OpenAI",
+      "id": "p10",
+      "zh": "开放AI",
+      "en": "OpenAI"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...ChatGPT Entertainment通过AWS Marketplace提供.这份清单为各组织提供了更简单的发现方式,买并管理ChatGPT企业,利用它们现有的AWS采购和计费关系,将符合资格的开支用于其AWS承诺。",
+      "en": "Today, ChatGPT Enterprise is available through AWS Marketplace. The listing gives organizations a simpler way to discover, buy, and manage ChatGPT Enterprise using their existing AWS purchasing and billing relationship and to apply eligible spend toward their AWS commitments."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "每周有超过12亿人使用ChatGPT.ChatGPT Entertainment公司为ChatGPT公司带来了熟悉的经验,ChatGPT 工作, 将工作,代码和点。随着ChatGPT Entertainment现在可以在AWS Marketplace上找到,AWS客户得到相同的型号,特征,和可直接从OpenAI获取的功能,并同时发布新功能.",
+      "en": "More than 1.2 billion people use ChatGPT each week. ChatGPT Enterprise brings that familiar experience to work with ChatGPT, ChatGPT Work, Codex, and dots."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "这些OpenAI产品补充了亚马逊贝德罗克现有的OpenAI模型.开发者可以在亚马逊Bedrock中使用OpenAI模型构建AI应用程序和代理,.而跨行业的团队在日常工作中使用ChatGPT Entertainment.各组织可以选择符合其工作量和治理要求的办法。",
+      "en": "These OpenAI products complement the OpenAI models available in Amazon Bedrock. Developers can build AI applications and agents with OpenAI models in Amazon Bedrock, while teams across the business use ChatGPT Enterprise in their daily work."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "“企业希望让大赦国际在其团队中开展工作,而不增加新的采购层次。与ChatGPT企业在AWS市场,顾客可以通过他们的AWS账户购买,管理它和他们剩下的软件一起使用,并且从评价转向推出的速度更快。",
+      "en": "“Enterprises want to put AI to work across their teams without adding new layers of procurement. With ChatGPT Enterprise in AWS Marketplace, customers can buy it through their AWS account, govern it alongside the rest of their software spend, and move from evaluation to rollout faster."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "c3df5f1329560931798b289160e545a7dbfc527769ab6321ab8518f6c3ccf422"
 }

@@ -67,6 +67,54 @@
       "sourceId": "google"
     },
     {
+      "id": "rss-02bfed5e7aa817ea9dcb",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "date": "2026-11-11",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-b675b12cfc53ea49f00e",
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "summary": "Gemini is now available on Apple CarPlay.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+      "date": "2026-11-11",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Talk it through with Gemini, now on Apple CarPlay",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-55ff14dc4213127df72a",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "date": "2026-11-11",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-69d4d9d74efa01629a6c",
       "title": "Closing the AI guidance gap in education",
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
@@ -2031,35 +2079,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-11T17:05:27.591876+00:00",
-      "lastSuccess": "2026-11-11T17:05:27.799926+00:00",
+      "attemptedAt": "2026-11-11T23:00:13.899999+00:00",
+      "lastSuccess": "2026-11-11T23:00:14.008291+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-11T17:05:27.592660+00:00",
-      "lastSuccess": "2026-11-11T17:05:27.859803+00:00",
+      "attemptedAt": "2026-11-11T23:00:13.900733+00:00",
+      "lastSuccess": "2026-11-11T23:00:14.147122+00:00",
       "count": 13
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-11T17:05:27.593189+00:00",
-      "lastSuccess": "2026-11-11T17:05:27.762072+00:00",
+      "attemptedAt": "2026-11-11T23:00:13.901243+00:00",
+      "lastSuccess": "2026-11-11T23:00:14.028076+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-11T17:05:27.593837+00:00",
-      "lastSuccess": "2026-11-11T17:05:28.890107+00:00",
+      "attemptedAt": "2026-11-11T23:00:13.901737+00:00",
+      "lastSuccess": "2026-11-11T23:00:15.141645+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-11T17:05:28.891457+00:00",
-  "nextRefresh": "2026-11-11T22:17:00+00:00",
+  "lastRefresh": "2026-11-11T23:00:15.142984+00:00",
+  "nextRefresh": "2026-11-12T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "c1ece435af6549383739a52a45dadf9d5a267ec7f692b01cdb82188602175a1f"
+  "bilingualRevision": "4b6c2aab666836b076521cf2fee66075ca7dff35bcbf8ed11a44a97701613a2a"
 }

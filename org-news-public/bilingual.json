@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-11T17:05:29.615677+00:00",
-  "revision": "c1ece435af6549383739a52a45dadf9d5a267ec7f692b01cdb82188602175a1f",
+  "generatedAt": "2026-11-11T23:00:16.007356+00:00",
+  "revision": "4b6c2aab666836b076521cf2fee66075ca7dff35bcbf8ed11a44a97701613a2a",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -478,6 +478,66 @@
         "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
         "sourceTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
         "source": "Google The Keyword"
+      }
+    },
+    "rss-02bfed5e7aa817ea9dcb": {
+      "original": {
+        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "sourceTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Gemini决定 API:快点校准的多式联运决定",
+        "summary": "见见Gemini决定API,以我们最先进的Gemini决定为动力校准的多式联运决定。",
+        "sourceTitle": "Gemini决定 API:快点校准的多式联运决定",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "sourceTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-b675b12cfc53ea49f00e": {
+      "original": {
+        "title": "Talk it through with Gemini, now on Apple CarPlay",
+        "summary": "Gemini is now available on Apple CarPlay.",
+        "sourceTitle": "Talk it through with Gemini, now on Apple CarPlay",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "和Gemini谈谈现在在苹果卡Play上",
+        "summary": "Gemini现在可以在Apple CarPlay上找到.",
+        "sourceTitle": "和Gemini谈谈现在在苹果卡Play上",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Talk it through with Gemini, now on Apple CarPlay",
+        "summary": "Gemini is now available on Apple CarPlay.",
+        "sourceTitle": "Talk it through with Gemini, now on Apple CarPlay",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-55ff14dc4213127df72a": {
+      "original": {
+        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "sourceTitle": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "JioStar关于人工智能发现的首席建筑师,规模为500M用户",
+        "summary": "JioStar的\"Vijay Seshadri\"以500M用户规模解释AI发现.读他关于Evals的课,护栏,并且将AI带入制作.",
+        "sourceTitle": "JioStar关于人工智能发现的首席建筑师,规模为500M用户",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+        "sourceTitle": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "source": "OpenAI News"
       }
     },
     "rss-69d4d9d74efa01629a6c": {

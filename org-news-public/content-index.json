@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T17:05:33.594884+00:00",
+  "updatedAt": "2026-11-11T23:00:25.871298+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -92,6 +92,26 @@
       "sourceTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "contentHash": "e664cdce683de91419a36505d57886d62f5bde6fbb4de4f73934e338dc13e2b1",
       "fetchedAt": "2026-11-11T17:05:32.254294+00:00"
+    },
+    "rss-02bfed5e7aa817ea9dcb": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "sourceTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "contentHash": "1de82d602f15992d9b1dff1345c06ddfa18cd6ad21c6725d8c418d4c5859defc",
+      "fetchedAt": "2026-11-11T23:00:18.239426+00:00"
+    },
+    "rss-b675b12cfc53ea49f00e": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+      "sourceTitle": "Talk it through with Gemini, now on Apple CarPlay",
+      "contentHash": "3291f0e4c2493b9eae17cc96e6b50960af3524a874a939afbc1473f299be3941",
+      "fetchedAt": "2026-11-11T23:00:18.245752+00:00"
+    },
+    "rss-55ff14dc4213127df72a": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "sourceTitle": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "error": "http_403"
     },
     "rss-69d4d9d74efa01629a6c": {
       "status": "unavailable",

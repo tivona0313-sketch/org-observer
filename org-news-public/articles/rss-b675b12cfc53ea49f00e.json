@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-b675b12cfc53ea49f00e",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+  "sourceTitle": "Talk it through with Gemini, now on Apple CarPlay",
+  "status": "ready",
+  "attemptedAt": "2026-11-11T23:00:16.048473+00:00",
+  "fetchedAt": "2026-11-11T23:00:18.245752+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+  "language": "en",
+  "originalTitle": "Talk it through with Gemini, now on Apple CarPlay",
+  "author": "Karan Daryanani",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "For millions of people, the daily commute averages about an hour behind the wheel. While voice assistants have long been great for quick tasks like playing a playlist or getting directions home, all that quiet time on the road is also an opportunity to catch up, prepare for what’s ahead, or simply think out loud.",
+      "id": "p1",
+      "zh": "对于数百万人来说,日通勤平均在车后一个小时左右虽然语音助理长期以来很擅长快速的任务,比如播放一个播放列表或获得回家的方向,路上的这些安静时间 也是赶上的机会准备迎接未来,或只是想出 大声。",
+      "en": "For millions of people, the daily commute averages about an hour behind the wheel. While voice assistants have long been great for quick tasks like playing a playlist or getting directions home, all that quiet time on the road is also an opportunity to catch up, prepare for what’s ahead, or simply think out loud."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Following our rollout on Android Auto and cars with Google built-in, today we’re bringing the Gemini app directly to Apple CarPlay. Now, iOS users can have natural, free-flowing conversations with Gemini Live right from their car’s display — hands-free, so you can get more done while keeping your hands on the wheel and your eyes on the road.",
+      "id": "p2",
+      "zh": "继我们推出Android汽车 和汽车 与Google内置,今天我们直接将Gemini应用带给苹果卡普莱。现在iOS用户可以拥有自然,与Gemini现场的免费对话,这样你就可以在手放在方向盘上和眼睛在路上的同时,做更多的工作.",
+      "en": "Following our rollout on Android Auto and cars with Google built-in, today we’re bringing the Gemini app directly to Apple CarPlay. Now, iOS users can have natural, free-flowing conversations with Gemini Live right from their car’s display — hands-free, so you can get more done while keeping your hands on the wheel and your eyes on the road."
+    },
+    {
+      "kind": "heading",
+      "text": "Pick up where you left off — or start a fresh conversation",
+      "id": "p3",
+      "zh": "捡起你离开的地方 或者重新开始交谈",
+      "en": "Pick up where you left off — or start a fresh conversation"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We designed Gemini on CarPlay to work like a conversational driving companion that minimizes distraction. When you tap the Gemini app icon on your CarPlay screen or side rail, you can easily pick up where you left off with a recent chat or start a fresh conversation.",
+      "id": "p4",
+      "zh": "我们设计了Gemini卡普莱 就像一个对话式的驾驶伴 尽量减少分心。当你在卡普雷屏幕或侧道上 点击Gemini应用图标时你可以轻松地捡起 你留下的地方 与最近聊天 或开始一个新的谈话。",
+      "en": "We designed Gemini on CarPlay to work like a conversational driving companion that minimizes distraction. When you tap the Gemini app icon on your CarPlay screen or side rail, you can easily pick up where you left off with a recent chat or start a fresh conversation."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can talk back and forth with Gemini at your own pace — interrupting to add a detail, changing the subject, or pausing when you need to focus on an exit.",
+      "id": "p5",
+      "zh": "你可以以自己的速度和Gemini反复交谈——打断来补充一个细节,改变主题,或者当你需要专注于一个出口时 就会陷入困境",
+      "en": "You can talk back and forth with Gemini at your own pace — interrupting to add a detail, changing the subject, or pausing when you need to focus on an exit."
+    },
+    {
+      "kind": "heading",
+      "text": "Make the most of your drive",
+      "id": "p6",
+      "zh": "尽量发挥你的驱动力",
+      "en": "Make the most of your drive"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Whether you’re commuting or setting out on a road trip, Gemini on CarPlay helps you be more productive during your ride. Here are a few ways to make the most of your drive:",
+      "id": "p7",
+      "zh": "无论是上下班还是上路旅行,CarPlay上的Gemini可以让你在骑行期间更富有生产力.这里有几种方法可以充分利用你的驱动力:",
+      "en": "Whether you’re commuting or setting out on a road trip, Gemini on CarPlay helps you be more productive during your ride. Here are a few ways to make the most of your drive:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Get ready for the day ahead:",
+      "id": "p8",
+      "zh": "准备好迎接未来的一天:",
+      "en": "Get ready for the day ahead:"
+    },
+    {
+      "kind": "list",
+      "text": "Try saying: \"What does my day look like?\" or \"Help me prep for my 10am with the design team.\"",
+      "id": "p9",
+      "zh": "试着说:\"我的一天是什么样子?\" 或\"帮我准备我的10: 00与设计团队。\"",
+      "en": "Try saying: \"What does my day look like?\" or \"Help me prep for my 10am with the design team.\""
+    },
+    {
+      "kind": "paragraph",
+      "text": "Talk through your inbox:",
+      "id": "p10",
+      "zh": "通过您的收件箱说话 :",
+      "en": "Talk through your inbox:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "1",
+      "id": "p11",
+      "zh": "1个",
+      "en": "1"
+    },
+    {
+      "kind": "list",
+      "text": "Try saying: “Give me my daily brief for today,” or “Catch me up on my unread emails and summarize Sarah’s Q4 budget thread.”",
+      "id": "p12",
+      "zh": "试着说:“给我今天的每日简报,”或“把我放在未读的电子邮件上,总结莎拉的Q4预算线条。",
+      "en": "Try saying: “Give me my daily brief for today,” or “Catch me up on my unread emails and summarize Sarah’s Q4 budget thread.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore local spots and landmarks:",
+      "id": "p13",
+      "zh": "探索局部地块和地标:",
+      "en": "Explore local spots and landmarks:"
+    },
+    {
+      "kind": "list",
+      "text": "Try saying: “What’s a quick lunch spot in downtown Austin that’s easy to get in and out of?”",
+      "id": "p14",
+      "zh": "试着说:在奥斯汀市中心, 便捷的午餐点是什么?",
+      "en": "Try saying: “What’s a quick lunch spot in downtown Austin that’s easy to get in and out of?”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Brainstorm, rehearse, and learn out loud:",
+      "id": "p15",
+      "zh": "脑暴,排练,并大声地学习:",
+      "en": "Brainstorm, rehearse, and learn out loud:"
+    },
+    {
+      "kind": "list",
+      "text": "Try saying: “Let’s roleplay my Q4 pitch — act as a skeptical VP and challenge my strategy,” or “Break down how solid-state EV batteries work in simple terms.”",
+      "id": "p16",
+      "zh": "试着说:“让我们扮演我的Q4投出的角色——扮演怀疑VP的角色,挑战我的策略,”或“简单地打破固态EV电池的功能。 ”",
+      "en": "Try saying: “Let’s roleplay my Q4 pitch — act as a skeptical VP and challenge my strategy,” or “Break down how solid-state EV batteries work in simple terms.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "And because your CarPlay conversations sync automatically with the Gemini app on your iPhone, every summary, note, and brainstorm is waiting in your chat history the moment you park.",
+      "id": "p17",
+      "zh": "因为你的CarPlay对话会自动与你的iPhone上的Gemini应用同步,每一份摘要,说明,大脑暴风雨正在等待你的聊天历史 你停车的那一刻。",
+      "en": "And because your CarPlay conversations sync automatically with the Gemini app on your iPhone, every summary, note, and brainstorm is waiting in your chat history the moment you park."
+    },
+    {
+      "kind": "heading",
+      "text": "Get started today",
+      "id": "p18",
+      "zh": "今天开始吧",
+      "en": "Get started today"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini on Apple CarPlay is rolling out globally starting today to all Gemini users on iOS across every supported Gemini Live language.",
+      "id": "p19",
+      "zh": "Apple CarPlay上的Gemini从今天开始在全球推出, 面向iOS上的所有Gemini用户, 跨越每一个支持GeminiLive语言.",
+      "en": "Gemini on Apple CarPlay is rolling out globally starting today to all Gemini users on iOS across every supported Gemini Live language."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To get started, make sure you’ve updated to the latest version of the Gemini app on your iPhone, enabled microphone permissions, and used Gemini Live on your phone at least once. The next time you connect your phone to your car, tap the Gemini icon on your CarPlay display, then start a new conversation or pick up a recent one.",
+      "id": "p20",
+      "zh": "为了开始确保您更新了您iPhone上的Gemini应用程序的最新版本,已启用的麦克风权限,并且至少用过一次Gemini直播电话下次你把电话和你的车连接起来时点击卡普莱显示的双子星图标,然后开始新的谈话 或拿起最近的一次。",
+      "en": "To get started, make sure you’ve updated to the latest version of the Gemini app on your iPhone, enabled microphone permissions, and used Gemini Live on your phone at least once. The next time you connect your phone to your car, tap the Gemini icon on your CarPlay display, then start a new conversation or pick up a recent one."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "继我们推出Android汽车 和汽车 与Google内置,今天我们直接将Gemini应用带给苹果卡普莱。现在iOS用户可以拥有自然,与Gemini现场的免费对话,这样你就可以在手放在方向盘上和眼睛在路上的同时,做更多的工作.",
+      "en": "Following our rollout on Android Auto and cars with Google built-in, today we’re bringing the Gemini app directly to Apple CarPlay. Now, iOS users can have natural, free-flowing conversations with Gemini Live right from their car’s display — hands-free, so you can get more done while keeping your hands on the wheel and your eyes on the road."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "我们设计了Gemini卡普莱 就像一个对话式的驾驶伴 尽量减少分心。当你在卡普雷屏幕或侧道上 点击Gemini应用图标时你可以轻松地捡起 你留下的地方 与最近聊天 或开始一个新的谈话。",
+      "en": "We designed Gemini on CarPlay to work like a conversational driving companion that minimizes distraction. When you tap the Gemini app icon on your CarPlay screen or side rail, you can easily pick up where you left off with a recent chat or start a fresh conversation."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "无论是上下班还是上路旅行,CarPlay上的Gemini可以让你在骑行期间更富有生产力.这里有几种方法可以充分利用你的驱动力:",
+      "en": "Whether you’re commuting or setting out on a road trip, Gemini on CarPlay helps you be more productive during your ride. Here are a few ways to make the most of your drive:"
+    },
+    {
+      "paragraphId": "p20",
+      "zh": "为了开始确保您更新了您iPhone上的Gemini应用程序的最新版本,已启用的麦克风权限,并且至少用过一次Gemini直播电话下次你把电话和你的车连接起来时点击卡普莱显示的双子星图标,然后开始新的谈话 或拿起最近的一次。",
+      "en": "To get started, make sure you’ve updated to the latest version of the Gemini app on your iPhone, enabled microphone permissions, and used Gemini Live on your phone at least once. The next time you connect your phone to your car, tap the Gemini icon on your CarPlay display, then start a new conversation or pick up a recent one."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "3291f0e4c2493b9eae17cc96e6b50960af3524a874a939afbc1473f299be3941"
+}

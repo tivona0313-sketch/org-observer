@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-02bfed5e7aa817ea9dcb",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "sourceTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+  "status": "ready",
+  "attemptedAt": "2026-11-11T23:00:16.047737+00:00",
+  "fetchedAt": "2026-11-11T23:00:18.239426+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+  "language": "en",
+  "originalTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+  "author": "Min Choi",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio.",
+      "id": "p1",
+      "zh": "今天,我们...我们介绍Gemini决定 API,一个快速的新终点,由我们新的Gemini决定1模式(Gemini决定1)授权的封闭式决定,可通过Google AI Studio中的GeminiAPI获取.",
+      "en": "Today, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading. You can pass one multimodal input across text, images, audio, video, and PDFs (up to 256K tokens) along with up to 1,000 independent questions. Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed.",
+      "id": "p2",
+      "zh": "API决定给你 目的建造的原始物 用于设定的选择,如工具选择,政策检查,模式路由,和上下文分级。您可以在文本中通过一个多模式输入,图像,音频,视频,和PDF(最多为256K个令牌)以及最多为1 000个独立问题。而不是以象征性方式生成答案文本符号,Gemini决定1 评分您的候选人选项 在一次前方通过,返回150-250 ms 端到端的概率和信心分数,为每1M个输入令牌0.10分,零输出令牌计费.",
+      "en": "The Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading. You can pass one multimodal input across text, images, audio, video, and PDFs (up to 256K tokens) along with up to 1,000 independent questions. Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed."
+    },
+    {
+      "kind": "heading",
+      "text": "Strong performance and calibration",
+      "id": "p3",
+      "zh": "良好的性能和校准",
+      "en": "Strong performance and calibration"
+    },
+    {
+      "kind": "paragraph",
+      "text": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error.",
+      "id": "p4",
+      "zh": "关于跨越代理路线的基准,推理,排名,和多式联运,Gemini决定1 引导跨套房,最小的校正错误。",
+      "en": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request. With zero output tokens billed, Gemini Decision 1 with the Decisions API is nearly 5x cheaper across the shared benchmark suite than Gemini 3.5 Flash-Lite with the Interactions API.",
+      "id": "p5",
+      "zh": "Gemini第1决定得分 没有逐个符号的解码,保持50-100 ms模型计算值的中位值(150-250 ms端到端),跨多式输入和上下文,最高可达1,6K个符号,每件请求从1个问题到100个问题几乎保持平坦。以零输出符号计费,Gemini决定1和决定API在共享基准套件上比Gemini3.5 Flash-Lite和互动API便宜近5x.",
+      "en": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request. With zero output tokens billed, Gemini Decision 1 with the Decisions API is nearly 5x cheaper across the shared benchmark suite than Gemini 3.5 Flash-Lite with the Interactions API."
+    },
+    {
+      "kind": "heading",
+      "text": "Native multimodal evaluation across three decision types in one pass",
+      "id": "p6",
+      "zh": "一次通过三个决定类型的原生多式评价",
+      "en": "Native multimodal evaluation across three decision types in one pass"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Built on Gemini’s native multimodal architecture, Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass. You can combine modalities in one shared input, such as pairing a call recording with account metadata or a scanned PDF claim with damage photos, and tune resolution on image and video inputs to control visual detail and token cost.",
+      "id": "p7",
+      "zh": "建在Gemini本土多式建筑上,Gemini决定1可以处理文本,图像,音频,视频,和 PDF 直接通过一个前行通道。您可以在一个共享输入中组合模式,例如,将呼叫记录与账户元数据或带有损坏相片的PDF扫描索赔进行配对,并调谐图像和视频输入的分辨率,以控制视觉细节和象征性成本。",
+      "en": "Built on Gemini’s native multimodal architecture, Gemini Decision 1 can process text, images, audio, video, and PDFs directly in a single forward pass. You can combine modalities in one shared input, such as pairing a call recording with account metadata or a scanned PDF claim with damage photos, and tune resolution on image and video inputs to control visual detail and token cost."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:",
+      "id": "p8",
+      "zh": "您可以根据一个请求中共享的输入来评价多个问题,混合是/否检查,多重选择,和标分。每个回答都包含一个信心分数(从0到1),所以你的代码可以将模棱两可的案件引向倒计时或人类审查者:",
+      "en": "You can evaluate multiple questions against that shared input in a single request, mixing yes/no checks, multiple choice, and rubric scores. Every answer includes a confidence score (from 0 to 1) so your code can route ambiguous cases to a fallback or human reviewer:"
+    },
+    {
+      "kind": "list",
+      "text": "noul (Yes/No): Estimates the probability that a yes/no condition holds, with optional true and false description criteria.",
+      "id": "p9",
+      "zh": "noul (是/否) (中文(简体) ).估计 \" 是 \" / \" 无 \" 条件的概率,带有可选的真假描述标准.",
+      "en": "noul (Yes/No): Estimates the probability that a yes/no condition holds, with optional true and false description criteria."
+    },
+    {
+      "kind": "list",
+      "text": "choice (Multiple Choice): Selects from 2 to 255 choices, returning the winner and normalized probabilities for every candidate.",
+      "id": "p10",
+      "zh": "选择( 多重选择 ) :选择从2到255个选择,将胜者还原,并使每个候选人的概率正常化。",
+      "en": "choice (Multiple Choice): Selects from 2 to 255 choices, returning the winner and normalized probabilities for every candidate."
+    },
+    {
+      "kind": "list",
+      "text": "score (Ordered Rubric): Grades inputs across an ordered rubric (starting at 0), returning a continuous weighted score and per-level probabilities.",
+      "id": "p11",
+      "zh": "分数( 已订购的 Rubric ):按顺序排列的输入分级( 从 0 开始) :返回连续加权分和每级概率。",
+      "en": "score (Ordered Rubric): Grades inputs across an ordered rubric (starting at 0), returning a continuous weighted score and per-level probabilities."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The input field uses the same Content block format as the Interactions API. Here is how to check a photo of a breakroom counter, together with a text note, against all three question types in one request:",
+      "id": "p12",
+      "zh": "输入字段使用与\"互动\"API相同的内容块格式.这是如何检查一个破烂室柜台的照片,连同一份正文说明,针对一个请求中所有三个问题类型:",
+      "en": "The input field uses the same Content block format as the Interactions API. Here is how to check a photo of a breakroom counter, together with a text note, against all three question types in one request:"
+    },
+    {
+      "kind": "paragraph",
+      "text": "from google import genai client = genai.Client(http_options={\"api_version\": \"v1beta\"}) result = client.decisions.create( model=\"gemini-decision-1\", input=[{ \"type\": \"image\", \"uri\": \"https://storage.googleapis.com/generativeai-downloads/images/spill.jpg\", \"mime_type\": \"image/jpeg\", }, { \"type\": \"text\", \"text\": \"Breakroom counter check before the 9 AM client meeting.\", }, ], questions={ \"has_spill\": { \"type\": \"noul\", \"instructions\": \"Is there an uncleaned liquid spill on the counter?\", }, \"next_action\": { \"type\": \"choice\", \"instructions\": \"Which cleanup action fits the scene?\", \"criteria\": { \"wipe_with_cloth\": \"Small counter spill with a cloth or towel already nearby.\", \"dispatch_janitorial\": \"Large floor hazard, broken glass, or active leak.\", \"ready_for_meeting\": \"Counter is clean and ready.\", }, }, \"severity\": { \"type\": \"score\", \"instructions\": \"Rate the severity of the counter mess.\", \"criteria\": [ \"Clean and ready.\", \"Minor localized spill.\", \"Major spill or safety hazard.\", ], }, }, )",
+      "id": "p13",
+      "zh": "从 google 导入 genai 客户端 = genai.Client(http_options_QX\"api_version\"):“v1beta” }) results = 客户端. decisions.create (model=\"gemini- decision-1\"),输入=[{\"类型\":\"图像\",\"丽\":\"https://storage.googleapis.com/generativeai-downloads/images/spill.jpg\",\"中国历史大辞典\".\"MIME_类型\":\"图像/jpeg\",{\\fn华文楷体\\fs16\\1cHE0E0E0}{\"类型\":文字,我说\"正文\":\" ⁇ .\"9: 00客户会议前的breakroom柜台检查\",{\\fn华文楷体\\fs16\\1cHE0E0E0}[ [ ] ] ,问题QQ\"已溢出\":{\"类型\":\"努尔\",\"训导\":\"柜台有不干净的液体溢出吗?\"{\\fn华文楷体\\fs16\\1cHE0E0E0}\"下一步行动\":{\"类型\":\"选择\",\"训导\":\"什么清理行动适合现场?\",\"标准\":{\"用_布\"(\"wip\"):\"小柜台溢出,布或毛巾已经附近。\"\"发文_杂录\":\"......\"大地板危险,破碎的玻璃,或主动泄漏\",\"准备会议\":\"伯爵是干净的,准备好。\"{\\fn华文楷体\\fs16\\1cHE0E0E0}{\\fn华文楷体\\fs16\\1cHE0E0E0}\"相会\"曰:{\"类型\":\"积分\",\"训导\":\"把柜台的烂摊子弄得一团糟\"\"标准\":[\"清并备\".\"矿山局部溢出\",\"主要溢出或安全隐患\",[ [ ] ] ,{\\fn华文楷体\\fs16\\1cHE0E0E0}{\\fn华文楷体\\fs16\\1cHE0E0E0}) (中文(简体) ).",
+      "en": "from google import genai client = genai.Client(http_options={\"api_version\": \"v1beta\"}) result = client.decisions.create( model=\"gemini-decision-1\", input=[{ \"type\": \"image\", \"uri\": \"https://storage.googleapis.com/generativeai-downloads/images/spill.jpg\", \"mime_type\": \"image/jpeg\", }, { \"type\": \"text\", \"text\": \"Breakroom counter check before the 9 AM client meeting.\", }, ], questions={ \"has_spill\": { \"type\": \"noul\", \"instructions\": \"Is there an uncleaned liquid spill on the counter?\", }, \"next_action\": { \"type\": \"choice\", \"instructions\": \"Which cleanup action fits the scene?\", \"criteria\": { \"wipe_with_cloth\": \"Small counter spill with a cloth or towel already nearby.\", \"dispatch_janitorial\": \"Large floor hazard, broken glass, or active leak.\", \"ready_for_meeting\": \"Counter is clean and ready.\", }, }, \"severity\": { \"type\": \"score\", \"instructions\": \"Rate the severity of the counter mess.\", \"criteria\": [ \"Clean and ready.\", \"Minor localized spill.\", \"Major spill or safety hazard.\", ], }, }, )"
+    },
+    {
+      "kind": "heading",
+      "text": "How teams are building with the Decisions API",
+      "id": "p14",
+      "zh": "团队如何与决定 API一起建设",
+      "en": "How teams are building with the Decisions API"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:",
+      "id": "p15",
+      "zh": "Google的团队已经在使用决策API 作为低纬度控制平面,仅通过定义选项,而不是培训定制分类人员或等待基因调用,运输特征:",
+      "en": "Teams across Google are already using the Decisions API as a low-latency control plane, shipping features simply by defining options rather than training custom classifiers or waiting on generative calls:"
+    },
+    {
+      "kind": "list",
+      "text": "Dynamic model routing in Gemini Notebook: Gemini Notebook uses the Decisions API as a real-time router to instantly direct incoming queries to the optimal model tier and thinking level for each request. The Decisions API classifies intent in milliseconds to serve everyday queries with up to 40% lower latency while reserving deep reasoning models for complex tasks.",
+      "id": "p16",
+      "zh": "Gemini笔记本中的动态模型路由 :GeminiNotebook使用\"决定API\"作为实时路由器,将收到的查询即时引导到每个请求的最佳模型分级和思维分级.API决定以毫秒为单位分类,在为复杂任务保留深层推理模型的同时,为日常查询服务的时间可低至40%。",
+      "en": "Dynamic model routing in Gemini Notebook: Gemini Notebook uses the Decisions API as a real-time router to instantly direct incoming queries to the optimal model tier and thinking level for each request. The Decisions API classifies intent in milliseconds to serve everyday queries with up to 40% lower latency while reserving deep reasoning models for complex tasks."
+    },
+    {
+      "kind": "list",
+      "text": "Rapid design iteration in Stitch: The new rapid canvas experiment in Stitch uses the Decisions API to generate playable wireframes of a product flow in seconds and to apply edits made by voice or tap almost instantly. When the flow feels right, one click hands the screens off to the full Stitch experience for deeper design polish.",
+      "id": "p17",
+      "zh": "Stitch的快速设计迭代:Stitch的新快帆布实验利用了Secretments API在几秒内生成出产品流的可玩性线框,并应用由语音或自带几乎制作的编辑即时.当流动感觉正确时,一击就把屏幕关到史迪奇的全场体验上 以进行更深层次的设计抛光",
+      "en": "Rapid design iteration in Stitch: The new rapid canvas experiment in Stitch uses the Decisions API to generate playable wireframes of a product flow in seconds and to apply edits made by voice or tap almost instantly. When the flow feels right, one click hands the screens off to the full Stitch experience for deeper design polish."
+    },
+    {
+      "kind": "list",
+      "text": "Emoji selection in CC: CC from Google Labs uses the Decisions API to pick the right emoji reaction from a palette of more than 200 options in a fraction of a second, so reactions appear instantly without adding latency.",
+      "id": "p18",
+      "zh": "CC中的 Emoji 选择 :来自Google Labs的CC使用\"决定API\"从二百多个选项的调色板中取出正确的emoji反应,在一秒钟之内,因此,反应立即出现,而不增加延迟。",
+      "en": "Emoji selection in CC: CC from Google Labs uses the Decisions API to pick the right emoji reaction from a palette of more than 200 options in a fraction of a second, so reactions appear instantly without adding latency."
+    },
+    {
+      "kind": "list",
+      "text": "Safety layer for MCP tools in Search: Google Search uses the Decision API to detect adversarial behavior and content against adversarial evals with high efficacy within the latency envelope.",
+      "id": "p19",
+      "zh": "搜索中 MCP 工具的安全层 :Google Search使用\"决定API\"来检测对抗性的行为和内容,以对抗性在潜伏性信封内具有很高的功效.",
+      "en": "Safety layer for MCP tools in Search: Google Search uses the Decision API to detect adversarial behavior and content against adversarial evals with high efficacy within the latency envelope."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Stitch Rapid uses the Decisions API to design an entire product flow in seconds (1x speed).",
+      "id": "p20",
+      "zh": "Stitch Rapid使用\"决定API\"设计出以秒(1x速度)为单位的整个产品流量.",
+      "en": "Stitch Rapid uses the Decisions API to design an entire product flow in seconds (1x speed)."
+    },
+    {
+      "kind": "heading",
+      "text": "Start building today",
+      "id": "p21",
+      "zh": "今天开始建楼",
+      "en": "Start building today"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini Decision 1 is priced at $0.10 per 1M input tokens and $0 for output tokens, with an API no-cost tier you can use in Google AI Studio for prototyping. Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs.",
+      "id": "p22",
+      "zh": "Gemini决定1的价格为每1M输入令牌0.10美元,产出令牌0.在谷歌AI Studio中可以使用API的无成本级来进行原型.无论您评价了多少问题(每个问题只添加自己的指令和标准符号), 您共享的输入会每请求一次计费.没有输出电源收费,可变思维的账单,或单独的录音录音和OCR费用。",
+      "en": "Gemini Decision 1 is priced at $0.10 per 1M input tokens and $0 for output tokens, with an API no-cost tier you can use in Google AI Studio for prototyping. Your shared input is billed once per request no matter how many questions you evaluate (each question adds only its own instruction and criteria tokens). There are no output-token charges, variable thinking-token bills, or separate audio transcription and OCR costs."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can start building today by grabbing an API key in Google AI Studio, trying our Doorstep Parcels, Speed Sketch, and Find the Zoo Keeper demo apps, and following the Python, JavaScript, and REST guides in the Decisions API documentation.",
+      "id": "p23",
+      "zh": "你可以在Google AI Studio中 抢取API 密钥开始今天的建设,尝试我们的门阶地平板,速度图,找到动物园守护者演示应用程序,并顺从蟒蛇,Java 脚本,和REST在决定API文件中的指南.",
+      "en": "You can start building today by grabbing an API key in Google AI Studio, trying our Doorstep Parcels, Speed Sketch, and Find the Zoo Keeper demo apps, and following the Python, JavaScript, and REST guides in the Decisions API documentation."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud.",
+      "id": "p24",
+      "zh": "生态系统一体化正在整个OpenRouter展开,兰彩,韦塞尔,LITELM, (英语).活泼的AI,管道猫,维基百科,和OpenCode 与谷歌 -genai SDK 并列,在谷歌\"云\"的Gemini支持即将到来",
+      "en": "Ecosystem integrations are rolling out across OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode alongside the google-genai SDKs, with support coming soon to Gemini in Google Cloud."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...我们介绍Gemini决定 API,一个快速的新终点,由我们新的Gemini决定1模式(Gemini决定1)授权的封闭式决定,可通过Google AI Studio中的GeminiAPI获取.",
+      "en": "Today, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "API决定给你 目的建造的原始物 用于设定的选择,如工具选择,政策检查,模式路由,和上下文分级。您可以在文本中通过一个多模式输入,图像,音频,视频,和PDF(最多为256K个令牌)以及最多为1 000个独立问题。",
+      "en": "The Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading. You can pass one multimodal input across text, images, audio, video, and PDFs (up to 256K tokens) along with up to 1,000 independent questions."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "关于跨越代理路线的基准,推理,排名,和多式联运,Gemini决定1 引导跨套房,最小的校正错误。",
+      "en": "On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "Gemini第1决定得分 没有逐个符号的解码,保持50-100 ms模型计算值的中位值(150-250 ms端到端),跨多式输入和上下文,最高可达1,6K个符号,每件请求从1个问题到100个问题几乎保持平坦。以零输出符号计费,Gemini决定1和决定API在共享基准套件上比Gemini3.5 Flash-Lite和互动API便宜近5x.",
+      "en": "Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request. With zero output tokens billed, Gemini Decision 1 with the Decisions API is nearly 5x cheaper across the shared benchmark suite than Gemini 3.5 Flash-Lite with the Interactions API."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "1de82d602f15992d9b1dff1345c06ddfa18cd6ad21c6725d8c418d4c5859defc"
+}

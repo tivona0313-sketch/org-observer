@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-72b4397871537d44e938",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+  "sourceTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
+  "status": "ready",
+  "attemptedAt": "2026-11-11T17:05:29.658885+00:00",
+  "fetchedAt": "2026-11-11T17:05:32.252440+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+  "language": "en",
+  "originalTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
+  "author": "Gary Eimerman",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today we announced Google Cloud's new Professional Agentic Architect certification: an industry-recognized certification that proves you can deploy secure, enterprise-grade agents that automate multi-step and multi-app workflows.",
+      "id": "p1",
+      "zh": "今天我们宣布Google Cloud的新专业代理建筑师认证:行业认证,证明你可以部署安全,实现多步多应用工作流程自动化的企业级代理。",
+      "en": "Today we announced Google Cloud's new Professional Agentic Architect certification: an industry-recognized certification that proves you can deploy secure, enterprise-grade agents that automate multi-step and multi-app workflows."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This hybrid certification has two parts: a proctored multiple-choice exam assessing foundational knowledge in agentic architecture, and Google Skills labs to evaluate real-world, hands-on practical experience.",
+      "id": "p2",
+      "zh": "这个混合认证有两个部分:一项多选择考试,评估代理建筑的基础知识,和谷歌技能实验室 来评估现实世界,实践经验。",
+      "en": "This hybrid certification has two parts: a proctored multiple-choice exam assessing foundational knowledge in agentic architecture, and Google Skills labs to evaluate real-world, hands-on practical experience."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Over the past four months, Google Cloud has trained thousands of Google Cloud forward deployed engineers and Google Cloud partners on this advanced curriculum. This certification is now available for technical professionals like developers, cloud architects, and engineers who architect, build, and deploy agents on Google Cloud.",
+      "id": "p3",
+      "zh": "在过去四个月里,Google Cloud为数千名部署在Google Cloud前方的工程师和Google Cloud合作伙伴提供了这一高级课程的培训.这种认证现在可供开发人员等技术专业人员使用。云层建筑师,以及建筑师,建造,在Google Cloud上部署智能体",
+      "en": "Over the past four months, Google Cloud has trained thousands of Google Cloud forward deployed engineers and Google Cloud partners on this advanced curriculum. This certification is now available for technical professionals like developers, cloud architects, and engineers who architect, build, and deploy agents on Google Cloud."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Our research shows more than 80% of Google Cloud certified individuals say the credential opens doors to new career opportunities and accelerates their path to promotion. Furthermore, 82% of individuals say certifications from Google Cloud help them earn higher salaries 1.",
+      "id": "p4",
+      "zh": "我们的研究表明,超过80%的Google Cloud认证个人表示,证书为新的职业机会打开了大门并加快了晋升的道路.此外,82%的人说来自Google Cloud的认证帮助他们挣取更高的薪水1.",
+      "en": "Our research shows more than 80% of Google Cloud certified individuals say the credential opens doors to new career opportunities and accelerates their path to promotion. Furthermore, 82% of individuals say certifications from Google Cloud help them earn higher salaries 1."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Start your preparation at no cost today. Sign up for Gemini Agent Ready to claim 35 free monthly learning credits and gain access to our hands-on labs and agentic courses.",
+      "id": "p5",
+      "zh": "今天免费开始你的准备注册双子星代理准备 申请35个免费月学学分 并进入我们的实践实验室和代理课程。",
+      "en": "Start your preparation at no cost today. Sign up for Gemini Agent Ready to claim 35 free monthly learning credits and gain access to our hands-on labs and agentic courses."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Learn more on our Google Cloud blog.",
+      "id": "p6",
+      "zh": "在我们的Google Cloud博客上学习更多内容.",
+      "en": "Learn more on our Google Cloud blog."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天我们宣布Google Cloud的新专业代理建筑师认证:行业认证,证明你可以部署安全,实现多步多应用工作流程自动化的企业级代理。",
+      "en": "Today we announced Google Cloud's new Professional Agentic Architect certification: an industry-recognized certification that proves you can deploy secure, enterprise-grade agents that automate multi-step and multi-app workflows."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "这个混合认证有两个部分:一项多选择考试,评估代理建筑的基础知识,和谷歌技能实验室 来评估现实世界,实践经验。",
+      "en": "This hybrid certification has two parts: a proctored multiple-choice exam assessing foundational knowledge in agentic architecture, and Google Skills labs to evaluate real-world, hands-on practical experience."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "我们的研究表明,超过80%的Google Cloud认证个人表示,证书为新的职业机会打开了大门并加快了晋升的道路.此外,82%的人说来自Google Cloud的认证帮助他们挣取更高的薪水1.",
+      "en": "Our research shows more than 80% of Google Cloud certified individuals say the credential opens doors to new career opportunities and accelerates their path to promotion. Furthermore, 82% of individuals say certifications from Google Cloud help them earn higher salaries 1."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "今天免费开始你的准备注册双子星代理准备 申请35个免费月学学分 并进入我们的实践实验室和代理课程。",
+      "en": "Start your preparation at no cost today. Sign up for Gemini Agent Ready to claim 35 free monthly learning credits and gain access to our hands-on labs and agentic courses."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "453cb93afe5edadddb7d57c91b2439db25f7dbe5978a88224f5327849b35650e"
+}

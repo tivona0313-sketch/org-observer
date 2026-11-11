@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-11T11:09:34.663408+00:00",
-  "revision": "4107fab1c405074ae0164a09222e85b835b784ebc0587716a73cf5fa594f8611",
+  "generatedAt": "2026-11-11T17:05:29.615677+00:00",
+  "revision": "c1ece435af6549383739a52a45dadf9d5a267ec7f692b01cdb82188602175a1f",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -437,6 +437,46 @@
         "title": "Experience the art and legacy of Dr. Esther Mahlangu",
         "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
         "sourceTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-72b4397871537d44e938": {
+      "original": {
+        "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+        "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+        "sourceTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "获得谷歌云专业代理建筑师认证.",
+        "summary": "今天我们宣布Google Cloud的新专业代理建筑师认证.",
+        "sourceTitle": "获得谷歌云专业代理建筑师认证.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+        "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+        "sourceTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-3d65ccc2f5cdce6978b3": {
+      "original": {
+        "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+        "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+        "sourceTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "尝试桌面 :可定制的,合作空间,供各团体规划,一起玩,一起多做点",
+        "summary": "Tabletop是Google Labs为集体协作而作的新实验.构建交互式行程,民意调查,和括号与你的团队。随入等者.",
+        "sourceTitle": "尝试桌面 :可定制的,合作空间,供各团体规划,一起玩,一起多做点",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+        "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+        "sourceTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
         "source": "Google The Keyword"
       }
     },

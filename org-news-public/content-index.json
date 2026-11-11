@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T11:09:36.867113+00:00",
+  "updatedAt": "2026-11-11T17:05:33.594884+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -78,6 +78,20 @@
       "sourceTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
       "contentHash": "2eeef39c35cbe3c2aa03b144c5df5318038b37034c0fe80363c8382aa7117814",
       "fetchedAt": "2026-11-11T11:09:35.927977+00:00"
+    },
+    "rss-72b4397871537d44e938": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+      "sourceTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "contentHash": "453cb93afe5edadddb7d57c91b2439db25f7dbe5978a88224f5327849b35650e",
+      "fetchedAt": "2026-11-11T17:05:32.252440+00:00"
+    },
+    "rss-3d65ccc2f5cdce6978b3": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "sourceTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "contentHash": "e664cdce683de91419a36505d57886d62f5bde6fbb4de4f73934e338dc13e2b1",
+      "fetchedAt": "2026-11-11T17:05:32.254294+00:00"
     },
     "rss-69d4d9d74efa01629a6c": {
       "status": "unavailable",

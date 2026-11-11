@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-3d65ccc2f5cdce6978b3",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "sourceTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "status": "ready",
+  "attemptedAt": "2026-11-11T17:05:29.659917+00:00",
+  "fetchedAt": "2026-11-11T17:05:32.254294+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "language": "en",
+  "originalTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "author": "Roman Nurik",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Whether you’re planning a family trip, running a rec league or hosting a potluck, coordinating as a group is easier when everyone can pitch in, build and decide together in one place.",
+      "id": "p1",
+      "zh": "无论你是否打算做家庭旅行,管理一个娱乐联赛 或主持一个potluck,当每个人都可以投球的时候,作为一个团体的协调就更容易了,在一个地方一起建造和决定。",
+      "en": "Whether you’re planning a family trip, running a rec league or hosting a potluck, coordinating as a group is easier when everyone can pitch in, build and decide together in one place."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today, we’re introducing Tabletop, a new Google Labs experiment built for real-time collaboration.",
+      "id": "p2",
+      "zh": "今天,我们...我们介绍Tabletop,为实时协作而新建的Google实验室实验.",
+      "en": "Today, we’re introducing Tabletop, a new Google Labs experiment built for real-time collaboration."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Just add in your links, files, and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters, and tournament brackets. Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time, like in a Google Doc.",
+      "id": "p3",
+      "zh": "只要在你的链接中添加,文档,和想法,然后提示@ tabletop—— 或选择启动模板—— 生成自定义交互行程行程,晚餐民意测验,开销者,和联赛的括号。一旦你的空间准备好了,在您的分组聊天中放弃邀请链接, 让每个人同时跳入并使用,就像在谷歌医生。",
+      "en": "Just add in your links, files, and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters, and tournament brackets. Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time, like in a Google Doc."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Tabletop is rolling out in the U.S. (18+) via waitlist. Pull up a chair and sign up at labs.google/tabletop.",
+      "id": "p4",
+      "zh": "Tabletop在美国推出.(18+)通过等待名单.拉起椅子,在实验室注册,Google/表上。",
+      "en": "Tabletop is rolling out in the U.S. (18+) via waitlist. Pull up a chair and sign up at labs.google/tabletop."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "无论你是否打算做家庭旅行,管理一个娱乐联赛 或主持一个potluck,当每个人都可以投球的时候,作为一个团体的协调就更容易了,在一个地方一起建造和决定。",
+      "en": "Whether you’re planning a family trip, running a rec league or hosting a potluck, coordinating as a group is easier when everyone can pitch in, build and decide together in one place."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "今天,我们...我们介绍Tabletop,为实时协作而新建的Google实验室实验.",
+      "en": "Today, we’re introducing Tabletop, a new Google Labs experiment built for real-time collaboration."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "只要在你的链接中添加,文档,和想法,然后提示@ tabletop—— 或选择启动模板—— 生成自定义交互行程行程,晚餐民意测验,开销者,和联赛的括号。一旦你的空间准备好了,在您的分组聊天中放弃邀请链接, 让每个人同时跳入并使用,就像在谷歌医生。",
+      "en": "Just add in your links, files, and ideas, then prompt @tabletop — or pick a starter template — to generate custom interactive trip itineraries, dinner polls, expense splitters, and tournament brackets. Once your space is ready, drop the invite link in your group chat to let everyone jump in and use it at the same time, like in a Google Doc."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "Tabletop在美国推出.(18+)通过等待名单.拉起椅子,在实验室注册,Google/表上。",
+      "en": "Tabletop is rolling out in the U.S. (18+) via waitlist. Pull up a chair and sign up at labs.google/tabletop."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "e664cdce683de91419a36505d57886d62f5bde6fbb4de4f73934e338dc13e2b1"
+}

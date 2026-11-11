@@ -33,6 +33,40 @@
       "sourceId": "google"
     },
     {
+      "id": "rss-72b4397871537d44e938",
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+      "date": "2026-11-11",
+      "categories": [
+        "人才标准",
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-3d65ccc2f5cdce6978b3",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "date": "2026-11-11",
+      "categories": [
+        "组织文化"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "sourceId": "google"
+    },
+    {
       "id": "rss-69d4d9d74efa01629a6c",
       "title": "Closing the AI guidance gap in education",
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
@@ -1997,35 +2031,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-11T11:09:32.873814+00:00",
-      "lastSuccess": "2026-11-11T11:09:32.973734+00:00",
+      "attemptedAt": "2026-11-11T17:05:27.591876+00:00",
+      "lastSuccess": "2026-11-11T17:05:27.799926+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-11T11:09:32.874366+00:00",
-      "lastSuccess": "2026-11-11T11:09:33.126509+00:00",
-      "count": 15
+      "attemptedAt": "2026-11-11T17:05:27.592660+00:00",
+      "lastSuccess": "2026-11-11T17:05:27.859803+00:00",
+      "count": 13
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-11T11:09:32.874683+00:00",
-      "lastSuccess": "2026-11-11T11:09:32.985437+00:00",
+      "attemptedAt": "2026-11-11T17:05:27.593189+00:00",
+      "lastSuccess": "2026-11-11T17:05:27.762072+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-11T11:09:32.874966+00:00",
-      "lastSuccess": "2026-11-11T11:09:34.121119+00:00",
+      "attemptedAt": "2026-11-11T17:05:27.593837+00:00",
+      "lastSuccess": "2026-11-11T17:05:28.890107+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-11T11:09:34.122060+00:00",
-  "nextRefresh": "2026-11-11T16:17:00+00:00",
+  "lastRefresh": "2026-11-11T17:05:28.891457+00:00",
+  "nextRefresh": "2026-11-11T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "4107fab1c405074ae0164a09222e85b835b784ebc0587716a73cf5fa594f8611"
+  "bilingualRevision": "c1ece435af6549383739a52a45dadf9d5a267ec7f692b01cdb82188602175a1f"
 }

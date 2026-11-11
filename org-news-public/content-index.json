@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T05:10:26.585058+00:00",
+  "updatedAt": "2026-11-11T11:09:36.867113+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -71,6 +71,13 @@
       "sourceTitle": "Gilbert + Tobin rethinks the business of law with AI",
       "contentHash": "f97c09e23479ef29cc1bc7735efba27d3cff3d537aa0b5025cac09aa097eb60a",
       "fetchedAt": "2026-11-11T05:10:22.032395+00:00"
+    },
+    "rss-e09fad6dcc25f1ba697c": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "sourceTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "contentHash": "2eeef39c35cbe3c2aa03b144c5df5318038b37034c0fe80363c8382aa7117814",
+      "fetchedAt": "2026-11-11T11:09:35.927977+00:00"
     },
     "rss-69d4d9d74efa01629a6c": {
       "status": "unavailable",
@@ -145,6 +152,18 @@
       "sourceTitle": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
       "contentHash": "730e8cc2f09fe72ffb028f51f362147cb4caccfb9e482cb6a2bf809e9c65208d",
       "fetchedAt": "2026-11-10T22:53:01.570104+00:00"
+    },
+    "rss-9092d5eb66f29547408d": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "sourceTitle": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "error": "http_403"
+    },
+    "rss-37e4452e64c861cffe83": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/cogent-security",
+      "sourceTitle": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "error": "http_403"
     },
     "rss-f116c1896a2161e2c2d9": {
       "status": "ready",

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-9092d5eb66f29547408d",
+  "url": "https://openai.com/index/singapore-airlines-travel-work",
+  "sourceTitle": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-11T11:09:34.698669+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-12T11:09:34.737626+00:00"
+}

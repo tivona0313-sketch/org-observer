@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-11T05:10:20.410669+00:00",
-  "revision": "3d61de46ac0fae4e004faa2a3cd00f5456deedaafe9bc33297bfd679189d5fc6",
+  "generatedAt": "2026-11-11T11:09:34.663408+00:00",
+  "revision": "4107fab1c405074ae0164a09222e85b835b784ebc0587716a73cf5fa594f8611",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -420,6 +420,26 @@
         "source": "OpenAI News"
       }
     },
+    "rss-e09fad6dcc25f1ba697c": {
+      "original": {
+        "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+        "sourceTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "体验博士的艺术和遗产埃丝特·马兰古",
+        "summary": "Esther Mahlangu生活与艺术的新在线档案现已上载Google Arts & Culture。",
+        "sourceTitle": "体验博士的艺术和遗产埃丝特·马兰古",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+        "sourceTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "source": "Google The Keyword"
+      }
+    },
     "rss-69d4d9d74efa01629a6c": {
       "original": {
         "title": "Closing the AI guidance gap in education",
@@ -638,6 +658,46 @@
         "summary": "Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.",
         "sourceTitle": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
         "source": "Google The Keyword"
+      }
+    },
+    "rss-9092d5eb66f29547408d": {
+      "original": {
+        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+        "sourceTitle": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "新加坡航空公司利用OpenAI技术提升旅行和工作水平",
+        "summary": "发现新加坡航空如何使用OpenAI模型和API来加强客户支持,,.旅行发现,和雇员的生产力,克里斯聊天台的CSAT翻一番",
+        "sourceTitle": "新加坡航空公司利用OpenAI技术提升旅行和工作水平",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+        "sourceTitle": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-37e4452e64c861cffe83": {
+      "original": {
+        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "sourceTitle": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Cogent和OpenAI为企业建造网络防御工厂",
+        "summary": "Cogent将OpenAI模型与企业上下文相结合,以帮助与代理商自动弥补脆弱性.",
+        "sourceTitle": "Cogent和OpenAI为企业建造网络防御工厂",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+        "sourceTitle": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "source": "OpenAI News"
       }
     },
     "rss-f116c1896a2161e2c2d9": {

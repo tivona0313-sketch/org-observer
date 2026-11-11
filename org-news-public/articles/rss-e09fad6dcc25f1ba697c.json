@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-e09fad6dcc25f1ba697c",
+  "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+  "sourceTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
+  "status": "ready",
+  "attemptedAt": "2026-11-11T11:09:34.696550+00:00",
+  "fetchedAt": "2026-11-11T11:09:35.927977+00:00",
+  "finalURL": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+  "language": "en",
+  "originalTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
+  "author": "Dr Nontobeko Ntombela",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today we’re sharing the first online retrospective of artist Dr. Esther Mahlangu on Google Arts & Culture, honoring her pioneering spirit on her 91st birthday. More than 45 stories and a rich archive covering her art, life, and legacy are now accessible to a global audience.",
+      "id": "p1",
+      "zh": "今天我们分享艺术家Dr的首次在线回顾。Esther Mahlangu关于谷歌艺术与文化,纪念她91岁生日的开拓精神.超过45个故事和丰富的档案 涵盖了她的艺术,活着,遗产现在可供全球观众使用。",
+      "en": "Today we’re sharing the first online retrospective of artist Dr. Esther Mahlangu on Google Arts & Culture, honoring her pioneering spirit on her 91st birthday. More than 45 stories and a rich archive covering her art, life, and legacy are now accessible to a global audience."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For many years, I have worked closely with Esther and her family. It’s a relationship built on years of research and a deep admiration for her as both an artist and a person. It was out of this long-standing connection that the vision for “‘Then I Knew I Was Good at Painting’: Esther Mahlangu, a Retrospective,” was born.",
+      "id": "p2",
+      "zh": "多年来,我与埃丝特和她的家人密切合作。这段关系建立在多年的研究之上, 并深深敬佩她既是一个艺术家,“后来我知道我擅长绘画”的构想正是出于这一长期联系:埃丝特·马兰古a 回顾,”诞生。",
+      "en": "For many years, I have worked closely with Esther and her family. It’s a relationship built on years of research and a deep admiration for her as both an artist and a person. It was out of this long-standing connection that the vision for “‘Then I Knew I Was Good at Painting’: Esther Mahlangu, a Retrospective,” was born."
+    },
+    {
+      "kind": "paragraph",
+      "text": "My goal has always been to present a comprehensive exploration of her life and work, contributing to my long-standing research on South African women artists who have made an impact on the arts since the early 20th century.",
+      "id": "p3",
+      "zh": "我的目标一直是全面探索她的生活和工作,协助我长期研究自20世纪初以来对艺术产生影响的南非女艺术家。",
+      "en": "My goal has always been to present a comprehensive exploration of her life and work, contributing to my long-standing research on South African women artists who have made an impact on the arts since the early 20th century."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Through my research, I gathered a rich collection of her work, including large-scale murals, intimate pieces, and rare archival materials. But the archives didn’t include anything from her life before 1980, so crucial pieces of her history were missing. This void challenged us to find new ways to tell her full story.",
+      "id": "p4",
+      "zh": "通过我的研究,我收集了大量她的作品包括大型壁画,亲密的片段,和稀有的档案材料。但档案里没有她1980年以前的生活记录如此关键的部分 她的历史不见了。这个空虚要求我们寻找新的方法来讲述她的全部故事.",
+      "en": "Through my research, I gathered a rich collection of her work, including large-scale murals, intimate pieces, and rare archival materials. But the archives didn’t include anything from her life before 1980, so crucial pieces of her history were missing. This void challenged us to find new ways to tell her full story."
+    },
+    {
+      "kind": "paragraph",
+      "text": "A collaboration session with Esther Mahlangu, Nontobeko Ntombela, and the Google team.",
+      "id": "p5",
+      "zh": "与埃丝特·马赫兰古的合作会议,诺托贝科·恩托贝拉和谷歌团队。",
+      "en": "A collaboration session with Esther Mahlangu, Nontobeko Ntombela, and the Google team."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In collaboration with Google Arts & Culture, we used AI to visually recreate Esther’s undocumented memories. The process brought us closer to her work and prompted further recollections from Esther herself.",
+      "id": "p6",
+      "zh": "与谷歌艺术与文化合作,我们用AI来视觉上重现Esther的无证记忆。这一过程使我们更接近于她的工作,并促使埃丝特本人进一步回忆起来。",
+      "en": "In collaboration with Google Arts & Culture, we used AI to visually recreate Esther’s undocumented memories. The process brought us closer to her work and prompted further recollections from Esther herself."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This project brought our curatorial and archival work together with the technical expertise of Google DeepMind and Google Arts & Culture Lab, alongside research and design studio Domestic Data Streamers’ synthetic memories initiative. Through a series of workshops and interviews, we were able to document a missing period of Mam' Esther's history, from when she started painting at age 10 until her first documented works in 1980. These stories — such as the moment she discovered her talent for painting as a 10-year-old using feathers instead of a brush — became the source material for our work. Following the methodology from the synthetic memories initiative and using archival material, the team generated still images based on Esther’s memories. They then used Veo to turn the images into videos that brought Esther's early days to life.",
+      "id": "p7",
+      "zh": "这个项目将我们的馆藏和档案工作与Google DeepMind和Google艺术和文化实验室的技术专长结合起来,与研究与设计工作室 家庭数据流者的合成记忆倡议。通过一系列讲习班和访谈,我们记录了Mam Esther的一段历史从她10岁开始画画,直到1980年她首次有文献记载的作品.这些故事——比如她发现自己有10岁时使用羽毛而不是刷子画画的天赋的那一刻——成为我们作品的源材料.采用合成记忆倡议采用的方法,并使用档案材料,团队根据Esther的记忆生成静态图像。他们随后利用Veo将图像转化为视频,让Esther的早期复活.",
+      "en": "This project brought our curatorial and archival work together with the technical expertise of Google DeepMind and Google Arts & Culture Lab, alongside research and design studio Domestic Data Streamers’ synthetic memories initiative. Through a series of workshops and interviews, we were able to document a missing period of Mam' Esther's history, from when she started painting at age 10 until her first documented works in 1980. These stories — such as the moment she discovered her talent for painting as a 10-year-old using feathers instead of a brush — became the source material for our work. Following the methodology from the synthetic memories initiative and using archival material, the team generated still images based on Esther’s memories. They then used Veo to turn the images into videos that brought Esther's early days to life."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The stories also contribute to the online archive of Esther’s life on Google Arts & Culture. More than 45 exhibitions, curated in collaboration with Art of Contemporary Africa, Iziko Museums of South Africa, the British Museum, the Jean Pigozzi Collection, the National Museum of Women in the Arts, and Serpentine, tell the story of how she came to be known in the world, through her artwork, archives, Street View, and more.",
+      "id": "p8",
+      "zh": "这些故事也为Esther在Google Arts & Culture上的人生在线档案提供了内容.超过45个展览与当代非洲艺术合作,南非伊齐科博物馆,大英博物馆,让·皮戈齐收藏,国家妇女艺术博物馆,和蛇腹鱼,说出她如何在世界上出名的故事,通过她的艺术品,档案,街景区,还有更多",
+      "en": "The stories also contribute to the online archive of Esther’s life on Google Arts & Culture. More than 45 exhibitions, curated in collaboration with Art of Contemporary Africa, Iziko Museums of South Africa, the British Museum, the Jean Pigozzi Collection, the National Museum of Women in the Arts, and Serpentine, tell the story of how she came to be known in the world, through her artwork, archives, Street View, and more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Portrait of Esther Mahlangu taken at Botshabelo, c. 1980-1991; Art of Contemporary Africa | Source",
+      "id": "p9",
+      "zh": "在博茨哈贝洛拍摄的以斯帖·马赫兰古的肖像,c. 调用下列设备:1980-1991年;《当代非洲艺术》",
+      "en": "Portrait of Esther Mahlangu taken at Botshabelo, c. 1980-1991; Art of Contemporary Africa | Source"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Esther Mahlangu: Untitled, 2014; Art of Contemporary Africa | Source",
+      "id": "p10",
+      "zh": "埃丝特·马兰古:无标题,2014年; (中文(简体) ).《当代非洲艺术》",
+      "en": "Esther Mahlangu: Untitled, 2014; Art of Contemporary Africa | Source"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Esther Mahlangu Art Studio at the Esther Mahlangu Homestead, 2025; Art of Contemporary Africa | Source",
+      "id": "p11",
+      "zh": "埃斯特马兰古艺术工作室 在埃斯特马兰古家园,2025年; (中文(简体) ).《当代非洲艺术》",
+      "en": "The Esther Mahlangu Art Studio at the Esther Mahlangu Homestead, 2025; Art of Contemporary Africa | Source"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Installation of the Esther Mahlangu retrospective at Iziko South African National Gallery, 2024; Art of Contemporary Africa | Source",
+      "id": "p12",
+      "zh": "在Iziko南非国家美术馆设立Esther Mahlangu回顾展,2024年; (中文(简体) ).《当代非洲艺术》",
+      "en": "Installation of the Esther Mahlangu retrospective at Iziko South African National Gallery, 2024; Art of Contemporary Africa | Source"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Esther Mahlangu: Ndebele Abstract, 2019; Art of Contemporary Africa, courtesy of the Larry Warsh Collection | Source",
+      "id": "p13",
+      "zh": "埃丝特·马兰古:Ndebele摘要,2019年; (中文(简体) ).当代非洲艺术,依据创用CC授权使用",
+      "en": "Esther Mahlangu: Ndebele Abstract, 2019; Art of Contemporary Africa, courtesy of the Larry Warsh Collection | Source"
+    },
+    {
+      "kind": "paragraph",
+      "text": "This project demonstrates a new way to approach the preservation of cultural heritage, with technology that’s guided at every step by a respect for personal memory and historical accuracy.",
+      "id": "p14",
+      "zh": "该项目展示了保护文化遗产的新方法,以尊重个人记忆和历史准确性为指导。",
+      "en": "This project demonstrates a new way to approach the preservation of cultural heritage, with technology that’s guided at every step by a respect for personal memory and historical accuracy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "It is my hope that this retrospective cements Esther’s place as a pivotal voice in global contemporary art, invites audiences to reimagine the possibilities of her archive, and ensures her story and her artistic vision can inspire generations to come.",
+      "id": "p15",
+      "zh": "我希望这次回顾巩固了Esther在全球当代艺术中作为关键声音的地位,请观众重新想象她档案的可能性,并确保她的故事 和她的艺术远见 能够激励后代。",
+      "en": "It is my hope that this retrospective cements Esther’s place as a pivotal voice in global contemporary art, invites audiences to reimagine the possibilities of her archive, and ensures her story and her artistic vision can inspire generations to come."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Explore the exhibition at goo.gle/esther-mahlangu.",
+      "id": "p16",
+      "zh": "探索在goo.gle/esther-mahlangu的展览.",
+      "en": "Explore the exhibition at goo.gle/esther-mahlangu."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天我们分享艺术家Dr的首次在线回顾。Esther Mahlangu关于谷歌艺术与文化,纪念她91岁生日的开拓精神.超过45个故事和丰富的档案 涵盖了她的艺术,活着,遗产现在可供全球观众使用。",
+      "en": "Today we’re sharing the first online retrospective of artist Dr. Esther Mahlangu on Google Arts & Culture, honoring her pioneering spirit on her 91st birthday."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "我的目标一直是全面探索她的生活和工作,协助我长期研究自20世纪初以来对艺术产生影响的南非女艺术家。",
+      "en": "My goal has always been to present a comprehensive exploration of her life and work, contributing to my long-standing research on South African women artists who have made an impact on the arts since the early 20th century."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "通过我的研究,我收集了大量她的作品包括大型壁画,亲密的片段,和稀有的档案材料。但档案里没有她1980年以前的生活记录如此关键的部分 她的历史不见了。",
+      "en": "Through my research, I gathered a rich collection of her work, including large-scale murals, intimate pieces, and rare archival materials. But the archives didn’t include anything from her life before 1980, so crucial pieces of her history were missing."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "这个项目将我们的馆藏和档案工作与Google DeepMind和Google艺术和文化实验室的技术专长结合起来,与研究与设计工作室 家庭数据流者的合成记忆倡议。通过一系列讲习班和访谈,我们记录了Mam Esther的一段历史从她10岁开始画画,直到1980年她首次有文献记载的作品.这些故事——比如她发现自己有10岁时使用羽毛而不是刷子画画的天赋的那一刻——成为我们作品的源材料.采用合成记忆倡议采用的方法,并使用档案材料,团队根据Esther的记忆生成静态图像。",
+      "en": "This project brought our curatorial and archival work together with the technical expertise of Google DeepMind and Google Arts & Culture Lab, alongside research and design studio Domestic Data Streamers’ synthetic memories initiative. Through a series of workshops and interviews, we were able to document a missing period of Mam' Esther's history, from when she started painting at age 10 until her first documented works in 1980."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "2eeef39c35cbe3c2aa03b144c5df5318038b37034c0fe80363c8382aa7117814"
+}

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-11T23:00:16.007356+00:00",
-  "revision": "4b6c2aab666836b076521cf2fee66075ca7dff35bcbf8ed11a44a97701613a2a",
+  "generatedAt": "2026-11-12T11:15:26.886376+00:00",
+  "revision": "30796cf4a453e3644a5cdf74d94d3d19f4a448fc851140558b7752a42d896bd5",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -417,6 +417,26 @@
         "title": "Gilbert + Tobin rethinks the business of law with AI",
         "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
         "sourceTitle": "Gilbert + Tobin rethinks the business of law with AI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-d7c1da8cb7dc41da688b": {
+      "original": {
+        "title": "Supporting research on AI and children’s safety",
+        "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+        "sourceTitle": "Supporting research on AI and children’s safety",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "支持关于人工智能和儿童安全的研究",
+        "summary": "OpenAI承诺200万美元用于AI和儿童安全的研究.这项工作支持采用共同的工具来衡量青年人面临的风险和机会。",
+        "sourceTitle": "支持关于人工智能和儿童安全的研究",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Supporting research on AI and children’s safety",
+        "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+        "sourceTitle": "Supporting research on AI and children’s safety",
         "source": "OpenAI News"
       }
     },

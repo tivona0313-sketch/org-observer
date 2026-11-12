@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T05:11:15.680853+00:00",
+  "updatedAt": "2026-11-12T11:15:27.093520+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -71,6 +71,12 @@
       "sourceTitle": "Gilbert + Tobin rethinks the business of law with AI",
       "contentHash": "f97c09e23479ef29cc1bc7735efba27d3cff3d537aa0b5025cac09aa097eb60a",
       "fetchedAt": "2026-11-11T05:10:22.032395+00:00"
+    },
+    "rss-d7c1da8cb7dc41da688b": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/children-first-declaration",
+      "sourceTitle": "Supporting research on AI and children’s safety",
+      "error": "http_403"
     },
     "rss-e09fad6dcc25f1ba697c": {
       "status": "ready",

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-7ed04b33e97e89aa07c0",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+  "sourceTitle": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+  "status": "ready",
+  "attemptedAt": "2026-11-12T22:56:28.630779+00:00",
+  "fetchedAt": "2026-11-12T22:56:32.244729+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+  "language": "en",
+  "originalTitle": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Starting today, developers can build with Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows. Built for rapid iteration, Hydrogen handles repository coding and debugging, interactive web development, and multimodal workflows — running standalone across four configurable thinking levels or alongside frontier models like Gemini 4 Carbon and Gemini 4 Argon. With tighter instruction following and fewer fabricated claims, it helps you ship cleaner, production-ready code faster.",
+      "id": "p1",
+      "zh": "从今天开始,开发者可以用Gemini 4 氢来构建,将尖端智能带给每个人——以速度和效率为日常编码和代理工作流程.是用来进行快速迭代的,氢处理存储器编码和调试,互动网络开发,和多模式工作流程——单独运行在四个可配置的思维层次上,或与Gemini4碳和Gemini4Argon等前沿模型并列.紧随其后的指示 和更少的捏造索赔,它帮助你船清洁,生产准备代码更快。",
+      "en": "Starting today, developers can build with Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows. Built for rapid iteration, Hydrogen handles repository coding and debugging, interactive web development, and multimodal workflows — running standalone across four configurable thinking levels or alongside frontier models like Gemini 4 Carbon and Gemini 4 Argon. With tighter instruction following and fewer fabricated claims, it helps you ship cleaner, production-ready code faster."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Start building with the Gemini API in Google AI Studio and Android Studio, Gemini for business, or, if you are a paid Google AI Pro or Ultra subscriber, try it in Google Antigravity.",
+      "id": "p2",
+      "zh": "在Google AI Studio和Android Studio中与GeminiAPI一起开始建设,Gemini为生意,或者说,如果你是Google AI Pro 或 Ultra 订阅者,尝试在谷歌反重力。",
+      "en": "Start building with the Gemini API in Google AI Studio and Android Studio, Gemini for business, or, if you are a paid Google AI Pro or Ultra subscriber, try it in Google Antigravity."
+    },
+    {
+      "kind": "list",
+      "text": "Check out the Gemini API What’s New Guide for model details, setup instructions, and thinking-level controls.",
+      "id": "p3",
+      "zh": "看看GeminiAPI 什么是新指南的模型细节,设置指令,和思维层面的控制。",
+      "en": "Check out the Gemini API What’s New Guide for model details, setup instructions, and thinking-level controls."
+    },
+    {
+      "kind": "list",
+      "text": "Read the Google Antigravity blog to see how new features like Orchestrator pair Hydrogen with Gemini 4 Carbon.",
+      "id": "p4",
+      "zh": "阅读Google Antigravity博客,看看Orchestrator等新功能如何将氢与Gemini4碳配对.",
+      "en": "Read the Google Antigravity blog to see how new features like Orchestrator pair Hydrogen with Gemini 4 Carbon."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "从今天开始,开发者可以用Gemini 4 氢来构建,将尖端智能带给每个人——以速度和效率为日常编码和代理工作流程.是用来进行快速迭代的,氢处理存储器编码和调试,互动网络开发,和多模式工作流程——单独运行在四个可配置的思维层次上,或与Gemini4碳和Gemini4Argon等前沿模型并列.紧随其后的指示 和更少的捏造索赔,它帮助你船清洁,生产准备代码更快。",
+      "en": "Starting today, developers can build with Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows. Built for rapid iteration, Hydrogen handles repository coding and debugging, interactive web development, and multimodal workflows — running standalone across four configurable thinking levels or alongside frontier models like Gemini 4 Carbon and Gemini 4 Argon."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "在Google AI Studio和Android Studio中与GeminiAPI一起开始建设,Gemini为生意,或者说,如果你是Google AI Pro 或 Ultra 订阅者,尝试在谷歌反重力。",
+      "en": "Start building with the Gemini API in Google AI Studio and Android Studio, Gemini for business, or, if you are a paid Google AI Pro or Ultra subscriber, try it in Google Antigravity."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "看看GeminiAPI 什么是新指南的模型细节,设置指令,和思维层面的控制。",
+      "en": "Check out the Gemini API What’s New Guide for model details, setup instructions, and thinking-level controls."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "阅读Google Antigravity博客,看看Orchestrator等新功能如何将氢与Gemini4碳配对.",
+      "en": "Read the Google Antigravity blog to see how new features like Orchestrator pair Hydrogen with Gemini 4 Carbon."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "a91e5e3b66107d9ad06115e4636e5127f13d30c226abed24c2c772954ee63db8"
+}

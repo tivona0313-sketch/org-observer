@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-12T17:13:48.554512+00:00",
-  "revision": "32e89ea76c2d43c7b0ab08111f8b920714dab242276642bfb0dab0dfd524b47b",
+  "generatedAt": "2026-11-12T22:56:28.586152+00:00",
+  "revision": "da5584c47a9c95727271b47c3c6c7c043858e2a398667edaef5695562a990058",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -518,6 +518,86 @@
         "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
         "sourceTitle": "Get quick answers from Gemini on any website.",
         "source": "Google The Keyword"
+      }
+    },
+    "rss-d6d23163b98ddfa1ea7a": {
+      "original": {
+        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+        "sourceTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Google Search 与Gemini4氢进行重大升级",
+        "summary": "我们把Gemini4氢带到Google搜索全球 为您提供更多帮助,视觉上,和直觉的反应。",
+        "sourceTitle": "Google Search 与Gemini4氢进行重大升级",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+        "sourceTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-7ed04b33e97e89aa07c0": {
+      "original": {
+        "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+        "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+        "sourceTitle": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Gemini4 氢:开发者的日常编码和代理工作流程",
+        "summary": "用Gemini四氢加速建构,Google的成本效益高的代理编码和调试新模式.今天在Google AI工作室开始建设.",
+        "sourceTitle": "Gemini4 氢:开发者的日常编码和代理工作流程",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+        "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+        "sourceTitle": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-d7c21c501eb23f12ba47": {
+      "original": {
+        "title": "Introducing Gemini 4 Hydrogen",
+        "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+        "sourceTitle": "Introducing Gemini 4 Hydrogen",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "引入Gemini 4 氢",
+        "summary": "今天,我们...我们引进了Gemini四氢代理工作流程的日常驱动程序",
+        "sourceTitle": "引入Gemini 4 氢",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Introducing Gemini 4 Hydrogen",
+        "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+        "sourceTitle": "Introducing Gemini 4 Hydrogen",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-a491aa90d650ab2bf91e": {
+      "original": {
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "sourceTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "在OpenAI公司1至2天内,海拔船舶如何改进产品",
+        "summary": "主要建造于OpenAI模型上,振幅的主动产品代理商挥起手来确定要建造什么,帮助团队船用编码代理更改,并衡量影响。",
+        "sourceTitle": "在OpenAI公司1至2天内,海拔船舶如何改进产品",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "sourceTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "source": "OpenAI News"
       }
     },
     "rss-e09fad6dcc25f1ba697c": {

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-d6d23163b98ddfa1ea7a",
+  "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "sourceTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "status": "ready",
+  "attemptedAt": "2026-11-12T22:56:28.630005+00:00",
+  "fetchedAt": "2026-11-12T22:56:31.700679+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "language": "en",
+  "originalTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "author": "Robby Stein",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet.",
+      "id": "p1",
+      "zh": "今天,我们...Google Search正在给Gemini4氢的每个人带来尖端的情报.这是Search最大的模型升级,现在。",
+      "en": "Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:",
+      "id": "p2",
+      "zh": "氢气现在可在Google搜索中在全球范围内供所有用户使用,给更多的帮助,视觉上,和具有改进模型能力的直观反应:",
+      "en": "Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:"
+    },
+    {
+      "kind": "list",
+      "text": "Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question.",
+      "id": "p3",
+      "zh": "更好地理解意图:搜索现在可以处理更细微和复杂的问题快速理解你需要的东西。只是问问你的自然思想流—— 包括多部分的问题,难以理解的字典,或非常具体的请求。有了更深入的指令 和工具呼叫,搜索更精确地跟踪你想要的,并给出针对你每个问题部分的相关回应.",
+      "en": "Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question."
+    },
+    {
+      "kind": "list",
+      "text": "Improved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered.",
+      "id": "p4",
+      "zh": "改进了查询风扇和链接:氢的高级推理 超量充电我们的查询风扇技术 在搜索,将您连接到比以前范围更广的有用链接。通过更透彻地了解你的问题,并同时对所有相关分专题进行查询,搜索帮助您找到您先前可能没有发现的站点 。",
+      "en": "Improved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered."
+    },
+    {
+      "kind": "list",
+      "text": "More visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you.",
+      "id": "p5",
+      "zh": "更多视觉反应 :你变得适应性很强视觉上,和与你的需求特别相关的易扫描反应——以搜索的速度.你会看到更多画面,结构化对策,比较表,以及为你打造的自定义工具。",
+      "en": "More visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you."
+    },
+    {
+      "kind": "list",
+      "text": "Richer language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages.",
+      "id": "p6",
+      "zh": "较丰富的语言理解:不管你问什么语言,您现在将会在支持的AI Mode语言中获得更加细致而有益的回应。",
+      "en": "Richer language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Try out Gemini 4 Hydrogen in Search today.",
+      "id": "p7",
+      "zh": "今天在搜索中试出Gemini4氢.",
+      "en": "Try out Gemini 4 Hydrogen in Search today."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...Google Search正在给Gemini4氢的每个人带来尖端的情报.这是Search最大的模型升级,现在。",
+      "en": "Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "氢气现在可在Google搜索中在全球范围内供所有用户使用,给更多的帮助,视觉上,和具有改进模型能力的直观反应:",
+      "en": "Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:"
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "更好地理解意图:搜索现在可以处理更细微和复杂的问题快速理解你需要的东西。只是问问你的自然思想流—— 包括多部分的问题,难以理解的字典,或非常具体的请求。",
+      "en": "Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "改进了查询风扇和链接:氢的高级推理 超量充电我们的查询风扇技术 在搜索,将您连接到比以前范围更广的有用链接。通过更透彻地了解你的问题,并同时对所有相关分专题进行查询,搜索帮助您找到您先前可能没有发现的站点 。",
+      "en": "Improved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "795e7d1b4694c193d82e0e1dca40d811cab7b3737b0a16f44ca27b56178d3879"
+}

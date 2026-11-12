@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T17:14:02.068979+00:00",
+  "updatedAt": "2026-11-12T22:56:41.460932+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -104,6 +104,33 @@
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
       "sourceTitle": "Get quick answers from Gemini on any website.",
       "error": "insufficient_body"
+    },
+    "rss-d6d23163b98ddfa1ea7a": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "sourceTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "contentHash": "795e7d1b4694c193d82e0e1dca40d811cab7b3737b0a16f44ca27b56178d3879",
+      "fetchedAt": "2026-11-12T22:56:31.700679+00:00"
+    },
+    "rss-7ed04b33e97e89aa07c0": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "sourceTitle": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "contentHash": "a91e5e3b66107d9ad06115e4636e5127f13d30c226abed24c2c772954ee63db8",
+      "fetchedAt": "2026-11-12T22:56:32.244729+00:00"
+    },
+    "rss-d7c21c501eb23f12ba47": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "sourceTitle": "Introducing Gemini 4 Hydrogen",
+      "contentHash": "9286f18162020b98e5f763a252e2fb41927cc3aa625939279c5dcf4e7e2e3d32",
+      "fetchedAt": "2026-11-12T22:56:32.437772+00:00"
+    },
+    "rss-a491aa90d650ab2bf91e": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/amplitude",
+      "sourceTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "error": "http_403"
     },
     "rss-e09fad6dcc25f1ba697c": {
       "status": "ready",

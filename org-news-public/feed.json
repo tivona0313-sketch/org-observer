@@ -97,6 +97,72 @@
       "sourceId": "google"
     },
     {
+      "id": "rss-d6d23163b98ddfa1ea7a",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "date": "2026-11-12",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-7ed04b33e97e89aa07c0",
+      "title": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "summary": "Build faster with Gemini 4 Hydrogen, Google’s new model for cost-efficient agentic coding and debugging. Start building in Google AI Studio today.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "date": "2026-11-12",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-d7c21c501eb23f12ba47",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Today, we’re introducing Gemini 4 Hydrogen, our daily driver for agentic workflows",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "date": "2026-11-12",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Introducing Gemini 4 Hydrogen",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-a491aa90d650ab2bf91e",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/amplitude",
+      "date": "2026-11-12",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-e09fad6dcc25f1ba697c",
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
@@ -2159,35 +2225,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-12T17:13:45.922780+00:00",
-      "lastSuccess": "2026-11-12T17:13:46.125220+00:00",
+      "attemptedAt": "2026-11-12T22:56:26.283548+00:00",
+      "lastSuccess": "2026-11-12T22:56:26.397772+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-12T17:13:45.923606+00:00",
-      "lastSuccess": "2026-11-12T17:13:46.164826+00:00",
-      "count": 9
+      "attemptedAt": "2026-11-12T22:56:26.284445+00:00",
+      "lastSuccess": "2026-11-12T22:56:26.617864+00:00",
+      "count": 11
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-12T17:13:45.924314+00:00",
-      "lastSuccess": "2026-11-12T17:13:46.077638+00:00",
+      "attemptedAt": "2026-11-12T22:56:26.285006+00:00",
+      "lastSuccess": "2026-11-12T22:56:26.385759+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-12T17:13:45.924942+00:00",
-      "lastSuccess": "2026-11-12T17:13:47.085155+00:00",
+      "attemptedAt": "2026-11-12T22:56:26.285702+00:00",
+      "lastSuccess": "2026-11-12T22:56:27.448084+00:00",
       "count": 5
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-12T17:13:47.086578+00:00",
-  "nextRefresh": "2026-11-12T22:17:00+00:00",
+  "lastRefresh": "2026-11-12T22:56:27.449547+00:00",
+  "nextRefresh": "2026-11-13T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "32e89ea76c2d43c7b0ab08111f8b920714dab242276642bfb0dab0dfd524b47b"
+  "bilingualRevision": "da5584c47a9c95727271b47c3c6c7c043858e2a398667edaef5695562a990058"
 }

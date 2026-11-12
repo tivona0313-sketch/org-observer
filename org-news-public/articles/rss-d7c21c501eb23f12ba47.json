@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-d7c21c501eb23f12ba47",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "sourceTitle": "Introducing Gemini 4 Hydrogen",
+  "status": "ready",
+  "attemptedAt": "2026-11-12T22:56:28.631200+00:00",
+  "fetchedAt": "2026-11-12T22:56:32.437772+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+  "language": "en",
+  "originalTitle": "Introducing Gemini 4 Hydrogen",
+  "author": "Koray Kavukcuoglu",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, we’re introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows.",
+      "id": "p1",
+      "zh": "今天,我们...我们引进了Gemini四氢将尖端智能带给每个人——以速度和效率为日常编码和代理工作流程.",
+      "en": "Today, we’re introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows."
+    },
+    {
+      "kind": "paragraph",
+      "text": "While our frontier models, Gemini 4 Carbon and Gemini 4 Argon, excel at deep, long-horizon reasoning on your hardest problems, Hydrogen is built for rapid execution across diverse agentic workflows. With Hydrogen, we’re also bringing Gemini 4 to everyone — for all tiers of Google AI Studio, the Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro and Ultra subscribers in Google Antigravity.",
+      "id": "p2",
+      "zh": "当我们的前沿模型,Gemini4 碳和Gemini4 Argon,在深处表现优异,对于你最难的问题, 长期合理的推理,氢气是用于跨各种代理工作流程的快速执行.与氢气,我们也会给每个人带来Gemini4号——对于谷歌AI Studio的所有级别,GeminiAPI,Gemini为生意,Gemini应用程序,谷歌搜索系统,并支付Google AI Pro和Ultra在Google Antigravity的订阅者.",
+      "en": "While our frontier models, Gemini 4 Carbon and Gemini 4 Argon, excel at deep, long-horizon reasoning on your hardest problems, Hydrogen is built for rapid execution across diverse agentic workflows. With Hydrogen, we’re also bringing Gemini 4 to everyone — for all tiers of Google AI Studio, the Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro and Ultra subscribers in Google Antigravity."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hydrogen surpasses Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50, and reaching 54 at its highest xhigh thinking setting), while often completing tasks faster than models in its class. Gemini 4 Hydrogen is priced flat across its entire 1 million-token context window at $1.50 per million input tokens and $7.50 per million output tokens.",
+      "id": "p3",
+      "zh": "氢在人工分析智能指数上在默认的高思维水平上超过了Argon(51 vs.五十块,五十块并达到其最高的思维环境,而完成的任务往往比班级的模型要快。Gemini4氢在其100万个上下文窗口的平价为每百万个输入令牌1.50美元和每百万个输出令牌7.50美元。",
+      "en": "Hydrogen surpasses Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50, and reaching 54 at its highest xhigh thinking setting), while often completing tasks faster than models in its class. Gemini 4 Hydrogen is priced flat across its entire 1 million-token context window at $1.50 per million input tokens and $7.50 per million output tokens."
+    },
+    {
+      "kind": "heading",
+      "text": "Unlocking efficiencies in multi-model workloads",
+      "id": "p4",
+      "zh": "解锁多模式工作量的效率",
+      "en": "Unlocking efficiencies in multi-model workloads"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In real-world software development, while teams rely on frontier models like Carbon and Argon for deep architectural judgment when designing systems or untangling subtle bugs, they still need a fast, disciplined execution model for writing code, running tests, and verifying changes. Hydrogen is built to stand on its own as a model for everyday work — or to pair with Carbon and Argon as the high-efficiency execution engine in multi-model workflows.",
+      "id": "p5",
+      "zh": "在现实世界软件开发中,而团队在设计系统或解开细微的缺陷时,则依靠\"碳\"和\"阿尔贡\"等前沿模型来进行深刻的建筑判断,他们还需要一个快餐写代码的纪律性执行模式,运行测试,并核实变化。氢气的建造是为了作为日常工作的模型而独立站立——或者与Carbon和Argon配对,作为多模型工作流程中的高效执行引擎.",
+      "en": "In real-world software development, while teams rely on frontier models like Carbon and Argon for deep architectural judgment when designing systems or untangling subtle bugs, they still need a fast, disciplined execution model for writing code, running tests, and verifying changes. Hydrogen is built to stand on its own as a model for everyday work — or to pair with Carbon and Argon as the high-efficiency execution engine in multi-model workflows."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To help make this multi-model collaboration automatic, we’re introducing Orchestrator in Google Antigravity. Rather than using a single model from start to finish, Orchestrator dynamically switches between models like Carbon and Hydrogen within the same session. On Terminal-Bench 4.0, Orchestrator reached near-Carbon task success rates while, on average, consuming 24% less quota and completing 19% faster. For workflows that require parallel agents, Carbon can act as the coordinator while Hydrogen can power worker and verifier agents to build and test changes simultaneously across isolated workspaces — helping teams ship complex projects faster without driving up token costs.",
+      "id": "p6",
+      "zh": "为了让这种多模式的合作自动化,在谷歌反引力方面,而不是用一个单一的模型 从开始到完成,在同一会话中, Orchestrator在碳和氢等模型之间动态切换.在Bench 4.0号航站楼手术机达到了接近Carbon任务的成功率,同时,平均来说,消费减少24%的配额,完成19%的速度更快。对于需要并行代理的工作流程,碳可以发挥协调者的作用,而氢能则可以为工人和核查人员提供动力,以在孤立的工作空间中同时构建和测试变化——帮助团队进行船舶运输。较快的复杂项目,不增加象征性费用。",
+      "en": "To help make this multi-model collaboration automatic, we’re introducing Orchestrator in Google Antigravity. Rather than using a single model from start to finish, Orchestrator dynamically switches between models like Carbon and Hydrogen within the same session. On Terminal-Bench 4.0, Orchestrator reached near-Carbon task success rates while, on average, consuming 24% less quota and completing 19% faster. For workflows that require parallel agents, Carbon can act as the coordinator while Hydrogen can power worker and verifier agents to build and test changes simultaneously across isolated workspaces — helping teams ship complex projects faster without driving up token costs."
+    },
+    {
+      "kind": "heading",
+      "text": "Scaling developer and enterprise workflows",
+      "id": "p7",
+      "zh": "扩大开发者和企业工作流程",
+      "en": "Scaling developer and enterprise workflows"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Beyond multi-model workflows, Hydrogen is a major standalone upgrade for teams migrating from Gemini 3.8 Flash. It delivers significant leaps in both speed and intelligence — finishing tasks 2.5 times faster at its high default setting while more than tripling Terminal-Bench 4.1 scores (57% vs. 18.2%), cutting fabricated claims by more than 5x, and adapting cleanly when a tool call fails or a search returns empty. It also matches or outperforms competing models in its class across core developer and enterprise workflows:",
+      "id": "p8",
+      "zh": "除了多模式的工作流程之外,对从Gemini 3.8 Flash 迁移过来的队伍来说,氢是一个重要的独立升级.它在速度和智能两方面都带来显著的飞跃——在高缺省设置时完成任务的速度快了2.5倍,而终端-奔驰4.1分(57%)与《公约》第2条的关系(18.2%);将捏造的索赔减少5x以上,,当工具调用失败或搜索返回为空时,可进行干净的调整。它在核心开发商和企业工作流程的类别中也匹配或超越了竞争模式:",
+      "en": "Beyond multi-model workflows, Hydrogen is a major standalone upgrade for teams migrating from Gemini 3.8 Flash. It delivers significant leaps in both speed and intelligence — finishing tasks 2.5 times faster at its high default setting while more than tripling Terminal-Bench 4.1 scores (57% vs. 18.2%), cutting fabricated claims by more than 5x, and adapting cleanly when a tool call fails or a search returns empty. It also matches or outperforms competing models in its class across core developer and enterprise workflows:"
+    },
+    {
+      "kind": "list",
+      "text": "Iterative repository coding and debugging: Hydrogen handles issue resolution, debugging, rapid iteration, and codebase Q&A with focused, surgical edits — delivering cleaner, production-ready code without rewriting unrelated files. It outperforms similar-tier models on SWE-sweep where it has to discover and repair bugs without breaking existing code. To explore large repositories efficiently, the model excels at natively batching file-read and search calls in parallel rather than inspecting files one by one; in early testing across complex graphs, SQL, and data-heavy enterprise workflows, our partners have seen Hydrogen run 2x to 2.8x faster while reducing token usage by 12% to 23%, compared to 3.8 Flash.",
+      "id": "p9",
+      "zh": "惯性寄存器编码和调试 :氢处理 问题解决,调试,迅速的迭起,和有焦点的代码库QQA,手术编辑——提供清洁剂,生产准备的代码,而不重写无关的文件。它在SWE-sweep上的表现超过了类似的一级模型,它必须在不突破已存在的代码的情况下发现并修复bug.为了有效地探索大型储存库,模型在本地分批文件阅读和搜索通话时优异,而不是逐一检查文件;在早期测试 跨越复杂的图表,SQL, (英语).和数据繁重的企业工作流程,我们的合作伙伴已经看到氢能运行 2x到2.8x更快 同时将象征性使用减少12%到23%,相对3.8 Flash。",
+      "en": "Iterative repository coding and debugging: Hydrogen handles issue resolution, debugging, rapid iteration, and codebase Q&A with focused, surgical edits — delivering cleaner, production-ready code without rewriting unrelated files. It outperforms similar-tier models on SWE-sweep where it has to discover and repair bugs without breaking existing code. To explore large repositories efficiently, the model excels at natively batching file-read and search calls in parallel rather than inspecting files one by one; in early testing across complex graphs, SQL, and data-heavy enterprise workflows, our partners have seen Hydrogen run 2x to 2.8x faster while reducing token usage by 12% to 23%, compared to 3.8 Flash."
+    },
+    {
+      "kind": "list",
+      "text": "Open-ended agentic execution: On multi-step tasks like deep research, data analysis, and broad codebase navigation, Hydrogen ranks #5 on Agent Arena, arena.ai’s live benchmark. For deep domain reasoning and analysis, it leads its class on HLE-Diamond (58.8%), ranks #1 overall on Vals Tax Agent Bench (52.3%), ties for #1 on the Vals Legal Research Bench (55.8%), and leads its class on AutomationBench-AA.",
+      "id": "p10",
+      "zh": "无限期代理执行:在像深层研究这样的多步骤任务上,数据分析,和宽码基导航,氢气在阿雷纳代理公司排名第5位竞技场.ai的活基准.对于深领域推理和分析,它领导着HLE-Diamond的班级(58.8%),在瓦尔斯税务局中排名第1位(52.3%),Vals法律研究组第1号联系人(55.8%);并领导本克-AA自动化的班级。",
+      "en": "Open-ended agentic execution: On multi-step tasks like deep research, data analysis, and broad codebase navigation, Hydrogen ranks #5 on Agent Arena, arena.ai’s live benchmark. For deep domain reasoning and analysis, it leads its class on HLE-Diamond (58.8%), ranks #1 overall on Vals Tax Agent Bench (52.3%), ties for #1 on the Vals Legal Research Bench (55.8%), and leads its class on AutomationBench-AA."
+    },
+    {
+      "kind": "list",
+      "text": "Multimodal knowledge work: Hydrogen pairs native 1 million-token input with up to 1 million output tokens to synthesize dense PDFs, spreadsheets, charts, audio, and recorded video into polished, cited reports and structured deliverables. It outperforms other models on the new Multimodal Knowledge Agent (MKA) benchmark (53.4%) for end-to-end agentic knowledge work over complex visual files, and on Agents’ Last Exam v1.1 (71.6%) for end-to-end professional workflows.",
+      "id": "p11",
+      "zh": "多式联运知识工作:有100万个输出符 来合成稠密的PDF电子表格,图表,音频,并录入被粉饰的相片,引述了报告和结构化交付品。它在新的多式联运知识代理(MKA)基准(53.4%)上超越了复杂视觉文件的端到端代理知识工作的其他模型,和代理的最后考试v1.1(71.6%) 用于端到端的专业工作流程。",
+      "en": "Multimodal knowledge work: Hydrogen pairs native 1 million-token input with up to 1 million output tokens to synthesize dense PDFs, spreadsheets, charts, audio, and recorded video into polished, cited reports and structured deliverables. It outperforms other models on the new Multimodal Knowledge Agent (MKA) benchmark (53.4%) for end-to-end agentic knowledge work over complex visual files, and on Agents’ Last Exam v1.1 (71.6%) for end-to-end professional workflows."
+    },
+    {
+      "kind": "list",
+      "text": "Web development: On tasks where speed matters to developers, like live UI prototyping, design-to-code iteration, and interactive app building, Hydrogen generates more functional, feature-complete layouts in fewer prompts.",
+      "id": "p12",
+      "zh": "网络开发:关于速度对开发者很重要的任务,像活的UI原型,设计到编码的迭代,和交互式应用程序建设,氢能产生更多的功能,特性- 在更少的提示中完成布局。",
+      "en": "Web development: On tasks where speed matters to developers, like live UI prototyping, design-to-code iteration, and interactive app building, Hydrogen generates more functional, feature-complete layouts in fewer prompts."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Using Hydrogen for on-the-fly 3D coding, Geminisland lets anyone add to a shared voxel island from a single prompt to generate custom structures live on the map that players can walk around and explore in first person. Try the live app.",
+      "id": "p13",
+      "zh": "使用氢来进行飞行3D编码,Gemin Islands让任何人从一个单一的提示中加入一个共享的voxel岛,以生成定制结构活在地图上,玩家可以走来走去并第一人称探索.试试现场应用吧",
+      "en": "Using Hydrogen for on-the-fly 3D coding, Geminisland lets anyone add to a shared voxel island from a single prompt to generate custom structures live on the map that players can walk around and explore in first person. Try the live app."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Paired with our new Gemini front end design skill in Google Antigravity, Hydrogen built an e-commerce storefront in one shot complete with a WebGL2 topographic shader, pinned four-stage scrollytelling, a thermal split-slider, a 3D wireframe spec card, and a live finish configurator. Try the live app and the Gemini front end design skill.",
+      "id": "p14",
+      "zh": "我们的新Gemini前端设计技巧 在谷歌反重力,Hydrogen在一次拍摄中建立了一个电子商务商店, 并配有WebGL2地形遮蔽器,被钉住的四相卷轴,热分流器,3D线框光谱卡,和一个现场的完成配置者。试用活应用程序和Gemini前端设计技能.",
+      "en": "Paired with our new Gemini front end design skill in Google Antigravity, Hydrogen built an e-commerce storefront in one shot complete with a WebGL2 topographic shader, pinned four-stage scrollytelling, a thermal split-slider, a 3D wireframe spec card, and a live finish configurator. Try the live app and the Gemini front end design skill."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In Google Antigravity, Hydrogen turned Google Sheets into an animated pixel canvas by shrinking thousands of cells combining Python, native =LET(...) formulas, and conditional formatting to paint and animate full-motion scenes directly inside a live spreadsheet.",
+      "id": "p15",
+      "zh": "在谷歌反重力,氢能将Google Sheets转化为动画像素画布, 将数千个结合了Python的细胞缩小,本地 = LET(...) 公式,并附带条件地格式化,直接在活式电子表格中绘制并激活全动场景。",
+      "en": "In Google Antigravity, Hydrogen turned Google Sheets into an animated pixel canvas by shrinking thousands of cells combining Python, native =LET(...) formulas, and conditional formatting to paint and animate full-motion scenes directly inside a live spreadsheet."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Starting from a YouTube keynote video and a design template in Google Antigravity, Hydrogen generated a multi-slide presentation directly in Google Slides, then ran an autonomous audit-and-fix loop to catch overlapping text and clean up every slide layout.",
+      "id": "p16",
+      "zh": "从YouTube主题视频和Google Antigravity的设计模板开始氢直接在Google幻灯片中生成了多滑坡演示文稿,然后运行一个自动的审计和固定循环,以捕捉重叠的文本并清理每张幻灯片的布局.",
+      "en": "Starting from a YouTube keynote video and a design template in Google Antigravity, Hydrogen generated a multi-slide presentation directly in Google Slides, then ran an autonomous audit-and-fix loop to catch overlapping text and clean up every slide layout."
+    },
+    {
+      "kind": "paragraph",
+      "text": "With Gemini in Google Sheets, Hydrogen can help teams rapidly turn financial data into interactive models that dynamically adjust based on various forecasting scenarios, generating outputs over 30% faster than previous models in Sheets canvas.",
+      "id": "p17",
+      "zh": "Gemini出现在Google工作表中氢能可以帮助团队迅速将财务数据转换成交互式模型,这些模型根据各种预测情景进行动态调整,生成比工作表帆布中以前的模型快30%以上的输出。",
+      "en": "With Gemini in Google Sheets, Hydrogen can help teams rapidly turn financial data into interactive models that dynamically adjust based on various forecasting scenarios, generating outputs over 30% faster than previous models in Sheets canvas."
+    },
+    {
+      "kind": "heading",
+      "text": "Adaptable speed and intelligence across four thinking levels",
+      "id": "p18",
+      "zh": "四个思维层面的可适应速度和智能",
+      "en": "Adaptable speed and intelligence across four thinking levels"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We built Gemini 4 Hydrogen for real-world usability. Hydrogen’s four thinking levels — low, medium, high (default), and a new xhigh tier — offer a wide range of options across quality, latency, and cost, scaling in a smooth, predictable progression so you only wait and pay for the reasoning depth a task requires. Across thinking levels, Hydrogen matches or outperforms some of the competing models in its class while often finishing tasks faster and using fewer output tokens.",
+      "id": "p19",
+      "zh": "我们建造了Gemini四氢 用于现实世界的可用性。氢气的四个思维水平——低,中层,高度( 默认) ,和一个新的x高等级——提供各种质量选择,暂时的,和成本,以平滑的方式显示,可以预测的进展,所以您只能等待并支付任务需要的推理深度。整个思维层面,氢能匹配或表现优于其类中一些相竞的模型,同时往往更快地完成任务并使用较少的输出符.",
+      "en": "We built Gemini 4 Hydrogen for real-world usability. Hydrogen’s four thinking levels — low, medium, high (default), and a new xhigh tier — offer a wide range of options across quality, latency, and cost, scaling in a smooth, predictable progression so you only wait and pay for the reasoning depth a task requires. Across thinking levels, Hydrogen matches or outperforms some of the competing models in its class while often finishing tasks faster and using fewer output tokens."
+    },
+    {
+      "kind": "heading",
+      "text": "Fast, everyday help in the Gemini app and Search",
+      "id": "p20",
+      "zh": "快点双子应用程序和搜索中的日常帮助",
+      "en": "Fast, everyday help in the Gemini app and Search"
+    },
+    {
+      "kind": "paragraph",
+      "text": "For consumers, Gemini 4 Hydrogen makes it easier to get things done, staying on track and following instructions more closely across multi-turn conversations.",
+      "id": "p21",
+      "zh": "对于消费者来说,Gemini4氢使事情更容易完成,保持正轨,在多回合对话中更密切地遵守指示。",
+      "en": "For consumers, Gemini 4 Hydrogen makes it easier to get things done, staying on track and following instructions more closely across multi-turn conversations."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In the Gemini app, Hydrogen makes your everyday assistant even more helpful — it’s better at following your guidance, calling the right tools, and getting you to a reliable output with less back-and-forth.",
+      "id": "p22",
+      "zh": "在Gemini应用中,氢能让你的日常助手更加有帮助,呼唤正确的工具,让你得到一个可靠的输出 与更少的回转和forth。",
+      "en": "In the Gemini app, Hydrogen makes your everyday assistant even more helpful — it’s better at following your guidance, calling the right tools, and getting you to a reliable output with less back-and-forth."
+    },
+    {
+      "kind": "list",
+      "text": "Ready-to-go writing, research, and everyday work: Hydrogen sticks closely to your tone, format, and specific rules, so email drafts, study guides, rewrites, and documents come back ready to use on the first try. When you are comparing products or synthesizing dense material, it pulls together clear tables and visual breakdowns without dropping key details.",
+      "id": "p23",
+      "zh": "准备写作,研究,和日常工作:氢气与你的语气紧密相接格式,则和具体规则,因此,电子邮件草稿,学习指南,重写,和文档回来 准备在第一次尝试中使用。当你比较产品或合成密集材料时,它把清晰的表格和视觉的分解组合在一起,而不放弃密钥细节.",
+      "en": "Ready-to-go writing, research, and everyday work: Hydrogen sticks closely to your tone, format, and specific rules, so email drafts, study guides, rewrites, and documents come back ready to use on the first try. When you are comparing products or synthesizing dense material, it pulls together clear tables and visual breakdowns without dropping key details."
+    },
+    {
+      "kind": "list",
+      "text": "Connects the dots and gets more tasks done: Hydrogen breaks down your goal step-by-step, pulling relevant context from your uploads, Google apps like Gmail and Google Drive, and Connected Apps like Airtable and Dropbox. When you start a task in Gemini, it also more frequently calls the right tools and skills for the job, helping save you time as you check things off your to-do list.",
+      "id": "p24",
+      "zh": "连接点并完成更多任务 :氢气逐渐打破你的目标,从您的上传中取出相关的上下文,Google应用程序如Gmail和Google Drive,并连接 Apps 如 Airtable 和 Dropbox 。当你开始在Gemini的任务,它还更经常地称合适的工具和技能为工作,帮助您节省时间, 以检查您的待办事宜列表中的事项 。",
+      "en": "Connects the dots and gets more tasks done: Hydrogen breaks down your goal step-by-step, pulling relevant context from your uploads, Google apps like Gmail and Google Drive, and Connected Apps like Airtable and Dropbox. When you start a task in Gemini, it also more frequently calls the right tools and skills for the job, helping save you time as you check things off your to-do list."
+    },
+    {
+      "kind": "list",
+      "text": "Everyday prototyping and iteration: For exploring and testing ideas, Hydrogen generates clean, working layouts in fewer prompts, making it easy to prototype and refine interactive projects quickly, like synthesizing real-time global lightning strike data into an interactive 3D globe.",
+      "id": "p25",
+      "zh": "每日原型和迭代:对于探索和测试想法,氢能生成干净的,在更少的提示中工作布局,方便快速地建立和完善互动项目,就像将实时全球闪电打击数据合成一个交互式3D地球.",
+      "en": "Everyday prototyping and iteration: For exploring and testing ideas, Hydrogen generates clean, working layouts in fewer prompts, making it easy to prototype and refine interactive projects quickly, like synthesizing real-time global lightning strike data into an interactive 3D globe."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe and Web Audio music engine driven by real-time lightning strikes and mapped every bolt around the world into visual ripples and live ambient music.",
+      "id": "p26",
+      "zh": "快速从想法转向工作原型,Hydrogen在实时闪电的驱动下,建造了交互式3D Global和Web音频音乐引擎,并将世界各地的螺栓都映射成视觉波纹和活环境音乐。",
+      "en": "Moving fast from idea to working prototype, Hydrogen built an interactive 3D globe and Web Audio music engine driven by real-time lightning strikes and mapped every bolt around the world into visual ripples and live ambient music."
+    },
+    {
+      "kind": "paragraph",
+      "text": "When tasked to create a WebGL2 water and glass visualizer, Hydrogen built it from pure math and SDF textures — simulating real-time light refraction, reflection, dispersion, and absorption.",
+      "id": "p27",
+      "zh": "当任务创建WebGL2水和玻璃可视化器时,氢从纯数学和SDF纹理——模拟实时光折射,反思,散开,和吸收。",
+      "en": "When tasked to create a WebGL2 water and glass visualizer, Hydrogen built it from pure math and SDF textures — simulating real-time light refraction, reflection, dispersion, and absorption."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Using a custom skill for video assembly and adhering to a creative brief, Gemini 4 Hydrogen created an archival sizzle reel about the element ‘Hydrogen’, sourcing public-domain footage and cutting it into one continuous edit with clean narration.",
+      "id": "p28",
+      "zh": "使用自定义的视频装配技术 并坚持创作简报,Gemini4氢制造出关于 \" Hydrogen \" 元素的档案片,获取公共领域片段,并将其剪切成一个连续编辑,并进行干净的叙述.",
+      "en": "Using a custom skill for video assembly and adhering to a creative brief, Gemini 4 Hydrogen created an archival sizzle reel about the element ‘Hydrogen’, sourcing public-domain footage and cutting it into one continuous edit with clean narration."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Hydrogen is significantly upgrading Search, delivering more helpful, intuitive responses for all users globally.",
+      "id": "p29",
+      "zh": "氢在大幅升级 搜索,给更多的帮助,全球所有用户的直观反应。",
+      "en": "Hydrogen is significantly upgrading Search, delivering more helpful, intuitive responses for all users globally."
+    },
+    {
+      "kind": "list",
+      "text": "Better understands your true intent: With Hydrogen, you can ask your question in your natural flow of thought — even if you have multiple parts to your query, hard-to-understand typos, or highly specific requests — and Search will intelligently comprehend what you’re looking for.",
+      "id": "p30",
+      "zh": "更好地理解你的真实意图:与氢气,你可以在自然的思想流中提出你的问题——即使你有多个部分可以询问,难以理解的字典,或非常具体的要求, 搜索将明智地理解你要找的东西。",
+      "en": "Better understands your true intent: With Hydrogen, you can ask your question in your natural flow of thought — even if you have multiple parts to your query, hard-to-understand typos, or highly specific requests — and Search will intelligently comprehend what you’re looking for."
+    },
+    {
+      "kind": "list",
+      "text": "More visual responses: You’ll get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs, at the speed you expect from Search.",
+      "id": "p31",
+      "zh": "更多视觉反应 :你会变得适应性很强,视觉上,和与你的需求特别相关的易扫描反应,以您期望的搜索速度。",
+      "en": "More visual responses: You’ll get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs, at the speed you expect from Search."
+    },
+    {
+      "kind": "list",
+      "text": "Wider range of relevant links: With Hydrogen’s advanced reasoning, we’re also upgrading our query fan-out technique in Search, connecting you to a broader range of helpful links than before, helping you find sites you previously might not have discovered.",
+      "id": "p32",
+      "zh": "更广泛的相关链接:以氢气的高级推理,我们还在提升搜索中的问号迷出窍技术,将你连接到比以前范围更广的有用链接上,帮助您找到您之前可能还没有发现的站点 。",
+      "en": "Wider range of relevant links: With Hydrogen’s advanced reasoning, we’re also upgrading our query fan-out technique in Search, connecting you to a broader range of helpful links than before, helping you find sites you previously might not have discovered."
+    },
+    {
+      "kind": "heading",
+      "text": "Designed for safe, dependable execution at scale",
+      "id": "p33",
+      "zh": "设计为安全,在规模上可靠执行",
+      "en": "Designed for safe, dependable execution at scale"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gemini 4 Hydrogen brings improvements from our latest Gemini 4 safety and security stack to our broadest audience yet, combining built-in training with real-time surface safeguards to help mitigate both misalignment and misuse. Beyond foundational protections, we focused on two areas that matter most for a faster model that’s for everyday work:",
+      "id": "p34",
+      "zh": "Gemini4 氢气从我们最新的Gemini4 安全和安保堆 带给我们最广泛的受众将内在培训与实时地表保障相结合,以有助于减轻错配和误用。除了基本保护之外,我们专注于两个领域,对于一个更快的日常工作模式来说,这两个领域最为重要:",
+      "en": "Gemini 4 Hydrogen brings improvements from our latest Gemini 4 safety and security stack to our broadest audience yet, combining built-in training with real-time surface safeguards to help mitigate both misalignment and misuse. Beyond foundational protections, we focused on two areas that matter most for a faster model that’s for everyday work:"
+    },
+    {
+      "kind": "list",
+      "text": "Safe, aligned, and secure agentic workflows: While 3.8 Flash has strong alignment and safeguards, Hydrogen is a leap ahead. It reduces overreach in agentic tasks by up to 81% and under-service by up to 79%, and cuts misaligned actions and task shortcutting across tool-use and coding evaluations by 12x. When faced with impossible or blocked tasks, it is up to 2x less likely to bypass permission boundaries and achieves a 96.7% honesty rate on our internal agent honesty evaluation. Building on our commitment to reasoning transparency, Hydrogen also preserves 99.9% chain-of-thought legibility with zero deceptive reasoning edits across more than 200,000 audited turns. Against indirect prompt injection attacks, Hydrogen is more than 2.3x more resilient on the Gray Swan IPI benchmark, while significantly improving robustness across tool use, computer use, and coding agents.",
+      "id": "p35",
+      "zh": "平安无事对齐,和安全的代理工作流程:3.8 Flash有很强的配合和保障措施,氢是前进的一跃.它将超时代理任务减少81%,服务不足减少79%,并减少错配的行动,并缩短12x对工具使用和编码评价的任务。当面临无法完成或无法完成的任务时,绕过许可界限的可能性要小于2x 并且通过内部代理诚实评价达到96.7%的诚实率.根据我们对推理透明度的承诺,氢还保留99.9%的思维链可分辨性,在超过20万个经审计的转折中进行零欺骗推理编辑.防止间接的即时注射攻击,在Gray Swan IPI基准上,氢具有超过2.3x的弹性,显著地改进了各种工具的使用力,计算机使用,和编码代理。",
+      "en": "Safe, aligned, and secure agentic workflows: While 3.8 Flash has strong alignment and safeguards, Hydrogen is a leap ahead. It reduces overreach in agentic tasks by up to 81% and under-service by up to 79%, and cuts misaligned actions and task shortcutting across tool-use and coding evaluations by 12x. When faced with impossible or blocked tasks, it is up to 2x less likely to bypass permission boundaries and achieves a 96.7% honesty rate on our internal agent honesty evaluation. Building on our commitment to reasoning transparency, Hydrogen also preserves 99.9% chain-of-thought legibility with zero deceptive reasoning edits across more than 200,000 audited turns. Against indirect prompt injection attacks, Hydrogen is more than 2.3x more resilient on the Gray Swan IPI benchmark, while significantly improving robustness across tool use, computer use, and coding agents."
+    },
+    {
+      "kind": "list",
+      "text": "Helpful, reliable everyday interactions: Across our product surfaces, we tuned Hydrogen to make everyday conversations more reliable and safe. Our updated safeguards are also much more precise at distinguishing between real biosecurity risks and legitimate medical or scientific questions — keeping false refusals on HealthBench Pro under 0.4%.",
+      "id": "p36",
+      "zh": "有帮助的,可靠的日常互动:在我们的产品表面,我们调制了氢气,使日常的对话更加可靠和安全。我们更新的保障措施在区分实际生物安保风险和正当的医学或科学问题方面也更加准确得多——不实拒绝。(原始内容存档于2019-09-29) (英语). Health Bench Pro under 0.4%).",
+      "en": "Helpful, reliable everyday interactions: Across our product surfaces, we tuned Hydrogen to make everyday conversations more reliable and safe. Our updated safeguards are also much more precise at distinguishing between real biosecurity risks and legitimate medical or scientific questions — keeping false refusals on HealthBench Pro under 0.4%."
+    },
+    {
+      "kind": "paragraph",
+      "text": "For more details see the Gemini 4 Hydrogen model card.",
+      "id": "p37",
+      "zh": "详见Gemini4氢模型卡.",
+      "en": "For more details see the Gemini 4 Hydrogen model card."
+    },
+    {
+      "kind": "heading",
+      "text": "Gemini 4 Hydrogen, available to everyone today",
+      "id": "p38",
+      "zh": "Gemini4氢,今天每个人都可以",
+      "en": "Gemini 4 Hydrogen, available to everyone today"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Starting today, Hydrogen is rolling out globally across our developer, enterprise, and consumer surfaces:",
+      "id": "p39",
+      "zh": "从今天开始,氢气在我们的开发商中向全球扩散,企业,和消费者表面:",
+      "en": "Starting today, Hydrogen is rolling out globally across our developer, enterprise, and consumer surfaces:"
+    },
+    {
+      "kind": "list",
+      "text": "For developers: Build with the Gemini API in AI Studio and Android Studio, try it in AI Studio and if you’re a paid Google AI Pro or Ultra subscriber, you can try it in Google Antigravity.",
+      "id": "p40",
+      "zh": "对于开发者:与GeminiAPI在AI Studio和Android Studio相建,如果你是Google AI Pro或Ultra订阅者,你可以在Google Antigravity上试试",
+      "en": "For developers: Build with the Gemini API in AI Studio and Android Studio, try it in AI Studio and if you’re a paid Google AI Pro or Ultra subscriber, you can try it in Google Antigravity."
+    },
+    {
+      "kind": "list",
+      "text": "For enterprises: Deploy it in Gemini for business via the API or model drop down, Google Antigravity, and in Gemini in Google Sheets for eligible business subscriptions.",
+      "id": "p41",
+      "zh": "对于企业:在Gemini通过API或模型下降进行交易,谷歌反重力,在Google Sheets的Gemini中,用于符合资格的商业订阅.",
+      "en": "For enterprises: Deploy it in Gemini for business via the API or model drop down, Google Antigravity, and in Gemini in Google Sheets for eligible business subscriptions."
+    },
+    {
+      "kind": "list",
+      "text": "For everyone: Start using it in the Gemini app model drop down 1 and in Google Search for all users, and in Gemini in Google Sheets starting with Google AI Pro and Ultra subscribers.",
+      "id": "p42",
+      "zh": "对大家来说:开始在双子星应用模型中使用它 下降1,在Google搜索中所有用户,以及Google Sheets的Gemini,",
+      "en": "For everyone: Start using it in the Gemini app model drop down 1 and in Google Search for all users, and in Gemini in Google Sheets starting with Google AI Pro and Ultra subscribers."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...我们引进了Gemini四氢将尖端智能带给每个人——以速度和效率为日常编码和代理工作流程.",
+      "en": "Today, we’re introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "当我们的前沿模型,Gemini4 碳和Gemini4 Argon,在深处表现优异,对于你最难的问题, 长期合理的推理,氢气是用于跨各种代理工作流程的快速执行.与氢气,我们也会给每个人带来Gemini4号——对于谷歌AI Studio的所有级别,GeminiAPI,Gemini为生意,Gemini应用程序,谷歌搜索系统,并支付Google AI Pro和Ultra在Google Antigravity的订阅者.",
+      "en": "While our frontier models, Gemini 4 Carbon and Gemini 4 Argon, excel at deep, long-horizon reasoning on your hardest problems, Hydrogen is built for rapid execution across diverse agentic workflows. With Hydrogen, we’re also bringing Gemini 4 to everyone — for all tiers of Google AI Studio, the Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro and Ultra subscribers in Google Antigravity."
+    },
+    {
+      "paragraphId": "p24",
+      "zh": "连接点并完成更多任务 :氢气逐渐打破你的目标,从您的上传中取出相关的上下文,Google应用程序如Gmail和Google Drive,并连接 Apps 如 Airtable 和 Dropbox 。当你开始在Gemini的任务,它还更经常地称合适的工具和技能为工作,帮助您节省时间, 以检查您的待办事宜列表中的事项 。",
+      "en": "Connects the dots and gets more tasks done: Hydrogen breaks down your goal step-by-step, pulling relevant context from your uploads, Google apps like Gmail and Google Drive, and Connected Apps like Airtable and Dropbox. When you start a task in Gemini, it also more frequently calls the right tools and skills for the job, helping save you time as you check things off your to-do list."
+    },
+    {
+      "paragraphId": "p34",
+      "zh": "Gemini4 氢气从我们最新的Gemini4 安全和安保堆 带给我们最广泛的受众将内在培训与实时地表保障相结合,以有助于减轻错配和误用。除了基本保护之外,我们专注于两个领域,对于一个更快的日常工作模式来说,这两个领域最为重要:",
+      "en": "Gemini 4 Hydrogen brings improvements from our latest Gemini 4 safety and security stack to our broadest audience yet, combining built-in training with real-time surface safeguards to help mitigate both misalignment and misuse. Beyond foundational protections, we focused on two areas that matter most for a faster model that’s for everyday work:"
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "9286f18162020b98e5f763a252e2fb41927cc3aa625939279c5dcf4e7e2e3d32"
+}

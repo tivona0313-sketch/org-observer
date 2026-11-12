@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T11:15:27.093520+00:00",
+  "updatedAt": "2026-11-12T17:14:02.068979+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -77,6 +77,33 @@
       "url": "https://openai.com/index/children-first-declaration",
       "sourceTitle": "Supporting research on AI and children’s safety",
       "error": "http_403"
+    },
+    "rss-29da70c6592fc36fa6ae": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "sourceTitle": "From AI ambition to business impact",
+      "contentHash": "919b1816ccd6e1bcdf1e6d9a70a477291ee880df1d36e5556f07eb11923086af",
+      "fetchedAt": "2026-11-12T17:13:50.693157+00:00"
+    },
+    "rss-981658b8b9c1f2605940": {
+      "status": "ready",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+      "sourceTitle": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "contentHash": "f75d2c0bfc81f9b12ec322ff44eedcac7bf82953b177e1d9a33341182ac96353",
+      "fetchedAt": "2026-11-12T17:13:50.580620+00:00"
+    },
+    "rss-de0b78c54f8e7111e736": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "sourceTitle": "Scientists are using Google AI to help restore giant kelp forests.",
+      "contentHash": "4f374fdacc06af5d745ac1a4107f37e5fae466e1a339590f2990251d7a8c5e96",
+      "fetchedAt": "2026-11-12T17:13:52.115966+00:00"
+    },
+    "rss-948927f31dd46df37176": {
+      "status": "unavailable",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+      "sourceTitle": "Get quick answers from Gemini on any website.",
+      "error": "insufficient_body"
     },
     "rss-e09fad6dcc25f1ba697c": {
       "status": "ready",

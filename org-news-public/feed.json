@@ -33,6 +33,70 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-29da70c6592fc36fa6ae",
+      "title": "From AI ambition to business impact",
+      "summary": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier... The post From AI ambition to business impact app…",
+      "company": "Microsoft",
+      "source": "Microsoft 官方博客",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "date": "2026-11-12",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "From AI ambition to business impact",
+      "sourceId": "microsoft"
+    },
+    {
+      "id": "rss-981658b8b9c1f2605940",
+      "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "summary": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value witho…",
+      "company": "Microsoft",
+      "source": "Microsoft 官方博客",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+      "date": "2026-11-12",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "sourceId": "microsoft"
+    },
+    {
+      "id": "rss-de0b78c54f8e7111e736",
+      "title": "Scientists are using Google AI to help restore giant kelp forests.",
+      "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+      "date": "2026-11-12",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Scientists are using Google AI to help restore giant kelp forests.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-948927f31dd46df37176",
+      "title": "Get quick answers from Gemini on any website.",
+      "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+      "date": "2026-11-12",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Get quick answers from Gemini on any website.",
+      "sourceId": "google"
+    },
+    {
       "id": "rss-e09fad6dcc25f1ba697c",
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
@@ -2095,35 +2159,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-12T11:15:25.482366+00:00",
-      "lastSuccess": "2026-11-12T11:15:25.818755+00:00",
+      "attemptedAt": "2026-11-12T17:13:45.922780+00:00",
+      "lastSuccess": "2026-11-12T17:13:46.125220+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-12T11:15:25.482884+00:00",
-      "lastSuccess": "2026-11-12T11:15:25.684476+00:00",
-      "count": 13
+      "attemptedAt": "2026-11-12T17:13:45.923606+00:00",
+      "lastSuccess": "2026-11-12T17:13:46.164826+00:00",
+      "count": 9
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-12T11:15:25.483182+00:00",
-      "lastSuccess": "2026-11-12T11:15:25.645671+00:00",
+      "attemptedAt": "2026-11-12T17:13:45.924314+00:00",
+      "lastSuccess": "2026-11-12T17:13:46.077638+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-12T11:15:25.483529+00:00",
-      "lastSuccess": "2026-11-12T11:15:26.664293+00:00",
-      "count": 6
+      "attemptedAt": "2026-11-12T17:13:45.924942+00:00",
+      "lastSuccess": "2026-11-12T17:13:47.085155+00:00",
+      "count": 5
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-12T11:15:26.665128+00:00",
-  "nextRefresh": "2026-11-12T16:17:00+00:00",
+  "lastRefresh": "2026-11-12T17:13:47.086578+00:00",
+  "nextRefresh": "2026-11-12T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "30796cf4a453e3644a5cdf74d94d3d19f4a448fc851140558b7752a42d896bd5"
+  "bilingualRevision": "32e89ea76c2d43c7b0ab08111f8b920714dab242276642bfb0dab0dfd524b47b"
 }

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-de0b78c54f8e7111e736",
+  "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+  "sourceTitle": "Scientists are using Google AI to help restore giant kelp forests.",
+  "status": "ready",
+  "attemptedAt": "2026-11-12T17:13:48.596263+00:00",
+  "fetchedAt": "2026-11-12T17:13:52.115966+00:00",
+  "finalURL": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
+  "language": "en",
+  "originalTitle": "Scientists are using Google AI to help restore giant kelp forests.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 kicks off this week, we’re sharing results from our partnership with Australia's national science agency, CSIRO, which is using AI and genomics to help restore giant kelp.",
+      "id": "p1",
+      "zh": "巨型海藻的水下森林 保护海岸线,提供栖息地,并且支持海洋生态系统,但是由于海洋变暖,它们正在世界范围内消失。随着COP31这个星期的启动,我们分享我们与澳大利亚国家科学机构合作的成果,锡罗,它利用人工智能和基因组学 来帮助恢复巨大的海藻。",
+      "en": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 kicks off this week, we’re sharing results from our partnership with Australia's national science agency, CSIRO, which is using AI and genomics to help restore giant kelp."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The team recently published two high-quality reference genomes for Australian giant kelp, providing a foundation for conservation genetics work. Next researchers trained a version of Google's open-source AI tool DeepVariant to analyze giant kelp DNA. It sequenced 600 wild specimens collected from 40 sites along the Tasmanian coast, where populations have dwindled to 5% of historic numbers.",
+      "id": "p2",
+      "zh": "该团队最近发布了两个高质量的参考基因组,用于澳大利亚巨型海藻,为保护遗传工作提供基础。接下来的研究者培训了Google开源AI工具DeepVariant的一个版本来分析巨型海藻DNA.它从塔斯马尼亚沿岸的40个地点采集了600个野生标本人口已减少到历史数字的5%。",
+      "en": "The team recently published two high-quality reference genomes for Australian giant kelp, providing a foundation for conservation genetics work. Next researchers trained a version of Google's open-source AI tool DeepVariant to analyze giant kelp DNA. It sequenced 600 wild specimens collected from 40 sites along the Tasmanian coast, where populations have dwindled to 5% of historic numbers."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This video explains how the genetic analysis and partners’ lab-based cross-breeding studies are laying the groundwork for a real-world outcome: giant kelp forests replanted with diverse, heat-tolerant specimens. This effort is part of Google Australia's Digital Futures Initiative.",
+      "id": "p3",
+      "zh": "这段影片解释了基因分析和合作伙伴在实验室进行的交叉繁殖研究如何为现实世界的结果打下基础:巨型海藻森林被重新植入, 种类繁多,耐热标本.这一努力是Google Australia数字未来倡议的一部分.",
+      "en": "This video explains how the genetic analysis and partners’ lab-based cross-breeding studies are laying the groundwork for a real-world outcome: giant kelp forests replanted with diverse, heat-tolerant specimens. This effort is part of Google Australia's Digital Futures Initiative."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "巨型海藻的水下森林 保护海岸线,提供栖息地,并且支持海洋生态系统,但是由于海洋变暖,它们正在世界范围内消失。随着COP31这个星期的启动,我们分享我们与澳大利亚国家科学机构合作的成果,锡罗,它利用人工智能和基因组学 来帮助恢复巨大的海藻。",
+      "en": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 kicks off this week, we’re sharing results from our partnership with Australia's national science agency, CSIRO, which is using AI and genomics to help restore giant kelp."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "该团队最近发布了两个高质量的参考基因组,用于澳大利亚巨型海藻,为保护遗传工作提供基础。接下来的研究者培训了Google开源AI工具DeepVariant的一个版本来分析巨型海藻DNA.它从塔斯马尼亚沿岸的40个地点采集了600个野生标本人口已减少到历史数字的5%。",
+      "en": "The team recently published two high-quality reference genomes for Australian giant kelp, providing a foundation for conservation genetics work. Next researchers trained a version of Google's open-source AI tool DeepVariant to analyze giant kelp DNA."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "这段影片解释了基因分析和合作伙伴在实验室进行的交叉繁殖研究如何为现实世界的结果打下基础:巨型海藻森林被重新植入, 种类繁多,耐热标本.这一努力是Google Australia数字未来倡议的一部分.",
+      "en": "This video explains how the genetic analysis and partners’ lab-based cross-breeding studies are laying the groundwork for a real-world outcome: giant kelp forests replanted with diverse, heat-tolerant specimens. This effort is part of Google Australia's Digital Futures Initiative."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "4f374fdacc06af5d745ac1a4107f37e5fae466e1a339590f2990251d7a8c5e96"
+}

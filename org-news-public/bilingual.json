@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-12T11:15:26.886376+00:00",
-  "revision": "30796cf4a453e3644a5cdf74d94d3d19f4a448fc851140558b7752a42d896bd5",
+  "generatedAt": "2026-11-12T17:13:48.554512+00:00",
+  "revision": "32e89ea76c2d43c7b0ab08111f8b920714dab242276642bfb0dab0dfd524b47b",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -438,6 +438,86 @@
         "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
         "sourceTitle": "Supporting research on AI and children’s safety",
         "source": "OpenAI News"
+      }
+    },
+    "rss-29da70c6592fc36fa6ae": {
+      "original": {
+        "title": "From AI ambition to business impact",
+        "summary": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier... The post From AI ambition to business impact app…",
+        "sourceTitle": "From AI ambition to business impact",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "从AI野心到商业影响",
+        "summary": "我见到的大多数商业领袖 不再需要相信AI有用了他们看到飞行员,演示和副驾驶。我现在在会议室听到的问题是不同的:我们如何从印象深刻的AI转向改变业务实际运行方式的AI?.这就是微软前沿的问题...从AI野心到业务影响应用的帖子...",
+        "sourceTitle": "从AI野心到商业影响",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "From AI ambition to business impact",
+        "summary": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier... The post From AI ambition to business impact app…",
+        "sourceTitle": "From AI ambition to business impact",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-981658b8b9c1f2605940": {
+      "original": {
+        "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+        "summary": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value witho…",
+        "sourceTitle": "Scaling AI value without losing control: Lessons from Frontier Firms",
+        "source": "Microsoft 官方博客"
+      },
+      "zh": {
+        "title": "在不失去控制的情况下缩放 AI 值 :边境企业的经验教训",
+        "summary": "其结果是广泛的。规模值不是,而这一差距是国际数据中心今年的研究内容,由微软委托,开始解释。在我们第四年委托IDC,28个行业的5 200多名高级信息技术和企业领导人分享了作为AI规模而实现最大价值所需的东西。最清楚的教训...后缩放 AI 值与...",
+        "sourceTitle": "在不失去控制的情况下缩放 AI 值 :边境企业的经验教训",
+        "source": "Microsoft 官方博客"
+      },
+      "en": {
+        "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+        "summary": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons... The post Scaling AI value witho…",
+        "sourceTitle": "Scaling AI value without losing control: Lessons from Frontier Firms",
+        "source": "Microsoft official blog"
+      }
+    },
+    "rss-de0b78c54f8e7111e736": {
+      "original": {
+        "title": "Scientists are using Google AI to help restore giant kelp forests.",
+        "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+        "sourceTitle": "Scientists are using Google AI to help restore giant kelp forests.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "科学家利用Google AI帮助恢复巨型海藻森林.",
+        "summary": "巨型海藻的水下森林 保护海岸线,提供栖息地,并且支持海洋生态系统,但是由于海洋变暖,它们正在世界范围内消失。作为COP31 k...",
+        "sourceTitle": "科学家利用Google AI帮助恢复巨型海藻森林.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Scientists are using Google AI to help restore giant kelp forests.",
+        "summary": "Underwater forests of giant kelp protect coastlines, provide habitat, and support marine ecosystems — but they’re disappearing worldwide due to ocean warming. As COP31 k…",
+        "sourceTitle": "Scientists are using Google AI to help restore giant kelp forests.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-948927f31dd46df37176": {
+      "original": {
+        "title": "Get quick answers from Gemini on any website.",
+        "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
+        "sourceTitle": "Get quick answers from Gemini on any website.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "在任何网站上从Gemini获得快速的答案.",
+        "summary": "和克罗姆的Gemini快速回答.总结文章,比较产品,并在您的侧面板上直接解释复杂的话题。试试看",
+        "sourceTitle": "在任何网站上从Gemini获得快速的答案.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Get quick answers from Gemini on any website.",
+        "summary": "Get quick answers with Gemini in Chrome. Summarize articles, compare products, and explain complex topics directly in your side panel. Try it now.",
+        "sourceTitle": "Get quick answers from Gemini on any website.",
+        "source": "Google The Keyword"
       }
     },
     "rss-e09fad6dcc25f1ba697c": {

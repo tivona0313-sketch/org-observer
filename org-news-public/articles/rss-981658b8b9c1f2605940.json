@@ -1,0 +1,397 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-981658b8b9c1f2605940",
+  "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+  "sourceTitle": "Scaling AI value without losing control: Lessons from Frontier Firms",
+  "status": "ready",
+  "attemptedAt": "2026-11-12T17:13:48.595436+00:00",
+  "fetchedAt": "2026-11-12T17:13:50.580620+00:00",
+  "finalURL": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+  "language": "en",
+  "originalTitle": "Scaling AI value without losing control: Lessons from Frontier Firms",
+  "author": "Alysa Taylor",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain.",
+      "id": "p1",
+      "zh": "其结果是广泛的。规模值不是,而这一差距是国际数据中心今年的研究内容,由微软委托,开始解释。",
+      "en": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons come from Frontier Firms, the group last year’s research introduced: the top 10% of organizations on IDC’s AI maturity scale.",
+      "id": "p2",
+      "zh": "在我们第四年委托IDC,28个行业的5 200多名高级信息技术和企业领导人分享了作为AI规模而实现最大价值所需的东西。最清楚的教训来自边境公司,该团体去年的研究介绍:在IDC的AI成熟度表上排名前10%的组织.",
+      "en": "In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons come from Frontier Firms, the group last year’s research introduced: the top 10% of organizations on IDC’s AI maturity scale."
+    },
+    {
+      "kind": "heading",
+      "text": "What the research found",
+      "id": "p3",
+      "zh": "研究发现的",
+      "en": "What the research found"
+    },
+    {
+      "kind": "list",
+      "text": "Frontier Firms lead on return. They report an average 4x return on AI versus 2.7x for slow adopters (the bottom 30% on IDC’s scale), and 39% see returns of 5x or more versus 4% of slow adopters.",
+      "id": "p4",
+      "zh": "边疆企业在返航时领先.他们报告说,人工智能的4x回报率与缓慢收养者2.7x的回报率(在IDC的规模上是最低的30%)相比,而39%的人看到5x或5x以上的回报率,而缓慢收养者的回报率为4%。",
+      "en": "Frontier Firms lead on return. They report an average 4x return on AI versus 2.7x for slow adopters (the bottom 30% on IDC’s scale), and 39% see returns of 5x or more versus 4% of slow adopters."
+    },
+    {
+      "kind": "list",
+      "text": "Measurement is the next test. Only 61% of organizations are highly confident they can measure AI’s business value and ROI, versus 93% of Frontier Firms.",
+      "id": "p5",
+      "zh": "测量是下一个测试。只有61%的组织很有信心能衡量AI的商业价值和ROI,93%的边疆公司。",
+      "en": "Measurement is the next test. Only 61% of organizations are highly confident they can measure AI’s business value and ROI, versus 93% of Frontier Firms."
+    },
+    {
+      "kind": "list",
+      "text": "Governance is in place, but confidence lags. 65% of organizations have an established process to govern agents, yet only 60% have high confidence in addressing AI security and governance risks.",
+      "id": "p6",
+      "zh": "治理到位,但信心却落后了。65%的组织有管理代理人的既定程序,然而只有60%的人对解决大赦国际的安全和治理风险抱有很高的信心。",
+      "en": "Governance is in place, but confidence lags. 65% of organizations have an established process to govern agents, yet only 60% have high confidence in addressing AI security and governance risks."
+    },
+    {
+      "kind": "list",
+      "text": "Workforce readiness is uneven. 67% say their workforce reports high trust in AI, yet only 20% have a comprehensive, organization-wide skilling strategy.",
+      "id": "p7",
+      "zh": "劳动力的准备程度参差不齐。67%的人说他们的员工高度信任AI,然而只有20%的人有综合计划,全组织技能战略。",
+      "en": "Workforce readiness is uneven. 67% say their workforce reports high trust in AI, yet only 20% have a comprehensive, organization-wide skilling strategy."
+    },
+    {
+      "kind": "paragraph",
+      "text": "“Organizations that scale AI value aren’t simply spending more. They manage AI investments, models, agents, governance and skills as one discipline, and that is what turns early results into value they can repeat across the business,” says Kathy Lange, Research Director, AI, Data and Automation Software, IDC.",
+      "id": "p8",
+      "zh": "“规模化AI价值的组织并非只是花费更多的钱。他们管理AI投资,型号,探员们,施政和技能作为一个学科,Kathy Lange说,研究主任大赦国际,数据和自动化软件,IDC. (中文(简体) ).",
+      "en": "“Organizations that scale AI value aren’t simply spending more. They manage AI investments, models, agents, governance and skills as one discipline, and that is what turns early results into value they can repeat across the business,” says Kathy Lange, Research Director, AI, Data and Automation Software, IDC."
+    },
+    {
+      "kind": "heading",
+      "text": "AI value now reaches well beyond cost savings",
+      "id": "p9",
+      "zh": "AI值现在远远超出成本节约",
+      "en": "AI value now reaches well beyond cost savings"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Organizations now use AI in 6.5 business areas on average, led by IT infrastructure, cybersecurity and customer service, with the fastest growth in industry-specific uses.",
+      "id": "p10",
+      "zh": "各组织现在平均在6.5个商业领域使用AI,由信息技术基础设施牵头,网络安全和客户服务,工业用途增长最快。",
+      "en": "Organizations now use AI in 6.5 business areas on average, led by IT infrastructure, cybersecurity and customer service, with the fastest growth in industry-specific uses."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Employee experience, revenue growth, customer experience, innovation and risk reduction now rank nearly even as the places AI strengthens the business. Cost is an important consideration, but it is evaluated alongside accuracy, security, compliance and scalability.",
+      "id": "p11",
+      "zh": "雇员经验,收入增长,顾客的经验,创新和减少风险现在几乎已排在前列,即使大赦国际加强了这一业务。成本是一个重要的考虑因素,但它与准确性一并评估,保安人员,合规性和可伸缩性。",
+      "en": "Employee experience, revenue growth, customer experience, innovation and risk reduction now rank nearly even as the places AI strengthens the business. Cost is an important consideration, but it is evaluated alongside accuracy, security, compliance and scalability."
+    },
+    {
+      "kind": "heading",
+      "text": "Where scale stalls",
+      "id": "p12",
+      "zh": "摆放摊子的地方",
+      "en": "Where scale stalls"
+    },
+    {
+      "kind": "paragraph",
+      "text": "66% of leaders say AI has delivered substantial or transformative results, but only 48% are scaling that value across multiple business units. Agents follow the same pattern: 36% of organizations are still piloting them.",
+      "id": "p13",
+      "zh": "66%的领导人说AI已经取得了实质性或变革性的成果,但是,只有48%的企业在多个业务单位中推广这一价值。智能体人员遵循同样的模式:36%的组织仍在试点。",
+      "en": "66% of leaders say AI has delivered substantial or transformative results, but only 48% are scaling that value across multiple business units. Agents follow the same pattern: 36% of organizations are still piloting them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The widest gap is people: workforce confidence is running well ahead of the plans to support it. The organizations pulling ahead are closing these gaps by design.",
+      "id": "p14",
+      "zh": "最大的差距是人:劳动力的信心远远领先于支持这种信心的计划。前进的组织正在通过设计来弥补这些差距。",
+      "en": "The widest gap is people: workforce confidence is running well ahead of the plans to support it. The organizations pulling ahead are closing these gaps by design."
+    },
+    {
+      "kind": "heading",
+      "text": "Inside the Frontier Firm",
+      "id": "p15",
+      "zh": "边境公司内部",
+      "en": "Inside the Frontier Firm"
+    },
+    {
+      "kind": "paragraph",
+      "text": "IDC’s maturity scale weighs spending discipline, breadth of use, agent adoption, skills, confidence in managing AI risk and outcomes. On agents specifically, Frontier Firms report a 3.8x return versus 3.0x for slow adopters. These returns are leader-reported, and the research shows association rather than cause.",
+      "id": "p16",
+      "zh": "IDC的成熟度衡量支出纪律,使用范围,收养代理人,技能,对管理AI风险和结果的信心。具体地说,关于智能体,边疆公司报告说,缓慢收养者返回3.8x,而缓慢收养者返回3.0x。这些返回是领导人报告的,研究显示的是关联而不是原因。",
+      "en": "IDC’s maturity scale weighs spending discipline, breadth of use, agent adoption, skills, confidence in managing AI risk and outcomes. On agents specifically, Frontier Firms report a 3.8x return versus 3.0x for slow adopters. These returns are leader-reported, and the research shows association rather than cause."
+    },
+    {
+      "kind": "paragraph",
+      "text": "What they do differently comes down to five behaviors:",
+      "id": "p17",
+      "zh": "他们的不同行为 下到五种行为:",
+      "en": "What they do differently comes down to five behaviors:"
+    },
+    {
+      "kind": "list",
+      "text": "They invest ahead of plan. 90% of Frontier Firms exceeded their planned AI spend.",
+      "id": "p18",
+      "zh": "他们提前投资计划。90%的边疆公司超过了计划人工智能的开支.",
+      "en": "They invest ahead of plan. 90% of Frontier Firms exceeded their planned AI spend."
+    },
+    {
+      "kind": "list",
+      "text": "They deploy AI broadly, across most of the business, not just a few teams.",
+      "id": "p19",
+      "zh": "他们广泛部署AI,在大部分业务中,不只是几个团队。",
+      "en": "They deploy AI broadly, across most of the business, not just a few teams."
+    },
+    {
+      "kind": "list",
+      "text": "They put agents to work. 96% are rolling out agents at scale, and 53% orchestrate them across workflows.",
+      "id": "p20",
+      "zh": "他们派智能体去工作96%的人正在大规模推出毒剂,53%的人通过工作流程协调他们",
+      "en": "They put agents to work. 96% are rolling out agents at scale, and 53% orchestrate them across workflows."
+    },
+    {
+      "kind": "list",
+      "text": "They govern so they can scale. 87% have a process to govern and oversee agents, versus 51% of slow adopters.",
+      "id": "p21",
+      "zh": "他们统治他们,所以他们可以规模化。87%有管理和监督代理人的程序,51%的缓慢收养者。",
+      "en": "They govern so they can scale. 87% have a process to govern and oversee agents, versus 51% of slow adopters."
+    },
+    {
+      "kind": "list",
+      "text": "They build skills everywhere. 80% have an organization-wide AI skilling strategy, versus 3% of slow adopters.",
+      "id": "p22",
+      "zh": "他们到处培养技能。80%有全组织人工智能技能战略,相对于3%的缓慢收养者.",
+      "en": "They build skills everywhere. 80% have an organization-wide AI skilling strategy, versus 3% of slow adopters."
+    },
+    {
+      "kind": "paragraph",
+      "text": "At Bristol Myers Squibb, the RABIT agent “connects the dots across meetings, helping teams make better decisions while reducing administrative follow-up work,” says Lakshman Yerramalla, Director of Portfolio Governance and Delivery for Global Manufacturing Operations. Project managers who use it save up to an estimated 20% of their time.",
+      "id": "p23",
+      "zh": "在布里斯托·迈尔斯·斯基布RABIT代理人“将会议之间的点连接起来,Lakshman Yerramalla说,全球制造业务组合治理和交付部主任。使用该系统的项目管理人员节省的时间估计可达20%。",
+      "en": "At Bristol Myers Squibb, the RABIT agent “connects the dots across meetings, helping teams make better decisions while reducing administrative follow-up work,” says Lakshman Yerramalla, Director of Portfolio Governance and Delivery for Global Manufacturing Operations. Project managers who use it save up to an estimated 20% of their time."
+    },
+    {
+      "kind": "heading",
+      "text": "Four disciplines for scaling AI value",
+      "id": "p24",
+      "zh": "缩放 AI 值的四个学科",
+      "en": "Four disciplines for scaling AI value"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The lesson from Frontier Firms is one I believe every leader can act on: scaling AI value means managing models, agents, governance and measurement as one accountable system. Value and control aren’t a trade-off.",
+      "id": "p25",
+      "zh": "从边境公司得到的教训是,我认为每个领导人都可以采取行动:缩放AI值意味着管理模型,探员们,将治理和衡量作为一个问责制度。价值与控制并非取舍。",
+      "en": "The lesson from Frontier Firms is one I believe every leader can act on: scaling AI value means managing models, agents, governance and measurement as one accountable system. Value and control aren’t a trade-off."
+    },
+    {
+      "kind": "paragraph",
+      "text": "I see the same pattern with customers: the organizations scaling fastest treat AI as a change in how the business runs, not a technology rollout. “The skilling that a lot of companies miss is the business skilling,” says Eric Tabor, Chief Digital Officer, KOHLER. “We also focus on how to dissect processes and convert them into AI workflows.”",
+      "id": "p26",
+      "zh": "我对顾客也有同样的模式:以最快的速度扩大规模的组织将AI视为业务运作方式的改变,不是技术的推广。Eric Tabor说, “许多公司所忽略的技巧是商业技巧,”首席数字干事,考勒(英语:Kohler (film)).“我们还注重如何解析程序并将其转化为AI工作流程。”",
+      "en": "I see the same pattern with customers: the organizations scaling fastest treat AI as a change in how the business runs, not a technology rollout. “The skilling that a lot of companies miss is the business skilling,” says Eric Tabor, Chief Digital Officer, KOHLER. “We also focus on how to dissect processes and convert them into AI workflows.”"
+    },
+    {
+      "kind": "heading",
+      "text": "Unlock model choice",
+      "id": "p27",
+      "zh": "解锁模式选择",
+      "en": "Unlock model choice"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Trust and security, leading-edge technology and model performance tie as the top criteria for choosing an AI platform (44% each). Match the right model to each job, balancing cost with protection of intellectual property and data.",
+      "id": "p28",
+      "zh": "信任和安全,领先技术和模型性能比对是选择AI平台的最高标准(每个44%).匹配正确的模式 每项工作,平衡成本与保护知识产权和数据。",
+      "en": "Trust and security, leading-edge technology and model performance tie as the top criteria for choosing an AI platform (44% each). Match the right model to each job, balancing cost with protection of intellectual property and data."
+    },
+    {
+      "kind": "heading",
+      "text": "Redesign workflows around agents",
+      "id": "p29",
+      "zh": "围绕代理商重新设计工作流程",
+      "en": "Redesign workflows around agents"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Agents create the most value when work is redesigned around them. The bigger opportunity is what they free people to do more of: leaders point to creativity, innovation and business reinvention (41%), customer-facing work and relationships (39%) and analytical work and data interpretation (39%). Connect agents across processes, with human oversight where it matters.",
+      "id": "p30",
+      "zh": "当工作被重新设计时,代理商创造出最大的价值.更大的机会就是他们让人民做更多的事情:领袖们指出创造力,创新和商业革新(41%);面向客户的工作和关系(39%)以及分析工作和数据解释(39%)。连接跨流程的代理商,受人监督,不管它在哪里。",
+      "en": "Agents create the most value when work is redesigned around them. The bigger opportunity is what they free people to do more of: leaders point to creativity, innovation and business reinvention (41%), customer-facing work and relationships (39%) and analytical work and data interpretation (39%). Connect agents across processes, with human oversight where it matters."
+    },
+    {
+      "kind": "heading",
+      "text": "Govern decisions and actions",
+      "id": "p31",
+      "zh": "政府的决定和行动",
+      "en": "Govern decisions and actions"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Trust is building faster than confidence. Most leaders report high trust in their AI systems, yet fewer are highly confident addressing security and governance risks. As agents take on more of the work, trust has to be earned continuously, and governance has to reach beyond models to keep people in control of what agents decide and do.",
+      "id": "p32",
+      "zh": "信任的建立比信心的建立更快。大多数领导人都表示高度信任他们的人工智能系统,然而,处理安全和治理风险的高度信心却更少。随着智能体们承担更多的工作,信任必须不断获得,治理必须超越模式,让人们控制代理人的决定和行为。",
+      "en": "Trust is building faster than confidence. Most leaders report high trust in their AI systems, yet fewer are highly confident addressing security and governance risks. As agents take on more of the work, trust has to be earned continuously, and governance has to reach beyond models to keep people in control of what agents decide and do."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Conagra Brands made governance its starting point. “Laying the foundation of proper governance, observability and responsible AI was our first step to engaging our employees with AI,” says Tracy Schaefer, Chief Information Officer, Conagra Brands. “We built a SteerCo to review risk factors, access and identity management.”",
+      "id": "p33",
+      "zh": "Conagra Brands把治理作为其出发点。“奠定适当治理的基础,Tracy Schaefer说,首席新闻干事,(原始内容存档于2019-10-12). Conagra Brands.“我们建立了一个指导中心,审查风险因素,获取和身份管理。”",
+      "en": "Conagra Brands made governance its starting point. “Laying the foundation of proper governance, observability and responsible AI was our first step to engaging our employees with AI,” says Tracy Schaefer, Chief Information Officer, Conagra Brands. “We built a SteerCo to review risk factors, access and identity management.”"
+    },
+    {
+      "kind": "heading",
+      "text": "Measure and optimize value",
+      "id": "p34",
+      "zh": "衡量和优化价值",
+      "en": "Measure and optimize value"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Connect investment and performance data to business outcomes, compare how processes perform before and after AI and direct spending where it delivers the most value. With 71% of organizations expecting AI budgets to rise 10% or more in the next 12 months, this discipline will separate leaders from the rest.",
+      "id": "p35",
+      "zh": "将投资和业绩数据与业务成果联系起来,比较人工智能前后的流程如何运作,在交付最大价值的地方如何直接支出。71%的组织期望大赦国际的预算在今后12个月中增加10%或以上,这个纪律会把领导人和其他领导人分开。",
+      "en": "Connect investment and performance data to business outcomes, compare how processes perform before and after AI and direct spending where it delivers the most value. With 71% of organizations expecting AI budgets to rise 10% or more in the next 12 months, this discipline will separate leaders from the rest."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Underneath all four disciplines are people. None of it scales without an organization-wide plan to build AI skills. That’s where Frontier Firms are furthest ahead, and it’s where I’d urge every leader to start.",
+      "id": "p36",
+      "zh": "其下四门所行道皆为人.没有一项全组织计划来培养人工智能技能,就没有一个规模。这才是前沿企业最远的地方,我敦促每一位领导人都从这里开始。",
+      "en": "Underneath all four disciplines are people. None of it scales without an organization-wide plan to build AI skills. That’s where Frontier Firms are furthest ahead, and it’s where I’d urge every leader to start."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Black & Veatch reached 98% adoption of Microsoft 365 Copilot through deliberate change management, including early-adopter cohorts that surfaced real business use cases. “Our goal is to be a Frontier Firm. The intention is not to stop at pure adoption,” says Mike Adams, Chief Digital Technology Officer, Black & Veatch.",
+      "id": "p37",
+      "zh": "Black & Veatch通过刻意变更管理,实现了对Microsoft 365 Copilot的98%的通过,包括出现实际商业使用案例的早期摄取者群体。“我们的目标是成为一家边境公司。并不会停止纯粹的收养,首席数字技术干事(原始内容存档于2017-10-21). Black & Veatch.",
+      "en": "Black & Veatch reached 98% adoption of Microsoft 365 Copilot through deliberate change management, including early-adopter cohorts that surfaced real business use cases. “Our goal is to be a Frontier Firm. The intention is not to stop at pure adoption,” says Mike Adams, Chief Digital Technology Officer, Black & Veatch."
+    },
+    {
+      "kind": "heading",
+      "text": "Go deeper at Microsoft Ignite",
+      "id": "p38",
+      "zh": "深入微软 Ignite",
+      "en": "Go deeper at Microsoft Ignite"
+    },
+    {
+      "kind": "paragraph",
+      "text": "IDC Executive Analyst Shari Lava will lead three sessions at Microsoft Ignite on Nov. 18, including The AI ROI Divide: Why Some Organizations Scale and Others Stall.",
+      "id": "p39",
+      "zh": "IDC执行分析师Shari Lava将于11月在微软Ignite主持三场会议。18, (英语).包括 \" AI ROI鸿沟 \" :为何有些组织会规模化,而另一些组织则会停滞。",
+      "en": "IDC Executive Analyst Shari Lava will lead three sessions at Microsoft Ignite on Nov. 18, including The AI ROI Divide: Why Some Organizations Scale and Others Stall."
+    },
+    {
+      "kind": "heading",
+      "text": "What this means for business",
+      "id": "p40",
+      "zh": "这对生意意味着什么?",
+      "en": "What this means for business"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The gap that matters now isn’t between companies that use AI and those that don’t. It’s between those getting results in pockets and those turning AI into repeatable value across the business. There are three key ways leaders can step into this kind of transformation.",
+      "id": "p41",
+      "zh": "现在重要的不是使用AI的公司与不使用AI的公司之间的差距。将AI变成整个企业的可重复价值。有三种关键的方法 领导人可以步入这种转变。",
+      "en": "The gap that matters now isn’t between companies that use AI and those that don’t. It’s between those getting results in pockets and those turning AI into repeatable value across the business. There are three key ways leaders can step into this kind of transformation."
+    },
+    {
+      "kind": "paragraph",
+      "text": "First, treat AI as business transformation, not a technology rollout. Frontier Firms connect AI to the outcomes that matter most, from growth to customer experience, and manage it as one accountable system. That is the heart of Frontier Transformation, and it’s the work we’re doing alongside our customers every day.",
+      "id": "p42",
+      "zh": "首先,将AI视为业务转型,不是技术的推广。边境企业将大赦国际与最重要的成果联系起来,从成长到客户经验,并将其作为一个问责制度加以管理。这就是边境转型的核心,我们每天都在和顾客一起工作。",
+      "en": "First, treat AI as business transformation, not a technology rollout. Frontier Firms connect AI to the outcomes that matter most, from growth to customer experience, and manage it as one accountable system. That is the heart of Frontier Transformation, and it’s the work we’re doing alongside our customers every day."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Second, start with your own function. In marketing, we’re applying these same disciplines to our own work: redesigning workflows around agents, setting clear guardrails and measuring what AI actually delivers. Every function can become its own proof point for the rest of the business.",
+      "id": "p43",
+      "zh": "第二,我们...从您自己的功能开始。在营销方面我们把同样的学科应用到我们自己的工作上:围绕代理商重新设计工作流程,设置清晰的护栏并测量AI的实际效果.每个函数都可以成为自己对业务其余部分的证明点.",
+      "en": "Second, start with your own function. In marketing, we’re applying these same disciplines to our own work: redesigning workflows around agents, setting clear guardrails and measuring what AI actually delivers. Every function can become its own proof point for the rest of the business."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Third, invest in people as much as in technology. Skills are the widest gap in this year’s research, and it’s the one I care about most. The organizations that pull ahead will be the ones where everyone, at every level, has the support to learn, experiment and grow with AI.",
+      "id": "p44",
+      "zh": "第三点,投资于人和投资于技术一样多。技能是今年研究中最大的差距,我最关心的就是这个。前进的组织 将会是每个人,在每一级别,有学习的支持,实验和成长与AI。",
+      "en": "Third, invest in people as much as in technology. Skills are the widest gap in this year’s research, and it’s the one I care about most. The organizations that pull ahead will be the ones where everyone, at every level, has the support to learn, experiment and grow with AI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The next phase of AI won’t be defined by who uses it. It will be defined by who can scale its value and stay in control. This research gives every leader a benchmark for where they stand today and a clear view of what to do next.",
+      "id": "p45",
+      "zh": "AI的下阶段不会由谁使用它来定义.其定义将由谁能够扩大其价值并保持控制来决定.这项研究为每个领导人提供了他们目前状况的基准,并明确了解下一步应做什么。",
+      "en": "The next phase of AI won’t be defined by who uses it. It will be defined by who can scale its value and stay in control. This research gives every leader a benchmark for where they stand today and a clear view of what to do next."
+    },
+    {
+      "kind": "heading",
+      "text": "Get the full picture",
+      "id": "p46",
+      "zh": "拍个完整的照片",
+      "en": "Get the full picture"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Download the global infographic, The Real Business Value of AI, to see a summary of findings and benchmark your organization against Frontier Firms before your next AI investment review. Regional infographics are also available for Europe, Asia Pacific and the Americas. The full InfoBrief will follow.",
+      "id": "p47",
+      "zh": "下载全局图像 ,大赦国际的实际商业价值,在下一次AI投资审查之前,请参看调查结果摘要和针对边境公司的基准。欧洲还有区域图象。亚太和美洲。完整信息简报将随后发布。",
+      "en": "Download the global infographic, The Real Business Value of AI, to see a summary of findings and benchmark your organization against Frontier Firms before your next AI investment review. Regional infographics are also available for Europe, Asia Pacific and the Americas. The full InfoBrief will follow."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Alysa Taylor is the Chief Marketing Officer for Commercial Cloud and AI at Microsoft, leading teams that enable digital and AI transformation for organizations of all sizes across the globe.",
+      "id": "p48",
+      "zh": "Alysa Taylor是微软公司商业云和AI的首席营销官,领导团队,为全球各种规模的组织提供数字化和AI化的改造。",
+      "en": "Alysa Taylor is the Chief Marketing Officer for Commercial Cloud and AI at Microsoft, leading teams that enable digital and AI transformation for organizations of all sizes across the globe."
+    },
+    {
+      "kind": "paragraph",
+      "text": "NOTE",
+      "id": "p49",
+      "zh": "注 释",
+      "en": "NOTE"
+    },
+    {
+      "kind": "paragraph",
+      "text": "IDC Infographic, sponsored by Microsoft, The Real Business Value of AI, IDC #US54985026-IG, November 2026",
+      "id": "p50",
+      "zh": "IDC 信息学,由微软公司赞助,大赦国际的实际商业价值,IDC #US54985026-IG, (英语).2026年11月 (中文(简体) ).",
+      "en": "IDC Infographic, sponsored by Microsoft, The Real Business Value of AI, IDC #US54985026-IG, November 2026"
+    },
+    {
+      "kind": "paragraph",
+      "text": "IDC Resource Map Document, Sponsored by Microsoft, Business Opportunity of AI Study, IDC Survey, July 2026, N=5204, Doc. #US54951426, November 2026",
+      "id": "p51",
+      "zh": "IDC 资源映射文档,在微软赞助下,AI研究的商业机会,IDC 调查,2026年7月 (中文(中国大陆) ).N=5204号,医生#美国54951426,2026年11月 (中文(简体) ).",
+      "en": "IDC Resource Map Document, Sponsored by Microsoft, Business Opportunity of AI Study, IDC Survey, July 2026, N=5204, Doc. #US54951426, November 2026"
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p2",
+      "zh": "在我们第四年委托IDC,28个行业的5 200多名高级信息技术和企业领导人分享了作为AI规模而实现最大价值所需的东西。最清楚的教训来自边境公司,该团体去年的研究介绍:在IDC的AI成熟度表上排名前10%的组织.",
+      "en": "In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons come from Frontier Firms, the group last year’s research introduced: the top 10% of organizations on IDC’s AI maturity scale."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "测量是下一个测试。只有61%的组织很有信心能衡量AI的商业价值和ROI,93%的边疆公司。",
+      "en": "Measurement is the next test. Only 61% of organizations are highly confident they can measure AI’s business value and ROI, versus 93% of Frontier Firms."
+    },
+    {
+      "paragraphId": "p16",
+      "zh": "IDC的成熟度衡量支出纪律,使用范围,收养代理人,技能,对管理AI风险和结果的信心。具体地说,关于智能体,边疆公司报告说,缓慢收养者返回3.8x,而缓慢收养者返回3.0x。",
+      "en": "IDC’s maturity scale weighs spending discipline, breadth of use, agent adoption, skills, confidence in managing AI risk and outcomes. On agents specifically, Frontier Firms report a 3.8x return versus 3.0x for slow adopters."
+    },
+    {
+      "paragraphId": "p36",
+      "zh": "其下四门所行道皆为人.没有一项全组织计划来培养人工智能技能,就没有一个规模。这才是前沿企业最远的地方,我敦促每一位领导人都从这里开始。",
+      "en": "Underneath all four disciplines are people. None of it scales without an organization-wide plan to build AI skills."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "f75d2c0bfc81f9b12ec322ff44eedcac7bf82953b177e1d9a33341182ac96353"
+}

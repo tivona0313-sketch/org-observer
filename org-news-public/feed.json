@@ -33,6 +33,22 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-bbe3a29059d49789b8f9",
+      "title": "Claim your Google Cloud Credits in Google AI Studio",
+      "summary": "Claim your Google Cloud Credits in Google AI Studio",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+      "date": "2026-11-13",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Claim your Google Cloud Credits in Google AI Studio",
+      "sourceId": "google"
+    },
+    {
       "id": "rss-65b96c238445cdedc96b",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -2273,35 +2289,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-13T17:03:45.163151+00:00",
-      "lastSuccess": "2026-11-13T17:03:45.340805+00:00",
+      "attemptedAt": "2026-11-13T22:53:40.114578+00:00",
+      "lastSuccess": "2026-11-13T22:53:40.204783+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-13T17:03:45.163931+00:00",
-      "lastSuccess": "2026-11-13T17:03:45.368558+00:00",
+      "attemptedAt": "2026-11-13T22:53:40.115176+00:00",
+      "lastSuccess": "2026-11-13T22:53:40.285946+00:00",
       "count": 11
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-13T17:03:45.164444+00:00",
-      "lastSuccess": "2026-11-13T17:03:45.283863+00:00",
+      "attemptedAt": "2026-11-13T22:53:40.115568+00:00",
+      "lastSuccess": "2026-11-13T22:53:40.232712+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-13T17:03:45.164911+00:00",
-      "lastSuccess": "2026-11-13T17:03:46.252096+00:00",
+      "attemptedAt": "2026-11-13T22:53:40.115942+00:00",
+      "lastSuccess": "2026-11-13T22:53:41.336341+00:00",
       "count": 5
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-13T17:03:46.253518+00:00",
-  "nextRefresh": "2026-11-13T22:17:00+00:00",
+  "lastRefresh": "2026-11-13T22:53:41.337394+00:00",
+  "nextRefresh": "2026-11-14T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "55052b60c5ad8e60287f472d362a468898071247b660318d2347b7fbb71b0b39"
+  "bilingualRevision": "acaa41fca8b12596dcea5d22c2442420c62da8f8904ba4cca1419ddbf640266d"
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-13T17:03:47.021374+00:00",
-  "revision": "55052b60c5ad8e60287f472d362a468898071247b660318d2347b7fbb71b0b39",
+  "generatedAt": "2026-11-13T22:53:41.598003+00:00",
+  "revision": "acaa41fca8b12596dcea5d22c2442420c62da8f8904ba4cca1419ddbf640266d",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -438,6 +438,26 @@
         "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
         "sourceTitle": "Introducing ChatGPT Wallet",
         "source": "OpenAI News"
+      }
+    },
+    "rss-bbe3a29059d49789b8f9": {
+      "original": {
+        "title": "Claim your Google Cloud Credits in Google AI Studio",
+        "summary": "Claim your Google Cloud Credits in Google AI Studio",
+        "sourceTitle": "Claim your Google Cloud Credits in Google AI Studio",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "在Google AI Studio上声称您的Google云信用",
+        "summary": "在Google AI Studio上声称您的Google云信用",
+        "sourceTitle": "在Google AI Studio上声称您的Google云信用",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Claim your Google Cloud Credits in Google AI Studio",
+        "summary": "Claim your Google Cloud Credits in Google AI Studio",
+        "sourceTitle": "Claim your Google Cloud Credits in Google AI Studio",
+        "source": "Google The Keyword"
       }
     },
     "rss-65b96c238445cdedc96b": {

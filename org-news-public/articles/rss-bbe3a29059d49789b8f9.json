@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-bbe3a29059d49789b8f9",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+  "sourceTitle": "Claim your Google Cloud Credits in Google AI Studio",
+  "status": "ready",
+  "attemptedAt": "2026-11-13T22:53:41.634482+00:00",
+  "fetchedAt": "2026-11-13T22:53:43.359856+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+  "language": "en",
+  "originalTitle": "Claim your Google Cloud Credits in Google AI Studio",
+  "author": "Bala Muthukrishnan",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "When you’re deep in a session in Google AI Studio — testing complex prompts with frontier models like gemini-4-carbon, generating videos with Omni, or building an app — you shouldn’t have to bounce across three websites just to set up billing and claim credits when you hit a quota limit.",
+      "id": "p1",
+      "zh": "当你深入谷歌AI Studio的某场课 测试复杂的提示 与前沿模型,如Gemini-4-碳,以奥姆尼盟誓,或建立应用程序, 你不应该在三个网站跳跃,",
+      "en": "When you’re deep in a session in Google AI Studio — testing complex prompts with frontier models like gemini-4-carbon, generating videos with Omni, or building an app — you shouldn’t have to bounce across three websites just to set up billing and claim credits when you hit a quota limit."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Starting today, you can claim and manage free API credits directly inside AI Studio. That means you can create your Developer Program profile, link billing, and track your balance, all without leaving your workspace.",
+      "id": "p2",
+      "zh": "从今天开始您可以直接在 AI Studio 内要求和管理免费的 API 信用。这意味着你可以创建您的开发者程序简介,链接计费,并跟踪你的平衡,所有不离开你的工作空间。",
+      "en": "Starting today, you can claim and manage free API credits directly inside AI Studio. That means you can create your Developer Program profile, link billing, and track your balance, all without leaving your workspace."
+    },
+    {
+      "kind": "paragraph",
+      "text": "If you’re a Google AI Pro or Google AI Ultra subscriber, your membership already comes with recurring monthly Google Cloud credits through the Google Developer Program.",
+      "id": "p3",
+      "zh": "如果你是Google AI Pro或Google AI Ultra用户,您的会员资格已经通过 Google 开发程序 每月反复获得 Google Cloud 信用。",
+      "en": "If you’re a Google AI Pro or Google AI Ultra subscriber, your membership already comes with recurring monthly Google Cloud credits through the Google Developer Program."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Google Developer Program is a no-cost membership unifying tools, learning paths, and perks across AI Studio, Google Cloud, Firebase, Android, and more. An active profile is required for Google AI Pro and Ultra subscribers to access developer benefits like monthly Google Cloud credits, higher Google Antigravity quotas, and Google Skills credits. If you don’t have a profile, the new workflow in AI Studio automatically creates one when you redeem your credits.",
+      "id": "p4",
+      "zh": "Google开发者方案是一个无成本的成员统一工具,学习路径,在AI Studio对面的优惠谷歌云号火场,Android(机器人), (机器人), (机器人),还有更多Google AI Pro 和 Ultra 的订阅者需要主动的描述才能访问开发者的好处,比如每月的Google Cloud 信用,更高的谷歌反重力配额,和谷歌技能学分。如果你没有个人资料,AI Studio中的新工作流程在您赎回信用时自动创建一个工作流程.",
+      "en": "The Google Developer Program is a no-cost membership unifying tools, learning paths, and perks across AI Studio, Google Cloud, Firebase, Android, and more. An active profile is required for Google AI Pro and Ultra subscribers to access developer benefits like monthly Google Cloud credits, higher Google Antigravity quotas, and Google Skills credits. If you don’t have a profile, the new workflow in AI Studio automatically creates one when you redeem your credits."
+    },
+    {
+      "kind": "heading",
+      "text": "Check the monthly credits included in your Google AI plan",
+      "id": "p5",
+      "zh": "请检查access-date=中的日期值 (帮助) Google AI计划中的月度信用",
+      "en": "Check the monthly credits included in your Google AI plan"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Google AI Pro and Ultra plans include recurring monthly Google Cloud credits that you can put straight toward Gemini API usage for prompting, building, and deploying AI-powered apps from Google AI Studio. As detailed in our guide to using Google AI plan credits in AI Studio, your monthly credit grant scales with your AI plan tier.",
+      "id": "p6",
+      "zh": "Google AI Pro和Ultra计划包括了反复出现的月度Google Cloud信用,你可以直接对GeminiAPI的使用进行提示,建筑物,并部署来自Google AI Studio的AI动力应用程序.正如我们在AI Studio使用Google AI计划信用的指南中所详述的那样,您的月信用补助表与您的人工智能计划分级。",
+      "en": "Google AI Pro and Ultra plans include recurring monthly Google Cloud credits that you can put straight toward Gemini API usage for prompting, building, and deploying AI-powered apps from Google AI Studio. As detailed in our guide to using Google AI plan credits in AI Studio, your monthly credit grant scales with your AI plan tier."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Here’s how your monthly credits work over time.",
+      "id": "p7",
+      "zh": "您的月度信用随时间推移如何运作。",
+      "en": "Here’s how your monthly credits work over time."
+    },
+    {
+      "kind": "list",
+      "text": "12-month rolling validity: Each monthly credit is valid for 12 months from issue.",
+      "id": "p8",
+      "zh": "12个月的滚动有效性 :每个月的信贷有效期为自发放之日起12个月。",
+      "en": "12-month rolling validity: Each monthly credit is valid for 12 months from issue."
+    },
+    {
+      "kind": "list",
+      "text": "Automatic monthly rollover: Grants stack month to month. If you’ve been a Pro or Ultra subscriber for a few months and have a Google Developer Program profile, you likely have credits waiting to be claimed.",
+      "id": "p9",
+      "zh": "自动每月翻转 :赠金堆积月.如果你是Pro或Ultra的用户几个月,您可能会有信用值等待申请。",
+      "en": "Automatic monthly rollover: Grants stack month to month. If you’ve been a Pro or Ultra subscriber for a few months and have a Google Developer Program profile, you likely have credits waiting to be claimed."
+    },
+    {
+      "kind": "list",
+      "text": "Support for paid-tier models and overages: Use credits when your subscription quota runs out in AI Studio to keep creating generative media, solving complex tasks, or building 3D worlds with models like Gemini 4 Carbon. Upgrading your Google AI plan automatically increases your monthly grant.",
+      "id": "p10",
+      "zh": "支持有酬模式和超额:在AI Studio的订阅配额用完时使用信用,以不断创建基因媒体,解决复杂的任务,或者用Gemini4 Carbon等模型 来建立3D世界提升你的谷歌AI计划 自动增加你的月补助金。",
+      "en": "Support for paid-tier models and overages: Use credits when your subscription quota runs out in AI Studio to keep creating generative media, solving complex tasks, or building 3D worlds with models like Gemini 4 Carbon. Upgrading your Google AI plan automatically increases your monthly grant."
+    },
+    {
+      "kind": "list",
+      "text": "Gemini API prepayment requirement: Using the Gemini API with Cloud billing requires a $5 minimum prepayment and balance in order to draw down promotional credits.",
+      "id": "p11",
+      "zh": "双子体API预付款要求:使用带有Cloud账单的GeminiAPI需要5美元的最低预付和余额,以提取促销信贷.",
+      "en": "Gemini API prepayment requirement: Using the Gemini API with Cloud billing requires a $5 minimum prepayment and balance in order to draw down promotional credits."
+    },
+    {
+      "kind": "list",
+      "text": "Primary subscriber exclusivity: Only the primary plan subscriber can use these credits. They can’t be shared among family members.",
+      "id": "p12",
+      "zh": "主要用户专属 :只有主要计划用户才能使用这些学分。他们不能在家庭成员之间分享。",
+      "en": "Primary subscriber exclusivity: Only the primary plan subscriber can use these credits. They can’t be shared among family members."
+    },
+    {
+      "kind": "heading",
+      "text": "Claim and link your credits in a single click",
+      "id": "p13",
+      "zh": "在一次点击中请求并链接到您的信用",
+      "en": "Claim and link your credits in a single click"
+    },
+    {
+      "kind": "list",
+      "text": "Automatic credit alerts: Spot unclaimed credits and current balances right in the left nav on sign-in.",
+      "id": "p14",
+      "zh": "自动信用提示 :在登录时左侧导航中标出未申报的贷项和当期余额。",
+      "en": "Automatic credit alerts: Spot unclaimed credits and current balances right in the left nav on sign-in."
+    },
+    {
+      "kind": "list",
+      "text": "In-product redemption: Create your Google Developer Program profile and claim credits in one dialog.",
+      "id": "p15",
+      "zh": "产品补偿:创建您的 Google 开发程序简介, 并在一个对话框中声明信用值 。",
+      "en": "In-product redemption: Create your Google Developer Program profile and claim credits in one dialog."
+    },
+    {
+      "kind": "list",
+      "text": "Seamless billing setup and auto-apply: Set up a Cloud billing account within the same flow, spend earliest-expiring credits first, and auto-apply future monthly grants.",
+      "id": "p16",
+      "zh": "无缝计费设置和自动应用:在同一流量内建立一个云帐账户,使用最早期的信贷,和自动申请未来月补助金。",
+      "en": "Seamless billing setup and auto-apply: Set up a Cloud billing account within the same flow, spend earliest-expiring credits first, and auto-apply future monthly grants."
+    },
+    {
+      "kind": "list",
+      "text": "Instant paid API keys and spend tracking: Attach paid-tier API keys upon credit redemption and track your remaining balance and usage at aistudio.google.com/billing.",
+      "id": "p17",
+      "zh": "即时支付 API 密钥并花费跟踪 :在贷方赎回时附加支付级API密钥, 并跟踪您的余额和使用情况 at aistudio.google.com/ billing.",
+      "en": "Instant paid API keys and spend tracking: Attach paid-tier API keys upon credit redemption and track your remaining balance and usage at aistudio.google.com/billing."
+    },
+    {
+      "kind": "heading",
+      "text": "Get started today",
+      "id": "p18",
+      "zh": "今天开始吧",
+      "en": "Get started today"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Whether you’re generating with your first Gemini API key, vibe coding a full-stack application, or deploying to production with Google Cloud Run, your Google AI subscription now gives you an instant head start. Head to Google AI Studio to start building today.",
+      "id": "p19",
+      "zh": "无论你用第一个Gemini API 键生成,气温编码一个完整的存储应用程序,或部署到与谷歌云运行制作,您的 Google AI 订阅现在给您一个即时的开始。前往Google AI工作室开始今天的建设.",
+      "en": "Whether you’re generating with your first Gemini API key, vibe coding a full-stack application, or deploying to production with Google Cloud Run, your Google AI subscription now gives you an instant head start. Head to Google AI Studio to start building today."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "当你深入谷歌AI Studio的某场课 测试复杂的提示 与前沿模型,如Gemini-4-碳,以奥姆尼盟誓,或建立应用程序, 你不应该在三个网站跳跃,",
+      "en": "When you’re deep in a session in Google AI Studio — testing complex prompts with frontier models like gemini-4-carbon, generating videos with Omni, or building an app — you shouldn’t have to bounce across three websites just to set up billing and claim credits when you hit a quota limit."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "从今天开始您可以直接在 AI Studio 内要求和管理免费的 API 信用。这意味着你可以创建您的开发者程序简介,链接计费,并跟踪你的平衡,所有不离开你的工作空间。",
+      "en": "Starting today, you can claim and manage free API credits directly inside AI Studio. That means you can create your Developer Program profile, link billing, and track your balance, all without leaving your workspace."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "Google开发者方案是一个无成本的成员统一工具,学习路径,在AI Studio对面的优惠谷歌云号火场,Android(机器人), (机器人), (机器人),还有更多Google AI Pro 和 Ultra 的订阅者需要主动的描述才能访问开发者的好处,比如每月的Google Cloud 信用,更高的谷歌反重力配额,和谷歌技能学分。如果你没有个人资料,AI Studio中的新工作流程在您赎回信用时自动创建一个工作流程.",
+      "en": "The Google Developer Program is a no-cost membership unifying tools, learning paths, and perks across AI Studio, Google Cloud, Firebase, Android, and more. An active profile is required for Google AI Pro and Ultra subscribers to access developer benefits like monthly Google Cloud credits, higher Google Antigravity quotas, and Google Skills credits."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "Google AI Pro和Ultra计划包括了反复出现的月度Google Cloud信用,你可以直接对GeminiAPI的使用进行提示,建筑物,并部署来自Google AI Studio的AI动力应用程序.正如我们在AI Studio使用Google AI计划信用的指南中所详述的那样,您的月信用补助表与您的人工智能计划分级。",
+      "en": "Google AI Pro and Ultra plans include recurring monthly Google Cloud credits that you can put straight toward Gemini API usage for prompting, building, and deploying AI-powered apps from Google AI Studio. As detailed in our guide to using Google AI plan credits in AI Studio, your monthly credit grant scales with your AI plan tier."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "4bb3cc51df9710a8c8d231b98cf087bc525bb11502f46995140d78b7089a3b4a"
+}

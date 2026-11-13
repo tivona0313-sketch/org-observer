@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "rss-d2a87e2f3ff3ae0e50e6",
+      "title": "Connect Google Wallet to Gemini for personal finance insights",
+      "summary": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+      "date": "2026-11-13",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Connect Google Wallet to Gemini for personal finance insights",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-7d4d71d056da02862d0b",
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "date": "2026-11-13",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Introducing ChatGPT Wallet",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-65b96c238445cdedc96b",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -2241,35 +2273,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-13T11:10:24.835139+00:00",
-      "lastSuccess": "2026-11-13T11:10:24.991582+00:00",
+      "attemptedAt": "2026-11-13T17:03:45.163151+00:00",
+      "lastSuccess": "2026-11-13T17:03:45.340805+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-13T11:10:24.835853+00:00",
-      "lastSuccess": "2026-11-13T11:10:24.934396+00:00",
+      "attemptedAt": "2026-11-13T17:03:45.163931+00:00",
+      "lastSuccess": "2026-11-13T17:03:45.368558+00:00",
       "count": 11
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-13T11:10:24.836184+00:00",
-      "lastSuccess": "2026-11-13T11:10:24.906987+00:00",
+      "attemptedAt": "2026-11-13T17:03:45.164444+00:00",
+      "lastSuccess": "2026-11-13T17:03:45.283863+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-13T11:10:24.836521+00:00",
-      "lastSuccess": "2026-11-13T11:10:25.916049+00:00",
+      "attemptedAt": "2026-11-13T17:03:45.164911+00:00",
+      "lastSuccess": "2026-11-13T17:03:46.252096+00:00",
       "count": 5
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-13T11:10:25.916999+00:00",
-  "nextRefresh": "2026-11-13T16:17:00+00:00",
+  "lastRefresh": "2026-11-13T17:03:46.253518+00:00",
+  "nextRefresh": "2026-11-13T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "47796d4d9d71600707e4369fe2bd0e04181f3640a9c3026baee499ed57b79099"
+  "bilingualRevision": "55052b60c5ad8e60287f472d362a468898071247b660318d2347b7fbb71b0b39"
 }

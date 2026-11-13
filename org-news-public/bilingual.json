@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-13T05:09:27.582747+00:00",
-  "revision": "47796d4d9d71600707e4369fe2bd0e04181f3640a9c3026baee499ed57b79099",
+  "generatedAt": "2026-11-13T17:03:47.021374+00:00",
+  "revision": "55052b60c5ad8e60287f472d362a468898071247b660318d2347b7fbb71b0b39",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,46 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-d2a87e2f3ff3ae0e50e6": {
+      "original": {
+        "title": "Connect Google Wallet to Gemini for personal finance insights",
+        "summary": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
+        "sourceTitle": "Connect Google Wallet to Gemini for personal finance insights",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "连接 Google 钱包到Gemini, 以获取个人财务见解",
+        "summary": "美国所有Gemini应用用户.可以连接到Google钱包,以了解他们的支出习惯。",
+        "sourceTitle": "连接 Google 钱包到Gemini, 以获取个人财务见解",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Connect Google Wallet to Gemini for personal finance insights",
+        "summary": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
+        "sourceTitle": "Connect Google Wallet to Gemini for personal finance insights",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-7d4d71d056da02862d0b": {
+      "original": {
+        "title": "Introducing ChatGPT Wallet",
+        "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "sourceTitle": "Introducing ChatGPT Wallet",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "引入 ChatGPT 钱包",
+        "summary": "介绍ChatGPT钱包,在ChatGPT工作上的智能体们的安全方式,代码和点,以便在用户批准和现有的卡片保护下完成采购。",
+        "sourceTitle": "引入 ChatGPT 钱包",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Introducing ChatGPT Wallet",
+        "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "sourceTitle": "Introducing ChatGPT Wallet",
+        "source": "OpenAI News"
       }
     },
     "rss-65b96c238445cdedc96b": {

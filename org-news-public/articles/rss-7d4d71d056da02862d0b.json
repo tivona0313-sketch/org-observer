@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-7d4d71d056da02862d0b",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "sourceTitle": "Introducing ChatGPT Wallet",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-13T17:03:47.068958+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-14T17:03:47.117691+00:00"
+}

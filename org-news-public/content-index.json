@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T11:10:26.008308+00:00",
+  "updatedAt": "2026-11-13T17:03:50.650346+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -64,6 +64,19 @@
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
       "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
+    },
+    "rss-d2a87e2f3ff3ae0e50e6": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+      "sourceTitle": "Connect Google Wallet to Gemini for personal finance insights",
+      "contentHash": "d7fe02d86728c2565879036c71273771f65921f05404dacf6e7cebbed52cffac",
+      "fetchedAt": "2026-11-13T17:03:48.830785+00:00"
+    },
+    "rss-7d4d71d056da02862d0b": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "sourceTitle": "Introducing ChatGPT Wallet",
+      "error": "http_403"
     },
     "rss-65b96c238445cdedc96b": {
       "status": "ready",

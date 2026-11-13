@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-12T22:56:28.586152+00:00",
-  "revision": "da5584c47a9c95727271b47c3c6c7c043858e2a398667edaef5695562a990058",
+  "generatedAt": "2026-11-13T05:09:27.582747+00:00",
+  "revision": "47796d4d9d71600707e4369fe2bd0e04181f3640a9c3026baee499ed57b79099",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -581,6 +581,26 @@
       }
     },
     "rss-a491aa90d650ab2bf91e": {
+      "original": {
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "sourceTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "在OpenAI公司1至2天内,海拔船舶如何改进产品",
+        "summary": "主要建造于OpenAI模型上,振幅的主动产品代理商挥起手来确定要建造什么,帮助团队船用编码代理更改,并衡量影响。",
+        "sourceTitle": "在OpenAI公司1至2天内,海拔船舶如何改进产品",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+        "sourceTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-67672a694e389b29af55": {
       "original": {
         "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
         "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T22:56:41.460932+00:00",
+  "updatedAt": "2026-11-13T05:09:27.691175+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -129,6 +129,12 @@
     "rss-a491aa90d650ab2bf91e": {
       "status": "unavailable",
       "url": "https://openai.com/index/amplitude",
+      "sourceTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "error": "http_403"
+    },
+    "rss-67672a694e389b29af55": {
+      "status": "unavailable",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "sourceTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "error": "http_403"
     },

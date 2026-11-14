@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-a99dfdd20d85acbbb850",
+  "url": "https://openai.com/business/customer-stories/shield",
+  "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-14T05:01:45.667718+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-15T05:01:45.700853+00:00"
+}

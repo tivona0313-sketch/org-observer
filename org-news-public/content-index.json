@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T22:53:44.862066+00:00",
+  "updatedAt": "2026-11-14T05:01:45.732100+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -84,6 +84,12 @@
       "sourceTitle": "Claim your Google Cloud Credits in Google AI Studio",
       "contentHash": "4bb3cc51df9710a8c8d231b98cf087bc525bb11502f46995140d78b7089a3b4a",
       "fetchedAt": "2026-11-13T22:53:43.359856+00:00"
+    },
+    "rss-a99dfdd20d85acbbb850": {
+      "status": "unavailable",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "error": "http_403"
     },
     "rss-65b96c238445cdedc96b": {
       "status": "ready",

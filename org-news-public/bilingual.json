@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-13T22:53:41.598003+00:00",
-  "revision": "acaa41fca8b12596dcea5d22c2442420c62da8f8904ba4cca1419ddbf640266d",
+  "generatedAt": "2026-11-14T05:01:45.623434+00:00",
+  "revision": "bff5c32bd23b89212a969e3fccfe8132fd6f9ecf23cafcf8397cb137bfeee13a",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -458,6 +458,26 @@
         "summary": "Claim your Google Cloud Credits in Google AI Studio",
         "sourceTitle": "Claim your Google Cloud Credits in Google AI Studio",
         "source": "Google The Keyword"
+      }
+    },
+    "rss-a99dfdd20d85acbbb850": {
+      "original": {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+        "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "盾牌帮助技术员手接OpenAI的遗产门户工作",
+        "summary": "Shield利用OpenAI帮助IT技术人员在遗产门户上交接工作.它的Forge代理导航系统,这样技术人员就可以专注于需要他们判断的问题.",
+        "sourceTitle": "盾牌帮助技术员手接OpenAI的遗产门户工作",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+        "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "source": "OpenAI News"
       }
     },
     "rss-65b96c238445cdedc96b": {

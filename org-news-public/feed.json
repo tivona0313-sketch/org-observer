@@ -49,6 +49,22 @@
       "sourceId": "google"
     },
     {
+      "id": "rss-a99dfdd20d85acbbb850",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "date": "2026-11-13",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-65b96c238445cdedc96b",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -2289,35 +2305,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-13T22:53:40.114578+00:00",
-      "lastSuccess": "2026-11-13T22:53:40.204783+00:00",
+      "attemptedAt": "2026-11-14T05:01:44.026905+00:00",
+      "lastSuccess": "2026-11-14T05:01:44.319786+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-13T22:53:40.115176+00:00",
-      "lastSuccess": "2026-11-13T22:53:40.285946+00:00",
+      "attemptedAt": "2026-11-14T05:01:44.027737+00:00",
+      "lastSuccess": "2026-11-14T05:01:44.227415+00:00",
       "count": 11
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-13T22:53:40.115568+00:00",
-      "lastSuccess": "2026-11-13T22:53:40.232712+00:00",
+      "attemptedAt": "2026-11-14T05:01:44.028231+00:00",
+      "lastSuccess": "2026-11-14T05:01:44.157762+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-13T22:53:40.115942+00:00",
-      "lastSuccess": "2026-11-13T22:53:41.336341+00:00",
+      "attemptedAt": "2026-11-14T05:01:44.028916+00:00",
+      "lastSuccess": "2026-11-14T05:01:45.150255+00:00",
       "count": 5
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-13T22:53:41.337394+00:00",
-  "nextRefresh": "2026-11-14T04:17:00+00:00",
+  "lastRefresh": "2026-11-14T05:01:45.151483+00:00",
+  "nextRefresh": "2026-11-14T10:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "acaa41fca8b12596dcea5d22c2442420c62da8f8904ba4cca1419ddbf640266d"
+  "bilingualRevision": "bff5c32bd23b89212a969e3fccfe8132fd6f9ecf23cafcf8397cb137bfeee13a"
 }

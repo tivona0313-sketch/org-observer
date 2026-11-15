@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-14T05:01:45.623434+00:00",
-  "revision": "bff5c32bd23b89212a969e3fccfe8132fd6f9ecf23cafcf8397cb137bfeee13a",
+  "generatedAt": "2026-11-15T22:49:20.126625+00:00",
+  "revision": "08a0190992d9a9976db169724a8277e2be7dca750b9c4e447e8890b60dd86cc1",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,46 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-2e8f421d2ee2a3dfd36b": {
+      "original": {
+        "title": "A step toward defining the Standard Model on a lattice",
+        "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "sourceTitle": "A step toward defining the Standard Model on a lattice",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "界定 \" 标准模型 \" 的一步骤",
+        "summary": "探索标准模型的候选非扰动纹章定义,并探索GPT-6 Astra如何帮助将这个想法转化为一个详细的证明.",
+        "sourceTitle": "界定 \" 标准模型 \" 的一步骤",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "A step toward defining the Standard Model on a lattice",
+        "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+        "sourceTitle": "A step toward defining the Standard Model on a lattice",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-33b95c2112c46efd0955": {
+      "original": {
+        "title": "Our new blog for science",
+        "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "sourceTitle": "Our new blog for science",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "我们的新科学博客",
+        "summary": "OpenAI科学博客分享新发现,实用方法,以及研究人员利用AI推进科学发现的第一手资料。",
+        "sourceTitle": "我们的新科学博客",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Our new blog for science",
+        "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+        "sourceTitle": "Our new blog for science",
+        "source": "OpenAI News"
       }
     },
     "rss-d2a87e2f3ff3ae0e50e6": {

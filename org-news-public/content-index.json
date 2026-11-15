@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T16:52:06.089142+00:00",
+  "updatedAt": "2026-11-15T22:49:20.309244+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -64,6 +64,18 @@
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
       "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
+    },
+    "rss-2e8f421d2ee2a3dfd36b": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "sourceTitle": "A step toward defining the Standard Model on a lattice",
+      "error": "http_403"
+    },
+    "rss-33b95c2112c46efd0955": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "sourceTitle": "Our new blog for science",
+      "error": "http_403"
     },
     "rss-d2a87e2f3ff3ae0e50e6": {
       "status": "ready",

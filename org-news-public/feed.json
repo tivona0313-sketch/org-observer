@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "rss-2e8f421d2ee2a3dfd36b",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "date": "2026-11-15",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "A step toward defining the Standard Model on a lattice",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-33b95c2112c46efd0955",
+      "title": "Our new blog for science",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "date": "2026-11-15",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Our new blog for science",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-d2a87e2f3ff3ae0e50e6",
       "title": "Connect Google Wallet to Gemini for personal finance insights",
       "summary": "All Gemini app users in the U.S. can connect Google Wallet to get responses informed by their spending habits.",
@@ -2305,35 +2337,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-15T16:52:04.889338+00:00",
-      "lastSuccess": "2026-11-15T16:52:05.000124+00:00",
+      "attemptedAt": "2026-11-15T22:49:18.357997+00:00",
+      "lastSuccess": "2026-11-15T22:49:18.455029+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-15T16:52:04.889995+00:00",
-      "lastSuccess": "2026-11-15T16:52:05.024738+00:00",
+      "attemptedAt": "2026-11-15T22:49:18.358783+00:00",
+      "lastSuccess": "2026-11-15T22:49:18.681050+00:00",
       "count": 11
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-15T16:52:04.890356+00:00",
-      "lastSuccess": "2026-11-15T16:52:05.023137+00:00",
+      "attemptedAt": "2026-11-15T22:49:18.359307+00:00",
+      "lastSuccess": "2026-11-15T22:49:18.450138+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-15T16:52:04.890794+00:00",
-      "lastSuccess": "2026-11-15T16:52:05.992701+00:00",
+      "attemptedAt": "2026-11-15T22:49:18.360019+00:00",
+      "lastSuccess": "2026-11-15T22:49:19.500984+00:00",
       "count": 5
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-15T16:52:05.993662+00:00",
-  "nextRefresh": "2026-11-15T22:17:00+00:00",
+  "lastRefresh": "2026-11-15T22:49:19.502274+00:00",
+  "nextRefresh": "2026-11-16T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "bff5c32bd23b89212a969e3fccfe8132fd6f9ecf23cafcf8397cb137bfeee13a"
+  "bilingualRevision": "08a0190992d9a9976db169724a8277e2be7dca750b9c4e447e8890b60dd86cc1"
 }

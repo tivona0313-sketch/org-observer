@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T05:38:29.301679+00:00",
+  "updatedAt": "2026-11-16T11:32:59.954383+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -64,6 +64,40 @@
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
       "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
+    },
+    "rss-de2fdfd7d21bebae8a89": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+      "sourceTitle": "What teenagers really think about online safety and AI",
+      "contentHash": "2f7084272850fe5bc5241e999299d3b33646bfccd7cec3ac8632dd3ed8ed5e4f",
+      "fetchedAt": "2026-11-16T11:32:39.789648+00:00"
+    },
+    "rss-f6eef28ccc6a25ac7229": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
+      "sourceTitle": "Helping teens navigate online news and information",
+      "contentHash": "b65b476e5bdfc8e6b0dc6d197c73c93f31b1f8215b768f7825381a45de44f5b0",
+      "fetchedAt": "2026-11-16T11:32:39.758615+00:00"
+    },
+    "rss-a1ae67980e2b25b2c86a": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
+      "sourceTitle": "Listening to teens on online safety",
+      "contentHash": "62e4db22f8959c966c5bb68faa02b8deae2ac0932fc517bbf6ee442972d81cbe",
+      "fetchedAt": "2026-11-16T11:32:39.672769+00:00"
+    },
+    "rss-ff7833693fa2a06713dc": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "sourceTitle": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "error": "http_403"
+    },
+    "rss-ed8a714b90bf2d22a579": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+      "sourceTitle": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+      "contentHash": "23a79b273577471eb68e977f229d3ea812b09830dd2a4c0156d18ba5cdadf218",
+      "fetchedAt": "2026-11-16T11:32:56.437345+00:00"
     },
     "rss-2e8f421d2ee2a3dfd36b": {
       "status": "unavailable",

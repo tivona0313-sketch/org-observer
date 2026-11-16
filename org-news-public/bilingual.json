@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-15T22:49:20.126625+00:00",
-  "revision": "08a0190992d9a9976db169724a8277e2be7dca750b9c4e447e8890b60dd86cc1",
+  "generatedAt": "2026-11-16T11:32:37.506003+00:00",
+  "revision": "0e93115cbf86dc9a2c1c581f73f15924bd2e6ff41aa99193f4a4b8592cb5095e",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,106 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-de2fdfd7d21bebae8a89": {
+      "original": {
+        "title": "What teenagers really think about online safety and AI",
+        "summary": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
+        "sourceTitle": "What teenagers really think about online safety and AI",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "青少年对网络安全和AI的真正想法",
+        "summary": "家长区的首席执行官维琪·肖波特解释英国青少年如何在数字上好奇并警惕网络风险,依靠父母支持,创造性地利用AI学习.",
+        "sourceTitle": "青少年对网络安全和AI的真正想法",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "What teenagers really think about online safety and AI",
+        "summary": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
+        "sourceTitle": "What teenagers really think about online safety and AI",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-f6eef28ccc6a25ac7229": {
+      "original": {
+        "title": "Helping teens navigate online news and information",
+        "summary": "Rachel Huggins, CEO of Internet Matters, explains how UK teens navigate AI and online news, highlighting the need for media literacy support from educators, platforms, a…",
+        "sourceTitle": "Helping teens navigate online news and information",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "帮助青少年浏览在线新闻和信息",
+        "summary": "瑞秋・哈金斯,因特网事务首席执行官解释英国青少年如何浏览AI和网络新闻,强调需要教育工作者提供媒体扫盲支助,平台,则一个...",
+        "sourceTitle": "帮助青少年浏览在线新闻和信息",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Helping teens navigate online news and information",
+        "summary": "Rachel Huggins, CEO of Internet Matters, explains how UK teens navigate AI and online news, highlighting the need for media literacy support from educators, platforms, a…",
+        "sourceTitle": "Helping teens navigate online news and information",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-a1ae67980e2b25b2c86a": {
+      "original": {
+        "title": "Listening to teens on online safety",
+        "summary": "Will Gardner, CEO of Childnet, explains how teenagers are embracing AI creatively and responsibly, emphasising the vital role of listening to young voices when navigatin…",
+        "sourceTitle": "Listening to teens on online safety",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "在网络安全方面倾听青少年的声音",
+        "summary": "威尔・加德纳,Childnet的首席执行官,解释青少年是如何创造性和负责任地接受AI的,{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}强调在导航时 听年轻声音的关键作用 {\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}",
+        "sourceTitle": "在网络安全方面倾听青少年的声音",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Listening to teens on online safety",
+        "summary": "Will Gardner, CEO of Childnet, explains how teenagers are embracing AI creatively and responsibly, emphasising the vital role of listening to young voices when navigatin…",
+        "sourceTitle": "Listening to teens on online safety",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-ff7833693fa2a06713dc": {
+      "original": {
+        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+        "sourceTitle": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "LVMH的媒体司宣布与OpenAI建立战略伙伴关系",
+        "summary": "LVMH的媒体司和OpenAI宣布与AI建立伙伴关系,支持新闻工作,并通过ChatGPT使其出版物更容易获得.",
+        "sourceTitle": "LVMH的媒体司宣布与OpenAI建立战略伙伴关系",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+        "sourceTitle": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-ed8a714b90bf2d22a579": {
+      "original": {
+        "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+        "summary": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. The post 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed appeared first on Meta Newsroom …",
+        "sourceTitle": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "94%的新加坡小企业主接受调查,说需要更多的AI指导",
+        "summary": "180多个小企业,心脏地带商人和创造者-企业家加入新加坡的2026年梅塔Upskill Day,梅塔的小企业增长学院的一部分,高级国务部长Low Yen Ling作为贵宾出席。新加坡94%的小企业业主接受调查,",
+        "sourceTitle": "94%的新加坡小企业主接受调查,说需要更多的AI指导",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+        "summary": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. The post 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed appeared first on Meta Newsroom …",
+        "sourceTitle": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+        "source": "Meta Newsroom"
       }
     },
     "rss-2e8f421d2ee2a3dfd36b": {

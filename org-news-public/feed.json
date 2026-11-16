@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "id": "rss-de2fdfd7d21bebae8a89",
+      "title": "What teenagers really think about online safety and AI",
+      "summary": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "What teenagers really think about online safety and AI",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-f6eef28ccc6a25ac7229",
+      "title": "Helping teens navigate online news and information",
+      "summary": "Rachel Huggins, CEO of Internet Matters, explains how UK teens navigate AI and online news, highlighting the need for media literacy support from educators, platforms, a…",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Helping teens navigate online news and information",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-a1ae67980e2b25b2c86a",
+      "title": "Listening to teens on online safety",
+      "summary": "Will Gardner, CEO of Childnet, explains how teenagers are embracing AI creatively and responsibly, emphasising the vital role of listening to young voices when navigatin…",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Listening to teens on online safety",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-ff7833693fa2a06713dc",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-ed8a714b90bf2d22a579",
+      "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+      "summary": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. The post 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed appeared first on Meta Newsroom …",
+      "company": "Meta",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+      "date": "2026-11-16",
+      "categories": [
+        "人才标准",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+      "sourceId": "meta"
+    },
+    {
       "id": "rss-2e8f421d2ee2a3dfd36b",
       "title": "A step toward defining the Standard Model on a lattice",
       "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
@@ -2337,35 +2418,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-16T05:38:26.559020+00:00",
-      "lastSuccess": "2026-11-16T05:38:26.704760+00:00",
+      "attemptedAt": "2026-11-16T11:32:34.815024+00:00",
+      "lastSuccess": "2026-11-16T11:32:34.955110+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-16T05:38:26.559624+00:00",
-      "lastSuccess": "2026-11-16T05:38:26.754102+00:00",
+      "attemptedAt": "2026-11-16T11:32:34.815640+00:00",
+      "lastSuccess": "2026-11-16T11:32:35.072711+00:00",
       "count": 11
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-16T05:38:26.559992+00:00",
-      "lastSuccess": "2026-11-16T05:38:26.685685+00:00",
+      "attemptedAt": "2026-11-16T11:32:34.816058+00:00",
+      "lastSuccess": "2026-11-16T11:32:34.998912+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-16T05:38:26.560362+00:00",
-      "lastSuccess": "2026-11-16T05:38:27.754061+00:00",
-      "count": 5
+      "attemptedAt": "2026-11-16T11:32:34.816420+00:00",
+      "lastSuccess": "2026-11-16T11:32:36.190412+00:00",
+      "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-16T05:38:27.755063+00:00",
-  "nextRefresh": "2026-11-16T10:17:00+00:00",
+  "lastRefresh": "2026-11-16T11:32:36.191524+00:00",
+  "nextRefresh": "2026-11-16T16:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "08a0190992d9a9976db169724a8277e2be7dca750b9c4e447e8890b60dd86cc1"
+  "bilingualRevision": "0e93115cbf86dc9a2c1c581f73f15924bd2e6ff41aa99193f4a4b8592cb5095e"
 }

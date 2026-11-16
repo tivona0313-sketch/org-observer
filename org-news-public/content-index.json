@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T11:32:59.954383+00:00",
+  "updatedAt": "2026-11-16T17:23:43.035189+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -99,6 +99,64 @@
       "contentHash": "23a79b273577471eb68e977f229d3ea812b09830dd2a4c0156d18ba5cdadf218",
       "fetchedAt": "2026-11-16T11:32:56.437345+00:00"
     },
+    "rss-d544aca72f274648c916": {
+      "status": "ready",
+      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+      "sourceTitle": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+      "contentHash": "9dddc46be7a9cd99305bc32f401b345fbb19d9ed453ad191d21bf811aa9f2705",
+      "fetchedAt": "2026-11-16T17:23:38.120268+00:00"
+    },
+    "rss-e8b857e8ee7e26563438": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+      "sourceTitle": "New AI training performance benchmarks for Google TPUs",
+      "contentHash": "6269e5e5dcfd49b8c892835edd0c2682d06f7e2235411cbd56a9a490b6f80e24",
+      "fetchedAt": "2026-11-16T17:23:39.215129+00:00"
+    },
+    "rss-11608d311d0047796796": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "sourceTitle": "New Ask Maps features to help with holiday travel and prep",
+      "contentHash": "df6255cddbd40a8e94e439d163982decd5718afa02c1e36297506d37db069ecb",
+      "fetchedAt": "2026-11-16T17:23:38.679460+00:00"
+    },
+    "rss-5d2d450bd371c141cfdb": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
+      "sourceTitle": "Ask Maps is coming to Europe.",
+      "contentHash": "dcffb38ad5928e9c1f5aff85de199c439a2df4879f2f3227aeb406255160089b",
+      "fetchedAt": "2026-11-16T17:23:42.630260+00:00"
+    },
+    "rss-2d7a5d6b20fff3cd431e": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "sourceTitle": "Broadening access to AI for scientists",
+      "error": "http_403"
+    },
+    "rss-d91fd06de7b8771ee8ad": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "sourceTitle": "Science at the Frontier: How scientists use ChatGPT",
+      "error": "http_403"
+    },
+    "rss-21b4758ab52123ac78ff": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "sourceTitle": "Advancing computer-use agents for healthcare teams",
+      "error": "http_403"
+    },
+    "rss-21e886491b30cfff0403": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "sourceTitle": "More ways to move care forward with ChatGPT for Healthcare",
+      "error": "http_403"
+    },
+    "rss-60f3c7381bc61eae5e3d": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "sourceTitle": "The King’s Trust and OpenAI launch £1m partnership",
+      "error": "http_403"
+    },
     "rss-2e8f421d2ee2a3dfd36b": {
       "status": "unavailable",
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -135,6 +193,12 @@
       "status": "unavailable",
       "url": "https://openai.com/business/customer-stories/shield",
       "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "error": "http_403"
+    },
+    "rss-9fe6d2ae73e55f52b807": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "sourceTitle": "Our first phase of embedded assessments",
       "error": "http_403"
     },
     "rss-65b96c238445cdedc96b": {

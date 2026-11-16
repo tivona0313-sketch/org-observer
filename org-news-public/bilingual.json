@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-16T11:32:37.506003+00:00",
-  "revision": "0e93115cbf86dc9a2c1c581f73f15924bd2e6ff41aa99193f4a4b8592cb5095e",
+  "generatedAt": "2026-11-16T17:23:36.414053+00:00",
+  "revision": "5df2c8d47b4d75716d98e89a21242fba11241fd0648ece7cb85a3b06c1f495c1",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -500,6 +500,186 @@
         "source": "Meta Newsroom"
       }
     },
+    "rss-d544aca72f274648c916": {
+      "original": {
+        "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+        "summary": "New Google AdMob AI tools help app developers fix setups fast, protect brand safety, and automate monetization in code.",
+        "sourceTitle": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "新的 Google AdMob AI 工具帮助应用程序创建者构建,修补,并且成长得更快",
+        "summary": "新的 Google AdMob AI 工具帮助应用程序开发者快速修复设置,保护品牌安全,在代码中自动货币化。",
+        "sourceTitle": "新的 Google AdMob AI 工具帮助应用程序创建者构建,修补,并且成长得更快",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+        "summary": "New Google AdMob AI tools help app developers fix setups fast, protect brand safety, and automate monetization in code.",
+        "sourceTitle": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-e8b857e8ee7e26563438": {
+      "original": {
+        "title": "New AI training performance benchmarks for Google TPUs",
+        "summary": "In the latest MLPerf Training v6.1 benchmark round, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning f…",
+        "sourceTitle": "New AI training performance benchmarks for Google TPUs",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Google TPU的新AI培训绩效基准",
+        "summary": "在最新的MLPerf Training v6.1基准回合中,Google Cloud发布了跨第七代Ironwood TPU和NVIDIA Grace Blackwell GPU的10个结果,横跨F...",
+        "sourceTitle": "Google TPU的新AI培训绩效基准",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "New AI training performance benchmarks for Google TPUs",
+        "summary": "In the latest MLPerf Training v6.1 benchmark round, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning f…",
+        "sourceTitle": "New AI training performance benchmarks for Google TPUs",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-11608d311d0047796796": {
+      "original": {
+        "title": "New Ask Maps features to help with holiday travel and prep",
+        "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+        "sourceTitle": "New Ask Maps features to help with holiday travel and prep",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "新建询问地图功能, 帮助节假日旅行和准备",
+        "summary": "计划假日公路旅行,得到路线提示,找到当地任命,并用新的 Ask Maps 特性搜索您保存的列表。",
+        "sourceTitle": "新建询问地图功能, 帮助节假日旅行和准备",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "New Ask Maps features to help with holiday travel and prep",
+        "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+        "sourceTitle": "New Ask Maps features to help with holiday travel and prep",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-5d2d450bd371c141cfdb": {
+      "original": {
+        "title": "Ask Maps is coming to Europe.",
+        "summary": "Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map cou…",
+        "sourceTitle": "Ask Maps is coming to Europe.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "问地图来欧洲了.",
+        "summary": "Ask Maps是Google Maps十多年来最大的更新.以世界上最新鲜的地图和Gemini模型为动力,它回答复杂,现实世界质疑地图...",
+        "sourceTitle": "问地图来欧洲了.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Ask Maps is coming to Europe.",
+        "summary": "Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map cou…",
+        "sourceTitle": "Ask Maps is coming to Europe.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-2d7a5d6b20fff3cd431e": {
+      "original": {
+        "title": "Broadening access to AI for scientists",
+        "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+        "sourceTitle": "Broadening access to AI for scientists",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "扩大科学家获得AI的机会",
+        "summary": "提供全球20万名研究人员免费访问我们的前沿模型。",
+        "sourceTitle": "扩大科学家获得AI的机会",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Broadening access to AI for scientists",
+        "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+        "sourceTitle": "Broadening access to AI for scientists",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-d91fd06de7b8771ee8ad": {
+      "original": {
+        "title": "Science at the Frontier: How scientists use ChatGPT",
+        "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+        "sourceTitle": "Science at the Frontier: How scientists use ChatGPT",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "边疆科学:科学家如何使用ChatGPT",
+        "summary": "探索1800多名科学家如何在研究中使用ChatGPT.见关于每日工作流程的调查结果,报告的生产率,和对发现的期望。",
+        "sourceTitle": "边疆科学:科学家如何使用ChatGPT",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Science at the Frontier: How scientists use ChatGPT",
+        "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+        "sourceTitle": "Science at the Frontier: How scientists use ChatGPT",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-21b4758ab52123ac78ff": {
+      "original": {
+        "title": "Advancing computer-use agents for healthcare teams",
+        "summary": "该来源未提供摘要，请打开原文阅读。",
+        "sourceTitle": "Advancing computer-use agents for healthcare teams",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "推进医疗队计算机使用代理服务",
+        "summary": "该来源未提供摘要，请打开原文阅读。",
+        "sourceTitle": "推进医疗队计算机使用代理服务",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Advancing computer-use agents for healthcare teams",
+        "summary": "The source did not provide a summary. Please open the original text for reading.",
+        "sourceTitle": "Advancing computer-use agents for healthcare teams",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-21e886491b30cfff0403": {
+      "original": {
+        "title": "More ways to move care forward with ChatGPT for Healthcare",
+        "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+        "sourceTitle": "More ways to move care forward with ChatGPT for Healthcare",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "以更多方式推动保健护理工作",
+        "summary": "引进计算机使用剂,更好的临床答案,和新的保健插件 工作跨 保健软件, 得到真正的工作。",
+        "sourceTitle": "以更多方式推动保健护理工作",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "More ways to move care forward with ChatGPT for Healthcare",
+        "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+        "sourceTitle": "More ways to move care forward with ChatGPT for Healthcare",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-60f3c7381bc61eae5e3d": {
+      "original": {
+        "title": "The King’s Trust and OpenAI launch £1m partnership",
+        "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+        "sourceTitle": "The King’s Trust and OpenAI launch £1m partnership",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "国王信托和OpenAI 推出100万英镑的伙伴关系",
+        "summary": "国王信托基金和OpenAI发起一项价值100万英镑的伙伴关系,以帮助整个联合王国的25 000名年轻人建立实用的AI技能。",
+        "sourceTitle": "国王信托和OpenAI 推出100万英镑的伙伴关系",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "The King’s Trust and OpenAI launch £1m partnership",
+        "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+        "sourceTitle": "The King’s Trust and OpenAI launch £1m partnership",
+        "source": "OpenAI News"
+      }
+    },
     "rss-2e8f421d2ee2a3dfd36b": {
       "original": {
         "title": "A step toward defining the Standard Model on a lattice",
@@ -617,6 +797,26 @@
         "title": "Shield helps technicians hand off legacy portal work with OpenAI",
         "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
         "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-9fe6d2ae73e55f52b807": {
+      "original": {
+        "title": "Our first phase of embedded assessments",
+        "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+        "sourceTitle": "Our first phase of embedded assessments",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "我们的第一阶段嵌入式摊款",
+        "summary": "OpenAI开始与阿波罗研究公司进行嵌入式评估,METR,(音乐)和透明,和Goodfire独立评估模型对齐,保障措施,和监测系统。",
+        "sourceTitle": "我们的第一阶段嵌入式摊款",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Our first phase of embedded assessments",
+        "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+        "sourceTitle": "Our first phase of embedded assessments",
         "source": "OpenAI News"
       }
     },

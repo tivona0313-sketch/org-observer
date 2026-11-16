@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-d544aca72f274648c916",
+  "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+  "sourceTitle": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+  "status": "ready",
+  "attemptedAt": "2026-11-16T17:23:36.448928+00:00",
+  "fetchedAt": "2026-11-16T17:23:38.120268+00:00",
+  "finalURL": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+  "language": "en",
+  "originalTitle": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+  "author": "Naomi Ben-Ayoun",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Building a successful mobile app means balancing a great user experience with ads monetization. But manually managing ad setups, fixing integration errors, and auditing brand safety pulls your team’s focus away from building. To help you simplify operations and accelerate your productivity, we’re introducing new AI tools for AdMob, Ask AdMob, agent skills and an MCP server. These new tools, built with Google AI, can help you earn more revenue and build your app business faster.",
+      "id": "p1",
+      "zh": "建立成功的移动应用意味着在用户的丰富经验与广告货币化之间取得平衡.但手动管理广告设置,修复集成错误,并审计品牌安全 吸引了团队的注意力 远离建设。为了帮助你简化操作 和加快你的生产力,我们为AdMob推出新的AI工具,问AdMob,代理技能和一个MCP服务器.这些新工具,与Google AI一同建造,可以帮助你赚取更多的收入,并更快地建设你的应用业务.",
+      "en": "Building a successful mobile app means balancing a great user experience with ads monetization. But manually managing ad setups, fixing integration errors, and auditing brand safety pulls your team’s focus away from building. To help you simplify operations and accelerate your productivity, we’re introducing new AI tools for AdMob, Ask AdMob, agent skills and an MCP server. These new tools, built with Google AI, can help you earn more revenue and build your app business faster."
+    },
+    {
+      "kind": "heading",
+      "text": "Fine-tune your monetization with Ask AdMob",
+      "id": "p2",
+      "zh": "用 AdMob 调整货币化",
+      "en": "Fine-tune your monetization with Ask AdMob"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Ask AdMob, a conversational agent built with Gemini, will live directly in your AdMob account. Trained on AdMob monetization best practices, it can help fix issues, find revenue opportunities, and protect your brand safety like an AdMob product expert. Here are a few examples of what Ask AdMob can do for you.",
+      "id": "p3",
+      "zh": "问AdMob,和Gemini搭建的谈话智能体将直接住在您的 AdMob 账户中。接受关于广告货币化最佳做法的培训,它可以帮助解决问题,寻找收入机会,保护你的品牌安全 就像一个AdMob产品专家下面是AdMob能为你做什么的几个例子.",
+      "en": "Ask AdMob, a conversational agent built with Gemini, will live directly in your AdMob account. Trained on AdMob monetization best practices, it can help fix issues, find revenue opportunities, and protect your brand safety like an AdMob product expert. Here are a few examples of what Ask AdMob can do for you."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Find and fix setup issues, skipping the manual guesswork: The troubleshooting hub will help you spot setup anomalies and SDK integration issues. Ask AdMob has visibility into how ads are loading in your app so it can highlight recommendations to resolve issues impacting your revenue.",
+      "id": "p4",
+      "zh": "找出和解决设置问题,跳过手动猜测工作 :故障排除中心会帮助你发现异常和SDK集成问题.问 AdMob 如何在您的应用程序中装入广告的能见度, 这样它就可以强调解决影响您收入的问题的建议 。",
+      "en": "Find and fix setup issues, skipping the manual guesswork: The troubleshooting hub will help you spot setup anomalies and SDK integration issues. Ask AdMob has visibility into how ads are loading in your app so it can highlight recommendations to resolve issues impacting your revenue."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Identify new revenue opportunities: Ask AdMob uses peer benchmarks to recommend high-value SDK bidders with predicted revenue uplifts to add to your setup and help optimize your mediation groups. For example, Ask AdMob will automatically check your third-party network configuration to catch costly typos and floor price discrepancies before they impact your yield.",
+      "id": "p5",
+      "zh": "确定新的收入机会:请 AdMob 使用同行基准推荐高价值的 SDK 投标人, 并预估收入上涨, 以添加您的设置, 并帮助优化您的调解组 。举例来说,询问 AdMob 会自动检查您的第三方网络配置, 以捕捉昂贵的打字和底价差异, 以免影响您的产量 。",
+      "en": "Identify new revenue opportunities: Ask AdMob uses peer benchmarks to recommend high-value SDK bidders with predicted revenue uplifts to add to your setup and help optimize your mediation groups. For example, Ask AdMob will automatically check your third-party network configuration to catch costly typos and floor price discrepancies before they impact your yield."
+    },
+    {
+      "kind": "list",
+      "text": "Create effective brand safety rules with natural language: Instead of manually managing blocklists, you can configure custom brand safety rules using simple, natural-language prompts in your AdMob UI.",
+      "id": "p6",
+      "zh": "以自然语言创建有效的品牌安全规则:而不是手动管理块列表,您可以使用简单配置自定义品牌安全规则,在您的 AdMob UI 中自然语言提示 。",
+      "en": "Create effective brand safety rules with natural language: Instead of manually managing blocklists, you can configure custom brand safety rules using simple, natural-language prompts in your AdMob UI."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’ll begin testing these capabilities over the next few months and continue evolving Ask AdMob with more advanced features to take action on your behalf later next year. As always, you remain in control, reviewing and approving every recommendation before it’s applied.",
+      "id": "p7",
+      "zh": "我们将在接下来的几个月开始测试这些能力,像往常一样你将掌握一切,审查和批准每项建议,然后才予以适用。",
+      "en": "We’ll begin testing these capabilities over the next few months and continue evolving Ask AdMob with more advanced features to take action on your behalf later next year. As always, you remain in control, reviewing and approving every recommendation before it’s applied."
+    },
+    {
+      "kind": "heading",
+      "text": "Manage ad setups directly with your AI agent",
+      "id": "p8",
+      "zh": "直接用您的 AI 代理管理 ad 设置",
+      "en": "Manage ad setups directly with your AI agent"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Previously, setting up ad placements meant clicking through web dashboards, copying and pasting ad unit IDs, and managing ad configuration files outside your codebase. With AdMob agent skills and an upcoming MCP server, we’re giving you the tools to enable your preferred AI agent to build, edit, and validate ad code for your app.",
+      "id": "p9",
+      "zh": "先前,设置广告投放,意味着点击 通过网络仪表板,复制和粘贴广告单位的身份证,并管理代码库外的广告配置文件。有了AdMob代理技能和即将到来的MCP服务器,我们给了你一些工具 让你更喜欢的人工智能代理能够建立,编辑,并验证您的应用程序的广告代码 。",
+      "en": "Previously, setting up ad placements meant clicking through web dashboards, copying and pasting ad unit IDs, and managing ad configuration files outside your codebase. With AdMob agent skills and an upcoming MCP server, we’re giving you the tools to enable your preferred AI agent to build, edit, and validate ad code for your app."
+    },
+    {
+      "kind": "paragraph",
+      "text": "AdMob agent skills give your AI agent pre-built, tested playbooks to implement coding tasks like, migrating to the Google Mobile Ads Next-Gen SDK, validating your SDK implementation, and implementing new ad formats in your app. Find these skills and more on our developer site.",
+      "id": "p10",
+      "zh": "AdMob代理技能 让你的人工智能代理预建,已测试的游戏簿, 以执行编码任务, 例如,迁移到Google移动广告下Gen SDK,验证您的 SDK 执行,在您的应用程序中执行新的广告格式。在开发商的网站上找到更多这些技能。",
+      "en": "AdMob agent skills give your AI agent pre-built, tested playbooks to implement coding tasks like, migrating to the Google Mobile Ads Next-Gen SDK, validating your SDK implementation, and implementing new ad formats in your app. Find these skills and more on our developer site."
+    },
+    {
+      "kind": "paragraph",
+      "text": "While agent skills can help you implement tasks today, we’re also working on an AdMob MCP server to connect your developer environments directly with AdMob. Soon your AI agent will be able to read account data, write new ad units, and manage mediation settings. All you have to do is review and approve the updates before you push them to production. This is in early testing and will be expanding to more developers early next year.",
+      "id": "p11",
+      "zh": "虽然代理技能可以帮助你执行今天的任务,我们还在开发一个 AdMob MCP 服务器, 将您的开发环境直接连接到 AdMob 。很快你的人工智能智能体就能读取账户数据了写新的广告单位,并管理调解环境。只需审查并批准更新,然后推动其制作.这在早期测试中,并将在明年初扩展到更多的开发者.",
+      "en": "While agent skills can help you implement tasks today, we’re also working on an AdMob MCP server to connect your developer environments directly with AdMob. Soon your AI agent will be able to read account data, write new ad units, and manage mediation settings. All you have to do is review and approve the updates before you push them to production. This is in early testing and will be expanding to more developers early next year."
+    },
+    {
+      "kind": "heading",
+      "text": "Prepare your business for a more agentic 2027",
+      "id": "p12",
+      "zh": "为2027年的代理商准备好你的生意",
+      "en": "Prepare your business for a more agentic 2027"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Throughout 2027, we’ll introduce a much broader and more advanced wave of AI tools for app developers — expanding both in-product and AI agent capabilities. These tools will handle more of the routine operational workload so you can focus on what matters most: your product, your users, and your business.",
+      "id": "p13",
+      "zh": "整个2027年我们将会为应用开发者推出更广泛、更先进的AI工具,这些工具将处理更多的日常业务工作量,以便你能够集中精力处理最重要的问题:你的产品,用户,还有你的生意",
+      "en": "Throughout 2027, we’ll introduce a much broader and more advanced wave of AI tools for app developers — expanding both in-product and AI agent capabilities. These tools will handle more of the routine operational workload so you can focus on what matters most: your product, your users, and your business."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "建立成功的移动应用意味着在用户的丰富经验与广告货币化之间取得平衡.但手动管理广告设置,修复集成错误,并审计品牌安全 吸引了团队的注意力 远离建设。为了帮助你简化操作 和加快你的生产力,我们为AdMob推出新的AI工具,问AdMob,代理技能和一个MCP服务器.这些新工具,与Google AI一同建造,可以帮助你赚取更多的收入,并更快地建设你的应用业务.",
+      "en": "Building a successful mobile app means balancing a great user experience with ads monetization. But manually managing ad setups, fixing integration errors, and auditing brand safety pulls your team’s focus away from building."
+    },
+    {
+      "paragraphId": "p9",
+      "zh": "先前,设置广告投放,意味着点击 通过网络仪表板,复制和粘贴广告单位的身份证,并管理代码库外的广告配置文件。有了AdMob代理技能和即将到来的MCP服务器,我们给了你一些工具 让你更喜欢的人工智能代理能够建立,编辑,并验证您的应用程序的广告代码 。",
+      "en": "Previously, setting up ad placements meant clicking through web dashboards, copying and pasting ad unit IDs, and managing ad configuration files outside your codebase. With AdMob agent skills and an upcoming MCP server, we’re giving you the tools to enable your preferred AI agent to build, edit, and validate ad code for your app."
+    },
+    {
+      "paragraphId": "p10",
+      "zh": "AdMob代理技能 让你的人工智能代理预建,已测试的游戏簿, 以执行编码任务, 例如,迁移到Google移动广告下Gen SDK,验证您的 SDK 执行,在您的应用程序中执行新的广告格式。在开发商的网站上找到更多这些技能。",
+      "en": "AdMob agent skills give your AI agent pre-built, tested playbooks to implement coding tasks like, migrating to the Google Mobile Ads Next-Gen SDK, validating your SDK implementation, and implementing new ad formats in your app. Find these skills and more on our developer site."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "虽然代理技能可以帮助你执行今天的任务,我们还在开发一个 AdMob MCP 服务器, 将您的开发环境直接连接到 AdMob 。很快你的人工智能智能体就能读取账户数据了写新的广告单位,并管理调解环境。",
+      "en": "While agent skills can help you implement tasks today, we’re also working on an AdMob MCP server to connect your developer environments directly with AdMob. Soon your AI agent will be able to read account data, write new ad units, and manage mediation settings."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "9dddc46be7a9cd99305bc32f401b345fbb19d9ed453ad191d21bf811aa9f2705"
+}

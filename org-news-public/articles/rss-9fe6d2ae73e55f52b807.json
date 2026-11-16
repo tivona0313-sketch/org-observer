@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-9fe6d2ae73e55f52b807",
+  "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "sourceTitle": "Our first phase of embedded assessments",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-16T17:23:41.671789+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-17T17:23:41.704892+00:00"
+}

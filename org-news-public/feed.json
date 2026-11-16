@@ -82,6 +82,153 @@
       "sourceId": "meta"
     },
     {
+      "id": "rss-d544aca72f274648c916",
+      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+      "summary": "New Google AdMob AI tools help app developers fix setups fast, protect brand safety, and automate monetization in code.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-e8b857e8ee7e26563438",
+      "title": "New AI training performance benchmarks for Google TPUs",
+      "summary": "In the latest MLPerf Training v6.1 benchmark round, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning f…",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+      "date": "2026-11-16",
+      "categories": [
+        "人才标准",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "New AI training performance benchmarks for Google TPUs",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-11608d311d0047796796",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "date": "2026-11-16",
+      "categories": [
+        "组织架构"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "New Ask Maps features to help with holiday travel and prep",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-5d2d450bd371c141cfdb",
+      "title": "Ask Maps is coming to Europe.",
+      "summary": "Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map cou…",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Ask Maps is coming to Europe.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-2d7a5d6b20fff3cd431e",
+      "title": "Broadening access to AI for scientists",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Broadening access to AI for scientists",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-d91fd06de7b8771ee8ad",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "date": "2026-11-16",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Science at the Frontier: How scientists use ChatGPT",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-21b4758ab52123ac78ff",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "summary": "该来源未提供摘要，请打开原文阅读。",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Advancing computer-use agents for healthcare teams",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-21e886491b30cfff0403",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "More ways to move care forward with ChatGPT for Healthcare",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-60f3c7381bc61eae5e3d",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "date": "2026-11-16",
+      "categories": [
+        "人才标准",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "The King’s Trust and OpenAI launch £1m partnership",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-2e8f421d2ee2a3dfd36b",
       "title": "A step toward defining the Standard Model on a lattice",
       "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
@@ -175,6 +322,22 @@
       "type": "官方订阅",
       "live": true,
       "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-9fe6d2ae73e55f52b807",
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "date": "2026-11-13",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Our first phase of embedded assessments",
       "sourceId": "openai"
     },
     {
@@ -2418,35 +2581,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-16T11:32:34.815024+00:00",
-      "lastSuccess": "2026-11-16T11:32:34.955110+00:00",
+      "attemptedAt": "2026-11-16T17:23:33.090698+00:00",
+      "lastSuccess": "2026-11-16T17:23:33.242833+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-16T11:32:34.815640+00:00",
-      "lastSuccess": "2026-11-16T11:32:35.072711+00:00",
-      "count": 11
+      "attemptedAt": "2026-11-16T17:23:33.091396+00:00",
+      "lastSuccess": "2026-11-16T17:23:33.224450+00:00",
+      "count": 14
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-16T11:32:34.816058+00:00",
-      "lastSuccess": "2026-11-16T11:32:34.998912+00:00",
+      "attemptedAt": "2026-11-16T17:23:33.091768+00:00",
+      "lastSuccess": "2026-11-16T17:23:33.196306+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-16T11:32:34.816420+00:00",
-      "lastSuccess": "2026-11-16T11:32:36.190412+00:00",
+      "attemptedAt": "2026-11-16T17:23:33.092131+00:00",
+      "lastSuccess": "2026-11-16T17:23:34.221920+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-16T11:32:36.191524+00:00",
-  "nextRefresh": "2026-11-16T16:17:00+00:00",
+  "lastRefresh": "2026-11-16T17:23:34.223077+00:00",
+  "nextRefresh": "2026-11-16T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "0e93115cbf86dc9a2c1c581f73f15924bd2e6ff41aa99193f4a4b8592cb5095e"
+  "bilingualRevision": "5df2c8d47b4d75716d98e89a21242fba11241fd0648ece7cb85a3b06c1f495c1"
 }

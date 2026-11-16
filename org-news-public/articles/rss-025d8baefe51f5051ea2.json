@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-025d8baefe51f5051ea2",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+  "sourceTitle": "Regional voices are rolling out in the Gemini app.",
+  "status": "ready",
+  "attemptedAt": "2026-11-16T22:56:59.979837+00:00",
+  "fetchedAt": "2026-11-16T22:57:03.445086+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+  "language": "en",
+  "originalTitle": "Regional voices are rolling out in the Gemini app.",
+  "author": "Neel Joshi",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "At Google I/O, we shared plans to bring local dialects to Gemini, so you can choose a voice that truly resonates with you. Today, we’re rolling out 66 new regional voices in the Gemini app on Android and iOS, including U.S. English, U.K. English, India English, Hindi, Brazilian Portuguese, Indonesian, and Korean, with tailored options for each.",
+      "id": "p1",
+      "zh": "在Google I/O时,我们共同计划把当地方言带到Gemini所以,你可以选择一个 真正与你共鸣的声音。今天,我们...我们推出66个新的区域声音 在双子星应用 关于Android和iOS,包括美国.英语,吴克.英语,印度英语印地语,巴西葡萄牙语,印度尼西亚人,韩文每一个都有专门选择。",
+      "en": "At Google I/O, we shared plans to bring local dialects to Gemini, so you can choose a voice that truly resonates with you. Today, we’re rolling out 66 new regional voices in the Gemini app on Android and iOS, including U.S. English, U.K. English, India English, Hindi, Brazilian Portuguese, Indonesian, and Korean, with tailored options for each."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Each voice is tuned for natural cadences and everyday clarity, rather than exaggerated accents. They capture familiar local rhythms, pitch, and inflection to make talking with Gemini feel more personal. Your selected voice carries across the entire app, whether you’re brainstorming out loud in Gemini Live, practicing a language, or tapping the Listen icon in chat to hear a detailed response read aloud.",
+      "id": "p2",
+      "zh": "每个声音都为天生的自鸣得意 和日常的清晰度而调制而不是夸张口音。他们捕捉到熟悉的当地节奏,发球和Gemini交谈的失败 感觉更私人化整个应用中都有你的声音无论你是否在Gemini生活中大吵大闹,练习一种语言,或者在聊天时点击听的图标 听到一个详细的答复大声读取。",
+      "en": "Each voice is tuned for natural cadences and everyday clarity, rather than exaggerated accents. They capture familiar local rhythms, pitch, and inflection to make talking with Gemini feel more personal. Your selected voice carries across the entire app, whether you’re brainstorming out loud in Gemini Live, practicing a language, or tapping the Listen icon in chat to hear a detailed response read aloud."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To preview the new options and pick a favorite, tap the three-dot menu in Gemini Live, or open Gemini’s voice in your app settings.",
+      "id": "p3",
+      "zh": "要预览新选项 并选择一个最喜欢的,点击Gemini现场的三点菜单,或者在您的应用程序设置中打开Gemini的声音 。",
+      "en": "To preview the new options and pick a favorite, tap the three-dot menu in Gemini Live, or open Gemini’s voice in your app settings."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "在Google I/O时,我们共同计划把当地方言带到Gemini所以,你可以选择一个 真正与你共鸣的声音。今天,我们...我们推出66个新的区域声音 在双子星应用 关于Android和iOS,包括美国.英语,吴克.英语,印度英语印地语,巴西葡萄牙语,印度尼西亚人,韩文每一个都有专门选择。",
+      "en": "At Google I/O, we shared plans to bring local dialects to Gemini, so you can choose a voice that truly resonates with you. Today, we’re rolling out 66 new regional voices in the Gemini app on Android and iOS, including U.S."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "每个声音都为天生的自鸣得意 和日常的清晰度而调制而不是夸张口音。他们捕捉到熟悉的当地节奏,发球和Gemini交谈的失败 感觉更私人化整个应用中都有你的声音无论你是否在Gemini生活中大吵大闹,练习一种语言,或者在聊天时点击听的图标 听到一个详细的答复大声读取。",
+      "en": "Each voice is tuned for natural cadences and everyday clarity, rather than exaggerated accents. They capture familiar local rhythms, pitch, and inflection to make talking with Gemini feel more personal."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "要预览新选项 并选择一个最喜欢的,点击Gemini现场的三点菜单,或者在您的应用程序设置中打开Gemini的声音 。",
+      "en": "To preview the new options and pick a favorite, tap the three-dot menu in Gemini Live, or open Gemini’s voice in your app settings."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "1991e01b46f60d065d6fab8dc68852082cf6cc4edcd6b2dc6c1aad31eb11d2ea"
+}

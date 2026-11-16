@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-e064cdc0ef6bfc1ede43",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+  "sourceTitle": "The era of autonomous attacks has arrived.",
+  "status": "ready",
+  "attemptedAt": "2026-11-16T22:56:59.980315+00:00",
+  "fetchedAt": "2026-11-16T22:57:03.228781+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+  "language": "en",
+  "originalTitle": "The era of autonomous attacks has arrived.",
+  "author": "Google Threat Intelligence Group (GTIG)",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Imagine a hacker that doesn’t eat, sleep, or get tired, and never stops searching for a way in.",
+      "id": "p1",
+      "zh": "想象一个不吃东西的黑客,睡觉吧或者感到疲惫,永远不要停止寻找进入的方法。",
+      "en": "Imagine a hacker that doesn’t eat, sleep, or get tired, and never stops searching for a way in."
+    },
+    {
+      "kind": "paragraph",
+      "text": "According to the latest AI Threat Tracker report, bad actors are now using autonomous LLM frameworks to continuously scan software updates, figure out what flaw was patched, and build an attack for it — all without human involvement.",
+      "id": "p2",
+      "zh": "根据最新AI威胁追踪器报告,坏角色现在使用自主LLM框架 持续扫描软件更新,找出什么缺陷是补齐的,并为它制造攻击——所有这一切都没有人类的参与。",
+      "en": "According to the latest AI Threat Tracker report, bad actors are now using autonomous LLM frameworks to continuously scan software updates, figure out what flaw was patched, and build an attack for it — all without human involvement."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Defending against machine-speed threats at human speed isn’t feasible. That's why we're helping defenders rethink security in the agentic era with Google AI Threat Defense, which combines Gemini and other frontier models, Wiz’s context and prioritization, CodeMender’s automated patching, and Mandiant’s expertise to continuously find and fix flaws before attackers can exploit them.",
+      "id": "p3",
+      "zh": "以人类速度抵御机器速度威胁并不可行。这就是为什么我们帮助维权者 重新思考安全 在代理时代 与谷歌AI威胁防御,结合Gemini和其他前沿模型,Wiz的背景和优先次序,编码器的自动补丁,以及Mandiant在攻击者可以利用这些缺陷之前不断发现和纠正缺陷的专长。",
+      "en": "Defending against machine-speed threats at human speed isn’t feasible. That's why we're helping defenders rethink security in the agentic era with Google AI Threat Defense, which combines Gemini and other frontier models, Wiz’s context and prioritization, CodeMender’s automated patching, and Mandiant’s expertise to continuously find and fix flaws before attackers can exploit them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Read the full report on the Google Cloud Threat Intelligence blog.",
+      "id": "p4",
+      "zh": "读取谷歌\"云威胁情报\"博客的完整报道.",
+      "en": "Read the full report on the Google Cloud Threat Intelligence blog."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "想象一个不吃东西的黑客,睡觉吧或者感到疲惫,永远不要停止寻找进入的方法。",
+      "en": "Imagine a hacker that doesn’t eat, sleep, or get tired, and never stops searching for a way in."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "根据最新AI威胁追踪器报告,坏角色现在使用自主LLM框架 持续扫描软件更新,找出什么缺陷是补齐的,并为它制造攻击——所有这一切都没有人类的参与。",
+      "en": "According to the latest AI Threat Tracker report, bad actors are now using autonomous LLM frameworks to continuously scan software updates, figure out what flaw was patched, and build an attack for it — all without human involvement."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "以人类速度抵御机器速度威胁并不可行。这就是为什么我们帮助维权者 重新思考安全 在代理时代 与谷歌AI威胁防御,结合Gemini和其他前沿模型,Wiz的背景和优先次序,编码器的自动补丁,以及Mandiant在攻击者可以利用这些缺陷之前不断发现和纠正缺陷的专长。",
+      "en": "Defending against machine-speed threats at human speed isn’t feasible. That's why we're helping defenders rethink security in the agentic era with Google AI Threat Defense, which combines Gemini and other frontier models, Wiz’s context and prioritization, CodeMender’s automated patching, and Mandiant’s expertise to continuously find and fix flaws before attackers can exploit them."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "a1302a16a3d807ffe9c656da8356d3b95bd35780b23b70a546fce772071c8266"
+}

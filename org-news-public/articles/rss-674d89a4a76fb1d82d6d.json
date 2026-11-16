@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-674d89a4a76fb1d82d6d",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+  "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+  "status": "ready",
+  "attemptedAt": "2026-11-16T22:56:59.980822+00:00",
+  "fetchedAt": "2026-11-16T22:57:03.435244+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+  "language": "en",
+  "originalTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+  "author": "Maria Ines Aranguren",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Starting today, Gemini Notebook can turn your sources into interactive sites to help you quickly make sense of complex information.",
+      "id": "p1",
+      "zh": "从今天开始,GeminiNotebook可以将您的来源变成互动网站来帮助您快速理解复杂的信息.",
+      "en": "Starting today, Gemini Notebook can turn your sources into interactive sites to help you quickly make sense of complex information."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To get started, simply type “make me a site” in your Gemini Notebook chat along with a description of what you want to build for work or study, such as:",
+      "id": "p2",
+      "zh": "为了开始只需在Gemini笔记本聊天中输入“让我站点”,同时说明你想为工作或学习而建造什么,例如:",
+      "en": "To get started, simply type “make me a site” in your Gemini Notebook chat along with a description of what you want to build for work or study, such as:"
+    },
+    {
+      "kind": "list",
+      "text": "Visual explainers to help you prepare for exams, like an interactive periodic table or a historical timeline.",
+      "id": "p3",
+      "zh": "视觉解释者帮助你准备考试,如交互式周期表或历史时间表。",
+      "en": "Visual explainers to help you prepare for exams, like an interactive periodic table or a historical timeline."
+    },
+    {
+      "kind": "list",
+      "text": "Interactive dashboards to explore your data, such as quarterly sales performance.",
+      "id": "p4",
+      "zh": "交互式仪表板 探索您的数据,例如季度销售业绩。",
+      "en": "Interactive dashboards to explore your data, such as quarterly sales performance."
+    },
+    {
+      "kind": "list",
+      "text": "Project management trackers to outline your tasks and deadlines.",
+      "id": "p5",
+      "zh": "项目管理跟踪器,以概述您的任务和最后期限。",
+      "en": "Project management trackers to outline your tasks and deadlines."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Once built, select “Open in a new tab” to interact with it, or share it with others.",
+      "id": "p6",
+      "zh": "建成后,选择“在新标签中打开”与之交互,或者和别人分享",
+      "en": "Once built, select “Open in a new tab” to interact with it, or share it with others."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This capability is rolling out globally on the web today for Gemini Notebook users (18+), including Google Workspace subscribers, and is coming soon to the mobile app.",
+      "id": "p7",
+      "zh": "这一能力在今天的网络上向Gemini笔记本用户(18+)推广,包括谷歌工作空间用户,并即将来到移动应用程序。",
+      "en": "This capability is rolling out globally on the web today for Gemini Notebook users (18+), including Google Workspace subscribers, and is coming soon to the mobile app."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "从今天开始,GeminiNotebook可以将您的来源变成互动网站来帮助您快速理解复杂的信息.",
+      "en": "Starting today, Gemini Notebook can turn your sources into interactive sites to help you quickly make sense of complex information."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "为了开始只需在Gemini笔记本聊天中输入“让我站点”,同时说明你想为工作或学习而建造什么,例如:",
+      "en": "To get started, simply type “make me a site” in your Gemini Notebook chat along with a description of what you want to build for work or study, such as:"
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "视觉解释者帮助你准备考试,如交互式周期表或历史时间表。",
+      "en": "Visual explainers to help you prepare for exams, like an interactive periodic table or a historical timeline."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "这一能力在今天的网络上向Gemini笔记本用户(18+)推广,包括谷歌工作空间用户,并即将来到移动应用程序。",
+      "en": "This capability is rolling out globally on the web today for Gemini Notebook users (18+), including Google Workspace subscribers, and is coming soon to the mobile app."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "233a983e502a3fd783c2910552bbf5ed69548acb7baf7f733a0e9b0de288a5b9"
+}

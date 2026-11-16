@@ -229,6 +229,70 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-9fe6d2ae73e55f52b807",
+      "title": "Our first phase of embedded assessments",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Our first phase of embedded assessments",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-025d8baefe51f5051ea2",
+      "title": "Regional voices are rolling out in the Gemini app.",
+      "summary": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Regional voices are rolling out in the Gemini app.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-e064cdc0ef6bfc1ede43",
+      "title": "The era of autonomous attacks has arrived.",
+      "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "The era of autonomous attacks has arrived.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-674d89a4a76fb1d82d6d",
+      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+      "summary": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+      "sourceId": "google"
+    },
+    {
       "id": "rss-2e8f421d2ee2a3dfd36b",
       "title": "A step toward defining the Standard Model on a lattice",
       "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
@@ -322,22 +386,6 @@
       "type": "官方订阅",
       "live": true,
       "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "sourceId": "openai"
-    },
-    {
-      "id": "rss-9fe6d2ae73e55f52b807",
-      "title": "Our first phase of embedded assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-      "company": "OpenAI",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "date": "2026-11-13",
-      "categories": [
-        "技术创新"
-      ],
-      "type": "官方订阅",
-      "live": true,
-      "sourceTitle": "Our first phase of embedded assessments",
       "sourceId": "openai"
     },
     {
@@ -2581,35 +2629,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-16T17:23:33.090698+00:00",
-      "lastSuccess": "2026-11-16T17:23:33.242833+00:00",
+      "attemptedAt": "2026-11-16T22:56:57.862757+00:00",
+      "lastSuccess": "2026-11-16T22:56:58.174083+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-16T17:23:33.091396+00:00",
-      "lastSuccess": "2026-11-16T17:23:33.224450+00:00",
-      "count": 14
+      "attemptedAt": "2026-11-16T22:56:57.863504+00:00",
+      "lastSuccess": "2026-11-16T22:56:58.092337+00:00",
+      "count": 15
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-16T17:23:33.091768+00:00",
-      "lastSuccess": "2026-11-16T17:23:33.196306+00:00",
+      "attemptedAt": "2026-11-16T22:56:57.864017+00:00",
+      "lastSuccess": "2026-11-16T22:56:58.112946+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-16T17:23:33.092131+00:00",
-      "lastSuccess": "2026-11-16T17:23:34.221920+00:00",
+      "attemptedAt": "2026-11-16T22:56:57.864506+00:00",
+      "lastSuccess": "2026-11-16T22:56:59.042434+00:00",
       "count": 6
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-16T17:23:34.223077+00:00",
-  "nextRefresh": "2026-11-16T22:17:00+00:00",
+  "lastRefresh": "2026-11-16T22:56:59.044066+00:00",
+  "nextRefresh": "2026-11-17T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "5df2c8d47b4d75716d98e89a21242fba11241fd0648ece7cb85a3b06c1f495c1"
+  "bilingualRevision": "bc6eee2d4b9c816fec6302bff2596987df1536cf4f5ccf3417996ab456779abd"
 }

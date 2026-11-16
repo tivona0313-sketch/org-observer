@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T17:23:43.035189+00:00",
+  "updatedAt": "2026-11-16T22:57:05.051423+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -157,6 +157,33 @@
       "sourceTitle": "The King’s Trust and OpenAI launch £1m partnership",
       "error": "http_403"
     },
+    "rss-9fe6d2ae73e55f52b807": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "sourceTitle": "Our first phase of embedded assessments",
+      "error": "http_403"
+    },
+    "rss-025d8baefe51f5051ea2": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+      "sourceTitle": "Regional voices are rolling out in the Gemini app.",
+      "contentHash": "1991e01b46f60d065d6fab8dc68852082cf6cc4edcd6b2dc6c1aad31eb11d2ea",
+      "fetchedAt": "2026-11-16T22:57:03.445086+00:00"
+    },
+    "rss-e064cdc0ef6bfc1ede43": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+      "sourceTitle": "The era of autonomous attacks has arrived.",
+      "contentHash": "a1302a16a3d807ffe9c656da8356d3b95bd35780b23b70a546fce772071c8266",
+      "fetchedAt": "2026-11-16T22:57:03.228781+00:00"
+    },
+    "rss-674d89a4a76fb1d82d6d": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+      "contentHash": "233a983e502a3fd783c2910552bbf5ed69548acb7baf7f733a0e9b0de288a5b9",
+      "fetchedAt": "2026-11-16T22:57:03.435244+00:00"
+    },
     "rss-2e8f421d2ee2a3dfd36b": {
       "status": "unavailable",
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -193,12 +220,6 @@
       "status": "unavailable",
       "url": "https://openai.com/business/customer-stories/shield",
       "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "error": "http_403"
-    },
-    "rss-9fe6d2ae73e55f52b807": {
-      "status": "unavailable",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "sourceTitle": "Our first phase of embedded assessments",
       "error": "http_403"
     },
     "rss-65b96c238445cdedc96b": {

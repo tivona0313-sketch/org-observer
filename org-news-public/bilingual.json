@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-16T17:23:36.414053+00:00",
-  "revision": "5df2c8d47b4d75716d98e89a21242fba11241fd0648ece7cb85a3b06c1f495c1",
+  "generatedAt": "2026-11-16T22:56:59.936638+00:00",
+  "revision": "bc6eee2d4b9c816fec6302bff2596987df1536cf4f5ccf3417996ab456779abd",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -680,6 +680,86 @@
         "source": "OpenAI News"
       }
     },
+    "rss-9fe6d2ae73e55f52b807": {
+      "original": {
+        "title": "Our first phase of embedded assessments",
+        "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+        "sourceTitle": "Our first phase of embedded assessments",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "我们的第一阶段嵌入式摊款",
+        "summary": "OpenAI开始与阿波罗研究公司进行嵌入式评估,METR,(音乐)和透明,和Goodfire独立评估模型对齐,保障措施,和监测系统。",
+        "sourceTitle": "我们的第一阶段嵌入式摊款",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Our first phase of embedded assessments",
+        "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+        "sourceTitle": "Our first phase of embedded assessments",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-025d8baefe51f5051ea2": {
+      "original": {
+        "title": "Regional voices are rolling out in the Gemini app.",
+        "summary": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
+        "sourceTitle": "Regional voices are rolling out in the Gemini app.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "区域声音在双子星应用中展开.",
+        "summary": "Gemini目前在Android和iOS上提供66个区域声音.选择一个自然,用于应用交互的本地方言 。挑你最喜欢的声音今天。",
+        "sourceTitle": "区域声音在双子星应用中展开.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Regional voices are rolling out in the Gemini app.",
+        "summary": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
+        "sourceTitle": "Regional voices are rolling out in the Gemini app.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-e064cdc0ef6bfc1ede43": {
+      "original": {
+        "title": "The era of autonomous attacks has arrived.",
+        "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
+        "sourceTitle": "The era of autonomous attacks has arrived.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "自主攻击的时代已经到来.",
+        "summary": "以及Google AI威胁防御系统如何利用Gemini防御。",
+        "sourceTitle": "自主攻击的时代已经到来.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "The era of autonomous attacks has arrived.",
+        "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
+        "sourceTitle": "The era of autonomous attacks has arrived.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-674d89a4a76fb1d82d6d": {
+      "original": {
+        "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+        "summary": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
+        "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "变形笔记,研究,和与Gemini笔记本互动网站的源头。",
+        "summary": "Gemini笔记本现在将你的研究变成互动网站.与Google一起构建项目跟踪仪和视觉仪表板.今天创建您的网站 。",
+        "sourceTitle": "变形笔记,研究,和与Gemini笔记本互动网站的源头。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+        "summary": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
+        "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+        "source": "Google The Keyword"
+      }
+    },
     "rss-2e8f421d2ee2a3dfd36b": {
       "original": {
         "title": "A step toward defining the Standard Model on a lattice",
@@ -797,26 +877,6 @@
         "title": "Shield helps technicians hand off legacy portal work with OpenAI",
         "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
         "sourceTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
-        "source": "OpenAI News"
-      }
-    },
-    "rss-9fe6d2ae73e55f52b807": {
-      "original": {
-        "title": "Our first phase of embedded assessments",
-        "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-        "sourceTitle": "Our first phase of embedded assessments",
-        "source": "OpenAI News"
-      },
-      "zh": {
-        "title": "我们的第一阶段嵌入式摊款",
-        "summary": "OpenAI开始与阿波罗研究公司进行嵌入式评估,METR,(音乐)和透明,和Goodfire独立评估模型对齐,保障措施,和监测系统。",
-        "sourceTitle": "我们的第一阶段嵌入式摊款",
-        "source": "OpenAI 新闻"
-      },
-      "en": {
-        "title": "Our first phase of embedded assessments",
-        "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-        "sourceTitle": "Our first phase of embedded assessments",
         "source": "OpenAI News"
       }
     },

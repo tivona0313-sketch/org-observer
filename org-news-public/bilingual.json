@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-17T17:14:58.694958+00:00",
-  "revision": "3bf07ca321ae2d407d435c258e1a5fb3dfbf91560fdd90308ca149754cbd0225",
+  "generatedAt": "2026-11-17T23:02:43.907931+00:00",
+  "revision": "dca6c9d63749e0c15a3adb759254aeae6a77a54b1c758003bff1f1aa3df06e24",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -560,6 +560,106 @@
         "source": "OpenAI News"
       }
     },
+    "rss-fc8988f3e7d340bc0f40": {
+      "original": {
+        "title": "How genome mapping can help researchers better understand disease",
+        "summary": "A Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools.",
+        "sourceTitle": "How genome mapping can help researchers better understand disease",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "基因组图谱如何帮助研究人员更好地了解疾病",
+        "summary": "一位Google DeepMind研究科学家解释了我们AlphaGenome和AlphaGenome Atlas工具背后的潜力.",
+        "sourceTitle": "基因组图谱如何帮助研究人员更好地了解疾病",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "How genome mapping can help researchers better understand disease",
+        "summary": "A Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools.",
+        "sourceTitle": "How genome mapping can help researchers better understand disease",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-73687e4d2d12cc3c627a": {
+      "original": {
+        "title": "See what 5 builders are making with Gemini 4 Carbon",
+        "summary": "See what 5 builders are making with Gemini 4 Carbon.",
+        "sourceTitle": "See what 5 builders are making with Gemini 4 Carbon",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "看看5个建筑商和Gemini4碳有什么关系",
+        "summary": "看看5个建筑商用Gemini4 Carbon做的是什么",
+        "sourceTitle": "看看5个建筑商和Gemini4碳有什么关系",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "See what 5 builders are making with Gemini 4 Carbon",
+        "summary": "See what 5 builders are making with Gemini 4 Carbon.",
+        "sourceTitle": "See what 5 builders are making with Gemini 4 Carbon",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-3047d7657748ea760feb": {
+      "original": {
+        "title": "Introducing ChatGPT for Sales",
+        "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+        "sourceTitle": "Introducing ChatGPT for Sales",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "引入销售的ChatGPT",
+        "summary": "探索ChatGPT中新的销售插件和30+新的及扩展的伙伴插件,以研究前景,准备投球,更新您的客户关系管理,并推进交易。",
+        "sourceTitle": "引入销售的ChatGPT",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Introducing ChatGPT for Sales",
+        "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+        "sourceTitle": "Introducing ChatGPT for Sales",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-b43ef08ac3ed4f7af6f4": {
+      "original": {
+        "title": "Astra for Law leads in legal intelligence",
+        "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+        "sourceTitle": "Astra for Law leads in legal intelligence",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Astra for Law在法律情报方面的领先地位",
+        "summary": "Astra for Law在涉及24个法律领域的启动评价中排名第一。每个ChatGPT企业客户现在都可以请求访问.",
+        "sourceTitle": "Astra for Law在法律情报方面的领先地位",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Astra for Law leads in legal intelligence",
+        "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+        "sourceTitle": "Astra for Law leads in legal intelligence",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-3212e751c4906b22aa1b": {
+      "original": {
+        "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+        "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+        "sourceTitle": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "Muse Is Now Professional in Australia: (原始内容存档于2019-09-31) (英语). Muse Is Now Professional in Australia:世界第一个人人工智能代理商为每个人所建",
+        "summary": "从今天起,Muse在澳大利亚可以使用,具有当地连通经验的创造力,购物,财产,健身娱乐逐步展开.Muse As Now in Australia的一篇文章:世界第一个人AI代理为人人而建,",
+        "sourceTitle": "Muse Is Now Professional in Australia: (原始内容存档于2019-09-31) (英语). Muse Is Now Professional in Australia:世界第一个人人工智能代理商为每个人所建",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+        "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+        "sourceTitle": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+        "source": "Meta Newsroom"
+      }
+    },
     "rss-de2fdfd7d21bebae8a89": {
       "original": {
         "title": "What teenagers really think about online safety and AI",
@@ -882,21 +982,21 @@
     },
     "rss-e064cdc0ef6bfc1ede43": {
       "original": {
-        "title": "The era of autonomous attacks has arrived.",
+        "title": "Outpace automated cyber threats with security built for nonstop defense.",
         "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
-        "sourceTitle": "The era of autonomous attacks has arrived.",
+        "sourceTitle": "Outpace automated cyber threats with security built for nonstop defense.",
         "source": "Google The Keyword"
       },
       "zh": {
-        "title": "自主攻击的时代已经到来.",
+        "title": "超越自动网络威胁 安全为无间歇防御而建",
         "summary": "以及Google AI威胁防御系统如何利用Gemini防御。",
-        "sourceTitle": "自主攻击的时代已经到来.",
+        "sourceTitle": "超越自动网络威胁 安全为无间歇防御而建",
         "source": "谷歌关键词"
       },
       "en": {
-        "title": "The era of autonomous attacks has arrived.",
+        "title": "Outpace automated cyber threats with security built for nonstop defense.",
         "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
-        "sourceTitle": "The era of autonomous attacks has arrived.",
+        "sourceTitle": "Outpace automated cyber threats with security built for nonstop defense.",
         "source": "Google The Keyword"
       }
     },

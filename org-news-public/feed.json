@@ -131,6 +131,86 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-fc8988f3e7d340bc0f40",
+      "title": "How genome mapping can help researchers better understand disease",
+      "summary": "A Google DeepMind research scientist explains the potential behind our AlphaGenome and AlphaGenome Atlas tools.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "How genome mapping can help researchers better understand disease",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-73687e4d2d12cc3c627a",
+      "title": "See what 5 builders are making with Gemini 4 Carbon",
+      "summary": "See what 5 builders are making with Gemini 4 Carbon.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "See what 5 builders are making with Gemini 4 Carbon",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-3047d7657748ea760feb",
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Introducing ChatGPT for Sales",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-b43ef08ac3ed4f7af6f4",
+      "title": "Astra for Law leads in legal intelligence",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "date": "2026-11-17",
+      "categories": [
+        "运营模式"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Astra for Law leads in legal intelligence",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-3212e751c4906b22aa1b",
+      "title": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+      "summary": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively. The post Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone appeared first on Meta Newsroom .",
+      "company": "Meta",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+      "sourceId": "meta"
+    },
+    {
       "id": "rss-de2fdfd7d21bebae8a89",
       "title": "What teenagers really think about online safety and AI",
       "summary": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
@@ -392,7 +472,7 @@
     },
     {
       "id": "rss-e064cdc0ef6bfc1ede43",
-      "title": "The era of autonomous attacks has arrived.",
+      "title": "Outpace automated cyber threats with security built for nonstop defense.",
       "summary": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
       "company": "Google",
       "source": "Google The Keyword",
@@ -403,7 +483,7 @@
       ],
       "type": "官方订阅",
       "live": true,
-      "sourceTitle": "The era of autonomous attacks has arrived.",
+      "sourceTitle": "Outpace automated cyber threats with security built for nonstop defense.",
       "sourceId": "google"
     },
     {
@@ -2775,35 +2855,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-17T17:14:56.258496+00:00",
-      "lastSuccess": "2026-11-17T17:14:56.413302+00:00",
-      "count": 8
+      "attemptedAt": "2026-11-17T23:02:40.863755+00:00",
+      "lastSuccess": "2026-11-17T23:02:40.961864+00:00",
+      "count": 7
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-17T17:14:56.259116+00:00",
-      "lastSuccess": "2026-11-17T17:14:56.422658+00:00",
-      "count": 13
+      "attemptedAt": "2026-11-17T23:02:40.864531+00:00",
+      "lastSuccess": "2026-11-17T23:02:41.081860+00:00",
+      "count": 15
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-17T17:14:56.259506+00:00",
-      "lastSuccess": "2026-11-17T17:14:56.349358+00:00",
+      "attemptedAt": "2026-11-17T23:02:40.865056+00:00",
+      "lastSuccess": "2026-11-17T23:02:40.991630+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-17T17:14:56.259897+00:00",
-      "lastSuccess": "2026-11-17T17:14:57.327090+00:00",
+      "attemptedAt": "2026-11-17T23:02:40.865518+00:00",
+      "lastSuccess": "2026-11-17T23:02:42.064334+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-17T17:14:57.328157+00:00",
-  "nextRefresh": "2026-11-17T22:17:00+00:00",
+  "lastRefresh": "2026-11-17T23:02:42.065750+00:00",
+  "nextRefresh": "2026-11-18T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "3bf07ca321ae2d407d435c258e1a5fb3dfbf91560fdd90308ca149754cbd0225"
+  "bilingualRevision": "dca6c9d63749e0c15a3adb759254aeae6a77a54b1c758003bff1f1aa3df06e24"
 }

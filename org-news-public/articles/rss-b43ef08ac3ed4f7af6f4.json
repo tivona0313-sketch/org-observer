@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-b43ef08ac3ed4f7af6f4",
+  "url": "https://openai.com/index/astra-law-6-2",
+  "sourceTitle": "Astra for Law leads in legal intelligence",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-17T23:02:44.002454+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-18T23:02:44.047216+00:00"
+}

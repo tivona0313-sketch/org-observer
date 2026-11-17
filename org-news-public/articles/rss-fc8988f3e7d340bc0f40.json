@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-fc8988f3e7d340bc0f40",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+  "sourceTitle": "How genome mapping can help researchers better understand disease",
+  "status": "ready",
+  "attemptedAt": "2026-11-17T23:02:43.954987+00:00",
+  "fetchedAt": "2026-11-17T23:02:46.440524+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+  "language": "en",
+  "originalTitle": "How genome mapping can help researchers better understand disease",
+  "author": "Lindsey Lanquist",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Your genome is your body’s instruction manual: the blueprint that informs how your body functions. It contains 3 billion base pairs of DNA. Because this DNA is responsible in part for switching genes on and off, it could be the difference between developing a disease and avoiding one. Determining which DNA changes cause diseases (and other outcomes) is like finding a needle in a haystack.",
+      "id": "p1",
+      "zh": "你的基因组是你的身体指导手册:说明你身体如何运行的蓝图。它包含30亿个碱基对DNA.因为这个DNA 部分地负责基因的切换 打开和关闭,它可能是发展一种疾病和避免一种疾病之间的区别。确定哪些DNA变化会导致疾病(和其他结果),就像在干草堆中找到针头.",
+      "en": "Your genome is your body’s instruction manual: the blueprint that informs how your body functions. It contains 3 billion base pairs of DNA. Because this DNA is responsible in part for switching genes on and off, it could be the difference between developing a disease and avoiding one. Determining which DNA changes cause diseases (and other outcomes) is like finding a needle in a haystack."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Illustrative. Your genome, one point at a time.",
+      "id": "p2",
+      "zh": "释相相相.你的基因组一次一个点。",
+      "en": "Illustrative. Your genome, one point at a time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Decoding the DNA sequence is the goal behind AlphaGenome, a model from Google DeepMind. AlphaGenome can take a partial DNA sequence of 1 million base pairs in length, and make thousands of predictions. By comparing these predictions for DNA changes, scientists can find that needle faster.",
+      "id": "p3",
+      "zh": "解码DNA序列是AlphaGenome背后的目标,一个来自Google DeepMind的模型.AlphaGenome可以取出长度为一百万个碱基对的部分DNA序列,并预言数千起。通过比较这些DNA变化的预测,科学家可以更快地找到针头。",
+      "en": "Decoding the DNA sequence is the goal behind AlphaGenome, a model from Google DeepMind. AlphaGenome can take a partial DNA sequence of 1 million base pairs in length, and make thousands of predictions. By comparing these predictions for DNA changes, scientists can find that needle faster."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We talked to Google DeepMind research scientist Žiga Avsec to learn more.",
+      "id": "p4",
+      "zh": "我们和Google DeepMind研究科学家 Žiga Avsec 进行了交谈,以学习更多的知识。",
+      "en": "We talked to Google DeepMind research scientist Žiga Avsec to learn more."
+    },
+    {
+      "kind": "paragraph",
+      "text": "What do you do at Google?",
+      "id": "p5",
+      "zh": "你在Google做什么的? (Google: 谷歌网站) (Google网站) (Google网站)",
+      "en": "What do you do at Google?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "ŽA: I’m a research scientist overseeing our genomics initiative. Basically, I lead a team that builds models to help us better understand the genome.",
+      "id": "p6",
+      "zh": "祖亚:我是一个研究科学家,基本上,我们...我领导一个团队 建立模型 帮助我们更好地了解基因组。",
+      "en": "ŽA: I’m a research scientist overseeing our genomics initiative. Basically, I lead a team that builds models to help us better understand the genome."
+    },
+    {
+      "kind": "paragraph",
+      "text": "How is your team making it easier for scientists to predict and understand diseases?",
+      "id": "p7",
+      "zh": "你的团队如何让科学家们更容易预测和理解疾病?",
+      "en": "How is your team making it easier for scientists to predict and understand diseases?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "It really all comes down to how the genome works. It contains 3 billion DNA base pairs. And each pair contains two bases, which we call “letters.” These letters — A (adenine), T (thymine), C (cytosine), G (guanine) — act like a biological alphabet, spelling out the genetic instruction manual that makes someone who they are.",
+      "id": "p8",
+      "zh": "这都归根结底是基因组如何运作的。它包含30亿个DNA碱基对.每一对都包含两个基点,我们称之为“信件”。T (矿山),C(细胞素),G(guanine)——表现得像生物字母表,写出基因指导手册 使某人成为自己。",
+      "en": "It really all comes down to how the genome works. It contains 3 billion DNA base pairs. And each pair contains two bases, which we call “letters.” These letters — A (adenine), T (thymine), C (cytosine), G (guanine) — act like a biological alphabet, spelling out the genetic instruction manual that makes someone who they are."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Since you can replace any of those letters with three other letters, there are 9 billion possible single-letter changes. Many genetic diseases are caused by just one of these letters changing. But scientists don’t have time to run billions of studies to figure out which changes make a difference.",
+      "id": "p9",
+      "zh": "既然能用另外三个字母来代替这些字母有90亿个可能的单字母变化。许多遗传疾病是由这些字母中的一个变化引起的.但科学家没有时间进行数十亿个研究,",
+      "en": "Since you can replace any of those letters with three other letters, there are 9 billion possible single-letter changes. Many genetic diseases are caused by just one of these letters changing. But scientists don’t have time to run billions of studies to figure out which changes make a difference."
+    },
+    {
+      "kind": "paragraph",
+      "text": "So we used AlphaGenome to predict the outcomes of all 9 billion single-letter changes, and we created a massive dataset — AlphaGenome Atlas — so scientists can decide what to research faster.",
+      "id": "p10",
+      "zh": "我们用AlphaGenome来预测90亿个单字母变化的结果,我们创造了一个庞大的数据集——AlphaGenome Atlas, 这样科学家可以决定怎样进行研究更快。",
+      "en": "So we used AlphaGenome to predict the outcomes of all 9 billion single-letter changes, and we created a massive dataset — AlphaGenome Atlas — so scientists can decide what to research faster."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Illustrative. The letters are invented for this example.",
+      "id": "p11",
+      "zh": "释相相相.字母是为这个例子而发明的.",
+      "en": "Illustrative. The letters are invented for this example."
+    },
+    {
+      "kind": "paragraph",
+      "text": "What’s holding scientists back from better understanding the genome?",
+      "id": "p12",
+      "zh": "为何科学家无法更深入地了解基因组?",
+      "en": "What’s holding scientists back from better understanding the genome?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "While science can read all 3 billion base pairs of human DNA, we still haven’t fully deciphered the semantics of the genetic code — particularly the non-coding \"dark matter\" that regulates gene expression and disease risk. Experimental research, or as it’s also called, wet-lab research is the best way to help us reach breakthroughs in our understanding, but it’s expensive and time-consuming. A single breakthrough could take years.",
+      "id": "p13",
+      "zh": "虽然科学可以读取所有30亿个基对的人类DNA,我们还没有完全解开基因密码的语义——特别是规范基因表达和疾病风险的非编码\"暗物质\".实验研究,或如它也被称为,湿实验室研究是帮助我们实现理解突破的最好方法,但代价高昂,一次突破可能要花几年时间。",
+      "en": "While science can read all 3 billion base pairs of human DNA, we still haven’t fully deciphered the semantics of the genetic code — particularly the non-coding \"dark matter\" that regulates gene expression and disease risk. Experimental research, or as it’s also called, wet-lab research is the best way to help us reach breakthroughs in our understanding, but it’s expensive and time-consuming. A single breakthrough could take years."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Let’s say you sequence DNA from a patient with a rare disease. You might end up with 4 million variants — 4 million ways their DNA differs from the standard reference human genome. But the question is: Which variant is causing their condition? Maybe you narrow the list to only include rare variants. But even then, you could be left with hundreds or thousands of options.",
+      "id": "p14",
+      "zh": "假设你对罕见病患者的DNA进行测序。你可能最终会有400万个变体——400万个DNA与标准的参考人类基因组不同。但问题是:哪个变体引起他们的情况?也许你把清单缩小到只包括稀有的变种.但即使这样,你可能会被留下几百或数千种选择。",
+      "en": "Let’s say you sequence DNA from a patient with a rare disease. You might end up with 4 million variants — 4 million ways their DNA differs from the standard reference human genome. But the question is: Which variant is causing their condition? Maybe you narrow the list to only include rare variants. But even then, you could be left with hundreds or thousands of options."
+    },
+    {
+      "kind": "paragraph",
+      "text": "When scientists use AlphaGenome Atlas, they get a single, easy-to-read score — the AVI (AlphaGenome Variant Impact) score — which instantly indicates the potential impact of a variant across the full genome. This helps them prioritize and more easily find the most disruptive changes to follow up on.",
+      "id": "p15",
+      "zh": "当科学家使用AlphaGenome地图集时,他们得到一个单身,容易读取的分数——AVI(AlphaGenome变异影响)分数——立即表明一个变异体对整个基因组的潜在影响.这有助于它们确定轻重缓急,并更容易找到最具破坏性的变革来采取后续行动。",
+      "en": "When scientists use AlphaGenome Atlas, they get a single, easy-to-read score — the AVI (AlphaGenome Variant Impact) score — which instantly indicates the potential impact of a variant across the full genome. This helps them prioritize and more easily find the most disruptive changes to follow up on."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Illustrative. Each dot stands for many variants. Scores are invented.",
+      "id": "p16",
+      "zh": "释相相相.每个点代表许多变体.分数被发明.",
+      "en": "Illustrative. Each dot stands for many variants. Scores are invented."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Can you give me some examples of how AlphaGenome impacts everyday people?",
+      "id": "p17",
+      "zh": "你能举几个例子来说明 AlphaGenome 是如何影响人们的吗?",
+      "en": "Can you give me some examples of how AlphaGenome impacts everyday people?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Tools like AlphaGenome move us from merely reading DNA to helping us better understand the molecular mechanisms behind a disease, giving researchers new leads to test and taking an important step towards someday digitally simulating a complete human cell.",
+      "id": "p18",
+      "zh": "像AlphaGenome这样的工具 把我们从只读取DNA 转移到帮助我们 更好地了解疾病背后的分子机制,给研究人员新的线索进行测试 并朝着某一天数字模拟一个完整的人类细胞迈出了重要一步。",
+      "en": "Tools like AlphaGenome move us from merely reading DNA to helping us better understand the molecular mechanisms behind a disease, giving researchers new leads to test and taking an important step towards someday digitally simulating a complete human cell."
+    },
+    {
+      "kind": "paragraph",
+      "text": "There are several ways that will have an impact. It can accelerate research that could help society improve our ability to diagnose and personalize treatment for patients suffering from rare or previously uncharacterized genetic disorders. It could also speed up drug discovery pipelines by helping pharmaceutical researchers identify and validate high-probability therapeutic targets faster. Beyond healthcare, AlphaGenome’s model architecture could help researchers tackle broader societal challenges, including breeding climate-resilient crops.",
+      "id": "p19",
+      "zh": "有几种方式将产生影响。它可以加速研究,帮助社会提高我们诊断和个性化治疗患有稀有或以前没有特征的基因的病人的能力。神经病。它还可以通过帮助药物研究人员更快地确定和验证高概率治疗目标来加快药物发现管道.除了医疗之外AlphaGenome的模型架构可以帮助研究人员应对更广泛的社会挑战,包括培育具有气候抗御力的作物。",
+      "en": "There are several ways that will have an impact. It can accelerate research that could help society improve our ability to diagnose and personalize treatment for patients suffering from rare or previously uncharacterized genetic disorders. It could also speed up drug discovery pipelines by helping pharmaceutical researchers identify and validate high-probability therapeutic targets faster. Beyond healthcare, AlphaGenome’s model architecture could help researchers tackle broader societal challenges, including breeding climate-resilient crops."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Illustrative. Possible ways AlphaGenome can help.",
+      "id": "p20",
+      "zh": "释相相相.AlphaGenome可能有帮助的方法.",
+      "en": "Illustrative. Possible ways AlphaGenome can help."
+    },
+    {
+      "kind": "paragraph",
+      "text": "What kinds of breakthroughs has AlphaGenome enabled?",
+      "id": "p21",
+      "zh": "AlphaGenome实现了什么样的突破?",
+      "en": "What kinds of breakthroughs has AlphaGenome enabled?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "AlphaGenome is still pretty new. We launched it in June 2025, and we just introduced AlphaGenome Atlas in September this year. But researchers are already using it to advance science.",
+      "id": "p22",
+      "zh": "AlphaGenome还是很新鲜的我们于2025年6月推出我们刚刚在今年9月推出了AlphaGenome Atlas。但研究人员已经在利用它来推进科学。",
+      "en": "AlphaGenome is still pretty new. We launched it in June 2025, and we just introduced AlphaGenome Atlas in September this year. But researchers are already using it to advance science."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Gareth Hawkes, a Medical Research Council fellow at the University of Exeter, used AlphaGenome Atlas to narrow down a list of 1 billion genetic variants. By focusing on the most impactful 1%, he identified 19 variant groups linked to body mass index to prioritize in his research.",
+      "id": "p23",
+      "zh": "盖瑞斯·霍克斯 Gareth Hawkes,- 埃克塞特大学医学研究会研究员,使用AlphaGenome Atlas缩小了10亿个基因变体的清单.通过专注于最有影响力的1%,他确定了19个与体质指数相关的变种组,以在研究中优先排序.",
+      "en": "Gareth Hawkes, a Medical Research Council fellow at the University of Exeter, used AlphaGenome Atlas to narrow down a list of 1 billion genetic variants. By focusing on the most impactful 1%, he identified 19 variant groups linked to body mass index to prioritize in his research."
+    },
+    {
+      "kind": "paragraph",
+      "text": "And Laura Covill, a Broad Institute research fellow, used the AVI score to prioritize genetic variants in their research of unsolved rare diseases. AlphaGenome Atlas identified a critical variant in a gene linked to neurodevelopmental disorders, providing crucial supporting evidence that drove their subsequent research, including solving the case.",
+      "id": "p24",
+      "zh": "和劳拉・科维尔,a Broad 研究所研究员,使用AVI分数在研究未解的稀有疾病时优先进行基因变异.AlphaGenome Atlas在与神经发育紊乱有关的基因中确定了一个关键变体,提供关键证据,推动他们随后的研究,包括解决此案。",
+      "en": "And Laura Covill, a Broad Institute research fellow, used the AVI score to prioritize genetic variants in their research of unsolved rare diseases. AlphaGenome Atlas identified a critical variant in a gene linked to neurodevelopmental disorders, providing crucial supporting evidence that drove their subsequent research, including solving the case."
+    },
+    {
+      "kind": "paragraph",
+      "text": "What are you hoping to do next?",
+      "id": "p25",
+      "zh": "你接下来想做什么?",
+      "en": "What are you hoping to do next?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We just launched our latest model, AlphaGenome 2, which tackles one of the key limitations of AlphaGenome: cell type specificity. While AlphaGenome is state-of-the-art, it was trained mostly on data from whole tissues or cell lines. We know that individual cell types in those tissues have a very specific role and can malfunction in disease. AlphaGenome 2 moves beyond tissue-level averages to predict how genetic variants disrupt these individual cell types, helping researchers pinpoint the cellular drivers of disease.",
+      "id": "p26",
+      "zh": "我们刚刚推出我们的最新模型,AlphaGenome 2, 请检查date=中的日期值 (帮助) A.它解决了AlphaGenome的关键限制之一:细胞类型特异性。虽然AlphaGenome是最先进的,它主要接受来自整个组织或细胞线的数据培训。我们知道,这些组织中的单个细胞类型具有非常具体的作用,并且可能在疾病中发生故障。AlphaGenome 2 移动超过组织水平平均值,以预测基因变异如何干扰这些单个细胞类型,帮助研究者确定疾病的细胞驱动力.",
+      "en": "We just launched our latest model, AlphaGenome 2, which tackles one of the key limitations of AlphaGenome: cell type specificity. While AlphaGenome is state-of-the-art, it was trained mostly on data from whole tissues or cell lines. We know that individual cell types in those tissues have a very specific role and can malfunction in disease. AlphaGenome 2 moves beyond tissue-level averages to predict how genetic variants disrupt these individual cell types, helping researchers pinpoint the cellular drivers of disease."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We’re also actively researching better ways to measure how confident our model is in its predictions so researchers know how much to trust each result. From early analyses, we see that variants with strongly predicted effects are quite good and achieve high levels of accuracy. As always, anyone using AlphaGenome should interpret its predictions with other sources of information.",
+      "id": "p27",
+      "zh": "我们也在积极研究更好的方法, 来衡量我们的模型对它的预测有多有信心, 这样研究者们才知道如何相信每个结果。从早期的分析来看,我们看到,具有强烈预测效果的变体相当好,并且达到很高的准确度.一如既往使用AlphaGenome的人应该用其他信息来源来解释其预测.",
+      "en": "We’re also actively researching better ways to measure how confident our model is in its predictions so researchers know how much to trust each result. From early analyses, we see that variants with strongly predicted effects are quite good and achieve high levels of accuracy. As always, anyone using AlphaGenome should interpret its predictions with other sources of information."
+    },
+    {
+      "kind": "paragraph",
+      "text": "What's the ultimate goal of your work in biology?",
+      "id": "p28",
+      "zh": "你生物学工作的最终目标是什么?",
+      "en": "What's the ultimate goal of your work in biology?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In the short term, we’d like to use AI to better understand the grammar of the genome and accurately predict the effects of mutations. In the long term, we’d like to build on this foundation towards a fully functioning digital simulation of a human cell.",
+      "id": "p29",
+      "zh": "在短期内,我们想用人工智能来更好地了解基因组的语法,并准确预测突变的影响.从长远来看,我们想在这个基础上更上一层楼, 对一个人类细胞进行完全有效的数字模拟。",
+      "en": "In the short term, we’d like to use AI to better understand the grammar of the genome and accurately predict the effects of mutations. In the long term, we’d like to build on this foundation towards a fully functioning digital simulation of a human cell."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This will allow researchers to computationally model disease mechanisms, understand rare genetic conditions, and test candidate therapies.",
+      "id": "p30",
+      "zh": "这将使研究人员能够计算疾病机制的模型,了解稀有遗传条件,并测试候选疗法。",
+      "en": "This will allow researchers to computationally model disease mechanisms, understand rare genetic conditions, and test candidate therapies."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p6",
+      "zh": "祖亚:我是一个研究科学家,基本上,我们...我领导一个团队 建立模型 帮助我们更好地了解基因组。",
+      "en": "ŽA: I’m a research scientist overseeing our genomics initiative. Basically, I lead a team that builds models to help us better understand the genome."
+    },
+    {
+      "paragraphId": "p13",
+      "zh": "虽然科学可以读取所有30亿个基对的人类DNA,我们还没有完全解开基因密码的语义——特别是规范基因表达和疾病风险的非编码\"暗物质\".实验研究,或如它也被称为,湿实验室研究是帮助我们实现理解突破的最好方法,但代价高昂,一次突破可能要花几年时间。",
+      "en": "While science can read all 3 billion base pairs of human DNA, we still haven’t fully deciphered the semantics of the genetic code — particularly the non-coding \"dark matter\" that regulates gene expression and disease risk. Experimental research, or as it’s also called, wet-lab research is the best way to help us reach breakthroughs in our understanding, but it’s expensive and time-consuming."
+    },
+    {
+      "paragraphId": "p18",
+      "zh": "像AlphaGenome这样的工具 把我们从只读取DNA 转移到帮助我们 更好地了解疾病背后的分子机制,给研究人员新的线索进行测试 并朝着某一天数字模拟一个完整的人类细胞迈出了重要一步。",
+      "en": "Tools like AlphaGenome move us from merely reading DNA to helping us better understand the molecular mechanisms behind a disease, giving researchers new leads to test and taking an important step towards someday digitally simulating a complete human cell."
+    },
+    {
+      "paragraphId": "p26",
+      "zh": "我们刚刚推出我们的最新模型,AlphaGenome 2, 请检查date=中的日期值 (帮助) A.它解决了AlphaGenome的关键限制之一:细胞类型特异性。虽然AlphaGenome是最先进的,它主要接受来自整个组织或细胞线的数据培训。",
+      "en": "We just launched our latest model, AlphaGenome 2, which tackles one of the key limitations of AlphaGenome: cell type specificity. While AlphaGenome is state-of-the-art, it was trained mostly on data from whole tissues or cell lines."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "9f60816ada056cc82005cf3021352b1f91e51baa8bdefcf2d80366005c49c030"
+}

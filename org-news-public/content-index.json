@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T17:15:10.527583+00:00",
+  "updatedAt": "2026-11-17T23:03:06.521287+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -119,6 +119,39 @@
       "sourceTitle": "Introducing OpenAI for Chile",
       "error": "http_403"
     },
+    "rss-fc8988f3e7d340bc0f40": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
+      "sourceTitle": "How genome mapping can help researchers better understand disease",
+      "contentHash": "9f60816ada056cc82005cf3021352b1f91e51baa8bdefcf2d80366005c49c030",
+      "fetchedAt": "2026-11-17T23:02:46.440524+00:00"
+    },
+    "rss-73687e4d2d12cc3c627a": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
+      "sourceTitle": "See what 5 builders are making with Gemini 4 Carbon",
+      "contentHash": "56c5e1635299f65b05e56cc50d94db265011e9448911db949950a6614eae36e4",
+      "fetchedAt": "2026-11-17T23:02:47.156227+00:00"
+    },
+    "rss-3047d7657748ea760feb": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "sourceTitle": "Introducing ChatGPT for Sales",
+      "error": "http_403"
+    },
+    "rss-b43ef08ac3ed4f7af6f4": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "sourceTitle": "Astra for Law leads in legal intelligence",
+      "error": "http_403"
+    },
+    "rss-3212e751c4906b22aa1b": {
+      "status": "ready",
+      "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
+      "sourceTitle": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
+      "contentHash": "b99eaac502887f5e006da6c0b1489c53a0d9beef37870fda69b56a666007b040",
+      "fetchedAt": "2026-11-17T23:02:49.357191+00:00"
+    },
     "rss-de2fdfd7d21bebae8a89": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
@@ -227,9 +260,9 @@
     "rss-e064cdc0ef6bfc1ede43": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
-      "sourceTitle": "The era of autonomous attacks has arrived.",
+      "sourceTitle": "Outpace automated cyber threats with security built for nonstop defense.",
       "contentHash": "a1302a16a3d807ffe9c656da8356d3b95bd35780b23b70a546fce772071c8266",
-      "fetchedAt": "2026-11-16T22:57:03.228781+00:00"
+      "fetchedAt": "2026-11-17T23:03:04.940617+00:00"
     },
     "rss-674d89a4a76fb1d82d6d": {
       "status": "ready",

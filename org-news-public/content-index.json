@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T05:08:49.427697+00:00",
+  "updatedAt": "2026-11-17T11:12:25.238187+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -64,6 +64,12 @@
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
       "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
+    },
+    "rss-0e7f690aa4ff229bd2e8": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "sourceTitle": "Strengthening NATO and allied cyber defenses with AI",
+      "error": "http_403"
     },
     "rss-de2fdfd7d21bebae8a89": {
       "status": "ready",
@@ -183,6 +189,12 @@
       "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
       "contentHash": "233a983e502a3fd783c2910552bbf5ed69548acb7baf7f733a0e9b0de288a5b9",
       "fetchedAt": "2026-11-16T22:57:03.435244+00:00"
+    },
+    "rss-b82b64ef90f76e66fb00": {
+      "status": "unavailable",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "sourceTitle": "How Revolut raises ambition without lowering the bar",
+      "error": "http_403"
     },
     "rss-2e8f421d2ee2a3dfd36b": {
       "status": "unavailable",

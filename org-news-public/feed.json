@@ -1,6 +1,22 @@
 {
   "articles": [
     {
+      "id": "rss-0e7f690aa4ff229bd2e8",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Strengthening NATO and allied cyber defenses with AI",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-de2fdfd7d21bebae8a89",
       "title": "What teenagers really think about online safety and AI",
       "summary": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
@@ -291,6 +307,22 @@
       "live": true,
       "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
       "sourceId": "google"
+    },
+    {
+      "id": "rss-b82b64ef90f76e66fb00",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "date": "2026-11-16",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "How Revolut raises ambition without lowering the bar",
+      "sourceId": "openai"
     },
     {
       "id": "rss-2e8f421d2ee2a3dfd36b",
@@ -2629,35 +2661,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-17T05:08:48.071896+00:00",
-      "lastSuccess": "2026-11-17T05:08:48.399499+00:00",
+      "attemptedAt": "2026-11-17T11:12:21.382416+00:00",
+      "lastSuccess": "2026-11-17T11:12:21.548305+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-17T05:08:48.072504+00:00",
-      "lastSuccess": "2026-11-17T05:08:48.237737+00:00",
+      "attemptedAt": "2026-11-17T11:12:21.383216+00:00",
+      "lastSuccess": "2026-11-17T11:12:21.572763+00:00",
       "count": 15
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-17T05:08:48.072895+00:00",
-      "lastSuccess": "2026-11-17T05:08:48.201787+00:00",
+      "attemptedAt": "2026-11-17T11:12:21.383737+00:00",
+      "lastSuccess": "2026-11-17T11:12:21.483749+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-17T05:08:48.073258+00:00",
-      "lastSuccess": "2026-11-17T05:08:49.265001+00:00",
+      "attemptedAt": "2026-11-17T11:12:21.384545+00:00",
+      "lastSuccess": "2026-11-17T11:12:22.457702+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-17T05:08:49.266077+00:00",
-  "nextRefresh": "2026-11-17T10:17:00+00:00",
+  "lastRefresh": "2026-11-17T11:12:22.459142+00:00",
+  "nextRefresh": "2026-11-17T16:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "bc6eee2d4b9c816fec6302bff2596987df1536cf4f5ccf3417996ab456779abd"
+  "bilingualRevision": "8c9295284847bf671028ca8504f0e3e7bd710ea677fe09b4c0a17ce63a86f0ab"
 }

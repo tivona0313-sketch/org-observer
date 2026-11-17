@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-16T22:56:59.936638+00:00",
-  "revision": "bc6eee2d4b9c816fec6302bff2596987df1536cf4f5ccf3417996ab456779abd",
+  "generatedAt": "2026-11-17T11:12:23.169802+00:00",
+  "revision": "8c9295284847bf671028ca8504f0e3e7bd710ea677fe09b4c0a17ce63a86f0ab",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -400,6 +400,26 @@
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
       }
     },
+    "rss-0e7f690aa4ff229bd2e8": {
+      "original": {
+        "title": "Strengthening NATO and allied cyber defenses with AI",
+        "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+        "sourceTitle": "Strengthening NATO and allied cyber defenses with AI",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "与大赦国际一起加强北约和盟国网络防御",
+        "summary": "OpenAI如何与北约和盟国网络机构合作,帮助受信任的维权者发现弱点,测试 修复和保护基本系统。",
+        "sourceTitle": "与大赦国际一起加强北约和盟国网络防御",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Strengthening NATO and allied cyber defenses with AI",
+        "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+        "sourceTitle": "Strengthening NATO and allied cyber defenses with AI",
+        "source": "OpenAI News"
+      }
+    },
     "rss-de2fdfd7d21bebae8a89": {
       "original": {
         "title": "What teenagers really think about online safety and AI",
@@ -758,6 +778,26 @@
         "summary": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
         "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
         "source": "Google The Keyword"
+      }
+    },
+    "rss-b82b64ef90f76e66fb00": {
+      "original": {
+        "title": "How Revolut raises ambition without lowering the bar",
+        "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+        "sourceTitle": "How Revolut raises ambition without lowering the bar",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Revolut如何提高野心而不降低吧台",
+        "summary": "发现Revolut如何使用OpenAI模型和Codex将编码时间缩短了30-60%,* 大规模金融犯罪调查,在不损害安全的情况下进行创新。",
+        "sourceTitle": "Revolut如何提高野心而不降低吧台",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Revolut raises ambition without lowering the bar",
+        "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+        "sourceTitle": "How Revolut raises ambition without lowering the bar",
+        "source": "OpenAI News"
       }
     },
     "rss-2e8f421d2ee2a3dfd36b": {

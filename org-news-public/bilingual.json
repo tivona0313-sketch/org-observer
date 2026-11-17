@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-17T11:12:23.169802+00:00",
-  "revision": "8c9295284847bf671028ca8504f0e3e7bd710ea677fe09b4c0a17ce63a86f0ab",
+  "generatedAt": "2026-11-17T17:14:58.694958+00:00",
+  "revision": "3bf07ca321ae2d407d435c258e1a5fb3dfbf91560fdd90308ca149754cbd0225",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -417,6 +417,146 @@
         "title": "Strengthening NATO and allied cyber defenses with AI",
         "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
         "sourceTitle": "Strengthening NATO and allied cyber defenses with AI",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-ac3cfd0cc9d0d9918b01": {
+      "original": {
+        "title": "Read the EmbeddingGemma 2 technical report.",
+        "summary": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.",
+        "sourceTitle": "Read the EmbeddingGemma 2 technical report.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "阅读EmbeddingGemma 2技术报告.",
+        "summary": "Google EmbeddingGemma 2技术报告详细介绍了我们新的多式联运模式,涵盖其统一的矢量空间和紧凑的设计。阅其报曰.",
+        "sourceTitle": "阅读EmbeddingGemma 2技术报告.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Read the EmbeddingGemma 2 technical report.",
+        "summary": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.",
+        "sourceTitle": "Read the EmbeddingGemma 2 technical report.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-830da74434e8505c737e": {
+      "original": {
+        "title": "Put Gemini to work for you",
+        "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+        "sourceTitle": "Put Gemini to work for you",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "让Gemini为你工作吧",
+        "summary": "Gemini的任务现在在六个国家是免费的在美国开始有新的功能.更深入的Google工作空间集成 以完成你的工作。",
+        "sourceTitle": "让Gemini为你工作吧",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Put Gemini to work for you",
+        "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+        "sourceTitle": "Put Gemini to work for you",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-759ce8d82938a49ac3d1": {
+      "original": {
+        "title": "10 states team up with Google on free AI training",
+        "summary": "Free Google AI training and career certificates are now available across 10 states through local libraries and colleges.",
+        "sourceTitle": "10 states team up with Google on free AI training",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "10个州与Google合作免费AI培训",
+        "summary": "免费的Google AI培训和职业证书现在通过当地图书馆和学院在10个州提供.",
+        "sourceTitle": "10个州与Google合作免费AI培训",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "10 states team up with Google on free AI training",
+        "summary": "Free Google AI training and career certificates are now available across 10 states through local libraries and colleges.",
+        "sourceTitle": "10 states team up with Google on free AI training",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-dbb0db3d32f06075cac7": {
+      "original": {
+        "title": "Temporary threads are now available in AI Mode in Search.",
+        "summary": "Google AI Mode now offers temporary threads for private searches. Keep your history clean and avoid personalization. Try this new feature today.",
+        "sourceTitle": "Temporary threads are now available in AI Mode in Search.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "临时线程目前在搜索中的 AI Mode 中可用 。",
+        "summary": "Google AI Mode现在为私人搜索提供临时线程.保持历史清洁,避免个性化.今天试一下这个新功能.",
+        "sourceTitle": "临时线程目前在搜索中的 AI Mode 中可用 。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Temporary threads are now available in AI Mode in Search.",
+        "summary": "Google AI Mode now offers temporary threads for private searches. Keep your history clean and avoid personalization. Try this new feature today.",
+        "sourceTitle": "Temporary threads are now available in AI Mode in Search.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-3f4b299bfba49fc6f8fb": {
+      "original": {
+        "title": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+        "summary": "Google Home updates bring keyless entry, smarter audio alerts, and faster Gemini performance. See what’s new in the November 2026 update.",
+        "sourceTitle": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "从更容易进入到更聪明的储蓄,本文为Google Home的最新消息。",
+        "summary": "Google Home的更新带来了无密钥条目,更聪明的音频提示,和更快的Gemini表演。请见2026年11月最新消息。",
+        "sourceTitle": "从更容易进入到更聪明的储蓄,本文为Google Home的最新消息。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+        "summary": "Google Home updates bring keyless entry, smarter audio alerts, and faster Gemini performance. See what’s new in the November 2026 update.",
+        "sourceTitle": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-ad34e4b84340ecc83794": {
+      "original": {
+        "title": "Celebrate 100 years of Colonial Williamsburg online",
+        "summary": "Tour reconstructed landmarks, flip through 18th-century newspapers, and watch a historic dessert come to life with Google Arts & Culture.",
+        "sourceTitle": "Celebrate 100 years of Colonial Williamsburg online",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "庆祝殖民威廉斯堡百年在线",
+        "summary": "参观重建的地标,翻翻18世纪的报纸,与Google Arts & Culture合作,",
+        "sourceTitle": "庆祝殖民威廉斯堡百年在线",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Celebrate 100 years of Colonial Williamsburg online",
+        "summary": "Tour reconstructed landmarks, flip through 18th-century newspapers, and watch a historic dessert come to life with Google Arts & Culture.",
+        "sourceTitle": "Celebrate 100 years of Colonial Williamsburg online",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-3b3be741a87f5e2153e6": {
+      "original": {
+        "title": "Introducing OpenAI for Chile",
+        "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+        "sourceTitle": "Introducing OpenAI for Chile",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "为智利引入 OpenAI",
+        "summary": "OpenAI和智利政府结成伙伴,支持负责任的AI收养,培养公共部门的技能,帮助当地初创企业开发AI应用.",
+        "sourceTitle": "为智利引入 OpenAI",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Introducing OpenAI for Chile",
+        "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+        "sourceTitle": "Introducing OpenAI for Chile",
         "source": "OpenAI News"
       }
     },

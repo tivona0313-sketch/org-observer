@@ -17,6 +17,120 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-ac3cfd0cc9d0d9918b01",
+      "title": "Read the EmbeddingGemma 2 technical report.",
+      "summary": "The Google EmbeddingGemma 2 technical report details our new multimodal model, covering its unified vector space and compact design. Read the report.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Read the EmbeddingGemma 2 technical report.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-830da74434e8505c737e",
+      "title": "Put Gemini to work for you",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Put Gemini to work for you",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-759ce8d82938a49ac3d1",
+      "title": "10 states team up with Google on free AI training",
+      "summary": "Free Google AI training and career certificates are now available across 10 states through local libraries and colleges.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+      "date": "2026-11-17",
+      "categories": [
+        "人才标准",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "10 states team up with Google on free AI training",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-dbb0db3d32f06075cac7",
+      "title": "Temporary threads are now available in AI Mode in Search.",
+      "summary": "Google AI Mode now offers temporary threads for private searches. Keep your history clean and avoid personalization. Try this new feature today.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Temporary threads are now available in AI Mode in Search.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-3f4b299bfba49fc6f8fb",
+      "title": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+      "summary": "Google Home updates bring keyless entry, smarter audio alerts, and faster Gemini performance. See what’s new in the November 2026 update.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+      "date": "2026-11-17",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-ad34e4b84340ecc83794",
+      "title": "Celebrate 100 years of Colonial Williamsburg online",
+      "summary": "Tour reconstructed landmarks, flip through 18th-century newspapers, and watch a historic dessert come to life with Google Arts & Culture.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
+      "date": "2026-11-17",
+      "categories": [
+        "组织文化"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Celebrate 100 years of Colonial Williamsburg online",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-3b3be741a87f5e2153e6",
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "date": "2026-11-17",
+      "categories": [
+        "人才标准",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Introducing OpenAI for Chile",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-de2fdfd7d21bebae8a89",
       "title": "What teenagers really think about online safety and AI",
       "summary": "CEO of ParentZone, Vicki Shotbolt, explains how UK teens are digitally curious and alert to online risks, relying on parent support and using AI creatively to learn.",
@@ -2661,35 +2775,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-17T11:12:21.382416+00:00",
-      "lastSuccess": "2026-11-17T11:12:21.548305+00:00",
+      "attemptedAt": "2026-11-17T17:14:56.258496+00:00",
+      "lastSuccess": "2026-11-17T17:14:56.413302+00:00",
       "count": 8
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-17T11:12:21.383216+00:00",
-      "lastSuccess": "2026-11-17T11:12:21.572763+00:00",
-      "count": 15
+      "attemptedAt": "2026-11-17T17:14:56.259116+00:00",
+      "lastSuccess": "2026-11-17T17:14:56.422658+00:00",
+      "count": 13
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-17T11:12:21.383737+00:00",
-      "lastSuccess": "2026-11-17T11:12:21.483749+00:00",
+      "attemptedAt": "2026-11-17T17:14:56.259506+00:00",
+      "lastSuccess": "2026-11-17T17:14:56.349358+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-17T11:12:21.384545+00:00",
-      "lastSuccess": "2026-11-17T11:12:22.457702+00:00",
+      "attemptedAt": "2026-11-17T17:14:56.259897+00:00",
+      "lastSuccess": "2026-11-17T17:14:57.327090+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-17T11:12:22.459142+00:00",
-  "nextRefresh": "2026-11-17T16:17:00+00:00",
+  "lastRefresh": "2026-11-17T17:14:57.328157+00:00",
+  "nextRefresh": "2026-11-17T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "8c9295284847bf671028ca8504f0e3e7bd710ea677fe09b4c0a17ce63a86f0ab"
+  "bilingualRevision": "3bf07ca321ae2d407d435c258e1a5fb3dfbf91560fdd90308ca149754cbd0225"
 }

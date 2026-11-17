@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-3f4b299bfba49fc6f8fb",
+  "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+  "sourceTitle": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+  "status": "ready",
+  "attemptedAt": "2026-11-17T17:15:03.431545+00:00",
+  "fetchedAt": "2026-11-17T17:15:06.229357+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+  "language": "en",
+  "originalTitle": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+  "author": "Mark Alexander",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "From unlocking your front door to trimming utility bills, here’s what’s new across Google Home:",
+      "id": "p1",
+      "zh": "从打开你的前门到修剪水电费以下是Google Home最新消息:",
+      "en": "From unlocking your front door to trimming utility bills, here’s what’s new across Google Home:"
+    },
+    {
+      "kind": "list",
+      "text": "Keyless entry: Android users can now unlock compatible front doors with a quick tap or hands-free approach using digital home keys in Google Wallet.",
+      "id": "p2",
+      "zh": "无键条目 :Android用户现在可以使用Google钱包中的数字家用钥匙,用快速水龙头或手无寸铁的方法解锁兼容的前门.",
+      "en": "Keyless entry: Android users can now unlock compatible front doors with a quick tap or hands-free approach using digital home keys in Google Wallet."
+    },
+    {
+      "kind": "list",
+      "text": "Smarter alerts: For added peace of mind, Google Home Premium Advanced now detects audio — like barking dogs or breaking glass — in motion-triggered camera and doorbell event descriptions.",
+      "id": "p3",
+      "zh": "更聪明的提示 :为了心灵的安宁Google Home Premium Advance现在在动作触发相机和门铃事件描述中检测音频——如吠狗或碎玻璃.",
+      "en": "Smarter alerts: For added peace of mind, Google Home Premium Advanced now detects audio — like barking dogs or breaking glass — in motion-triggered camera and doorbell event descriptions."
+    },
+    {
+      "kind": "list",
+      "text": "Nest thermostat upgrades: Starting in December, Nest thermostat owners in the U.S. and Canada can check the app to see estimated cumulative savings. And they can also balance hot and cold spots with compatible third-party room sensors with their 4th-gen Nest Learning Thermostat.",
+      "id": "p4",
+      "zh": "巢形自动调温器升级:从12月开始在美国的恒温器所有者。加拿大可以检查该应用程序,看看估计的累积节余。而且它们也可以用兼容的第三方室感应器来平衡热点和冷点,与它们的四源\"巢穴学习热点\"(Nest Learning Themormat).",
+      "en": "Nest thermostat upgrades: Starting in December, Nest thermostat owners in the U.S. and Canada can check the app to see estimated cumulative savings. And they can also balance hot and cold spots with compatible third-party room sensors with their 4th-gen Nest Learning Thermostat."
+    },
+    {
+      "kind": "list",
+      "text": "Faster Gemini for Home: Gemini for Home now handles everyday requests up to 20% faster and is expanding to six new countries, including India and Brazil.",
+      "id": "p5",
+      "zh": "更快的Gemini回家:\" 家庭双子星 \" 组织每天处理申请的速度快到20%,并正在扩大到6个新国家。包括印度和巴西。",
+      "en": "Faster Gemini for Home: Gemini for Home now handles everyday requests up to 20% faster and is expanding to six new countries, including India and Brazil."
+    },
+    {
+      "kind": "paragraph",
+      "text": "To learn more about the latest updates to Google Home, visit the Nest Community.",
+      "id": "p6",
+      "zh": "为了了解谷歌之家最新消息,参观巢穴社区。",
+      "en": "To learn more about the latest updates to Google Home, visit the Nest Community."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "从打开你的前门到修剪水电费以下是Google Home最新消息:",
+      "en": "From unlocking your front door to trimming utility bills, here’s what’s new across Google Home:"
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "无键条目 :Android用户现在可以使用Google钱包中的数字家用钥匙,用快速水龙头或手无寸铁的方法解锁兼容的前门.",
+      "en": "Keyless entry: Android users can now unlock compatible front doors with a quick tap or hands-free approach using digital home keys in Google Wallet."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "巢形自动调温器升级:从12月开始在美国的恒温器所有者。加拿大可以检查该应用程序,看看估计的累积节余。",
+      "en": "Nest thermostat upgrades: Starting in December, Nest thermostat owners in the U.S. and Canada can check the app to see estimated cumulative savings. And they can also balance hot and cold spots with compatible third-party room sensors with their 4th-gen Nest Learning Thermostat."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "更快的Gemini回家:\" 家庭双子星 \" 组织每天处理申请的速度快到20%,并正在扩大到6个新国家。包括印度和巴西。",
+      "en": "Faster Gemini for Home: Gemini for Home now handles everyday requests up to 20% faster and is expanding to six new countries, including India and Brazil."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "1675789f5096ef1a04c7e5be6cc93bbd264bf2b6ebbf96b70f427b3592c63180"
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T11:12:25.238187+00:00",
+  "updatedAt": "2026-11-17T17:15:10.527583+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -69,6 +69,54 @@
       "status": "unavailable",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "sourceTitle": "Strengthening NATO and allied cyber defenses with AI",
+      "error": "http_403"
+    },
+    "rss-ac3cfd0cc9d0d9918b01": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
+      "sourceTitle": "Read the EmbeddingGemma 2 technical report.",
+      "contentHash": "40755b7a0119407801c77f25782e4c1fb7130d9d8c7820d8f9583136a3ff0814",
+      "fetchedAt": "2026-11-17T17:15:01.093404+00:00"
+    },
+    "rss-830da74434e8505c737e": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "sourceTitle": "Put Gemini to work for you",
+      "contentHash": "0d79d34215e9960451a9cd0592b049168839aa96b7e495fd17c8dfe166614f06",
+      "fetchedAt": "2026-11-17T17:15:01.144980+00:00"
+    },
+    "rss-759ce8d82938a49ac3d1": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+      "sourceTitle": "10 states team up with Google on free AI training",
+      "contentHash": "5dc207559ef585da17e8a2f129ed9c8a1a6fb3002e105b5a5141f37b1632f021",
+      "fetchedAt": "2026-11-17T17:15:01.050572+00:00"
+    },
+    "rss-dbb0db3d32f06075cac7": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
+      "sourceTitle": "Temporary threads are now available in AI Mode in Search.",
+      "contentHash": "3558527e2a3bf73d521756bfa6441b611a1a31ec64d7833f09bbc3f5f825fb65",
+      "fetchedAt": "2026-11-17T17:15:04.419262+00:00"
+    },
+    "rss-3f4b299bfba49fc6f8fb": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
+      "sourceTitle": "From easier entry to smarter savings, here’s what’s new in Google Home.",
+      "contentHash": "1675789f5096ef1a04c7e5be6cc93bbd264bf2b6ebbf96b70f427b3592c63180",
+      "fetchedAt": "2026-11-17T17:15:06.229357+00:00"
+    },
+    "rss-ad34e4b84340ecc83794": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
+      "sourceTitle": "Celebrate 100 years of Colonial Williamsburg online",
+      "contentHash": "7ffa2c6ac40e91ff57cc64aaf52f7406f68f65c07f0aa86184570004e03597db",
+      "fetchedAt": "2026-11-17T17:15:08.296757+00:00"
+    },
+    "rss-3b3be741a87f5e2153e6": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "sourceTitle": "Introducing OpenAI for Chile",
       "error": "http_403"
     },
     "rss-de2fdfd7d21bebae8a89": {

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-759ce8d82938a49ac3d1",
+  "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+  "sourceTitle": "10 states team up with Google on free AI training",
+  "status": "ready",
+  "attemptedAt": "2026-11-17T17:14:58.730024+00:00",
+  "fetchedAt": "2026-11-17T17:15:01.050572+00:00",
+  "finalURL": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
+  "language": "en",
+  "originalTitle": "10 states team up with Google on free AI training",
+  "author": "Lisa Gevelber",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, seven in 10 managers believe an AI-trained workforce is critical to their organization’s success, yet they aren’t offering the practical training that would help. We want to make it easy for everyone to learn how to use technology effectively and responsibly when it’s convenient for them, wherever they live and work.",
+      "id": "p1",
+      "zh": "今天,我们...十分之七的管理人员认为,经过人工智能培训的员工队伍对其组织的成功至关重要,但他们并没有提供实用的训练,我们想让每个人都能轻松地学会如何有效地、负责任地使用技术,无论他们在哪里生活和工作。",
+      "en": "Today, seven in 10 managers believe an AI-trained workforce is critical to their organization’s success, yet they aren’t offering the practical training that would help. We want to make it easy for everyone to learn how to use technology effectively and responsibly when it’s convenient for them, wherever they live and work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "That’s what led Grow with Google to partner with states across the country to bring no-cost training directly to residents. We started in Oklahoma. Then, we partnered with Massachusetts, where nearly 40,000 residents signed up through the MassTech AI Hub within six months of launch.",
+      "id": "p2",
+      "zh": "因此Grow与Google合作, 与全国各州合作, 直接向居民提供免费培训。我们从俄克拉何马州开始的礛我们和马萨诸塞州合作过其中近4万居民在发射后6个月内通过MassTech AI Hub报名.",
+      "en": "That’s what led Grow with Google to partner with states across the country to bring no-cost training directly to residents. We started in Oklahoma. Then, we partnered with Massachusetts, where nearly 40,000 residents signed up through the MassTech AI Hub within six months of launch."
+    },
+    {
+      "kind": "paragraph",
+      "text": "North Carolina is now our tenth state partner to offer our digital and AI training at no cost to residents through NC LIVE. It joins Arkansas, Connecticut, Delaware, Georgia, Massachusetts, Missouri, Oklahoma, South Dakota and Virginia.",
+      "id": "p3",
+      "zh": "北卡罗莱纳州现在是我们的第十个州伙伴,通过NCLIVE免费向居民提供我们的数字和人工智能培训.它会加入阿肯色州康涅狄格州,特拉华州格鲁吉亚马萨诸塞州密苏里州俄克拉何马州南达科他州和弗吉尼亚州.",
+      "en": "North Carolina is now our tenth state partner to offer our digital and AI training at no cost to residents through NC LIVE. It joins Arkansas, Connecticut, Delaware, Georgia, Massachusetts, Missouri, Oklahoma, South Dakota and Virginia."
+    },
+    {
+      "kind": "heading",
+      "text": "Meeting learners in the places they trust",
+      "id": "p4",
+      "zh": "在他们信任的地方与学习者会面",
+      "en": "Meeting learners in the places they trust"
+    },
+    {
+      "kind": "paragraph",
+      "text": "While each partnership shapes the rollout to fit their communities, they share the common goal of making digital and AI training accessible to everyone.",
+      "id": "p5",
+      "zh": "虽然每个伙伴关系都决定了适合其社区的推出,他们的共同目标是使人人都能获得数字和人工智能培训。",
+      "en": "While each partnership shapes the rollout to fit their communities, they share the common goal of making digital and AI training accessible to everyone."
+    },
+    {
+      "kind": "list",
+      "text": "Partnering with public libraries: In Georgia, Oklahoma and North Carolina, statewide library systems are the front door. Residents can check out digital resources, and take foundational courses at no cost. In North Carolina, this builds on Google's broader AI work across the state. For example, Google is the founding partner for the first-of-its-kind Institute for Artificial Intelligence and Emerging Research at North Carolina Central University, an institute dedicated to researching ethical AI and expanding student pathways.",
+      "id": "p6",
+      "zh": "与公共图书馆合作:在格鲁吉亚,俄克拉荷马州和北卡罗莱纳州全州图书馆系统是前门.居民可以查看数字资源,免费参加基础课程。在北卡罗莱纳州这基于Google在全州范围更广的AI工作.举例来说,Google是北卡罗来纳中央大学人工智能和新兴研究所的创始伙伴,专门研究道德AI和扩展学生途径的研究所。",
+      "en": "Partnering with public libraries: In Georgia, Oklahoma and North Carolina, statewide library systems are the front door. Residents can check out digital resources, and take foundational courses at no cost. In North Carolina, this builds on Google's broader AI work across the state. For example, Google is the founding partner for the first-of-its-kind Institute for Artificial Intelligence and Emerging Research at North Carolina Central University, an institute dedicated to researching ethical AI and expanding student pathways."
+    },
+    {
+      "kind": "list",
+      "text": "Teaching students career skills: In Missouri, state education and workforce agencies partnered to offer digital training across K-12 systems, colleges, universities, and local Missouri job centers. In Connecticut, Charter Oak State College launched an Online AI Academy to bring practical AI skills to residents across the state. This expanded reach builds on our work with over 500 education institutions across all 50 states who are part of the Google AI for Education Accelerator, a no-cost program to help students, faculty and staff with AI and other job-ready skills.",
+      "id": "p7",
+      "zh": "向学生传授职业技能:在密苏里州国家教育和劳动力机构结成伙伴,在K-12系统提供数字培训,学院,大学,和密苏里本地的工作中心。在康涅狄格州,Charter Oak State College推出在线AI学院,为全州居民带来实用AI技能.我们与50个州的500多个教育机构开展了合作,这些教育机构是Google教育加速器系统的一部分。帮助学生的免费方案,具有AI和其他工作准备技能的教员和工作人员。",
+      "en": "Teaching students career skills: In Missouri, state education and workforce agencies partnered to offer digital training across K-12 systems, colleges, universities, and local Missouri job centers. In Connecticut, Charter Oak State College launched an Online AI Academy to bring practical AI skills to residents across the state. This expanded reach builds on our work with over 500 education institutions across all 50 states who are part of the Google AI for Education Accelerator, a no-cost program to help students, faculty and staff with AI and other job-ready skills."
+    },
+    {
+      "kind": "list",
+      "text": "Driving local economic growth: States like Virginia, Delaware, and Arkansas are integrating AI coursework directly into state workforce programs, economic development councils, and job centers, making sure state workers, career seekers, and local businesses can put AI to work right away.",
+      "id": "p8",
+      "zh": "推动地方经济增长:像弗吉尼亚这样的州,特拉华州阿肯色州正在将AI课程直接纳入国家劳动力方案,经济发展理事会,和工作中心,确保国家工人,求职者;当地企业可以让AI立刻工作.",
+      "en": "Driving local economic growth: States like Virginia, Delaware, and Arkansas are integrating AI coursework directly into state workforce programs, economic development councils, and job centers, making sure state workers, career seekers, and local businesses can put AI to work right away."
+    },
+    {
+      "kind": "heading",
+      "text": "Building confidence through practical skills",
+      "id": "p9",
+      "zh": "通过实用技能建立信任",
+      "en": "Building confidence through practical skills"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We hear from people across career fields that they want to know more about AI, but they tell us it can be intimidating to get started.",
+      "id": "p10",
+      "zh": "我们从不同职业领域的人那里得知 他们想知道更多关于AI的信息但他们告诉我们 开始会很吓人",
+      "en": "We hear from people across career fields that they want to know more about AI, but they tell us it can be intimidating to get started."
+    },
+    {
+      "kind": "paragraph",
+      "text": "We created the Google AI Professional Certificate to help them succeed. Through this training course they learn how to use AI to create marketing materials, gain insights from their data, prepare presentations, build their own apps and much more. And they practice hands-on with real examples.",
+      "id": "p11",
+      "zh": "我们创建了Google AI专业证书来帮助他们成功.通过这一培训课程,他们学会如何使用AI制作营销材料,从他们的数据中获得洞察力,准备讲演,建造自己的应用软件,并进行更多的开发。他们用真实的例子来实践。",
+      "en": "We created the Google AI Professional Certificate to help them succeed. Through this training course they learn how to use AI to create marketing materials, gain insights from their data, prepare presentations, build their own apps and much more. And they practice hands-on with real examples."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Learn more at grow.google/gov.",
+      "id": "p12",
+      "zh": "(原始内容存档于2017-07-21). Learning more at grow.google/gov.",
+      "en": "Learn more at grow.google/gov."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...十分之七的管理人员认为,经过人工智能培训的员工队伍对其组织的成功至关重要,但他们并没有提供实用的训练,我们想让每个人都能轻松地学会如何有效地、负责任地使用技术,无论他们在哪里生活和工作。",
+      "en": "Today, seven in 10 managers believe an AI-trained workforce is critical to their organization’s success, yet they aren’t offering the practical training that would help. We want to make it easy for everyone to learn how to use technology effectively and responsibly when it’s convenient for them, wherever they live and work."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "因此Grow与Google合作, 与全国各州合作, 直接向居民提供免费培训。我们从俄克拉何马州开始的礛我们和马萨诸塞州合作过其中近4万居民在发射后6个月内通过MassTech AI Hub报名.",
+      "en": "That’s what led Grow with Google to partner with states across the country to bring no-cost training directly to residents. We started in Oklahoma."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "向学生传授职业技能:在密苏里州国家教育和劳动力机构结成伙伴,在K-12系统提供数字培训,学院,大学,和密苏里本地的工作中心。在康涅狄格州,Charter Oak State College推出在线AI学院,为全州居民带来实用AI技能.我们与50个州的500多个教育机构开展了合作,这些教育机构是Google教育加速器系统的一部分。",
+      "en": "Teaching students career skills: In Missouri, state education and workforce agencies partnered to offer digital training across K-12 systems, colleges, universities, and local Missouri job centers. In Connecticut, Charter Oak State College launched an Online AI Academy to bring practical AI skills to residents across the state."
+    },
+    {
+      "paragraphId": "p11",
+      "zh": "我们创建了Google AI专业证书来帮助他们成功.通过这一培训课程,他们学会如何使用AI制作营销材料,从他们的数据中获得洞察力,准备讲演,建造自己的应用软件,并进行更多的开发。他们用真实的例子来实践。",
+      "en": "We created the Google AI Professional Certificate to help them succeed. Through this training course they learn how to use AI to create marketing materials, gain insights from their data, prepare presentations, build their own apps and much more."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "5dc207559ef585da17e8a2f129ed9c8a1a6fb3002e105b5a5141f37b1632f021"
+}

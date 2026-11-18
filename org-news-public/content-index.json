@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T17:17:15.976482+00:00",
+  "updatedAt": "2026-11-18T23:00:52.251947+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -91,6 +91,39 @@
       "sourceTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
       "contentHash": "f69a2f47046dda31ee7ed46135c3254642de44bf56a90417caba6df90908f79d",
       "fetchedAt": "2026-11-18T17:17:13.489418+00:00"
+    },
+    "rss-be0aed2f51056a6d6c6f": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "sourceTitle": "Introducing Gemini 4 Neon",
+      "contentHash": "c4b2b2247c921e0c99d7637a4390f59d7fbfe262558752191461e3ce8935958a",
+      "fetchedAt": "2026-11-18T23:00:41.852192+00:00"
+    },
+    "rss-92196081162eff2ebc5a": {
+      "status": "ready",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
+      "sourceTitle": "Google for Mexico: Technology impact that goes beyond business",
+      "contentHash": "c1c166e85c0f4298bf17f6635945603e57e9fd926b04b6502a0be6755770c3f4",
+      "fetchedAt": "2026-11-18T23:00:41.504662+00:00"
+    },
+    "rss-a261d2eee241a886eda0": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "sourceTitle": "Genie 4 is now available",
+      "contentHash": "f3ee6359c754d0c26eab820cf2cbb86ac092f9b6879c38826da648d8d8d63600",
+      "fetchedAt": "2026-11-18T23:00:41.271016+00:00"
+    },
+    "rss-184d931227f2504de1a3": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "sourceTitle": "The Silent Consensus",
+      "error": "http_403"
+    },
+    "rss-99be0c0a7e074380d1a5": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "sourceTitle": "Managing frontier AI risk: From training to deployment",
+      "error": "http_403"
     },
     "rss-0e7f690aa4ff229bd2e8": {
       "status": "unavailable",

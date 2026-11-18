@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-184d931227f2504de1a3",
+  "url": "https://openai.com/index/the-silent-consensus",
+  "sourceTitle": "The Silent Consensus",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-18T23:00:47.744877+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-19T23:00:47.810502+00:00"
+}

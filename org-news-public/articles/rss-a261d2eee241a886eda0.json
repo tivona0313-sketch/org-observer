@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-a261d2eee241a886eda0",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+  "sourceTitle": "Genie 4 is now available",
+  "status": "ready",
+  "attemptedAt": "2026-11-18T23:00:37.928158+00:00",
+  "fetchedAt": "2026-11-18T23:00:41.271016+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+  "language": "en",
+  "originalTitle": "Genie 4 is now available",
+  "author": "Diego Rivas",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Earlier this year we introduced Project Genie, an experimental research prototype that lets you generate and explore interactive worlds. Early testers told us they wanted deeper control over what happens inside those worlds, and easier ways to build and share them.",
+      "id": "p1",
+      "zh": "今年早些时候,我们推出了Genie项目,一个实验研究的原型,可以让你生成并探索互动世界.早期的测试者告诉我们他们想要更深入地控制那些世界中发生的事情,以及建造和分享这些东西的更方便的方法。",
+      "en": "Earlier this year we introduced Project Genie, an experimental research prototype that lets you generate and explore interactive worlds. Early testers told us they wanted deeper control over what happens inside those worlds, and easier ways to build and share them."
+    },
+    {
+      "kind": "paragraph",
+      "text": "So today, we are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, making these worlds far more responsive, creative, and social. This update unlocks first-time access to Genie 4, new upgrades to Genie 3, the Project Genie agent which helps users build their vision, and a community gallery to discover, explore, and remix worlds.",
+      "id": "p2",
+      "zh": "所以今天,我们...我们正在推出一个新的项目Genie体验 符合资格的Google AI Ultra用户,使这些世界更加敏感,创意,和社交活动。这个更新解锁了首次访问Genie 4,新升级到Genie 3,帮助用户建立视野的 \" 天才 \" 项目代理商,和一个社区画廊来发现,探索,并重新组合世界。",
+      "en": "So today, we are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, making these worlds far more responsive, creative, and social. This update unlocks first-time access to Genie 4, new upgrades to Genie 3, the Project Genie agent which helps users build their vision, and a community gallery to discover, explore, and remix worlds."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Project Genie brings together our most advanced world models alongside our Gemini models, empowering you to generate, step inside, and shape worlds directly from your browser.",
+      "id": "p3",
+      "zh": "Genie项目将我们最先进的世界模型 和Gemini模型结合起来赋予你创造,进到里面,并直接从浏览器中塑造世界。",
+      "en": "Project Genie brings together our most advanced world models alongside our Gemini models, empowering you to generate, step inside, and shape worlds directly from your browser."
+    },
+    {
+      "kind": "heading",
+      "text": "Experience Genie 4 in Project Genie",
+      "id": "p4",
+      "zh": "Genie 4项目的经验",
+      "en": "Experience Genie 4 in Project Genie"
+    },
+    {
+      "kind": "paragraph",
+      "text": "With Genie 4, our most realistic and interactive world model yet, you can now prompt mid-session to change the world you created. Just type a new prompt while you navigate your world and you can edit your environments in real time. Shift the weather, drop in a character, or redirect the action. For the first time, Genie 4 pairs these visuals with real-time native audio that adapts as the scene unfolds, from ambient soundscapes to character dialogue.",
+      "id": "p5",
+      "zh": "与精灵4,我们最现实、最互动的世界模式,您现在可以启动会中 改变您创建的世界 。只要在您浏览您的世界时输入一个新的提示, 您就可以实时编辑您的环境 。改变天气,掉进一个角色,或重定向动作。这是第一次,Genie 4 配对这些视觉 与实时本土音频 适应随着场景的展开,从环境音景到字符对话框。",
+      "en": "With Genie 4, our most realistic and interactive world model yet, you can now prompt mid-session to change the world you created. Just type a new prompt while you navigate your world and you can edit your environments in real time. Shift the weather, drop in a character, or redirect the action. For the first time, Genie 4 pairs these visuals with real-time native audio that adapts as the scene unfolds, from ambient soundscapes to character dialogue."
+    },
+    {
+      "kind": "heading",
+      "text": "Discover new Genie 3 capabilities",
+      "id": "p6",
+      "zh": "发现新的精灵3能力",
+      "en": "Discover new Genie 3 capabilities"
+    },
+    {
+      "kind": "paragraph",
+      "text": "While Genie 4 delivers our highest-fidelity visuals, physics, and native audio, Genie 3 remains available in Project Genie’s model picker when you want longer runs or panorama-seeded spaces. Today’s Genie 3 updates include:",
+      "id": "p7",
+      "zh": "虽然Genie 4传递了我们最忠实的视觉,物理学,和声响,Genie 3 仍然可用在 Project Genie 的模型拾取器中, 当您想要更长运行或全景种子空间时 。今天的Genie 3最新消息包括:",
+      "en": "While Genie 4 delivers our highest-fidelity visuals, physics, and native audio, Genie 3 remains available in Project Genie’s model picker when you want longer runs or panorama-seeded spaces. Today’s Genie 3 updates include:"
+    },
+    {
+      "kind": "list",
+      "text": "Extended sessions and world chaining: Explore for up to 3 minutes per generation (up from 60 seconds), or link multiple worlds together for longer journeys.",
+      "id": "p8",
+      "zh": "延长届会和世界连锁:探索每代最多3分钟(从60秒起),或将多个世界连接在一起 进行更长的旅程。",
+      "en": "Extended sessions and world chaining: Explore for up to 3 minutes per generation (up from 60 seconds), or link multiple worlds together for longer journeys."
+    },
+    {
+      "kind": "list",
+      "text": "360-degree panorama image grounding: Seed new worlds from 360-degree panorama images.",
+      "id": "p9",
+      "zh": "360度全景图像定位 :360度全景影像的种子新世界.",
+      "en": "360-degree panorama image grounding: Seed new worlds from 360-degree panorama images."
+    },
+    {
+      "kind": "list",
+      "text": "Real-time in-world events: Dynamically change the environment with natural-language prompts while you explore.",
+      "id": "p10",
+      "zh": "实时世界活动:在你探索时,用自然语言提示来动态改变环境.",
+      "en": "Real-time in-world events: Dynamically change the environment with natural-language prompts while you explore."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Genie 3 uses real-time promptable events to connect different worlds into one continuous flight across forests, underwater ruins, and icy seas.",
+      "id": "p11",
+      "zh": "Genie 3使用实时的即时事件将不同的世界连接成一次穿越森林的连续飞行,水下废墟,和冰冷的海洋,",
+      "en": "Genie 3 uses real-time promptable events to connect different worlds into one continuous flight across forests, underwater ruins, and icy seas."
+    },
+    {
+      "kind": "paragraph",
+      "text": "See how 360-degree panorama grounding in Genie 3 keeps Petra’s canyon and facade consistent as you look around.",
+      "id": "p12",
+      "zh": "看看360度全景在Genie 3中如何支撑Petra的峡谷和外观,",
+      "en": "See how 360-degree panorama grounding in Genie 3 keeps Petra’s canyon and facade consistent as you look around."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Watch how Genie 3 combines longer runs, 360-degree panorama grounding, and real-time promptable events - transforming the world as you fly and even summoning a dragon to ride on command.",
+      "id": "p13",
+      "zh": "观察Genie 3如何结合 更长的运行,360度全景显示,以及实时的快速事件 - 改变世界 当你飞,甚至召唤一只龙骑上命令。",
+      "en": "Watch how Genie 3 combines longer runs, 360-degree panorama grounding, and real-time promptable events - transforming the world as you fly and even summoning a dragon to ride on command."
+    },
+    {
+      "kind": "heading",
+      "text": "Create new interactive experiences",
+      "id": "p14",
+      "zh": "创建新的互动体验",
+      "en": "Create new interactive experiences"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The new Project Genie agent takes creation beyond a single text or image prompt. Now crafting an interactive universe is as effortless as having a conversation. Simply describe your vision in natural language, and the agent orchestrates Google’s suite of multimodal models to craft initial visuals establishing your world’s signature look, paired with custom background scores tailored to the mood.",
+      "id": "p15",
+      "zh": "新的工程 Genie 代理在单个文本或图像提示之外进行创建 。现在构思一个互动的宇宙 就像一个对话一样不费力简单地用自然语言描述你的视觉代理商主持Google的一套多模式模型, 设计初步的视觉, 建立你的世界签名外观,与适合心情的自定义背景分数对齐.",
+      "en": "The new Project Genie agent takes creation beyond a single text or image prompt. Now crafting an interactive universe is as effortless as having a conversation. Simply describe your vision in natural language, and the agent orchestrates Google’s suite of multimodal models to craft initial visuals establishing your world’s signature look, paired with custom background scores tailored to the mood."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can also bring Gemini models into the session as you explore: it observes what is happening on screen, surfaces context-aware suggestion chips for where to go next, or triggers in-world events automatically as your journey unfolds.",
+      "id": "p16",
+      "zh": "您也可以在探索时将Gemini模型带入会话:它观察着屏幕上发生的一切,上下文感知到下一步要去哪儿的建议芯片,或随着旅程的展开而自动触发世界内的事件.",
+      "en": "You can also bring Gemini models into the session as you explore: it observes what is happening on screen, surfaces context-aware suggestion chips for where to go next, or triggers in-world events automatically as your journey unfolds."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Turns a natural language prompt into an interactive spacewalk, then an alien spaceship appears on command",
+      "id": "p17",
+      "zh": "将自然语言变成互动的太空行走,然后有一艘外星飞船出现在指挥中心",
+      "en": "Turns a natural language prompt into an interactive spacewalk, then an alien spaceship appears on command"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Remix a hillside cafe into a glass pavilion in the desert.",
+      "id": "p18",
+      "zh": "将一座山坡咖啡馆重新混入沙漠中的玻璃亭.",
+      "en": "Remix a hillside cafe into a glass pavilion in the desert."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Publish custom worlds to the gallery for others to explore and remix.",
+      "id": "p19",
+      "zh": "将定制世界发布到画廊,供他人探索和重新混合.",
+      "en": "Publish custom worlds to the gallery for others to explore and remix."
+    },
+    {
+      "kind": "heading",
+      "text": "Explore the new gallery",
+      "id": "p20",
+      "zh": "探索新画廊",
+      "en": "Explore the new gallery"
+    },
+    {
+      "kind": "paragraph",
+      "text": "When you just want to jump straight into exploring, the new Project Genie gallery brings together a rich collection of curated worlds alongside creative work from the community. Transform personal photos into explorable spaces in “Living Memory,” wander through rich prehistoric habitats grounded in 360-degree panoramas in “Dino Field Guide,” or pit themed objects against one another on a desk with Gemini serving as your real-time referee in “Rock Paper Scissors.”",
+      "id": "p21",
+      "zh": "当你只想直接探索时,新的Genie项目画廊 聚集了丰富多彩的世界 以及来自社区的创意作品在“Dino Field Guide,或把标本放在桌子上 与Gemini作为你的实时裁判 在“Rock Paper剪刀”。",
+      "en": "When you just want to jump straight into exploring, the new Project Genie gallery brings together a rich collection of curated worlds alongside creative work from the community. Transform personal photos into explorable spaces in “Living Memory,” wander through rich prehistoric habitats grounded in 360-degree panoramas in “Dino Field Guide,” or pit themed objects against one another on a desk with Gemini serving as your real-time referee in “Rock Paper Scissors.”"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Browse curated and community-built worlds and jump straight into exploring.",
+      "id": "p22",
+      "zh": "浏览整理和群落构建的世界,跳跃到探索中去.",
+      "en": "Browse curated and community-built worlds and jump straight into exploring."
+    },
+    {
+      "kind": "paragraph",
+      "text": "“Villa Giallo,” created with Will aka BLVCKL!GHT, uses Genie 4 to turn a gothic manor into an interactive, room-by-room mystery.",
+      "id": "p23",
+      "zh": "“Villa Giallo”,由Will aka BLVCKL!GHT公司创建,利用Genie 4将哥特式庄园变成交互式的,逐个房间的神秘。",
+      "en": "“Villa Giallo,” created with Will aka BLVCKL!GHT, uses Genie 4 to turn a gothic manor into an interactive, room-by-room mystery."
+    },
+    {
+      "kind": "paragraph",
+      "text": "“The Life of Ants,” built with filmmaker Anand Gandhi, uses Genie 4’s photorealism to let you navigate a colony from an ant’s perspective.",
+      "id": "p24",
+      "zh": "“蚂蚁的生活”,由电影制片人Anand Gandhi建造,利用Genie 4 的光现实主义让您从蚂蚁的角度导航一个殖民地.",
+      "en": "“The Life of Ants,” built with filmmaker Anand Gandhi, uses Genie 4’s photorealism to let you navigate a colony from an ant’s perspective."
+    },
+    {
+      "kind": "paragraph",
+      "text": "The gallery also showcases inspiring collaborations with pioneering creators who had early access to these tools. Teaming up with creative technologist Will aka BLVCKL!GHT, we created “Villa Giallo,” an atmospheric, room-by-room mystery inside a gothic manor. And with filmmaker Anand Gandhi, we built “The Life of Ants,” inviting you to navigate a complex colony from an ant’s perspective, drawing on Genie 4’s stunning photorealism.",
+      "id": "p25",
+      "zh": "展馆还展示了与早期获得这些工具的开创性创造者之间的令人鼓舞的合作。与创意技术员 Will aka BLVCKL!GHT合作,我们创造了“Villa Giallo”, 一个大气,哥特式庄园里面的逐室神秘和电影制片人Anand Gandhi,我们建造了\"蚂蚁的生命\",邀请你们从蚂蚁的角度 航行一个复杂的殖民地,利用Genie 4的惊人的光现实主义。",
+      "en": "The gallery also showcases inspiring collaborations with pioneering creators who had early access to these tools. Teaming up with creative technologist Will aka BLVCKL!GHT, we created “Villa Giallo,” an atmospheric, room-by-room mystery inside a gothic manor. And with filmmaker Anand Gandhi, we built “The Life of Ants,” inviting you to navigate a complex colony from an ant’s perspective, drawing on Genie 4’s stunning photorealism."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Beyond exploring curated worlds, you can also launch your vision with a simple prompt or remix existing gallery experiences alongside the Project Genie agent — tweaking the underlying world structure, soundtrack, or rules to make it uniquely your own. Once you’ve crafted something special, publish your creation to the community gallery for others to explore and remix.",
+      "id": "p26",
+      "zh": "除了探索被征服的世界之外,也可以用一个简单的即时或重新组合现有画廊经验,与Genie项目代理——调整基本的世界结构——一起推出你的愿景,音轨,或规则 使它独特的你自己。一旦你设计出特别的东西,向社区画廊发布您的创作,供他人探索和重新混合.",
+      "en": "Beyond exploring curated worlds, you can also launch your vision with a simple prompt or remix existing gallery experiences alongside the Project Genie agent — tweaking the underlying world structure, soundtrack, or rules to make it uniquely your own. Once you’ve crafted something special, publish your creation to the community gallery for others to explore and remix."
+    },
+    {
+      "kind": "heading",
+      "text": "Learn how we are building responsibly",
+      "id": "p27",
+      "zh": "学会我们如何负责任地建设",
+      "en": "Learn how we are building responsibly"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We are committed to developing and rolling out interactive world models responsibly. All video and audio generated in Project Genie includes SynthID watermarking, and all model inputs and outputs go through safety screenings.",
+      "id": "p28",
+      "zh": "我们致力于负责任地发展和推出互动的世界模式。在Genie项目中生成的所有视频和音频包括合成ID水标记,所有模型投入和产出都经过安全检查。",
+      "en": "We are committed to developing and rolling out interactive world models responsibly. All video and audio generated in Project Genie includes SynthID watermarking, and all model inputs and outputs go through safety screenings."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Genie 3 and Genie 4 remain world models in the frontier research space. As the research continues to evolve, we are actively tackling key challenges such as camera latency, intricate physical interactions, real-time audio precision, and long-term scene permanence. For a deeper look into model limitations and our progress on these fronts, read our Genie 4 model research overview.",
+      "id": "p29",
+      "zh": "Genie 3和Genie 4仍然是前沿研究空间的世界模型.随着研究的不断发展,我们正积极应对关键的挑战,例如摄像机的延迟,复杂的物理互动,实时音频精度,和长期场景的持久性。为了更深入地研究模型的局限性和我们在这些领域的进展,阅读我们的Genie 4模型研究综述。",
+      "en": "Genie 3 and Genie 4 remain world models in the frontier research space. As the research continues to evolve, we are actively tackling key challenges such as camera latency, intricate physical interactions, real-time audio precision, and long-term scene permanence. For a deeper look into model limitations and our progress on these fronts, read our Genie 4 model research overview."
+    },
+    {
+      "kind": "heading",
+      "text": "Try Project Genie today",
+      "id": "p30",
+      "zh": "今天尝试“ 工程天才”",
+      "en": "Try Project Genie today"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Eligible Google AI Ultra subscribers can try the new Project Genie experience starting today, and Google AI Pro members can join the waitlist on the same page.",
+      "id": "p31",
+      "zh": "符合资格的Google AI Ultra用户可以尝试从今天开始的新项目Genie体验,和Google AI Pro成员可以在同一页加入等待列表.",
+      "en": "Eligible Google AI Ultra subscribers can try the new Project Genie experience starting today, and Google AI Pro members can join the waitlist on the same page."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今年早些时候,我们推出了Genie项目,一个实验研究的原型,可以让你生成并探索互动世界.早期的测试者告诉我们他们想要更深入地控制那些世界中发生的事情,以及建造和分享这些东西的更方便的方法。",
+      "en": "Earlier this year we introduced Project Genie, an experimental research prototype that lets you generate and explore interactive worlds. Early testers told us they wanted deeper control over what happens inside those worlds, and easier ways to build and share them."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "所以今天,我们...我们正在推出一个新的项目Genie体验 符合资格的Google AI Ultra用户,使这些世界更加敏感,创意,和社交活动。这个更新解锁了首次访问Genie 4,新升级到Genie 3,帮助用户建立视野的 \" 天才 \" 项目代理商,和一个社区画廊来发现,探索,并重新组合世界。",
+      "en": "So today, we are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, making these worlds far more responsive, creative, and social. This update unlocks first-time access to Genie 4, new upgrades to Genie 3, the Project Genie agent which helps users build their vision, and a community gallery to discover, explore, and remix worlds."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "与精灵4,我们最现实、最互动的世界模式,您现在可以启动会中 改变您创建的世界 。只要在您浏览您的世界时输入一个新的提示, 您就可以实时编辑您的环境 。",
+      "en": "With Genie 4, our most realistic and interactive world model yet, you can now prompt mid-session to change the world you created. Just type a new prompt while you navigate your world and you can edit your environments in real time."
+    },
+    {
+      "paragraphId": "p7",
+      "zh": "虽然Genie 4传递了我们最忠实的视觉,物理学,和声响,Genie 3 仍然可用在 Project Genie 的模型拾取器中, 当您想要更长运行或全景种子空间时 。今天的Genie 3最新消息包括:",
+      "en": "While Genie 4 delivers our highest-fidelity visuals, physics, and native audio, Genie 3 remains available in Project Genie’s model picker when you want longer runs or panorama-seeded spaces. Today’s Genie 3 updates include:"
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "f3ee6359c754d0c26eab820cf2cbb86ac092f9b6879c38826da648d8d8d63600"
+}

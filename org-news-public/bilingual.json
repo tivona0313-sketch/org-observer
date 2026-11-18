@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-18T17:17:06.693812+00:00",
-  "revision": "767e94bfb6e0991acb26d767eda96d07fa77b5e2f8daa67367c8f25b200486ef",
+  "generatedAt": "2026-11-18T23:00:37.885448+00:00",
+  "revision": "d426de12f7101ab8cc9550002673938b143123673beb51587c45bb607a51c49c",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -478,6 +478,106 @@
         "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to g…",
         "sourceTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
         "source": "Meta Newsroom"
+      }
+    },
+    "rss-be0aed2f51056a6d6c6f": {
+      "original": {
+        "title": "Introducing Gemini 4 Neon",
+        "summary": "Today, we’re introducing Gemini 4 Neon",
+        "sourceTitle": "Introducing Gemini 4 Neon",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "引入Gemini4 Neon",
+        "summary": "今天,我们...我们介绍Gemini4 Neon",
+        "sourceTitle": "引入Gemini4 Neon",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Introducing Gemini 4 Neon",
+        "summary": "Today, we’re introducing Gemini 4 Neon",
+        "sourceTitle": "Introducing Gemini 4 Neon",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-92196081162eff2ebc5a": {
+      "original": {
+        "title": "Google for Mexico: Technology impact that goes beyond business",
+        "summary": "At this year’s Google for Mexico, we announced how our latest AI innovations and partnerships are translating into real-world growth across the country.",
+        "sourceTitle": "Google for Mexico: Technology impact that goes beyond business",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "墨西哥的谷歌:B. 超出业务范围的技术影响",
+        "summary": "今年的墨西哥谷歌,我们宣布,我们最新的AI创新和伙伴关系正在如何转化为全国现实世界的增长。",
+        "sourceTitle": "墨西哥的谷歌:B. 超出业务范围的技术影响",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Google for Mexico: Technology impact that goes beyond business",
+        "summary": "At this year’s Google for Mexico, we announced how our latest AI innovations and partnerships are translating into real-world growth across the country.",
+        "sourceTitle": "Google for Mexico: Technology impact that goes beyond business",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-a261d2eee241a886eda0": {
+      "original": {
+        "title": "Genie 4 is now available",
+        "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+        "sourceTitle": "Genie 4 is now available",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Genie 4 现在可以使用了",
+        "summary": "我们正在推出一个新的项目Genie体验 符合资格的Google AI Ultra用户,开放进入我们新的Genie 4世界模式。",
+        "sourceTitle": "Genie 4 现在可以使用了",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Genie 4 is now available",
+        "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+        "sourceTitle": "Genie 4 is now available",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-184d931227f2504de1a3": {
+      "original": {
+        "title": "The Silent Consensus",
+        "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+        "sourceTitle": "The Silent Consensus",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "沉默的共识",
+        "summary": "迪恩·鲍尔OpenAI战略未来主管,研究提高AI的能力如何重新塑造社会,以及人们如何保持对其机构的控制。",
+        "sourceTitle": "沉默的共识",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "The Silent Consensus",
+        "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+        "sourceTitle": "The Silent Consensus",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-99be0c0a7e074380d1a5": {
+      "original": {
+        "title": "Managing frontier AI risk: From training to deployment",
+        "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+        "sourceTitle": "Managing frontier AI risk: From training to deployment",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "管理前沿AI风险:从培训到部署",
+        "summary": "OpenAI解释它如何管理从培训到部署的前沿AI风险,沙箱 沙箱 沙箱 沙箱封锁保障措施,监测。",
+        "sourceTitle": "管理前沿AI风险:从培训到部署",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Managing frontier AI risk: From training to deployment",
+        "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+        "sourceTitle": "Managing frontier AI risk: From training to deployment",
+        "source": "OpenAI News"
       }
     },
     "rss-0e7f690aa4ff229bd2e8": {

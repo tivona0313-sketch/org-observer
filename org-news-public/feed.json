@@ -65,6 +65,87 @@
       "sourceId": "meta"
     },
     {
+      "id": "rss-be0aed2f51056a6d6c6f",
+      "title": "Introducing Gemini 4 Neon",
+      "summary": "Today, we’re introducing Gemini 4 Neon",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Introducing Gemini 4 Neon",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-92196081162eff2ebc5a",
+      "title": "Google for Mexico: Technology impact that goes beyond business",
+      "summary": "At this year’s Google for Mexico, we announced how our latest AI innovations and partnerships are translating into real-world growth across the country.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Google for Mexico: Technology impact that goes beyond business",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-a261d2eee241a886eda0",
+      "title": "Genie 4 is now available",
+      "summary": "We are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, opening access to our new Genie 4 world model.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Genie 4 is now available",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-184d931227f2504de1a3",
+      "title": "The Silent Consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "The Silent Consensus",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-99be0c0a7e074380d1a5",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "date": "2026-11-18",
+      "categories": [
+        "人才标准",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Managing frontier AI risk: From training to deployment",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-0e7f690aa4ff229bd2e8",
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
@@ -2919,35 +3000,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-18T17:17:04.170435+00:00",
-      "lastSuccess": "2026-11-18T17:17:04.364241+00:00",
+      "attemptedAt": "2026-11-18T23:00:35.546714+00:00",
+      "lastSuccess": "2026-11-18T23:00:35.743946+00:00",
       "count": 7
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-18T17:17:04.171173+00:00",
-      "lastSuccess": "2026-11-18T17:17:04.294743+00:00",
-      "count": 13
+      "attemptedAt": "2026-11-18T23:00:35.547902+00:00",
+      "lastSuccess": "2026-11-18T23:00:35.746890+00:00",
+      "count": 12
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-18T17:17:04.171703+00:00",
-      "lastSuccess": "2026-11-18T17:17:04.291944+00:00",
+      "attemptedAt": "2026-11-18T23:00:35.548403+00:00",
+      "lastSuccess": "2026-11-18T23:00:35.731606+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-18T17:17:04.172401+00:00",
-      "lastSuccess": "2026-11-18T17:17:05.269574+00:00",
+      "attemptedAt": "2026-11-18T23:00:35.548931+00:00",
+      "lastSuccess": "2026-11-18T23:00:36.844907+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-18T17:17:05.270917+00:00",
-  "nextRefresh": "2026-11-18T22:17:00+00:00",
+  "lastRefresh": "2026-11-18T23:00:36.846423+00:00",
+  "nextRefresh": "2026-11-19T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "767e94bfb6e0991acb26d767eda96d07fa77b5e2f8daa67367c8f25b200486ef"
+  "bilingualRevision": "d426de12f7101ab8cc9550002673938b143123673beb51587c45bb607a51c49c"
 }

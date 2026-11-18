@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-68ddb817fe4001c0fc7b",
+  "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+  "sourceTitle": "Advancing chip design with OpenAI models",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-18T17:17:06.736850+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-19T17:17:06.774586+00:00"
+}

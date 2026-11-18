@@ -1,6 +1,70 @@
 {
   "articles": [
     {
+      "id": "rss-93cf5219423968c027a9",
+      "title": "Introducing Stitch Loop: A new way to build and evolve products",
+      "summary": "Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Introducing Stitch Loop: A new way to build and evolve products",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-0191a8cf5007a7e305ee",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "The Gemini app is now available on lower-memory Android devices.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-68ddb817fe4001c0fc7b",
+      "title": "Advancing chip design with OpenAI models",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Advancing chip design with OpenAI models",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-eefdd1b06d858e276d0e",
+      "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+      "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to g…",
+      "company": "Meta",
+      "source": "Meta Newsroom",
+      "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+      "sourceId": "meta"
+    },
+    {
       "id": "rss-0e7f690aa4ff229bd2e8",
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
@@ -2855,35 +2919,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-18T11:14:36.545177+00:00",
-      "lastSuccess": "2026-11-18T11:14:36.679742+00:00",
+      "attemptedAt": "2026-11-18T17:17:04.170435+00:00",
+      "lastSuccess": "2026-11-18T17:17:04.364241+00:00",
       "count": 7
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-18T11:14:36.545974+00:00",
-      "lastSuccess": "2026-11-18T11:14:36.703227+00:00",
-      "count": 15
+      "attemptedAt": "2026-11-18T17:17:04.171173+00:00",
+      "lastSuccess": "2026-11-18T17:17:04.294743+00:00",
+      "count": 13
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-18T11:14:36.546472+00:00",
-      "lastSuccess": "2026-11-18T11:14:36.642884+00:00",
+      "attemptedAt": "2026-11-18T17:17:04.171703+00:00",
+      "lastSuccess": "2026-11-18T17:17:04.291944+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-18T11:14:36.547055+00:00",
-      "lastSuccess": "2026-11-18T11:14:37.705983+00:00",
+      "attemptedAt": "2026-11-18T17:17:04.172401+00:00",
+      "lastSuccess": "2026-11-18T17:17:05.269574+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-18T11:14:37.707564+00:00",
-  "nextRefresh": "2026-11-18T16:17:00+00:00",
+  "lastRefresh": "2026-11-18T17:17:05.270917+00:00",
+  "nextRefresh": "2026-11-18T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "dca6c9d63749e0c15a3adb759254aeae6a77a54b1c758003bff1f1aa3df06e24"
+  "bilingualRevision": "767e94bfb6e0991acb26d767eda96d07fa77b5e2f8daa67367c8f25b200486ef"
 }

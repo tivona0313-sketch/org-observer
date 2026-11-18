@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-17T23:02:43.907931+00:00",
-  "revision": "dca6c9d63749e0c15a3adb759254aeae6a77a54b1c758003bff1f1aa3df06e24",
+  "generatedAt": "2026-11-18T17:17:06.693812+00:00",
+  "revision": "767e94bfb6e0991acb26d767eda96d07fa77b5e2f8daa67367c8f25b200486ef",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +398,86 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-93cf5219423968c027a9": {
+      "original": {
+        "title": "Introducing Stitch Loop: A new way to build and evolve products",
+        "summary": "Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.",
+        "sourceTitle": "Introducing Stitch Loop: A new way to build and evolve products",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "引入 Stitch 循环 :构建和发展产品的新途径",
+        "summary": "Stitch Loop是一个来自Google Labs的恒活产品代理商,不停止工作来帮助瘦小团队打造更好的产品.",
+        "sourceTitle": "引入 Stitch 循环 :构建和发展产品的新途径",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Introducing Stitch Loop: A new way to build and evolve products",
+        "summary": "Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.",
+        "sourceTitle": "Introducing Stitch Loop: A new way to build and evolve products",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-0191a8cf5007a7e305ee": {
+      "original": {
+        "title": "The Gemini app is now available on lower-memory Android devices.",
+        "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+        "sourceTitle": "The Gemini app is now available on lower-memory Android devices.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Gemini应用程序现在可以在下米安卓设备上取用.",
+        "summary": "GoogleGemini应用程序现在支持更低等的Memory Android设备.在您的手机上访问Gemini Live 和自定义图像创建 。今天下载应用程序 。",
+        "sourceTitle": "Gemini应用程序现在可以在下米安卓设备上取用.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "The Gemini app is now available on lower-memory Android devices.",
+        "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+        "sourceTitle": "The Gemini app is now available on lower-memory Android devices.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-68ddb817fe4001c0fc7b": {
+      "original": {
+        "title": "Advancing chip design with OpenAI models",
+        "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+        "sourceTitle": "Advancing chip design with OpenAI models",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "使用 OpenAI 模型推进芯片设计",
+        "summary": "OpenAI模型优化了Jalapeño硅和改良的RISC-V核心设计中使用的电路,显示使用 GPT%6 Astra 的 AI 辅助芯片设计的进展 。",
+        "sourceTitle": "使用 OpenAI 模型推进芯片设计",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Advancing chip design with OpenAI models",
+        "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+        "sourceTitle": "Advancing chip design with OpenAI models",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-eefdd1b06d858e276d0e": {
+      "original": {
+        "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+        "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to g…",
+        "sourceTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+        "source": "Meta Newsroom"
+      },
+      "zh": {
+        "title": "Meta 欢迎Loblaw成为Muse的第一个加拿大零售合伙人",
+        "summary": "从今天开始,Loblaw把目录带给Muse 作为伙伴连接器这是第一个这样做的加拿大零售商。连接器是一个很大的原因 Muse可以做这么多。加拿大人可以把他们的Muse连接到他们已经使用的应用上,包括Gmail在内,谷歌日历和Instagram,这样可以帮助他们管理电子邮件,协调调度并提取保存的内容到 g...",
+        "sourceTitle": "Meta 欢迎Loblaw成为Muse的第一个加拿大零售合伙人",
+        "source": "元新闻室"
+      },
+      "en": {
+        "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+        "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to g…",
+        "sourceTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+        "source": "Meta Newsroom"
       }
     },
     "rss-0e7f690aa4ff229bd2e8": {

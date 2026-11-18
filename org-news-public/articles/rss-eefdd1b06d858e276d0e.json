@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-eefdd1b06d858e276d0e",
+  "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+  "sourceTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+  "status": "ready",
+  "attemptedAt": "2026-11-18T17:17:06.774922+00:00",
+  "fetchedAt": "2026-11-18T17:17:13.489418+00:00",
+  "finalURL": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+  "language": "en",
+  "originalTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+  "author": "juliaperreira",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so.",
+      "id": "p1",
+      "zh": "从今天开始,Loblaw把目录带给Muse 作为伙伴连接器这是第一个这样做的加拿大零售商。",
+      "en": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done.",
+      "id": "p2",
+      "zh": "连接器是一个很大的原因 Muse可以做这么多。加拿大人可以把他们的Muse连接到他们已经使用的应用上,包括Gmail在内,谷歌日历和Instagram,这样可以帮助他们管理电子邮件,协调日程安排,并利用所保存的内容完成日常任务。",
+      "en": "Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done."
+    },
+    {
+      "kind": "paragraph",
+      "text": "With participating Loblaw banners, Canadian shoppers can now ask Muse to help with meal planning, build their basket and check-out, all in Muse. Muse can remember brand preferences and information like food allergies, making next week’s planning even easier.",
+      "id": "p3",
+      "zh": "与参加洛布劳的旗帜,加拿大的店主现在可以请缪斯 协助餐饮计划,建造他们的篮子和退房,全在缪斯。穆斯可以记住品牌喜好和食物过敏等信息,让下周的计划更加简单。",
+      "en": "With participating Loblaw banners, Canadian shoppers can now ask Muse to help with meal planning, build their basket and check-out, all in Muse. Muse can remember brand preferences and information like food allergies, making next week’s planning even easier."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Making this technology work for everyone requires careful design and engineering to operate more safely. Muse runs on Muse Secure VM, a dedicated computer in the cloud that securely stores the data and credentials for the services you connect, while keeping passwords and payment methods out of the agent’s view. You choose what your Muse can access, and it checks with you before sensitive actions such as sending an email or making a purchase. To learn more about how we built safety into Muse, this post explains our approach in detail.",
+      "id": "p4",
+      "zh": "要使这种技术为所有人服务,需要精心设计和工程,使操作更加安全.Muse运行在Muse Secure VM上,云中一台专用计算机,用于安全地存储您所连接的服务的数据和证书,,同时将密码和支付方法排除在代理人的视线之外。你选择你的缪斯可以访问什么,并在发送电子邮件或购买等敏感行动之前与您核对。为了更多地了解我们是如何在Muse中建立安全的,这篇文章详细解释了我们的做法。",
+      "en": "Making this technology work for everyone requires careful design and engineering to operate more safely. Muse runs on Muse Secure VM, a dedicated computer in the cloud that securely stores the data and credentials for the services you connect, while keeping passwords and payment methods out of the agent’s view. You choose what your Muse can access, and it checks with you before sensitive actions such as sending an email or making a purchase. To learn more about how we built safety into Muse, this post explains our approach in detail."
+    },
+    {
+      "kind": "heading",
+      "text": "Talk It Through With Muse: Voice Now Available in Canada",
+      "id": "p5",
+      "zh": "与Muse交谈:加拿大现在的语音",
+      "en": "Talk It Through With Muse: Voice Now Available in Canada"
+    },
+    {
+      "kind": "paragraph",
+      "text": "At Connect 2026, we previewed real-time conversations with your Muse. Two weeks ago, we introduced voice and now we’re rolling it out in Canada in the Muse app on mobile, web and on Mac — just tap the phone icon in the top-right corner to start talking.",
+      "id": "p6",
+      "zh": "在连接2026,我们预览了与你的缪斯的实时对话.两周前我们引入了语音,现在我们在加拿大推出 在移动的Muse应用软件,网络和Mac上——只要把右上角的电话图标拍下来开始说话.",
+      "en": "At Connect 2026, we previewed real-time conversations with your Muse. Two weeks ago, we introduced voice and now we’re rolling it out in Canada in the Muse app on mobile, web and on Mac — just tap the phone icon in the top-right corner to start talking."
+    },
+    {
+      "kind": "paragraph",
+      "text": "https://about.fb.com/wp-content/uploads/2026/11/Muse_Voice_Walkthrough_04.mp4",
+      "id": "p7",
+      "zh": "https://about.fb.com/wp-content/uploads/2026/11/Muse_Voice_Walktrush_04.mp4 (中文(简体) ).",
+      "en": "https://about.fb.com/wp-content/uploads/2026/11/Muse_Voice_Walkthrough_04.mp4"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Sometimes it’s easier to think out loud. With voice, you can talk through an idea with your Muse and let it take shape without worrying about the exact prompt.",
+      "id": "p8",
+      "zh": "有时大声思考比较容易。带着声音你可以和你的Muse谈一个想法 让它成形 而不担心确切的瞬间",
+      "en": "Sometimes it’s easier to think out loud. With voice, you can talk through an idea with your Muse and let it take shape without worrying about the exact prompt."
+    },
+    {
+      "kind": "paragraph",
+      "text": "As your Muse speaks, the avatar uses subtle expressions and gestures that match the tone of the conversation. It reacts while you talk, so you can tell it’s following along. And you choose how present you want it to be: voice only, the avatar alongside your conversation, or full screen when you want to talk face to face.",
+      "id": "p9",
+      "zh": "正如你的缪斯所说,阿凡达使用与对话的语气相匹配的微妙表达和手势.当你说话的时候,它会作出反应让大家知道它正在继续发展。你选择你希望它怎样的现成:只有声音,与你的谈话,或全屏,当你想面对面说话。",
+      "en": "As your Muse speaks, the avatar uses subtle expressions and gestures that match the tone of the conversation. It reacts while you talk, so you can tell it’s following along. And you choose how present you want it to be: voice only, the avatar alongside your conversation, or full screen when you want to talk face to face."
+    },
+    {
+      "kind": "heading",
+      "text": "Design the Muse App, Just for You",
+      "id": "p10",
+      "zh": "设计Muse App,就为了你",
+      "en": "Design the Muse App, Just for You"
+    },
+    {
+      "kind": "paragraph",
+      "text": "We also recently introduced spaces, an interactive way to build a more personalized Muse. A space is a custom experience you create inside Muse by describing your idea, like a holiday gift tracker, a daily word game, or a planning board for your next DIY project. It’s shaped around your routines, goals, and interests, and can be as practical or entertaining as you want. Every space you create becomes part of Muse, so you can keep it where you want and come back to it any time.",
+      "id": "p11",
+      "zh": "我们最近也引入了空间,一种互动方式来构建一个更个性化的Muse.一个空间是您在Muse内部创造的定制体验 通过描述您的想法,像一个节日礼物追踪器,每天的文字游戏,或者你下一个DIY项目的计划板它的形状围绕你的常规,目标,和利益,并且可以像你想的那样实用或娱乐。你创造的每一个空间都成为穆斯的一部分这样你就可以把它保存在你想要的地方,然后随时回到它。",
+      "en": "We also recently introduced spaces, an interactive way to build a more personalized Muse. A space is a custom experience you create inside Muse by describing your idea, like a holiday gift tracker, a daily word game, or a planning board for your next DIY project. It’s shaped around your routines, goals, and interests, and can be as practical or entertaining as you want. Every space you create becomes part of Muse, so you can keep it where you want and come back to it any time."
+    },
+    {
+      "kind": "paragraph",
+      "text": "https://about.fb.com/wp-content/uploads/2026/11/Muse_Spaces.mp4",
+      "id": "p12",
+      "zh": "https://about.fb.com/wp-content/uploads/2026/11/Muse_Spaces.mp4 页面存档备份,存于互联网档案馆.",
+      "en": "https://about.fb.com/wp-content/uploads/2026/11/Muse_Spaces.mp4"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Your spaces are personal from the start. Connect the apps you use, and your spaces keep themselves up to date in the background, so new concert dates, price changes, or savings progress show up without you having to ask. You can check things off, add notes, and make edits right in your space, and everything will be there when you return.",
+      "id": "p13",
+      "zh": "你的空间从一开始就是私人空间。连接您使用的应用程序,和你的空间 保持自己在背景更新,所以新的演唱会日期,价格变动,或储蓄进展出现 无需你问。你可以检查的东西关闭,添加注释,并在您的空间中进行编辑,当你回来的时候,一切都将在那里。",
+      "en": "Your spaces are personal from the start. Connect the apps you use, and your spaces keep themselves up to date in the background, so new concert dates, price changes, or savings progress show up without you having to ask. You can check things off, add notes, and make edits right in your space, and everything will be there when you return."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can choose where your spaces live in Muse. Add them to your sidebar, move them into your main tabs, hide the ones you don’t need right now, and schedule when they appear. For example, keep your weekly planner up front during the workweek, then swap it for your weekend plans on Saturday.",
+      "id": "p14",
+      "zh": "您可以选择您在 Muse 的空间 。把它们加入你的侧边栏把它们移入您的主标签,藏起你现在不需要的东西,以及他们出现时的时间安排。譬如说.在工作周期间 把你的周计划员放在前面然后把它换成周六的周末计划",
+      "en": "You can choose where your spaces live in Muse. Add them to your sidebar, move them into your main tabs, hide the ones you don’t need right now, and schedule when they appear. For example, keep your weekly planner up front during the workweek, then swap it for your weekend plans on Saturday."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "从今天开始,Loblaw把目录带给Muse 作为伙伴连接器这是第一个这样做的加拿大零售商。",
+      "en": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "连接器是一个很大的原因 Muse可以做这么多。加拿大人可以把他们的Muse连接到他们已经使用的应用上,包括Gmail在内,谷歌日历和Instagram,这样可以帮助他们管理电子邮件,协调日程安排,并利用所保存的内容完成日常任务。",
+      "en": "Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "与参加洛布劳的旗帜,加拿大的店主现在可以请缪斯 协助餐饮计划,建造他们的篮子和退房,全在缪斯。穆斯可以记住品牌喜好和食物过敏等信息,让下周的计划更加简单。",
+      "en": "With participating Loblaw banners, Canadian shoppers can now ask Muse to help with meal planning, build their basket and check-out, all in Muse. Muse can remember brand preferences and information like food allergies, making next week’s planning even easier."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "在连接2026,我们预览了与你的缪斯的实时对话.两周前我们引入了语音,现在我们在加拿大推出 在移动的Muse应用软件,网络和Mac上——只要把右上角的电话图标拍下来开始说话.",
+      "en": "At Connect 2026, we previewed real-time conversations with your Muse. Two weeks ago, we introduced voice and now we’re rolling it out in Canada in the Muse app on mobile, web and on Mac — just tap the phone icon in the top-right corner to start talking."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "f69a2f47046dda31ee7ed46135c3254642de44bf56a90417caba6df90908f79d"
+}

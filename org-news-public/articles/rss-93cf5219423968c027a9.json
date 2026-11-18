@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-93cf5219423968c027a9",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+  "sourceTitle": "Introducing Stitch Loop: A new way to build and evolve products",
+  "status": "ready",
+  "attemptedAt": "2026-11-18T17:17:06.735664+00:00",
+  "fetchedAt": "2026-11-18T17:17:08.902714+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
+  "language": "en",
+  "originalTitle": "Introducing Stitch Loop: A new way to build and evolve products",
+  "author": "Justin Toupin",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Coding agents let you build and ship new features fast, but their job ends the moment your pull request merges. Once code hits production, the real work starts: patching vulnerabilities, speeding up checkout, and diagnosing signup drop-offs buried in noisy feedback. For lean teams, balancing post-launch maintenance with continuous improvement is a constant challenge, yet it’s also what drives some of the world’s most successful products.",
+      "id": "p1",
+      "zh": "编码人员让你快速建造和运送新功能,但他们的工作结束 当你的拉动请求合并时。一旦代码击中生产,真正的工作开始 :补齐了弱点,加快检查,和诊断 注册的降 埋藏在噪音反馈。对于精干团队,在发射后维修与不断改进之间保持平衡是一个持续的挑战,也正是它驱动着一些世界上最成功的产品。",
+      "en": "Coding agents let you build and ship new features fast, but their job ends the moment your pull request merges. Once code hits production, the real work starts: patching vulnerabilities, speeding up checkout, and diagnosing signup drop-offs buried in noisy feedback. For lean teams, balancing post-launch maintenance with continuous improvement is a constant challenge, yet it’s also what drives some of the world’s most successful products."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Today, we are introducing Stitch Loop, a long-running product agent from Google Labs that connects to your codebase and live metrics, finds what needs fixing, and keeps working 24/7 on your product until your goals are met.",
+      "id": "p2",
+      "zh": "今天,我们...我们正在介绍斯迪克·洛普,一个来自Google Labs的长期产品代理商 连接到你的密码库和活的度量衡找到需要修复的东西,并持续工作 24/7在你的产品 直到你的目标实现。",
+      "en": "Today, we are introducing Stitch Loop, a long-running product agent from Google Labs that connects to your codebase and live metrics, finds what needs fixing, and keeps working 24/7 on your product until your goals are met."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Millions of designers, developers, and founders already use Stitch to turn ideas into working interfaces in minutes. Together, Stitch and Stitch Loop are steps toward our broader ambition for Stitch: creating agents to help lean teams tackle the hardest parts of creating great products from ideation through continuous optimization.",
+      "id": "p3",
+      "zh": "数百万的设计者,开发者,和创始人已经使用斯迪奇在几分钟内将想法转化为工作界面.一起来,Stitch和Stitch Loop是朝着我们对Stitch更广泛的野心迈出的一步:创建代理,帮助精干团队解决从思想到持续优化创造出伟大产品最难解决的部分.",
+      "en": "Millions of designers, developers, and founders already use Stitch to turn ideas into working interfaces in minutes. Together, Stitch and Stitch Loop are steps toward our broader ambition for Stitch: creating agents to help lean teams tackle the hardest parts of creating great products from ideation through continuous optimization."
+    },
+    {
+      "kind": "heading",
+      "text": "See how it works",
+      "id": "p4",
+      "zh": "看它如何运作",
+      "en": "See how it works"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You start by connecting GitHub and your product context (logs, user behavior, feedback, etc) with over 180 integrations, custom MCP servers, or local CLI uploads. Grounded in that context, Stitch Loop runs evergreen loops to continuously optimize toward the measurable outcomes you care about. You get three default loops out of the box and can add your own anytime. Each loop runs through four steps:",
+      "id": "p5",
+      "zh": "您首先连接 GitHub 和您的产品上下文( logs,用户行为,反馈,(d) 180多个融合点,自定义 MCP 服务器,或本地CLI上传.在这方面,Stitch Loop运行着常绿回路 不断优化你所关心的可衡量结果从框中取出3个默认回路,可以随时加入自己的回路.每个循环贯穿四个步骤:",
+      "en": "You start by connecting GitHub and your product context (logs, user behavior, feedback, etc) with over 180 integrations, custom MCP servers, or local CLI uploads. Grounded in that context, Stitch Loop runs evergreen loops to continuously optimize toward the measurable outcomes you care about. You get three default loops out of the box and can add your own anytime. Each loop runs through four steps:"
+    },
+    {
+      "kind": "list",
+      "text": "Suggestions: Stitch Loop surfaces opportunities to make progress towards your goals, grounded in evidence from your product.",
+      "id": "p6",
+      "zh": "建议:Sitch Loop 展现出实现你目标的机会,以你产品中的证据为依据",
+      "en": "Suggestions: Stitch Loop surfaces opportunities to make progress towards your goals, grounded in evidence from your product."
+    },
+    {
+      "kind": "list",
+      "text": "Solutions: Every suggestion comes with one or more solutions— each with tradeoffs and scoping, along with visual design options where applicable.",
+      "id": "p7",
+      "zh": "解决方案 :每条建议都包含一个或一个以上的解决办法,每个方案都有权衡和范围界定,以及可适用的外观设计选项。",
+      "en": "Solutions: Every suggestion comes with one or more solutions— each with tradeoffs and scoping, along with visual design options where applicable."
+    },
+    {
+      "kind": "list",
+      "text": "Build: Once you choose a direction, Stitch Loop writes the code in an isolated cloud sandbox and opens a GitHub pull request for your approval. When relevant, the PR will contain screenshots and videos of the work Loop did.",
+      "id": "p8",
+      "zh": "构建 :一旦你选择了方向,Stitch Loop将代码写在一个孤立的云沙盒中,并打开一个 GitHub 拖取请求以获得您的批准.相关时,公关会包含图片和视频 显示Loop所做的工作。",
+      "en": "Build: Once you choose a direction, Stitch Loop writes the code in an isolated cloud sandbox and opens a GitHub pull request for your approval. When relevant, the PR will contain screenshots and videos of the work Loop did."
+    },
+    {
+      "kind": "list",
+      "text": "Reflect: Stitch Loop monitors live product data as it works toward your goal, learning from every positive or negative result to sharpen the next round of insights. Once the goal is met, it keeps watching in case the metric slips.",
+      "id": "p9",
+      "zh": "反映:Stitch Loop监测活产品数据 以达到你的目标从每一个积极或消极的结果中学习,以强化下一轮的见解。一旦目标实现,它一直在观察 以防公尺滑倒。",
+      "en": "Reflect: Stitch Loop monitors live product data as it works toward your goal, learning from every positive or negative result to sharpen the next round of insights. Once the goal is met, it keeps watching in case the metric slips."
+    },
+    {
+      "kind": "paragraph",
+      "text": "You always have the final call. Nothing merges until you review the PR.",
+      "id": "p10",
+      "zh": "你总是有最后的电话。在您审查公关前, 不得合并 。",
+      "en": "You always have the final call. Nothing merges until you review the PR."
+    },
+    {
+      "kind": "heading",
+      "text": "Automate codebase security",
+      "id": "p11",
+      "zh": "自动密码库安全",
+      "en": "Automate codebase security"
+    },
+    {
+      "kind": "paragraph",
+      "text": "Stitch Loop comes with built-in loops for cybersecurity, latency, and accessibility, plus the ability to create custom loops like improving checkout conversion.",
+      "id": "p12",
+      "zh": "Stitch Loop有内置的网络安全环路暂时的,和无障碍环境,加上能够创建自定义回路,比如改进取出转换.",
+      "en": "Stitch Loop comes with built-in loops for cybersecurity, latency, and accessibility, plus the ability to create custom loops like improving checkout conversion."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Security is often the hardest gap to cover for lean teams shipping quickly. Stitch Loop includes a dedicated security loop that pairs Gemini 4 Carbon's cyber security capabilities with CodeMender, Google DeepMind's autonomous agent that improves code security. Together, they scan your codebase for security vulnerabilities before they become incidents. Stitch Loop flags each issue it finds with evidence and opens a PR with a proposed fix for your review.",
+      "id": "p13",
+      "zh": "安保往往是精干团队快速运输最难填补的缺口.Stitch Loop包括一个专用安全回路,将Gemini4 Carbon的网络安全能力与CodeMender对接,Google DeepMind的自主代理,改进了代码安全.一起来,他们扫描你的密码库 在他们成为事件之前安全漏洞。发现的每个问题都有证据 并打开一个公关 并提议一个修正程序 供您审查",
+      "en": "Security is often the hardest gap to cover for lean teams shipping quickly. Stitch Loop includes a dedicated security loop that pairs Gemini 4 Carbon's cyber security capabilities with CodeMender, Google DeepMind's autonomous agent that improves code security. Together, they scan your codebase for security vulnerabilities before they become incidents. Stitch Loop flags each issue it finds with evidence and opens a PR with a proposed fix for your review."
+    },
+    {
+      "kind": "heading",
+      "text": "Use it with your agents and existing workflows",
+      "id": "p14",
+      "zh": "与您的代理和已有的工作流程一起使用",
+      "en": "Use it with your agents and existing workflows"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You can use Stitch Loop as a service layer for coding agents, like Google Antigravity, or bring it into the places where your team already works, like Slack.",
+      "id": "p15",
+      "zh": "你可以使用Stitch Loop作为编码代理的服务层,像谷歌反重力,或者把它带进你的团队已经工作的地方,像Slack一样。",
+      "en": "You can use Stitch Loop as a service layer for coding agents, like Google Antigravity, or bring it into the places where your team already works, like Slack."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Whatever coding agent you prefer can pull persistent product context from Stitch Loop via the Stitch CLI and MCP to power mixed-model setups and fully autonomous improvements in your existing workflow.",
+      "id": "p16",
+      "zh": "无论你喜欢什么编码剂,都可以通过Stitch CLI和MCP从Stitch Loop中拉出持久的产品上下文,为混合型式设置和完全自主的改进提供动力.您的现有工作流程 。",
+      "en": "Whatever coding agent you prefer can pull persistent product context from Stitch Loop via the Stitch CLI and MCP to power mixed-model setups and fully autonomous improvements in your existing workflow."
+    },
+    {
+      "kind": "paragraph",
+      "text": "In Slack, just use @stitch to get daily insight digests and create new loops.",
+      "id": "p17",
+      "zh": "在斯莱克,利用@stitch来获得每日的洞察力文摘,并创造出新的循环.",
+      "en": "In Slack, just use @stitch to get daily insight digests and create new loops."
+    },
+    {
+      "kind": "heading",
+      "text": "Join the waitlist",
+      "id": "p18",
+      "zh": "加入服务列表",
+      "en": "Join the waitlist"
+    },
+    {
+      "kind": "paragraph",
+      "text": "The Stitch Loop waitlist opens today for all users, globally, with eligible Google AI Ultra users getting priority access. Join at stitch.google.com/loop/waitlist and share your feedback in the Google Labs Discord.",
+      "id": "p19",
+      "zh": "Stitch Loop 等待列表今天向所有用户开放,在全球范围,获得优先访问权限的Google AI Ultra用户。加入pitch.google.com/loop/waitlist,并在Google Labs Discord中分享你的反馈.",
+      "en": "The Stitch Loop waitlist opens today for all users, globally, with eligible Google AI Ultra users getting priority access. Join at stitch.google.com/loop/waitlist and share your feedback in the Google Labs Discord."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "编码人员让你快速建造和运送新功能,但他们的工作结束 当你的拉动请求合并时。一旦代码击中生产,真正的工作开始 :补齐了弱点,加快检查,和诊断 注册的降 埋藏在噪音反馈。",
+      "en": "Coding agents let you build and ship new features fast, but their job ends the moment your pull request merges. Once code hits production, the real work starts: patching vulnerabilities, speeding up checkout, and diagnosing signup drop-offs buried in noisy feedback."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "今天,我们...我们正在介绍斯迪克·洛普,一个来自Google Labs的长期产品代理商 连接到你的密码库和活的度量衡找到需要修复的东西,并持续工作 24/7在你的产品 直到你的目标实现。",
+      "en": "Today, we are introducing Stitch Loop, a long-running product agent from Google Labs that connects to your codebase and live metrics, finds what needs fixing, and keeps working 24/7 on your product until your goals are met."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "数百万的设计者,开发者,和创始人已经使用斯迪奇在几分钟内将想法转化为工作界面.一起来,Stitch和Stitch Loop是朝着我们对Stitch更广泛的野心迈出的一步:创建代理,帮助精干团队解决从思想到持续优化创造出伟大产品最难解决的部分.",
+      "en": "Millions of designers, developers, and founders already use Stitch to turn ideas into working interfaces in minutes. Together, Stitch and Stitch Loop are steps toward our broader ambition for Stitch: creating agents to help lean teams tackle the hardest parts of creating great products from ideation through continuous optimization."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "您首先连接 GitHub 和您的产品上下文( logs,用户行为,反馈,(d) 180多个融合点,自定义 MCP 服务器,或本地CLI上传.在这方面,Stitch Loop运行着常绿回路 不断优化你所关心的可衡量结果从框中取出3个默认回路,可以随时加入自己的回路.每个循环贯穿四个步骤:",
+      "en": "You start by connecting GitHub and your product context (logs, user behavior, feedback, etc) with over 180 integrations, custom MCP servers, or local CLI uploads. Grounded in that context, Stitch Loop runs evergreen loops to continuously optimize toward the measurable outcomes you care about."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "contentHash": "3fbd63e51bc7328dcda7fdda38c0b0693986a907c48b4174e7041097b4491926"
+}

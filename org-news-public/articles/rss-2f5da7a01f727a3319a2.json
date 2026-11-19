@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-2f5da7a01f727a3319a2",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+  "sourceTitle": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+  "status": "ready",
+  "attemptedAt": "2026-11-19T22:58:05.476784+00:00",
+  "fetchedAt": "2026-11-19T22:58:07.448619+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+  "language": "en",
+  "originalTitle": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Today, in new research published on the cover of Science, Google Quantum AI demonstrated that contextuality — a quantum property scientists believe powers certain quantum algorithms — survives at scale on our quantum processor.",
+      "id": "p1",
+      "zh": "今天,我们...发表在科学封面上的新研究中,Google Quantum AI 演示了背景质量——一位量子属性科学家相信某些量子算法的力量——在我们量子处理器上在规模上生存.",
+      "en": "Today, in new research published on the cover of Science, Google Quantum AI demonstrated that contextuality — a quantum property scientists believe powers certain quantum algorithms — survives at scale on our quantum processor."
+    },
+    {
+      "kind": "paragraph",
+      "text": "What gives quantum computers their unique power? While entanglement usually gets the spotlight, theory suggests that a deeper quantum property called contextuality may power certain quantum algorithms. In simple terms, contextuality means a system’s properties aren’t fixed in advance; what you measure depends on which other compatible measurements you make alongside it.",
+      "id": "p2",
+      "zh": "什么让量子计算机拥有它们独特的力量?缠绕一般会引人注意理论认为,更深层的量子属性称为上下文性,可能为某些量子算法提供动力.简而言之,上下文意味着系统属性不是事先固定的;你测量的量取决于你同时进行哪些其他兼容的测量.",
+      "en": "What gives quantum computers their unique power? While entanglement usually gets the spotlight, theory suggests that a deeper quantum property called contextuality may power certain quantum algorithms. In simple terms, contextuality means a system’s properties aren’t fixed in advance; what you measure depends on which other compatible measurements you make alongside it."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Until recently, this effect had mostly been shown in small systems of just a few particles. Our paper in Science now demonstrates this at scale on our quantum processor. Using it, our qubits won a well-known coordination game 98.3% of the time, beating the 88.9% classical limit, and outperformed constrained classical strategies in tasks spanning up to 105 qubits.",
+      "id": "p3",
+      "zh": "直至最近,这种效应主要表现在只有少数粒子的小系统中。我们的\"科学\"论文现在在量子处理器上 大规模地证明了这一点。用它来我们的qubits赢得了98.3%的知名协调赛,打破88.9%的古典极限,在长达105个方格的任务中,它的表现超过了受制约的古典战略。",
+      "en": "Until recently, this effect had mostly been shown in small systems of just a few particles. Our paper in Science now demonstrates this at scale on our quantum processor. Using it, our qubits won a well-known coordination game 98.3% of the time, beating the 88.9% classical limit, and outperformed constrained classical strategies in tasks spanning up to 105 qubits."
+    },
+    {
+      "kind": "paragraph",
+      "text": "These tests also serve as a sensitive new method to catch subtle hardware errors, helping pave the way for real-world applications like chemistry and materials science. Read the full Google Research blog post to learn more.",
+      "id": "p4",
+      "zh": "这些测试也是一种敏感的新方法 来捕捉微妙的硬件错误,帮助为化学和材料科学等现实世界的应用铺平道路。阅读Google Research的完整博客文章以学习更多.",
+      "en": "These tests also serve as a sensitive new method to catch subtle hardware errors, helping pave the way for real-world applications like chemistry and materials science. Read the full Google Research blog post to learn more."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "今天,我们...发表在科学封面上的新研究中,Google Quantum AI 演示了背景质量——一位量子属性科学家相信某些量子算法的力量——在我们量子处理器上在规模上生存.",
+      "en": "Today, in new research published on the cover of Science, Google Quantum AI demonstrated that contextuality — a quantum property scientists believe powers certain quantum algorithms — survives at scale on our quantum processor."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "什么让量子计算机拥有它们独特的力量?缠绕一般会引人注意理论认为,更深层的量子属性称为上下文性,可能为某些量子算法提供动力.简而言之,上下文意味着系统属性不是事先固定的;你测量的量取决于你同时进行哪些其他兼容的测量.",
+      "en": "What gives quantum computers their unique power? While entanglement usually gets the spotlight, theory suggests that a deeper quantum property called contextuality may power certain quantum algorithms."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "直至最近,这种效应主要表现在只有少数粒子的小系统中。我们的\"科学\"论文现在在量子处理器上 大规模地证明了这一点。",
+      "en": "Until recently, this effect had mostly been shown in small systems of just a few particles. Our paper in Science now demonstrates this at scale on our quantum processor."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "这些测试也是一种敏感的新方法 来捕捉微妙的硬件错误,帮助为化学和材料科学等现实世界的应用铺平道路。阅读Google Research的完整博客文章以学习更多.",
+      "en": "These tests also serve as a sensitive new method to catch subtle hardware errors, helping pave the way for real-world applications like chemistry and materials science. Read the full Google Research blog post to learn more."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "a3d2b14369ec58d6f8c68d7cee2e6f30b4116aa9a9f23457f018421dc63b98d5"
+}

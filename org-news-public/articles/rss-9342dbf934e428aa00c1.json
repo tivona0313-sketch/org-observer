@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-9342dbf934e428aa00c1",
+  "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "sourceTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-19T22:58:07.995821+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-20T22:58:08.049892+00:00"
+}

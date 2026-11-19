@@ -97,6 +97,70 @@
       "sourceId": "google"
     },
     {
+      "id": "rss-a89c20fefc5a11322a22",
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-2f5da7a01f727a3319a2",
+      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "summary": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-056cf0b58a3dbace6833",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Introducing Tool Retrieval in the Gemini API",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-9342dbf934e428aa00c1",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "date": "2026-11-19",
+      "categories": [
+        "运营模式"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-93cf5219423968c027a9",
       "title": "Introducing Stitch Loop: A new way to build and evolve products",
       "summary": "Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.",
@@ -3129,35 +3193,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-19T17:16:40.042835+00:00",
-      "lastSuccess": "2026-11-19T17:16:40.213699+00:00",
+      "attemptedAt": "2026-11-19T22:58:03.606369+00:00",
+      "lastSuccess": "2026-11-19T22:58:03.787591+00:00",
       "count": 7
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-19T17:16:40.043434+00:00",
-      "lastSuccess": "2026-11-19T17:16:40.210239+00:00",
-      "count": 12
+      "attemptedAt": "2026-11-19T22:58:03.606869+00:00",
+      "lastSuccess": "2026-11-19T22:58:03.853838+00:00",
+      "count": 14
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-19T17:16:40.043840+00:00",
-      "lastSuccess": "2026-11-19T17:16:40.196535+00:00",
+      "attemptedAt": "2026-11-19T22:58:03.607171+00:00",
+      "lastSuccess": "2026-11-19T22:58:03.785948+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-19T17:16:40.044239+00:00",
-      "lastSuccess": "2026-11-19T17:16:41.368325+00:00",
+      "attemptedAt": "2026-11-19T22:58:03.607507+00:00",
+      "lastSuccess": "2026-11-19T22:58:04.732023+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-19T17:16:41.369398+00:00",
-  "nextRefresh": "2026-11-19T22:17:00+00:00",
+  "lastRefresh": "2026-11-19T22:58:04.732892+00:00",
+  "nextRefresh": "2026-11-20T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "f430a7f52d44eac33e6a24f6d8f6d1d4a7e4ea109fbec9632aa4eaedf2a05aaa"
+  "bilingualRevision": "eb7d0829ec699fe853b2df5821afc74ba0d13e994c4365bcd83e68fb9d4201bc"
 }

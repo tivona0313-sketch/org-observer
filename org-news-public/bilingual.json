@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "provider": "Argos Open Tech 1.9 offline machine translation",
   "translationProvider": "argos-1.9",
-  "generatedAt": "2026-11-19T17:16:42.839839+00:00",
-  "revision": "f430a7f52d44eac33e6a24f6d8f6d1d4a7e4ea109fbec9632aa4eaedf2a05aaa",
+  "generatedAt": "2026-11-19T22:58:05.443795+00:00",
+  "revision": "eb7d0829ec699fe853b2df5821afc74ba0d13e994c4365bcd83e68fb9d4201bc",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -519,6 +519,86 @@
         "summary": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
         "sourceTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
         "source": "Google The Keyword"
+      }
+    },
+    "rss-a89c20fefc5a11322a22": {
+      "original": {
+        "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+        "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+        "sourceTitle": "ICYMI: Transfer your history from other AI apps into Gemini.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "共产国际:从其他AI应用中将你的历史转移到Gemini.",
+        "summary": "把你的聊天记录转到Gemini导入您的 ZIP 文件和 AI 摘要以继续无缝的对话 。获取细节。",
+        "sourceTitle": "共产国际:从其他AI应用中将你的历史转移到Gemini.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+        "summary": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+        "sourceTitle": "ICYMI: Transfer your history from other AI apps into Gemini.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-2f5da7a01f727a3319a2": {
+      "original": {
+        "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+        "summary": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+        "sourceTitle": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "我们如何将量子力学的最深层特征 放在规模测试上。",
+        "summary": "Google Quantum AI研究在规模上证明了上下文性能量子算法.看看我们的处理器是如何超越古典限制的.获取细节。",
+        "sourceTitle": "我们如何将量子力学的最深层特征 放在规模测试上。",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+        "summary": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+        "sourceTitle": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-056cf0b58a3dbace6833": {
+      "original": {
+        "title": "Introducing Tool Retrieval in the Gemini API",
+        "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+        "sourceTitle": "Introducing Tool Retrieval in the Gemini API",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "在Gemini API 中引入工具检索",
+        "summary": "让你的智能体们可以使用数百种工具 同时使用更少的代号 工具检索器,现在在Gemini API 中预览 。",
+        "sourceTitle": "在Gemini API 中引入工具检索",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Introducing Tool Retrieval in the Gemini API",
+        "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+        "sourceTitle": "Introducing Tool Retrieval in the Gemini API",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-9342dbf934e428aa00c1": {
+      "original": {
+        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+        "sourceTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "OpenAI 的性能工厂如何保持ChatGPT的速度",
+        "summary": "学习OpenAI如何建造表演工厂,一个由 Codex 驱动的工作流程系统,可以发现和修正性能问题,以帮助保持ChatGPT的快速性.",
+        "sourceTitle": "OpenAI 的性能工厂如何保持ChatGPT的速度",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+        "sourceTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "source": "OpenAI News"
       }
     },
     "rss-93cf5219423968c027a9": {

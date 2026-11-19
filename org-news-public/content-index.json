@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T17:16:51.571037+00:00",
+  "updatedAt": "2026-11-19T22:58:09.700189+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -106,6 +106,33 @@
       "sourceTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
       "contentHash": "2deff1cd5f5b49975b77ca2801bb9e9d36e65ab2130492180b70a0e7687ed995",
       "fetchedAt": "2026-11-19T17:16:50.805542+00:00"
+    },
+    "rss-a89c20fefc5a11322a22": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "sourceTitle": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "contentHash": "926d1e1ab39cdb3cbcf2be7e20684574ec162e5594b1f233c81eec9e2f5c71d4",
+      "fetchedAt": "2026-11-19T22:58:07.621235+00:00"
+    },
+    "rss-2f5da7a01f727a3319a2": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "sourceTitle": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "contentHash": "a3d2b14369ec58d6f8c68d7cee2e6f30b4116aa9a9f23457f018421dc63b98d5",
+      "fetchedAt": "2026-11-19T22:58:07.448619+00:00"
+    },
+    "rss-056cf0b58a3dbace6833": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "sourceTitle": "Introducing Tool Retrieval in the Gemini API",
+      "contentHash": "16f59faf96af9ddc810e131b102aaa87d07426c9910dfc495fc28361a7778244",
+      "fetchedAt": "2026-11-19T22:58:07.181924+00:00"
+    },
+    "rss-9342dbf934e428aa00c1": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "sourceTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "error": "http_403"
     },
     "rss-93cf5219423968c027a9": {
       "status": "ready",

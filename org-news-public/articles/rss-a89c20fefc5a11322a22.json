@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-a89c20fefc5a11322a22",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+  "sourceTitle": "ICYMI: Transfer your history from other AI apps into Gemini.",
+  "status": "ready",
+  "attemptedAt": "2026-11-19T22:58:05.476458+00:00",
+  "fetchedAt": "2026-11-19T22:58:07.621235+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+  "language": "en",
+  "originalTitle": "ICYMI: Transfer your history from other AI apps into Gemini.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Switch to Gemini without starting from scratch. Here’s how to bring your context, preferences, and chat history from a different AI assistant into Gemini.",
+      "id": "p1",
+      "zh": "切换到Gemini而不从零开始.以下是如何介绍你的背景,首选,然后从一个不同的AI助手 聊天到Gemini",
+      "en": "Switch to Gemini without starting from scratch. Here’s how to bring your context, preferences, and chat history from a different AI assistant into Gemini."
+    },
+    {
+      "kind": "list",
+      "text": "Open your Gemini import settings and copy our prompt.",
+      "id": "p2",
+      "zh": "打开您的双子宫导入设置并复制我们的提示 。",
+      "en": "Open your Gemini import settings and copy our prompt."
+    },
+    {
+      "kind": "list",
+      "text": "Paste it into your previous AI tool to generate a summary of your preferences.",
+      "id": "p3",
+      "zh": "粘贴到您先前的 AI 工具, 生成您的喜好摘要 。",
+      "en": "Paste it into your previous AI tool to generate a summary of your preferences."
+    },
+    {
+      "kind": "list",
+      "text": "Paste the response into Gemini.",
+      "id": "p4",
+      "zh": "将反应粘贴到Gemini.",
+      "en": "Paste the response into Gemini."
+    },
+    {
+      "kind": "list",
+      "text": "Export a ZIP file of your chat history from your previous provider's account settings.",
+      "id": "p5",
+      "zh": "从上一个提供者的账户设置中导出您聊天历史的 ZIP 文件 。",
+      "en": "Export a ZIP file of your chat history from your previous provider's account settings."
+    },
+    {
+      "kind": "list",
+      "text": "Upload the ZIP archive in Gemini settings to pick up conversations right where you left off.",
+      "id": "p6",
+      "zh": "在Gemini设置中上传 ZIP 存档, 以获取您离开的地方的对话 。",
+      "en": "Upload the ZIP archive in Gemini settings to pick up conversations right where you left off."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "切换到Gemini而不从零开始.以下是如何介绍你的背景,首选,然后从一个不同的AI助手 聊天到Gemini",
+      "en": "Switch to Gemini without starting from scratch. Here’s how to bring your context, preferences, and chat history from a different AI assistant into Gemini."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "粘贴到您先前的 AI 工具, 生成您的喜好摘要 。",
+      "en": "Paste it into your previous AI tool to generate a summary of your preferences."
+    },
+    {
+      "paragraphId": "p5",
+      "zh": "从上一个提供者的账户设置中导出您聊天历史的 ZIP 文件 。",
+      "en": "Export a ZIP file of your chat history from your previous provider's account settings."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "在Gemini设置中上传 ZIP 存档, 以获取您离开的地方的对话 。",
+      "en": "Upload the ZIP archive in Gemini settings to pick up conversations right where you left off."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "926d1e1ab39cdb3cbcf2be7e20684574ec162e5594b1f233c81eec9e2f5c71d4"
+}

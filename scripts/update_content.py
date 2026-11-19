@@ -181,6 +181,8 @@ def update_content(directory, articles, *, force=False, extract_only=False, limi
         path=body_dir/f"{identifier}.json"
         old=json.loads(path.read_text()) if path.exists() else {}
         same=old.get("url")==article["url"] and old.get("sourceTitle")==article["title"]
+        legacy_offline = not old.get("translationProvider") and provider_id() == "argos-1.9"
+        same_provider = old.get("translationProvider") == provider_id() or legacy_offline
         # Publisher-provided or manually reviewed bilingual content must never
         # be replaced by a generic translation provider.
         if old.get("translationKind") in ("official", "official-supplemented", "ai-reviewed"):
@@ -188,13 +190,13 @@ def update_content(directory, articles, *, force=False, extract_only=False, limi
         if retranslate and old.get("status")!="ready":
             return old
         if same and old.get("schemaVersion")==SCHEMA and not force and not retranslate:
-            if old.get("status")=="ready" and old.get("translationProvider") == provider_id():
+            if old.get("status")=="ready" and same_provider:
                 return old
             if old.get("status")=="unavailable" and old.get("nextAttempt") and old["nextAttempt"]>now():
                 return old
         attempted=now()
         try:
-            if (retranslate or old.get("translationProvider") != provider_id()) and same and old.get("status")=="ready":
+            if (retranslate or not same_provider) and same and old.get("status")=="ready":
                 extracted={"blocks":[{"kind":b["kind"],"text":b["text"]} for b in old["blocks"]],
                            "title":old.get("originalTitle",old["sourceTitle"]),"author":old.get("author",""),
                            "language":old["language"],"finalURL":old["finalURL"],"extractedAt":old["fetchedAt"]}

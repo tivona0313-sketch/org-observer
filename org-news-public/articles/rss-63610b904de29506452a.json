@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-63610b904de29506452a",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+  "sourceTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
+  "status": "ready",
+  "attemptedAt": "2026-11-19T17:16:42.877333+00:00",
+  "fetchedAt": "2026-11-19T17:16:45.350706+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+  "language": "en",
+  "originalTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
+  "author": "",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "What do Leonardo da Vinci, Benjamin Franklin, and Ada Lovelace have to teach us about creativity in the age of AI?",
+      "id": "p1",
+      "zh": "莱昂纳多·达芬奇怎么办?本杰明·富兰克林Ada Lovelace必须教我们AI时代的创造力?",
+      "en": "What do Leonardo da Vinci, Benjamin Franklin, and Ada Lovelace have to teach us about creativity in the age of AI?"
+    },
+    {
+      "kind": "paragraph",
+      "text": "On our newest episode of Dialogues on Technology and Society, Kent Walker sits down with biographer and historian Walter Isaacson to talk about why history's biggest breakthroughs have always been a team sport. They look at why curiosity and human judgment matter more than ever when information is right in your pocket.",
+      "id": "p2",
+      "zh": "关于我们最新一集关于技术与社会的对话,肯特·沃克(Kent Walker)与传记作家和历史学家沃尔特·艾萨克森(Walter Isaacson)坐下来讨论为什么历史最大的突破始终是团队运动.他们研究了为什么好奇心和人类的判断 比任何时候都重要 当信息就在你的口袋里的时候",
+      "en": "On our newest episode of Dialogues on Technology and Society, Kent Walker sits down with biographer and historian Walter Isaacson to talk about why history's biggest breakthroughs have always been a team sport. They look at why curiosity and human judgment matter more than ever when information is right in your pocket."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Watch the latest episode.",
+      "id": "p3",
+      "zh": "观看最新一集.",
+      "en": "Watch the latest episode."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "莱昂纳多·达芬奇怎么办?本杰明·富兰克林Ada Lovelace必须教我们AI时代的创造力?",
+      "en": "What do Leonardo da Vinci, Benjamin Franklin, and Ada Lovelace have to teach us about creativity in the age of AI?"
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "关于我们最新一集关于技术与社会的对话,肯特·沃克(Kent Walker)与传记作家和历史学家沃尔特·艾萨克森(Walter Isaacson)坐下来讨论为什么历史最大的突破始终是团队运动.他们研究了为什么好奇心和人类的判断 比任何时候都重要 当信息就在你的口袋里的时候",
+      "en": "On our newest episode of Dialogues on Technology and Society, Kent Walker sits down with biographer and historian Walter Isaacson to talk about why history's biggest breakthroughs have always been a team sport. They look at why curiosity and human judgment matter more than ever when information is right in your pocket."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "f5125a9e5fb390384121e7499965f2f0cb64a8e884678704fa96b3e24b0f7efb"
+}

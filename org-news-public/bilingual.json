@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
-  "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-19T05:16:58.755708+00:00",
-  "revision": "853b4e3a4bdcb12cd2e83f74a337ace68e8d5cc05c473e0ca21ab056ae828d1e",
+  "provider": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "generatedAt": "2026-11-19T17:16:42.839839+00:00",
+  "revision": "f430a7f52d44eac33e6a24f6d8f6d1d4a7e4ea109fbec9632aa4eaedf2a05aaa",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -398,6 +399,126 @@
         "takeaway": "Record management's judgment of the future separately from actual changes, and then continue to track subsequent organizational actions.",
         "question": "Are we providing time, real tasks, and feedback for employees to learn about AI, rather than just asking for it?",
         "caveat": "The forward-looking judgments in the 2025 open letter are not realized results; they should be continuously reviewed in light of subsequent facts."
+      }
+    },
+    "rss-63610b904de29506452a": {
+      "original": {
+        "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+        "sourceTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "沃尔特·艾萨克森(Walter Isaacson)讲述AI时代的好奇心和创造力.",
+        "summary": "Walter Isaacson加入Google讨论历史最伟大的创新者如何激发AI时代的创造力和人类判断力.观此集.",
+        "sourceTitle": "沃尔特·艾萨克森(Walter Isaacson)讲述AI时代的好奇心和创造力.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+        "sourceTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-9d9675420d9516dbe7fe": {
+      "original": {
+        "title": "Small businesses, big results: How teams scale with AI",
+        "summary": "See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+        "sourceTitle": "Small businesses, big results: How teams scale with AI",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "小企业,重大成果:团队如何与AI进行规模化",
+        "summary": "看四家小企业如何利用Google Workspace 和Gemini 来削减繁忙的工作,拯救数千人,并按自己的条件成长。",
+        "sourceTitle": "小企业,重大成果:团队如何与AI进行规模化",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Small businesses, big results: How teams scale with AI",
+        "summary": "See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+        "sourceTitle": "Small businesses, big results: How teams scale with AI",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-dc88cc571d8c777142e5": {
+      "original": {
+        "title": "Genie 4 is now available on the Gemini API.",
+        "summary": "Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
+        "sourceTitle": "Genie 4 is now available on the Gemini API.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "Genie 4现在可以在GeminiAPI上找到.",
+        "summary": "在GoogleGeminiAPI上与Genie 4构建互动的720p世界.以本地音频和实时控制生成连贯的环境。开始吧",
+        "sourceTitle": "Genie 4现在可以在GeminiAPI上找到.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Genie 4 is now available on the Gemini API.",
+        "summary": "Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
+        "sourceTitle": "Genie 4 is now available on the Gemini API.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-efdbd6c83627cffee94d": {
+      "original": {
+        "title": "Let Gemini tackle repetitive chores on your Mac",
+        "summary": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+        "sourceTitle": "Let Gemini tackle repetitive chores on your Mac",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "让Gemini解决你Mac上重复的家务",
+        "summary": "Mac的Gemini应用程序现在有计算机功能帮助您完成重复的任务.",
+        "sourceTitle": "让Gemini解决你Mac上重复的家务",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Let Gemini tackle repetitive chores on your Mac",
+        "summary": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+        "sourceTitle": "Let Gemini tackle repetitive chores on your Mac",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-68f478bc125468f384e4": {
+      "original": {
+        "title": "Build strategic A/B tests to grow your ad performance.",
+        "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+        "sourceTitle": "Build strategic A/B tests to grow your ad performance.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "构建战略A/B测试,以提升你的广告性能.",
+        "summary": "用专家A/B测试策略提高你的Google Ads的性能.AI Max大师的实验 和Smart Bidding 与我们的最新指南。现在听。",
+        "sourceTitle": "构建战略A/B测试,以提升你的广告性能.",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "Build strategic A/B tests to grow your ad performance.",
+        "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+        "sourceTitle": "Build strategic A/B tests to grow your ad performance.",
+        "source": "Google The Keyword"
+      }
+    },
+    "rss-e5ce7f7c8c7deb12d1d5": {
+      "original": {
+        "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+        "summary": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+        "sourceTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+        "source": "Google The Keyword"
+      },
+      "zh": {
+        "title": "我们与Blue Origin合作,",
+        "summary": "我们和Blue Origin合作 首次为Suncatcher项目进行重载发射,我们的远期月球拍摄 通过探测空间的人工智能基础设施",
+        "sourceTitle": "我们与Blue Origin合作,",
+        "source": "谷歌关键词"
+      },
+      "en": {
+        "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+        "summary": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+        "sourceTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+        "source": "Google The Keyword"
       }
     },
     "rss-93cf5219423968c027a9": {

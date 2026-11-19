@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-e5ce7f7c8c7deb12d1d5",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+  "sourceTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+  "status": "ready",
+  "attemptedAt": "2026-11-19T17:16:48.469255+00:00",
+  "fetchedAt": "2026-11-19T17:16:50.805542+00:00",
+  "finalURL": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+  "language": "en",
+  "originalTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+  "author": "Travis Beals",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the abundant solar power in orbit.",
+      "id": "p1",
+      "zh": "我们和Blue Origin合作 首次为Suncatcher项目进行重载发射,通过利用轨道上丰富的太阳能 来扩大太空的人工智能基础设施",
+      "en": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the abundant solar power in orbit."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Targeted for Q1 2029, Blue Origin’s heavy-lift New Glenn rocket will deploy our satellites — each with roughly the capacity of a data center rack — into sun-synchronous orbit.",
+      "id": "p2",
+      "zh": "目标为Q1 2029,Blue Origin的重载新格伦火箭将把我们的卫星——每颗卫星都有大约一个数据中心架的能力——部署在太阳同步轨道上。",
+      "en": "Targeted for Q1 2029, Blue Origin’s heavy-lift New Glenn rocket will deploy our satellites — each with roughly the capacity of a data center rack — into sun-synchronous orbit."
+    },
+    {
+      "kind": "paragraph",
+      "text": "This dedicated launch builds on our ongoing work with other satellite and launch partners and represents a crucial milestone on our long-term roadmap as we expand the boundaries of what's possible for the future of compute.",
+      "id": "p3",
+      "zh": "这次专门发射是在我们与其他卫星和发射伙伴正在进行的工作基础上进行的,在我们扩大边界时是我们长期路线图上的一个重要里程碑。可能的未来计算。",
+      "en": "This dedicated launch builds on our ongoing work with other satellite and launch partners and represents a crucial milestone on our long-term roadmap as we expand the boundaries of what's possible for the future of compute."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "我们和Blue Origin合作 首次为Suncatcher项目进行重载发射,通过利用轨道上丰富的太阳能 来扩大太空的人工智能基础设施",
+      "en": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the abundant solar power in orbit."
+    },
+    {
+      "paragraphId": "p2",
+      "zh": "目标为Q1 2029,Blue Origin的重载新格伦火箭将把我们的卫星——每颗卫星都有大约一个数据中心架的能力——部署在太阳同步轨道上。",
+      "en": "Targeted for Q1 2029, Blue Origin’s heavy-lift New Glenn rocket will deploy our satellites — each with roughly the capacity of a data center rack — into sun-synchronous orbit."
+    },
+    {
+      "paragraphId": "p3",
+      "zh": "这次专门发射是在我们与其他卫星和发射伙伴正在进行的工作基础上进行的,在我们扩大边界时是我们长期路线图上的一个重要里程碑。可能的未来计算。",
+      "en": "This dedicated launch builds on our ongoing work with other satellite and launch partners and represents a crucial milestone on our long-term roadmap as we expand the boundaries of what's possible for the future of compute."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "2deff1cd5f5b49975b77ca2801bb9e9d36e65ab2130492180b70a0e7687ed995"
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T11:10:23.846208+00:00",
+  "updatedAt": "2026-11-19T17:16:51.571037+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -64,6 +64,48 @@
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
       "contentHash": "f2ed4e8c81b008a53f10352f68524fba7f5e40a18c72ef3af68ab9593b1c347b",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
+    },
+    "rss-63610b904de29506452a": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "sourceTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "contentHash": "f5125a9e5fb390384121e7499965f2f0cb64a8e884678704fa96b3e24b0f7efb",
+      "fetchedAt": "2026-11-19T17:16:45.350706+00:00"
+    },
+    "rss-9d9675420d9516dbe7fe": {
+      "status": "ready",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+      "sourceTitle": "Small businesses, big results: How teams scale with AI",
+      "contentHash": "7f2b82dc4a007a4a8b38083692d581e6b14dd5af4d18aa287500da4907ec773d",
+      "fetchedAt": "2026-11-19T17:16:45.219200+00:00"
+    },
+    "rss-dc88cc571d8c777142e5": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "sourceTitle": "Genie 4 is now available on the Gemini API.",
+      "contentHash": "40fa285573bbcaa76814008b108ca7b9beef3a04663763a5326952942f011994",
+      "fetchedAt": "2026-11-19T17:16:45.259268+00:00"
+    },
+    "rss-efdbd6c83627cffee94d": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+      "sourceTitle": "Let Gemini tackle repetitive chores on your Mac",
+      "contentHash": "632214b225f84b49ac22cfd550bcaf4d84d4deac0059172e14271a263df01733",
+      "fetchedAt": "2026-11-19T17:16:48.685745+00:00"
+    },
+    "rss-68f478bc125468f384e4": {
+      "status": "ready",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "sourceTitle": "Build strategic A/B tests to grow your ad performance.",
+      "contentHash": "181838b930f33286b7575e5d50f79dbbdcf6494a0aa795a776b51720e46df7b4",
+      "fetchedAt": "2026-11-19T17:16:48.538239+00:00"
+    },
+    "rss-e5ce7f7c8c7deb12d1d5": {
+      "status": "ready",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "sourceTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "contentHash": "2deff1cd5f5b49975b77ca2801bb9e9d36e65ab2130492180b70a0e7687ed995",
+      "fetchedAt": "2026-11-19T17:16:50.805542+00:00"
     },
     "rss-93cf5219423968c027a9": {
       "status": "ready",

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-9d9675420d9516dbe7fe",
+  "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+  "sourceTitle": "Small businesses, big results: How teams scale with AI",
+  "status": "ready",
+  "attemptedAt": "2026-11-19T17:16:42.878026+00:00",
+  "fetchedAt": "2026-11-19T17:16:45.219200+00:00",
+  "finalURL": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+  "language": "en",
+  "originalTitle": "Small businesses, big results: How teams scale with AI",
+  "author": "Yulie Kwon Kim",
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "text": "Behind almost every small business is a small team wearing every hat at once: running sales, marketing, and logistics on the shop floor — or on the go. When time and energy run short, scaling the business can seem like an impossible stretch. But driving big results shouldn’t require a big team or expensive software. With Google Workspace, AI is built into the apps you use every day, giving you an extra set of hands right where you work.",
+      "id": "p1",
+      "zh": "几乎每个小生意背后都有一个小团队 立刻戴着每一顶帽子:经营销售,营销,和物流 在商店地板上—— 或走。当时间和能量耗尽时,缩小业务范围似乎不可能实现。但推动大结果并不需要庞大的团队或昂贵的软件。与谷歌工作空间,AI是内置的应用程序 你每天使用,在你工作的地方再给你一双手",
+      "en": "Behind almost every small business is a small team wearing every hat at once: running sales, marketing, and logistics on the shop floor — or on the go. When time and energy run short, scaling the business can seem like an impossible stretch. But driving big results shouldn’t require a big team or expensive software. With Google Workspace, AI is built into the apps you use every day, giving you an extra set of hands right where you work."
+    },
+    {
+      "kind": "paragraph",
+      "text": "Here’s how four small businesses across the country use Google Workspace with Gemini to get busywork out of the way and get back to what matters most.",
+      "id": "p2",
+      "zh": "国内四家小企业如何利用Google Workspace与Gemini合作,",
+      "en": "Here’s how four small businesses across the country use Google Workspace with Gemini to get busywork out of the way and get back to what matters most."
+    },
+    {
+      "kind": "heading",
+      "text": "Bay Area Kids Rentals",
+      "id": "p3",
+      "zh": "湾区儿童租金",
+      "en": "Bay Area Kids Rentals"
+    },
+    {
+      "kind": "paragraph",
+      "text": "When Tayo Lanlehin, a mom in Oakland, California, couldn’t find stylish, modern play equipment for her son’s first birthday party, she started Bay Area Kids Rentals. Logistics management is a huge part of her business, from loading delivery trucks to setting up events. Today, she uses Gemini in Gmail to help her be more efficient. She gets a daily brief of to-dos, pulls pricing from past files, and replies to inquiries in minutes instead of days. That speed has helped her close over 50% of incoming leads, double her revenue, and still make it home for dinner with her family.",
+      "id": "p4",
+      "zh": "当塔约・兰莱欣,母亲在奥克兰,加利福尼亚州,无法找到时髦的,她儿子第一个生日派对的现代游戏设备,她创办了湾区儿童租借公司物流管理是她业务的一大部分从装载货车到安排活动今天,我们...她利用Gmail的Gemini来帮助她提高效率.她每天收到一份待办事宜简报,从过去的文件中提取定价,并在数分钟内而不是数天内答复询问。速度帮助她关闭了超过50%的线索双倍的收入,仍然能回家和她的家人一起吃晚饭",
+      "en": "When Tayo Lanlehin, a mom in Oakland, California, couldn’t find stylish, modern play equipment for her son’s first birthday party, she started Bay Area Kids Rentals. Logistics management is a huge part of her business, from loading delivery trucks to setting up events. Today, she uses Gemini in Gmail to help her be more efficient. She gets a daily brief of to-dos, pulls pricing from past files, and replies to inquiries in minutes instead of days. That speed has helped her close over 50% of incoming leads, double her revenue, and still make it home for dinner with her family."
+    },
+    {
+      "kind": "heading",
+      "text": "Anderson Foundries",
+      "id": "p5",
+      "zh": "安德森创始人",
+      "en": "Anderson Foundries"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In Webster, South Dakota, husband-and-wife co-founders Kory and Ali Anderson are keeping 5,000-year-old metal casting techniques alive at Anderson Foundries. With veteran craftsmen retiring, Kory and Ali used Gemini Notebook to turn technical manuals into interactive training resources for new hires and apprentices. Beyond teaching the next generation, they use Gemini in Google Docs to draft complex quality manuals that keep their business compliant, a task that usually requires a specialized consultant. By drafting them with Gemini in-house, the team saves thousands of dollars and keeps its focus on the foundry floor.",
+      "id": "p6",
+      "zh": "在韦伯斯特,南达科他州夫妻共同创始人科里和阿里·安德森(Ali Anderson)在安德森铸币局(Anderson Foundations)保留着5000年的金属铸造技术.随着老手艺人的退休Kory和Ali使用Gemini笔记本将技术手册转化为互动培训资源,供新聘人员和学徒使用.除了教下一代,他们在Google Docs中使用Gemini来起草复杂的质量手册,使其业务符合要求,一项通常需要专门顾问的任务。通过与Gemini内部起草它们,团队节省了数千美元,并保持了对铸币层的关注.",
+      "en": "In Webster, South Dakota, husband-and-wife co-founders Kory and Ali Anderson are keeping 5,000-year-old metal casting techniques alive at Anderson Foundries. With veteran craftsmen retiring, Kory and Ali used Gemini Notebook to turn technical manuals into interactive training resources for new hires and apprentices. Beyond teaching the next generation, they use Gemini in Google Docs to draft complex quality manuals that keep their business compliant, a task that usually requires a specialized consultant. By drafting them with Gemini in-house, the team saves thousands of dollars and keeps its focus on the foundry floor."
+    },
+    {
+      "kind": "heading",
+      "text": "Sourmilk",
+      "id": "p7",
+      "zh": "酸奶( 酸奶)",
+      "en": "Sourmilk"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In 2025, when Elan Halpern’s homemade yogurt experiments outgrew her kitchen, she and her co-founder, Kiki Couchman, launched their probiotic Greek yogurt brand, Sourmilk. Often running the two-person business from their delivery bikes in New York City, they use Gemini in Google Sheets to help create production models and Gemini in Gmail to triage hundreds of email replies in minutes. With a little help from Gemini, the duo has been able to operate like a 10-person team and scale into more than 100 grocery stores within the brand’s first year.",
+      "id": "p8",
+      "zh": "2025年时,当Elan Halpern的自制酸奶实验 超过她的厨房,她和她的共同创始人,琪琪·库奇曼推出了他们的亲生希腊酸奶品牌,酸奶(原变种).经常用他们在纽约市的送货机 来经营双人业务他们利用Google Sheets中的Gemini来帮助创建生产模型,Gmail中的Gemini则在几分钟内对数百个电子邮件回复进行分解.在Gemini的帮助下在品牌的第一年,二人制可以像十人制团队一样运作,并规模化到100多个杂货店。",
+      "en": "In 2025, when Elan Halpern’s homemade yogurt experiments outgrew her kitchen, she and her co-founder, Kiki Couchman, launched their probiotic Greek yogurt brand, Sourmilk. Often running the two-person business from their delivery bikes in New York City, they use Gemini in Google Sheets to help create production models and Gemini in Gmail to triage hundreds of email replies in minutes. With a little help from Gemini, the duo has been able to operate like a 10-person team and scale into more than 100 grocery stores within the brand’s first year."
+    },
+    {
+      "kind": "heading",
+      "text": "Curious Elixirs",
+      "id": "p9",
+      "zh": "好奇的伊莱克西尔",
+      "en": "Curious Elixirs"
+    },
+    {
+      "kind": "paragraph",
+      "text": "In New York’s Hudson Valley, former bar owner JW Wiseman and his team at Curious Elixirs have spent 11 years crafting booze-free, adaptogen-infused cocktails. Constantly jumping between the flavor lab, marketing, and operations, team members use Gemini in Google Docs to brainstorm marketing campaigns in their signature brand voice. They also rely on Gemini to generate styled product photos and source high-quality ingredient suppliers to keep production running smoothly.",
+      "id": "p10",
+      "zh": "在纽约的哈德逊河谷,前酒吧老板JW Wiseman和他的团队 在好奇的Elixirs花了11年时间 设计无酒,适配体注入的鸡尾酒。不停的跳跃在口味实验室之间,营销,和业务,团队成员在Google Docs中使用Gemini,在他们的签名品牌声音中进行集思广益营销活动.他们还依靠Gemini生成有风格的产品照片,并源源高品质的配料供应商来保持生产顺利进行.",
+      "en": "In New York’s Hudson Valley, former bar owner JW Wiseman and his team at Curious Elixirs have spent 11 years crafting booze-free, adaptogen-infused cocktails. Constantly jumping between the flavor lab, marketing, and operations, team members use Gemini in Google Docs to brainstorm marketing campaigns in their signature brand voice. They also rely on Gemini to generate styled product photos and source high-quality ingredient suppliers to keep production running smoothly."
+    },
+    {
+      "kind": "heading",
+      "text": "AI for your business",
+      "id": "p11",
+      "zh": "帮你们做事的AI",
+      "en": "AI for your business"
+    },
+    {
+      "kind": "paragraph",
+      "text": "You don’t need a massive budget or dozens of tools to put AI to work. These resources will help you get started.",
+      "id": "p12",
+      "zh": "你不需要大量预算或数十种工具来让AI发挥作用。这些资源将帮助你开始工作。",
+      "en": "You don’t need a massive budget or dozens of tools to put AI to work. These resources will help you get started."
+    },
+    {
+      "kind": "list",
+      "text": "Google Workspace AI tools: Explore how built-in AI across Gmail, Google Docs, Sheets, Meet, and more can help your team save time on everyday tasks.",
+      "id": "p13",
+      "zh": "Google 工作空间 AI 工具 :探索如何内置AI横跨Gmail,谷歌医生,工作单,相见,并且更多的可以帮助你的团队节省时间做日常工作.",
+      "en": "Google Workspace AI tools: Explore how built-in AI across Gmail, Google Docs, Sheets, Meet, and more can help your team save time on everyday tasks."
+    },
+    {
+      "kind": "list",
+      "text": "Grow with Google AI training: Access Grow with Google resources that will help you reach more customers and streamline your work.",
+      "id": "p14",
+      "zh": "Google AI训练后成长:用Google资源访问Grow,可以帮助你接触更多的客户,精简你的工作.",
+      "en": "Grow with Google AI training: Access Grow with Google resources that will help you reach more customers and streamline your work."
+    },
+    {
+      "kind": "list",
+      "text": "Google AI Essentials course: Learn on your own schedule in courses taught by Google AI experts on using AI for daily tasks — no experience required.",
+      "id": "p15",
+      "zh": "Google AI基本知识课程:在Google AI专家教授的日常任务使用AI的课程中学习自己的日程——不需要经验.",
+      "en": "Google AI Essentials course: Learn on your own schedule in courses taught by Google AI experts on using AI for daily tasks — no experience required."
+    },
+    {
+      "kind": "list",
+      "text": "Free live workshops: Connect with a Grow with Google Coach or attend a virtual training for hands-on guidance.",
+      "id": "p16",
+      "zh": "免费现场讲习班:与 Google 教练连接或参加实际操作指导的虚拟培训。",
+      "en": "Free live workshops: Connect with a Grow with Google Coach or attend a virtual training for hands-on guidance."
+    }
+  ],
+  "keyPoints": [
+    {
+      "paragraphId": "p1",
+      "zh": "几乎每个小生意背后都有一个小团队 立刻戴着每一顶帽子:经营销售,营销,和物流 在商店地板上—— 或走。当时间和能量耗尽时,缩小业务范围似乎不可能实现。",
+      "en": "Behind almost every small business is a small team wearing every hat at once: running sales, marketing, and logistics on the shop floor — or on the go. When time and energy run short, scaling the business can seem like an impossible stretch."
+    },
+    {
+      "paragraphId": "p4",
+      "zh": "当塔约・兰莱欣,母亲在奥克兰,加利福尼亚州,无法找到时髦的,她儿子第一个生日派对的现代游戏设备,她创办了湾区儿童租借公司物流管理是她业务的一大部分从装载货车到安排活动今天,我们...她利用Gmail的Gemini来帮助她提高效率.她每天收到一份待办事宜简报,从过去的文件中提取定价,并在数分钟内而不是数天内答复询问。速度帮助她关闭了超过50%的线索双倍的收入,仍然能回家和她的家人一起吃晚饭",
+      "en": "When Tayo Lanlehin, a mom in Oakland, California, couldn’t find stylish, modern play equipment for her son’s first birthday party, she started Bay Area Kids Rentals. Logistics management is a huge part of her business, from loading delivery trucks to setting up events."
+    },
+    {
+      "paragraphId": "p6",
+      "zh": "在韦伯斯特,南达科他州夫妻共同创始人科里和阿里·安德森(Ali Anderson)在安德森铸币局(Anderson Foundations)保留着5000年的金属铸造技术.随着老手艺人的退休Kory和Ali使用Gemini笔记本将技术手册转化为互动培训资源,供新聘人员和学徒使用.除了教下一代,他们在Google Docs中使用Gemini来起草复杂的质量手册,使其业务符合要求,一项通常需要专门顾问的任务。通过与Gemini内部起草它们,团队节省了数千美元,并保持了对铸币层的关注.",
+      "en": "In Webster, South Dakota, husband-and-wife co-founders Kory and Ali Anderson are keeping 5,000-year-old metal casting techniques alive at Anderson Foundries. With veteran craftsmen retiring, Kory and Ali used Gemini Notebook to turn technical manuals into interactive training resources for new hires and apprentices."
+    },
+    {
+      "paragraphId": "p14",
+      "zh": "Google AI训练后成长:用Google资源访问Grow,可以帮助你接触更多的客户,精简你的工作.",
+      "en": "Grow with Google AI training: Access Grow with Google resources that will help you reach more customers and streamline your work."
+    }
+  ],
+  "method": "defuddle-0.19.6 / extractive-key-sentences",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "7f2b82dc4a007a4a8b38083692d581e6b14dd5af4d18aa287500da4907ec773d"
+}

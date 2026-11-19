@@ -1,6 +1,102 @@
 {
   "articles": [
     {
+      "id": "rss-63610b904de29506452a",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-9d9675420d9516dbe7fe",
+      "title": "Small businesses, big results: How teams scale with AI",
+      "summary": "See how four small businesses use Google Workspace with Gemini to cut busywork, save thousands, and grow on their own terms.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Small businesses, big results: How teams scale with AI",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-dc88cc571d8c777142e5",
+      "title": "Genie 4 is now available on the Gemini API.",
+      "summary": "Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Genie 4 is now available on the Gemini API.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-efdbd6c83627cffee94d",
+      "title": "Let Gemini tackle repetitive chores on your Mac",
+      "summary": "The Gemini app for Mac now has computer use to help you with repetitive tasks.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Let Gemini tackle repetitive chores on your Mac",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-68f478bc125468f384e4",
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Build strategic A/B tests to grow your ad performance.",
+      "sourceId": "google"
+    },
+    {
+      "id": "rss-e5ce7f7c8c7deb12d1d5",
+      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "summary": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+      "company": "Google",
+      "source": "Google The Keyword",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "date": "2026-11-19",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "sourceId": "google"
+    },
+    {
       "id": "rss-93cf5219423968c027a9",
       "title": "Introducing Stitch Loop: A new way to build and evolve products",
       "summary": "Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.",
@@ -3033,35 +3129,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-19T11:10:22.527788+00:00",
-      "lastSuccess": "2026-11-19T11:10:22.625057+00:00",
+      "attemptedAt": "2026-11-19T17:16:40.042835+00:00",
+      "lastSuccess": "2026-11-19T17:16:40.213699+00:00",
       "count": 7
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-19T11:10:22.528600+00:00",
-      "lastSuccess": "2026-11-19T11:10:22.812929+00:00",
+      "attemptedAt": "2026-11-19T17:16:40.043434+00:00",
+      "lastSuccess": "2026-11-19T17:16:40.210239+00:00",
       "count": 12
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-19T11:10:22.529133+00:00",
-      "lastSuccess": "2026-11-19T11:10:22.606937+00:00",
+      "attemptedAt": "2026-11-19T17:16:40.043840+00:00",
+      "lastSuccess": "2026-11-19T17:16:40.196535+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-19T11:10:22.529833+00:00",
-      "lastSuccess": "2026-11-19T11:10:23.683783+00:00",
+      "attemptedAt": "2026-11-19T17:16:40.044239+00:00",
+      "lastSuccess": "2026-11-19T17:16:41.368325+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-19T11:10:23.685295+00:00",
-  "nextRefresh": "2026-11-19T16:17:00+00:00",
+  "lastRefresh": "2026-11-19T17:16:41.369398+00:00",
+  "nextRefresh": "2026-11-19T22:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "853b4e3a4bdcb12cd2e83f74a337ace68e8d5cc05c473e0ca21ab056ae828d1e"
+  "bilingualRevision": "f430a7f52d44eac33e6a24f6d8f6d1d4a7e4ea109fbec9632aa4eaedf2a05aaa"
 }

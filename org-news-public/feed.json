@@ -146,6 +146,39 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-58da586369f33999eb92",
+      "title": "Research acceleration: The jagged frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "date": "2026-11-18",
+      "categories": [
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Research acceleration: The jagged frontier",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-53d809d7420a3923e8ba",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "date": "2026-11-18",
+      "categories": [
+        "运营模式",
+        "技术创新"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-0e7f690aa4ff229bd2e8",
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
@@ -3000,35 +3033,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-18T23:00:35.546714+00:00",
-      "lastSuccess": "2026-11-18T23:00:35.743946+00:00",
+      "attemptedAt": "2026-11-19T05:16:57.184792+00:00",
+      "lastSuccess": "2026-11-19T05:16:57.513626+00:00",
       "count": 7
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-18T23:00:35.547902+00:00",
-      "lastSuccess": "2026-11-18T23:00:35.746890+00:00",
+      "attemptedAt": "2026-11-19T05:16:57.185362+00:00",
+      "lastSuccess": "2026-11-19T05:16:57.386964+00:00",
       "count": 12
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-18T23:00:35.548403+00:00",
-      "lastSuccess": "2026-11-18T23:00:35.731606+00:00",
+      "attemptedAt": "2026-11-19T05:16:57.185707+00:00",
+      "lastSuccess": "2026-11-19T05:16:57.383528+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-18T23:00:35.548931+00:00",
-      "lastSuccess": "2026-11-18T23:00:36.844907+00:00",
+      "attemptedAt": "2026-11-19T05:16:57.185995+00:00",
+      "lastSuccess": "2026-11-19T05:16:58.356465+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-18T23:00:36.846423+00:00",
-  "nextRefresh": "2026-11-19T04:17:00+00:00",
+  "lastRefresh": "2026-11-19T05:16:58.357283+00:00",
+  "nextRefresh": "2026-11-19T10:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "d426de12f7101ab8cc9550002673938b143123673beb51587c45bb607a51c49c"
+  "bilingualRevision": "853b4e3a4bdcb12cd2e83f74a337ace68e8d5cc05c473e0ca21ab056ae828d1e"
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "Machine translation · cached Google translations / Argos Open Tech for new text",
-  "generatedAt": "2026-11-18T23:00:37.885448+00:00",
-  "revision": "d426de12f7101ab8cc9550002673938b143123673beb51587c45bb607a51c49c",
+  "generatedAt": "2026-11-19T05:16:58.755708+00:00",
+  "revision": "853b4e3a4bdcb12cd2e83f74a337ace68e8d5cc05c473e0ca21ab056ae828d1e",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -577,6 +577,46 @@
         "title": "Managing frontier AI risk: From training to deployment",
         "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
         "sourceTitle": "Managing frontier AI risk: From training to deployment",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-58da586369f33999eb92": {
+      "original": {
+        "title": "Research acceleration: The jagged frontier",
+        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+        "sourceTitle": "Research acceleration: The jagged frontier",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "研究加速:夹缝的边疆",
+        "summary": "OpenAI测量编码剂是如何加速AI研究的,他们的表现仍然参差不齐,以及这预示着 递归自我改善。",
+        "sourceTitle": "研究加速:夹缝的边疆",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Research acceleration: The jagged frontier",
+        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+        "sourceTitle": "Research acceleration: The jagged frontier",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-53d809d7420a3923e8ba": {
+      "original": {
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+        "sourceTitle": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "Sumitomo Life的领袖如何帮助团队采用ChatGPT企业计划",
+        "summary": "素米托莫生命使用ChatGPT企业来研究保险人,拟定建议,以及投资分析守则草案。高管们的早期使用有助于推动收养.",
+        "sourceTitle": "Sumitomo Life的领袖如何帮助团队采用ChatGPT企业计划",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+        "sourceTitle": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
         "source": "OpenAI News"
       }
     },

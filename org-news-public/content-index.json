@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T23:00:52.251947+00:00",
+  "updatedAt": "2026-11-19T05:16:59.278577+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -123,6 +123,18 @@
       "status": "unavailable",
       "url": "https://openai.com/index/managing-frontier-ai-risk",
       "sourceTitle": "Managing frontier AI risk: From training to deployment",
+      "error": "http_403"
+    },
+    "rss-58da586369f33999eb92": {
+      "status": "unavailable",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "sourceTitle": "Research acceleration: The jagged frontier",
+      "error": "http_403"
+    },
+    "rss-53d809d7420a3923e8ba": {
+      "status": "unavailable",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "sourceTitle": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "error": "http_403"
     },
     "rss-0e7f690aa4ff229bd2e8": {

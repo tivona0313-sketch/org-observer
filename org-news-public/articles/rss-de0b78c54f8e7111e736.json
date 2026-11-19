@@ -4,7 +4,7 @@
   "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
   "sourceTitle": "Scientists are using Google AI to help restore giant kelp forests.",
   "status": "ready",
-  "attemptedAt": "2026-11-12T17:13:48.596263+00:00",
+  "attemptedAt": "2026-11-19T11:00:48.089356+00:00",
   "fetchedAt": "2026-11-12T17:13:52.115966+00:00",
   "finalURL": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
   "language": "en",
@@ -51,6 +51,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "4f374fdacc06af5d745ac1a4107f37e5fae466e1a339590f2990251d7a8c5e96"
 }

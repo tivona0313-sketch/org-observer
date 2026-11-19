@@ -4,7 +4,7 @@
   "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
   "sourceTitle": "From AI ambition to business impact",
   "status": "ready",
-  "attemptedAt": "2026-11-12T17:13:48.595832+00:00",
+  "attemptedAt": "2026-11-19T11:00:39.214429+00:00",
   "fetchedAt": "2026-11-12T17:13:50.693157+00:00",
   "finalURL": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
   "language": "en",
@@ -231,6 +231,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "919b1816ccd6e1bcdf1e6d9a70a477291ee880df1d36e5556f07eb11923086af"
 }

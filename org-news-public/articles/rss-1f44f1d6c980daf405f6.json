@@ -4,7 +4,7 @@
   "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
   "sourceTitle": "Check out our free livestream during National Veterans Small Business Week.",
   "status": "ready",
-  "attemptedAt": "2026-11-05T17:24:30.373236+00:00",
+  "attemptedAt": "2026-11-19T11:02:03.468888+00:00",
   "fetchedAt": "2026-11-05T17:24:33.579183+00:00",
   "finalURL": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/",
   "language": "en",
@@ -91,6 +91,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "3cdce457992afb5f91d52c797e433c7363dcbe721f31ae9a0c624f98e42d8fcd"
 }

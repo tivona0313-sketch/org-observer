@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
   "sourceTitle": "Introducing Gemini 4 Neon",
   "status": "ready",
-  "attemptedAt": "2026-11-18T23:00:37.927059+00:00",
+  "attemptedAt": "2026-11-19T10:58:37.600729+00:00",
   "fetchedAt": "2026-11-18T23:00:41.852192+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
   "language": "en",
@@ -15,28 +15,28 @@
       "kind": "paragraph",
       "text": "Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.",
       "id": "p1",
-      "zh": "今天,我们...我们正在引入Gemini4 Neon —— 将前沿级情报与快速的端到端任务完成 跨越复杂的软件工程,知识工作,和科学工作流程。",
+      "zh": "今天,我们...我们正在引入Gemini4 Neon —— 将前沿情报带入复杂的软件工程中, 快速完成端到端任务,知识工作,和科学工作流程。",
       "en": "Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows."
     },
     {
       "kind": "paragraph",
       "text": "Neon ranks ahead of comparable models and #3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, landing just behind larger, slower models. On the Vals Index, Neon ranks #2 and lands on the Pareto frontier. Beyond just pushing on raw model capability, we’re continuing to make our models better to work with, Neon ranks #2 on steerability (adapting cleanly to mid-task user corrections) on the new Agent Arena Index. Neon also excels at multi-step instruction following and builds on our ongoing progress to curb fabrication, recording our lowest fabrication rate yet in internal Google Antigravity testing.",
       "id": "p2",
-      "zh": "尼昂在可比模型中排在前列,总体3号在人工分析智能指数的x高思维水平上得分为61分,降落在更大的后面,较慢的模型。关于瓦尔斯指数,尼昂排名第2,在帕雷托边境登陆.除了推进原始模型能力之外我们继续让我们的模型 更好的工作,Neon)在新代理阿雷纳指数上在可引导性上排名第2位(对中任务用户的校正进行整齐的调整).尼翁还出色地学习了多步骤的教学,并借鉴了我们在遏制捏造方面不断取得的进展,在谷歌反重力测试中 记录了我们最低的制造率",
+      "zh": "尼昂领先于可比较模型,总体3号,在人工分析智能指数的x高思维水平上得分为61分,降落在更大的后面,较慢的模型。在瓦尔斯指数上,尼翁排名2,并登陆帕雷托边境.除了推进原始的模型能力,我们继续让我们的模型更好的工作,Neon在新Agent Arena Index上的可导性排名为#2(对任务中途用户的校正进行整改).尼翁还精通多步骤的教学,并在我们遏制捏造方面不断取得进展的基础上再接再厉,在谷歌反重力测试中 记录了我们的最低制造率",
       "en": "Neon ranks ahead of comparable models and #3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, landing just behind larger, slower models. On the Vals Index, Neon ranks #2 and lands on the Pareto frontier. Beyond just pushing on raw model capability, we’re continuing to make our models better to work with, Neon ranks #2 on steerability (adapting cleanly to mid-task user corrections) on the new Agent Arena Index. Neon also excels at multi-step instruction following and builds on our ongoing progress to curb fabrication, recording our lowest fabrication rate yet in internal Google Antigravity testing."
     },
     {
       "kind": "paragraph",
       "text": "The model is priced at $3 per million input tokens ($0.15 per million cached input tokens, a 95% discount) and $15 per million output tokens, with a 1 million-token context window.",
       "id": "p3",
-      "zh": "该模型的价格为每百万个输入令牌3美元(每百万个缓存输入令牌15美元),(a) 95%的折扣)和每百万美元产出值的15美元,带有100万个上下文窗口。",
+      "zh": "该模型的价格为每百万个输入令牌3美元(每百万个缓存输入令牌15美元),(a) 95%的折扣)和每百万美元产出值的15美元,带有一百万个上下文窗口。",
       "en": "The model is priced at $3 per million input tokens ($0.15 per million cached input tokens, a 95% discount) and $15 per million output tokens, with a 1 million-token context window."
     },
     {
       "kind": "paragraph",
       "text": "Gemini 4 Neon is rolling out today in the Gemini API in Google AI Studio, Gemini for business (via API and model dropdown), for paid Google AI Pro and Ultra subscribers in Google Antigravity, and for Pro and Ultra subscribers in the Gemini app.",
       "id": "p4",
-      "zh": "Gemini4 Neon今天在Google AI Studio的GeminiAPI推出,Gemini商业(通过API和模型降级),在Google Antigravity中付费的Google AI Pro和Ultra用户,以及Gemini应用程序中的Pro和Ultra用户。",
+      "zh": "Gemini4 Neon今天在Google AI Studio的GeminiAPI推出,Gemini商业(通过API和模型倒地),给Google AI Pro和Ultra的付费用户提供Google Antigravity,以及双子星应用软件中的Pro和Ultra用户。",
       "en": "Gemini 4 Neon is rolling out today in the Gemini API in Google AI Studio, Gemini for business (via API and model dropdown), for paid Google AI Pro and Ultra subscribers in Google Antigravity, and for Pro and Ultra subscribers in the Gemini app."
     },
     {
@@ -50,70 +50,70 @@
       "kind": "paragraph",
       "text": "Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables. Independent evaluations rank Neon as one of the top models and on benchmarks like the Vals Index, it ranks #2 (70.9%), and reaches #1 on both the Legal Research Bench and Tax Agent Bench.",
       "id": "p6",
-      "zh": "企业在电子表格中工作,PDFs, , , 互联网档案馆的存檔,存档日期2008-09-02.图表,音频,和视频。Neon可以在一个100万托肯的单一上下文窗口中合成所有这些投入,并将投入转化为结构化的交付品.独立评价将尼昂列为顶级模型之一,并依据瓦尔斯指数等基准,它排名第2位(70.9%),并在法律研究组和税务代理组达到第1位。",
+      "zh": "企业在电子表格中工作,个人防护装置,图表,音频,和视频Neon可以将所有这些投入合成一个100万托肯的单一上下文窗口,并将投入转化为结构化的可交付成果.独立评价将尼昂列为顶级模型之一,并依据瓦尔斯指数等基准,排名第2位(70.9%),在法律研究座席和税务代理座席上达到第1位。",
       "en": "Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables. Independent evaluations rank Neon as one of the top models and on benchmarks like the Vals Index, it ranks #2 (70.9%), and reaches #1 on both the Legal Research Bench and Tax Agent Bench."
     },
     {
       "kind": "paragraph",
       "text": "Neon also shows strong wins across categories on Surge AI, ranking #1 on most benchmarks across finance, accounting, spreadsheet modeling, and complex constraint following. It also scores 73.5% on Chartography for reading dense professional charts and performs on par with leading models on Agents' Last Exam v1.1 (75.8%). It achieves #1 overall on both Zapier’s AutomationBench (56.3%) and Andon Labs' Vending-Bench 2 ($16,843), a long-horizon simulation of running a business. Finally, it debuts #2 globally with a score of 1336 on Arena's new Agent Arena Index across 4,200+ real-world agent sessions.",
       "id": "p7",
-      "zh": "Neon还显示在Surge AI上各类别都有强胜,在大多数金融基准中排名第一,会计,电子表格建模,以及随之而来的复杂制约。它还在图表学上评分73.5%,以读取密集的专业图表,并在代理最后考试v1.1(75.8%)上与主要模型相同。它在Zapier的自动化奔驰(56.3%)和Anton Labs的Vending-Bench 2(16 843美元)上实现了总的1号目标.长视距模拟经营企业.终于,它以1336分的成绩在全球首发 在阿雷纳的新代理阿雷纳指数 跨越4200+真实世界代理会话.",
+      "zh": "Neon还显示在Surge AI上各类别都取得了强劲的胜利,在大多数金融基准中排名第1位,会计,电子表格建模,以及随之而来的复杂制约。它还在图表学上评分73.5%,因为阅读了密集的专业图表,并在Agents' Last Exam v1.1(75.8%)上与主要模型相同。它在Zapier的自动化奔驰(56.3%)和Anton Labs的Vending-Bench 2(16 843美元)上都实现了总的一号目标.长相模拟经营企业.终于,它在全球2号首发,在阿雷纳新代理阿雷纳指数上得分为1336分,跨越了4200+现实世界代理会.",
       "en": "Neon also shows strong wins across categories on Surge AI, ranking #1 on most benchmarks across finance, accounting, spreadsheet modeling, and complex constraint following. It also scores 73.5% on Chartography for reading dense professional charts and performs on par with leading models on Agents' Last Exam v1.1 (75.8%). It achieves #1 overall on both Zapier’s AutomationBench (56.3%) and Andon Labs' Vending-Bench 2 ($16,843), a long-horizon simulation of running a business. Finally, it debuts #2 globally with a score of 1336 on Arena's new Agent Arena Index across 4,200+ real-world agent sessions."
     },
     {
       "kind": "paragraph",
       "text": "On scientific and mathematical reasoning, spanning quantitative analysis, mathematics, and technical research problems, Neon is best in class on Terminal-Bench Science (70.5%), RiemannBench (84.0%), and HLE-Diamond (71.3%).",
       "id": "p8",
-      "zh": "关于科学和数学推理,跨度定量分析,数学,和技术研究问题,尼昂在终极-奔驰科学(70.5%)的班级中表现最好,里曼·本奇(84.0%),和HLE-Diamond(71.3%)。",
+      "zh": "关于科学和数学推理,跨越定量分析,数学,和技术研究问题,尼昂在\"终极-奔驰科学\"(70.5%)课程中成绩最好,里曼·本奇(84.0%),和HLE-Diamond(71.3%)。",
       "en": "On scientific and mathematical reasoning, spanning quantitative analysis, mathematics, and technical research problems, Neon is best in class on Terminal-Bench Science (70.5%), RiemannBench (84.0%), and HLE-Diamond (71.3%)."
     },
     {
       "kind": "heading",
       "text": "Built for production-ready code",
       "id": "p9",
-      "zh": "用于生产准备的代码",
+      "zh": "为生产准备编码所建",
       "en": "Built for production-ready code"
     },
     {
       "kind": "paragraph",
       "text": "Engineered for long-running agent workflows, Neon sustains performance through complex, tool-heavy tasks end-to-end — whether running standalone or acting as a fast, high-judgment Orchestrator directing parallel Hydrogen subagents in Google Antigravity. It cuts down on redundant file reads, shares progress as it works, and handles context compaction reliably in long sessions.",
       "id": "p10",
-      "zh": "长期代理工作流程工程师,尼翁通过复合体维持性能,工具重任务端到端——无论是独立运行还是作为快速运行,高判断 Orchestrator在Google Antigravity中指挥平行的氢亚剂.它削减冗余文件的读数,分享进展的同时,,并在长会话中可靠地处理上下文压缩。",
+      "zh": "长期代理工作流程工程师,尼翁通过复合体维持性能,工具重任务端到端——无论是独立运行还是作为快件运行,高判断 Orchestrator在Google Antigravity中指挥平行氢亚剂.它削减冗余文件读取,分享进步的同时,它的工作,,并在长会话中可靠地处理上下文收缩。",
       "en": "Engineered for long-running agent workflows, Neon sustains performance through complex, tool-heavy tasks end-to-end — whether running standalone or acting as a fast, high-judgment Orchestrator directing parallel Hydrogen subagents in Google Antigravity. It cuts down on redundant file reads, shares progress as it works, and handles context compaction reliably in long sessions."
     },
     {
       "kind": "paragraph",
       "text": "Across core developer and researcher workflows, Neon achieves frontier performance and is competitive with the leading models in its class, ranking #1 overall on the Artificial Analysis Coding Agent Index (58.6), with a score of 65.2% on Terminal-Bench 4.1 and 46.2% (at its default high setting) on FrontierCode 2.0. For production-ready code, Neon handles multi-file debugging and refactoring across repositories with targeted, surgical edits. On SWE-sweep, it already leads on the mini-SWE harness (12.8%) and more than triples to a state-of-the-art 39.0% in Google Antigravity showing what the Antigravity harness unlocks.",
       "id": "p11",
-      "zh": "在整个核心开发者和研究人员的工作流程中,尼昂取得了前沿性能 并且与班级领先的模特们竞争在人工分析编码代理指数(58.6)上排名第1位,在Bench 4.1号终端上得分65.2%,在FrontierCode2.0上得分46.2%(在其默认的高位设置上).对于生产准备代码,Neon处理多文件调试和重构 跨越储存库与目标,外科编辑。{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}在SWE -SWE -SWE -SWE它已经领先于迷你SWE(12.8%) 以及超过三倍的Google Antigravity中最先进的39.0% 显示Antigravity控制器的解锁。",
+      "zh": "在核心开发者和研究人员的工作流程中,尼翁取得了前沿性能 并且与班级领先的模特们竞争在人工分析编码代理指数(58.6)上排名第1位,在Bench 4.1号终端上得分65.2%,在FrontierCode 2.0上得分46.2%(在其默认的高位设置上).对于生产准备代码,Neon处理多文件调试和重构 与目标,外科编辑。在SWE -sweep上,已经领先于小型SWE(12.8%)和超过三分之三的Google Antigravity中最先进的39.0%,显示Antigravity的装置解锁内容.",
       "en": "Across core developer and researcher workflows, Neon achieves frontier performance and is competitive with the leading models in its class, ranking #1 overall on the Artificial Analysis Coding Agent Index (58.6), with a score of 65.2% on Terminal-Bench 4.1 and 46.2% (at its default high setting) on FrontierCode 2.0. For production-ready code, Neon handles multi-file debugging and refactoring across repositories with targeted, surgical edits. On SWE-sweep, it already leads on the mini-SWE harness (12.8%) and more than triples to a state-of-the-art 39.0% in Google Antigravity showing what the Antigravity harness unlocks."
     },
     {
       "kind": "paragraph",
       "text": "Driving Blender MCP in Google Antigravity, Gemini 4 Neon used /swarm to build a photorealistic 3D lab bench visualizing the model names with elemental accuracy pairing Bunsen flames for Gemini 4 Carbon and Gemini 4 Hydrogen with high-voltage gas discharge tubes for Gemini 4 Argon and Neon.",
       "id": "p12",
-      "zh": "驾驶Blender MCP 在谷歌反重力,Gemini4 Neon使用/swarm来建造一个光现实化的3D实验室长凳,以元素精度精度将Bunsen火焰配对成Gemini4碳座和Gemini4的模型名称.为Gemini4Argon和Neon配有高压气体排放管的氢.",
+      "zh": "在谷歌反重力中驾驶 Blender MCP,Gemini4 Neon使用/swarm来建造一个相片现实的3D实验室长凳,以元素精度将Bunsen火焰配对成Gemini4碳座和Gemini4座.为Gemini4Argon和Neon提供高压气体放出管的氢.",
       "en": "Driving Blender MCP in Google Antigravity, Gemini 4 Neon used /swarm to build a photorealistic 3D lab bench visualizing the model names with elemental accuracy pairing Bunsen flames for Gemini 4 Carbon and Gemini 4 Hydrogen with high-voltage gas discharge tubes for Gemini 4 Argon and Neon."
     },
     {
       "kind": "paragraph",
       "text": "In Google Antigravity, Gemini 4 Neon wrote a first-person WebGL2 freeride ski simulator from scratch on real Mont Blanc and Chamonix elevation terrain — combining 10,200 lines of custom shaders, 120 Hz ski physics across six alpine lines, dynamic carved tracks, slab avalanches, and spatial Web Audio with zero pre-made assets.",
       "id": "p13",
-      "zh": "在谷歌反重力,Gemini4 Neon写了第一人称的WebGL2自由滑雪模拟器,在真正的勃朗峰和查莫尼克斯高地上从零开始——结合了10,200行的定制遮荫镜,120赫兹滑雪物理 跨越六条高山线,生动的铁轨,石板雪崩,和空间Web Audio,零预制资产。",
+      "zh": "在谷歌反重力,Gemini4 Neon写了第一人称WebGL2自由滑雪模拟器,从真正的勃朗克山和查莫尼克斯高地上从零开始——结合了10,200行自定义的遮阳器,120赫兹滑雪物理 跨越了六条高山线,动态刻出轨迹,石板雪崩,和空间Web音频,零预制资产。",
       "en": "In Google Antigravity, Gemini 4 Neon wrote a first-person WebGL2 freeride ski simulator from scratch on real Mont Blanc and Chamonix elevation terrain — combining 10,200 lines of custom shaders, 120 Hz ski physics across six alpine lines, dynamic carved tracks, slab avalanches, and spatial Web Audio with zero pre-made assets."
     },
     {
       "kind": "paragraph",
       "text": "Using /swarm in Google Antigravity, Gemini 4 Neon pulled archival photos to recreate Alan Turing’s 1936 study at King’s College, Cambridge in interactive 3D — from King’s Chapel outside to Room X.8 inside, complete with a working Universal Turing Machine running on his desk.",
       "id": "p14",
-      "zh": "使用/swarm 在谷歌反重力,Gemini4 Neon拉出档案照片 重现Alan Turing在国王学院1936年的研究,剑桥互动3D——从国王礼拜堂到里面的X.8室,他的桌子上有一台通用图灵机",
+      "zh": "使用/swarm在谷歌反重力,Gemini4 Neon拉出档案照片 重现Alan Turing1936年在King's College的研究,剑桥互动3D——从国王礼拜堂外到里面的X.8室,他的办公桌上有一台实用的通用图灵机",
       "en": "Using /swarm in Google Antigravity, Gemini 4 Neon pulled archival photos to recreate Alan Turing’s 1936 study at King’s College, Cambridge in interactive 3D — from King’s Chapel outside to Room X.8 inside, complete with a working Universal Turing Machine running on his desk."
     },
     {
       "kind": "paragraph",
       "text": "In Google Antigravity, a Gemini 4 Neon agent swarm turned a single image into a 100,000-cell Google Sheet with zero embedded images and zero Apps Script — using over 500,000 live spreadsheet formulas to run edge detection, map 3D depth, and relight the scene across six interactive modes.",
       "id": "p15",
-      "zh": "在谷歌反重力,a Gemini4 Neon Agent swarm 将单一的图像变成10万个细胞的Google Sheet,零嵌入的图像和零Apps脚本——使用超过500个,运行边缘检测的 000 个活电子表格公式,地图 3D 深度,,然后通过6种交互模式重新点亮场景。",
+      "zh": "在谷歌反重力,a Gemini4 Neon Agent swarm将一幅单相像变成一出10万个细胞的Google Sheet,零嵌入图像和零 Apps Script——使用超过500个,000活电子表格公式 运行边缘检测,地图 三维深度,,然后通过6个互动模式重新点出场景。",
       "en": "In Google Antigravity, a Gemini 4 Neon agent swarm turned a single image into a 100,000-cell Google Sheet with zero embedded images and zero Apps Script — using over 500,000 live spreadsheet formulas to run edge detection, map 3D depth, and relight the scene across six interactive modes."
     },
     {
@@ -127,147 +127,147 @@
       "kind": "paragraph",
       "text": "We’re refining thinking levels with each new model release to give teams finer control and a smoother progression from one tier to the next. Neon’s four levels scale steadily, letting teams dial intelligence and token spend to what each workload needs.",
       "id": "p17",
-      "zh": "我们通过每个新模式的发布来完善思维水平,使团队有更精细的控制,并更顺利地从一个级别发展到另一个级别。尼翁的四级规模稳定,让团队拨打情报和信使 花费到每个工作量需要的。",
+      "zh": "我们用每一个新模式的发布来完善思维水平,让团队有更精细的控制,并且从一个层次更平稳地发展到另一个层次。尼翁的四级规模稳定,让团队拨打情报和信使 花费到每个工作量需要的。",
       "en": "We’re refining thinking levels with each new model release to give teams finer control and a smoother progression from one tier to the next. Neon’s four levels scale steadily, letting teams dial intelligence and token spend to what each workload needs."
     },
     {
       "kind": "paragraph",
       "text": "Neon delivers high performance at a lower cost per task across third-party benchmarks. At its default high thinking level, it pairs a high Artificial Analysis Intelligence Index score with a 32% lower cost per task than Carbon. It also sits on the Pareto frontier on both the Vals index and Agent Arena at high, with roughly 50% to 80% lower cost per task than top competing frontier models. xhigh thinking adds deeper, multi-step reasoning for the hardest engineering, analytical, and scientific workloads. Neon shows its highest intelligence score here, while still costing 36%+ less per task than competing models at their highest setting.",
       "id": "p18",
-      "zh": "尼翁在第三方基准中以较低的成本提供高性能.在其默认的高思维水平上,它将人工分析智能指数高得分配对,每个任务的成本比Carbon低32%.它也坐落在帕雷托边疆 瓦尔斯指数和阿雷纳智能体在高处每个任务的成本比顶级竞争型号低50%到80%。{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}高智商会更深多步骤的推理 对于最困难的工程,分析,和科学工作量。尼翁在这里显示其最高情报分数,在最高环境下,每个任务的成本仍然比竞争模式低36美元。",
+      "zh": "尼昂在第三方基准中以更低的成本提供高性能.在默认的高思维水平上,它将人工分析智能指数高得分配对,每个任务的成本比Carbon低32%.它也坐落在帕雷托边疆 Vals指数和Arena探员在高处与顶级的前沿模型相比,每个任务的成本大约为50%至80%。{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}高深的思维会更深多步骤的推理 对于最困难的工程,分析,和科学工作量。尼昂在这里显示其最高的智力分数,在最高环境下,每个任务的成本仍然比竞争模式低36美元。",
       "en": "Neon delivers high performance at a lower cost per task across third-party benchmarks. At its default high thinking level, it pairs a high Artificial Analysis Intelligence Index score with a 32% lower cost per task than Carbon. It also sits on the Pareto frontier on both the Vals index and Agent Arena at high, with roughly 50% to 80% lower cost per task than top competing frontier models. xhigh thinking adds deeper, multi-step reasoning for the hardest engineering, analytical, and scientific workloads. Neon shows its highest intelligence score here, while still costing 36%+ less per task than competing models at their highest setting."
     },
     {
       "kind": "heading",
       "text": "Built for fast, efficient, frontier-level cyber defense",
       "id": "p19",
-      "zh": "建造为快速,高效,边界一级的网络防御",
+      "zh": "建造为快,高效,边境一级的网络防御",
       "en": "Built for fast, efficient, frontier-level cyber defense"
     },
     {
       "kind": "paragraph",
       "text": "As agentic coding scales, generating secure code from the start is critical. Gemini 4 Neon for cyber produces more secure code than Carbon across all easy, medium, and hard challenges on AutoBaxBench, achieving state-of-the-art on the hard tier (76%).",
       "id": "p20",
-      "zh": "作为代理编码尺度,从一开始生成安全代码至关重要。Gemini4 Neon用于网络 产生比Carbon更安全的代码 跨越所有容易,中号,和AutoBax Bench的艰难挑战,达到最先进的硬层水平(76%)。",
+      "zh": "作为代理编码尺度,从一开始生成安全代码至关重要。Gemini4 Neon用于网络 产生比Carbon更安全的代码 所有容易,中层,和AutoBax Bench的艰难挑战,在硬层实现最先进水平(76%)。",
       "en": "As agentic coding scales, generating secure code from the start is critical. Gemini 4 Neon for cyber produces more secure code than Carbon across all easy, medium, and hard challenges on AutoBaxBench, achieving state-of-the-art on the hard tier (76%)."
     },
     {
       "kind": "paragraph",
       "text": "Securing systems also means proactively finding flaws before attackers do. Penetration testing has served as a cornerstone of enterprise cybersecurity. On WebExploitBench v1.2, Neon is state-of-the-art (51.26%) at half the cost of competing large models.",
       "id": "p21",
-      "zh": "保障系统也意味着在攻击者之前主动发现缺陷.渗透测试是企业网络安全的基石。在WebExpolitit Bench v1.2上, (原始内容存档于2017-09-21).尼昂是顶尖的(51.26%),其成本是竞争大型号的一半.",
+      "zh": "安全系统也意味着在攻击者之前主动发现缺陷.渗透测试已成为企业网络安全的基石。在WebExplorit Bench v1.2, 互联网档案馆的存檔,存档日期2013-12-02.尼翁是顶尖的(51.26%),其成本为相竞大型型号的一半.",
       "en": "Securing systems also means proactively finding flaws before attackers do. Penetration testing has served as a cornerstone of enterprise cybersecurity. On WebExploitBench v1.2, Neon is state-of-the-art (51.26%) at half the cost of competing large models."
     },
     {
       "kind": "paragraph",
       "text": "To fortify existing code, Neon for cyber delivers frontier-level performance across the code hardening lifecycle — vulnerability finding, validating, and patching — all while being faster and more cost efficient than large frontier models.",
       "id": "p22",
-      "zh": "为了强化现有的代码,网络神经元在代码中提供前沿性能,使生命周期变硬——发现脆弱性,正在验证,与大型前沿模型相比,这些模型比大型前沿模型更快、成本效率更高。",
+      "zh": "为了强化现有的代码,网络的神经元在代码中提供前沿性能,使生命周期更加硬化——发现脆弱性,正在验证,与大型前沿模型相比,这些模型比大型前沿模型更快、成本效率更高。",
       "en": "To fortify existing code, Neon for cyber delivers frontier-level performance across the code hardening lifecycle — vulnerability finding, validating, and patching — all while being faster and more cost efficient than large frontier models."
     },
     {
       "kind": "list",
       "text": "Finding code vulnerabilities: Neon achieves state-of-the-art performance on SEC-bench Pro (90.5%), while costing roughly half as much per challenge.",
       "id": "p23",
-      "zh": "查找代码漏洞 :Neon在SEC-bench Pro上取得了最先进的业绩(90.5%),成本大约是每个挑战的一半。",
+      "zh": "查找代码漏洞 :Neon在SEC-bench Pro(90.5%)上实现了最先进的业绩,成本大约是每个挑战的一半。",
       "en": "Finding code vulnerabilities: Neon achieves state-of-the-art performance on SEC-bench Pro (90.5%), while costing roughly half as much per challenge."
     },
     {
       "kind": "list",
       "text": "Validating risk through exploitation: To prioritize which vulnerabilities to remediate, defenders rely on models to check which vulnerabilities are exploitable. On ExploitGym, it achieves frontier-level performance using half the tokens of Carbon.",
       "id": "p24",
-      "zh": "通过开发验证风险:将哪些弱点作为补救的重点,维权者依靠模型来检查哪些脆弱性是可以利用的。在探索健身房,它用碳的半个符号来达到前沿水平的性能",
+      "zh": "通过剥削验证风险:将哪些弱点作为补救的重点,维权者依靠模式来检查哪些脆弱性是可以利用的。在探索健身房,它利用\"碳\"的半个符号 实现了前沿水平的性能",
       "en": "Validating risk through exploitation: To prioritize which vulnerabilities to remediate, defenders rely on models to check which vulnerabilities are exploitable. On ExploitGym, it achieves frontier-level performance using half the tokens of Carbon."
     },
     {
       "kind": "list",
       "text": "Patching vulnerabilities: Fixing the root cause of vulnerabilities is a critical step in the cybersecurity defense lifecycle. Neon reaches 70.7% on Collinear’s CWE-bench v2, driving a 3.4% uplift over Carbon.",
       "id": "p25",
-      "zh": "弥补弱点 :消除脆弱性的根源是网络安全防御生命周期中的一个关键步骤。尼翁在Collinear的CWE-bench v2上达到了70.7%,驾驶3.4%的升力 超过碳。",
+      "zh": "补丁弱点 :解决脆弱性的根源是网络安全防御生命周期中的一个关键步骤。在Collinear的CWE-bench v2上,霓虹达到了70.7%,驾驶3.4%的升力 超过碳。",
       "en": "Patching vulnerabilities: Fixing the root cause of vulnerabilities is a critical step in the cybersecurity defense lifecycle. Neon reaches 70.7% on Collinear’s CWE-bench v2, driving a 3.4% uplift over Carbon."
     },
     {
       "kind": "paragraph",
       "text": "Gemini 4 Neon for cyber is rolling out to trusted defenders in the coming days as part of the Fairwind Program.",
       "id": "p26",
-      "zh": "作为Fairwind计划的一部分,",
+      "zh": "作为\"仙风计划\"的一部分,Gemini4 Neon for cycle 在未来几天里将推出给受信任的维权者.",
       "en": "Gemini 4 Neon for cyber is rolling out to trusted defenders in the coming days as part of the Fairwind Program."
     },
     {
       "kind": "heading",
       "text": "Designed for safe, dependable execution",
       "id": "p27",
-      "zh": "设计安全,可靠执行",
+      "zh": "设计为安全,可靠的执行",
       "en": "Designed for safe, dependable execution"
     },
     {
       "kind": "paragraph",
       "text": "Gemini 4 Neon builds on improvements from our Gemini 4 safety and security stack— maintaining Gemini 4 Carbon-level protections against severe misuse and prompt injection while advancing further on model alignment and agentic behavior. For a model meant to carry demanding, long-running work in production, we concentrated on:",
       "id": "p28",
-      "zh": "Gemini4 Neon基于我们Gemini4安全保障堆的改进——维持Gemini4碳级保护,防止严重误用和迅速注射,同时进一步推进模型对齐和代理行为.对于一个想要携带要求很高的模型,长期从事生产工作,我们的重点是:",
+      "zh": "Gemini4 霓虹星基于我们Gemini4的安全和安保堆积的改进——维持Gemini4 碳级保护,防止严重被滥用和被迅速注射。进一步推进模式对接和代理行为.对于一个想要携带要求的模型,长期从事生产工作,我们的重点是:",
       "en": "Gemini 4 Neon builds on improvements from our Gemini 4 safety and security stack— maintaining Gemini 4 Carbon-level protections against severe misuse and prompt injection while advancing further on model alignment and agentic behavior. For a model meant to carry demanding, long-running work in production, we concentrated on:"
     },
     {
       "kind": "list",
       "text": "Mitigating frontier misuse safety risks: Because Neon brings frontier-level capabilities to a faster, lower-cost model, we paired it with strong real-time safeguards against cyber and biosecurity misuse comparable to our Carbon protections, while declining far less legitimate work in these areas, refusing for instance just 1.98% of tasks on Terminal-Bench 4.0 and 0% on Terminal-Bench-Science.",
       "id": "p29",
-      "zh": "减少边境滥用安全风险:因为Neon能更快地提高前沿能力低成本模式,我们把它配以强大的实时保障 防止网络和生物安保的滥用 相当于我们的碳保护,而在减少这些方面合法工作的同时,例如,拒绝在Bench 4.0号终端上完成1.98%的任务,拒绝在Bench-Science号终端上完成0%的任务。",
+      "zh": "减少边境滥用安全风险:因为尼昂将前沿能力提升到更快低成本模式,我们把它配以强大的实时保障 防止网络和生物安保被滥用 与我们的碳保护相当,而在减少这些领域合法工作的同时,例如,拒绝在Bench 4.0号终端上完成1.98%的任务,拒绝在Bench-Science号终端上完成0%的任务。",
       "en": "Mitigating frontier misuse safety risks: Because Neon brings frontier-level capabilities to a faster, lower-cost model, we paired it with strong real-time safeguards against cyber and biosecurity misuse comparable to our Carbon protections, while declining far less legitimate work in these areas, refusing for instance just 1.98% of tasks on Terminal-Bench 4.0 and 0% on Terminal-Bench-Science."
     },
     {
       "kind": "list",
       "text": "Advancing alignment and disciplined model behavior: In internal coding use, alert rates from our chain-of-thought and action misalignment monitor remained below the already low baselines set by Carbon, suggesting improved alignment propensity for Neon — and that same monitor is deployed to protect Neon across external surfaces. Neon is trained to complete multi-step work without cutting corners, fabricating results, or overstepping user boundaries — continuing to improve the balance between following through on requests and staying within scope. It matched Carbon with 0.0% cheating on Terminal-Bench 4.0 and took shortcuts on just 2.45% of tasks on our coding cheating evaluation (the lowest rate of any Gemini 4 model). It also achieved a 0.09% misaligned action rate on our agentic safety suite and a 99.2% pass rate on our agent honesty evaluation. On our agentic behavior evaluation, Neon builds on Carbon’s strong baseline by further reducing under-service by 43%–56% and overreach by 15%–35% across different effort levels.",
       "id": "p30",
-      "zh": "推进对齐和规范的模型行为:在内部编码使用中,我们的思维链和行动错配监测器的预警率仍然低于Carbon设定的已经很低的基线,建议提高尼翁的对齐倾向——并部署同样的监测器,以保护尼翁跨外部表面.尼翁受过训练 完成多步骤的工作 不切割角,编造结果,或超越用户界限——继续改善对请求的跟踪和在范围之内的平衡。它在终端-Bench 4.0上将Carbon与0.0%的作弊相匹配,并在我们编码作弊评价(Gemini4型号中的最低率)上只取了2.45%的任务的捷径.我们的代理安全套房也实现了0.09%的错位动作率,以及99.2%的代理诚实评价通过率.在我们的代理行为评估,Neon基于Carbon的强大基线,将服务不足进一步减少43~56%,在不同的努力水平上超额达到15~35%。",
+      "zh": "推进对齐和有纪律的模型行为:在内部编码使用中,我们的思维链和行动错配监测器的警报率仍然低于Carbon设定的已经很低的基线,建议提高尼翁的对接倾向——并部署同样的监视器,以保护尼翁跨外表.尼昂被训练成可以完成多步工作而不割角编造结果,或超越用户界限——继续改进对请求的跟踪和在范围之内的平衡。它与\"Carbon\"在\"终端-Bench 4.0\"上的出轨率相匹配, 并在我们编码出轨评价(任何Gemini4模型中的最低率)上只取了2.45%的任务的快捷方式.也取得了0.09%的错位行动率 在我们的代理安全套间 和99.2%的通过率 在我们的代理诚实评估。在我们的代理行为评估,Neon基于Carbon的强大基线,将服务不足进一步减少43-56%,将不同努力水平的超标率降低15-35%。",
       "en": "Advancing alignment and disciplined model behavior: In internal coding use, alert rates from our chain-of-thought and action misalignment monitor remained below the already low baselines set by Carbon, suggesting improved alignment propensity for Neon — and that same monitor is deployed to protect Neon across external surfaces. Neon is trained to complete multi-step work without cutting corners, fabricating results, or overstepping user boundaries — continuing to improve the balance between following through on requests and staying within scope. It matched Carbon with 0.0% cheating on Terminal-Bench 4.0 and took shortcuts on just 2.45% of tasks on our coding cheating evaluation (the lowest rate of any Gemini 4 model). It also achieved a 0.09% misaligned action rate on our agentic safety suite and a 99.2% pass rate on our agent honesty evaluation. On our agentic behavior evaluation, Neon builds on Carbon’s strong baseline by further reducing under-service by 43%–56% and overreach by 15%–35% across different effort levels."
     },
     {
       "kind": "list",
       "text": "Protecting users from indirect prompt injection attacks: On Gray Swan's IPI benchmark, Neon is more resilient than other models in its class when malicious instructions are planted in the web pages, emails, documents, or code it accesses. We found that with real-time safeguards at its highest thinking level, Neon resisted every attack within this Gray Swan benchmark, matching the 0.0% attack success rate reached only by other Gemini models.",
       "id": "p31",
-      "zh": "保护使用者免受间接即时注射攻击:根据Gray Swan的IPI基准,尼翁比其类中其他模型更具有韧性 当恶意指令被植入网页时,电子邮件,文档,或密码它访问。我们发现,在最高思维水平的实时保障下,尼翁在这个灰天鹅基准范围内抵抗了每一次攻击,匹配只有其他Gemini模型达到的 0.0 % 攻击成功率 。",
+      "zh": "保护使用者免受间接即时注射攻击:根据Gray Swan的IPI基准,尼翁比其类中的其他模型更有韧性 当恶意指令被植入网页时,电子邮件,文档,或密码它访问。我们发现,在最高思维水平的实时保障下,尼昂在这个灰天鹅基准范围内抵抗了每一次攻击,匹配仅由其他Gemini模型达到的 0.0 % 攻击成功率 。",
       "en": "Protecting users from indirect prompt injection attacks: On Gray Swan's IPI benchmark, Neon is more resilient than other models in its class when malicious instructions are planted in the web pages, emails, documents, or code it accesses. We found that with real-time safeguards at its highest thinking level, Neon resisted every attack within this Gray Swan benchmark, matching the 0.0% attack success rate reached only by other Gemini models."
     },
     {
       "kind": "paragraph",
       "text": "For more details, see the Gemini 4 Neon model card.",
       "id": "p32",
-      "zh": "更多细节参见Gemini4Neon模型卡.",
+      "zh": "更多细节参见\"Gemini4\"\"霓虹\"模型卡.",
       "en": "For more details, see the Gemini 4 Neon model card."
     },
     {
       "kind": "heading",
       "text": "Built for deeper analysis",
       "id": "p33",
-      "zh": "用于更深入的分析",
+      "zh": "为进行更深入的分析而建造",
       "en": "Built for deeper analysis"
     },
     {
       "kind": "paragraph",
       "text": "In the Gemini app, Gemini 4 Neon excels at work that requires frontier-level reasoning and fast responses.",
       "id": "p34",
-      "zh": "在Gemini应用中,Gemini4 Neon在工作上表现优异,需要前沿推理和快速反应.",
+      "zh": "在Gemini应用中,Gemini4 Neon在工作上表现优异,需要前沿推理和快速响应.",
       "en": "In the Gemini app, Gemini 4 Neon excels at work that requires frontier-level reasoning and fast responses."
     },
     {
       "kind": "list",
       "text": "Higher-quality writing and knowledge work: Neon writes clearly, with well-structured responses and a natural, direct tone. It reads uploads like spreadsheets, PDFs, and photos more precisely, turns dense material into helpful reports and summaries, and pulls in relevant details from Google apps like Gmail and Docs.",
       "id": "p35",
-      "zh": "高质量的写作和知识工作:尼翁写得很清楚以有条理的反应和自然的、直接的语气。它读上传像电子表格,PDFs, , , 互联网档案馆的存檔,存档日期2008-09-02.更确切地说,将大量材料变成有益的报告和摘要,并且从Google的应用软件如Gmail和Docs中提取相关细节.",
+      "zh": "高质量的写作和知识工作:尼翁写得很清楚和自然而然的反应,直接的语气。它读取上传 像电子表格,个人防护装置,更确切地说,将大量材料变成有用的报告和摘要,并且从Google的应用软件如Gmail和Docs中提取相关细节.",
       "en": "Higher-quality writing and knowledge work: Neon writes clearly, with well-structured responses and a natural, direct tone. It reads uploads like spreadsheets, PDFs, and photos more precisely, turns dense material into helpful reports and summaries, and pulls in relevant details from Google apps like Gmail and Docs."
     },
     {
       "kind": "list",
       "text": "Reliable research and analysis: Neon frequently incorporates details from sources across the web to keep responses current for fast-moving topics like comparing pricing across vendors before a major purchase or pulling together a complex brief with the latest market data.",
       "id": "p36",
-      "zh": "可靠的研究和分析:Neon经常纳入来自整个网络来源的详情,以保持对快速移动专题的响应,例如在大宗采购之前比较各供应商的定价,或收集最新市场数据的复杂简报。",
+      "zh": "可靠的研究和分析:Neon经常纳入来自整个网络来源的详情,以保持对快速移动专题的响应,如在大宗采购之前比较各供应商的定价,或收集最新市场数据的复杂简报。",
       "en": "Reliable research and analysis: Neon frequently incorporates details from sources across the web to keep responses current for fast-moving topics like comparing pricing across vendors before a major purchase or pulling together a complex brief with the latest market data."
     },
     {
       "kind": "list",
       "text": "Faster help for tougher tasks: Tasks in Gemini can now run on Neon, working through complex, multi-step jobs more quickly and efficiently than with larger models. Get more done while stretching usage limits further when handing off tedious to-dos, like analyzing billing statements to spot why a utility charge spiked or cross-checking multiple receipts and documents to negotiate a refund.",
       "id": "p37",
-      "zh": "更快地帮助完成更艰巨的任务 :Gemini的任务现在可以运行在尼永上,工作在复杂的,与更大的模型相比,多步骤的工作更快、效率更高。在延长使用限制的同时 做更多的工作 当交接乏味的待办事宜,譬如分析账单 找出为什么公用事业费 猛增或交叉检查 多个收据和文件 谈判退款。",
+      "zh": "更快地帮助完成更艰巨的任务 :Gemini的任务现在可以运行在尼昂上,工作在复杂的,多步骤工作比较大的模型更快、更有效率。做更多的工作,同时 伸展使用限制 更进一步,当交接 乏味的待办,譬如分析账单 找出为什么公用事业费 猛增或交叉检查多张收据和文件 以谈判退款。",
       "en": "Faster help for tougher tasks: Tasks in Gemini can now run on Neon, working through complex, multi-step jobs more quickly and efficiently than with larger models. Get more done while stretching usage limits further when handing off tedious to-dos, like analyzing billing statements to spot why a utility charge spiked or cross-checking multiple receipts and documents to negotiate a refund."
     },
     {
@@ -281,7 +281,7 @@
       "kind": "paragraph",
       "text": "Neon is built for complex coding, analytical reasoning, and production-grade enterprise workflows. While Carbon tackles your hardest, long-horizon projects and Hydrogen handles fast everyday execution, Neon balances depth and efficiency. Neon delivers frontier-level reasoning for complex, high-frequency workflows faster and more cost efficiently.",
       "id": "p39",
-      "zh": "尼翁是为复杂的编码而建造的,分析推理,和生产级企业工作流程。虽然碳解决你最难,长视线项目和氢能 处理快速的日常执行,霓虹能平衡深度和效率.尼翁为复杂 提供了前沿的推理高频工作流程速度更快,成本效率更高.",
+      "zh": "霓虹是用来做复杂编码的分析推理,和生产级企业工作流程。虽然碳 解决你最难,长视线项目和氢能日常快速执行,霓虹能平衡深度和效率.霓虹能为复杂工作提供前沿推理高频工作流程更快,成本效率更高.",
       "en": "Neon is built for complex coding, analytical reasoning, and production-grade enterprise workflows. While Carbon tackles your hardest, long-horizon projects and Hydrogen handles fast everyday execution, Neon balances depth and efficiency. Neon delivers frontier-level reasoning for complex, high-frequency workflows faster and more cost efficiently."
     },
     {
@@ -302,21 +302,21 @@
       "kind": "list",
       "text": "For developers: Build with the Gemini API paid tier in Google AI Studio and Android Studio, if you’re a paid Google AI Pro or Ultra subscriber, you can try Neon in Google Antigravity and all Pro and Ultra subscribers can try it in AI Studio.",
       "id": "p42",
-      "zh": "对于开发者:在Google AI Studio和Android Studio中与GeminiAPI共同构建付费级,如果你是Google AI Pro 或 Ultra 订阅者,你可以在Google Antigravity中尝试Neon,所有Pro和Ultra的订阅者都可以在AI Studio中尝试.",
+      "zh": "对于开发者:在Google AI Studio和Android Studio中与GeminiAPI建立付费等级,如果你是Google AI Pro或Ultra订阅者,你可以在Google Antigravity中尝试Neon,所有Pro和Ultra的订阅者都可以在AI Studio中尝试.",
       "en": "For developers: Build with the Gemini API paid tier in Google AI Studio and Android Studio, if you’re a paid Google AI Pro or Ultra subscriber, you can try Neon in Google Antigravity and all Pro and Ultra subscribers can try it in AI Studio."
     },
     {
       "kind": "list",
       "text": "For enterprises: Use Gemini 4 Neon in Gemini for business (via the API or model drop-down) and Google Antigravity.",
       "id": "p43",
-      "zh": "对于企业:在Gemini使用Gemini4 Neon进行商务(通过API或模型降级)和Google Antigravity.",
+      "zh": "对于企业:在Gemini使用Gemini4 Neon进行商务(通过API或模型倒地)和Google Antigravity.",
       "en": "For enterprises: Use Gemini 4 Neon in Gemini for business (via the API or model drop-down) and Google Antigravity."
     },
     {
       "kind": "list",
       "text": "For consumers: If you’re a Google AI Pro or Ultra subscriber, you can select Gemini 4 Neon from the model drop-down in the Gemini app.",
       "id": "p44",
-      "zh": "对于消费者:如果你是Google AI Pro或Ultra的订阅者,您可以从Gemini应用程序的模型滴入中选择Gemini4 Neon.",
+      "zh": "对于消费者:如果你是Google AI Pro或Ultra用户,您可以从Gemini应用程序的模型滴入中选择Gemini4 Neon.",
       "en": "For consumers: If you’re a Google AI Pro or Ultra subscriber, you can select Gemini 4 Neon from the model drop-down in the Gemini app."
     },
     {
@@ -330,26 +330,27 @@
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "今天,我们...我们正在引入Gemini4 Neon —— 将前沿级情报与快速的端到端任务完成 跨越复杂的软件工程,知识工作,和科学工作流程。",
+      "zh": "今天,我们...我们正在引入Gemini4 Neon —— 将前沿情报带入复杂的软件工程中, 快速完成端到端任务,知识工作,和科学工作流程。",
       "en": "Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows."
     },
     {
       "paragraphId": "p4",
-      "zh": "Gemini4 Neon今天在Google AI Studio的GeminiAPI推出,Gemini商业(通过API和模型降级),在Google Antigravity中付费的Google AI Pro和Ultra用户,以及Gemini应用程序中的Pro和Ultra用户。",
+      "zh": "Gemini4 Neon今天在Google AI Studio的GeminiAPI推出,Gemini商业(通过API和模型倒地),给Google AI Pro和Ultra的付费用户提供Google Antigravity,以及双子星应用软件中的Pro和Ultra用户。",
       "en": "Gemini 4 Neon is rolling out today in the Gemini API in Google AI Studio, Gemini for business (via API and model dropdown), for paid Google AI Pro and Ultra subscribers in Google Antigravity, and for Pro and Ultra subscribers in the Gemini app."
     },
     {
       "paragraphId": "p6",
-      "zh": "企业在电子表格中工作,PDFs, , , 互联网档案馆的存檔,存档日期2008-09-02.图表,音频,和视频。Neon可以在一个100万托肯的单一上下文窗口中合成所有这些投入,并将投入转化为结构化的交付品.独立评价将尼昂列为顶级模型之一,并依据瓦尔斯指数等基准,它排名第2位(70.9%),并在法律研究组和税务代理组达到第1位。",
+      "zh": "企业在电子表格中工作,个人防护装置,图表,音频,和视频Neon可以将所有这些投入合成一个100万托肯的单一上下文窗口,并将投入转化为结构化的可交付成果.独立评价将尼昂列为顶级模型之一,并依据瓦尔斯指数等基准,排名第2位(70.9%),在法律研究座席和税务代理座席上达到第1位。",
       "en": "Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables."
     },
     {
       "paragraphId": "p14",
-      "zh": "使用/swarm 在谷歌反重力,Gemini4 Neon拉出档案照片 重现Alan Turing在国王学院1936年的研究,剑桥互动3D——从国王礼拜堂到里面的X.8室,他的桌子上有一台通用图灵机",
+      "zh": "使用/swarm在谷歌反重力,Gemini4 Neon拉出档案照片 重现Alan Turing1936年在King's College的研究,剑桥互动3D——从国王礼拜堂外到里面的X.8室,他的办公桌上有一台实用的通用图灵机",
       "en": "Using /swarm in Google Antigravity, Gemini 4 Neon pulled archival photos to recreate Alan Turing’s 1936 study at King’s College, Cambridge in interactive 3D — from King’s Chapel outside to Room X.8 inside, complete with a working Universal Turing Machine running on his desk."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
-  "contentHash": "c4b2b2247c921e0c99d7637a4390f59d7fbfe262558752191461e3ce8935958a"
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "64839ebf29c5b9de3435936dea76dfbfc8bf4fadf40ceafe57dcd1d88d92d3e3"
 }

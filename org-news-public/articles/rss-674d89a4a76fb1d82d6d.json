@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
   "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
   "status": "ready",
-  "attemptedAt": "2026-11-16T22:56:59.980822+00:00",
+  "attemptedAt": "2026-11-19T11:00:30.381747+00:00",
   "fetchedAt": "2026-11-16T22:57:03.435244+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
   "language": "en",
@@ -84,6 +84,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "233a983e502a3fd783c2910552bbf5ed69548acb7baf7f733a0e9b0de288a5b9"
 }

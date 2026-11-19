@@ -4,7 +4,7 @@
   "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
   "sourceTitle": "New Ask Maps features to help with holiday travel and prep",
   "status": "ready",
-  "attemptedAt": "2026-11-16T17:23:36.449967+00:00",
+  "attemptedAt": "2026-11-19T11:00:26.856619+00:00",
   "fetchedAt": "2026-11-16T17:23:38.679460+00:00",
   "finalURL": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
   "language": "en",
@@ -15,56 +15,56 @@
       "kind": "paragraph",
       "text": "The holidays are a busy time between shopping for gifts, planning travel, and celebrating with loved ones. To help you stay one step ahead this season, we’re launching new Ask Maps features that make it easy to create itineraries, find available appointments, and search your lists in a snap so you can enjoy stress-free festivities.",
       "id": "p1",
-      "zh": "节日是忙于买礼物的计划旅行,和爱人一起庆祝为了帮助你在本赛季领先一步我们正在推出新的Ask Maps功能,寻找可用的任命,并快速搜索你的名单 这样你就可以享受无压力的庆典。",
+      "zh": "节日是繁忙的时间 购买礼物,规划旅行,与所爱的人一起庆祝。为了帮助你在本赛季领先一步我们推出新的“问地图”功能,找到可用的任命,并快速搜索你的列表 这样你就可以享受无压力的庆典。",
       "en": "The holidays are a busy time between shopping for gifts, planning travel, and celebrating with loved ones. To help you stay one step ahead this season, we’re launching new Ask Maps features that make it easy to create itineraries, find available appointments, and search your lists in a snap so you can enjoy stress-free festivities."
     },
     {
       "kind": "heading",
       "text": "Get on-the-go help with your holiday road trips",
       "id": "p2",
-      "zh": "去帮你的假日路途旅行",
+      "zh": "去帮帮忙去度假路上旅行吧",
       "en": "Get on-the-go help with your holiday road trips"
     },
     {
       "kind": "paragraph",
       "text": "Now you can build step-by-step trip itineraries and get helpful, real-time details about your route right when you pull up directions.",
       "id": "p3",
-      "zh": "现在你可以逐步建立旅行路线 并获得帮助,当你拉出方向时,实时详细介绍你的路线。",
+      "zh": "现在你可以一步一步的建立出行路线 并获得帮助,当你拉出方向时 有关路线的实时细节",
       "en": "Now you can build step-by-step trip itineraries and get helpful, real-time details about your route right when you pull up directions."
     },
     {
       "kind": "paragraph",
       "text": "Use Ask Maps to plan a day trip for holiday shopping or something more complex — like a three-day road trip with stops for coastal hikes and oceanfront dining. You'll get a day-by-day schedule with insider tips and numbered map pins for each stop, making it easy to visualize the plan. Once you're happy with the itinerary, share it with friends and family, or export it to Google Docs on desktop.",
       "id": "p4",
-      "zh": "使用Ask Maps来规划一天的游览,用于节假日购物或更复杂的事情——比如为期三天的路途旅行,并有停靠的海岸远足和海滨餐饮.你会得到一个日复一日的时间表 有内幕提示 和编号的地图针 每站,让计划容易被想象出来一旦你对行程很满意与朋友和家人分享,或将其导出到桌面上的 Google Docs 。",
+      "zh": "使用Ask Maps来规划一天的旅游,用于节假日购物或更复杂的事情——比如为期三天的路行,有停靠站的海岸出行和海滨餐厅.你会得到一个日复一日的日程安排 内线提示 和编号的地图针 每站,让计划容易被想象出来一旦你对行程很满意与朋友和家人分享,或导出到桌面上的 Google Docs 。",
       "en": "Use Ask Maps to plan a day trip for holiday shopping or something more complex — like a three-day road trip with stops for coastal hikes and oceanfront dining. You'll get a day-by-day schedule with insider tips and numbered map pins for each stop, making it easy to visualize the plan. Once you're happy with the itinerary, share it with friends and family, or export it to Google Docs on desktop."
     },
     {
       "kind": "paragraph",
       "text": "When you’re about to head out, use Ask Maps to pull up your itinerary or look for the “itinerary” badge in your chat history. You’ll see real-time details like live traffic conditions, whether a place is open, and even what the vibe is at your next stop. You can also adjust your schedule on the fly. Just use Ask Maps to add a scenic viewpoint or lunch spot along the way. Then, tap to get directions to your next stop right from your itinerary.",
       "id": "p5",
-      "zh": "当你即将出发时,请使用 Maps 来绘制您的行程或寻找您聊天史上的“ 临时” 徽章 。你会看到现场交通状况等实时细节,无论一个地方是开放的,甚至是你下一站的氛围也可以调整飞行时刻表.只需使用“地图”来添加一路上的风景或午餐点。礛以便从行程中找到下一站的方向。",
+      "zh": "当你即将出发时,使用 Maps 来拉近行程或寻找聊天史上的“itnerary”徽章 。你会看到现场交通状况等实时细节,不论一个地方是开放的,甚至是你下一站的氛围也可以调整飞行时的行程.只需使用地图来添加一个风景景观或者沿途的午餐点.接下来以获取方向 到你的下一站 从你的行程。",
       "en": "When you’re about to head out, use Ask Maps to pull up your itinerary or look for the “itinerary” badge in your chat history. You’ll see real-time details like live traffic conditions, whether a place is open, and even what the vibe is at your next stop. You can also adjust your schedule on the fly. Just use Ask Maps to add a scenic viewpoint or lunch spot along the way. Then, tap to get directions to your next stop right from your itinerary."
     },
     {
       "kind": "paragraph",
       "text": "Whether you're taking a multi-day road trip or running errands around town, Maps keeps you a step ahead. Pull up directions to see helpful “Know before you go” tips about your route, including where to park or charge your car, and real-time conditions like weather, potential delays, and tolls.",
       "id": "p6",
-      "zh": "不管是多日的路途旅行 还是跑来跑去地图让你向前迈一步调出方向,看看有用的“在走之前知道”关于你路线的提示,包括停在哪里或充电你的车,以及天气等实时条件,潜在的拖延,和收费。",
+      "zh": "无论你走多日的路 或者在镇上跑跑跑地图让你领先一步调出方向,看看有用的“在走之前知道”关于你路线的提示,包括停在哪里或充电你的车,以及天气等实时条件,潜在的拖延,和通行费。",
       "en": "Whether you're taking a multi-day road trip or running errands around town, Maps keeps you a step ahead. Pull up directions to see helpful “Know before you go” tips about your route, including where to park or charge your car, and real-time conditions like weather, potential delays, and tolls."
     },
     {
       "kind": "heading",
       "text": "Check off your holiday prep and let Maps find appointments for you",
       "id": "p7",
-      "zh": "检查一下你的假期准备情况 让马普斯给你安排时间",
+      "zh": "检查一下你的假期准备情况 让地图为您找到预约",
       "en": "Check off your holiday prep and let Maps find appointments for you"
     },
     {
       "kind": "paragraph",
       "text": "Holiday prep comes with a long list of to-dos. Now, with new agentic capabilities, you can choose to have Ask Maps find beauty, pet care, auto and home repair appointments online and call local businesses for you. Just ask, “Find me a 4 p.m. nail appointment near me.” Ask Maps will show you open slots across nearby businesses so it’s easy to decide what to book.",
       "id": "p8",
-      "zh": "假日准备会带一个长长的待办事宜列表.现在,具有新的代理能力,你可以选择让地图找到美宠物关怀,网上自动修理和家用修理预约 并给当地企业打电话只是问,“找到一个下午4时。问地图会显示您在附近的企业间打开空位,",
+      "zh": "假日预告会包含一长串待办事宜.现在拥有新的代理能力,你可以选择让地图找到美宠物关怀,网上的汽车和家用修理预约 并给本地企业打电话只是问,“找到一个下午4时。问地图会显示你们在附近企业间打开的空档,",
       "en": "Holiday prep comes with a long list of to-dos. Now, with new agentic capabilities, you can choose to have Ask Maps find beauty, pet care, auto and home repair appointments online and call local businesses for you. Just ask, “Find me a 4 p.m. nail appointment near me.” Ask Maps will show you open slots across nearby businesses so it’s easy to decide what to book."
     },
     {
@@ -78,47 +78,48 @@
       "kind": "paragraph",
       "text": "If you have friends visiting and want to show them around, now you can use Ask Maps to find saved places on your lists in seconds. Just ask, “Which spots saved in my lists have availability for five people in the next 30 minutes?” Ask Maps looks across your lists and checks live availability so you can pick a place and go.",
       "id": "p10",
-      "zh": "如果你有朋友来看望 想带他们四处转转现在您可以使用 Ask Maps 在您的列表中找到保存的位置 。只是问,“我名单中保存的哪些斑点可以在未来30分钟内供5个人使用?”开始吧",
+      "zh": "如果你有朋友来看望 想带他们四处转转现在您可以使用 Ask Maps 在您的列表中找到保存的位置 。只是问,“我名单中保存的哪些斑点在未来30分钟内可以供5个人使用? ” 问地图查看你的名单,并检查是否有现场可用,以便你选择一个地点,开始吧",
       "en": "If you have friends visiting and want to show them around, now you can use Ask Maps to find saved places on your lists in seconds. Just ask, “Which spots saved in my lists have availability for five people in the next 30 minutes?” Ask Maps looks across your lists and checks live availability so you can pick a place and go."
     },
     {
       "kind": "paragraph",
       "text": "These updates start rolling out today on Android and iOS just in time for the holidays. As part of today’s news, Ask Maps starts expanding to 30 countries across Europe — including Spain, Germany, and the U.K. — bringing Ask Maps to more than 200 countries and territories globally.",
       "id": "p11",
-      "zh": "这些更新从今天开始在Android和iOS上推出,正好赶上节假日.作为今天新闻的一部分,Ask Maps开始扩展到欧洲30个国家——包括西班牙,德国,和英国。——把Ask Maps带到全球200多个国家和地区.",
+      "zh": "这些更新今天开始在Android和iOS上推出,正好赶上了节假日.作为今天新闻的一部分,Ask Maps开始扩展到整个欧洲的30个国家——包括西班牙,德国和英国。——把Ask Maps带到全球200多个国家和地区.",
       "en": "These updates start rolling out today on Android and iOS just in time for the holidays. As part of today’s news, Ask Maps starts expanding to 30 countries across Europe — including Spain, Germany, and the U.K. — bringing Ask Maps to more than 200 countries and territories globally."
     },
     {
       "kind": "paragraph",
       "text": "Travel itineraries and list search are available everywhere Ask Maps is offered. \"Know before you go\" route tips and finding appointments are launching first in the U.S., with more regions coming soon.",
       "id": "p12",
-      "zh": "Ask Maps提供旅行路线和名单查询。\"你走之前知道\" 路线提示 和寻找预约 在美国首先启动,更多的地区即将来临。",
+      "zh": "Ask Maps 提供旅行行程和名单查询。\"你走之前知道\" 路线提示 和寻找预约 在美国首先启动,更多地区即将到来。",
       "en": "Travel itineraries and list search are available everywhere Ask Maps is offered. \"Know before you go\" route tips and finding appointments are launching first in the U.S., with more regions coming soon."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "节日是忙于买礼物的计划旅行,和爱人一起庆祝为了帮助你在本赛季领先一步我们正在推出新的Ask Maps功能,寻找可用的任命,并快速搜索你的名单 这样你就可以享受无压力的庆典。",
+      "zh": "节日是繁忙的时间 购买礼物,规划旅行,与所爱的人一起庆祝。为了帮助你在本赛季领先一步我们推出新的“问地图”功能,找到可用的任命,并快速搜索你的列表 这样你就可以享受无压力的庆典。",
       "en": "The holidays are a busy time between shopping for gifts, planning travel, and celebrating with loved ones. To help you stay one step ahead this season, we’re launching new Ask Maps features that make it easy to create itineraries, find available appointments, and search your lists in a snap so you can enjoy stress-free festivities."
     },
     {
       "paragraphId": "p4",
-      "zh": "使用Ask Maps来规划一天的游览,用于节假日购物或更复杂的事情——比如为期三天的路途旅行,并有停靠的海岸远足和海滨餐饮.你会得到一个日复一日的时间表 有内幕提示 和编号的地图针 每站,让计划容易被想象出来一旦你对行程很满意与朋友和家人分享,或将其导出到桌面上的 Google Docs 。",
+      "zh": "使用Ask Maps来规划一天的旅游,用于节假日购物或更复杂的事情——比如为期三天的路行,有停靠站的海岸出行和海滨餐厅.你会得到一个日复一日的日程安排 内线提示 和编号的地图针 每站,让计划容易被想象出来一旦你对行程很满意与朋友和家人分享,或导出到桌面上的 Google Docs 。",
       "en": "Use Ask Maps to plan a day trip for holiday shopping or something more complex — like a three-day road trip with stops for coastal hikes and oceanfront dining. You'll get a day-by-day schedule with insider tips and numbered map pins for each stop, making it easy to visualize the plan."
     },
     {
       "paragraphId": "p8",
-      "zh": "假日准备会带一个长长的待办事宜列表.现在,具有新的代理能力,你可以选择让地图找到美宠物关怀,网上自动修理和家用修理预约 并给当地企业打电话只是问,“找到一个下午4时。问地图会显示您在附近的企业间打开空位,",
+      "zh": "假日预告会包含一长串待办事宜.现在拥有新的代理能力,你可以选择让地图找到美宠物关怀,网上的汽车和家用修理预约 并给本地企业打电话只是问,“找到一个下午4时。问地图会显示你们在附近企业间打开的空档,",
       "en": "Holiday prep comes with a long list of to-dos. Now, with new agentic capabilities, you can choose to have Ask Maps find beauty, pet care, auto and home repair appointments online and call local businesses for you."
     },
     {
       "paragraphId": "p11",
-      "zh": "这些更新从今天开始在Android和iOS上推出,正好赶上节假日.作为今天新闻的一部分,Ask Maps开始扩展到欧洲30个国家——包括西班牙,德国,和英国。——把Ask Maps带到全球200多个国家和地区.",
+      "zh": "这些更新今天开始在Android和iOS上推出,正好赶上了节假日.作为今天新闻的一部分,Ask Maps开始扩展到整个欧洲的30个国家——包括西班牙,德国和英国。——把Ask Maps带到全球200多个国家和地区.",
       "en": "These updates start rolling out today on Android and iOS just in time for the holidays. As part of today’s news, Ask Maps starts expanding to 30 countries across Europe — including Spain, Germany, and the U.K. — bringing Ask Maps to more than 200 countries and territories globally."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
-  "contentHash": "df6255cddbd40a8e94e439d163982decd5718afa02c1e36297506d37db069ecb"
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "aaee8f833cda9e3a8714db832d50980a805a984a2859f7e68528ac467db35833"
 }

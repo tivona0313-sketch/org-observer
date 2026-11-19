@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
   "sourceTitle": "Connect Google Wallet to Gemini for personal finance insights",
   "status": "ready",
-  "attemptedAt": "2026-11-13T17:03:47.068496+00:00",
+  "attemptedAt": "2026-11-19T11:00:30.889495+00:00",
   "fetchedAt": "2026-11-13T17:03:48.830785+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
   "language": "en",
@@ -112,6 +112,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "d7fe02d86728c2565879036c71273771f65921f05404dacf6e7cebbed52cffac"
 }

@@ -1086,5 +1086,7 @@
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
   "translation": "Argos Open Tech 1.9 / offline machine translation",
-  "contentHash": "c8ed74bb129392a563abcd9a0f0816e89d83cc824bdb5cde59c0a96edcb3595a"
+  "contentHash": "c8ed74bb129392a563abcd9a0f0816e89d83cc824bdb5cde59c0a96edcb3595a",
+  "lastAttempt": "2026-11-19T10:57:31.699305+00:00",
+  "lastError": "translation_output_limit"
 }

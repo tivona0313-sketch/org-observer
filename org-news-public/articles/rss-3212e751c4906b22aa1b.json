@@ -4,7 +4,7 @@
   "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
   "sourceTitle": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
   "status": "ready",
-  "attemptedAt": "2026-11-17T23:02:44.047602+00:00",
+  "attemptedAt": "2026-11-19T10:59:45.146799+00:00",
   "fetchedAt": "2026-11-17T23:02:49.357191+00:00",
   "finalURL": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
   "language": "en",
@@ -154,6 +154,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "b99eaac502887f5e006da6c0b1489c53a0d9beef37870fda69b56a666007b040"
 }

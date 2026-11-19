@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
   "sourceTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
   "status": "ready",
-  "attemptedAt": "2026-11-11T17:05:29.659917+00:00",
+  "attemptedAt": "2026-11-19T11:01:02.239854+00:00",
   "fetchedAt": "2026-11-11T17:05:32.254294+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
   "language": "en",
@@ -63,6 +63,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "e664cdce683de91419a36505d57886d62f5bde6fbb4de4f73934e338dc13e2b1"
 }

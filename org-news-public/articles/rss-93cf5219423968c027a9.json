@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
   "sourceTitle": "Introducing Stitch Loop: A new way to build and evolve products",
   "status": "ready",
-  "attemptedAt": "2026-11-18T17:17:06.735664+00:00",
+  "attemptedAt": "2026-11-19T10:58:18.087010+00:00",
   "fetchedAt": "2026-11-18T17:17:08.902714+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
   "language": "en",
@@ -168,6 +168,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "3fbd63e51bc7328dcda7fdda38c0b0693986a907c48b4174e7041097b4491926"
 }

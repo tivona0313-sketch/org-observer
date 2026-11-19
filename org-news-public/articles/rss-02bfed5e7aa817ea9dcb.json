@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
   "sourceTitle": "Gemini Decisions API: Fast, calibrated multimodal decisions",
   "status": "ready",
-  "attemptedAt": "2026-11-11T23:00:16.047737+00:00",
+  "attemptedAt": "2026-11-19T11:01:02.727870+00:00",
   "fetchedAt": "2026-11-11T23:00:18.239426+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
   "language": "en",
@@ -203,6 +203,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "1de82d602f15992d9b1dff1345c06ddfa18cd6ad21c6725d8c418d4c5859defc"
 }

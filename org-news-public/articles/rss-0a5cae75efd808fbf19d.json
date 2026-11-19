@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
   "sourceTitle": "Investing in Wyoming’s infrastructure, energy and workforce",
   "status": "ready",
-  "attemptedAt": "2026-11-05T17:24:24.482017+00:00",
+  "attemptedAt": "2026-11-19T11:02:00.014714+00:00",
   "fetchedAt": "2026-11-05T17:24:27.648096+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
   "language": "en",
@@ -126,6 +126,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "29180ba0a209477922812e7a421b015b0f362e511b0f8dc971d6cfae6965e266"
 }

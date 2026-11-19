@@ -4,7 +4,7 @@
   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
   "sourceTitle": "What teenagers really think about online safety and AI",
   "status": "ready",
-  "attemptedAt": "2026-11-16T11:32:37.541552+00:00",
+  "attemptedAt": "2026-11-19T10:59:59.503971+00:00",
   "fetchedAt": "2026-11-16T11:32:39.789648+00:00",
   "finalURL": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
   "language": "en",
@@ -15,89 +15,90 @@
       "kind": "paragraph",
       "text": "Read the Future Report and you meet a generation that is curious, capable and far more thoughtful about technology than we often give them credit for. Of the 6,000 UK teenagers surveyed, 77% said they always or often stop to consider whether what they find online can be trusted. That should make us optimistic, and it should inform how we think about keeping them safe.",
       "id": "p1",
-      "zh": "阅读《未来报告》 你遇见了一代好奇的人,比起我们经常给他们的功劳,我们更能思考技术在调查的6 000名联合王国青少年中,77%的人表示,他们总是或者经常停下来考虑他们在网上找到的东西是否可以信任.这应该让我们乐观,它应该告知我们如何考虑保护他们的安全。",
+      "zh": "阅读《未来报告》,你会遇到一代人,这是好奇的,比起我们常给他们的功劳,我们更能思考技术在调查的6 000名联合王国青少年中,77%的人表示,他们总是或经常停下来考虑他们在网上发现的东西是否可以被信任.这应该让我们乐观,它应该告知我们如何考虑保护他们的安全。",
       "en": "Read the Future Report and you meet a generation that is curious, capable and far more thoughtful about technology than we often give them credit for. Of the 6,000 UK teenagers surveyed, 77% said they always or often stop to consider whether what they find online can be trusted. That should make us optimistic, and it should inform how we think about keeping them safe."
     },
     {
       "kind": "paragraph",
       "text": "Too often, public debates frame young people's digital lives as problems to be solved. Screen time to cut, platforms to restrict, harms to count. The report describes teenagers who are \"digitally confident, curious and optimistic\" while staying alert to the risks. That is much closer to what we hear from parents, who know what a great generation they are raising. They have concerns, but they also see children who are creative, funny and often remarkably sensible online. If policy starts only from fear, we risk designing for the worst case and failing everyone else.",
       "id": "p2",
-      "zh": "太常见了公众辩论将青年人的数字生活视为有待解决的问题。剪下屏幕的时间,限制,伤害数。报告描述了\"数字自信的青少年,好奇和乐观\",同时保持对风险的警惕.这更接近于我们从父母那里听到的,他们知道自己所抚养的孙子是怎样的。他们有担心,他们却看见有创造力的儿童,很有趣,而且经常非常明智的在线。如果政策只从恐惧开始我们冒着为最坏的情况设计方案 并让其他人失望的风险",
+      "zh": "经常这样公众辩论将年轻人的数字生活视为有待解决的问题。剪接屏幕的时间,限制,伤害数。报告描述了\"数字自信\"的青少年,好奇而乐观\",同时保持对风险的警惕.这更接近我们从父母那里听到的,他们知道自己所抚养的孙子是怎样的。他们有顾虑,他们却看见有创造力的儿童,很有趣,而且经常非常明智的在线。如果政策只从恐惧开始我们冒着为最坏的情况设计 和失败的其他人。",
       "en": "Too often, public debates frame young people's digital lives as problems to be solved. Screen time to cut, platforms to restrict, harms to count. The report describes teenagers who are \"digitally confident, curious and optimistic\" while staying alert to the risks. That is much closer to what we hear from parents, who know what a great generation they are raising. They have concerns, but they also see children who are creative, funny and often remarkably sensible online. If policy starts only from fear, we risk designing for the worst case and failing everyone else."
     },
     {
       "kind": "paragraph",
       "text": "When we think about online safety, we usually list what we hope to prevent. The risks are real, and parents are right to want them gone. But there is a second list we rarely write down and that one includes what gets lost when we take access away. The learning, the creativity, the conversations and the confidence that come from using technology well.",
       "id": "p3",
-      "zh": "当我们想到网上安全,我们通常列出我们希望防止的。风险是真实的,父母希望他们消失是正确的。但是,有第二个清单,我们很少写下来,它包括当我们取消访问时丢失的东西。学习,创造力,对话与信心 来源于良好的技术使用。",
+      "zh": "当我们想到网上安全,我们通常会列出我们想要防止的风险是真实的,父母希望他们消失是正确的。但是,我们很少写下第二个清单,其中包含当我们取消访问时会丢失的东西。学习,创造力,对话与信心 来自于良好的使用技术。",
       "en": "When we think about online safety, we usually list what we hope to prevent. The risks are real, and parents are right to want them gone. But there is a second list we rarely write down and that one includes what gets lost when we take access away. The learning, the creativity, the conversations and the confidence that come from using technology well."
     },
     {
       "kind": "paragraph",
       "text": "Those skills need to be developed over time in age appropriate ways. Knowing to check what you're consuming online is something that is learned through practice and with support. Trying things, getting some wrong, and working out what to do differently builds resilience. You can see it grow with age. The report tells us that 52% of 16 to 18 year olds always check what they find, compared with 33% of 13 to 15 year olds.",
       "id": "p4",
-      "zh": "这些技能需要随着时间推移以适当的方式发展。了解网上消费情况是通过实践和辅助学得的.尝试一些事情,搞错了并且想出不同的方法 来增强抗御力你可以看到它随着年龄的增长。报告告诉我们,52%的 16至18岁的人 总是检查他们发现什么,13至15岁人口的比例为33%。",
+      "zh": "这些技能需要随着时间推移以适当的方式得到发展。了解如何检查你在网上消费的东西,是通过实践和得到支持而学到的东西.尝试一些东西,弄错了并且想出不同的方法 来建立抗御力你可以看到它随着年龄的增长。报告告诉我们,52%的16至18岁的人 总是检查他们发现什么,13至15岁人口的比例为33%。",
       "en": "Those skills need to be developed over time in age appropriate ways. Knowing to check what you're consuming online is something that is learned through practice and with support. Trying things, getting some wrong, and working out what to do differently builds resilience. You can see it grow with age. The report tells us that 52% of 16 to 18 year olds always check what they find, compared with 33% of 13 to 15 year olds."
     },
     {
       "kind": "paragraph",
       "text": "That learning takes place with the help, guidance, and involvement of parents and teachers Eighty-one percent of teens say they would ask a parent for help with misinformation, scams or cyberbullying, and that barely drops as they get older (83% of 13 to 15s, 79% of 16 to 18s). Teens want their parents involved with three in ten saying that parental supervision helps them get the balance right.",
       "id": "p5",
-      "zh": "学习是在帮助下进行的指导;以及家长和教师的参与 81%的青少年 说他们会向家长寻求帮助 与错误信息,骗局或网络欺凌,而随着年龄的增大,这几乎不会下降(在13到15岁的人中,83%),16到18岁占79%).孩子们希望父母参与到 十分之三中 说父母的监管 帮助他们得到平衡。",
+      "zh": "学习是在帮助下进行的,指导,以及家长和教师的参与 81%的青少年 说他们会要求父母帮助 与错误信息,骗局或网络欺负,而随着年龄的增长,这几乎不会下降(13到15岁的83%),16至18岁占79%).孩子们希望他们的父母 参与到三分之十 说父母的监管 帮助他们得到平衡。",
       "en": "That learning takes place with the help, guidance, and involvement of parents and teachers Eighty-one percent of teens say they would ask a parent for help with misinformation, scams or cyberbullying, and that barely drops as they get older (83% of 13 to 15s, 79% of 16 to 18s). Teens want their parents involved with three in ten saying that parental supervision helps them get the balance right."
     },
     {
       "kind": "paragraph",
       "text": "The same goes for AI. Two thirds of teens use it at least a couple of times a week, for creative projects (67%) or learning (65%). What's striking is how they use it. They value AI when it helps them understand, not just when it gives answers. One 15-year-old in the report said she needs to know \"how it's been worked out\" for her schoolwork. That is exactly the instinct parents and educators want to develop.",
       "id": "p6",
-      "zh": "AI也一样.三分之二的青少年每周至少使用几次创造性项目(67%)或学习(65%)。令人惊讶的是他们如何使用它。他们珍视AI,当它帮助他们理解,不仅仅是当它给出答案。报告中一名15岁的孩子表示,她需要知道\"是如何解决的\",为她的学校工作.这正是父母和教育工作者想要发展的本能。",
+      "zh": "AI也一样.三分之二的青少年每周至少使用几次,创新项目(67%)或学习(65%)。令人惊讶的是他们如何使用它。他们珍视AI,当它帮助他们理解,不只是当它给出答案。报告中一名15岁的孩子说她需要知道\"如何解决\"的学校工作.这正是父母和教育工作者想要发展的本能。",
       "en": "The same goes for AI. Two thirds of teens use it at least a couple of times a week, for creative projects (67%) or learning (65%). What's striking is how they use it. They value AI when it helps them understand, not just when it gives answers. One 15-year-old in the report said she needs to know \"how it's been worked out\" for her schoolwork. That is exactly the instinct parents and educators want to develop."
     },
     {
       "kind": "paragraph",
       "text": "If we can, the opportunities are incredible. Older teens are already using AI to learn a language (20%), teach themselves to code (19%) and prepare for job applications (17%). This is a generation using technology to stretch themselves, and as an organisation dedicated to improving outcomes for children that’s exciting to read.",
       "id": "p7",
-      "zh": "如果可以的话机会是不可思议的。老年青少年已经在使用人工智能学习一种语言(20%),教自己如何编码(19%)和准备工作申请(17%)。这是一代人利用技术来伸展自己,作为致力于改善儿童阅读成果的组织。",
+      "zh": "如果我们可以的话,机会是不可思议的。年龄较大的青少年已经在使用人工智能学习一种语言(20%),教自己如何编码(19%)和准备工作申请(17%)。这代人利用技术来伸展自我作为致力于改善儿童阅读成果的组织。",
       "en": "If we can, the opportunities are incredible. Older teens are already using AI to learn a language (20%), teach themselves to code (19%) and prepare for job applications (17%). This is a generation using technology to stretch themselves, and as an organisation dedicated to improving outcomes for children that’s exciting to read."
     },
     {
       "kind": "paragraph",
       "text": "There is clearly more work to be done. The report is honest about the gap teenagers perceive. Twenty-six percent of older teens worry their parents can't recognise AI or fake content. Parents need to be brought on the journey to an AI enabled world alongside everyone else. They need platforms that are safe by design, the confidence to respond calmly when things go wrong, and the chance to learn about AI alongside their children.",
       "id": "p8",
-      "zh": "显然还有更多的工作要做。报告对青少年所察觉的差距是诚实的。26%的年长青少年担心他们的父母无法识别AI或假内容.父母需要与其他人一起,前往一个有智慧的世界。他们需要设计上安全的平台,当事情出问题时 保持冷静反应的信心也有机会与孩子一起了解AI。",
+      "zh": "显然还有更多的工作要做。报告对青少年所察觉的差距是诚实的。26%的青少年担心他们的父母 无法识别AI或假内容。父母需要与其他人一起踏上AI世界的旅程。他们需要设计上安全的平台当事情出问题时 冷静应对的信心也有机会与孩子一起了解AI。",
       "en": "There is clearly more work to be done. The report is honest about the gap teenagers perceive. Twenty-six percent of older teens worry their parents can't recognise AI or fake content. Parents need to be brought on the journey to an AI enabled world alongside everyone else. They need platforms that are safe by design, the confidence to respond calmly when things go wrong, and the chance to learn about AI alongside their children."
     },
     {
       "kind": "paragraph",
       "text": "This generation is giving us real reasons to be hopeful. Our job is to make sure every child gets to build these skills, with the adults in their lives beside them.",
       "id": "p9",
-      "zh": "这代人给了我们充满希望的真正理由。我们的工作就是确保每个孩子都能掌握这些技能,与成年人在他们身边的生活。",
+      "zh": "这一代人给我们带来了充满希望的真正理由。我们的工作就是确保每个孩子都能掌握这些技能,与成年人在他们身边的生活。",
       "en": "This generation is giving us real reasons to be hopeful. Our job is to make sure every child gets to build these skills, with the adults in their lives beside them."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "阅读《未来报告》 你遇见了一代好奇的人,比起我们经常给他们的功劳,我们更能思考技术在调查的6 000名联合王国青少年中,77%的人表示,他们总是或者经常停下来考虑他们在网上找到的东西是否可以信任.这应该让我们乐观,它应该告知我们如何考虑保护他们的安全。",
+      "zh": "阅读《未来报告》,你会遇到一代人,这是好奇的,比起我们常给他们的功劳,我们更能思考技术在调查的6 000名联合王国青少年中,77%的人表示,他们总是或经常停下来考虑他们在网上发现的东西是否可以被信任.这应该让我们乐观,它应该告知我们如何考虑保护他们的安全。",
       "en": "Read the Future Report and you meet a generation that is curious, capable and far more thoughtful about technology than we often give them credit for. Of the 6,000 UK teenagers surveyed, 77% said they always or often stop to consider whether what they find online can be trusted."
     },
     {
       "paragraphId": "p3",
-      "zh": "当我们想到网上安全,我们通常列出我们希望防止的。风险是真实的,父母希望他们消失是正确的。",
+      "zh": "当我们想到网上安全,我们通常会列出我们想要防止的风险是真实的,父母希望他们消失是正确的。但是,我们很少写下第二个清单,其中包含当我们取消访问时会丢失的东西。",
       "en": "When we think about online safety, we usually list what we hope to prevent. The risks are real, and parents are right to want them gone."
     },
     {
       "paragraphId": "p4",
-      "zh": "这些技能需要随着时间推移以适当的方式发展。了解网上消费情况是通过实践和辅助学得的.尝试一些事情,搞错了并且想出不同的方法 来增强抗御力你可以看到它随着年龄的增长。",
+      "zh": "这些技能需要随着时间推移以适当的方式得到发展。了解如何检查你在网上消费的东西,是通过实践和得到支持而学到的东西.尝试一些东西,弄错了并且想出不同的方法 来建立抗御力你可以看到它随着年龄的增长。",
       "en": "Those skills need to be developed over time in age appropriate ways. Knowing to check what you're consuming online is something that is learned through practice and with support."
     },
     {
       "paragraphId": "p5",
-      "zh": "学习是在帮助下进行的指导;以及家长和教师的参与 81%的青少年 说他们会向家长寻求帮助 与错误信息,骗局或网络欺凌,而随着年龄的增大,这几乎不会下降(在13到15岁的人中,83%),16到18岁占79%).孩子们希望父母参与到 十分之三中 说父母的监管 帮助他们得到平衡。",
+      "zh": "学习是在帮助下进行的,指导,以及家长和教师的参与 81%的青少年 说他们会要求父母帮助 与错误信息,骗局或网络欺负,而随着年龄的增长,这几乎不会下降(13到15岁的83%),16至18岁占79%).孩子们希望他们的父母 参与到三分之十 说父母的监管 帮助他们得到平衡。",
       "en": "That learning takes place with the help, guidance, and involvement of parents and teachers Eighty-one percent of teens say they would ask a parent for help with misinformation, scams or cyberbullying, and that barely drops as they get older (83% of 13 to 15s, 79% of 16 to 18s). Teens want their parents involved with three in ten saying that parental supervision helps them get the balance right."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
-  "contentHash": "2f7084272850fe5bc5241e999299d3b33646bfccd7cec3ac8632dd3ed8ed5e4f"
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "9a3981f49ba1a0170afd0dcbd559e689d6ff239da2c11c732ffa3b81d6d5a0dc"
 }

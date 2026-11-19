@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
   "sourceTitle": "Talk it through with Gemini, now on Apple CarPlay",
   "status": "ready",
-  "attemptedAt": "2026-11-11T23:00:16.048473+00:00",
+  "attemptedAt": "2026-11-19T11:01:04.600606+00:00",
   "fetchedAt": "2026-11-11T23:00:18.245752+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
   "language": "en",
@@ -175,6 +175,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "3291f0e4c2493b9eae17cc96e6b50960af3524a874a939afbc1473f299be3941"
 }

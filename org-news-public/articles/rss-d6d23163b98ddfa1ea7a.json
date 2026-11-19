@@ -4,7 +4,7 @@
   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
   "sourceTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
   "status": "ready",
-  "attemptedAt": "2026-11-12T22:56:28.630005+00:00",
+  "attemptedAt": "2026-11-19T11:00:50.467957+00:00",
   "fetchedAt": "2026-11-12T22:56:31.700679+00:00",
   "finalURL": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
   "language": "en",
@@ -84,6 +84,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "795e7d1b4694c193d82e0e1dca40d811cab7b3737b0a16f44ca27b56178d3879"
 }

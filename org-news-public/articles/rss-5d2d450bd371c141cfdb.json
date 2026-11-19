@@ -4,7 +4,7 @@
   "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
   "sourceTitle": "Ask Maps is coming to Europe.",
   "status": "ready",
-  "attemptedAt": "2026-11-16T17:23:40.913265+00:00",
+  "attemptedAt": "2026-11-19T11:00:26.944617+00:00",
   "fetchedAt": "2026-11-16T17:23:42.630260+00:00",
   "finalURL": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
   "language": "en",
@@ -15,35 +15,35 @@
       "kind": "paragraph",
       "text": "Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map couldn't before. Now, Ask Maps is expanding to 30+ countries across Europe.",
       "id": "p1",
-      "zh": "Ask Maps是Google Maps十多年来最大的更新.以世界上最新鲜的地图和Gemini模型为动力,它回答复杂,现实世界质疑地图之前不可能现在,Ask Maps正在扩展到全欧洲30多个国家.",
+      "zh": "Ask Maps是Google Maps十多年来最大的更新.以世界上最新鲜的地图和Gemini模型为动力,它回答复杂,现实世界质疑地图之前不可能现在Ask Maps正在扩展到全欧洲30多个国家.",
       "en": "Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map couldn't before. Now, Ask Maps is expanding to 30+ countries across Europe."
     },
     {
       "kind": "paragraph",
       "text": "With information about over 300 million places, including reviews from more than 500 million contributors, Ask Maps is personalised to you and makes it easy to turn plans into action. Try:",
       "id": "p2",
-      "zh": "有超过3亿个地方的信息,包括5亿多捐助方的审查,问地图对你们来说是个性化的 很容易把计划变成行动尝试 :",
+      "zh": "有了3亿多个地方的信息,包括5亿多捐助方的审查,问地图是个性化的 很容易把计划变成行动尝试 :",
       "en": "With information about over 300 million places, including reviews from more than 500 million contributors, Ask Maps is personalised to you and makes it easy to turn plans into action. Try:"
     },
     {
       "kind": "list",
       "text": "Asking anything about anywhere: Ask “where can I charge my phone ASAP” or “find me a public tennis court with lights for playing tonight”.",
       "id": "p3",
-      "zh": "问任何关于任何地方的事情:问“哪里可以尽快充电”或“为我找到一个有灯灯的公开网球场,供今晚播放”。",
+      "zh": "问任何关于任何地方的事情:问“哪里能尽快充电”或“为今晚的比赛找到一个有灯灯的公用网球场”。",
       "en": "Asking anything about anywhere: Ask “where can I charge my phone ASAP” or “find me a public tennis court with lights for playing tonight”."
     },
     {
       "kind": "list",
       "text": "Letting Ask Maps be your on-the-go companion: Create a trip itinerary, complete with “Know Before You Go” insider tips and real-time info about the weather and parking for each stop.",
       "id": "p4",
-      "zh": "让《地图》成为你的随从:创建行程 ,填写“在您出发前知道”内幕提示和每一站的天气和停车情况实时信息。",
+      "zh": "让地图成为你的随从:创建出行路线,填好“你走之前知道”内幕提示和每一站的天气和停车情况实时信息。",
       "en": "Letting Ask Maps be your on-the-go companion: Create a trip itinerary, complete with “Know Before You Go” insider tips and real-time info about the weather and parking for each stop."
     },
     {
       "kind": "list",
       "text": "Searching your lists in seconds: Skip scrolling through hundreds of saved places. Just ask “Which spots saved in my lists have availability for 5 in 30 minutes?”",
       "id": "p5",
-      "zh": "以秒数搜索您的列表 :跳过数百个保存的地方只要问一下“我名单中保存的哪些位置30分钟内有5个可用时间?”",
+      "zh": "以秒数搜索您的列表 :跳过数百个保存的地方只要问一下“我名单中保存的哪些斑点30分钟内有5个可用时间?”",
       "en": "Searching your lists in seconds: Skip scrolling through hundreds of saved places. Just ask “Which spots saved in my lists have availability for 5 in 30 minutes?”"
     },
     {
@@ -57,26 +57,27 @@
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "Ask Maps是Google Maps十多年来最大的更新.以世界上最新鲜的地图和Gemini模型为动力,它回答复杂,现实世界质疑地图之前不可能现在,Ask Maps正在扩展到全欧洲30多个国家.",
+      "zh": "Ask Maps是Google Maps十多年来最大的更新.以世界上最新鲜的地图和Gemini模型为动力,它回答复杂,现实世界质疑地图之前不可能现在Ask Maps正在扩展到全欧洲30多个国家.",
       "en": "Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map couldn't before."
     },
     {
       "paragraphId": "p2",
-      "zh": "有超过3亿个地方的信息,包括5亿多捐助方的审查,问地图对你们来说是个性化的 很容易把计划变成行动尝试 :",
+      "zh": "有了3亿多个地方的信息,包括5亿多捐助方的审查,问地图是个性化的 很容易把计划变成行动尝试 :",
       "en": "With information about over 300 million places, including reviews from more than 500 million contributors, Ask Maps is personalised to you and makes it easy to turn plans into action. Try:"
     },
     {
       "paragraphId": "p4",
-      "zh": "让《地图》成为你的随从:创建行程 ,填写“在您出发前知道”内幕提示和每一站的天气和停车情况实时信息。",
+      "zh": "让地图成为你的随从:创建出行路线,填好“你走之前知道”内幕提示和每一站的天气和停车情况实时信息。",
       "en": "Letting Ask Maps be your on-the-go companion: Create a trip itinerary, complete with “Know Before You Go” insider tips and real-time info about the weather and parking for each stop."
     },
     {
       "paragraphId": "p5",
-      "zh": "以秒数搜索您的列表 :跳过数百个保存的地方只要问一下“我名单中保存的哪些位置30分钟内有5个可用时间?”",
+      "zh": "以秒数搜索您的列表 :跳过数百个保存的地方只要问一下“我名单中保存的哪些斑点30分钟内有5个可用时间?”",
       "en": "Searching your lists in seconds: Skip scrolling through hundreds of saved places. Just ask “Which spots saved in my lists have availability for 5 in 30 minutes?”"
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
-  "contentHash": "dcffb38ad5928e9c1f5aff85de199c439a2df4879f2f3227aeb406255160089b"
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
+  "contentHash": "e1a59bda30fd1e99716ced44b6b9e87658e7f176456a238cbd27d7af11c32324"
 }

@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
   "sourceTitle": "Regional voices are rolling out in the Gemini app.",
   "status": "ready",
-  "attemptedAt": "2026-11-16T22:56:59.979837+00:00",
+  "attemptedAt": "2026-11-19T11:00:28.739324+00:00",
   "fetchedAt": "2026-11-16T22:57:03.445086+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
   "language": "en",
@@ -51,6 +51,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "1991e01b46f60d065d6fab8dc68852082cf6cc4edcd6b2dc6c1aad31eb11d2ea"
 }

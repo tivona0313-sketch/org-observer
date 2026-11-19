@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
   "sourceTitle": "Developers can now build with Google Maps Platform in AI Studio.",
   "status": "ready",
-  "attemptedAt": "2026-11-09T17:19:19.443325+00:00",
+  "attemptedAt": "2026-11-19T11:01:35.389344+00:00",
   "fetchedAt": "2026-11-09T17:19:22.148670+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
   "language": "en",
@@ -70,6 +70,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "5f6b26489e6810cccc2da178e1b4acfda15613007f85be53a6d71d64eca22cb0"
 }

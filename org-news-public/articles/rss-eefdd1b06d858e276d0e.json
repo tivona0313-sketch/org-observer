@@ -4,7 +4,7 @@
   "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
   "sourceTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
   "status": "ready",
-  "attemptedAt": "2026-11-18T17:17:06.774922+00:00",
+  "attemptedAt": "2026-11-19T10:58:28.440975+00:00",
   "fetchedAt": "2026-11-18T17:17:13.489418+00:00",
   "finalURL": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
   "language": "en",
@@ -133,6 +133,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "f69a2f47046dda31ee7ed46135c3254642de44bf56a90417caba6df90908f79d"
 }

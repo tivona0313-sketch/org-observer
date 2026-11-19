@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
   "sourceTitle": "The Gemini app is now available on lower-memory Android devices.",
   "status": "ready",
-  "attemptedAt": "2026-11-18T17:17:06.736139+00:00",
+  "attemptedAt": "2026-11-19T10:58:25.360194+00:00",
   "fetchedAt": "2026-11-18T17:17:09.229601+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
   "language": "en",
@@ -51,6 +51,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "8581d34f9151b7f5dec1af24597f38b6706f1073d5cecd782e6a17bb7b078a86"
 }

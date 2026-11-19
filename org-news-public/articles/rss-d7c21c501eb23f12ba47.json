@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
   "sourceTitle": "Introducing Gemini 4 Hydrogen",
   "status": "ready",
-  "attemptedAt": "2026-11-12T22:56:28.631200+00:00",
+  "attemptedAt": "2026-11-19T11:00:52.451104+00:00",
   "fetchedAt": "2026-11-12T22:56:32.437772+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
   "language": "en",
@@ -329,6 +329,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "9286f18162020b98e5f763a252e2fb41927cc3aa625939279c5dcf4e7e2e3d32"
 }

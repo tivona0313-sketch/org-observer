@@ -4,7 +4,7 @@
   "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
   "sourceTitle": "Scaling AI value without losing control: Lessons from Frontier Firms",
   "status": "ready",
-  "attemptedAt": "2026-11-12T17:13:48.595436+00:00",
+  "attemptedAt": "2026-11-19T11:00:40.641065+00:00",
   "fetchedAt": "2026-11-12T17:13:50.580620+00:00",
   "finalURL": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
   "language": "en",
@@ -392,6 +392,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "f75d2c0bfc81f9b12ec322ff44eedcac7bf82953b177e1d9a33341182ac96353"
 }

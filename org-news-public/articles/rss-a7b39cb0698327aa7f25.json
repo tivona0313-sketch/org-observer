@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
   "sourceTitle": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
   "status": "ready",
-  "attemptedAt": "2026-11-09T17:19:19.443763+00:00",
+  "attemptedAt": "2026-11-19T11:01:38.592220+00:00",
   "fetchedAt": "2026-11-09T17:19:21.663709+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
   "language": "en",
@@ -315,6 +315,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "8a0e03b8f52a04504717fe00846294c5f47a33a7191b73739766205662f01cd9"
 }

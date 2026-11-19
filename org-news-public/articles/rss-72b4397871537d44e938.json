@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
   "sourceTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
   "status": "ready",
-  "attemptedAt": "2026-11-11T17:05:29.658885+00:00",
+  "attemptedAt": "2026-11-19T11:00:59.025408+00:00",
   "fetchedAt": "2026-11-11T17:05:32.252440+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
   "language": "en",
@@ -77,6 +77,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "453cb93afe5edadddb7d57c91b2439db25f7dbe5978a88224f5327849b35650e"
 }

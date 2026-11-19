@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
   "sourceTitle": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
   "status": "ready",
-  "attemptedAt": "2026-11-12T22:56:28.630779+00:00",
+  "attemptedAt": "2026-11-19T11:00:51.553129+00:00",
   "fetchedAt": "2026-11-12T22:56:32.244729+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
   "language": "en",
@@ -63,6 +63,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "a91e5e3b66107d9ad06115e4636e5127f13d30c226abed24c2c772954ee63db8"
 }

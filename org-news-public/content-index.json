@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T05:16:59.278577+00:00",
+  "updatedAt": "2026-11-19T11:03:41.681209+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
       "sourceTitle": "微软：AI 转型应从业务结果出发，连接人、组织知识与智能体治理",
-      "contentHash": "2b3c73fe3842ee4a1291bea0cd6ee88dff4e62d76657eda5c96011c918639e19",
+      "contentHash": "f7629865d3514e8e0ee5811050029dc8d732ad18bc876e124368e711b1ddda09",
       "fetchedAt": "2026-11-05T11:28:17.050015+00:00"
     },
     "anthropic-academy-2026": {
       "status": "ready",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
       "sourceTitle": "Anthropic 推出 Frontier Academy：围绕真实业务项目培养 AI 工程人才",
-      "contentHash": "ba01c3a8a326a6009a0e1bb882a62e55162ff1a620c3ec2bb8868e1e769ed8e8",
+      "contentHash": "4b3fc98606a1638c68adea2d74f4c85a6442d6a961faa59cfd632108568bf4a6",
       "fetchedAt": "2026-11-05T11:28:16.976609+00:00"
     },
     "alibaba-ath-2026": {
       "status": "ready",
       "url": "https://www.alibabacloud.com/en/press-room/alibaba-positions-for-accelerated-ai-growth-in-sec",
       "sourceTitle": "阿里巴巴披露 ATH 事业群整合：将核心 AI 团队与产品纳入统一组织",
-      "contentHash": "b41d1d2864744b8b60ae69e94fc5e065616468b55a74105d6ce898b04bd3bd60",
+      "contentHash": "3b70e2c5ef5380df66e7dc45e317ba1405bf76c4c193b108da4f5953081e8594",
       "fetchedAt": "2026-11-05T11:28:16.767235+00:00"
     },
     "tencent-project-2026": {
@@ -34,14 +34,14 @@
       "status": "ready",
       "url": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
       "sourceTitle": "2026 工作趋势报告：员工的 AI 能力，需要组织制度接得住",
-      "contentHash": "a6481fdba9ad78acb853670acf887428f696b336dac0c4abeec6a7f01e34340f",
+      "contentHash": "b2c8c8081582bcc715771e533ecf915707593146e2532d5387482068d5c16225",
       "fetchedAt": "2026-11-05T11:28:21.210237+00:00"
     },
     "ms-copilot-2026": {
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
       "sourceTitle": "微软统一消费与商业 Copilot 组织，强化产品、平台与模型协同",
-      "contentHash": "1f7f67138e45fbeb3b960ebe0ef03a7f2aaea5b080b042391522249001e7fc6d",
+      "contentHash": "f17f47aa00edd428423e0b97d6c6fef85792d73da671dd09d4af57c65340cc7e",
       "fetchedAt": "2026-11-05T11:28:19.235473+00:00"
     },
     "anthropic-work-2025": {
@@ -55,14 +55,14 @@
       "status": "ready",
       "url": "https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction",
       "sourceTitle": "亚马逊公布企业岗位调整，将减少层级与增加责任归属列为方向",
-      "contentHash": "ce5eacd0c0587760e1b2dd584d7e2591d0fd810c1d6469d1dea55787729fbdb1",
+      "contentHash": "8282caaeb443ffb89997aa2c63e82b0cc2af4db57b03d476f560f01d479a2889",
       "fetchedAt": "2026-11-05T11:28:22.189801+00:00"
     },
     "amazon-ai-2025": {
       "status": "ready",
       "url": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-on-generative-ai",
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
-      "contentHash": "909f0ff36bdcafe06c6514b38132e7473fb0a2e5f48c33638d0a272c76bf5772",
+      "contentHash": "f2ed4e8c81b008a53f10352f68524fba7f5e40a18c72ef3af68ab9593b1c347b",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
     },
     "rss-93cf5219423968c027a9": {
@@ -96,21 +96,21 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "sourceTitle": "Introducing Gemini 4 Neon",
-      "contentHash": "c4b2b2247c921e0c99d7637a4390f59d7fbfe262558752191461e3ce8935958a",
+      "contentHash": "64839ebf29c5b9de3435936dea76dfbfc8bf4fadf40ceafe57dcd1d88d92d3e3",
       "fetchedAt": "2026-11-18T23:00:41.852192+00:00"
     },
     "rss-92196081162eff2ebc5a": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
       "sourceTitle": "Google for Mexico: Technology impact that goes beyond business",
-      "contentHash": "c1c166e85c0f4298bf17f6635945603e57e9fd926b04b6502a0be6755770c3f4",
+      "contentHash": "a52581d145722adc2214c5204a46f27ae658579be21d77f3a7a6d493b75b8668",
       "fetchedAt": "2026-11-18T23:00:41.504662+00:00"
     },
     "rss-a261d2eee241a886eda0": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
       "sourceTitle": "Genie 4 is now available",
-      "contentHash": "f3ee6359c754d0c26eab820cf2cbb86ac092f9b6879c38826da648d8d8d63600",
+      "contentHash": "44f6bffe7ac2498edaa065268bfa503a9c7a03366edc3177488f9215f0c891e8",
       "fetchedAt": "2026-11-18T23:00:41.271016+00:00"
     },
     "rss-184d931227f2504de1a3": {
@@ -147,42 +147,42 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
       "sourceTitle": "Read the EmbeddingGemma 2 technical report.",
-      "contentHash": "40755b7a0119407801c77f25782e4c1fb7130d9d8c7820d8f9583136a3ff0814",
+      "contentHash": "15f490bea936eadb4174105fcee42fecaf63f3fd1f7d3e1eb8648020d43b69d7",
       "fetchedAt": "2026-11-17T17:15:01.093404+00:00"
     },
     "rss-830da74434e8505c737e": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "sourceTitle": "Put Gemini to work for you",
-      "contentHash": "0d79d34215e9960451a9cd0592b049168839aa96b7e495fd17c8dfe166614f06",
+      "contentHash": "975b8b9523ae90be0a1bd80bc5c187a05c81019e96034fe979238b31fd30691c",
       "fetchedAt": "2026-11-17T17:15:01.144980+00:00"
     },
     "rss-759ce8d82938a49ac3d1": {
       "status": "ready",
       "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
       "sourceTitle": "10 states team up with Google on free AI training",
-      "contentHash": "5dc207559ef585da17e8a2f129ed9c8a1a6fb3002e105b5a5141f37b1632f021",
+      "contentHash": "0d238a376f8a103eacdd83f902854aec22676a5fdc5bd1714102e7f9511162b4",
       "fetchedAt": "2026-11-17T17:15:01.050572+00:00"
     },
     "rss-dbb0db3d32f06075cac7": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
       "sourceTitle": "Temporary threads are now available in AI Mode in Search.",
-      "contentHash": "3558527e2a3bf73d521756bfa6441b611a1a31ec64d7833f09bbc3f5f825fb65",
+      "contentHash": "5b0ab5fcb4e9e47cf29d7a9e9e3bd21950d8054f32ae3df2c400c4bffee6211e",
       "fetchedAt": "2026-11-17T17:15:04.419262+00:00"
     },
     "rss-3f4b299bfba49fc6f8fb": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
       "sourceTitle": "From easier entry to smarter savings, here’s what’s new in Google Home.",
-      "contentHash": "1675789f5096ef1a04c7e5be6cc93bbd264bf2b6ebbf96b70f427b3592c63180",
+      "contentHash": "8e9d39f48f137ea79d0bd9ff4a39fc039de91f22a9c6f5be5772bf5fe44f6566",
       "fetchedAt": "2026-11-17T17:15:06.229357+00:00"
     },
     "rss-ad34e4b84340ecc83794": {
       "status": "ready",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
       "sourceTitle": "Celebrate 100 years of Colonial Williamsburg online",
-      "contentHash": "7ffa2c6ac40e91ff57cc64aaf52f7406f68f65c07f0aa86184570004e03597db",
+      "contentHash": "74d085dc76ed2c73f0de7bb64c6fea0d361cce220654474bdbeef52137e344e0",
       "fetchedAt": "2026-11-17T17:15:08.296757+00:00"
     },
     "rss-3b3be741a87f5e2153e6": {
@@ -228,21 +228,21 @@
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
       "sourceTitle": "What teenagers really think about online safety and AI",
-      "contentHash": "2f7084272850fe5bc5241e999299d3b33646bfccd7cec3ac8632dd3ed8ed5e4f",
+      "contentHash": "9a3981f49ba1a0170afd0dcbd559e689d6ff239da2c11c732ffa3b81d6d5a0dc",
       "fetchedAt": "2026-11-16T11:32:39.789648+00:00"
     },
     "rss-f6eef28ccc6a25ac7229": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
       "sourceTitle": "Helping teens navigate online news and information",
-      "contentHash": "b65b476e5bdfc8e6b0dc6d197c73c93f31b1f8215b768f7825381a45de44f5b0",
+      "contentHash": "a6eb244442503aee56e918ba6b43b6813fa7da6ac271543c073f14096ff6b2b9",
       "fetchedAt": "2026-11-16T11:32:39.758615+00:00"
     },
     "rss-a1ae67980e2b25b2c86a": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
       "sourceTitle": "Listening to teens on online safety",
-      "contentHash": "62e4db22f8959c966c5bb68faa02b8deae2ac0932fc517bbf6ee442972d81cbe",
+      "contentHash": "0589a4e5cfbb042e3918f911d5334260221f385eae6b39156a11e471ab8784c1",
       "fetchedAt": "2026-11-16T11:32:39.672769+00:00"
     },
     "rss-ff7833693fa2a06713dc": {
@@ -255,35 +255,35 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
       "sourceTitle": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
-      "contentHash": "23a79b273577471eb68e977f229d3ea812b09830dd2a4c0156d18ba5cdadf218",
+      "contentHash": "a543317400044f6c2598ef5b6ee13a0498ef0dc346150c15321a4d705fcae009",
       "fetchedAt": "2026-11-16T11:32:56.437345+00:00"
     },
     "rss-d544aca72f274648c916": {
       "status": "ready",
       "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
       "sourceTitle": "New Google AdMob AI tools help app creators build, fix, and grow faster",
-      "contentHash": "9dddc46be7a9cd99305bc32f401b345fbb19d9ed453ad191d21bf811aa9f2705",
+      "contentHash": "f1717e468f8a3af3cd554b4b4c9614dfe3d6ad43713958a0b809bcc79de0ab69",
       "fetchedAt": "2026-11-16T17:23:38.120268+00:00"
     },
     "rss-e8b857e8ee7e26563438": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
       "sourceTitle": "New AI training performance benchmarks for Google TPUs",
-      "contentHash": "6269e5e5dcfd49b8c892835edd0c2682d06f7e2235411cbd56a9a490b6f80e24",
+      "contentHash": "d4ce18251120c5f2d8059274537a1d8488b2e5abd675ebb43348b1cd0316af09",
       "fetchedAt": "2026-11-16T17:23:39.215129+00:00"
     },
     "rss-11608d311d0047796796": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "sourceTitle": "New Ask Maps features to help with holiday travel and prep",
-      "contentHash": "df6255cddbd40a8e94e439d163982decd5718afa02c1e36297506d37db069ecb",
+      "contentHash": "aaee8f833cda9e3a8714db832d50980a805a984a2859f7e68528ac467db35833",
       "fetchedAt": "2026-11-16T17:23:38.679460+00:00"
     },
     "rss-5d2d450bd371c141cfdb": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
       "sourceTitle": "Ask Maps is coming to Europe.",
-      "contentHash": "dcffb38ad5928e9c1f5aff85de199c439a2df4879f2f3227aeb406255160089b",
+      "contentHash": "e1a59bda30fd1e99716ced44b6b9e87658e7f176456a238cbd27d7af11c32324",
       "fetchedAt": "2026-11-16T17:23:42.630260+00:00"
     },
     "rss-2d7a5d6b20fff3cd431e": {
@@ -378,7 +378,7 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
       "sourceTitle": "Claim your Google Cloud Credits in Google AI Studio",
-      "contentHash": "4bb3cc51df9710a8c8d231b98cf087bc525bb11502f46995140d78b7089a3b4a",
+      "contentHash": "5b74cd1e487092a89ba150f22055643b2a892eed4375f84242fbc41d747f790c",
       "fetchedAt": "2026-11-13T22:53:43.359856+00:00"
     },
     "rss-a99dfdd20d85acbbb850": {
@@ -391,7 +391,7 @@
       "status": "ready",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "sourceTitle": "Gilbert + Tobin rethinks the business of law with AI",
-      "contentHash": "f97c09e23479ef29cc1bc7735efba27d3cff3d537aa0b5025cac09aa097eb60a",
+      "contentHash": "aa32b39e09c5f3dd66986efccb705e8aee0c123ad4bb6acadf319170357ee83b",
       "fetchedAt": "2026-11-11T05:10:22.032395+00:00"
     },
     "rss-d7c1da8cb7dc41da688b": {
@@ -464,7 +464,7 @@
       "status": "ready",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
       "sourceTitle": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "contentHash": "2eeef39c35cbe3c2aa03b144c5df5318038b37034c0fe80363c8382aa7117814",
+      "contentHash": "f8cae24c11b2f6c908f8ef99ddfcead4d9c3cd971486d878c44b79b9f21da9b7",
       "fetchedAt": "2026-11-11T11:09:35.927977+00:00"
     },
     "rss-72b4397871537d44e938": {
@@ -511,42 +511,42 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/",
       "sourceTitle": "Gemini 4 Carbon is now available for developers.",
-      "contentHash": "f352231b949da8bed7f74aa763e1166e09406daf13d34d602ded1d1834d1225e",
+      "contentHash": "542aced3ffebc0f069082851513b6229dd623298bd4f7ed4aecd26ab419d5be6",
       "fetchedAt": "2026-11-10T17:00:43.034316+00:00"
     },
     "rss-2ffd7e8cb1f550c679e6": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
       "sourceTitle": "Introducing the Multimodal Knowledge Agent benchmark",
-      "contentHash": "f3837f8f2aeba0421f915a66a254e5249bc0b9bf08f15b8bfbef0073345b86a7",
+      "contentHash": "68420501bcaa34f74013963e0af6e77671017481338777392b1c8efbd7d0f99c",
       "fetchedAt": "2026-11-10T17:00:42.895889+00:00"
     },
     "rss-5b4c18faabadfb3802c4": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
       "sourceTitle": "Gemini 4 Carbon is now available",
-      "contentHash": "c58fd0e67287e4dbbf30120b0bf4b206ad5dbe28f5af78d96e24bc90fcedb530",
+      "contentHash": "fcc81aa3538791efea0bdfe3a50371bc1dfe3b825bcf63f4aaa1159da00ac4d4",
       "fetchedAt": "2026-11-10T17:00:42.942946+00:00"
     },
     "rss-e192e4f92a704298f96f": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
       "sourceTitle": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "contentHash": "e05851798a19ac588f7705c441d0a824a99c2a13ac68350290f1360b3ef8f7db",
+      "contentHash": "ab55d0d910794be6a6ba509590fede2b258150d1086cde4b8bcd938e17dee401",
       "fetchedAt": "2026-11-10T17:00:46.741418+00:00"
     },
     "rss-3ff9a4aa639bf46ff8d4": {
       "status": "ready",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/",
       "sourceTitle": "40 years of American culinary history with the James Beard Foundation",
-      "contentHash": "a576597577e9573d5d243b8206746172c54a245d4b7507b65b223aaa1eb28e2f",
+      "contentHash": "fb10ec82a1449ff135893a15e42b72d65eedbe0683b2ef3daaf54bdf3d16a560",
       "fetchedAt": "2026-11-10T17:00:47.243464+00:00"
     },
     "rss-c979be8e72cc92b8a0fb": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
       "sourceTitle": "Google Cloud launches Gemini for healthcare.",
-      "contentHash": "60b5760831d50cb6f54e54f298b896abee4073672aac5b7570c18e0269363494",
+      "contentHash": "5e5e44d666de9e3f98277dd5d7a470dd991c06d462f673489b2df8c918945063",
       "fetchedAt": "2026-11-10T17:00:50.729953+00:00"
     },
     "rss-0f0020abcf733229d29f": {
@@ -565,14 +565,14 @@
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
       "sourceTitle": "Gemini Intelligence: New features, on more devices",
-      "contentHash": "5e457bc8fea56c2eb2903c80f5c6c509b32f6bbb98934f485aaadcd1e99aaa8e",
+      "contentHash": "4f5fc908511227116d5622a3dff79ab27ef402e8576c0e30278c74c447dff0cf",
       "fetchedAt": "2026-11-10T22:53:01.500416+00:00"
     },
     "rss-fed0553263a8b330ef0b": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
       "sourceTitle": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
-      "contentHash": "730e8cc2f09fe72ffb028f51f362147cb4caccfb9e482cb6a2bf809e9c65208d",
+      "contentHash": "98c64fad43ed05a8300379c9c6a27c30fee989e94363768f6dab846ae26662f4",
       "fetchedAt": "2026-11-10T22:53:01.570104+00:00"
     },
     "rss-9092d5eb66f29547408d": {
@@ -612,21 +612,21 @@
       "status": "ready",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "sourceTitle": "ChatGPT Enterprise now available in AWS Marketplace",
-      "contentHash": "c3df5f1329560931798b289160e545a7dbfc527769ab6321ab8518f6c3ccf422",
+      "contentHash": "8162e8078a65c7d75c020a4be094250315680bb9d1197e698b628c694c0a64ac",
       "fetchedAt": "2026-11-11T05:10:21.995413+00:00"
     },
     "rss-952d2516af2e905436ad": {
       "status": "ready",
       "url": "https://openai.com/index/control-room",
       "sourceTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "contentHash": "60358539c75e122687ad3f1de4e897858518f5b6d56539b5d76702aa1a774d7b",
+      "contentHash": "1fef725a53d2c033aae99edb80a5e57c4a0e66be57bb7d05f4ea103e83010916",
       "fetchedAt": "2026-11-11T05:10:22.146878+00:00"
     },
     "rss-02e9abf47eaf3fa01f98": {
       "status": "ready",
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "sourceTitle": "CodeRabbit scales agentic software development and ships 20x more",
-      "contentHash": "6354dc504017ef90e2a20043ba74c6c06efb94a44475ca219732c1dc978933f8",
+      "contentHash": "fccb74d71afecfb286e9b09b68c1b90602f4491f235e5ad8959ca53b2c990827",
       "fetchedAt": "2026-11-11T05:10:24.798808+00:00"
     },
     "rss-a0a44ed09dc9a1089b4e": {
@@ -680,7 +680,7 @@
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
       "sourceTitle": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
-      "contentHash": "f829d5edb1861479d0db9cfb088cba86d56190622e834e9425b3f7e523f07b53",
+      "contentHash": "223a9c64bb167ee6739f895fea9626ede56a1df14e8cd595562447df4c6ce079",
       "fetchedAt": "2026-11-05T22:56:22.801571+00:00"
     },
     "rss-14e90e72d3401ddf817f": {
@@ -711,14 +711,14 @@
       "status": "ready",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
       "sourceTitle": "Take a closer look at art with the Courtauld",
-      "contentHash": "7a3559a1391b7659f34f1c81bfcbee3cf016c90c83eb82c08470f61a330aa529",
+      "contentHash": "8e1be56bbf55f6238da64f66ad2e1c796778845373dcfe602936c229fcbaaf1f",
       "fetchedAt": "2026-11-05T11:28:24.278876+00:00"
     },
     "rss-6ca7ade89b448d15482d": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
       "sourceTitle": "We're sharing our framework for building safer and more helpful AI for health.",
-      "contentHash": "d4690ec09b41495e91a655c98a8c45fc4ae652b7d49a22f4feaf7947bc0cdb8c",
+      "contentHash": "2088764c2650456283583773b41670e565db7c8b286c2a77c31338a19bc1783f",
       "fetchedAt": "2026-11-05T11:28:25.449144+00:00"
     },
     "rss-981785a01550309d0739": {
@@ -732,7 +732,7 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
       "sourceTitle": "Advancing research and partnering with universities in Singapore",
-      "contentHash": "99b1288d028d9dd3158a5942c93c0d39a9c80146e8f467ec09748fcc5fe7ace9",
+      "contentHash": "2bb2a3089542c16b3ad2ed14d072ae75c27728935b3d44241c86761d03f8cc36",
       "fetchedAt": "2026-11-05T11:28:25.350591+00:00"
     },
     "rss-fc87a45dcfbf03d41725": {
@@ -746,35 +746,35 @@
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/",
       "sourceTitle": "New research shows how Guided Learning supports students",
-      "contentHash": "8a17b5af17788f3767ac188f26297b2d0392231e719bd877e25373c7b1b0ec79",
+      "contentHash": "452be4c203f9991619788e72f734ce55c6684987ff2d740cc8dc846a6a2d0c47",
       "fetchedAt": "2026-11-05T11:28:27.418739+00:00"
     },
     "rss-f0d23aa208df96d78828": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
       "sourceTitle": "We’re providing funding for organizations building AI for teachers.",
-      "contentHash": "0410d43d6ac95c60ae351a701e83e6846985c4d08680ef36f21765f886bb8bf8",
+      "contentHash": "c44fb091ac9e29aadc2dad19add2c039e0223f9efce98a50eeeca72f2eb1eb01",
       "fetchedAt": "2026-11-05T11:28:28.778110+00:00"
     },
     "rss-2b728cf359cf7fb3768d": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
       "sourceTitle": "AI in the learning era",
-      "contentHash": "f42c02432ddf965ba6fb9964967663ac51e9d51bd5def514819db0af438bd683",
+      "contentHash": "74d57466f46d3041f277b6cf09f3685db8a83431088f3f36e9bbea665d45003f",
       "fetchedAt": "2026-11-05T11:37:24.076407+00:00"
     },
     "rss-f2497d2da3243c287b78": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
       "sourceTitle": "Designing responsible AI for learning",
-      "contentHash": "d0556e81171cb385ca16e9d38b5276e29cc7b04f126b37249b1d1a2de5899bdb",
+      "contentHash": "df1ea81479808dd4f12a9fb031731bdfe989afb9bf2498e0264431a6c56d82c0",
       "fetchedAt": "2026-11-05T11:28:28.690742+00:00"
     },
     "rss-31aaaae73a614a69444d": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
       "sourceTitle": "Expanding AI educator training to new countries",
-      "contentHash": "7d25b039efa02df8b653249c5f054a0320a094a9b562b99393133597d7c097f2",
+      "contentHash": "1638bcffbb366e7b6357af47179a54d831a175f0518bdd31656e510416c34634",
       "fetchedAt": "2026-11-05T11:28:30.359456+00:00"
     },
     "rss-25493a43cba550c7fe81": {
@@ -802,7 +802,7 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "sourceTitle": "The latest AI news we announced in October 2026",
-      "contentHash": "d69496faa4f0719b3b7b2c613a688da8350e8a6ce775aa6f9f0e21c3248dc0f1",
+      "contentHash": "2489851f8df3f28a8e19f65cf4d40842d6102d57fdad5fd98955a67b06fddced",
       "fetchedAt": "2026-11-05T11:28:31.869379+00:00"
     },
     "rss-0d297090385ad5a72451": {
@@ -837,7 +837,7 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
       "sourceTitle": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-      "contentHash": "3b5da28d464f7499ec74593b5f5b65bcd43f7be840a24b656053d62d3876ee6d",
+      "contentHash": "bbc3977b744467a2c7bf5c8c3200d06a8230243a446712fd9aa104ec76e203c3",
       "fetchedAt": "2026-11-05T11:28:32.001488+00:00"
     },
     "rss-84abd1857de5dfd951d9": {
@@ -858,49 +858,49 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
       "sourceTitle": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-      "contentHash": "e6e86aefbc06cd77f6c39c9f19d6eda2ea9b2677c4d801276432ad71d839cc1b",
+      "contentHash": "b1fe55605bc46c6e9e8096f2184380d66a2c5397a624cd23edeb4db5094d5e2f",
       "fetchedAt": "2026-11-05T11:28:33.553817+00:00"
     },
     "rss-1facaa3c3baefce41216": {
       "status": "ready",
       "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/",
       "sourceTitle": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
-      "contentHash": "39026d691f53b63855bd6d894f1ad3bb6809f9fda7d68976402483534f69a46b",
+      "contentHash": "6d59a99611075abfe6568d03dc9ff39ec037182e3fbacf8e0bf75b4d5b457223",
       "fetchedAt": "2026-11-05T11:28:35.069653+00:00"
     },
     "rss-bfe4fa6b3e5fe5f12268": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
       "sourceTitle": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
-      "contentHash": "9f28ecfaa5e1425e5df2317900d1552875abbd678fbaad602048bfcb2228c957",
+      "contentHash": "b30adf7e619205185ba508ef92caf8697ffb5c437dba55f0b3d019da5cc50df8",
       "fetchedAt": "2026-11-05T11:28:35.216441+00:00"
     },
     "rss-78f16d28b1ed69b60235": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/",
       "sourceTitle": "Equipping healthcare professionals with practical AI skills",
-      "contentHash": "3dbd350392e16a4eae181ef0a25cb64b19fd2142b788793f42a40ad0a0404e5f",
+      "contentHash": "a052958445303c4770263749473f3a396ff80c4e9c82a9bc2ff3e73b57f07abe",
       "fetchedAt": "2026-11-05T11:28:36.695633+00:00"
     },
     "rss-e8b654ca9543c3054765": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/",
       "sourceTitle": "How to use Gemini to update your resume",
-      "contentHash": "5148c228def22d0e8a1302873f04f5a50c399b464bdcdfba8b42bbf3aca183f1",
+      "contentHash": "e6a01e04102fb57f9acd11769bd01aede1f37c69f58473c182106bd6549f1340",
       "fetchedAt": "2026-11-05T11:37:24.074923+00:00"
     },
     "rss-3454fea505b4cd51ebd8": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
       "sourceTitle": "How Gemini is helping students and teachers in the classroom",
-      "contentHash": "2c76ae23fa2320a159ed431ac514d34053fd99cc5a9d4664398bfe21804c5c34",
+      "contentHash": "dc784908d7b28b932e83d1004c8a5826ee44912aa6c2e18cef36759fa4d9e883",
       "fetchedAt": "2026-11-05T11:28:38.085312+00:00"
     },
     "rss-ce1b34a80db9a6e7c540": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
       "sourceTitle": "Partnering with Singapore to bring frontier AI to public health",
-      "contentHash": "6cc703a452a77d241d159473fe55c3fd81695cb720e0b70cb31fb1b0c31c1421",
+      "contentHash": "3e0abe396906906c354a06cc3b9b461cde3e1823587e6ad94da972e6c06978f0",
       "fetchedAt": "2026-11-05T11:28:38.472538+00:00"
     },
     "rss-9349f418e7bc7ab45091": {
@@ -935,35 +935,35 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
       "sourceTitle": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
-      "contentHash": "38dcf76dfcf7a8932666b7a423e731eba6989a503debdd854f5b4d67853b5f49",
+      "contentHash": "8be5909644b034edef02083f89daf699c375dacc763c526a0bfbb18c4cea4a19",
       "fetchedAt": "2026-11-05T11:28:44.907283+00:00"
     },
     "rss-fe3342fed45e766d5791": {
       "status": "ready",
       "url": "https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/",
       "sourceTitle": "The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision",
-      "contentHash": "da2b617a5a23adf256184604dcd27fa36a904eebf6f6df1daf49422a2687a6bf",
+      "contentHash": "4bbe5babb598f29ac70be7edc80b8a94ac8dcac627dba259f6534c9b98c24f4f",
       "fetchedAt": "2026-11-05T11:28:43.531630+00:00"
     },
     "rss-c2494667117d789fe0c0": {
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
       "sourceTitle": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
-      "contentHash": "4c94840ab584b5189260022f7e2254c1f4d2ab46c2d5b5e9e9ced7c9fd9b49fb",
+      "contentHash": "3ad5faf637c32af68bf7be137cff1c2eb15dd1e086cf50c6f80fb2024e60b1c3",
       "fetchedAt": "2026-11-05T11:28:40.608655+00:00"
     },
     "rss-70900e9483bbbec4b24c": {
       "status": "ready",
       "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
       "sourceTitle": "Ads in AI Mode expand to new markets.",
-      "contentHash": "b1455489d304fddecb098d1e360b8094cd2f72a11ebc2e7e6d9b4ac0ab609ccd",
+      "contentHash": "9eb6089662b2dd3be73665aaae758f3709edfd3afeb6d42dfac09fddffef8f50",
       "fetchedAt": "2026-11-05T11:28:43.428864+00:00"
     },
     "rss-f1b1625f67db9cc81d99": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
       "sourceTitle": "Dive into new topics with immersive explorations in the Gemini app.",
-      "contentHash": "9691d22d2abd391513742b8e4e6cdcee5290b814f423d62a1227dac182ab9438",
+      "contentHash": "34d3365d418083ea35dd20e169a81e8e79a76714046d0db7a3c1bb00226a8600",
       "fetchedAt": "2026-11-05T11:28:46.797786+00:00"
     },
     "rss-a395c7da350b5086cc15": {
@@ -991,14 +991,14 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/",
       "sourceTitle": "Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs",
-      "contentHash": "37112cc27006c41f3181e7708a1775fa3f7764869d5b717668b5aa95f591f458",
+      "contentHash": "043b4c5d792e4fcbc3ac7afcd94511e95cbf3b8de77636f9a685d53f9d3e6b03",
       "fetchedAt": "2026-11-05T11:28:50.988229+00:00"
     },
     "rss-13347cc46aef6df7e315": {
       "status": "ready",
       "url": "https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/",
       "sourceTitle": "Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone",
-      "contentHash": "ee81e782c28a1f4061a509d6dda2d75e3613df37db9c945000c83ff682c2bc9d",
+      "contentHash": "704f964366a1e5d53bbfd78913fdfbaabd1bb13fc2b01bfc43c6bed154609986",
       "fetchedAt": "2026-11-05T11:28:50.292987+00:00"
     },
     "rss-16681fd606d5f6994d06": {
@@ -1033,7 +1033,7 @@
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
       "sourceTitle": "Introducing a Voluntary Exit Offer",
-      "contentHash": "f6ddfeb4831536d514f2d346f7a924d555373f4f9c2f269ee2aaaba5308c3f38",
+      "contentHash": "ca433ca347f9f93f5803cdc57ce20df55c69f51fd247b044e2055720e3a52393",
       "fetchedAt": "2026-11-05T11:28:49.169570+00:00"
     },
     "rss-a9c488820a62ac4adcd9": {
@@ -1124,7 +1124,7 @@
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
       "sourceTitle": "Advancing digital sovereignty with greater control and choice",
-      "contentHash": "e6fdcefb00b1e73c4339944145b37fff3f0446f5c7f582233f5025e27e18478f",
+      "contentHash": "5736a0a4b192749f08110546c1ad0af6f050484b5de67f2f3aad9c6c7e722b6c",
       "fetchedAt": "2026-11-05T11:28:51.461030+00:00"
     },
     "rss-1725d137aa3debc0d8ae": {
@@ -1152,7 +1152,7 @@
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
       "sourceTitle": "Securing the agentic insider",
-      "contentHash": "6de4eaf6b73acc504de8bac57f83c509e6a96038a1dcaaaa7889dde6540ed11a",
+      "contentHash": "6614fff6c2c876019a79d1bd033a93e7415db8a2a6aa8fa6386833c004cdba71",
       "fetchedAt": "2026-11-05T11:28:52.504120+00:00"
     },
     "rss-9732b2763df5a67ab945": {
@@ -1208,7 +1208,7 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
       "sourceTitle": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-      "contentHash": "fecf1c52473a1a8a7c4d09c63a1ad3765e55b395ed73cafb5e4eb9066f9774d2",
+      "contentHash": "73354b1040a5d2188c8ba845bd5b1166b10be03c3c41650e794d9992a9c1bd39",
       "fetchedAt": "2026-11-05T11:28:56.418444+00:00"
     },
     "rss-57c3309db5bedcdec4e0": {
@@ -1243,7 +1243,7 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
       "sourceTitle": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
-      "contentHash": "81caa00c4e8d50ffe6bde9ec5e6a832ccff03e1054a3c1a33694554130783fbe",
+      "contentHash": "4c05f50ee48652ba443eb4a2baf98fac62f426b863a7b884305cac889eff3bea",
       "fetchedAt": "2026-11-05T11:28:59.249318+00:00"
     },
     "rss-8d45898e533e591d4241": {
@@ -1257,7 +1257,7 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
       "sourceTitle": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
-      "contentHash": "822cbb06fcc4d132f2d250e7d8f791ec74596cfe329a4b122ecd403b52b9a576",
+      "contentHash": "6db35041f5b7c042da5c3f427be8c17833f48c349d46e18b4a791d5a74a970e8",
       "fetchedAt": "2026-11-05T11:28:59.245385+00:00"
     },
     "rss-9bf93d58cc35db9987f8": {
@@ -1306,28 +1306,28 @@
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
       "sourceTitle": "Microsoft 365 and LinkedIn leadership update",
-      "contentHash": "ad6e530a54f896b66da965efae6f145ddf435558ef58d4e61c54b364a1603a85",
+      "contentHash": "341e32a30d196fd79528fdaebd6d891dbcebfea7106713c644f76a3c0bbf7526",
       "fetchedAt": "2026-11-05T11:28:58.525650+00:00"
     },
     "rss-a818078acf2d71e32781": {
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
       "sourceTitle": "New Microsoft data innovations unlock what only your business knows",
-      "contentHash": "607f4b68b181823ea989e2ca8c080d367a25e1ea98f5322feb7084a2090530ba",
+      "contentHash": "b09bc90a1c241bfc8f22f5a0e989b9d8a675425a2c35bde421a4c9d25d750901",
       "fetchedAt": "2026-11-05T11:29:00.800740+00:00"
     },
     "rss-bb8739a9d6a76e6df066": {
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
       "sourceTitle": "Introducing the new Copilot with Home, Code and Autopilot",
-      "contentHash": "de64a29c664f5a67d0c29fdb1922e2a7b6c0657034599862a480e5c39bc38617",
+      "contentHash": "0f6c264293079f9b816968688c16b09f92e8ddca15b34752aef36f8c3b8d09bb",
       "fetchedAt": "2026-11-05T11:29:01.665363+00:00"
     },
     "rss-bdfbcd1e218247afd5ad": {
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
       "sourceTitle": "What we’ve learned from Microsoft’s own AI transformation",
-      "contentHash": "90e55fa2c437cd1a8a4f767b2f47b27200ea36690ff70a119323ad61a26d196c",
+      "contentHash": "07948aed472775f5738176599e378758e87eedb829c5ac7f165f39432d2c5fb8",
       "fetchedAt": "2026-11-05T11:29:01.651113+00:00"
     }
   }

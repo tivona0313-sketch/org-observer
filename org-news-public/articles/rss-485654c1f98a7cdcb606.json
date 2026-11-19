@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
   "sourceTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
   "status": "ready",
-  "attemptedAt": "2026-11-05T17:24:24.482534+00:00",
+  "attemptedAt": "2026-11-19T11:01:59.965577+00:00",
   "fetchedAt": "2026-11-05T17:24:27.993604+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
   "language": "en",
@@ -273,6 +273,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "522272c1ae20e966b2cb3c8ceeac7ae1541e48c28c72162d34a5f437d09a4400"
 }

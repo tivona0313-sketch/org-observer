@@ -4,7 +4,7 @@
   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
   "sourceTitle": "See what 5 builders are making with Gemini 4 Carbon",
   "status": "ready",
-  "attemptedAt": "2026-11-17T23:02:43.955792+00:00",
+  "attemptedAt": "2026-11-19T10:59:43.656925+00:00",
   "fetchedAt": "2026-11-17T23:02:47.156227+00:00",
   "finalURL": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
   "language": "en",
@@ -70,6 +70,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "56c5e1635299f65b05e56cc50d94db265011e9448911db949950a6614eae36e4"
 }

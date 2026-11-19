@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
   "sourceTitle": "Transform a quick drawing into a live app with Gemini.",
   "status": "ready",
-  "attemptedAt": "2026-11-05T17:24:24.482909+00:00",
+  "attemptedAt": "2026-11-19T11:02:00.903825+00:00",
   "fetchedAt": "2026-11-05T17:24:28.113659+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
   "language": "en",
@@ -77,6 +77,7 @@
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 / offline machine translation",
+  "translation": "Argos Open Tech 1.9 offline machine translation",
+  "translationProvider": "argos-1.9",
   "contentHash": "2073f9a2ab0123473a8a7e15d52465fbfd0dcbcf131e6e13860f1c06c5be9e59"
 }

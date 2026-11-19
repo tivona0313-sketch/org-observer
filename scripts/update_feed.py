@@ -27,7 +27,7 @@ def next_schedule(current):
                 return candidate.isoformat()
 
 
-def refresh(output):
+def refresh(output, *, retranslate=False):
     old = {"articles": [], "sources": []}
     if output.exists():
         old = json.loads(output.read_text(encoding="utf-8"))
@@ -62,9 +62,9 @@ def refresh(output):
         # A local validation run must not claim a live cloud scheduler.
         "deploymentMode": "github-actions" if os.environ.get("GITHUB_ACTIONS") == "true" else "static-snapshot",
     }
-    bilingual = prepare_bilingual(payload["articles"], output.parent)
+    bilingual = prepare_bilingual(payload["articles"], output.parent, retranslate=retranslate)
     write_snapshots(output, payload, bilingual)
-    update_content(output.parent, payload["articles"])
+    update_content(output.parent, payload["articles"], retranslate=retranslate)
     print(f'Updated {output.name}: {len(payload["articles"])} articles; {succeeded}/4 sources succeeded')
     return payload
 
@@ -72,5 +72,6 @@ def refresh(output):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=ROOT / "org-news-public/feed.json")
+    parser.add_argument("--retranslate", action="store_true")
     args = parser.parse_args()
-    refresh(args.output.resolve())
+    refresh(args.output.resolve(), retranslate=args.retranslate)

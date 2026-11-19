@@ -12,7 +12,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 FIELDS = ("title", "summary", "sourceTitle", "source", "points", "takeaway", "question", "caveat")
-PROVIDER = "Machine translation · cached Google translations / Argos Open Tech for new text"
 
 
 def article_fields(article):
@@ -44,7 +43,7 @@ def source_language(text):
 
 def translate_text(text):
     source = source_language(text)
-    from offline_translate import translate_batch
+    from translation_service import translate_batch
     translated = translate_batch([text], source, "en" if source=="zh" else "zh")[0]
     return {"zh": text if source == "zh" else translated,
             "en": translated if source == "zh" else text}
@@ -72,9 +71,14 @@ def cached_texts(cache):
     return texts
 
 
-def build_bilingual(articles, cache, translator=translate_text):
+def build_bilingual(articles, cache, translator=translate_text, retranslate=False):
     originals = {a["id"]: article_fields(a) for a in articles}
-    texts = cached_texts(cache)
+    from translation_service import provider_id, provider_name
+    cache_provider = cache.get("translationProvider")
+    reuse_legacy_offline_cache = not cache_provider and provider_id() == "argos-1.9"
+    texts = cached_texts(cache) if not retranslate and (
+        cache_provider == provider_id() or reuse_legacy_offline_cache
+    ) else {}
     checkpoint = Path(os.environ["ORG_TRANSLATION_CHECKPOINT"]) if os.environ.get("ORG_TRANSLATION_CHECKPOINT") else None
     if checkpoint and checkpoint.exists():
         saved = json.loads(checkpoint.read_text(encoding="utf-8"))
@@ -143,16 +147,16 @@ def build_bilingual(articles, cache, translator=translate_text):
     if cache.get("revision") == revision and cache.get("schemaVersion") == 1:
         return cache
     return {
-        "schemaVersion": 1, "provider": PROVIDER,
+        "schemaVersion": 1, "provider": provider_name(), "translationProvider": provider_id(),
         "generatedAt": datetime.now(timezone.utc).isoformat(),
         "revision": revision, "articles": entries,
     }
 
 
-def prepare_bilingual(articles, directory):
+def prepare_bilingual(articles, directory, *, retranslate=False):
     path = directory / "bilingual.json"
     cache = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
-    return build_bilingual(curated_articles(directory / "data.js") + articles, cache)
+    return build_bilingual(curated_articles(directory / "data.js") + articles, cache, retranslate=retranslate)
 
 
 def write_snapshots(feed_path, payload, bilingual):
@@ -175,9 +179,10 @@ def write_snapshots(feed_path, payload, bilingual):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--feed", type=Path, default=ROOT / "org-news-public/feed.json")
+    parser.add_argument("--retranslate", action="store_true")
     args = parser.parse_args()
     feed_path = args.feed.resolve()
     payload = json.loads(feed_path.read_text(encoding="utf-8"))
-    bilingual = prepare_bilingual(payload["articles"], feed_path.parent)
+    bilingual = prepare_bilingual(payload["articles"], feed_path.parent, retranslate=args.retranslate)
     write_snapshots(feed_path, payload, bilingual)
     print(f'Bilingual snapshot ready: {len(bilingual["articles"])} articles', flush=True)

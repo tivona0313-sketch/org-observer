@@ -5,6 +5,12 @@ on:
     # UTC → 北京时间每天 00:17 / 06:17 / 12:17 / 18:17
     - cron: '17 4,10,16,22 * * *'
   workflow_dispatch:
+    inputs:
+      retranslate:
+        description: 'Rebuild non-official bilingual translations with the configured quality model'
+        required: false
+        default: false
+        type: boolean
   push:
     branches: [main]
     paths:
@@ -12,6 +18,7 @@ on:
       - 'org-news/server.py'
       - 'scripts/update_feed.py'
       - 'scripts/translate_feed.py'
+      - 'scripts/translation_service.py'
       - 'scripts/update_content.py'
       - 'scripts/extract_article.mjs'
       - 'scripts/package*.json'
@@ -34,6 +41,12 @@ jobs:
     timeout-minutes: 45
     env:
       ORG_MODELS_DIR: ${{ github.workspace }}/.cache/translation-models
+      # Configure this secret to enable the OpenAI-compatible quality path.
+      # Without it, existing offline translation remains the explicit fallback.
+      ORG_LLM_API_KEY: ${{ secrets.ORG_LLM_API_KEY }}
+      ORG_LLM_BASE_URL: ${{ vars.ORG_LLM_BASE_URL }}
+      ORG_LLM_MODEL: ${{ vars.ORG_LLM_MODEL }}
+      ORG_TRANSLATION_PROVIDER: ${{ secrets.ORG_LLM_API_KEY != '' && 'llm' || 'offline' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -60,7 +73,7 @@ jobs:
       - name: Prepare offline translation models
         run: python scripts/offline_translate.py
       - name: Fetch feeds, article bodies and translations
-        run: python scripts/update_feed.py
+        run: python scripts/update_feed.py ${{ inputs.retranslate && '--retranslate' || '' }}
       - name: Save feed history
         env:
           GIT_AUTHOR_NAME: github-actions[bot]

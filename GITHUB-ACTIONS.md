@@ -55,7 +55,9 @@ README.md
 - 定时任务只从默认分支运行，请保持默认分支为 `main`。公开仓库长期没有活动时 GitHub 可能停用定时任务；发现停更请检查 Actions 是否需要重新启用。
 - 微软、Google、OpenAI、Meta 四个官方 RSS 按原有关键词筛选；最多累计保留 500 条，中文精选原始内容不自动改写。
 - 中英译文保存在 `bilingual.json`。相同原始文本复用缓存；新增和变更字段自动翻译，避免每次整批重复翻译。英文 RSS 保留英文，配中文译文；中文精选保留中文，配英文译文。
-- 新译文使用 Argos Open Tech 1.9 离线模型，通过 CTranslate2 在本地或 Actions 运行，不依赖在线免费翻译接口。已有 Google 译文缓存继续复用。模型覆盖英中、中英、法英，法语先译为英文再译为中文；其他语种明确标为暂不支持。模型首次下载后缓存复用。
+- 翻译优先级：发布方官方双语版本 > 配置的大模型译文 > Argos Open Tech 1.9 离线兜底。官方原文不被自动覆盖。高质量模型按相邻段落批量处理，带文章标题、发布方和组织/AI 术语表，以保持上下文和术语一致；仍非人工审校。
+- 启用高质量模型：在仓库 **Settings → Secrets and variables → Actions** 新建 secret `ORG_LLM_API_KEY`，并新建变量 `ORG_LLM_BASE_URL`（OpenAI 兼容 API 的 `/v1` 地址）和 `ORG_LLM_MODEL`。密钥不会进入仓库、网页或 Actions 日志。未配置 secret 时，工作流明确回退至离线模型。
+- 在 **Actions → Update news and publish → Run workflow** 勾选 `retranslate`，可用已配置的高质量模型重译所有非官方缓存；新旧缓存按模型版本隔离，避免把低质量缓存当作高质量译文复用。该操作会按文章规模产生模型费用，建议先确认服务商限额。
 - 只有标题、摘要及精选字段的翻译全部完成才保存新的列表快照。此阶段失败时工作流失败，保留旧快照和网站；前端核对列表快照与译文版本，避免发布缓存延迟导致错配。正文逐篇处理，单篇失败不阻止其他正文发布。
 - 单个来源失败：保留其旧内容与最近成功时间，其余来源继续更新。
 - 全部来源失败：工作流失败，保留旧快照和已发布网站，不能把旧数据标成刚刚更新。
@@ -94,6 +96,6 @@ python3 -m http.server 8767 --directory org-news-public
 
 ## 维护
 
-采集源和分类：修改 `org-news/server.py`。翻译服务：修改 `scripts/translate_feed.py` 的 `translate_text`。定时时间：同时修改工作流 cron 和 `scripts/update_feed.py` 的 `next_schedule`。
+采集源和分类：修改 `org-news/server.py`。翻译服务与术语表：修改 `scripts/translation_service.py`。定时时间：同时修改 workflow cron 和 `scripts/update_feed.py` 的 `next_schedule`。
 
 检查失败：先看 Actions 日志。全部订阅源无法访问时保留原站；仓库推送冲突时工作流停止发布，在提交结束后重新运行即可，不会强推覆盖他人的修改。

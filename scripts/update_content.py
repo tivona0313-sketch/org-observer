@@ -15,7 +15,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from translate_feed import ROOT, curated_articles
-from offline_translate import detect_language, translate_batch
+from offline_translate import detect_language
+from translation_service import provider_id, provider_name, translate_batch
 
 HOSTS = {
     "blog.google", "blogs.microsoft.com", "www.microsoft.com",
@@ -89,7 +90,7 @@ def extract(article):
     return extracted
 
 
-def translated_blocks(blocks, language, cache, checkpoint):
+def translated_blocks(blocks, language, cache, checkpoint, *, context=""):
     # Offline batches retain an explicit paragraph mapping and original text.
     original = [b["text"] for b in blocks]
     output = {"zh": [], "en": []}
@@ -97,14 +98,14 @@ def translated_blocks(blocks, language, cache, checkpoint):
         if language.startswith(lang):
             output[lang] = original[:]
             continue
-        keys=[hashlib.sha256(("argos1.9-clauses-v3\0"+language+"\0"+lang+"\0"+text).encode()).hexdigest() for text in original]
+        keys=[hashlib.sha256((provider_id()+"\0"+language+"\0"+lang+"\0"+text).encode()).hexdigest() for text in original]
         missing=[]
         for i,key in enumerate(keys):
             with TRANSLATION_LOCK:
                 value = cache.get(key)
             if not value:missing.append(i)
         if missing:
-            values=translate_batch([original[i] for i in missing],language,lang)
+            values=translate_batch([original[i] for i in missing],language,lang,context=context)
             if len(values)!=len(missing):raise ValueError("translation_alignment_failed")
             with TRANSLATION_LOCK:
                 for i,value in zip(missing,values):cache[keys[i]]=value
@@ -180,16 +181,20 @@ def update_content(directory, articles, *, force=False, extract_only=False, limi
         path=body_dir/f"{identifier}.json"
         old=json.loads(path.read_text()) if path.exists() else {}
         same=old.get("url")==article["url"] and old.get("sourceTitle")==article["title"]
+        # Publisher-provided or manually reviewed bilingual content must never
+        # be replaced by a generic translation provider.
+        if old.get("translationKind") in ("official", "official-supplemented", "ai-reviewed"):
+            return old
         if retranslate and old.get("status")!="ready":
             return old
         if same and old.get("schemaVersion")==SCHEMA and not force and not retranslate:
-            if old.get("status")=="ready":
+            if old.get("status")=="ready" and old.get("translationProvider") == provider_id():
                 return old
             if old.get("status")=="unavailable" and old.get("nextAttempt") and old["nextAttempt"]>now():
                 return old
         attempted=now()
         try:
-            if retranslate and same and old.get("status")=="ready":
+            if (retranslate or old.get("translationProvider") != provider_id()) and same and old.get("status")=="ready":
                 extracted={"blocks":[{"kind":b["kind"],"text":b["text"]} for b in old["blocks"]],
                            "title":old.get("originalTitle",old["sourceTitle"]),"author":old.get("author",""),
                            "language":old["language"],"finalURL":old["finalURL"],"extractedAt":old["fetchedAt"]}
@@ -202,7 +207,10 @@ def update_content(directory, articles, *, force=False, extract_only=False, limi
                         "status":"translation_pending","attemptedAt":attempted,"extracted":extracted}
             else:
                 extracted["language"]=detect_language(" ".join(b["text"] for b in extracted["blocks"]))
-                blocks=translated_blocks(extracted["blocks"],extracted["language"],cache,checkpoint)
+                blocks=translated_blocks(
+                    extracted["blocks"], extracted["language"], cache, checkpoint,
+                    context=f"Article title: {extracted['title']}. Publisher: {article.get('company', '')}.",
+                )
                 record={"schemaVersion":SCHEMA,"id":identifier,"url":article["url"],"sourceTitle":article["title"],
                         "status":"ready","attemptedAt":attempted,"fetchedAt":extracted["extractedAt"],
                         "finalURL":extracted["finalURL"],"language":extracted["language"],
@@ -210,7 +218,8 @@ def update_content(directory, articles, *, force=False, extract_only=False, limi
                         "author":extracted.get("author",""),"blocks":blocks,
                         "keyPoints":key_points(blocks,extracted["title"]),
                         "method":"defuddle-0.19.6 / extractive-key-sentences",
-                        "translation":"Argos Open Tech 1.9 / offline machine translation",
+                        "translation":provider_name(),
+                        "translationProvider":provider_id(),
                         "contentHash":hashlib.sha256(json.dumps(blocks,sort_keys=True).encode()).hexdigest()}
             atomic_json(path,record)
             print(f'{identifier}: {record["status"]}; {len(extracted["blocks"])} paragraphs',flush=True)

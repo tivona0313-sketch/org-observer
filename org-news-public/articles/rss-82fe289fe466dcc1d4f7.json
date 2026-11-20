@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-82fe289fe466dcc1d4f7",
+  "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "sourceTitle": "Explore the Codex Security Plugin",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-20T03:21:47.524178+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-21T03:21:47.586607+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "rss-17b7a2b39f098895a220",
+  "url": "https://openai.com/business/learn/pr-scans-demo",
+  "sourceTitle": "See PR scans in action",
+  "status": "unavailable",
+  "attemptedAt": "2026-11-20T03:21:47.523844+00:00",
+  "error": "http_403",
+  "nextAttempt": "2026-11-21T03:21:47.600884+00:00"
+}

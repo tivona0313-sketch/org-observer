@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T22:58:09.700189+00:00",
+  "updatedAt": "2026-11-20T03:21:47.631932+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
@@ -132,6 +132,18 @@
       "status": "unavailable",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "sourceTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "error": "http_403"
+    },
+    "rss-17b7a2b39f098895a220": {
+      "status": "unavailable",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "sourceTitle": "See PR scans in action",
+      "error": "http_403"
+    },
+    "rss-82fe289fe466dcc1d4f7": {
+      "status": "unavailable",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "sourceTitle": "Explore the Codex Security Plugin",
       "error": "http_403"
     },
     "rss-93cf5219423968c027a9": {

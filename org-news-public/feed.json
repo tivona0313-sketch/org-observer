@@ -161,6 +161,38 @@
       "sourceId": "openai"
     },
     {
+      "id": "rss-17b7a2b39f098895a220",
+      "title": "See PR scans in action",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "date": "2026-11-19",
+      "categories": [
+        "运营模式"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "See PR scans in action",
+      "sourceId": "openai"
+    },
+    {
+      "id": "rss-82fe289fe466dcc1d4f7",
+      "title": "Explore the Codex Security Plugin",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "company": "OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "date": "2026-11-19",
+      "categories": [
+        "运营模式"
+      ],
+      "type": "官方订阅",
+      "live": true,
+      "sourceTitle": "Explore the Codex Security Plugin",
+      "sourceId": "openai"
+    },
+    {
       "id": "rss-93cf5219423968c027a9",
       "title": "Introducing Stitch Loop: A new way to build and evolve products",
       "summary": "Stitch Loop is an always-on product agent from Google Labs that works non-stop to help lean teams build better products.",
@@ -3193,35 +3225,35 @@
     {
       "id": "microsoft",
       "status": "ok",
-      "attemptedAt": "2026-11-19T22:58:03.606369+00:00",
-      "lastSuccess": "2026-11-19T22:58:03.787591+00:00",
+      "attemptedAt": "2026-11-20T03:21:45.769696+00:00",
+      "lastSuccess": "2026-11-20T03:21:45.961763+00:00",
       "count": 7
     },
     {
       "id": "google",
       "status": "ok",
-      "attemptedAt": "2026-11-19T22:58:03.606869+00:00",
-      "lastSuccess": "2026-11-19T22:58:03.853838+00:00",
+      "attemptedAt": "2026-11-20T03:21:45.770214+00:00",
+      "lastSuccess": "2026-11-20T03:21:45.963525+00:00",
       "count": 14
     },
     {
       "id": "openai",
       "status": "ok",
-      "attemptedAt": "2026-11-19T22:58:03.607171+00:00",
-      "lastSuccess": "2026-11-19T22:58:03.785948+00:00",
+      "attemptedAt": "2026-11-20T03:21:45.770527+00:00",
+      "lastSuccess": "2026-11-20T03:21:45.954390+00:00",
       "count": 50
     },
     {
       "id": "meta",
       "status": "ok",
-      "attemptedAt": "2026-11-19T22:58:03.607507+00:00",
-      "lastSuccess": "2026-11-19T22:58:04.732023+00:00",
+      "attemptedAt": "2026-11-20T03:21:45.770801+00:00",
+      "lastSuccess": "2026-11-20T03:21:47.086210+00:00",
       "count": 4
     }
   ],
   "refreshing": false,
-  "lastRefresh": "2026-11-19T22:58:04.732892+00:00",
+  "lastRefresh": "2026-11-20T03:21:47.087081+00:00",
   "nextRefresh": "2026-11-20T04:17:00+00:00",
   "deploymentMode": "github-actions",
-  "bilingualRevision": "eb7d0829ec699fe853b2df5821afc74ba0d13e994c4365bcd83e68fb9d4201bc"
+  "bilingualRevision": "3e2586834fac6163513d15ceeb026d3dc205fe45290103a6a02900bd677ecaee"
 }

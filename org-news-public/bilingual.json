@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "provider": "Argos Open Tech 1.9 offline machine translation",
   "translationProvider": "argos-1.9",
-  "generatedAt": "2026-11-19T22:58:05.443795+00:00",
-  "revision": "eb7d0829ec699fe853b2df5821afc74ba0d13e994c4365bcd83e68fb9d4201bc",
+  "generatedAt": "2026-11-20T03:21:47.486086+00:00",
+  "revision": "3e2586834fac6163513d15ceeb026d3dc205fe45290103a6a02900bd677ecaee",
   "articles": {
     "ms-frontier-2026": {
       "original": {
@@ -598,6 +598,46 @@
         "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
         "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
         "sourceTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-17b7a2b39f098895a220": {
+      "original": {
+        "title": "See PR scans in action",
+        "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+        "sourceTitle": "See PR scans in action",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "在操作中看到 PR 扫描",
+        "summary": "注意公关扫描的走过,看看介绍者如何在拉动请求工作流程中审查扫描结果.",
+        "sourceTitle": "在操作中看到 PR 扫描",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "See PR scans in action",
+        "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+        "sourceTitle": "See PR scans in action",
+        "source": "OpenAI News"
+      }
+    },
+    "rss-82fe289fe466dcc1d4f7": {
+      "original": {
+        "title": "Explore the Codex Security Plugin",
+        "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+        "sourceTitle": "Explore the Codex Security Plugin",
+        "source": "OpenAI News"
+      },
+      "zh": {
+        "title": "探索代码安全插件",
+        "summary": "观看 Codex 安全插件的演示,并看到工作流程在动作中,从开始审查记录中显示的结果。",
+        "sourceTitle": "探索代码安全插件",
+        "source": "OpenAI 新闻"
+      },
+      "en": {
+        "title": "Explore the Codex Security Plugin",
+        "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+        "sourceTitle": "Explore the Codex Security Plugin",
         "source": "OpenAI News"
       }
     },

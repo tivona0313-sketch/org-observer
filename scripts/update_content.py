@@ -164,7 +164,8 @@ def atomic_json(path, data):
     temp.replace(path)
 
 
-def update_content(directory, articles, *, force=False, extract_only=False, limit=None, ids=None, retranslate=False):
+def update_content(directory, articles, *, force=False, extract_only=False, limit=None, ids=None,
+                   retranslate=False, retranslate_provider=None):
     body_dir = directory / "articles"
     body_dir.mkdir(exist_ok=True)
     checkpoint_value=os.environ.get("ORG_BODY_TRANSLATION_CACHE")
@@ -174,6 +175,13 @@ def update_content(directory, articles, *, force=False, extract_only=False, limi
     targets = list(records.values())[:limit] if limit else list(records.values())
     if ids:
         targets=[article for article in targets if article["id"] in ids]
+    if retranslate_provider:
+        def uses_provider(article):
+            path=body_dir/f'{article["id"]}.json'
+            if not path.exists():
+                return False
+            return json.loads(path.read_text()).get("translationProvider") == retranslate_provider
+        targets=[article for article in targets if uses_provider(article)]
     def process(article):
         identifier=article["id"]
         if not re.fullmatch(r"[a-z0-9-]+",identifier):
@@ -260,6 +268,11 @@ if __name__=="__main__":
     parser.add_argument("--limit",type=int)
     parser.add_argument("--ids",nargs="+")
     parser.add_argument("--retranslate",action="store_true")
+    parser.add_argument("--retranslate-provider")
     args=parser.parse_args()
     payload=json.loads((args.directory/"feed.json").read_text())
-    update_content(args.directory,payload["articles"],force=args.force,extract_only=args.extract_only,limit=args.limit,ids=args.ids,retranslate=args.retranslate)
+    update_content(
+        args.directory, payload["articles"], force=args.force, extract_only=args.extract_only,
+        limit=args.limit, ids=args.ids, retranslate=args.retranslate,
+        retranslate_provider=args.retranslate_provider,
+    )

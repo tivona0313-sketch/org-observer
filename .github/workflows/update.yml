@@ -11,6 +11,11 @@ on:
         required: false
         default: false
         type: boolean
+      retranslate_provider:
+        description: 'Optional body translation provider ID to retry, for example argos-1.9'
+        required: false
+        default: ''
+        type: string
   push:
     branches: [main]
     paths:
@@ -47,7 +52,7 @@ jobs:
       ORG_LLM_BASE_URL: ${{ vars.ORG_LLM_BASE_URL }}
       ORG_LLM_MODEL: ${{ vars.ORG_LLM_MODEL }}
       ORG_TRANSLATION_PROVIDER: ${{ secrets.ORG_LLM_API_KEY != '' && 'llm' || 'offline' }}
-      ORG_TRANSLATION_WORKERS: 8
+      ORG_TRANSLATION_WORKERS: 4
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -74,7 +79,11 @@ jobs:
       - name: Prepare offline translation models
         run: python scripts/offline_translate.py
       - name: Fetch feeds, article bodies and translations
-        run: python scripts/update_feed.py ${{ inputs.retranslate && '--retranslate' || '' }}
+        run: |
+          if [ -n "${{ inputs.retranslate_provider }}" ]; then
+            python scripts/update_content.py --retranslate --retranslate-provider "${{ inputs.retranslate_provider }}"
+          else
+            python scripts/update_feed.py ${{ inputs.retranslate && '--retranslate' || '' }}
       - name: Save feed history
         env:
           GIT_AUTHOR_NAME: github-actions[bot]

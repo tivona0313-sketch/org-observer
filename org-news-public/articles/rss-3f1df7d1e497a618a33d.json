@@ -248,6 +248,6 @@
   "translation": "Argos Open Tech 1.9 offline machine translation",
   "translationProvider": "argos-1.9",
   "contentHash": "341e32a30d196fd79528fdaebd6d891dbcebfea7106713c644f76a3c0bbf7526",
-  "lastAttempt": "2026-11-20T05:27:28.850747+00:00",
-  "lastError": "llm_http_402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 60504ded-2b79-491b-9ab2-fe9e293289c3)\",\"type\":\"insufficient_balance_error\",\"param"
+  "lastAttempt": "2026-11-20T05:53:59.184034+00:00",
+  "lastError": "llm_http_402: {\"error\":{\"message\":\"Insufficient Balance (request_id: ac2546ae-e066-44a4-8444-21715eaaa266)\",\"type\":\"insufficient_balance_error\",\"param"
 }

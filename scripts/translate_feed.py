@@ -74,11 +74,10 @@ def cached_texts(cache):
 def build_bilingual(articles, cache, translator=translate_text, retranslate=False):
     originals = {a["id"]: article_fields(a) for a in articles}
     from translation_service import provider_id, provider_name
-    cache_provider = cache.get("translationProvider")
-    reuse_legacy_offline_cache = not cache_provider and provider_id() == "argos-1.9"
-    texts = cached_texts(cache) if not retranslate and (
-        cache_provider == provider_id() or reuse_legacy_offline_cache
-    ) else {}
+    # Existing translation pairs remain valid when the model changes. A model
+    # switch should affect new text only; full historical replacement is an
+    # explicit --retranslate operation.
+    texts = cached_texts(cache) if not retranslate else {}
     checkpoint = Path(os.environ["ORG_TRANSLATION_CHECKPOINT"]) if os.environ.get("ORG_TRANSLATION_CHECKPOINT") else None
     if checkpoint and checkpoint.exists():
         saved = json.loads(checkpoint.read_text(encoding="utf-8"))

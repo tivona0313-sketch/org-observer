@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
   "sourceTitle": "New AI training performance benchmarks for Google TPUs",
   "status": "ready",
-  "attemptedAt": "2026-11-19T11:00:24.790997+00:00",
+  "attemptedAt": "2026-11-20T05:01:02.460553+00:00",
   "fetchedAt": "2026-11-16T17:23:39.215129+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
   "language": "en",
@@ -15,62 +15,62 @@
       "kind": "paragraph",
       "text": "In the latest MLPerf Training v6.1 benchmark round 1, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning frontier pre-training and the first MLPerf benchmark for agentic reinforcement learning (RL). Built on Google Cloud’s AI Hypercomputer architecture, these results reflect co-design across silicon, networking, and open software:",
       "id": "p1",
-      "zh": "在最新的MLPerf Training v 6.1基准回合一中,Google Cloud发布了跨第七代Ironwood TPU和NVIDIA Grace Blackwell GPU的10个结果,跨越前沿的前期培训,以及第一个MLPerf用于代理强化学习的基准(RL)。建在Google Cloud的AI超计算机架构上,这些结果反映了跨硅的共同设计,建立网络,和开放软件:",
+      "zh": "在最新的 MLPerf Training v6.1 基准测试第一轮中，Google Cloud 发布了 10 项结果，涵盖第七代 Ironwood TPU 和 NVIDIA Grace Blackwell GPU，涉及前沿预训练以及首个针对智能体驱动的强化学习（RL）的 MLPerf 基准测试。这些结果基于 Google Cloud 的 AI Hypercomputer 架构，反映了芯片、网络和开放软件之间的协同设计：",
       "en": "In the latest MLPerf Training v6.1 benchmark round 1, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning frontier pre-training and the first MLPerf benchmark for agentic reinforcement learning (RL). Built on Google Cloud’s AI Hypercomputer architecture, these results reflect co-design across silicon, networking, and open software:"
     },
     {
       "kind": "list",
       "text": "Pre-training on Ironwood: 8,192 Ironwood TPUs reached the target model's benchmark target quality in 1.70 minutes, scaling up to 4,096 chips with 96% efficiency.",
       "id": "p2",
-      "zh": "关于铁木的预训:8,192 Ironwood TPU在1.70分钟内达到了目标模型的基准目标质量,扩大至4,096个芯片,效率为96%.",
+      "zh": "Ironwood 上的预训练：8,192 个 Ironwood TPU 在 1.70 分钟内达到目标模型的基准目标质量，在扩展到 4,096 个芯片时效率达到 96%。",
       "en": "Pre-training on Ironwood: 8,192 Ironwood TPUs reached the target model's benchmark target quality in 1.70 minutes, scaling up to 4,096 chips with 96% efficiency."
     },
     {
       "kind": "list",
       "text": "Agentic RL on Ironwood: 640 Ironwood TPUs reached the target model’s coding benchmark target accuracy in 18.02 minutes (0.765 vs. the 0.69 goal), running code generation and learning simultaneously so training chips waited under 3% of the time.",
       "id": "p3",
-      "zh": "铁杉的代理RL:640 Ironwood TPU在18.02分(0.765 vs.(b) 0.69目标;运行代码生成和学习 同时,所以训练芯片 等待不到3%的时间。",
+      "zh": "Ironwood 上的智能体驱动强化学习：640 个 Ironwood TPU 在 18.02 分钟内达到目标模型的编码基准目标准确率（0.765，对比 0.69 的目标），同时运行代码生成和学习，使训练芯片的等待时间低于 3%。",
       "en": "Agentic RL on Ironwood: 640 Ironwood TPUs reached the target model’s coding benchmark target accuracy in 18.02 minutes (0.765 vs. the 0.69 goal), running code generation and learning simultaneously so training chips waited under 3% of the time."
     },
     {
       "kind": "list",
       "text": "NVIDIA Grace Blackwell GPUs: On Google Cloud A4X Max Instances, 256 NVIDIA GB300 GPUs reached the target model's benchmark quality in 31.96 minutes, complemented by five A4X and A4X Max submissions on the agentic RL benchmark.",
       "id": "p4",
-      "zh": "NVIDIA Grace Blackwell GPUs: (原始内容存档于2018-03-22) (英语).在Google Cloud A4X Max Inventences网站上,256 NVIDIA GB300 GPU在31.96分达到目标模型的基准质量,由5个A4X和A4X 最大值关于正电离层L基准的提交材料加以补充。",
+      "zh": "NVIDIA Grace Blackwell GPU：在 Google Cloud A4X Max 实例上，256 个 NVIDIA GB300 GPU 在 31.96 分钟内达到目标模型的基准质量，并在智能体驱动的强化学习基准测试中补充提交了五个 A4X 和 A4X Max 结果。",
       "en": "NVIDIA Grace Blackwell GPUs: On Google Cloud A4X Max Instances, 256 NVIDIA GB300 GPUs reached the target model's benchmark quality in 31.96 minutes, complemented by five A4X and A4X Max submissions on the agentic RL benchmark."
     },
     {
       "kind": "paragraph",
       "text": "For more details on the MLPerf Training v6.1 results, click here.",
       "id": "p5",
-      "zh": "关于MLPerf Training v 6.1结果的更详细信息,点击这里。",
+      "zh": "有关 MLPerf Training v6.1 结果的更多详情，请点击此处。",
       "en": "For more details on the MLPerf Training v6.1 results, click here."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "在最新的MLPerf Training v 6.1基准回合一中,Google Cloud发布了跨第七代Ironwood TPU和NVIDIA Grace Blackwell GPU的10个结果,跨越前沿的前期培训,以及第一个MLPerf用于代理强化学习的基准(RL)。建在Google Cloud的AI超计算机架构上,这些结果反映了跨硅的共同设计,建立网络,和开放软件:",
+      "zh": "在最新的 MLPerf Training v6.1 基准测试第一轮中，Google Cloud 发布了 10 项结果，涵盖第七代 Ironwood TPU 和 NVIDIA Grace Blackwell GPU，涉及前沿预训练以及首个针对智能体驱动的强化学习（RL）的 MLPerf 基准测试。这些结果基于 Google Cloud 的 AI Hypercomputer 架构，反映了芯片、网络和开放软件之间的协同设计：",
       "en": "In the latest MLPerf Training v6.1 benchmark round 1, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning frontier pre-training and the first MLPerf benchmark for agentic reinforcement learning (RL). Built on Google Cloud’s AI Hypercomputer architecture, these results reflect co-design across silicon, networking, and open software:"
     },
     {
       "paragraphId": "p2",
-      "zh": "关于铁木的预训:8,192 Ironwood TPU在1.70分钟内达到了目标模型的基准目标质量,扩大至4,096个芯片,效率为96%.",
+      "zh": "Ironwood 上的预训练：8,192 个 Ironwood TPU 在 1.70 分钟内达到目标模型的基准目标质量，在扩展到 4,096 个芯片时效率达到 96%。",
       "en": "Pre-training on Ironwood: 8,192 Ironwood TPUs reached the target model's benchmark target quality in 1.70 minutes, scaling up to 4,096 chips with 96% efficiency."
     },
     {
       "paragraphId": "p3",
-      "zh": "铁杉的代理RL:640 Ironwood TPU在18.02分(0.765 vs.(b) 0.69目标;运行代码生成和学习 同时,所以训练芯片 等待不到3%的时间。",
+      "zh": "Ironwood 上的智能体驱动强化学习：640 个 Ironwood TPU 在 18.02 分钟内达到目标模型的编码基准目标准确率（0.765，对比 0.69 的目标），同时运行代码生成和学习，使训练芯片的等待时间低于 3%。",
       "en": "Agentic RL on Ironwood: 640 Ironwood TPUs reached the target model’s coding benchmark target accuracy in 18.02 minutes (0.765 vs. the 0.69 goal), running code generation and learning simultaneously so training chips waited under 3% of the time."
     },
     {
       "paragraphId": "p4",
-      "zh": "NVIDIA Grace Blackwell GPUs: (原始内容存档于2018-03-22) (英语).在Google Cloud A4X Max Inventences网站上,256 NVIDIA GB300 GPU在31.96分达到目标模型的基准质量,由5个A4X和A4X 最大值关于正电离层L基准的提交材料加以补充。",
+      "zh": "NVIDIA Grace Blackwell GPU：在 Google Cloud A4X Max 实例上，256 个 NVIDIA GB300 GPU 在 31.96 分钟内达到目标模型的基准质量，并在智能体驱动的强化学习基准测试中补充提交了五个 A4X 和 A4X Max 结果。",
       "en": "NVIDIA Grace Blackwell GPUs: On Google Cloud A4X Max Instances, 256 NVIDIA GB300 GPUs reached the target model's benchmark quality in 31.96 minutes, complemented by five A4X and A4X Max submissions on the agentic RL benchmark."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "d4ce18251120c5f2d8059274537a1d8488b2e5abd675ebb43348b1cd0316af09"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "ad24b9619cc1bdac8416c3be423ffa02fe9d1a083ef377507060d40c035d4b3c"
 }

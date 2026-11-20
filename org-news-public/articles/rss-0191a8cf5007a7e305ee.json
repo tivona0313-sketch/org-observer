@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
   "sourceTitle": "The Gemini app is now available on lower-memory Android devices.",
   "status": "ready",
-  "attemptedAt": "2026-11-19T10:58:25.360194+00:00",
+  "attemptedAt": "2026-11-20T04:58:23.653570+00:00",
   "fetchedAt": "2026-11-18T17:17:09.229601+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
   "language": "en",
@@ -15,43 +15,43 @@
       "kind": "paragraph",
       "text": "For hundreds of millions of people globally, a lower-memory Android device is their everyday connection to the internet, education, and business.",
       "id": "p1",
-      "zh": "对于全球数以亿计的人,一个低等的Android设备是他们每天与互联网的连接,教育,和商务。",
+      "zh": "对于全球数亿人来说，低内存的 Android 设备是他们日常连接互联网、教育和商业的途径。",
       "en": "For hundreds of millions of people globally, a lower-memory Android device is their everyday connection to the internet, education, and business."
     },
     {
       "kind": "paragraph",
       "text": "Until recently, hardware limits meant those phones only had basic voice commands. Now, we’re bringing the Gemini app to eligible Android (Go edition) devices, putting Google’s personal AI assistant in the hands of hundreds of millions more people. We re-architected the app so the core Gemini experience runs smoothly on hardware with less memory.",
       "id": "p2",
-      "zh": "直到最近,我还是...硬件限制意味着这些手机只有基本的语音指令.现在我们把Gemini应用带给符合资格的Android(Go版)设备,将Google的个人AI助理交给了数亿人手中.我们重置了应用程序 这样核心Gemini体验 就能顺利运行在硬件上 记忆力更低",
+      "zh": "直到最近，硬件限制意味着这些手机仅有基本的语音命令。现在，我们将 Gemini 应用带给符合条件的 Android（Go 版）设备，让 Google 的个人 AI 助手惠及数亿更多人。我们重新设计了该应用，使核心 Gemini 体验能在内存较少的硬件上流畅运行。",
       "en": "Until recently, hardware limits meant those phones only had basic voice commands. Now, we’re bringing the Gemini app to eligible Android (Go edition) devices, putting Google’s personal AI assistant in the hands of hundreds of millions more people. We re-architected the app so the core Gemini experience runs smoothly on hardware with less memory."
     },
     {
       "kind": "paragraph",
       "text": "Instead of typing out long prompts, you can talk things through or practice for an interview out loud in more than 45 languages with Gemini Live, point your camera at notes or forms to learn and translate, or create custom images with Nano Banana — like a flyer for a weekend bakery sale. To get started, download the Gemini app on Google Play, press and hold the power button on supported phones, or look for it preloaded on upcoming devices from partners like Transsion.",
       "id": "p3",
-      "zh": "而不是打出长长的提示,你可以用超过45种语言 和Gemini生活一起 大声交谈或练习采访将相机指向笔记或表格来学习和翻译,或者用纳诺香蕉来制作定制的图像——比如周末面包店销售的传单.为了开始下载Google Play上的Gemini应用程序,按下电源按钮,按在支持的电话上,或从Transsion等合作伙伴的即将到来的设备上预装.",
+      "zh": "无需输入冗长的提示词，你可以使用 Gemini Live 用超过 45 种语言把问题聊清楚或大声练习面试，将相机对准笔记或表格进行学习和翻译，或者用 Nano Banana 创建自定义图像——比如周末面包店促销的传单。要开始使用，可在 Google Play 下载 Gemini 应用，在支持的手机上按住电源按钮，或在传音等合作伙伴即将推出的设备上查找预装的 Gemini。",
       "en": "Instead of typing out long prompts, you can talk things through or practice for an interview out loud in more than 45 languages with Gemini Live, point your camera at notes or forms to learn and translate, or create custom images with Nano Banana — like a flyer for a weekend bakery sale. To get started, download the Gemini app on Google Play, press and hold the power button on supported phones, or look for it preloaded on upcoming devices from partners like Transsion."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "对于全球数以亿计的人,一个低等的Android设备是他们每天与互联网的连接,教育,和商务。",
+      "zh": "对于全球数亿人来说，低内存的 Android 设备是他们日常连接互联网、教育和商业的途径。",
       "en": "For hundreds of millions of people globally, a lower-memory Android device is their everyday connection to the internet, education, and business."
     },
     {
       "paragraphId": "p2",
-      "zh": "直到最近,我还是...硬件限制意味着这些手机只有基本的语音指令.现在我们把Gemini应用带给符合资格的Android(Go版)设备,将Google的个人AI助理交给了数亿人手中.我们重置了应用程序 这样核心Gemini体验 就能顺利运行在硬件上 记忆力更低",
+      "zh": "直到最近，硬件限制意味着这些手机仅有基本的语音命令。现在，我们将 Gemini 应用带给符合条件的 Android（Go 版）设备，让 Google 的个人 AI 助手惠及数亿更多人。",
       "en": "Until recently, hardware limits meant those phones only had basic voice commands. Now, we’re bringing the Gemini app to eligible Android (Go edition) devices, putting Google’s personal AI assistant in the hands of hundreds of millions more people."
     },
     {
       "paragraphId": "p3",
-      "zh": "而不是打出长长的提示,你可以用超过45种语言 和Gemini生活一起 大声交谈或练习采访将相机指向笔记或表格来学习和翻译,或者用纳诺香蕉来制作定制的图像——比如周末面包店销售的传单.为了开始下载Google Play上的Gemini应用程序,按下电源按钮,按在支持的电话上,或从Transsion等合作伙伴的即将到来的设备上预装.",
+      "zh": "无需输入冗长的提示词，你可以使用 Gemini Live 用超过 45 种语言把问题聊清楚或大声练习面试，将相机对准笔记或表格进行学习和翻译，或者用 Nano Banana 创建自定义图像——比如周末面包店促销的传单。要开始使用，可在 Google Play 下载 Gemini 应用，在支持的手机上按住电源按钮，或在传音等合作伙伴即将推出的设备上查找预装的 Gemini。",
       "en": "Instead of typing out long prompts, you can talk things through or practice for an interview out loud in more than 45 languages with Gemini Live, point your camera at notes or forms to learn and translate, or create custom images with Nano Banana — like a flyer for a weekend bakery sale. To get started, download the Gemini app on Google Play, press and hold the power button on supported phones, or look for it preloaded on upcoming devices from partners like Transsion."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "8581d34f9151b7f5dec1af24597f38b6706f1073d5cecd782e6a17bb7b078a86"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "bd6dc5ec995738053719fa1a20bf13281ce65ebc23a9976a160e44ae03cf99ea"
 }

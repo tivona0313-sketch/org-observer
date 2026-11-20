@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
   "sourceTitle": "Read the EmbeddingGemma 2 technical report.",
   "status": "ready",
-  "attemptedAt": "2026-11-19T10:59:26.282242+00:00",
+  "attemptedAt": "2026-11-20T04:59:05.517643+00:00",
   "fetchedAt": "2026-11-17T17:15:01.093404+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
   "language": "en",
@@ -15,43 +15,43 @@
       "kind": "paragraph",
       "text": "We released EmbeddingGemma 2, which expands our text-only open embedding model with native multimodal understanding. It maps text, images, audio, and video, or any combination of them, into a single embedding space, all while compressing the model backbone into a more compact profile.",
       "id": "p1",
-      "zh": "我们释放了EmbeddingGemma 2,扩展我们仅文本的开放式嵌入模式,并具有本土的多模式理解。它映射了文本,图像,音频,和视频,或任何组合,进入一个单一的嵌入空间,将模型主干线压缩成更紧凑的配置 。",
+      "zh": "我们发布了 EmbeddingGemma 2，它将我们的纯文本开放式嵌入模型扩展为具备原生多模态理解能力。它能够将文本、图像、音频和视频，或它们的任意组合，映射到统一的嵌入空间中，同时将模型主干压缩为更紧凑的形态。",
       "en": "We released EmbeddingGemma 2, which expands our text-only open embedding model with native multimodal understanding. It maps text, images, audio, and video, or any combination of them, into a single embedding space, all while compressing the model backbone into a more compact profile."
     },
     {
       "kind": "paragraph",
       "text": "You can now get in-depth information about our training strategy, evaluation methodology, and experimental results in the official technical report. The model’s recipe features innovations that build on top of the latest technology from Gemma 4 and Gemini Embedding 2, enabling EmbeddingGemma 2 to learn an expressive and unified vector space.",
       "id": "p2",
-      "zh": "你现在可以得到关于我们训练战略的深入信息,评价方法,以及正式技术报告中的实验结果。该模型的配方以Gemma 4和Gemini嵌入2的最新技术为基础进行创新。使 EmbeddingGemma 2 能够学习一个表达和统一的向量空间.",
+      "zh": "您现在可以在官方技术报告中深入了解我们的训练策略、评估方法和实验结果。该模型的配方基于 Gemma 4 和 Gemini Embedding 2 的最新技术进行了创新，使 EmbeddingGemma 2 能够学习到富有表现力且统一的向量空间。",
       "en": "You can now get in-depth information about our training strategy, evaluation methodology, and experimental results in the official technical report. The model’s recipe features innovations that build on top of the latest technology from Gemma 4 and Gemini Embedding 2, enabling EmbeddingGemma 2 to learn an expressive and unified vector space."
     },
     {
       "kind": "paragraph",
       "text": "Watch our five-minute explainer to see how EmbeddingGemma 2 works and how it was developed.",
       "id": "p3",
-      "zh": "注意我们五分钟的解说者,看看EmbeddingGemma 2是如何工作的,以及它是如何发展的.",
+      "zh": "观看我们的五分钟讲解视频，了解 EmbeddingGemma 2 的工作原理及其开发过程。",
       "en": "Watch our five-minute explainer to see how EmbeddingGemma 2 works and how it was developed."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "我们释放了EmbeddingGemma 2,扩展我们仅文本的开放式嵌入模式,并具有本土的多模式理解。它映射了文本,图像,音频,和视频,或任何组合,进入一个单一的嵌入空间,将模型主干线压缩成更紧凑的配置 。",
+      "zh": "我们发布了 EmbeddingGemma 2，它将我们的纯文本开放式嵌入模型扩展为具备原生多模态理解能力。它能够将文本、图像、音频和视频，或它们的任意组合，映射到统一的嵌入空间中，同时将模型主干压缩为更紧凑的形态。",
       "en": "We released EmbeddingGemma 2, which expands our text-only open embedding model with native multimodal understanding. It maps text, images, audio, and video, or any combination of them, into a single embedding space, all while compressing the model backbone into a more compact profile."
     },
     {
       "paragraphId": "p2",
-      "zh": "你现在可以得到关于我们训练战略的深入信息,评价方法,以及正式技术报告中的实验结果。该模型的配方以Gemma 4和Gemini嵌入2的最新技术为基础进行创新。",
+      "zh": "您现在可以在官方技术报告中深入了解我们的训练策略、评估方法和实验结果。该模型的配方基于 Gemma 4 和 Gemini Embedding 2 的最新技术进行了创新，使 EmbeddingGemma 2 能够学习到富有表现力且统一的向量空间。",
       "en": "You can now get in-depth information about our training strategy, evaluation methodology, and experimental results in the official technical report. The model’s recipe features innovations that build on top of the latest technology from Gemma 4 and Gemini Embedding 2, enabling EmbeddingGemma 2 to learn an expressive and unified vector space."
     },
     {
       "paragraphId": "p3",
-      "zh": "注意我们五分钟的解说者,看看EmbeddingGemma 2是如何工作的,以及它是如何发展的.",
+      "zh": "观看我们的五分钟讲解视频，了解 EmbeddingGemma 2 的工作原理及其开发过程。",
       "en": "Watch our five-minute explainer to see how EmbeddingGemma 2 works and how it was developed."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "15f490bea936eadb4174105fcee42fecaf63f3fd1f7d3e1eb8648020d43b69d7"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "e467830cf8fed8181ea48f7302edf779da88fef4a549b6b071e611670a899b8b"
 }

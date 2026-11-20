@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T04:43:04.556564+00:00",
+  "updatedAt": "2026-11-20T05:06:02.790269+00:00",
   "articles": {
     "ms-frontier-2026": {
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
       "sourceTitle": "微软：AI 转型应从业务结果出发，连接人、组织知识与智能体治理",
-      "contentHash": "f7629865d3514e8e0ee5811050029dc8d732ad18bc876e124368e711b1ddda09",
+      "contentHash": "2809bb9cf5bc0a75fffd9cbee34b0f1c74b9478c738f45f0d6d3ef7c8588e58a",
       "fetchedAt": "2026-11-05T11:28:17.050015+00:00"
     },
     "anthropic-academy-2026": {
       "status": "ready",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
       "sourceTitle": "Anthropic 推出 Frontier Academy：围绕真实业务项目培养 AI 工程人才",
-      "contentHash": "4b3fc98606a1638c68adea2d74f4c85a6442d6a961faa59cfd632108568bf4a6",
+      "contentHash": "6ccf363c16e840b6b4fd5a4d008eaaf5828c51e1aaa22aec965bf760652a8515",
       "fetchedAt": "2026-11-05T11:28:16.976609+00:00"
     },
     "alibaba-ath-2026": {
       "status": "ready",
       "url": "https://www.alibabacloud.com/en/press-room/alibaba-positions-for-accelerated-ai-growth-in-sec",
       "sourceTitle": "阿里巴巴披露 ATH 事业群整合：将核心 AI 团队与产品纳入统一组织",
-      "contentHash": "3b70e2c5ef5380df66e7dc45e317ba1405bf76c4c193b108da4f5953081e8594",
+      "contentHash": "827a835f4823223f541ab1843eaeae36974fe26829bb201bbf77d11054139f93",
       "fetchedAt": "2026-11-05T11:28:16.767235+00:00"
     },
     "tencent-project-2026": {
@@ -41,91 +41,91 @@
       "status": "ready",
       "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
       "sourceTitle": "微软统一消费与商业 Copilot 组织，强化产品、平台与模型协同",
-      "contentHash": "f17f47aa00edd428423e0b97d6c6fef85792d73da671dd09d4af57c65340cc7e",
+      "contentHash": "63b96718904b4163ed56a1b9290b198ebfe6877fa02c8a7317c89fff3e9e34d7",
       "fetchedAt": "2026-11-05T11:28:19.235473+00:00"
     },
     "anthropic-work-2025": {
       "status": "ready",
       "url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
       "sourceTitle": "Anthropic 内部研究：工程师能力边界扩大，也开始担心技能与协作流失",
-      "contentHash": "c8ed74bb129392a563abcd9a0f0816e89d83cc824bdb5cde59c0a96edcb3595a",
+      "contentHash": "039bb0aaa0fe51a1d0603827096588c766e9ab0a6a1181892c5efb1c6e23826e",
       "fetchedAt": "2026-11-05T11:28:19.381357+00:00"
     },
     "amazon-workforce-2025": {
       "status": "ready",
       "url": "https://www.aboutamazon.com/news/company-news/amazon-workforce-reduction",
       "sourceTitle": "亚马逊公布企业岗位调整，将减少层级与增加责任归属列为方向",
-      "contentHash": "8282caaeb443ffb89997aa2c63e82b0cc2af4db57b03d476f560f01d479a2889",
+      "contentHash": "4872c869b6e75f196fd07ab39b60e0018747db3af09726daf93013c35833852f",
       "fetchedAt": "2026-11-05T11:28:22.189801+00:00"
     },
     "amazon-ai-2025": {
       "status": "ready",
       "url": "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-on-generative-ai",
       "sourceTitle": "Andy Jassy 谈生成式 AI：岗位组合将变化，员工应主动学习与实验",
-      "contentHash": "f2ed4e8c81b008a53f10352f68524fba7f5e40a18c72ef3af68ab9593b1c347b",
+      "contentHash": "54a557b9db82c58e149ecc8814c8aeaf7c46c4da96dbad043cc7f42cf8c09097",
       "fetchedAt": "2026-11-05T11:28:22.252323+00:00"
     },
     "rss-63610b904de29506452a": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
       "sourceTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "contentHash": "f5125a9e5fb390384121e7499965f2f0cb64a8e884678704fa96b3e24b0f7efb",
+      "contentHash": "2e6d13026c4b1901717bd583fab782d1ff50668c84367090eb06ad2983dbbdcc",
       "fetchedAt": "2026-11-19T17:16:45.350706+00:00"
     },
     "rss-9d9675420d9516dbe7fe": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
       "sourceTitle": "Small businesses, big results: How teams scale with AI",
-      "contentHash": "7f2b82dc4a007a4a8b38083692d581e6b14dd5af4d18aa287500da4907ec773d",
+      "contentHash": "6773f582cd8b3ea4d7376c982174f1bcdcb6abd895315d1871c9359e590b210a",
       "fetchedAt": "2026-11-19T17:16:45.219200+00:00"
     },
     "rss-dc88cc571d8c777142e5": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
       "sourceTitle": "Genie 4 is now available on the Gemini API.",
-      "contentHash": "40fa285573bbcaa76814008b108ca7b9beef3a04663763a5326952942f011994",
+      "contentHash": "65f2962f4b762b8ce1469ad7f2b74ec832ad9263454227aeba8b0e825255ee82",
       "fetchedAt": "2026-11-19T17:16:45.259268+00:00"
     },
     "rss-efdbd6c83627cffee94d": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
       "sourceTitle": "Let Gemini tackle repetitive chores on your Mac",
-      "contentHash": "632214b225f84b49ac22cfd550bcaf4d84d4deac0059172e14271a263df01733",
+      "contentHash": "f93c86848432033c9883f030c08d40b8249e1114dae993ac1b63718508642d0c",
       "fetchedAt": "2026-11-19T17:16:48.685745+00:00"
     },
     "rss-68f478bc125468f384e4": {
       "status": "ready",
       "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
       "sourceTitle": "Build strategic A/B tests to grow your ad performance.",
-      "contentHash": "181838b930f33286b7575e5d50f79dbbdcf6494a0aa795a776b51720e46df7b4",
+      "contentHash": "81d357e5f6ba6bc1385803cb877b8e72bacd45af35f6f6d78c1b6e8458b5a56d",
       "fetchedAt": "2026-11-19T17:16:48.538239+00:00"
     },
     "rss-e5ce7f7c8c7deb12d1d5": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
       "sourceTitle": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
-      "contentHash": "2deff1cd5f5b49975b77ca2801bb9e9d36e65ab2130492180b70a0e7687ed995",
+      "contentHash": "622bbd5083378d37f21f49ebc49ae0f37951dad3972a3f85f07a87293431c264",
       "fetchedAt": "2026-11-19T17:16:50.805542+00:00"
     },
     "rss-a89c20fefc5a11322a22": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
       "sourceTitle": "ICYMI: Transfer your history from other AI apps into Gemini.",
-      "contentHash": "926d1e1ab39cdb3cbcf2be7e20684574ec162e5594b1f233c81eec9e2f5c71d4",
+      "contentHash": "a58baea51b7df677084cf676d21e55eed86c9ede2bee725d9eeba8dfbb13e070",
       "fetchedAt": "2026-11-19T22:58:07.621235+00:00"
     },
     "rss-2f5da7a01f727a3319a2": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
       "sourceTitle": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
-      "contentHash": "a3d2b14369ec58d6f8c68d7cee2e6f30b4116aa9a9f23457f018421dc63b98d5",
+      "contentHash": "6fe68dcf5a8b260eb461d68d636177d3e2ad6747f60a16655bf86806eda53362",
       "fetchedAt": "2026-11-19T22:58:07.448619+00:00"
     },
     "rss-056cf0b58a3dbace6833": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "sourceTitle": "Introducing Tool Retrieval in the Gemini API",
-      "contentHash": "16f59faf96af9ddc810e131b102aaa87d07426c9910dfc495fc28361a7778244",
+      "contentHash": "32c639bd22f204922ccd694ff23acd56528e6dee4fbc8691811158ef25efa812",
       "fetchedAt": "2026-11-19T22:58:07.181924+00:00"
     },
     "rss-9342dbf934e428aa00c1": {
@@ -150,14 +150,14 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/",
       "sourceTitle": "Introducing Stitch Loop: A new way to build and evolve products",
-      "contentHash": "3fbd63e51bc7328dcda7fdda38c0b0693986a907c48b4174e7041097b4491926",
+      "contentHash": "e69b7c1e100836a9ee1a56724a283147d5f3a4f9bb74f2ece57cbfe77c03b967",
       "fetchedAt": "2026-11-18T17:17:08.902714+00:00"
     },
     "rss-0191a8cf5007a7e305ee": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
       "sourceTitle": "The Gemini app is now available on lower-memory Android devices.",
-      "contentHash": "8581d34f9151b7f5dec1af24597f38b6706f1073d5cecd782e6a17bb7b078a86",
+      "contentHash": "bd6dc5ec995738053719fa1a20bf13281ce65ebc23a9976a160e44ae03cf99ea",
       "fetchedAt": "2026-11-18T17:17:09.229601+00:00"
     },
     "rss-68ddb817fe4001c0fc7b": {
@@ -170,28 +170,28 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
       "sourceTitle": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
-      "contentHash": "f69a2f47046dda31ee7ed46135c3254642de44bf56a90417caba6df90908f79d",
+      "contentHash": "78736313f7e7cfeb5525c0798119cf1f897470c07dce08a46586fcdc4ba3fcaa",
       "fetchedAt": "2026-11-18T17:17:13.489418+00:00"
     },
     "rss-be0aed2f51056a6d6c6f": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "sourceTitle": "Introducing Gemini 4 Neon",
-      "contentHash": "64839ebf29c5b9de3435936dea76dfbfc8bf4fadf40ceafe57dcd1d88d92d3e3",
+      "contentHash": "52f3cf84fd551d2437811b7d233056d6f74179e534f735877df726507798e494",
       "fetchedAt": "2026-11-18T23:00:41.852192+00:00"
     },
     "rss-92196081162eff2ebc5a": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
       "sourceTitle": "Google for Mexico: Technology impact that goes beyond business",
-      "contentHash": "a52581d145722adc2214c5204a46f27ae658579be21d77f3a7a6d493b75b8668",
+      "contentHash": "f0c1eafa2ecb48415c6c852e2e19f471138bddb7a8ea23ff489ff2c85f621c8d",
       "fetchedAt": "2026-11-18T23:00:41.504662+00:00"
     },
     "rss-a261d2eee241a886eda0": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
       "sourceTitle": "Genie 4 is now available",
-      "contentHash": "44f6bffe7ac2498edaa065268bfa503a9c7a03366edc3177488f9215f0c891e8",
+      "contentHash": "aba16234750c7712dd7aba8bd34639af34f8943f174fae9a68d9b4b1f4b4b4dc",
       "fetchedAt": "2026-11-18T23:00:41.271016+00:00"
     },
     "rss-184d931227f2504de1a3": {
@@ -228,42 +228,42 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/",
       "sourceTitle": "Read the EmbeddingGemma 2 technical report.",
-      "contentHash": "15f490bea936eadb4174105fcee42fecaf63f3fd1f7d3e1eb8648020d43b69d7",
+      "contentHash": "e467830cf8fed8181ea48f7302edf779da88fef4a549b6b071e611670a899b8b",
       "fetchedAt": "2026-11-17T17:15:01.093404+00:00"
     },
     "rss-830da74434e8505c737e": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "sourceTitle": "Put Gemini to work for you",
-      "contentHash": "975b8b9523ae90be0a1bd80bc5c187a05c81019e96034fe979238b31fd30691c",
+      "contentHash": "b2d87aa825fd1be1c6a6af58476fcef98c9b3a795bf092a0d71b74a4dd28ff27",
       "fetchedAt": "2026-11-17T17:15:01.144980+00:00"
     },
     "rss-759ce8d82938a49ac3d1": {
       "status": "ready",
       "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
       "sourceTitle": "10 states team up with Google on free AI training",
-      "contentHash": "0d238a376f8a103eacdd83f902854aec22676a5fdc5bd1714102e7f9511162b4",
+      "contentHash": "7f430259ab4032e314359652fa6e0f3fb67f0d37fb867d9b3664229284c1b932",
       "fetchedAt": "2026-11-17T17:15:01.050572+00:00"
     },
     "rss-dbb0db3d32f06075cac7": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
       "sourceTitle": "Temporary threads are now available in AI Mode in Search.",
-      "contentHash": "5b0ab5fcb4e9e47cf29d7a9e9e3bd21950d8054f32ae3df2c400c4bffee6211e",
+      "contentHash": "2503ecdfa32344c5709da58fe89f1a2fdf50cae1adf1f0c881f510a2e8c9644a",
       "fetchedAt": "2026-11-17T17:15:04.419262+00:00"
     },
     "rss-3f4b299bfba49fc6f8fb": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/devices/google-nest/google-home-updates-november-2026/",
       "sourceTitle": "From easier entry to smarter savings, here’s what’s new in Google Home.",
-      "contentHash": "8e9d39f48f137ea79d0bd9ff4a39fc039de91f22a9c6f5be5772bf5fe44f6566",
+      "contentHash": "002ef60fd0df7c69a130bdd4f90b54c396a9a43d38cab8f731cd11e2f1c8be9d",
       "fetchedAt": "2026-11-17T17:15:06.229357+00:00"
     },
     "rss-ad34e4b84340ecc83794": {
       "status": "ready",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/",
       "sourceTitle": "Celebrate 100 years of Colonial Williamsburg online",
-      "contentHash": "74d085dc76ed2c73f0de7bb64c6fea0d361cce220654474bdbeef52137e344e0",
+      "contentHash": "f9ee01e213442c05d961b2c4af83e88ed2ebc0036e3b1e0986988bfb1e19e1d8",
       "fetchedAt": "2026-11-17T17:15:08.296757+00:00"
     },
     "rss-3b3be741a87f5e2153e6": {
@@ -276,14 +276,14 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
       "sourceTitle": "How genome mapping can help researchers better understand disease",
-      "contentHash": "9f60816ada056cc82005cf3021352b1f91e51baa8bdefcf2d80366005c49c030",
+      "contentHash": "429c5429b47a319e42d75c84ab5f23bd6d7557d6e3132cc5213d96c2762a7dde",
       "fetchedAt": "2026-11-17T23:02:46.440524+00:00"
     },
     "rss-73687e4d2d12cc3c627a": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
       "sourceTitle": "See what 5 builders are making with Gemini 4 Carbon",
-      "contentHash": "56c5e1635299f65b05e56cc50d94db265011e9448911db949950a6614eae36e4",
+      "contentHash": "7c8f7b7959723ab20c088da0ba1a33e1123849b17cc070b70f90dd0ade01b76f",
       "fetchedAt": "2026-11-17T23:02:47.156227+00:00"
     },
     "rss-3047d7657748ea760feb": {
@@ -302,28 +302,28 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
       "sourceTitle": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
-      "contentHash": "b99eaac502887f5e006da6c0b1489c53a0d9beef37870fda69b56a666007b040",
+      "contentHash": "17e960eead98a976c20534b2dbdfb543378c8e7dd69d4d7ca7d014e84df5851b",
       "fetchedAt": "2026-11-17T23:02:49.357191+00:00"
     },
     "rss-de2fdfd7d21bebae8a89": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
       "sourceTitle": "What teenagers really think about online safety and AI",
-      "contentHash": "9a3981f49ba1a0170afd0dcbd559e689d6ff239da2c11c732ffa3b81d6d5a0dc",
+      "contentHash": "fe488890103cfdd926dc48cbda5566cc3b1ead1387d209ebda80283b80474ffc",
       "fetchedAt": "2026-11-16T11:32:39.789648+00:00"
     },
     "rss-f6eef28ccc6a25ac7229": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
       "sourceTitle": "Helping teens navigate online news and information",
-      "contentHash": "a6eb244442503aee56e918ba6b43b6813fa7da6ac271543c073f14096ff6b2b9",
+      "contentHash": "6274473c7a5bc4e84a460eecd6da0280e3903270b69782865dbed58bd5a70992",
       "fetchedAt": "2026-11-16T11:32:39.758615+00:00"
     },
     "rss-a1ae67980e2b25b2c86a": {
       "status": "ready",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
       "sourceTitle": "Listening to teens on online safety",
-      "contentHash": "0589a4e5cfbb042e3918f911d5334260221f385eae6b39156a11e471ab8784c1",
+      "contentHash": "1c759f0ef65880f1b08e71ff36b63ff9be8558eedb649bc905acc0a9d32f16d3",
       "fetchedAt": "2026-11-16T11:32:39.672769+00:00"
     },
     "rss-ff7833693fa2a06713dc": {
@@ -336,35 +336,35 @@
       "status": "ready",
       "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
       "sourceTitle": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
-      "contentHash": "a543317400044f6c2598ef5b6ee13a0498ef0dc346150c15321a4d705fcae009",
+      "contentHash": "b498f20f26c3b704a22d81e17dc7705a7904cd0ab41e0edab059b3a10e58c22f",
       "fetchedAt": "2026-11-16T11:32:56.437345+00:00"
     },
     "rss-d544aca72f274648c916": {
       "status": "ready",
       "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
       "sourceTitle": "New Google AdMob AI tools help app creators build, fix, and grow faster",
-      "contentHash": "f1717e468f8a3af3cd554b4b4c9614dfe3d6ad43713958a0b809bcc79de0ab69",
+      "contentHash": "4896a1ba87863a5a76df8a85e9913f33ebfbe4051604a401ce6ece49010e5798",
       "fetchedAt": "2026-11-16T17:23:38.120268+00:00"
     },
     "rss-e8b857e8ee7e26563438": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
       "sourceTitle": "New AI training performance benchmarks for Google TPUs",
-      "contentHash": "d4ce18251120c5f2d8059274537a1d8488b2e5abd675ebb43348b1cd0316af09",
+      "contentHash": "ad24b9619cc1bdac8416c3be423ffa02fe9d1a083ef377507060d40c035d4b3c",
       "fetchedAt": "2026-11-16T17:23:39.215129+00:00"
     },
     "rss-11608d311d0047796796": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
       "sourceTitle": "New Ask Maps features to help with holiday travel and prep",
-      "contentHash": "aaee8f833cda9e3a8714db832d50980a805a984a2859f7e68528ac467db35833",
+      "contentHash": "d23edfe55ff55dae6f83b6eb73510c90ad30abf18028413902653925a21e29a6",
       "fetchedAt": "2026-11-16T17:23:38.679460+00:00"
     },
     "rss-5d2d450bd371c141cfdb": {
       "status": "ready",
       "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
       "sourceTitle": "Ask Maps is coming to Europe.",
-      "contentHash": "e1a59bda30fd1e99716ced44b6b9e87658e7f176456a238cbd27d7af11c32324",
+      "contentHash": "d0ad2da194b28ea4846a5fec8e18dbdbf0a0996ad1673e57f4c6aa94b5bad0bc",
       "fetchedAt": "2026-11-16T17:23:42.630260+00:00"
     },
     "rss-2d7a5d6b20fff3cd431e": {
@@ -407,21 +407,21 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
       "sourceTitle": "Regional voices are rolling out in the Gemini app.",
-      "contentHash": "1991e01b46f60d065d6fab8dc68852082cf6cc4edcd6b2dc6c1aad31eb11d2ea",
+      "contentHash": "f5001cfd12c296fb8831f391dc9c064b5666d3daac044e947e58f3759c772d80",
       "fetchedAt": "2026-11-16T22:57:03.445086+00:00"
     },
     "rss-e064cdc0ef6bfc1ede43": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
       "sourceTitle": "Outpace automated cyber threats with security built for nonstop defense.",
-      "contentHash": "a1302a16a3d807ffe9c656da8356d3b95bd35780b23b70a546fce772071c8266",
+      "contentHash": "ef518d02c1a5ecbfc113855a8e65e6b365083ead8473524e09703939ff5ce876",
       "fetchedAt": "2026-11-17T23:03:04.940617+00:00"
     },
     "rss-674d89a4a76fb1d82d6d": {
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
       "sourceTitle": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
-      "contentHash": "233a983e502a3fd783c2910552bbf5ed69548acb7baf7f733a0e9b0de288a5b9",
+      "contentHash": "2cd16ab50058abbd86165a90c4bce1b9f9b2773ee8776e5578ffaca5574d2a2c",
       "fetchedAt": "2026-11-16T22:57:03.435244+00:00"
     },
     "rss-b82b64ef90f76e66fb00": {
@@ -446,7 +446,7 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
       "sourceTitle": "Connect Google Wallet to Gemini for personal finance insights",
-      "contentHash": "d7fe02d86728c2565879036c71273771f65921f05404dacf6e7cebbed52cffac",
+      "contentHash": "7836b1e10d51053264fcd0a1e06f6c22c279d0d5b552afed33b7956d2c21df0f",
       "fetchedAt": "2026-11-13T17:03:48.830785+00:00"
     },
     "rss-7d4d71d056da02862d0b": {
@@ -526,7 +526,7 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
       "sourceTitle": "Introducing Gemini 4 Hydrogen",
-      "contentHash": "9286f18162020b98e5f763a252e2fb41927cc3aa625939279c5dcf4e7e2e3d32",
+      "contentHash": "088d4cabc4753c0e2743650f305550f42285a1c725dedd8ad0e683236478d742",
       "fetchedAt": "2026-11-12T22:56:32.437772+00:00"
     },
     "rss-a491aa90d650ab2bf91e": {
@@ -552,7 +552,7 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
       "sourceTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
-      "contentHash": "453cb93afe5edadddb7d57c91b2439db25f7dbe5978a88224f5327849b35650e",
+      "contentHash": "89ad3a0c09a71f69ae8cf6b98bb0f7dbea29355368df801003f2f212b61dfd04",
       "fetchedAt": "2026-11-11T17:05:32.252440+00:00"
     },
     "rss-3d65ccc2f5cdce6978b3": {
@@ -733,7 +733,7 @@
       "status": "ready",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "sourceTitle": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "contentHash": "522272c1ae20e966b2cb3c8ceeac7ae1541e48c28c72162d34a5f437d09a4400",
+      "contentHash": "fdc95a4ab11a9c7c2788465b4a2ff965e04afc3b82a8bf4ab06332bcaeb17cae",
       "fetchedAt": "2026-11-05T17:24:27.993604+00:00"
     },
     "rss-0a5cae75efd808fbf19d": {

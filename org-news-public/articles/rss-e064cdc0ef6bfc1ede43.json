@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
   "sourceTitle": "Outpace automated cyber threats with security built for nonstop defense.",
   "status": "ready",
-  "attemptedAt": "2026-11-19T11:00:29.649099+00:00",
+  "attemptedAt": "2026-11-20T05:01:36.938569+00:00",
   "fetchedAt": "2026-11-17T23:03:04.940617+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
   "language": "en",
@@ -15,50 +15,50 @@
       "kind": "paragraph",
       "text": "Imagine a hacker that doesn’t eat, sleep, or get tired, and never stops searching for a way in.",
       "id": "p1",
-      "zh": "想象一个不吃东西的黑客,睡觉吧或者感到疲惫,永远不要停止寻找进入的方法。",
+      "zh": "想象一个不吃不睡、不知疲倦的黑客，永不停歇地寻找入侵途径。",
       "en": "Imagine a hacker that doesn’t eat, sleep, or get tired, and never stops searching for a way in."
     },
     {
       "kind": "paragraph",
       "text": "According to the latest AI Threat Tracker report, bad actors are now using autonomous LLM frameworks to continuously scan software updates, figure out what flaw was patched, and build an attack for it — all without human involvement.",
       "id": "p2",
-      "zh": "根据最新AI威胁追踪器报告,坏角色现在使用自主LLM框架 持续扫描软件更新,找出什么缺陷是补齐的,并为它制造攻击——所有这一切都没有人类的参与。",
+      "zh": "根据最新的 AI Threat Tracker 报告，恶意行为者现在正使用自主 LLM 框架持续扫描软件更新，弄清修补了什么漏洞，并针对该漏洞构建攻击——全程无需人类参与。",
       "en": "According to the latest AI Threat Tracker report, bad actors are now using autonomous LLM frameworks to continuously scan software updates, figure out what flaw was patched, and build an attack for it — all without human involvement."
     },
     {
       "kind": "paragraph",
       "text": "Defending against machine-speed threats at human speed isn’t feasible. That's why we're helping defenders rethink security in the agentic era with Google AI Threat Defense, which combines Gemini and other frontier models, Wiz’s context and prioritization, CodeMender’s automated patching, and Mandiant’s expertise to continuously find and fix flaws before attackers can exploit them.",
       "id": "p3",
-      "zh": "以人类速度抵御机器速度威胁并不可行。这就是为什么我们帮助维权者 重新思考安全 在代理时代 与谷歌AI威胁防御,结合Gemini和其他前沿模型,Wiz的背景和优先次序,编码器的自动补丁,以及Mandiant在攻击者可以利用这些缺陷之前不断发现和纠正缺陷的专长。",
+      "zh": "以人类速度防御机器速度的威胁并不可行。因此，我们正在通过 Google AI Threat Defense 帮助防御者重新思考智能体驱动时代的安全，该方案结合了 Gemini 和其他前沿模型、Wiz 的上下文与优先级排序、CodeMender 的自动修补以及 Mandiant 的专业知识，以持续发现并修复漏洞，防患于攻击者利用之前。",
       "en": "Defending against machine-speed threats at human speed isn’t feasible. That's why we're helping defenders rethink security in the agentic era with Google AI Threat Defense, which combines Gemini and other frontier models, Wiz’s context and prioritization, CodeMender’s automated patching, and Mandiant’s expertise to continuously find and fix flaws before attackers can exploit them."
     },
     {
       "kind": "paragraph",
       "text": "Read the full report on the Google Cloud Threat Intelligence blog.",
       "id": "p4",
-      "zh": "读取谷歌\"云威胁情报\"博客的完整报道.",
+      "zh": "在 Google Cloud Threat Intelligence 博客上阅读完整报告。",
       "en": "Read the full report on the Google Cloud Threat Intelligence blog."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "想象一个不吃东西的黑客,睡觉吧或者感到疲惫,永远不要停止寻找进入的方法。",
+      "zh": "想象一个不吃不睡、不知疲倦的黑客，永不停歇地寻找入侵途径。",
       "en": "Imagine a hacker that doesn’t eat, sleep, or get tired, and never stops searching for a way in."
     },
     {
       "paragraphId": "p2",
-      "zh": "根据最新AI威胁追踪器报告,坏角色现在使用自主LLM框架 持续扫描软件更新,找出什么缺陷是补齐的,并为它制造攻击——所有这一切都没有人类的参与。",
+      "zh": "根据最新的 AI Threat Tracker 报告，恶意行为者现在正使用自主 LLM 框架持续扫描软件更新，弄清修补了什么漏洞，并针对该漏洞构建攻击——全程无需人类参与。",
       "en": "According to the latest AI Threat Tracker report, bad actors are now using autonomous LLM frameworks to continuously scan software updates, figure out what flaw was patched, and build an attack for it — all without human involvement."
     },
     {
       "paragraphId": "p3",
-      "zh": "以人类速度抵御机器速度威胁并不可行。这就是为什么我们帮助维权者 重新思考安全 在代理时代 与谷歌AI威胁防御,结合Gemini和其他前沿模型,Wiz的背景和优先次序,编码器的自动补丁,以及Mandiant在攻击者可以利用这些缺陷之前不断发现和纠正缺陷的专长。",
+      "zh": "以人类速度防御机器速度的威胁并不可行。因此，我们正在通过 Google AI Threat Defense 帮助防御者重新思考智能体驱动时代的安全，该方案结合了 Gemini 和其他前沿模型、Wiz 的上下文与优先级排序、CodeMender 的自动修补以及 Mandiant 的专业知识，以持续发现并修复漏洞，防患于攻击者利用之前。",
       "en": "Defending against machine-speed threats at human speed isn’t feasible. That's why we're helping defenders rethink security in the agentic era with Google AI Threat Defense, which combines Gemini and other frontier models, Wiz’s context and prioritization, CodeMender’s automated patching, and Mandiant’s expertise to continuously find and fix flaws before attackers can exploit them."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "a1302a16a3d807ffe9c656da8356d3b95bd35780b23b70a546fce772071c8266"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "ef518d02c1a5ecbfc113855a8e65e6b365083ead8473524e09703939ff5ce876"
 }

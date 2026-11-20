@@ -4,7 +4,7 @@
   "url": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
   "sourceTitle": "Temporary threads are now available in AI Mode in Search.",
   "status": "ready",
-  "attemptedAt": "2026-11-19T10:59:30.468837+00:00",
+  "attemptedAt": "2026-11-20T04:59:41.528446+00:00",
   "fetchedAt": "2026-11-17T17:15:04.419262+00:00",
   "finalURL": "https://blog.google/products-and-platforms/products/search/temporary-threads-ai-mode/",
   "language": "en",
@@ -15,43 +15,43 @@
       "kind": "paragraph",
       "text": "We’re introducing temporary threads in AI Mode, where you can explore and ask questions — whether that’s brainstorming a surprise gift or looking something up you don’t want resurfaced later like in your history or recommendations.",
       "id": "p1",
-      "zh": "我们引入了AI模式的临时线程,你可以去探索和问问题, 无论是集思广益的礼物, 或寻找一些你不想在以后重现的东西,建议。",
+      "zh": "我们正在 AI Mode 中推出临时会话，您可以在这里探索和提问——无论是为一份惊喜礼物进行头脑风暴，还是查找您不希望之后在历史记录或推荐中再次出现的内容。",
       "en": "We’re introducing temporary threads in AI Mode, where you can explore and ask questions — whether that’s brainstorming a surprise gift or looking something up you don’t want resurfaced later like in your history or recommendations."
     },
     {
       "kind": "paragraph",
       "text": "There’s no need to adjust your settings — you can quickly jump into a temporary thread for any query you don't want saved, and switch right back when you're done. To get started, simply click the temporary threads icon in the upper right corner of AI Mode and start asking your questions. Because your session is completely detached from your account, your responses won’t be informed by past preferences, affect future personalization, or be saved to your history. Once you close the thread, it’s gone, letting you go back to searching as usual.",
       "id": "p2",
-      "zh": "不需要调整您的设置, 您可以快速跳入一个临时的线程, 用于任何您不想保存的查询,完事后就转回去为了开始只需单击 AI Mode 右上角的临时线程图标即可开始询问您的问题。因为你的会话完全脱离了你的账户您的回复不会被过去偏好所得知,影响未来的个性化,或者被保存在你的历史上。一旦你关闭了线条,它已经消失,让你像往常一样回去寻找",
+      "zh": "无需调整您的设置——对于任何您不希望保存的查询，您可以快速进入临时会话，完成后即可切回。要开始使用，只需点击 AI Mode 右上角的临时会话图标，然后开始提问即可。由于您的会话与您的账户完全分离，您的回复不会受过去偏好的影响，不会影响未来的个性化，也不会保存到您的历史记录中。关闭会话后，它就会消失，让您照常继续搜索。",
       "en": "There’s no need to adjust your settings — you can quickly jump into a temporary thread for any query you don't want saved, and switch right back when you're done. To get started, simply click the temporary threads icon in the upper right corner of AI Mode and start asking your questions. Because your session is completely detached from your account, your responses won’t be informed by past preferences, affect future personalization, or be saved to your history. Once you close the thread, it’s gone, letting you go back to searching as usual."
     },
     {
       "kind": "paragraph",
       "text": "This feature is rolling out globally on desktop and mobile browsers across all languages supported in AI Mode.",
       "id": "p3",
-      "zh": "该功能正在AI Mode所支持的所有语言的桌面和移动浏览器上在全球展开.",
+      "zh": "此功能正在全球范围内面向桌面端和移动端浏览器逐步推出，覆盖 AI Mode 支持的所有语言。",
       "en": "This feature is rolling out globally on desktop and mobile browsers across all languages supported in AI Mode."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "我们引入了AI模式的临时线程,你可以去探索和问问题, 无论是集思广益的礼物, 或寻找一些你不想在以后重现的东西,建议。",
+      "zh": "我们正在 AI Mode 中推出临时会话，您可以在这里探索和提问——无论是为一份惊喜礼物进行头脑风暴，还是查找您不希望之后在历史记录或推荐中再次出现的内容。",
       "en": "We’re introducing temporary threads in AI Mode, where you can explore and ask questions — whether that’s brainstorming a surprise gift or looking something up you don’t want resurfaced later like in your history or recommendations."
     },
     {
       "paragraphId": "p2",
-      "zh": "不需要调整您的设置, 您可以快速跳入一个临时的线程, 用于任何您不想保存的查询,完事后就转回去为了开始只需单击 AI Mode 右上角的临时线程图标即可开始询问您的问题。因为你的会话完全脱离了你的账户您的回复不会被过去偏好所得知,影响未来的个性化,或者被保存在你的历史上。",
+      "zh": "无需调整您的设置——对于任何您不希望保存的查询，您可以快速进入临时会话，完成后即可切回。要开始使用，只需点击 AI Mode 右上角的临时会话图标，然后开始提问即可。",
       "en": "There’s no need to adjust your settings — you can quickly jump into a temporary thread for any query you don't want saved, and switch right back when you're done. To get started, simply click the temporary threads icon in the upper right corner of AI Mode and start asking your questions."
     },
     {
       "paragraphId": "p3",
-      "zh": "该功能正在AI Mode所支持的所有语言的桌面和移动浏览器上在全球展开.",
+      "zh": "此功能正在全球范围内面向桌面端和移动端浏览器逐步推出，覆盖 AI Mode 支持的所有语言。",
       "en": "This feature is rolling out globally on desktop and mobile browsers across all languages supported in AI Mode."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "5b0ab5fcb4e9e47cf29d7a9e9e3bd21950d8054f32ae3df2c400c4bffee6211e"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "2503ecdfa32344c5709da58fe89f1a2fdf50cae1adf1f0c881f510a2e8c9644a"
 }

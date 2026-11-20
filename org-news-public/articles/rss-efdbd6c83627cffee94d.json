@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
   "sourceTitle": "Let Gemini tackle repetitive chores on your Mac",
   "status": "ready",
-  "attemptedAt": "2026-11-19T17:16:46.277532+00:00",
+  "attemptedAt": "2026-11-20T04:57:52.433157+00:00",
   "fetchedAt": "2026-11-19T17:16:48.685745+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
   "language": "en",
@@ -15,83 +15,83 @@
       "kind": "paragraph",
       "text": "Starting today, computer use in the Gemini app for Mac helps you get multi-step tasks done across your local files, desktop apps, and the web. This saves you time on the repetitive work that normally takes dozens of clicks. Just describe what you need, and Gemini handles the clicking, typing, menus, and forms for you.",
       "id": "p1",
-      "zh": "从今天开始电脑在Gemini应用程序中用于Mac 帮助您完成跨本地文件的多步任务,桌面应用程序,和网络。这可以节省你的时间 重复工作,通常需要数十次点击。说说你需要什么,Gemini处理点击,输入,菜单,和表格给你。",
+      "zh": "从今天起，Mac 版 Gemini 应用中的计算机使用功能可帮助你在本地文件、桌面应用和网页中完成多步骤任务。这能为你节省通常需要数十次点击的重复性工作的时间。只需描述你的需求，Gemini 就会为你处理点击、输入、菜单和表单。",
       "en": "Starting today, computer use in the Gemini app for Mac helps you get multi-step tasks done across your local files, desktop apps, and the web. This saves you time on the repetitive work that normally takes dozens of clicks. Just describe what you need, and Gemini handles the clicking, typing, menus, and forms for you."
     },
     {
       "kind": "paragraph",
       "text": "Gemini works inside an isolated background window with a live preview right in your chat. Your main screen and cursor remain completely free, so you can keep typing, designing, or taking calls without interruption. Privacy and safety are built in: you choose which apps Gemini can access, watch every step live, pause at any time, and approve key actions before they happen.",
       "id": "p2",
-      "zh": "Gemini工作在一个孤立的背景窗口内,在您的聊天中有一个现场预览.您的主屏幕和光标仍然完全自由,让你可以继续打字,设计,或不间断地接听电话。隐私和安全体现在:你选择Gemini可以访问的应用程序,看着每一步的直播,随时暂停,并在关键行动发生之前批准这些行动。",
+      "zh": "Gemini 在一个隔离的后台窗口中运行，并在你的聊天中提供实时预览。你的主屏幕和光标完全不受影响，因此你可以继续打字、设计或接听电话而不会中断。隐私和安全性已内置：你可以选择 Gemini 可以访问哪些应用，实时观看每一步，随时暂停，并在关键操作发生前批准它们。",
       "en": "Gemini works inside an isolated background window with a live preview right in your chat. Your main screen and cursor remain completely free, so you can keep typing, designing, or taking calls without interruption. Privacy and safety are built in: you choose which apps Gemini can access, watch every step live, pause at any time, and approve key actions before they happen."
     },
     {
       "kind": "paragraph",
       "text": "Here are a few ways you can start trying it today:",
       "id": "p3",
-      "zh": "以下是你今天可以开始尝试的一些方法:",
+      "zh": "以下是今天就可以开始尝试的几种方式：",
       "en": "Here are a few ways you can start trying it today:"
     },
     {
       "kind": "list",
       "text": "Speed up creative workflows: Batch color-grade photos in your favorite design software or set up complex 3D scenes.",
       "id": "p4",
-      "zh": "加快创意工作流程:在你最喜欢的设计软件中批量的彩色级照片,或者设置复杂的3D场景.",
+      "zh": "加快创意工作流程：在你喜欢的设计软件中批量对照片进行调色，或搭建复杂的三维场景。",
       "en": "Speed up creative workflows: Batch color-grade photos in your favorite design software or set up complex 3D scenes."
     },
     {
       "kind": "list",
       "text": "Skip manual form entry: Extract weights, dimensions, and addresses from local PDFs to fill out multi-box shipping quotes.",
       "id": "p5",
-      "zh": "跳过手动窗体条目 :抽取重量,维度,和来自本地 PDF 的地址,以填充多箱航运报价。",
+      "zh": "跳过手动填写表单：从本地 PDF 中提取重量、尺寸和地址，填写多箱货运报价单。",
       "en": "Skip manual form entry: Extract weights, dimensions, and addresses from local PDFs to fill out multi-box shipping quotes."
     },
     {
       "kind": "list",
       "text": "Turn live data into ready-to-present decks: Pull metrics and screenshots from live dashboards across multiple regions and build a presentation in Google Slides.",
       "id": "p6",
-      "zh": "将实时数据转换成现成的甲板:从覆盖多个区域的实时仪表板上拉出度量衡和截图,并在Google幻灯片中构建演示文稿.",
+      "zh": "将实时数据转化为可直接演示的幻灯片：从多个地区的实时仪表板中提取指标和截图，并在 Google Slides 中制作演示文稿。",
       "en": "Turn live data into ready-to-present decks: Pull metrics and screenshots from live dashboards across multiple regions and build a presentation in Google Slides."
     },
     {
       "kind": "list",
       "text": "Batch-list items for sale: Analyze clothing photos from a local folder, research pricing, log item details, and stage listings on resale platforms.",
       "id": "p7",
-      "zh": "批量列表销售项目 :从本地文件夹分析服装照片,研究定价,日志项目细节,在转售平台上登上舞台",
+      "zh": "批量上架待售物品：分析本地文件夹中的服装照片，研究定价，记录物品详情，并在转售平台上准备上架信息。",
       "en": "Batch-list items for sale: Analyze clothing photos from a local folder, research pricing, log item details, and stage listings on resale platforms."
     },
     {
       "kind": "paragraph",
       "text": "Computer use is rolling out in English in the U.S. in the Gemini app for Mac. 1 Download the app at gemini.google/mac to get started.",
       "id": "p8",
-      "zh": "计算机的使用在美国英语中逐渐推广.在Gemini应用为Mac。1 在 Gemini. google/mac 下载应用程序开始 。",
+      "zh": "计算机使用功能正在美国以英语在 Mac 版 Gemini 应用中逐步推出。1 访问 gemini.google/mac 下载应用即可开始使用。",
       "en": "Computer use is rolling out in English in the U.S. in the Gemini app for Mac. 1 Download the app at gemini.google/mac to get started."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "从今天开始电脑在Gemini应用程序中用于Mac 帮助您完成跨本地文件的多步任务,桌面应用程序,和网络。这可以节省你的时间 重复工作,通常需要数十次点击。",
+      "zh": "从今天起，Mac 版 Gemini 应用中的计算机使用功能可帮助你在本地文件、桌面应用和网页中完成多步骤任务。这能为你节省通常需要数十次点击的重复性工作的时间。",
       "en": "Starting today, computer use in the Gemini app for Mac helps you get multi-step tasks done across your local files, desktop apps, and the web. This saves you time on the repetitive work that normally takes dozens of clicks."
     },
     {
       "paragraphId": "p2",
-      "zh": "Gemini工作在一个孤立的背景窗口内,在您的聊天中有一个现场预览.您的主屏幕和光标仍然完全自由,让你可以继续打字,设计,或不间断地接听电话。隐私和安全体现在:你选择Gemini可以访问的应用程序,看着每一步的直播,随时暂停,并在关键行动发生之前批准这些行动。",
+      "zh": "Gemini 在一个隔离的后台窗口中运行，并在你的聊天中提供实时预览。你的主屏幕和光标完全不受影响，因此你可以继续打字、设计或接听电话而不会中断。",
       "en": "Gemini works inside an isolated background window with a live preview right in your chat. Your main screen and cursor remain completely free, so you can keep typing, designing, or taking calls without interruption."
     },
     {
       "paragraphId": "p4",
-      "zh": "加快创意工作流程:在你最喜欢的设计软件中批量的彩色级照片,或者设置复杂的3D场景.",
+      "zh": "加快创意工作流程：在你喜欢的设计软件中批量对照片进行调色，或搭建复杂的三维场景。",
       "en": "Speed up creative workflows: Batch color-grade photos in your favorite design software or set up complex 3D scenes."
     },
     {
       "paragraphId": "p8",
-      "zh": "计算机的使用在美国英语中逐渐推广.在Gemini应用为Mac。1 在 Gemini. google/mac 下载应用程序开始 。",
+      "zh": "计算机使用功能正在美国以英语在 Mac 版 Gemini 应用中逐步推出。1 访问 gemini.google/mac 下载应用即可开始使用。",
       "en": "Computer use is rolling out in English in the U.S. in the Gemini app for Mac. 1 Download the app at gemini.google/mac to get started."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "632214b225f84b49ac22cfd550bcaf4d84d4deac0059172e14271a263df01733"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "f93c86848432033c9883f030c08d40b8249e1114dae993ac1b63718508642d0c"
 }

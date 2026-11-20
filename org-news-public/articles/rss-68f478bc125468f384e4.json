@@ -4,7 +4,7 @@
   "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
   "sourceTitle": "Build strategic A/B tests to grow your ad performance.",
   "status": "ready",
-  "attemptedAt": "2026-11-19T17:16:46.634017+00:00",
+  "attemptedAt": "2026-11-20T04:57:59.886482+00:00",
   "fetchedAt": "2026-11-19T17:16:48.538239+00:00",
   "finalURL": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
   "language": "en",
@@ -15,76 +15,76 @@
       "kind": "paragraph",
       "text": "In an era of rapid AI innovation, experimentation can serve as a strategic compass. In the latest episode of Ads Decoded, Ads Product Liaison Ginny Marvin sits down with product leads Sagar Shah and Al Nevarez to explore how A/B testing validates AI Max features, budget shifts, and Smart Bidding strategies.",
       "id": "p1",
-      "zh": "在AI快速创新的时代,实验可以作为战略指南针。在Ads Decoded的最新一集中,Ads Product Liberation Ginny Marvins坐下来与产品合作 引导Sagar Shah和Al Nevarez探索A/B测试如何验证AI Max的特性,预算变动,和聪明的竞价策略",
+      "zh": "在AI快速创新的时代，实验可以充当战略指南针。在最新一期的《Ads Decoded》中，广告产品联络人Ginny Marvin与产品负责人Sagar Shah和Al Nevarez展开对话，探讨A/B测试如何验证AI Max功能、预算调整和Smart Bidding策略。",
       "en": "In an era of rapid AI innovation, experimentation can serve as a strategic compass. In the latest episode of Ads Decoded, Ads Product Liaison Ginny Marvin sits down with product leads Sagar Shah and Al Nevarez to explore how A/B testing validates AI Max features, budget shifts, and Smart Bidding strategies."
     },
     {
       "kind": "paragraph",
       "text": "Three key rules to guide your testing:",
       "id": "p2",
-      "zh": "指导测试的三项关键规则:",
+      "zh": "指导您进行测试的三条关键规则：",
       "en": "Three key rules to guide your testing:"
     },
     {
       "kind": "list",
       "text": "Start with templated setups: Pre-built templates isolate single variables, split traffic 50/50, and minimize setup errors for cleaner data.",
       "id": "p3",
-      "zh": "以模板设置开始 :预建模板隔离单个变量,分流量50/50,并尽量减少更清洁数据的设置错误。",
+      "zh": "从模板化设置开始：预构建的模板可隔离单一变量，按50/50比例拆分流量，并尽量减少设置错误，以获得更干净的数据。",
       "en": "Start with templated setups: Pre-built templates isolate single variables, split traffic 50/50, and minimize setup errors for cleaner data."
     },
     {
       "kind": "list",
       "text": "Focus on business outcomes: Measure qualified conversions rather than shallow proxies, and give tests four to six weeks to account for conversion lag.",
       "id": "p4",
-      "zh": "注重业务成果:测量合格的转换而不是浅的代词,并进行四周至六周的测试,以说明转换滞后。",
+      "zh": "关注业务成果：衡量合格转化，而不是浅层代理指标，并给测试留出四到六周时间，以考虑转化延迟。",
       "en": "Focus on business outcomes: Measure qualified conversions rather than shallow proxies, and give tests four to six weeks to account for conversion lag."
     },
     {
       "kind": "list",
       "text": "Match confidence to decision scope: An 80% confidence interval works well for directional tweaks. Reserve 95% certainty for major structural overhauls.",
       "id": "p5",
-      "zh": "将信心与决定范围匹配 :80%的置信间隔对方向扭矩很有效.预留95%的确定性用于重大结构整改.",
+      "zh": "将置信度与决策范围相匹配：80%的置信区间适用于方向性调整。请将95%的确定性保留给重大结构性变革。",
       "en": "Match confidence to decision scope: An 80% confidence interval works well for directional tweaks. Reserve 95% certainty for major structural overhauls."
     },
     {
       "kind": "paragraph",
       "text": "Explore the Experiments tab in Google Ads, test with confidence, and let data prove the value before scaling.",
       "id": "p6",
-      "zh": "探索Google广告中的实验标签,以信心考验,并让数据在缩放前证明数值。",
+      "zh": "探索Google Ads中的“实验”标签页，放心进行测试，并在扩大规模之前让数据证明价值。",
       "en": "Explore the Experiments tab in Google Ads, test with confidence, and let data prove the value before scaling."
     },
     {
       "kind": "paragraph",
       "text": "Listen here.",
       "id": "p7",
-      "zh": "听着",
+      "zh": "点击此处收听。",
       "en": "Listen here."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "在AI快速创新的时代,实验可以作为战略指南针。在Ads Decoded的最新一集中,Ads Product Liberation Ginny Marvins坐下来与产品合作 引导Sagar Shah和Al Nevarez探索A/B测试如何验证AI Max的特性,预算变动,和聪明的竞价策略",
+      "zh": "在AI快速创新的时代，实验可以充当战略指南针。在最新一期的《Ads Decoded》中，广告产品联络人Ginny Marvin与产品负责人Sagar Shah和Al Nevarez展开对话，探讨A/B测试如何验证AI Max功能、预算调整和Smart Bidding策略。",
       "en": "In an era of rapid AI innovation, experimentation can serve as a strategic compass. In the latest episode of Ads Decoded, Ads Product Liaison Ginny Marvin sits down with product leads Sagar Shah and Al Nevarez to explore how A/B testing validates AI Max features, budget shifts, and Smart Bidding strategies."
     },
     {
       "paragraphId": "p3",
-      "zh": "以模板设置开始 :预建模板隔离单个变量,分流量50/50,并尽量减少更清洁数据的设置错误。",
+      "zh": "从模板化设置开始：预构建的模板可隔离单一变量，按50/50比例拆分流量，并尽量减少设置错误，以获得更干净的数据。",
       "en": "Start with templated setups: Pre-built templates isolate single variables, split traffic 50/50, and minimize setup errors for cleaner data."
     },
     {
       "paragraphId": "p4",
-      "zh": "注重业务成果:测量合格的转换而不是浅的代词,并进行四周至六周的测试,以说明转换滞后。",
+      "zh": "关注业务成果：衡量合格转化，而不是浅层代理指标，并给测试留出四到六周时间，以考虑转化延迟。",
       "en": "Focus on business outcomes: Measure qualified conversions rather than shallow proxies, and give tests four to six weeks to account for conversion lag."
     },
     {
       "paragraphId": "p5",
-      "zh": "将信心与决定范围匹配 :80%的置信间隔对方向扭矩很有效.预留95%的确定性用于重大结构整改.",
+      "zh": "将置信度与决策范围相匹配：80%的置信区间适用于方向性调整。请将95%的确定性保留给重大结构性变革。",
       "en": "Match confidence to decision scope: An 80% confidence interval works well for directional tweaks. Reserve 95% certainty for major structural overhauls."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "181838b930f33286b7575e5d50f79dbbdcf6494a0aa795a776b51720e46df7b4"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "81d357e5f6ba6bc1385803cb877b8e72bacd45af35f6f6d78c1b6e8458b5a56d"
 }

@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
   "sourceTitle": "Connect Google Wallet to Gemini for personal finance insights",
   "status": "ready",
-  "attemptedAt": "2026-11-19T11:00:30.889495+00:00",
+  "attemptedAt": "2026-11-20T05:01:46.629997+00:00",
   "fetchedAt": "2026-11-13T17:03:48.830785+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
   "language": "en",
@@ -15,104 +15,104 @@
       "kind": "paragraph",
       "text": "Personal Intelligence in Gemini securely connects information from apps you already use — like Gmail, Photos, YouTube, and Search — to make your experience more personalized and helpful. Today, we’re adding Google Wallet to the list of connected apps so you can get more tailored responses around personal finance.",
       "id": "p1",
-      "zh": "Gemini的个人情报系统 安全地连接了您已经使用的应用程序中的信息 比如Gmail照片, 照片, 照片,(原始内容存档于2017-09-21). YouTube,.和搜索——使你的经验更加个性化和有帮助.今天,我们...我们正将Google钱包添加到连接的应用程序列表中,",
+      "zh": "Gemini 中的 Personal Intelligence 可安全地连接你已使用的应用中的信息（例如 Gmail、Google 相册、YouTube 和 Google 搜索），让体验更加个性化和实用。今天，我们将 Google Wallet 加入已连接应用列表，以便你能获得更贴合个人财务需求的回答。",
       "en": "Personal Intelligence in Gemini securely connects information from apps you already use — like Gmail, Photos, YouTube, and Search — to make your experience more personalized and helpful. Today, we’re adding Google Wallet to the list of connected apps so you can get more tailored responses around personal finance."
     },
     {
       "kind": "heading",
       "text": "Understand and plan your finances with Google Wallet",
       "id": "p2",
-      "zh": "理解并计划您的财务 与谷歌钱包",
+      "zh": "借助 Google Wallet 了解并规划你的财务",
       "en": "Understand and plan your finances with Google Wallet"
     },
     {
       "kind": "paragraph",
       "text": "Rolling out today for all Gemini app users in the U.S., you can connect Google Wallet for responses informed by your spending habits. You also have the option to securely link your financial accounts from your credit cards and banks to Wallet via Plaid to unlock deeper insights.",
       "id": "p3",
-      "zh": "今天在美国推出Gemini应用软件的用户您可以连接 Google 钱包, 以了解您的支出习惯。你也可以选择从你的信用卡和银行 安全地连接你的财务账户 通过Plaid 打开更深入的洞察力。",
+      "zh": "从今天起面向美国所有 Gemini 应用用户推出，你可以连接 Google Wallet，让回答基于你的消费习惯。你还可以选择通过 Plaid 将信用卡和银行中的财务账户安全关联到 Wallet，以解锁更深入的洞察。",
       "en": "Rolling out today for all Gemini app users in the U.S., you can connect Google Wallet for responses informed by your spending habits. You also have the option to securely link your financial accounts from your credit cards and banks to Wallet via Plaid to unlock deeper insights."
     },
     {
       "kind": "paragraph",
       "text": "Jump into Gemini and tag @Google Wallet to ask questions around personal finance, budgeting and more. Here are some things to try:",
       "id": "p4",
-      "zh": "跳入Gemini并标记@Google钱包,预算编制和其他预算。这里有一些东西要尝试:",
+      "zh": "打开 Gemini 并标记 @Google Wallet，即可询问个人财务、预算等方面的问题。以下是一些可以尝试的用法：",
       "en": "Jump into Gemini and tag @Google Wallet to ask questions around personal finance, budgeting and more. Here are some things to try:"
     },
     {
       "kind": "list",
       "text": "Visualize spending: Questions like “can we review my spending from last quarter so I can save $1,000 over the next three months?” enable Gemini to generate dynamic charts tracking cash flow, asset allocation, and budgets directly in your chat.",
       "id": "p5",
-      "zh": "可视化支出 :例如“我们可以回顾我上季度的支出,这样我就可以在今后三个月中节省1 000美元?” 让Gemini能够生成动态图表,跟踪现金流,资产分配,和预算直接在您的聊天。",
+      "zh": "可视化支出：诸如“我们能否回顾我上个季度的支出，以便我在接下来三个月内存下 1,000 美元？”这样的问题，可让 Gemini 直接在聊天中生成动态图表，跟踪现金流、资产配置和预算。",
       "en": "Visualize spending: Questions like “can we review my spending from last quarter so I can save $1,000 over the next three months?” enable Gemini to generate dynamic charts tracking cash flow, asset allocation, and budgets directly in your chat."
     },
     {
       "kind": "list",
       "text": "Find forgotten subscriptions: If you ask \"what subscriptions am I still paying for, and did any of them go up in price this year?\" Gemini finds recurring charges across your linked accounts and flags price increases.",
       "id": "p6",
-      "zh": "查找被遗忘的订阅 :如果你问\"我还付什么订阅费\"Gemini发现你连结的账户经常收费, 以及旗价上涨。",
+      "zh": "查找被遗忘的订阅：如果你问“我还在为哪些订阅付费，其中是否有订阅今年涨价了？”Gemini 会在你关联的账户中查找定期扣费，并标出价格上涨。",
       "en": "Find forgotten subscriptions: If you ask \"what subscriptions am I still paying for, and did any of them go up in price this year?\" Gemini finds recurring charges across your linked accounts and flags price increases."
     },
     {
       "kind": "list",
       "text": "Budget for the holidays: When you ask \"how much did I spend on gifts and travel last year? Use that to help me set a holiday budget for this year,\" Gemini will look at your transactions from the last year and suggest a budget tailored to you.",
       "id": "p7",
-      "zh": "假日预算:当你问\"去年我花了多少钱去送礼物和旅行?\"用这个来帮助我制定今年的假日预算,\"Gemini将审视你去年的交易,并提出适合你的预算.",
+      "zh": "为假期制定预算：当你问“去年我在礼物和旅行上花了多少钱？请以此帮助我制定今年的假期预算”时，Gemini 会查看你过去一年的交易记录，并为你建议一个量身定制的预算。",
       "en": "Budget for the holidays: When you ask \"how much did I spend on gifts and travel last year? Use that to help me set a holiday budget for this year,\" Gemini will look at your transactions from the last year and suggest a budget tailored to you."
     },
     {
       "kind": "paragraph",
       "text": "Google Wallet in Gemini is rolling out across web and mobile, for Gemini app users on both Android and iOS.",
       "id": "p8",
-      "zh": "Gemini的Google钱包在网络上和移动上展开在Android和iOS上为Gemini应用程序用户提供.",
+      "zh": "Gemini 中的 Google Wallet 正在网页端和移动端推出，适用于 Android 和 iOS 上的 Gemini 应用用户。",
       "en": "Google Wallet in Gemini is rolling out across web and mobile, for Gemini app users on both Android and iOS."
     },
     {
       "kind": "heading",
       "text": "Stay in control",
       "id": "p9",
-      "zh": "继续控制",
+      "zh": "保持掌控",
       "en": "Stay in control"
     },
     {
       "kind": "paragraph",
       "text": "We’ve built these tools with security and privacy at the center. If you choose to connect your Wallet (under Connected Apps in Personal Intelligence settings), Gemini can only read information from your accounts; it can’t move, manage, or invest your money. You decide if and when you want to opt in to this experience, and you can turn the connection on or off at any time. Learn more here.",
       "id": "p10",
-      "zh": "我们以安全和隐私为中心,如果您选择连接钱包( 在个人智能环境下的连接Apps ) ,Gemini只能从你的账户读取信息;它不能移动,管理,或投资你的钱。你决定你是否和何时 选择加入这个经验,你可以随时打开或关闭连接。在这儿多学点",
+      "zh": "我们构建这些工具时将安全与隐私置于核心位置。如果你选择连接 Wallet（在 Personal Intelligence 设置中的“已连接的应用”下），Gemini 只能读取你账户中的信息；它无法转移、管理或投资你的资金。你可以自行决定是否以及何时选择启用此体验，并且可以随时开启或关闭连接。点击此处了解更多信息。",
       "en": "We’ve built these tools with security and privacy at the center. If you choose to connect your Wallet (under Connected Apps in Personal Intelligence settings), Gemini can only read information from your accounts; it can’t move, manage, or invest your money. You decide if and when you want to opt in to this experience, and you can turn the connection on or off at any time. Learn more here."
     },
     {
       "kind": "paragraph",
       "text": "For Personal Intelligence, we’re also making it easier for you to see and edit what Gemini remembers. Memory Summary gives you a clear, readable snapshot of your saved preferences, interests, and ongoing goals in one place so you always know how Gemini tailors responses for you. You can review and edit anytime. Open Profile > Personal Intelligence > Memory Summary to view, refine, or remove any details whenever you want. Memory Summary is available on web and mobile for all Gemini app users where Personal Intelligence is available.",
       "id": "p11",
-      "zh": "对于个人情报,也让大家更容易看到并编辑Gemini记忆。记忆总结给你一个清晰的,可读取的您保存的首选项快照,利益关系,和持续的目标在一个地方 所以,你总是知道 Gemini如何适应你的反应。你可以随时检讨和编辑.打开配置文件 > 个人智能 > 要查看的内存摘要 ,细化,或随时删除任何细节。内存摘要可在网上和手机上提供,供所有有个人情报的Gemini应用用户使用.",
+      "zh": "对于 Personal Intelligence，我们还让您能够更轻松地查看和编辑 Gemini 记住的内容。Memory Summary 在一个位置为您提供已保存偏好、兴趣和进行中目标的清晰易读概览，让您始终了解 Gemini 如何为您量身定制回复。您可以随时查看和编辑。打开 Profile > Personal Intelligence > Memory Summary，即可随时查看、完善或移除任何详情。Memory Summary 在网页版和移动版上向所有可使用 Personal Intelligence 的 Gemini 应用用户提供。",
       "en": "For Personal Intelligence, we’re also making it easier for you to see and edit what Gemini remembers. Memory Summary gives you a clear, readable snapshot of your saved preferences, interests, and ongoing goals in one place so you always know how Gemini tailors responses for you. You can review and edit anytime. Open Profile > Personal Intelligence > Memory Summary to view, refine, or remove any details whenever you want. Memory Summary is available on web and mobile for all Gemini app users where Personal Intelligence is available."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "Gemini的个人情报系统 安全地连接了您已经使用的应用程序中的信息 比如Gmail照片, 照片, 照片,(原始内容存档于2017-09-21).YouTube,.和搜索——使你的经验更加个性化和有帮助.今天,我们...我们正将Google钱包添加到连接的应用程序列表中,",
+      "zh": "Gemini 中的 Personal Intelligence 可安全地连接你已使用的应用中的信息（例如 Gmail、Google 相册、YouTube 和 Google 搜索），让体验更加个性化和实用。今天，我们将 Google Wallet 加入已连接应用列表，以便你能获得更贴合个人财务需求的回答。",
       "en": "Personal Intelligence in Gemini securely connects information from apps you already use — like Gmail, Photos, YouTube, and Search — to make your experience more personalized and helpful. Today, we’re adding Google Wallet to the list of connected apps so you can get more tailored responses around personal finance."
     },
     {
       "paragraphId": "p3",
-      "zh": "今天在美国推出Gemini应用软件的用户您可以连接 Google 钱包, 以了解您的支出习惯。你也可以选择从你的信用卡和银行 安全地连接你的财务账户 通过Plaid 打开更深入的洞察力。",
+      "zh": "从今天起面向美国所有 Gemini 应用用户推出，你可以连接 Google Wallet，让回答基于你的消费习惯。你还可以选择通过 Plaid 将信用卡和银行中的财务账户安全关联到 Wallet，以解锁更深入的洞察。",
       "en": "Rolling out today for all Gemini app users in the U.S., you can connect Google Wallet for responses informed by your spending habits. You also have the option to securely link your financial accounts from your credit cards and banks to Wallet via Plaid to unlock deeper insights."
     },
     {
       "paragraphId": "p4",
-      "zh": "跳入Gemini并标记@Google钱包,预算编制和其他预算。这里有一些东西要尝试:",
+      "zh": "打开 Gemini 并标记 @Google Wallet，即可询问个人财务、预算等方面的问题。以下是一些可以尝试的用法：",
       "en": "Jump into Gemini and tag @Google Wallet to ask questions around personal finance, budgeting and more. Here are some things to try:"
     },
     {
       "paragraphId": "p10",
-      "zh": "我们以安全和隐私为中心,如果您选择连接钱包( 在个人智能环境下的连接Apps ) ,Gemini只能从你的账户读取信息;它不能移动,管理,或投资你的钱。你决定你是否和何时 选择加入这个经验,你可以随时打开或关闭连接。",
+      "zh": "我们构建这些工具时将安全与隐私置于核心位置。如果你选择连接 Wallet（在 Personal Intelligence 设置中的“已连接的应用”下），Gemini 只能读取你账户中的信息；它无法转移、管理或投资你的资金。",
       "en": "We’ve built these tools with security and privacy at the center. If you choose to connect your Wallet (under Connected Apps in Personal Intelligence settings), Gemini can only read information from your accounts; it can’t move, manage, or invest your money."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "d7fe02d86728c2565879036c71273771f65921f05404dacf6e7cebbed52cffac"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "7836b1e10d51053264fcd0a1e06f6c22c279d0d5b552afed33b7956d2c21df0f"
 }

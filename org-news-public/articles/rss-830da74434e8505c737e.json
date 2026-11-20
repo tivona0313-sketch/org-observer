@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
   "sourceTitle": "Put Gemini to work for you",
   "status": "ready",
-  "attemptedAt": "2026-11-19T10:59:29.244675+00:00",
+  "attemptedAt": "2026-11-20T04:59:11.012511+00:00",
   "fetchedAt": "2026-11-17T17:15:01.144980+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
   "language": "en",
@@ -15,230 +15,230 @@
       "kind": "paragraph",
       "text": "The best assistant knows you and helps you get things done. Today, you can now hand off even more tasks to Gemini and move on with your day. We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to save you time and money.",
       "id": "p1",
-      "zh": "最好的助手了解你 帮你把事情办好今天,我们...你现在可以把更多的任务交给Gemini 继续你的日子了我们为每个班级里有工作的人建造了它,会议,和放学 填满一天。我们的目标是Gemini节省你的时间和金钱。",
+      "zh": "最好的助手了解你，并帮助你完成任务。今天，你可以把更多任务交给 Gemini，然后继续你的一天。我们为所有在一天的课程、会议和接送孩子中积累了大量任务的人打造了它。我们的目标是让 Gemini 为你节省时间和金钱。",
       "en": "The best assistant knows you and helps you get things done. Today, you can now hand off even more tasks to Gemini and move on with your day. We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to save you time and money."
     },
     {
       "kind": "paragraph",
       "text": "Starting now, this update is rolling out free of charge for hundreds of millions of people across the U.S., Japan, Korea, Canada, Australia, and India, using our new Gemini 4 Hydrogen model. We’re also rolling out a set of advanced features, starting in the U.S.",
       "id": "p2",
-      "zh": "从现在开始,这个更新对全美数以亿计的人免费推出,日本国韩国加拿大澳大利亚,和印度,使用我们新的Gemini四氢模型我们也在推出一套先进的功能,从美国开始。",
+      "zh": "从即日起，这项更新将免费向美国、日本、韩国、加拿大、澳大利亚和印度的数亿人推出，采用我们全新的 Gemini 4 Hydrogen 模型。我们还将在美国率先推出一系列高级功能。",
       "en": "Starting now, this update is rolling out free of charge for hundreds of millions of people across the U.S., Japan, Korea, Canada, Australia, and India, using our new Gemini 4 Hydrogen model. We’re also rolling out a set of advanced features, starting in the U.S."
     },
     {
       "kind": "heading",
       "text": "How it’s changing my daily routine",
       "id": "p3",
-      "zh": "如何改变我的日常习惯",
+      "zh": "它如何改变我的日常生活",
       "en": "How it’s changing my daily routine"
     },
     {
       "kind": "paragraph",
       "text": "If your emails, calendar, passwords, photos, files, and payment cards are already in the Google ecosystem, Gemini is your best choice as a personal assistant because this sensitive data already lives at Google securely, and you don’t have to send it elsewhere.",
       "id": "p4",
-      "zh": "如果你的邮件,日历,密码,图片,文档,而支付卡已经进入了谷歌生态系统,Gemini是最好的选择 作为个人助理 因为这个敏感数据 已经安全地生活在Google,你不必把它寄到别处。",
+      "zh": "如果你的电子邮件、日历、密码、照片、文件和支付卡已经在 Google 生态系统中，那么 Gemini 是你作为个人助手的最佳选择，因为这些敏感数据已经安全地存放在 Google，你无需将其发送到其他地方。",
       "en": "If your emails, calendar, passwords, photos, files, and payment cards are already in the Google ecosystem, Gemini is your best choice as a personal assistant because this sensitive data already lives at Google securely, and you don’t have to send it elsewhere."
     },
     {
       "kind": "paragraph",
       "text": "Here’s how I’m using it.",
       "id": "p5",
-      "zh": "我如何使用它。",
+      "zh": "下面是我如何使用它的。",
       "en": "Here’s how I’m using it."
     },
     {
       "kind": "paragraph",
       "text": "Recently, our minivan’s check-engine light came on. Ugh. I pulled out Gemini and told it, \"Our minivan is overdue for a service appointment. Please call the two nearest dealerships and figure out how to get an appointment early Friday morning over the next month or so.\"",
       "id": "p6",
-      "zh": "近来.我们的小货车的检查引擎灯亮了唉哟。我拔出Gemini并告诉它,\"我们的小面包车 已经逾期的服务预约。请打电话给最近的两个经销商,并想出如何在下个多月的周五清晨获得预约\".",
+      "zh": "最近，我们小型货车的发动机故障灯亮了。唉。我拿出 Gemini，对它说：“我们的小型货车已经逾期未做保养预约。请致电最近的两家经销商，看看如何安排未来一个月左右某个周五清晨的预约。”",
       "en": "Recently, our minivan’s check-engine light came on. Ugh. I pulled out Gemini and told it, \"Our minivan is overdue for a service appointment. Please call the two nearest dealerships and figure out how to get an appointment early Friday morning over the next month or so.\""
     },
     {
       "kind": "paragraph",
       "text": "Because Gemini already knows we drive a 2019 Honda Odyssey and where we live through Personal Intelligence, it found the nearest shops on Google Maps and called both at once 1. Thankfully, I didn’t have to suffer through any hold music. Gemini did the job, found a time in my Google Calendar when I was free, and added the Friday early morning appointment in less than five minutes. Done. (On the dealership's end, Gemini disclosed right away that it's an AI. Businesses can opt out whenever they want, and Gemini won’t give out my payment or private account info unless I say so.)",
       "id": "p7",
-      "zh": "因为Gemini已经知道我们开着一辆2019年本田奥德赛车 并且我们通过个人情报处住的地方它在Google地图上发现了最近的店铺,并立即拨打两者的一通电话.谢天谢地我不必忍受任何音乐的困扰。Gemini做了工作,我有空的时候 在谷歌日历上找到过一段时间并在不到五分钟的时间内增加了周五清晨的预约.说定了(在经销商的结尾,Gemini立刻透露这是人工智能.企业可以随时选择退出,除非我同意, Gemini不会透露我的付款或私人帐户信息。",
+      "zh": "由于 Gemini 已经通过 Personal Intelligence 知道我们驾驶一辆 2019 款本田奥德赛以及我们的住址，它在 Google 地图上找到了最近的店铺，并同时致电了两家1。值得庆幸的是，我不必忍受任何等候音乐。Gemini 完成了任务，在 Google 日历中找到了我有空的时间，并在不到五分钟内添加了周五清晨的预约。搞定。（在经销商那边，Gemini 立即披露它是 AI。商家可以随时选择退出，除非我允许，Gemini 不会提供我的支付或私人账户信息。）",
       "en": "Because Gemini already knows we drive a 2019 Honda Odyssey and where we live through Personal Intelligence, it found the nearest shops on Google Maps and called both at once 1. Thankfully, I didn’t have to suffer through any hold music. Gemini did the job, found a time in my Google Calendar when I was free, and added the Friday early morning appointment in less than five minutes. Done. (On the dealership's end, Gemini disclosed right away that it's an AI. Businesses can opt out whenever they want, and Gemini won’t give out my payment or private account info unless I say so.)"
     },
     {
       "kind": "paragraph",
       "text": "In the background, Gemini called both dealerships at once, sat through the hold music for me, booked an appointment at the shop that accepts appointments vs. walk-ins only, and put Friday's appointment on my calendar without me having to check it.",
       "id": "p8",
-      "zh": "在背景中,Gemini立刻召集了两个经销商为我而坐的音乐,在接受预约的店铺订了预约只有徒步进入,并把星期五的预约放在我的日历上 不用我检查它。",
+      "zh": "在后台，Gemini 同时致电两家经销商，替我听完等候音乐，在提供预约服务而非仅接受直接到店的店铺预订了预约，并把周五的预约添加到我的日历中，无需我查看。",
       "en": "In the background, Gemini called both dealerships at once, sat through the hold music for me, booked an appointment at the shop that accepts appointments vs. walk-ins only, and put Friday's appointment on my calendar without me having to check it."
     },
     {
       "kind": "paragraph",
       "text": "Last month it saved us real money after we got hit with a surprise $389 electric bill. I gave Gemini permission to access our utility portal with the new Google Password Manager integration and asked for it to analyze our past billing statements in my email. Gemini worked for a few minutes, and then nailed it. The primary culprit was our heat pump, which it turns out was kicking on around 4 p.m., right in the middle of peak pricing. My wife and I never would have caught that digging through the PDFs and emails ourselves.",
       "id": "p9",
-      "zh": "上个月,它节省了我们真正的钱 在我们被一个惊喜389 电费击中后。我允许Gemini进入我们的公用门户网站 新的Google密码管理器集成 并要求它分析我们过去在电子邮件上的账单Gemini工作了几分钟,然后钉上它。罪魁祸首是我们的热泵结果在下午4点左右被踢出门在最高定价的中间。我妻子和我绝对不会 发现通过 PDF 和电子邮件自己。",
+      "zh": "上个月，在我们收到一张 389 美元的意外电费账单后，它为我们省下了实实在在的钱。我允许 Gemini 通过新的 Google 密码管理器集成访问我们的公用事业门户，并要求它分析我电子邮件中的过往账单。Gemini 工作了几分钟，然后准确找到了问题。主要罪魁祸首是我们的热泵，原来它在下午 4 点左右、正值高峰电价时启动。我和妻子自己翻查 PDF 和电子邮件是绝不会发现的。",
       "en": "Last month it saved us real money after we got hit with a surprise $389 electric bill. I gave Gemini permission to access our utility portal with the new Google Password Manager integration and asked for it to analyze our past billing statements in my email. Gemini worked for a few minutes, and then nailed it. The primary culprit was our heat pump, which it turns out was kicking on around 4 p.m., right in the middle of peak pricing. My wife and I never would have caught that digging through the PDFs and emails ourselves."
     },
     {
       "kind": "paragraph",
       "text": "I use it for smaller stuff, too. For our upcoming holiday trip back to Oklahoma, I recently asked Gemini to give me the best options for a USB-C charger. Gemini quickly compared chargers thanks to Google’s Shopping Graph, asked me follow-up questions about the wattage and color, and then helped me check out using the new Google Pay integration. The best part: it also found a discount code so I saved an extra $10. Done.",
       "id": "p10",
-      "zh": "我用它做更小的东西,我也一样。为了我们即将到来的俄克拉荷马州度假之行我最近请Gemini给我 最好的选择 一个USB -C充电器。由于Google的购物图,问我后续的问题 关于瓦特和颜色,然后帮助我通过新的谷歌付费集成来检查.最好的部分是:还找到了一个折扣代码 所以我省了10美元说定了",
+      "zh": "我也用它处理更小的事情。为了我们即将到来的回俄克拉荷马州度假之旅，我最近让 Gemini 给我最好的一些 USB-C 充电器选择。Gemini 借助 Google Shopping Graph 快速比较了充电器，向我追问了关于功率和颜色的后续问题，然后通过新的 Google Pay 集成帮助我完成结账。最棒的是：它还找到了一个折扣码，让我额外省下 10 美元。搞定。",
       "en": "I use it for smaller stuff, too. For our upcoming holiday trip back to Oklahoma, I recently asked Gemini to give me the best options for a USB-C charger. Gemini quickly compared chargers thanks to Google’s Shopping Graph, asked me follow-up questions about the wattage and color, and then helped me check out using the new Google Pay integration. The best part: it also found a discount code so I saved an extra $10. Done."
     },
     {
       "kind": "paragraph",
       "text": "Gemini now uses the Agent Payments Protocol (AP2) to make purchases like this. We’re working with American Express (coming soon), Mastercard, and Visa to keep your purchases secure with digital tokens on supported cards. And when you shop with Gemini, you still earn your card's points, cashback, or purchase protections during checkout. You can also set a hard spending cap upfront, and Gemini is designed to stay within your budget. All of your receipts and tracking info land straight in Google Wallet, which is expanding to iOS starting today. Up next, we’ll integrate the Universal Commerce Protocol (UCP) into Gemini so everyone can expect an even faster and more reliable shopping experience from discovery to checkout.",
       "id": "p11",
-      "zh": "Gemini现在使用代理支付协议(AP2)进行这样的购买.我们正与美国快递公司合作(即将到来),大师卡,和Visa来保证你购买的安全 用数字代号在支持的卡。当你和Gemini购物时你还是能赚到卡片的分数现金回扣或在离职时提供购买保护。你也可以先设一个硬支出上限,Gemini被设计为不超出你的预算你所有的收据和追踪信息 直接在谷歌钱包,它从今天开始扩展到iOS。接下来我们将会把世界商业协议(UCP)融入Gemini,",
+      "zh": "Gemini 现在使用 Agent Payments Protocol (AP2) 进行此类购买。我们正在与 American Express（即将推出）、Mastercard 和 Visa 合作，通过受支持卡上的数字令牌来保障您的购买安全。并且，当您使用 Gemini 购物时，您仍然可以在结账时获得您卡片的积分、返现或购买保障。您还可以提前设置硬性消费上限，Gemini 的设计旨在让您不超出预算。您的所有收据和追踪信息都会直接进入 Google Wallet，该功能从今天起扩展到 iOS。接下来，我们将把 Universal Commerce Protocol (UCP) 集成到 Gemini 中，让每个人都能期待从发现到结账的更快、更可靠的购物体验。",
       "en": "Gemini now uses the Agent Payments Protocol (AP2) to make purchases like this. We’re working with American Express (coming soon), Mastercard, and Visa to keep your purchases secure with digital tokens on supported cards. And when you shop with Gemini, you still earn your card's points, cashback, or purchase protections during checkout. You can also set a hard spending cap upfront, and Gemini is designed to stay within your budget. All of your receipts and tracking info land straight in Google Wallet, which is expanding to iOS starting today. Up next, we’ll integrate the Universal Commerce Protocol (UCP) into Gemini so everyone can expect an even faster and more reliable shopping experience from discovery to checkout."
     },
     {
       "kind": "paragraph",
       "text": "Gemini lets you set the spending limit and still earn every airline mile, cashback point, and perk on your card.",
       "id": "p12",
-      "zh": "Gemini让你设定了支出限额 并且仍然能赚到每一英里的机票现金回收点,并给你的名片。",
+      "zh": "Gemini 让您可以设置消费限额，同时仍能赚取您卡上的每一英里里程、返现积分和优惠。",
       "en": "Gemini lets you set the spending limit and still earn every airline mile, cashback point, and perk on your card."
     },
     {
       "kind": "paragraph",
       "text": "Gemini helps with weeknight dinners, too. I recently stared down a nearly empty fridge rushing out the door in the morning, and I texted Gemini with the new RCS integration 2: “Add lasagna, strawberries, cucumbers, and vanilla ice cream to our Instacart order.” On the walk out, I saw an empty Cheerios box in the pantry, so I snapped a photo and sent a quick follow-up: “Add this too.” Gemini added it, and then handed me off to Instacart to complete the order. Groceries were on the doorstep when we got home. Done. Today, Gemini connects with more than 60 popular apps and, as a developer, you can apply to join our Connected Apps Platform.",
       "id": "p13",
-      "zh": "Gemini帮助周夜晚餐,我也一样。最近我看着一个几乎空的冰箱 早上冲出门来我给Gemini发短信 新的RCS集成2:“添加千层面,草莓,草莓,黄瓜,我们的Instacart订单的香草冰淇淋。我看到一个空的面包盒 在储藏室,所以我破了相片 并发送了快速的后续:Gemini也说,然后把我交给Instacart完成订单.我们回家的时候 杂货店在门口说定了今天,我们...Gemini连接了60多条受欢迎的应用程序,而且,作为一个开发者,您可以申请加入我们连接的 Apps 平台。",
+      "zh": "Gemini 也能帮忙解决工作日晚餐问题。最近有一天早上我急着出门，面对几乎空空的冰箱，我用新的 RCS integration 2 给 Gemini 发短信：“把千层面、草莓、黄瓜和香草冰淇淋加到我们的 Instacart 订单里。”出门路上，我看到食品储藏室里有一个空的 Cheerios 盒子，就拍了张照片并快速补发：“这个也加上。”Gemini 加上了，然后把我转交给 Instacart 完成订单。我们到家时，食品杂货已经放在门口。搞定。如今，Gemini 已连接 60 多个热门应用，作为开发者，您可以申请加入我们的 Connected Apps Platform。",
       "en": "Gemini helps with weeknight dinners, too. I recently stared down a nearly empty fridge rushing out the door in the morning, and I texted Gemini with the new RCS integration 2: “Add lasagna, strawberries, cucumbers, and vanilla ice cream to our Instacart order.” On the walk out, I saw an empty Cheerios box in the pantry, so I snapped a photo and sent a quick follow-up: “Add this too.” Gemini added it, and then handed me off to Instacart to complete the order. Groceries were on the doorstep when we got home. Done. Today, Gemini connects with more than 60 popular apps and, as a developer, you can apply to join our Connected Apps Platform."
     },
     {
       "kind": "paragraph",
       "text": "My wife and I also use Gemini to sort out medical bills, keep track of insurance renewals, and stay on top of our kids' schedules. Earlier this week, I forwarded a batch of school emails from Gmail to gemini@google.com. In less than a minute, every date was on my calendar with my wife invited. Better yet, it noticed a conflict during basketball practice and asked if I wanted to text one of the other parents to trade carpool duty.",
       "id": "p14",
-      "zh": "我妻子和我还用Gemini来整理医疗账单追踪保险续期情况,并保持在我们孩子的日程上。这周早些时候,我从Gmail转发了一批学校电子邮件给Gemini@google.com。不到一分钟,每一次约会都在我的日历上 与我的妻子邀请。好多了,现在它注意到篮球练习期间的一场冲突,并问我是否想发短信给其他父母之一,以交换拼车义务.",
+      "zh": "我和妻子还使用 Gemini 整理医疗账单、跟踪保险续保以及掌握孩子们的日程安排。本周早些时候，我把一批学校邮件从 Gmail 转发到 gemini@google.com。不到一分钟，每个日期都出现在我的日历上，并邀请了我的妻子。更棒的是，它注意到篮球训练期间有一个冲突，并问我是否想给另一位家长发短信，调换拼车任务。",
       "en": "My wife and I also use Gemini to sort out medical bills, keep track of insurance renewals, and stay on top of our kids' schedules. Earlier this week, I forwarded a batch of school emails from Gmail to gemini@google.com. In less than a minute, every date was on my calendar with my wife invited. Better yet, it noticed a conflict during basketball practice and asked if I wanted to text one of the other parents to trade carpool duty."
     },
     {
       "kind": "heading",
       "text": "How we protect your data",
       "id": "p15",
-      "zh": "我们如何保护你的数据",
+      "zh": "我们如何保护您的数据",
       "en": "How we protect your data"
     },
     {
       "kind": "paragraph",
       "text": "As Gemini becomes more capable, we continually advance our security defenses. When you assign Gemini a task, it uses Google Cloud’s Agent Compute Engine to work in a hardware-isolated virtual machine that’s dedicated to your account and never shared with other users. Each virtual machine is sandboxed, so Gemini works in a separate, isolated environment that’s regularly tested by our security red teams. This sandbox is just one of multiple layers of defense, including prompt-injection filters that scan search results, webpages, and more alongside Google Safe Browsing to limit which links Gemini can open.",
       "id": "p16",
-      "zh": "随着Gemini能力增强我们不断推进安全防御。当你给Gemini分配任务时它利用Google Cloud的代理计算引擎在硬件同化的虚拟机中工作,该机专门用于您的账户,从未与其他用户共享.每个虚拟机器都装有沙盒所以Gemini是分开的我们的保安红队经常测试的孤立环境。这个沙盒只是防守的多层之一包括扫描搜索结果的即时注射过滤器,网页,更多与谷歌安全浏览一起 限制Gemini的连接",
+      "zh": "随着 Gemini 能力不断增强，我们持续推进安全防御。当您为 Gemini 分配任务时，它会使用 Google Cloud 的 Agent Compute Engine 在硬件隔离的虚拟机中工作，该虚拟机专用于您的账户，绝不会与其他用户共享。每个虚拟机都是沙盒化的，因此 Gemini 在一个独立、隔离的环境中工作，该环境定期接受我们安全红队的测试。这个沙盒只是多层防御中的一层，还包括提示注入过滤器，这些过滤器会扫描搜索结果、网页等内容，并与 Google Safe Browsing 一起限制 Gemini 可以打开哪些链接。",
       "en": "As Gemini becomes more capable, we continually advance our security defenses. When you assign Gemini a task, it uses Google Cloud’s Agent Compute Engine to work in a hardware-isolated virtual machine that’s dedicated to your account and never shared with other users. Each virtual machine is sandboxed, so Gemini works in a separate, isolated environment that’s regularly tested by our security red teams. This sandbox is just one of multiple layers of defense, including prompt-injection filters that scan search results, webpages, and more alongside Google Safe Browsing to limit which links Gemini can open."
     },
     {
       "kind": "paragraph",
       "text": "As Gemini works on a task, you can jump in to give it more instructions at any point, and it’s also designed to pause and check with you before critical steps. For example, Gemini is designed to ask for your confirmation or pre-approval before clicking \"Buy,\" and will ask clarifying questions if an instruction is ambiguous. For routine stuff you already trust, like adding those Cheerios to your grocery cart, you can set that to “Always allow” so it doesn’t pester you.",
       "id": "p17",
-      "zh": "当Gemini在执行任务时你随时可以跳进去给它更多的指示,并设计在关键步骤前暂停与您核对。譬如说.Gemini被设计为在点击\"Buy\"前请求您的确认或预先批准,如果一个指令是含糊不清的,将提出澄清问题.对于你已经相信的例行公事喜欢在你的杂货车里加那些香肠,您可以将它设定为“永远允许的”,这样它就不会困扰您。",
+      "zh": "当 Gemini 处理任务时，您可以随时介入给它更多指令，并且它也被设计为在关键步骤之前暂停并与您确认。例如，Gemini 被设计为在点击“购买”之前请求您的确认或预先批准，如果指令含糊不清，它会提出澄清问题。对于您已经信任的日常事务，比如把那些 Cheerios 加入购物车，您可以将其设置为“始终允许”，这样它就不会打扰您。",
       "en": "As Gemini works on a task, you can jump in to give it more instructions at any point, and it’s also designed to pause and check with you before critical steps. For example, Gemini is designed to ask for your confirmation or pre-approval before clicking \"Buy,\" and will ask clarifying questions if an instruction is ambiguous. For routine stuff you already trust, like adding those Cheerios to your grocery cart, you can set that to “Always allow” so it doesn’t pester you."
     },
     {
       "kind": "paragraph",
       "text": "And finally, we give you access to settings and tools that help you safeguard your data and protect your privacy. You can adjust task settings, disconnect Google and third-party apps, or delete chat history anytime. For a closer look at how we’ve implemented a multi-layer defense-in-depth security strategy, read our technical paper.",
       "id": "p18",
-      "zh": "终于,我们允许您访问一些设置和工具 帮助您保护您的数据 并保护您的隐私。您可以调整任务设置,断开谷歌和第三方应用程序,或随时删除聊天历史。为了更仔细地研究一下我们是如何执行一个多层次的防御深入安全战略的,读我们的技术论文。",
+      "zh": "最后，我们让您可以使用有助于保护数据和隐私的设置与工具。您可以随时调整任务设置、断开 Google 和第三方应用或删除聊天记录。如需详细了解我们如何实施多层纵深防御安全策略，请阅读我们的技术论文。",
       "en": "And finally, we give you access to settings and tools that help you safeguard your data and protect your privacy. You can adjust task settings, disconnect Google and third-party apps, or delete chat history anytime. For a closer look at how we’ve implemented a multi-layer defense-in-depth security strategy, read our technical paper."
     },
     {
       "kind": "paragraph",
       "text": "And please participate in our bug bounty program through Google’s AI Vulnerability Reward Program (AI VRP) to advance the security of agentic systems.",
       "id": "p19",
-      "zh": "请通过Google的AI脆弱性奖励计划(AI VRP)参与我们的bug赏金计划,",
+      "zh": "并且，请通过 Google 的 AI Vulnerability Reward Program (AI VRP) 参与我们的漏洞赏金计划，以推进智能体驱动系统的安全。",
       "en": "And please participate in our bug bounty program through Google’s AI Vulnerability Reward Program (AI VRP) to advance the security of agentic systems."
     },
     {
       "kind": "heading",
       "text": "How you can help us improve",
       "id": "p20",
-      "zh": "或腊и",
+      "zh": "您如何帮助我们改进",
       "en": "How you can help us improve"
     },
     {
       "kind": "paragraph",
       "text": "While we’ve tested tasks extensively to minimize mistakes, we haven't eliminated all of them. You may encounter situations where a task fails to complete or misses the mark. When you see this, please provide feedback by giving the response a “thumbs down.”",
       "id": "p21",
-      "zh": "虽然我们已经广泛测试任务 以尽量减少错误,我们还没把他们全部消灭掉您可能会遇到任务无法完成或错过标记的情况 。当你看到这个,请提供反馈,给答复“thumbs down”。",
+      "zh": "虽然我们已经对任务进行了广泛测试以尽量减少错误，但尚未消除所有错误。你可能会遇到任务未能完成或未达预期的情况。看到这种情况时，请通过给该回复点“不喜欢”来提供反馈。",
       "en": "While we’ve tested tasks extensively to minimize mistakes, we haven't eliminated all of them. You may encounter situations where a task fails to complete or misses the mark. When you see this, please provide feedback by giving the response a “thumbs down.”"
     },
     {
       "kind": "paragraph",
       "text": "For example, the way personal assistants navigate the web is still evolving as sites are still adapting to these new use cases. On some sites, Gemini can make it most of the way through and then hand the screen back to you to click the final button. We’re partnering directly with major websites and security providers to help the web evolve so it works well for site owners and personal assistants. For decades, bots were blocked by default because most were malicious. Personal assistants require a more nuanced approach, and we believe open, verifiable standards will benefit everyone.",
       "id": "p22",
-      "zh": "譬如说.由于网站仍在适应这些新的使用案例,个人助理浏览网络的方式仍在发展之中。在一些地点,Gemini可以使它大部分的方式通过,然后将屏幕交回给您来点击最后的按钮.我们直接与主要网站及安全提供商合作, 帮助网络发展,几十年来,bots被默认封锁,因为大多数都是恶意的.个人助理需要更细致的方法,而我们确信真理,可核查的标准将惠及所有人。",
+      "zh": "例如，个人助理浏览网页的方式仍在演变，因为网站仍在适应这些新的使用场景。在某些网站上，Gemini 可以完成大部分流程，然后将屏幕交还给你，由你点击最后的按钮。我们正在直接与主流网站和安全提供商合作，帮助网络演进，使其对网站所有者和个人助理都能良好运作。几十年来，机器人默认被屏蔽，因为大多数是恶意的。个人助理需要一种更细致的方法，我们相信开放、可验证的标准将使所有人受益。",
       "en": "For example, the way personal assistants navigate the web is still evolving as sites are still adapting to these new use cases. On some sites, Gemini can make it most of the way through and then hand the screen back to you to click the final button. We’re partnering directly with major websites and security providers to help the web evolve so it works well for site owners and personal assistants. For decades, bots were blocked by default because most were malicious. Personal assistants require a more nuanced approach, and we believe open, verifiable standards will benefit everyone."
     },
     {
       "kind": "heading",
       "text": "How to try it",
       "id": "p23",
-      "zh": "试试看",
+      "zh": "如何试用",
       "en": "How to try it"
     },
     {
       "kind": "paragraph",
       "text": "Ready to hand off your next task? Open Gemini, flip the home-screen toggle from Chat to Task, and tell Gemini what you need done. Starting in the U.S., you can also forward emails to gemini@google.com or text Gemini by following these instructions:",
       "id": "p24",
-      "zh": "准备好交出你的下一项任务了吗?打开Gemini把家用屏幕从聊天切换到任务,并告诉Gemini 你需要做什么。从美国开始,您也可以遵循这些指令将电子邮件转发给 Gemini@google.com 或文本 :",
+      "zh": "准备好交办你的下一项任务了吗？打开 Gemini，将主屏幕上的切换开关从“聊天”切换到“任务”，然后告诉 Gemini 你需要完成什么。从美国开始，你还可以将电子邮件转发到 gemini@google.com，或按照以下说明给 Gemini 发短信：",
       "en": "Ready to hand off your next task? Open Gemini, flip the home-screen toggle from Chat to Task, and tell Gemini what you need done. Starting in the U.S., you can also forward emails to gemini@google.com or text Gemini by following these instructions:"
     },
     {
       "kind": "list",
       "text": "Open Gemini on Android or iOS and tap Settings",
       "id": "p25",
-      "zh": "在 Android 或 iOS 上打开Gemini和自带设置",
+      "zh": "在 Android 或 iOS 上打开 Gemini，然后点按“设置”",
       "en": "Open Gemini on Android or iOS and tap Settings"
     },
     {
       "kind": "list",
       "text": "Tap Channels",
       "id": "p26",
-      "zh": "磁带频道",
+      "zh": "点按“频道”",
       "en": "Tap Channels"
     },
     {
       "kind": "list",
       "text": "Tap Set up under Text with Gemini",
       "id": "p27",
-      "zh": "与Gemini一起按下文字设置",
+      "zh": "点按“与 Gemini 发短信”下方的“设置”",
       "en": "Tap Set up under Text with Gemini"
     },
     {
       "kind": "list",
       "text": "Verify your phone number",
       "id": "p28",
-      "zh": "检查您的电话号码",
+      "zh": "验证你的电话号码",
       "en": "Verify your phone number"
     },
     {
       "kind": "paragraph",
       "text": "We can’t wait to see what Gemini crosses off your list first.",
       "id": "p29",
-      "zh": "我们迫不及待想看看Gemini先从你的名单上划出什么。",
+      "zh": "我们迫不及待想看到 Gemini 首先帮你划掉清单上的哪一项。",
       "en": "We can’t wait to see what Gemini crosses off your list first."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p2",
-      "zh": "从现在开始,这个更新对全美数以亿计的人免费推出,日本国韩国加拿大澳大利亚,和印度,使用我们新的Gemini四氢模型我们也在推出一套先进的功能,从美国开始。",
+      "zh": "从即日起，这项更新将免费向美国、日本、韩国、加拿大、澳大利亚和印度的数亿人推出，采用我们全新的 Gemini 4 Hydrogen 模型。我们还将在美国率先推出一系列高级功能。",
       "en": "Starting now, this update is rolling out free of charge for hundreds of millions of people across the U.S., Japan, Korea, Canada, Australia, and India, using our new Gemini 4 Hydrogen model. We’re also rolling out a set of advanced features, starting in the U.S."
     },
     {
       "paragraphId": "p7",
-      "zh": "因为Gemini已经知道我们开着一辆2019年本田奥德赛车 并且我们通过个人情报处住的地方它在Google地图上发现了最近的店铺,并立即拨打两者的一通电话.谢天谢地我不必忍受任何音乐的困扰。Gemini做了工作,我有空的时候 在谷歌日历上找到过一段时间并在不到五分钟的时间内增加了周五清晨的预约.说定了(在经销商的结尾,Gemini立刻透露这是人工智能.企业可以随时选择退出,除非我同意, Gemini不会透露我的付款或私人帐户信息。",
+      "zh": "由于 Gemini 已经通过 Personal Intelligence 知道我们驾驶一辆 2019 款本田奥德赛以及我们的住址，它在 Google 地图上找到了最近的店铺，并同时致电了两家1。值得庆幸的是，我不必忍受任何等候音乐。",
       "en": "Because Gemini already knows we drive a 2019 Honda Odyssey and where we live through Personal Intelligence, it found the nearest shops on Google Maps and called both at once 1. Thankfully, I didn’t have to suffer through any hold music."
     },
     {
       "paragraphId": "p9",
-      "zh": "上个月,它节省了我们真正的钱 在我们被一个惊喜389 电费击中后。我允许Gemini进入我们的公用门户网站 新的Google密码管理器集成 并要求它分析我们过去在电子邮件上的账单Gemini工作了几分钟,然后钉上它。",
+      "zh": "上个月，在我们收到一张 389 美元的意外电费账单后，它为我们省下了实实在在的钱。我允许 Gemini 通过新的 Google 密码管理器集成访问我们的公用事业门户，并要求它分析我电子邮件中的过往账单。",
       "en": "Last month it saved us real money after we got hit with a surprise $389 electric bill. I gave Gemini permission to access our utility portal with the new Google Password Manager integration and asked for it to analyze our past billing statements in my email."
     },
     {
       "paragraphId": "p10",
-      "zh": "我用它做更小的东西,我也一样。为了我们即将到来的俄克拉荷马州度假之行我最近请Gemini给我 最好的选择 一个USB -C充电器。",
+      "zh": "我也用它处理更小的事情。为了我们即将到来的回俄克拉荷马州度假之旅，我最近让 Gemini 给我最好的一些 USB-C 充电器选择。",
       "en": "I use it for smaller stuff, too. For our upcoming holiday trip back to Oklahoma, I recently asked Gemini to give me the best options for a USB-C charger."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "975b8b9523ae90be0a1bd80bc5c187a05c81019e96034fe979238b31fd30691c"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "b2d87aa825fd1be1c6a6af58476fcef98c9b3a795bf092a0d71b74a4dd28ff27"
 }

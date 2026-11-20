@@ -4,7 +4,7 @@
   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
   "sourceTitle": "See what 5 builders are making with Gemini 4 Carbon",
   "status": "ready",
-  "attemptedAt": "2026-11-19T10:59:43.656925+00:00",
+  "attemptedAt": "2026-11-20T05:00:22.871480+00:00",
   "fetchedAt": "2026-11-17T23:02:47.156227+00:00",
   "finalURL": "https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/",
   "language": "en",
@@ -15,62 +15,62 @@
       "kind": "paragraph",
       "text": "Gemini 4 Carbon was built for tasks that push the limits of a model’s intelligence, and builders are putting it to the test.",
       "id": "p1",
-      "zh": "Gemini4 Carbon 是为推进模型智能极限的任务而建造的,建造者们正在测试它。",
+      "zh": "Gemini 4 Carbon 专为挑战模型智能极限的任务而打造，构建者们正对其进行测试。",
       "en": "Gemini 4 Carbon was built for tasks that push the limits of a model’s intelligence, and builders are putting it to the test."
     },
     {
       "kind": "paragraph",
       "text": "Since we rolled out Carbon more broadly last week, we've seen the community lean into the model’s ability to explore thoroughly, reason deeply, and run extended verification loops. Find five impressive projects that demonstrate Carbon's capabilities below.",
       "id": "p2",
-      "zh": "自从上周我们更广泛地推出碳之后,我们已经看到社区 倾斜到模型的能力 彻底探索,深究原因,并运行扩展验证循环。找到5个显示Carbon以下能力令人印象深刻的项目.",
+      "zh": "自上周我们更广泛地推出 Carbon 以来，我们看到社区积极利用该模型进行彻底探索、深度推理以及运行扩展验证循环的能力。下面有五个展示 Carbon 能力的令人印象深刻的项目。",
       "en": "Since we rolled out Carbon more broadly last week, we've seen the community lean into the model’s ability to explore thoroughly, reason deeply, and run extended verification loops. Find five impressive projects that demonstrate Carbon's capabilities below."
     },
     {
       "kind": "heading",
       "text": "Render a wind-swept meadow.",
       "id": "p3",
-      "zh": "作一风吹草地.",
+      "zh": "渲染一片风吹过的草地。",
       "en": "Render a wind-swept meadow."
     },
     {
       "kind": "paragraph",
       "text": "Glitter Gal (@GlitterPixely on X) coded a meadow of 52,000 wildflowers and grass blades from scratch in CUDA and C++ with Carbon, synthesizing the wind to match every gust.",
       "id": "p4",
-      "zh": "Glitter Gal (@GlitterPixely on X) 从零开始在CUDA和C++中用Carbon编码了52,000个野花和草叶的草地,合成出风相接一一入.",
+      "zh": "Glitter Gal（X 上的 @GlitterPixely）使用 Carbon 在 CUDA 和 C++ 中从零编写了一片包含 52,000 朵野花和草叶的草地，并合成风以匹配每一阵风势。",
       "en": "Glitter Gal (@GlitterPixely on X) coded a meadow of 52,000 wildflowers and grass blades from scratch in CUDA and C++ with Carbon, synthesizing the wind to match every gust."
     },
     {
       "kind": "paragraph",
       "text": "Developers can build with Carbon with the Gemini API paid tier in Google AI Studio and Android Studio. Google AI Ultra subscribers can try it in Google Antigravity, AI Studio, the Gemini app, and AI Mode in Search. And Gemini for business users can access it via the API or model drop down, Google Antigravity, or CodeMender.",
       "id": "p5",
-      "zh": "开发者可以在Google AI Studio和Android Studio中用GeminiAPI付费分级来与Carbon一起构建.Google AI Ultra的用户可以在Google Antigravity中尝试它,AI工作室,Gemini应用程序,和搜索中的AI模式。Gemini可以让商业用户通过API或模型下降来访问它,谷歌反重力,或编剧。",
+      "zh": "开发者可以在 Google AI Studio 和 Android Studio 中使用 Gemini API 付费层通过 Carbon 进行构建。Google AI Ultra 订阅者可以在 Google Antigravity、AI Studio、Gemini 应用和搜索中的 AI Mode 中试用。Gemini for business 用户可以通过 API 或模型下拉菜单、Google Antigravity 或 CodeMender 访问它。",
       "en": "Developers can build with Carbon with the Gemini API paid tier in Google AI Studio and Android Studio. Google AI Ultra subscribers can try it in Google Antigravity, AI Studio, the Gemini app, and AI Mode in Search. And Gemini for business users can access it via the API or model drop down, Google Antigravity, or CodeMender."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "Gemini4 Carbon 是为推进模型智能极限的任务而建造的,建造者们正在测试它。",
+      "zh": "Gemini 4 Carbon 专为挑战模型智能极限的任务而打造，构建者们正对其进行测试。",
       "en": "Gemini 4 Carbon was built for tasks that push the limits of a model’s intelligence, and builders are putting it to the test."
     },
     {
       "paragraphId": "p2",
-      "zh": "自从上周我们更广泛地推出碳之后,我们已经看到社区 倾斜到模型的能力 彻底探索,深究原因,并运行扩展验证循环。找到5个显示Carbon以下能力令人印象深刻的项目.",
+      "zh": "自上周我们更广泛地推出 Carbon 以来，我们看到社区积极利用该模型进行彻底探索、深度推理以及运行扩展验证循环的能力。下面有五个展示 Carbon 能力的令人印象深刻的项目。",
       "en": "Since we rolled out Carbon more broadly last week, we've seen the community lean into the model’s ability to explore thoroughly, reason deeply, and run extended verification loops. Find five impressive projects that demonstrate Carbon's capabilities below."
     },
     {
       "paragraphId": "p4",
-      "zh": "Glitter Gal (@GlitterPixely on X) 从零开始在CUDA和C++中用Carbon编码了52,000个野花和草叶的草地,合成出风相接一一入.",
+      "zh": "Glitter Gal（X 上的 @GlitterPixely）使用 Carbon 在 CUDA 和 C++ 中从零编写了一片包含 52,000 朵野花和草叶的草地，并合成风以匹配每一阵风势。",
       "en": "Glitter Gal (@GlitterPixely on X) coded a meadow of 52,000 wildflowers and grass blades from scratch in CUDA and C++ with Carbon, synthesizing the wind to match every gust."
     },
     {
       "paragraphId": "p5",
-      "zh": "开发者可以在Google AI Studio和Android Studio中用GeminiAPI付费分级来与Carbon一起构建.Google AI Ultra的用户可以在Google Antigravity中尝试它,AI工作室,Gemini应用程序,和搜索中的AI模式。Gemini可以让商业用户通过API或模型下降来访问它,谷歌反重力,或编剧。",
+      "zh": "开发者可以在 Google AI Studio 和 Android Studio 中使用 Gemini API 付费层通过 Carbon 进行构建。Google AI Ultra 订阅者可以在 Google Antigravity、AI Studio、Gemini 应用和搜索中的 AI Mode 中试用。",
       "en": "Developers can build with Carbon with the Gemini API paid tier in Google AI Studio and Android Studio. Google AI Ultra subscribers can try it in Google Antigravity, AI Studio, the Gemini app, and AI Mode in Search."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "56c5e1635299f65b05e56cc50d94db265011e9448911db949950a6614eae36e4"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "7c8f7b7959723ab20c088da0ba1a33e1123849b17cc070b70f90dd0ade01b76f"
 }

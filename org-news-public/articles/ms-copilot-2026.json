@@ -4,7 +4,7 @@
   "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
   "sourceTitle": "微软统一消费与商业 Copilot 组织，强化产品、平台与模型协同",
   "status": "ready",
-  "attemptedAt": "2026-11-19T10:57:19.563876+00:00",
+  "attemptedAt": "2026-11-20T04:56:36.002856+00:00",
   "fetchedAt": "2026-11-05T11:28:19.235473+00:00",
   "finalURL": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
   "language": "en",
@@ -15,160 +15,160 @@
       "kind": "paragraph",
       "text": "Satya Nadella, Chairman and CEO, and Mustafa Suleyman, Executive Vice President and CEO of Microsoft AI, shared the below communications with Microsoft employees this morning.",
       "id": "p1",
-      "zh": "萨特雅·纳德拉主席兼首席执行官,和穆斯塔法·苏莱曼,微软AI执行副总裁兼首席执行官,今天早上与微软员工分享了以下通讯.",
+      "zh": "今天上午，微软董事长兼首席执行官 Satya Nadella 和 Microsoft AI 执行副总裁兼首席执行官 Mustafa Suleyman 向微软员工分享了以下沟通内容。",
       "en": "Satya Nadella, Chairman and CEO, and Mustafa Suleyman, Executive Vice President and CEO of Microsoft AI, shared the below communications with Microsoft employees this morning."
     },
     {
       "kind": "heading",
       "text": "SATYA NADELLA MESSAGE",
       "id": "p2",
-      "zh": "萨蒂娅·纳德利亚小姐",
+      "zh": "SATYA NADELLA 的信息",
       "en": "SATYA NADELLA MESSAGE"
     },
     {
       "kind": "paragraph",
       "text": "I want to share two org changes we’re making to our Copilot org and superintelligence effort.",
       "id": "p3",
-      "zh": "我想分享一下我们对于Copilot和超级情报工作所做的两起变化。",
+      "zh": "我想分享我们正在对 Copilot 组织和超级智能工作所做的两项组织调整。",
       "en": "I want to share two org changes we’re making to our Copilot org and superintelligence effort."
     },
     {
       "kind": "paragraph",
       "text": "It’s clear a new era of productivity is emerging as AI experiences rapidly evolve from answering questions and suggesting code, to executing multi-step tasks with clear user control points. You see this in our announcements over the last couple of weeks, like Copilot Tasks and Copilot Cowork, agentic capabilities in Office, and Agent 365. As these experiences connect more naturally across agents, apps, and workflows, we have an opportunity to help customers spend more time on higher-value work and reduce manual coordination, while providing people with more agency and empowerment and organizations with the governance and security controls they need.",
       "id": "p4",
-      "zh": "AI的经验从回答问题和提出代码迅速演变,用于执行带有明确的用户控制点的多步骤任务。你从我们过去几周的公告中看到这个像Copilot任务和Copilot合作,办公室的代理能力,还有365探员由于这些经验更自然地连通了代理商之间,应用程序,和工作流程,我们有机会帮助客户花更多的时间从事价值更高的工作,减少手工协调,同时也为人民提供更多的机构和权力,并为各组织提供他们所需要的治理和安全控制。",
+      "zh": "很明显，随着 AI 体验从回答问题、建议代码，迅速演进到在明确的用户控制点下执行多步骤任务，一个全新的生产力时代正在到来。你们可以从我们过去几周的发布中看到这一点，例如 Copilot Tasks、Copilot Cowork、Office 中的智能体驱动能力，以及 Agent 365。随着这些体验在智能体、应用和工作流之间更自然地连接，我们有机会帮助客户把更多时间花在更高价值的工作上，减少人工协调，同时为人们提供更多自主权和赋能，并为组织提供所需的治理和安全控制。",
       "en": "It’s clear a new era of productivity is emerging as AI experiences rapidly evolve from answering questions and suggesting code, to executing multi-step tasks with clear user control points. You see this in our announcements over the last couple of weeks, like Copilot Tasks and Copilot Cowork, agentic capabilities in Office, and Agent 365. As these experiences connect more naturally across agents, apps, and workflows, we have an opportunity to help customers spend more time on higher-value work and reduce manual coordination, while providing people with more agency and empowerment and organizations with the governance and security controls they need."
     },
     {
       "kind": "paragraph",
       "text": "To that end, we are bringing the Copilot system across commercial and consumer together as one unified effort. This will span four connected pillars: Copilot experience, Copilot platform, Microsoft 365 apps, and AI models. This is how we move from a collection of great products to a truly integrated system, one that is simpler and more powerful for customers.",
       "id": "p5",
-      "zh": "为此,我们正在把整个商业和消费者的Copilot系统作为一个统一的努力结合起来。这将跨越四个相互关联的支柱:Copilot经验,Copilot平台,微软365应用程序,和AI模型。这就是我们如何从一批伟大的产品 转向一个真正的集成系统,更简单 更强大的客户。",
+      "zh": "为此，我们正在将面向商业和消费者的 Copilot 系统整合为一个统一的整体。这将涵盖四个相互关联的支柱：Copilot 体验、Copilot 平台、Microsoft 365 应用和 AI 模型。这就是我们从一系列优秀产品迈向真正集成系统的方式，一个对客户来说更简单、更强大的系统。",
       "en": "To that end, we are bringing the Copilot system across commercial and consumer together as one unified effort. This will span four connected pillars: Copilot experience, Copilot platform, Microsoft 365 apps, and AI models. This is how we move from a collection of great products to a truly integrated system, one that is simpler and more powerful for customers."
     },
     {
       "kind": "paragraph",
       "text": "Jacob Andreou will lead the Copilot experience across consumer and commercial, driving design, product, growth, and engineering, as EVP, Copilot, reporting to me. As CVP of Product and Growth at Microsoft AI, Jacob has accelerated our user-focused AI-first product making and growth framework. Prior to that, he was SVP at Snap, where he helped scale the company from its early days.",
       "id": "p6",
-      "zh": "Jacob Andreou将带领Copilot体验 跨越消费者和商业,驾驶设计,产品,增长,与工程,作为EVP,Copilot,向我汇报。作为微软AI产品与增长的CVP,雅各布加快了我们以用户为重点的AI第一产品制作和增长框架.在此之前,他是SVP 在Snap,在那里,他帮助规模 从公司早期。",
+      "zh": "Jacob Andreou 将负责面向消费者和商业的 Copilot 体验，作为 Copilot 执行副总裁，推动设计、产品、增长和工程工作，并向我汇报。在担任 Microsoft AI 产品与增长副总裁期间，Jacob 加快了我们以用户为中心、AI 优先的产品打造和增长框架。此前，他曾在 Snap 担任高级副总裁，帮助公司从早期阶段实现规模化。",
       "en": "Jacob Andreou will lead the Copilot experience across consumer and commercial, driving design, product, growth, and engineering, as EVP, Copilot, reporting to me. As CVP of Product and Growth at Microsoft AI, Jacob has accelerated our user-focused AI-first product making and growth framework. Prior to that, he was SVP at Snap, where he helped scale the company from its early days."
     },
     {
       "kind": "paragraph",
       "text": "Progress at the AI model layer is more critical than ever to our success as a company over the next decade and is foundational to everything we build above it. We are doubling down on our superintelligence mission with the talent and compute to build models that have real product impact, in terms of evals, COGS reduction, as well as advancing the frontier when it comes to meeting enterprise needs and achieving the next set of research breakthroughs. Mustafa Suleyman and I have been working towards this plan for some time, and he will continue to lead this high ambition work, reporting to me. Mustafa is uniquely qualified to drive this forward, with his deep focus and commitment to advancing the frontiers of model science, while also ensuring that human control, agency, and economic opportunity remain at the center of these advancements.",
       "id": "p7",
-      "zh": "AI模型层的进展对我们今后十年作为一个公司的成功比以往任何时候都更为关键,并且是我们在它之上所建立的一切的基础。我们的超智能任务 与才华相上下 并计算 建立真正有产品影响力的模型以优等者而言,COGS减少,以及推进满足企业需要和实现下一组研究突破的前沿。穆斯塔法·苏莱曼和我为这个计划努力了一段时间他将继续领导这一崇高的志向,向我汇报。穆斯塔法有独特的资格 推动这个进步,以他的深度重点和承诺 推进模型科学的前沿,同时也确保人类的控制,机构,经济机会仍然是这些进步的中心。",
+      "zh": "在未来十年，AI 模型层取得的进展对我们公司的成功比以往任何时候都更加关键，也是我们在其上构建一切的基础。我们正在加倍投入超级智能使命，汇聚人才和算力来构建具有真正产品影响力的模型，这种影响力体现在评估、COGS 降低，以及在满足企业需求和取得下一批研究突破方面推进前沿。Mustafa Suleyman 和我为这一计划已经筹备了一段时间，他将继续领导这项雄心勃勃的工作，并向我汇报。Mustafa 拥有独一无二的资质来推动这一进程，他高度专注于并致力于推进模型科学的前沿，同时确保人类控制、自主权和经济机会始终处于这些进步的核心。",
       "en": "Progress at the AI model layer is more critical than ever to our success as a company over the next decade and is foundational to everything we build above it. We are doubling down on our superintelligence mission with the talent and compute to build models that have real product impact, in terms of evals, COGS reduction, as well as advancing the frontier when it comes to meeting enterprise needs and achieving the next set of research breakthroughs. Mustafa Suleyman and I have been working towards this plan for some time, and he will continue to lead this high ambition work, reporting to me. Mustafa is uniquely qualified to drive this forward, with his deep focus and commitment to advancing the frontiers of model science, while also ensuring that human control, agency, and economic opportunity remain at the center of these advancements."
     },
     {
       "kind": "paragraph",
       "text": "Ryan Roslansky, Perry Clarke, and Charles Lamanna will lead M365 apps and the Copilot platform. Together, Jacob, Ryan, Charles, Perry, and Mustafa make up the Copilot LT and over the next few weeks they’ll work to align the teams.",
       "id": "p8",
-      "zh": "瑞安·罗斯兰斯基佩里・克拉克Charles Lamanna将领导M365应用软件和Copilot平台.一起来,雅各,你觉得呢?莱恩,查尔斯,佩丽未来数周, 他们将努力调整队伍,",
+      "zh": "Ryan Roslansky、Perry Clarke 和 Charles Lamanna 将负责 M365 应用和 Copilot 平台。Jacob、Ryan、Charles、Perry 和 Mustafa 将共同组成 Copilot LT，并将在未来几周内努力协调各团队。",
       "en": "Ryan Roslansky, Perry Clarke, and Charles Lamanna will lead M365 apps and the Copilot platform. Together, Jacob, Ryan, Charles, Perry, and Mustafa make up the Copilot LT and over the next few weeks they’ll work to align the teams."
     },
     {
       "kind": "paragraph",
       "text": "Our org boundaries will simply reflect system architecture and product shape such that we can deliver more coherent and competitive experiences that continue to evolve with model capabilities. And I am looking forward to how together we apply all of this to empower people, organizations, and the world.",
       "id": "p9",
-      "zh": "我们的疆界将只是反映系统结构和产品形态,以便我们能够提供更加一致和更具竞争力的经验,这些经验将继续随着模型的发展而演变。能力。我期待着我们如何共同运用所有这些来增强人们的能力,各组织,和这个世界。",
+      "zh": "我们的组织边界将直接反映系统架构和产品形态，以便我们能够提供更连贯、更具竞争力的体验，并随着模型能力的发展不断演进。我期待我们如何共同运用这一切来赋能个人、组织和世界。",
       "en": "Our org boundaries will simply reflect system architecture and product shape such that we can deliver more coherent and competitive experiences that continue to evolve with model capabilities. And I am looking forward to how together we apply all of this to empower people, organizations, and the world."
     },
     {
       "kind": "heading",
       "text": "MUSTAFA SULEYMAN MESSAGE",
       "id": "p10",
-      "zh": "摩斯达法·斯库里曼",
+      "zh": "MUSTAFA SULEYMAN 的信息",
       "en": "MUSTAFA SULEYMAN MESSAGE"
     },
     {
       "kind": "paragraph",
       "text": "Subject: A new structure for Microsoft AI",
       "id": "p11",
-      "zh": "主题 :微软AI的新结构",
+      "zh": "主题：Microsoft AI 的新架构",
       "en": "Subject: A new structure for Microsoft AI"
     },
     {
       "kind": "paragraph",
       "text": "Technology and the future of our industry will be defined by two things: frontier models, and the products through which they are experienced. For some time, I’ve been thinking about how we best tackle these huge challenges, and today I’m excited to be evolving our structure at Microsoft AI, ensuring we’re positioned to succeed in both.",
       "id": "p12",
-      "zh": "技术与我们工业的未来将由两件事情来决定:前沿模型,以及他们所经历的产品。有段时间,我一直在想我们如何最好地应对这些巨大的挑战,今天,我很高兴在微软AI公司 发展我们的结构,保证我们两边都能成功。",
+      "zh": "技术和我们行业的未来将由两件事定义：前沿模型，以及人们体验这些模型所经由的产品。一段时间以来，我一直在思考如何最好地应对这些巨大挑战，今天我很高兴地宣布我们将调整 Microsoft AI 的结构，确保我们有能力在这两方面取得成功。",
       "en": "Technology and the future of our industry will be defined by two things: frontier models, and the products through which they are experienced. For some time, I’ve been thinking about how we best tackle these huge challenges, and today I’m excited to be evolving our structure at Microsoft AI, ensuring we’re positioned to succeed in both."
     },
     {
       "kind": "paragraph",
       "text": "I came to Microsoft with an overriding mission: to create Superintelligence that delivers a transformative, positive impact for millions of people. This requires us to build frontier models, at scale, pushing the boundaries of what’s possible. Everything else follows from this. It’s the foundation for our future as a company. With our ambitious, long-term frontier scale compute roadmap locked, we now have everything we need to build truly SOTA models.",
       "id": "p13",
-      "zh": "我带着压倒一切的任务来到了微软:创建超智能 带来变革,对数百万人产生积极影响。这需要我们建立前沿模型,规模,将可能的界限推开。其他一切从此而来.这是我们未来公司的基础。以我们的野心,长期边界尺度 计算路径图锁定,我们现在有我们需要的一切 建立真正的SOTA模型。",
+      "zh": "我加入微软时怀有一个压倒一切的使命：创造超级智能，为数百万人带来变革性的积极影响。这要求我们大规模地构建前沿模型，突破可能性的边界。其他一切都由此而来。这是我们公司未来的基础。随着我们雄心勃勃的长期前沿规模计算路线图确定下来，我们现在拥有构建真正 SOTA 模型所需的一切。",
       "en": "I came to Microsoft with an overriding mission: to create Superintelligence that delivers a transformative, positive impact for millions of people. This requires us to build frontier models, at scale, pushing the boundaries of what’s possible. Everything else follows from this. It’s the foundation for our future as a company. With our ambitious, long-term frontier scale compute roadmap locked, we now have everything we need to build truly SOTA models."
     },
     {
       "kind": "paragraph",
       "text": "As you will have just heard from Satya, the next phase of this plan is to restructure our organization to enable me to focus all my energy on our Superintelligence efforts and be able to deliver world class models for Microsoft over the next 5 years. These models will enable us to build enterprise tuned lineages that help improve all our products across the company. They’ll also enable us to deliver the COGS efficiencies necessary to be able to serve AI workloads at the immense scale required in the coming years. Achieving all this will be a huge challenge, and I’m committing everything we have – and I have personally – to make it happen.",
       "id": "p14",
-      "zh": "正如你刚刚从莎特雅那里听到的那样,这个计划的下一阶段是重组我们的组织,使我能够将我所有的精力都集中在我们的超级情报工作上,并且能够提供世界级的模型。微软未来5年.这些模式将使我们能够构建企业调制线条,帮助改进我们公司的所有产品。也让我们能够实现COGS的效率, 以在未来几年里所需的庞大规模,实现这一切将是一个巨大的挑战,我将尽我们所能, 我个人也这样做。",
+      "zh": "正如你们刚刚从萨提亚那里听到的，该计划的下一阶段是重组我们的组织，让我能够将所有精力集中在超级智能工作上，并在未来 5 年内为微软交付世界级模型。这些模型将使我们能够构建面向企业调优的谱系，帮助改进公司所有产品。它们还将使我们能够实现 COGS 效率，以便在未来几年所需的巨大规模上服务 AI 工作负载。实现这一切将是一个巨大挑战，我承诺倾尽我们所拥有的一切——也包括我个人——来实现它。",
       "en": "As you will have just heard from Satya, the next phase of this plan is to restructure our organization to enable me to focus all my energy on our Superintelligence efforts and be able to deliver world class models for Microsoft over the next 5 years. These models will enable us to build enterprise tuned lineages that help improve all our products across the company. They’ll also enable us to deliver the COGS efficiencies necessary to be able to serve AI workloads at the immense scale required in the coming years. Achieving all this will be a huge challenge, and I’m committing everything we have – and I have personally – to make it happen."
     },
     {
       "kind": "paragraph",
       "text": "To that end, I’ve been working hard with other leaders in the background for a while now to define a strategy to unify Copilot by bringing together the Consumer and Commercial efforts as one. We all know this makes sense. Every user – whether at home or at work – will be able to enjoy the full benefit of what we are all building. Today, we’re combining these organizations into a single, unified Copilot org. Jacob has demonstrated himself to be an outstanding leader for the product experience and clearly has the product instincts, the operational range, and the conviction to make Copilot a great success.",
       "id": "p15",
-      "zh": "为此,我与背景背景的其他领导人合作了一段时间, 制定统一Copilot的战略,我们都知道这有道理。每个用户,无论是在家还是在工作时,都能享受到我们所有建筑的全部好处。今天,我们...我们把这些组织合并为一个组织,统一Copilot操作规范。雅各布已经证明自己是产品经验的杰出领导者,并且显然有产品本能,作战范围,以及让Copilot成功的决心",
+      "zh": "为此，一段时间以来我一直在幕后与其他领导者共同努力，制定一项战略，将消费者和商业方面的努力合而为一，以统一 Copilot。我们都知道这是合理的。每位用户——无论在家还是在工作中——都将能够享受我们共同构建的全部益处。今天，我们将这些组织合并为一个统一的 Copilot 组织。雅各布已经证明自己是产品体验方面的杰出领导者，显然具备产品直觉、运营广度和信念，能够使 Copilot 取得巨大成功。",
       "en": "To that end, I’ve been working hard with other leaders in the background for a while now to define a strategy to unify Copilot by bringing together the Consumer and Commercial efforts as one. We all know this makes sense. Every user – whether at home or at work – will be able to enjoy the full benefit of what we are all building. Today, we’re combining these organizations into a single, unified Copilot org. Jacob has demonstrated himself to be an outstanding leader for the product experience and clearly has the product instincts, the operational range, and the conviction to make Copilot a great success."
     },
     {
       "kind": "paragraph",
       "text": "Jacob will retain a dotted line to me, and I’ll stay directly involved in much of the day-to-day operation of MAI, attending Meetups, MMMs, LT, and supporting Jacob to drive all areas of product strategy. To ensure that the models we build and the products we ship are mutually reinforcing, we are establishing a Copilot Leadership Team that includes me, Jacob, Charles Lamanna, Perry Clarke, and Ryan Roslansky. This will enable us to focus our brand strategy, our product roadmap, our models and our core infrastructure as one to deliver the best experiences possible for all our users.",
       "id": "p16",
-      "zh": "雅各会给我留一条线我将直接介入军事情报局的大部分日常工作,参加盛会,MMMs, (英语).高尔夫球队并且支持雅各推动产品战略的各个领域.确保我们所建造的模型和我们所运送的产品相辅相成,我们正在建立一个Copilot领导小组 包括我雅各,你觉得呢?查尔斯·拉曼纳佩里・克拉克还有瑞安・罗斯兰斯基这将使我们能够集中我们的品牌战略,我们的产品路线图,我们的模型和我们的核心基础设施作为一个整体,为我们所有用户提供尽可能好的经验。",
+      "zh": "雅各布将继续向我虚线汇报，我也将继续直接参与 MAI 的大量日常运营，参加 Meetups、MMMs、LT，并支持雅各布推动产品战略的所有领域。为了确保我们构建的模型与交付的产品相互强化，我们将成立一个 Copilot 领导团队，成员包括我、雅各布、查尔斯·拉马纳、佩里·克拉克和瑞安·罗斯兰斯基。这将使我们能够将品牌战略、产品路线图、模型和核心基础设施作为一个整体来聚焦，为所有用户提供尽可能最佳的体验。",
       "en": "Jacob will retain a dotted line to me, and I’ll stay directly involved in much of the day-to-day operation of MAI, attending Meetups, MMMs, LT, and supporting Jacob to drive all areas of product strategy. To ensure that the models we build and the products we ship are mutually reinforcing, we are establishing a Copilot Leadership Team that includes me, Jacob, Charles Lamanna, Perry Clarke, and Ryan Roslansky. This will enable us to focus our brand strategy, our product roadmap, our models and our core infrastructure as one to deliver the best experiences possible for all our users."
     },
     {
       "kind": "paragraph",
       "text": "Thank you for everything you’ve done over the last few years. I know how hard everyone has been pushing and the sacrifices many of you have made to help the company adapt to this new era.",
       "id": "p17",
-      "zh": "感谢您在过去几年里所做的一切。我知道每个人都在推动,你们中许多人为了帮助公司适应这个新时代而做出的牺牲是多么的艰难.",
+      "zh": "感谢大家在过去几年里所做的一切。我知道每个人一直在多么努力地推动，也知道你们中许多人为了帮助公司适应这个新时代做出了怎样的牺牲。",
       "en": "Thank you for everything you’ve done over the last few years. I know how hard everyone has been pushing and the sacrifices many of you have made to help the company adapt to this new era."
     },
     {
       "kind": "paragraph",
       "text": "We really do have an incredible opportunity to redefine Microsoft for this agentic revolution.",
       "id": "p18",
-      "zh": "我们确实有一个难得的机会 来重新定义微软, 来进行这个代理革命。",
+      "zh": "我们确实拥有一个不可思议的机会，在这场智能体驱动的革命中重新定义微软。",
       "en": "We really do have an incredible opportunity to redefine Microsoft for this agentic revolution."
     },
     {
       "kind": "paragraph",
       "text": "Mustafa’s mail has been edited slightly for external use.",
       "id": "p19",
-      "zh": "穆斯塔法的邮件稍作编辑,供外部使用。",
+      "zh": "穆斯塔法的邮件已为对外使用而略作编辑。",
       "en": "Mustafa’s mail has been edited slightly for external use."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "萨特雅·纳德拉主席兼首席执行官,和穆斯塔法·苏莱曼,微软AI执行副总裁兼首席执行官,今天早上与微软员工分享了以下通讯.",
+      "zh": "今天上午，微软董事长兼首席执行官 Satya Nadella 和 Microsoft AI 执行副总裁兼首席执行官 Mustafa Suleyman 向微软员工分享了以下沟通内容。",
       "en": "Satya Nadella, Chairman and CEO, and Mustafa Suleyman, Executive Vice President and CEO of Microsoft AI, shared the below communications with Microsoft employees this morning."
     },
     {
       "paragraphId": "p4",
-      "zh": "AI的经验从回答问题和提出代码迅速演变,用于执行带有明确的用户控制点的多步骤任务。你从我们过去几周的公告中看到这个像Copilot任务和Copilot合作,办公室的代理能力,还有365探员由于这些经验更自然地连通了代理商之间,应用程序,和工作流程,我们有机会帮助客户花更多的时间从事价值更高的工作,减少手工协调,同时也为人民提供更多的机构和权力,并为各组织提供他们所需要的治理和安全控制。",
+      "zh": "很明显，随着 AI 体验从回答问题、建议代码，迅速演进到在明确的用户控制点下执行多步骤任务，一个全新的生产力时代正在到来。你们可以从我们过去几周的发布中看到这一点，例如 Copilot Tasks、Copilot Cowork、Office 中的智能体驱动能力，以及 Agent 365。",
       "en": "It’s clear a new era of productivity is emerging as AI experiences rapidly evolve from answering questions and suggesting code, to executing multi-step tasks with clear user control points. You see this in our announcements over the last couple of weeks, like Copilot Tasks and Copilot Cowork, agentic capabilities in Office, and Agent 365."
     },
     {
       "paragraphId": "p5",
-      "zh": "为此,我们正在把整个商业和消费者的Copilot系统作为一个统一的努力结合起来。这将跨越四个相互关联的支柱:Copilot经验,Copilot平台,微软365应用程序,和AI模型。",
+      "zh": "为此，我们正在将面向商业和消费者的 Copilot 系统整合为一个统一的整体。这将涵盖四个相互关联的支柱：Copilot 体验、Copilot 平台、Microsoft 365 应用和 AI 模型。",
       "en": "To that end, we are bringing the Copilot system across commercial and consumer together as one unified effort. This will span four connected pillars: Copilot experience, Copilot platform, Microsoft 365 apps, and AI models."
     },
     {
       "paragraphId": "p16",
-      "zh": "雅各会给我留一条线我将直接介入军事情报局的大部分日常工作,参加盛会,MMMs, (英语).高尔夫球队并且支持雅各推动产品战略的各个领域.确保我们所建造的模型和我们所运送的产品相辅相成,我们正在建立一个Copilot领导小组 包括我雅各,你觉得呢?查尔斯·拉曼纳佩里・克拉克还有瑞安・罗斯兰斯基这将使我们能够集中我们的品牌战略,我们的产品路线图,我们的模型和我们的核心基础设施作为一个整体,为我们所有用户提供尽可能好的经验。",
+      "zh": "雅各布将继续向我虚线汇报，我也将继续直接参与 MAI 的大量日常运营，参加 Meetups、MMMs、LT，并支持雅各布推动产品战略的所有领域。为了确保我们构建的模型与交付的产品相互强化，我们将成立一个 Copilot 领导团队，成员包括我、雅各布、查尔斯·拉马纳、佩里·克拉克和瑞安·罗斯兰斯基。",
       "en": "Jacob will retain a dotted line to me, and I’ll stay directly involved in much of the day-to-day operation of MAI, attending Meetups, MMMs, LT, and supporting Jacob to drive all areas of product strategy. To ensure that the models we build and the products we ship are mutually reinforcing, we are establishing a Copilot Leadership Team that includes me, Jacob, Charles Lamanna, Perry Clarke, and Ryan Roslansky."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "f17f47aa00edd428423e0b97d6c6fef85792d73da671dd09d4af57c65340cc7e"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "63b96718904b4163ed56a1b9290b198ebfe6877fa02c8a7317c89fff3e9e34d7"
 }

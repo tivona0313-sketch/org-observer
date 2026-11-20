@@ -4,7 +4,7 @@
   "url": "https://www.anthropic.com/news/claude-frontier-academy",
   "sourceTitle": "Anthropic 推出 Frontier Academy：围绕真实业务项目培养 AI 工程人才",
   "status": "ready",
-  "attemptedAt": "2026-11-19T10:57:07.124838+00:00",
+  "attemptedAt": "2026-11-20T04:56:35.997663+00:00",
   "fetchedAt": "2026-11-05T11:28:16.976609+00:00",
   "finalURL": "https://www.anthropic.com/news/claude-frontier-academy",
   "language": "en",
@@ -15,209 +15,209 @@
       "kind": "paragraph",
       "text": "Today we are launching Claude Frontier Academy to solve one of the most pressing issues in AI implementation: talent. Backed by a $100 million commitment, Anthropic aims to train 10,000 Frontier Deployed Engineers (FDEs) by the end of 2027. Engineers from Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk are in the first cohorts.",
       "id": "p1",
-      "zh": "今天,我们启动了克洛德边境学院,以解决AI执行中最紧迫的问题之一:才华横溢得到1亿美元承诺的支持,Anthropic的目标是到2027年底培训10,000名边疆部署工程师(FDEs).Accenture的工程师们贝恩卡普格米尼,你好吗? Capgemini,澳大利亚联邦银行德勤公司,麦肯锡,Morgan Stanley和Novo Nordisk是第一批",
+      "zh": "今天我们推出 Claude Frontier Academy，以解决 AI 实施中最紧迫的问题之一：人才。在 1 亿美元承诺的支持下，Anthropic 目标到 2027 年底培训 10,000 名 Frontier Deployed Engineers（FDE）。来自埃森哲、贝恩、凯捷、澳大利亚联邦银行、德勤、麦肯锡、摩根士丹利和诺和诺德的工程师已加入首批学员项目。",
       "en": "Today we are launching Claude Frontier Academy to solve one of the most pressing issues in AI implementation: talent. Backed by a $100 million commitment, Anthropic aims to train 10,000 Frontier Deployed Engineers (FDEs) by the end of 2027. Engineers from Accenture, Bain, Capgemini, Commonwealth Bank of Australia, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk are in the first cohorts."
     },
     {
       "kind": "paragraph",
       "text": "Every enterprise is racing to bring AI into its organization, but the people with the skills to make it work inside a real business have become the hardest talent to find. Inside the companies we work with, a small group of deeply skilled people drives an outsized share of what AI delivers. The Academy is the first of its kind from an AI company, built from our own work deploying Claude inside the world’s largest enterprises and the professional services organizations that serve them.",
       "id": "p2",
-      "zh": "每个企业都在竞相将AI带入组织,但那些有能力在真正的企业里工作的人 却成了最难找到的人才在我们合作的公司里少数高技能人才在AI提供的产品中占据了超额份额。学院是AI公司的第一家这类公司,将克洛德部署在世界上最大的企业和服务于它们的专业服务组织中。",
+      "zh": "每家企业都在竞相将 AI 引入其组织，但具备在真实业务中使其发挥作用的技能的人才已成为最难找到的人才。在我们合作的公司内部，一小群技能深厚的人驱动着 AI 所带来成果中不成比例的份额。该学院是 AI 公司推出的首个此类项目，基于我们在全球最大企业以及为其服务的专业服务机构内部部署 Claude 的自身工作打造。",
       "en": "Every enterprise is racing to bring AI into its organization, but the people with the skills to make it work inside a real business have become the hardest talent to find. Inside the companies we work with, a small group of deeply skilled people drives an outsized share of what AI delivers. The Academy is the first of its kind from an AI company, built from our own work deploying Claude inside the world’s largest enterprises and the professional services organizations that serve them."
     },
     {
       "kind": "paragraph",
       "text": "“A small team of high-agency people with the right skills, access to Claude, and a deep understanding of how their business runs can transform an entire company. The hard part is building that depth of talent, engineers with the highest level of AI fluency who can take Claude from an idea to a system in production and turn it into faster processes and new products and services. No AI company has invested in developing that talent inside its customers and partners at this depth. Claude Frontier Academy trains people the way our own engineers learn, and we want those who graduate to set the standard for how AI gets built inside a business.” – Steve Corfield, Global Head of Business Development and Partnerships at Anthropic",
       "id": "p3",
-      "zh": "“一个由具有适当技能的高级机构人员组成的小组,进入Claude,深知他们的经营方式 如何改变整个公司困难的部分是建立 深度的人才,AI流利程度最高的工程师可以将克洛德从一个想法带到一个生产系统,并把它转化为更快的工艺和新的产品和服务.没有任何AI公司投资在客户和合作伙伴中培养这种人才。Claude Frontier Academy 训练人们的方式 我们自己的工程师学习,我们希望那些毕业的人能为AI如何在企业内部建立制定标准。 ” – 史蒂夫·科菲尔德(Steve Corfield),全球雅典商业发展和伙伴关系负责人",
+      "zh": "“一个由高自主性、拥有合适技能、能够使用 Claude 并深刻理解其业务运作方式的人组成的小团队，可以变革整个公司。困难在于培养这种深度人才，即具备最高水平 AI 熟练度的工程师，他们能够将 Claude 从一个想法变为生产中的系统，并将其转化为更快的流程以及新的产品和服务。没有哪家 AI 公司曾在如此深度上投资于培养其客户和合作伙伴内部的这类人才。Claude Frontier Academy 以我们自己工程师的学习方式培训人员，我们希望毕业者能为 AI 在企业内部的构建方式树立标准。”—— Steve Corfield，Anthropic 全球业务发展与合作伙伴关系负责人",
       "en": "“A small team of high-agency people with the right skills, access to Claude, and a deep understanding of how their business runs can transform an entire company. The hard part is building that depth of talent, engineers with the highest level of AI fluency who can take Claude from an idea to a system in production and turn it into faster processes and new products and services. No AI company has invested in developing that talent inside its customers and partners at this depth. Claude Frontier Academy trains people the way our own engineers learn, and we want those who graduate to set the standard for how AI gets built inside a business.” – Steve Corfield, Global Head of Business Development and Partnerships at Anthropic"
     },
     {
       "kind": "heading",
       "text": "The first program trains 10,000 Frontier Deployed Engineers",
       "id": "p4",
-      "zh": "第一个计划是培训10,000名边疆部署的工程师",
+      "zh": "首个项目培训 10,000 名 Frontier Deployed Engineers",
       "en": "The first program trains 10,000 Frontier Deployed Engineers"
     },
     {
       "kind": "paragraph",
       "text": "The Academy’s first program, the Frontier Deployed Engineer Residency, follows the medical model for building expertise. Doctors learn from practicing physicians, train on real cases, and are assessed before they practice alone. Likewise, FDE Residency engineers learn from practitioners, practice on realistic cases, and are assessed on their work before they earn the credential. The goal is agentic systems that change how a business runs, from faster, redesigned processes to new products and services.",
       "id": "p5",
-      "zh": "学院的第一个课程,边疆部署的工程师居住区,遵循医疗模式建立专门知识。医生从执业医师那里学习,训练真实案例,在他们独自练习之前,应当加以评估。同样,FDE 居住工程师向从业人员学习,实际案例的实践,在他们获得证书之前,要对他们的工作进行评估。目标是改变企业经营方式的代理系统,从快到快,重新设计了新产品和服务的流程。",
+      "zh": "该学院的第一个项目 Frontier Deployed Engineer Residency 遵循培养专业能力的医学模式。医生向执业医师学习，在真实病例上训练，并在独立执业前接受评估。同样，FDE Residency 的工程师向实践者学习，在贴近现实的案例上练习，并在获得证书前接受对其工作的评估。目标是打造能够改变企业运营方式的智能体驱动的系统，从更快、重新设计的流程到新的产品和服务。",
       "en": "The Academy’s first program, the Frontier Deployed Engineer Residency, follows the medical model for building expertise. Doctors learn from practicing physicians, train on real cases, and are assessed before they practice alone. Likewise, FDE Residency engineers learn from practitioners, practice on realistic cases, and are assessed on their work before they earn the credential. The goal is agentic systems that change how a business runs, from faster, redesigned processes to new products and services."
     },
     {
       "kind": "paragraph",
       "text": "The program is for hands-on software engineers with strong fundamentals, a record of building with LLMs, experience helping others adopt AI, and a habit of tackling their business’s most important problems. Organizations nominate their strongest engineers, each arriving with a named Claude project to lead when they return. Prior experience building AI agents isn’t required.",
       "id": "p6",
-      "zh": "程序是针对具有强力基础的操作软件工程师,与LLMS合作的建筑记录,帮助他人收养AI的经验;并习惯于解决企业最重要的问题。各组织提名最强的工程师,每个人带着一个叫克洛德的项目抵达 他们回来后会领头不需要事先积累人工智能人员的经验。",
+      "zh": "该项目面向具备扎实基本功、有使用 LLM 构建经验、有帮助他人采用 AI 的经验、并习惯于解决其业务中最重要问题的实践型软件工程师。组织提名他们最强的工程师，每位工程师在返回时都会带着一个指定的 Claude 项目来领导。不要求此前有构建智能体的经验。",
       "en": "The program is for hands-on software engineers with strong fundamentals, a record of building with LLMs, experience helping others adopt AI, and a habit of tackling their business’s most important problems. Organizations nominate their strongest engineers, each arriving with a named Claude project to lead when they return. Prior experience building AI agents isn’t required."
     },
     {
       "kind": "paragraph",
       "text": "Engineers start with a multi-day in-person program with Anthropic engineers and licensed instructors. They work through a simulated enterprise deployment, from the right use case through security review to handover, and finish with a graded practical on a new scenario. Those who pass earn the Claude Resident Engineer badge and move into the 12-week residency, where they lead a real Claude use case at their own organization, supported by Anthropic engineers and learning from their cohort as they build. Engineers are assessed again at the end of the 12 weeks, and those who pass earn the Claude Frontier Deployed Engineer badge, with the first expected in early 2027.",
       "id": "p7",
-      "zh": "工程师们从一个多日的面对面方案入手,由Anthropic工程师和有执照的教官组成.他们通过模拟企业部署工作,从正确的使用案例到安全审查到移交,然后在新情景上用一个分级的实践来完成。过世的人会拿到克洛德驻地工程师的徽章 进入12周的住所在他们自己的组织里 他们领导了一个真正的克洛德的案子由Anthropic工程师支持,并在他们建设时从他们的队伍中学习.在12周结束时再次评估工程师,和那些获得Claude边疆 部署工程师的徽章的人,与2027年初的首个预期.",
+      "zh": "工程师首先参加由 Anthropic 工程师和持证讲师授课的为期多天的线下项目。他们完成一次模拟的企业部署，从合适的用例到安全审查再到交接，最后在一个新场景上完成评分实操。通过者将获得 Claude Resident Engineer 徽章，并进入为期 12 周的驻留项目，在此期间他们在自己的组织中领导一个真实的 Claude 用例，在 Anthropic 工程师的支持下边构建边向同期学员学习。工程师在 12 周结束时再次接受评估，通过者将获得 Claude Frontier Deployed Engineer 徽章，首批预计在 2027 年初产生。",
       "en": "Engineers start with a multi-day in-person program with Anthropic engineers and licensed instructors. They work through a simulated enterprise deployment, from the right use case through security review to handover, and finish with a graded practical on a new scenario. Those who pass earn the Claude Resident Engineer badge and move into the 12-week residency, where they lead a real Claude use case at their own organization, supported by Anthropic engineers and learning from their cohort as they build. Engineers are assessed again at the end of the 12 weeks, and those who pass earn the Claude Frontier Deployed Engineer badge, with the first expected in early 2027."
     },
     {
       "kind": "heading",
       "text": "The first cohorts are running now",
       "id": "p8",
-      "zh": "第一批人已经出发了",
+      "zh": "首批学员项目正在进行中",
       "en": "The first cohorts are running now"
     },
     {
       "kind": "paragraph",
       "text": "Cohorts are running in San Francisco, New York and London. The program will grow toward 10,000 engineers by the end of 2027. Participation is by nomination; organizations can ask their Anthropic account team or Partner Account Manager whether they’re eligible.",
       "id": "p9",
-      "zh": "科霍特在旧金山奔跑纽约和伦敦。这个计划到2027年底将发展到10,000名工程师.以提名方式参加;组织可以询问他们的Anthropic账户团队或伙伴账户经理是否合格。",
+      "zh": "学员项目正在旧金山、纽约和伦敦开展。该项目将逐步扩展，到 2027 年底培训 10,000 名工程师。参与需经提名；组织可向其 Anthropic 客户团队或合作伙伴客户经理咨询是否符合资格。",
       "en": "Cohorts are running in San Francisco, New York and London. The program will grow toward 10,000 engineers by the end of 2027. Participation is by nomination; organizations can ask their Anthropic account team or Partner Account Manager whether they’re eligible."
     },
     {
       "kind": "heading",
       "text": "Leading enterprises and consulting firms are in the first cohorts",
       "id": "p10",
-      "zh": "主要企业和咨询公司属于第一批",
+      "zh": "领先的企业和咨询公司已加入首批学员项目。",
       "en": "Leading enterprises and consulting firms are in the first cohorts"
     },
     {
       "kind": "paragraph",
       "text": "“At Accenture, forward deployed engineers translate AI ambition into enterprise-wide impact, working inside client workflows as part of multidisciplinary teams that engineer AI concepts into production-ready, governed solutions built to scale. Anthropic built the residency the same way we think about the role: judgment tested against a simulated enterprise deployment, not technical skills in isolation. Joining Claude Frontier Academy will deepen our engineers’ Claude expertise and accelerate the value we deliver for our clients.”",
       "id": "p11",
-      "zh": "“在阿森特尔,前方部署的工程师将AI野心转化为整个企业的影响,作为多学科团队的一部分,在客户工作流程内工作,这些团队将AI概念转化为生产准备,为规模构建的规范解决方案。Anthropic以我们看待这个角色的方式建立了居住权:模拟企业部署的判断,而不是孤立的技术能力。加入Claude Frontier Academy将加深我们的工程师Claude的专门知识并加快我们为客户提供的价值。",
+      "zh": "“在埃森哲，前沿部署工程师将AI抱负转化为企业级影响，他们作为多学科团队的一员深入客户工作流，将AI概念工程化为可投产、受治理且面向规模化构建的解决方案。Anthropic按照我们思考该角色的方式构建了该驻留项目：在模拟企业部署中检验判断力，而非孤立考察技术技能。加入Claude Frontier Academy将深化我们工程师的Claude专业知识，并加速我们为客户交付的价值。”",
       "en": "“At Accenture, forward deployed engineers translate AI ambition into enterprise-wide impact, working inside client workflows as part of multidisciplinary teams that engineer AI concepts into production-ready, governed solutions built to scale. Anthropic built the residency the same way we think about the role: judgment tested against a simulated enterprise deployment, not technical skills in isolation. Joining Claude Frontier Academy will deepen our engineers’ Claude expertise and accelerate the value we deliver for our clients.”"
     },
     {
       "kind": "paragraph",
       "text": "FDE and Software & Platform Engineering lead, Accenture",
       "id": "p12",
-      "zh": "FDE和软件与平台工程铅,摄入",
+      "zh": "FDE及软件与平台工程负责人，埃森哲",
       "en": "FDE and Software & Platform Engineering lead, Accenture"
     },
     {
       "kind": "paragraph",
       "text": "“Building deep, hands-on AI engineering capability is critical to helping clients move from experimentation to impact at scale. The Frontier Deployed Engineer Residency will give our engineers the opportunity to sharpen their expertise working directly with Anthropic and bring that experience to our work with clients.”",
       "id": "p13",
-      "zh": "“深造,人工智能工程能力对于帮助客户从实验转向规模影响至关重要。边疆部署工程师居住区将使我们的工程师有机会加强直接与Anthropic合作的专门知识,并将这种经验带给我们的工作。与客户联系。”",
+      "zh": "“构建深厚、实操的AI工程能力，对于帮助客户从实验走向规模化影响至关重要。Frontier Deployed Engineer Residency将让我们的工程师有机会直接与Anthropic合作磨炼专业技能，并将这一经验带到我们与客户的合作中。”",
       "en": "“Building deep, hands-on AI engineering capability is critical to helping clients move from experimentation to impact at scale. The Frontier Deployed Engineer Residency will give our engineers the opportunity to sharpen their expertise working directly with Anthropic and bring that experience to our work with clients.”"
     },
     {
       "kind": "paragraph",
       "text": "Partner, Global Head of Engineering, Bain",
       "id": "p14",
-      "zh": "搭档全球工程主管,贝恩",
+      "zh": "合伙人、全球工程负责人，贝恩公司",
       "en": "Partner, Global Head of Engineering, Bain"
     },
     {
       "kind": "paragraph",
       "text": "“What I’m hearing from clients isn’t about certification counts or training volume; it’s about knowing firsthand how to solve real-world problems that create value to our clients. By working side by side with Anthropic’s own engineers, Capgemini is investing in and building the delivery excellence that clients recognize immediately.”",
       "id": "p15",
-      "zh": "\" 我从客户那里听到的不是认证数或培训量;而是了解如何解决真实世界中给我们客户带来价值的问题。与Anthropic自己的工程师并肩工作,卡佩克米尼正在投资并建设客户立即承认的优秀交付品。”",
+      "zh": "“我从客户那里听到的，不是关于认证数量或培训量；而是关于亲身了解如何解决为客户创造价值的现实问题。通过与Anthropic自己的工程师并肩工作，凯捷正在投资并建立客户能立即认可的交付卓越性。”",
       "en": "“What I’m hearing from clients isn’t about certification counts or training volume; it’s about knowing firsthand how to solve real-world problems that create value to our clients. By working side by side with Anthropic’s own engineers, Capgemini is investing in and building the delivery excellence that clients recognize immediately.”"
     },
     {
       "kind": "paragraph",
       "text": "Global Head of AI Partnerships Ecosystem, Capgemini",
       "id": "p16",
-      "zh": "AI 伙伴关系生态系统全球负责人,卡普格米尼,你好吗? Capgemini",
+      "zh": "全球AI合作伙伴生态负责人，凯捷",
       "en": "Global Head of AI Partnerships Ecosystem, Capgemini"
     },
     {
       "kind": "paragraph",
       "text": "“AI is transforming the way we build, deliver and innovate for customers. Our engineers use AI tools every day, and our teams have produced up to 3x more code changes in the past year. The Frontier Deployed Engineer Residency takes them deeper, with hands-on experience building, securing and shipping alongside peers at the frontier. We are building tomorrow’s bank today, and this program gives our teams the tools and expertise to engineer the best possible products for our customers.”",
       "id": "p17",
-      "zh": "“大赦国际正在改变我们建设的方式,为客户提供和创新。我们的工程师每天使用AI工具,我们的团队在过去一年中 做了多达3x的代码修改。边疆部署的工程师居住区让他们更深入,与实践经验建设,与同行一起在边境进行保安和航运。我们今天在建明天的银行,方案为我们团队提供了工具和专门知识,为我们客户设计出尽可能好的产品。”",
+      "zh": "“AI正在改变我们为客户构建、交付和创新的方式。我们的工程师每天都在使用AI工具，我们的团队在过去一年中产生的代码变更量最多增加了3倍。Frontier Deployed Engineer Residency让他们更进一步，通过与前沿同行并肩工作获得构建、保障和交付方面的实操经验。我们今天正在建设未来的银行，该项目为我们的团队提供了工具和专业知识，以工程化方式为客户打造尽可能最好的产品。”",
       "en": "“AI is transforming the way we build, deliver and innovate for customers. Our engineers use AI tools every day, and our teams have produced up to 3x more code changes in the past year. The Frontier Deployed Engineer Residency takes them deeper, with hands-on experience building, securing and shipping alongside peers at the frontier. We are building tomorrow’s bank today, and this program gives our teams the tools and expertise to engineer the best possible products for our customers.”"
     },
     {
       "kind": "paragraph",
       "text": "Group Chief Technology Officer, Commonwealth Bank of Australia",
       "id": "p18",
-      "zh": "集团首席技术干事,澳大利亚联邦银行",
+      "zh": "澳大利亚联邦银行集团首席技术官",
       "en": "Group Chief Technology Officer, Commonwealth Bank of Australia"
     },
     {
       "kind": "paragraph",
       "text": "“AI deployment at enterprise scale requires skilled people who can drive a project from first requirements through security review to real adoption. The Claude Frontier Academy’s FDE Residency enables us to scale a discipline we’ve already tested in the field, which is why we are excited to be part of the inaugural cohort, bringing our engineers in early to extend our bench of Claude-ready talent.”",
       "id": "p19",
-      "zh": "“在企业规模部署大赦国际需要熟练人员,他们能够从最初要求到安全审查直至真正通过项目。Claude Frontier Academy的FDE 居住权使我们能够推广我们在实地已经测试过的一门学科,这就是为什么我们兴奋 成为创始组的成员,提早带我们的工程师来,以扩展我们克洛德准备好的才华。”",
+      "zh": "“企业级AI部署需要能推动项目从最初需求、经过安全审查到真正采用的技术人才。Claude Frontier Academy的FDE Residency让我们能够规模化推广一种我们已在现场验证过的方法，这正是我们很高兴加入首届学员群体的原因，我们让工程师尽早参与，以扩大我们具备Claude能力的人才储备。”",
       "en": "“AI deployment at enterprise scale requires skilled people who can drive a project from first requirements through security review to real adoption. The Claude Frontier Academy’s FDE Residency enables us to scale a discipline we’ve already tested in the field, which is why we are excited to be part of the inaugural cohort, bringing our engineers in early to extend our bench of Claude-ready talent.”"
     },
     {
       "kind": "paragraph",
       "text": "Principal, Deloitte Consulting LLP",
       "id": "p20",
-      "zh": "校长,德勤咨询有限公司",
+      "zh": "德勤咨询有限责任合伙负责人",
       "en": "Principal, Deloitte Consulting LLP"
     },
     {
       "kind": "paragraph",
       "text": "“This collaboration between McKinsey and Anthropic is about leveraging frontier AI to create superior business outcomes for clients. Our technologists bring frontier AI expertise, sector depth and a value-creation mindset to our client work. The Residency sets the bar for how they apply Claude in service of our clients’ business goals, giving our world-class talent experience learning frontier techniques alongside Anthropic’s engineers. The Claude Frontier Academy and FDE Residency extend our technologists’ toolkit, helping them solve our clients’ toughest problems hands-on-keys.”",
       "id": "p21",
-      "zh": "“McKinsey和Anthropic之间的这一合作涉及利用前沿AI为客户创造更好的商业成果。我们的技术人员带来了前沿AI的专业知识,部门深度和创造价值的心态 对我们的客户工作。居住权为Claude如何为客户的商业目标服务设置了障碍,与Anthropic的工程师一起学习前沿技术。Claude Frontier Academy and FDE Convention 扩展了我们技术专家的工具包,帮助他们解决客户最棘手的问题。",
+      "zh": "“麦肯锡与 Anthropic 的此次合作，旨在利用前沿 AI 为客户创造卓越的业务成果。我们的技术专家将前沿 AI 专业知识、行业深度和价值创造思维带入客户工作。该 Residency 项目为他们如何运用 Claude 服务于客户的业务目标树立了标准，让我们的世界级人才得以在与 Anthropic 工程师并肩工作的过程中学习前沿技术。Claude Frontier Academy 和 FDE Residency 拓展了我们技术专家的工具箱，帮助他们以亲自动手操作的方式解决客户最棘手的难题。”",
       "en": "“This collaboration between McKinsey and Anthropic is about leveraging frontier AI to create superior business outcomes for clients. Our technologists bring frontier AI expertise, sector depth and a value-creation mindset to our client work. The Residency sets the bar for how they apply Claude in service of our clients’ business goals, giving our world-class talent experience learning frontier techniques alongside Anthropic’s engineers. The Claude Frontier Academy and FDE Residency extend our technologists’ toolkit, helping them solve our clients’ toughest problems hands-on-keys.”"
     },
     {
       "kind": "paragraph",
       "text": "Senior Partner and Global Co-leader of QuantumBlack, McKinsey",
       "id": "p22",
-      "zh": "高级合伙人兼 \" 量子黑 \" 全球共同领导者,麦肯锡",
+      "zh": "麦肯锡高级合伙人、QuantumBlack 全球联席负责人",
       "en": "Senior Partner and Global Co-leader of QuantumBlack, McKinsey"
     },
     {
       "kind": "paragraph",
       "text": "“AI is already changing how we discover and develop medicines at Novo. With Claude Science in our R&D workflows, Anthropic’s frontier models in our software development, lab in the loop research in drug discovery, and Anthropic engineers working alongside our scientists, we have seen what is possible when frontier AI meets deep scientific expertise. We’re excited to join the Claude Frontier Academy and the FDE Residency, giving our engineers the same hands on training and expertise behind Anthropic’s most successful deployments, so together we can bring the next generation of medicines to patients faster.”",
       "id": "p23",
-      "zh": "“大赦国际已经在改变我们在诺沃发现和发展药品的方式。与Claude科学 在我们的研发工作流程,Anthropic在我们软件开发中的前沿模型,实验室的循环研究 药物发现,和人类工程师 与我们的科学家一起工作,我们已看到了当前沿AI遇到深厚的科学专长时可能发生的事情.我们很高兴加入克洛德边疆学院 和FDE居住区,在安特罗皮克最成功的部署后 给我们的工程师提供同样的训练和专门知识因此,我们可以一起为病人更快地提供下一代药品。”",
+      "zh": "“AI 已经改变了我们在 Novo 发现和开发药物的方式。通过在我们的研发工作流中应用 Claude Science、在软件开发中应用 Anthropic 的前沿模型、在药物发现中开展实验室在环研究，以及让 Anthropic 工程师与我们的科学家并肩工作，我们看到了前沿 AI 与深厚科学专长相结合所能实现的可能性。我们很高兴加入 Claude Frontier Academy 和 FDE Residency，让我们的工程师获得与 Anthropic 最成功部署背后同等水平的实践培训和专业知识，从而携手更快地将下一代药物带给患者。”",
       "en": "“AI is already changing how we discover and develop medicines at Novo. With Claude Science in our R&D workflows, Anthropic’s frontier models in our software development, lab in the loop research in drug discovery, and Anthropic engineers working alongside our scientists, we have seen what is possible when frontier AI meets deep scientific expertise. We’re excited to join the Claude Frontier Academy and the FDE Residency, giving our engineers the same hands on training and expertise behind Anthropic’s most successful deployments, so together we can bring the next generation of medicines to patients faster.”"
     },
     {
       "kind": "paragraph",
       "text": "VP Data & AI, Novo Nordisk",
       "id": "p24",
-      "zh": "VP 数据与AI,新北盘",
+      "zh": "Novo Nordisk 数据与 AI 副总裁",
       "en": "VP Data & AI, Novo Nordisk"
     },
     {
       "kind": "heading",
       "text": "The Claude Partner Network",
       "id": "p25",
-      "zh": "克洛德伙伴网络",
+      "zh": "Claude Partner Network",
       "en": "The Claude Partner Network"
     },
     {
       "kind": "paragraph",
       "text": "Claude Frontier Academy builds on the Claude Partner Network, where professionals across 46,000 firms have earned more than 175,000 Claude certifications and nearly 4,000 people have completed Basecamp, an immersive program that teaches the same curriculum our Applied AI teams receive when they onboard. Claude Frontier Academy is for the people who will lead the work, and training 10,000 Frontier Deployed Engineers is the first step of many.",
       "id": "p26",
-      "zh": "Claude Frontier Academy 建立在Claude伙伴网络之上,其中,46 000家企业的专业人员已获得超过175 000份Claude证书,近4 000人完成了Basecamp,一个浸润方案 教授同样的课程 我们的应用AI团队 在他们上船时得到。Claude Frontier Academy是负责领导这项工作的人的培训10 000名边疆部署的工程师是许多人的第一步。",
+      "zh": "Claude Frontier Academy 建立在 Claude Partner Network 的基础之上，在该网络中，来自 46,000 家公司的专业人士已获得超过 175,000 项 Claude 认证，近 4,000 人完成了 Basecamp 沉浸式项目，该项目讲授的课程与我们的 Applied AI 团队入职时所学内容相同。Claude Frontier Academy 面向将领导这项工作的人，而培训 10,000 名前沿部署工程师（Frontier Deployed Engineers）只是众多步骤中的第一步。",
       "en": "Claude Frontier Academy builds on the Claude Partner Network, where professionals across 46,000 firms have earned more than 175,000 Claude certifications and nearly 4,000 people have completed Basecamp, an immersive program that teaches the same curriculum our Applied AI teams receive when they onboard. Claude Frontier Academy is for the people who will lead the work, and training 10,000 Frontier Deployed Engineers is the first step of many."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "今天,我们启动了克洛德边境学院,以解决AI执行中最紧迫的问题之一:才华横溢得到1亿美元承诺的支持,Anthropic的目标是到2027年底培训10,000名边疆部署工程师(FDEs).Accenture的工程师们贝恩卡普格米尼,你好吗?Capgemini,澳大利亚联邦银行德勤公司,麦肯锡,Morgan Stanley和Novo Nordisk是第一批",
+      "zh": "今天我们推出 Claude Frontier Academy，以解决 AI 实施中最紧迫的问题之一：人才。在 1 亿美元承诺的支持下，Anthropic 目标到 2027 年底培训 10,000 名 Frontier Deployed Engineers（FDE）。",
       "en": "Today we are launching Claude Frontier Academy to solve one of the most pressing issues in AI implementation: talent. Backed by a $100 million commitment, Anthropic aims to train 10,000 Frontier Deployed Engineers (FDEs) by the end of 2027."
     },
     {
       "paragraphId": "p3",
-      "zh": "“一个由具有适当技能的高级机构人员组成的小组,进入Claude,深知他们的经营方式 如何改变整个公司困难的部分是建立 深度的人才,AI流利程度最高的工程师可以将克洛德从一个想法带到一个生产系统,并把它转化为更快的工艺和新的产品和服务.没有任何AI公司投资在客户和合作伙伴中培养这种人才。Claude Frontier Academy 训练人们的方式 我们自己的工程师学习,我们希望那些毕业的人能为AI如何在企业内部建立制定标准。",
+      "zh": "“一个由高自主性、拥有合适技能、能够使用 Claude 并深刻理解其业务运作方式的人组成的小团队，可以变革整个公司。困难在于培养这种深度人才，即具备最高水平 AI 熟练度的工程师，他们能够将 Claude 从一个想法变为生产中的系统，并将其转化为更快的流程以及新的产品和服务。",
       "en": "“A small team of high-agency people with the right skills, access to Claude, and a deep understanding of how their business runs can transform an entire company. The hard part is building that depth of talent, engineers with the highest level of AI fluency who can take Claude from an idea to a system in production and turn it into faster processes and new products and services."
     },
     {
       "paragraphId": "p7",
-      "zh": "工程师们从一个多日的面对面方案入手,由Anthropic工程师和有执照的教官组成.他们通过模拟企业部署工作,从正确的使用案例到安全审查到移交,然后在新情景上用一个分级的实践来完成。过世的人会拿到克洛德驻地工程师的徽章 进入12周的住所在他们自己的组织里 他们领导了一个真正的克洛德的案子由Anthropic工程师支持,并在他们建设时从他们的队伍中学习.在12周结束时再次评估工程师,和那些获得Claude边疆 部署工程师的徽章的人,与2027年初的首个预期.",
+      "zh": "工程师首先参加由 Anthropic 工程师和持证讲师授课的为期多天的线下项目。他们完成一次模拟的企业部署，从合适的用例到安全审查再到交接，最后在一个新场景上完成评分实操。",
       "en": "Engineers start with a multi-day in-person program with Anthropic engineers and licensed instructors. They work through a simulated enterprise deployment, from the right use case through security review to handover, and finish with a graded practical on a new scenario."
     },
     {
       "paragraphId": "p23",
-      "zh": "“大赦国际已经在改变我们在诺沃发现和发展药品的方式。与Claude科学 在我们的研发工作流程,Anthropic在我们软件开发中的前沿模型,实验室的循环研究 药物发现,和人类工程师 与我们的科学家一起工作,我们已看到了当前沿AI遇到深厚的科学专长时可能发生的事情.我们很高兴加入克洛德边疆学院 和FDE居住区,在安特罗皮克最成功的部署后 给我们的工程师提供同样的训练和专门知识因此,我们可以一起为病人更快地提供下一代药品。",
+      "zh": "“AI 已经改变了我们在 Novo 发现和开发药物的方式。通过在我们的研发工作流中应用 Claude Science、在软件开发中应用 Anthropic 的前沿模型、在药物发现中开展实验室在环研究，以及让 Anthropic 工程师与我们的科学家并肩工作，我们看到了前沿 AI 与深厚科学专长相结合所能实现的可能性。",
       "en": "“AI is already changing how we discover and develop medicines at Novo. With Claude Science in our R&D workflows, Anthropic’s frontier models in our software development, lab in the loop research in drug discovery, and Anthropic engineers working alongside our scientists, we have seen what is possible when frontier AI meets deep scientific expertise."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "4b3fc98606a1638c68adea2d74f4c85a6442d6a961faa59cfd632108568bf4a6"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "6ccf363c16e840b6b4fd5a4d008eaaf5828c51e1aaa22aec965bf760652a8515"
 }

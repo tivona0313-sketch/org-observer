@@ -53,5 +53,7 @@
   "method": "defuddle-0.19.6 / extractive-key-sentences",
   "translation": "Argos Open Tech 1.9 offline machine translation",
   "translationProvider": "argos-1.9",
-  "contentHash": "5e5e44d666de9e3f98277dd5d7a470dd991c06d462f673489b2df8c918945063"
+  "contentHash": "5e5e44d666de9e3f98277dd5d7a470dd991c06d462f673489b2df8c918945063",
+  "lastAttempt": "2026-11-20T05:02:02.591751+00:00",
+  "lastError": "llm_http_429: {\"error\":{\"message\":\"Too many requests. Your current concurrency is 7, which exceeds your concurrency limit of 7 based on your remaining"
 }

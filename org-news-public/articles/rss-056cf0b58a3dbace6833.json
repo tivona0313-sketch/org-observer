@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
   "sourceTitle": "Introducing Tool Retrieval in the Gemini API",
   "status": "ready",
-  "attemptedAt": "2026-11-19T22:58:05.477002+00:00",
+  "attemptedAt": "2026-11-20T04:58:15.675339+00:00",
   "fetchedAt": "2026-11-19T22:58:07.181924+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
   "language": "en",
@@ -15,174 +15,174 @@
       "kind": "paragraph",
       "text": "Today we're launching Tool Retrieval in the Gemini API, available in preview in the Interactions API.",
       "id": "p1",
-      "zh": "今天我们要在GeminiAPI 推出工具检索在“互动” API中可预览。",
+      "zh": "今天，我们在 Gemini API 中推出 Tool Retrieval，现已在 Interactions API 中提供预览版。",
       "en": "Today we're launching Tool Retrieval in the Gemini API, available in preview in the Interactions API."
     },
     {
       "kind": "paragraph",
       "text": "When an agent connects to dozens or even hundreds of tools, sending every full parameter schema on every request adds up fast. It inflates input token counts, adds latency, and lowers tool-selection accuracy as the candidate list grows. Tool Retrieval lets your agent keep its full tool library on standby and load parameter schemas only when the current task needs them.",
       "id": "p2",
-      "zh": "当一个智能体连接到几十个甚至数百个工具时,在每个请求上发送每个完整的参数计划会快速加起来.它夸大了输入符数,增加潜伏性,并随着候选人名单的增加而降低工具选择的准确性。工具检索允许您的代理服务器保持其全部工具库的待命状态, 并仅在当前任务需要时加载参数计划 。",
+      "zh": "当智能体连接数十甚至数百个工具时，在每个请求中发送每个完整参数 schema 会迅速累积。这会推高输入 token 数、增加延迟，并随着候选列表增长降低工具选择准确率。Tool Retrieval 让你的智能体将完整工具库保持在待命状态，并仅在当前任务需要时加载参数 schema。",
       "en": "When an agent connects to dozens or even hundreds of tools, sending every full parameter schema on every request adds up fast. It inflates input token counts, adds latency, and lowers tool-selection accuracy as the candidate list grows. Tool Retrieval lets your agent keep its full tool library on standby and load parameter schemas only when the current task needs them."
     },
     {
       "kind": "heading",
       "text": "How it works",
       "id": "p3",
-      "zh": "如何运作",
+      "zh": "工作原理",
       "en": "How it works"
     },
     {
       "kind": "paragraph",
       "text": "To turn on Tool Retrieval, add a tool_search tool to your request and set defer_loading: true on the tools you want to hold back. The model still sees the name and description of every deferred tool, so it knows what's available, but the parameter schemas stay out of context. When the model needs a tool, it asks for it by name, the API loads the full schema, and the model calls the function, all inside the same request.",
       "id": "p4",
-      "zh": "要打开工具检索器,在您的请求中添加一个工具_搜索工具, 并设置延缓加载 :真实的在工具上,你想要拖住。模型仍然看到每个延期工具的名称和描述,所以它知道什么是可用的,但参数计划与上下文无关。当模型需要工具时,它问它的名字,API装满了整个计划,模型称它为函数,都在同一个请求中",
+      "zh": "要开启 Tool Retrieval，请在请求中添加一个 tool_search 工具，并在你想暂缓加载的工具上设置 defer_loading: true。模型仍会看到每个被暂缓加载的工具的名称和描述，因此它知道有哪些工具可用，但参数 schema 不会进入上下文。当模型需要某个工具时，它会按名称请求该工具，API 加载完整 schema，然后模型调用函数，所有这些都在同一个请求内完成。",
       "en": "To turn on Tool Retrieval, add a tool_search tool to your request and set defer_loading: true on the tools you want to hold back. The model still sees the name and description of every deferred tool, so it knows what's available, but the parameter schemas stay out of context. When the model needs a tool, it asks for it by name, the API loads the full schema, and the model calls the function, all inside the same request."
     },
     {
       "kind": "paragraph",
       "text": "from google import genai client = genai.Client() tools = [ {\"type\": \"tool_search\"}, { \"type\": \"function\", \"name\": \"issue_refund\", \"description\": \"Refund an order to the original payment method.\", \"defer_loading\": True, \"parameters\": { \"type\": \"object\", \"properties\": { \"order_id\": {\"type\": \"string\"}, \"amount\": {\"type\": \"number\"}, }, \"required\": [\"order_id\", \"amount\"], }, }, # ... 50+ other deferred functions (leave frequent tools undeferred) ] interaction = client.interactions.create( model=\"gemini-4-hydrogen\", input=\"Order A-1042 arrived damaged. Please refund 40 dollars.\", tools=tools, )",
       "id": "p5",
-      "zh": "从 google 导入 genai 客户端 = genai.client () 工具 = [{'类型] :\"工具搜索\" , , ,{\"类型\":\"职能\",\"名曰:\" ⁇ .\"退款问题\" \"Issues_ refund\",\"叙事\"曰:\"退款命令到原付款方法。\"\"延迟加载\"(英語:Deper_loading):没错\"参数\":{\"类型\":\"目标\",\"资治通鉴\":{\"命令_id\":{'类型' :\"弦\"] , , , , ,\"甲 ⁇ \":{'类型' :\"数字\"],{\\fn华文仿宋\\fs16\\1cHD1D1D1}\"资治通鉴\":[\"命令\"],\"amount\"],(\"山\"),(\"一说\".{\\fn华文仿宋\\fs16\\1cHD1D1D1}{\\fn华文仿宋\\fs16\\1cHD1D1D1}{\\fn方正粗倩简体\\fs12\\an8\\1cHFFFF00\\b0}...50+其他延时函数(留下频繁工具未延迟)) 交互=客户端. interactions.create(模型=\"gemini-4-氢\",.输入=\"命令A-1042到达损坏.请退款40美元。\"工具=工具,(中文(简体) ).",
+      "zh": "from google import genai\nclient = genai.Client()\ntools = [\n  {\"type\": \"tool_search\"},\n  {\n    \"type\": \"function\",\n    \"name\": \"issue_refund\",\n    \"description\": \"将订单退款至原始支付方式。\",\n    \"defer_loading\": True,\n    \"parameters\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"order_id\": {\"type\": \"string\"},\n        \"amount\": {\"type\": \"number\"},\n      },\n      \"required\": [\"order_id\", \"amount\"],\n    },\n  },\n  # ... 50 多个其他延迟函数（常用工具保持不延迟）\n]\ninteraction = client.interactions.create(\n  model=\"gemini-4-hydrogen\",\n  input=\"订单 A-1042 送达时已损坏。请退款 40 美元。\",\n  tools=tools,\n)",
       "en": "from google import genai client = genai.Client() tools = [ {\"type\": \"tool_search\"}, { \"type\": \"function\", \"name\": \"issue_refund\", \"description\": \"Refund an order to the original payment method.\", \"defer_loading\": True, \"parameters\": { \"type\": \"object\", \"properties\": { \"order_id\": {\"type\": \"string\"}, \"amount\": {\"type\": \"number\"}, }, \"required\": [\"order_id\", \"amount\"], }, }, # ... 50+ other deferred functions (leave frequent tools undeferred) ] interaction = client.interactions.create( model=\"gemini-4-hydrogen\", input=\"Order A-1042 arrived damaged. Please refund 40 dollars.\", tools=tools, )"
     },
     {
       "kind": "paragraph",
       "text": "Inside that single API call, the model searches for issue_refund, the API loads its schema, and the model emits the function_call. All three steps appear in interaction.steps, making it easy to inspect which tools the model considered when debugging tool names or descriptions:",
       "id": "p6",
-      "zh": "在那个API电话里搜索问题退款的模型,API装上它的图谋,而模型会发出函数_调用。所有三个步骤都出现在互动中。方便检查调试工具名称或描述时所考虑的模型工具 :",
+      "zh": "在同一个 API 调用中，模型搜索 issue_refund，API 加载其 schema，然后模型发出 function_call。所有三个步骤都出现在 interaction.steps 中，便于在调试工具名称或描述时检查模型考虑了哪些工具：",
       "en": "Inside that single API call, the model searches for issue_refund, the API loads its schema, and the model emits the function_call. All three steps appear in interaction.steps, making it easy to inspect which tools the model considered when debugging tool names or descriptions:"
     },
     {
       "kind": "paragraph",
       "text": "\"steps\": [ { \"type\": \"tool_search_call\", \"id\": \"tsc_7f2a\", \"arguments\": {\"function_names\": [\"issue_refund\"]}, \"signature\": \"...\" }, { \"type\": \"tool_search_result\", \"call_id\": \"tsc_7f2a\", \"result\": [{\"type\": \"function\", \"name\": \"issue_refund\", \"parameters\": {...}}], \"signature\": \"...\" }, { \"type\": \"function_call\", \"id\": \"fc_91c3\", \"name\": \"issue_refund\", \"arguments\": {\"order_id\": \"A-1042\", \"amount\": 40} } ]",
       "id": "p7",
-      "zh": "\"步骤\":[{\"类型\":\"工具_搜索_呼叫\",\" id\":\" ⁇ .\"tsc_7f2a\",\" ⁇ \",\" ⁇ \".\"论语\"曰:{\"函数_名称\" :[\"问题-退款\"],\"签名\":\"...\" ) , , ),{\"类型\":“工具_搜索_结果”,\"调用_id\":\"tsc_7f2a\",\" ⁇ \",\" ⁇ \".\"结果\":[{'类型']:\"职能\",\"名曰:\" ⁇ .\"退款问题\" \"Issues_ refund\",\"参数\":{...  ⁇ },\"签名\":\"...\" ) , , ),{\"类型\":\"职能_呼叫\",\" id\":\" ⁇ .\"fc_91c3\", (中文(中国大陆) ).\"名曰:\" ⁇ .\"退款问题\" \"Issues_ refund\",\"论语\"曰:{\"顺序_id\" :\"A-1042,\"(\"A-1042\"),\" ⁇ \",\" ⁇ \",\" ⁇ \".\"甲 ⁇ \":[40] [40]",
+      "zh": "\"steps\": [ { \"type\": \"tool_search_call\", \"id\": \"tsc_7f2a\", \"arguments\": {\"function_names\": [\"issue_refund\"]}, \"signature\": \"...\" }, { \"type\": \"tool_search_result\", \"call_id\": \"tsc_7f2a\", \"result\": [{\"type\": \"function\", \"name\": \"issue_refund\", \"parameters\": {...}}], \"signature\": \"...\" }, { \"type\": \"function_call\", \"id\": \"fc_91c3\", \"name\": \"issue_refund\", \"arguments\": {\"order_id\": \"A-1042\", \"amount\": 40} } ]",
       "en": "\"steps\": [ { \"type\": \"tool_search_call\", \"id\": \"tsc_7f2a\", \"arguments\": {\"function_names\": [\"issue_refund\"]}, \"signature\": \"...\" }, { \"type\": \"tool_search_result\", \"call_id\": \"tsc_7f2a\", \"result\": [{\"type\": \"function\", \"name\": \"issue_refund\", \"parameters\": {...}}], \"signature\": \"...\" }, { \"type\": \"function_call\", \"id\": \"fc_91c3\", \"name\": \"issue_refund\", \"arguments\": {\"order_id\": \"A-1042\", \"amount\": 40} } ]"
     },
     {
       "kind": "paragraph",
       "text": "From here it's normal function calling: your code runs the refund and sends back a function_result.",
       "id": "p8",
-      "zh": "从这里开始,这是正常的功能,叫:您的代码运行退款并发送一个函数_结果。",
+      "zh": "从这里开始就是常规的函数调用：你的代码执行退款，并返回一个 function_result。",
       "en": "From here it's normal function calling: your code runs the refund and sends back a function_result."
     },
     {
       "kind": "paragraph",
       "text": "There's no index to build or host. Gemini runs the search on the server, so the only changes to your code are the new tool and a flag on the tools you want to defer. You can keep your most-used tools loaded up front and defer the long tail.",
       "id": "p9",
-      "zh": "没有索引可以构建或主机.Gemini运行在服务器上的搜索,因此,您代码中唯一的修改是您想要推迟的工具上的新工具和一个标志.你可以把你的最常用的工具装在前面 并推迟长尾巴。",
+      "zh": "无需构建或托管索引。Gemini 在服务器端运行搜索，因此你代码中唯一的变化是添加新工具，并在你想延迟加载的工具上设置一个标志。你可以让最常用的工具预先加载，并延迟加载长尾工具。",
       "en": "There's no index to build or host. Gemini runs the search on the server, so the only changes to your code are the new tool and a flag on the tools you want to defer. You can keep your most-used tools loaded up front and defer the long tail."
     },
     {
       "kind": "paragraph",
       "text": "Tool Retrieval also plays well with prefix caching. Deferred schemas stay out of the start of the prompt, and the schemas the model loads are added later in the conversation, so the cached prefix stays the same from turn to turn.",
       "id": "p10",
-      "zh": "工具检索器也用前缀的凸轮弹得很好.被推迟的计谋,不要在迅速的开始之前,和计划 模型载荷 后加 在谈话,因此缓存的前缀从转弯到转弯保持不变.",
+      "zh": "Tool Retrieval 还能与前缀缓存很好地配合。被延迟加载的 schema 不会出现在提示词的开头，模型加载的 schema 会在对话后期添加，因此缓存的前缀在每一轮之间保持不变。",
       "en": "Tool Retrieval also plays well with prefix caching. Deferred schemas stay out of the start of the prompt, and the schemas the model loads are added later in the conversation, so the cached prefix stays the same from turn to turn."
     },
     {
       "kind": "paragraph",
       "text": "Tool Retrieval also works with remote MCP servers in the Gemini API. Set defer_loading: true on an mcp_server tool and every tool that server exposes is loaded on demand, so you can connect a large server without listing its tools one by one.",
       "id": "p11",
-      "zh": "工具检索也与GeminiAPI中的远程MCP服务器合作.设定延迟装入( L) :在 mcp_server 工具上是真实的,服务器曝光的每一个工具都是按要求加载的,这样就可以连接一个大型服务器,而不逐个列出其工具.",
+      "zh": "Tool Retrieval 也可与 Gemini API 中的远程 MCP 服务器配合使用。在 mcp_server 工具上设置 defer_loading: true，该服务器公开的每个工具都会按需加载，因此你可以连接大型服务器，而无需逐一列出其工具。",
       "en": "Tool Retrieval also works with remote MCP servers in the Gemini API. Set defer_loading: true on an mcp_server tool and every tool that server exposes is loaded on demand, so you can connect a large server without listing its tools one by one."
     },
     {
       "kind": "heading",
       "text": "How client-side retrieval works",
       "id": "p12",
-      "zh": "客户端检索是如何工作的",
+      "zh": "客户端检索的工作原理",
       "en": "How client-side retrieval works"
     },
     {
       "kind": "paragraph",
       "text": "If you maintain your own tool registry, embedding index, or per-user permission filter, declare the tool_search with \"execution\": \"client\" and define your search parameters. Client-side retrieval adds one round trip per search, because your app runs the lookup. Tools do not need to be declared upfront, so you can also expose new tools mid-conversation when a user connects an integration:",
       "id": "p13",
-      "zh": "如果你保持自己的工具注册,嵌入索引,或每个用户权限过滤器,以“ 执行” 声明工具_ 搜索 :客户端并定义您的搜索参数 。客户端检索每次搜索增加一次往返,因为你的应用运行了搜索。工具无需事先申报,这样,当用户连接到一个集成时,您也可以曝光新的工具中和:",
+      "zh": "如果你维护自己的工具注册表、嵌入索引或每用户权限过滤器，请声明 tool_search，并将 \"execution\" 设为 \"client\"，同时定义搜索参数。客户端检索每次搜索会增加一次往返，因为查找由你的应用执行。工具无需预先声明，因此当用户在对话过程中连接某个集成时，你也可以在对话中途公开新工具：",
       "en": "If you maintain your own tool registry, embedding index, or per-user permission filter, declare the tool_search with \"execution\": \"client\" and define your search parameters. Client-side retrieval adds one round trip per search, because your app runs the lookup. Tools do not need to be declared upfront, so you can also expose new tools mid-conversation when a user connects an integration:"
     },
     {
       "kind": "paragraph",
       "text": "tools = [{ \"type\": \"tool_search\", \"execution\": \"client\", \"name\": \"search_tools\", \"description\": \"Search the internal tool registry for functions.\", \"parameters\": { \"type\": \"object\", \"properties\": {\"query\": {\"type\": \"string\"}}, \"required\": [\"query\"], }, }] # When the model emits a function_call for \"search_tools\", # return matching {\"type\": \"function\", ...} schemas in function_result: followup = client.interactions.create( model=\"gemini-4-hydrogen\", previous_interaction_id=interaction.id, tools=tools, input=[{ \"type\": \"function_result\", \"name\": \"search_tools\", \"call_id\": step.id, \"result\": my_registry.search(**step.arguments), }], )",
       "id": "p14",
-      "zh": "工具 = [{“类型”]:\"工具搜索\",\"执行\":\"客户\",\"名曰:\" ⁇ .\"搜索工具\", (中文(简体) ).\"叙事\"曰:\"搜索内部工具注册 函数。\",\"参数\":{\"类型\":\"目标\",\"资治通鉴\":{\"凯里\" :{'类型' :\"弦\"  ⁇ ,\"资治通鉴\":[\"克里\"],{\\fn华文仿宋\\fs16\\1cHD1D1D1}当模型发出一个函数时... 呼唤\"搜索工具\",# 返回匹配 {“ 类型 ” :\"职能\",...] 函数中的方案_结果 :后续=客户端. interactions.create(模型=\"庚米-4-氢\"),上一个_ 交互_ id= interaction.id,工具=工具,输入=[{“类型”]:\"函数_结果\",\"名曰:\" ⁇ .\"搜索工具\", (中文(简体) ).\"调用_id\":步骤. id,\"结果\":my_registry.search(**step.[ ,] ,(中文(简体) ).",
+      "zh": "tools = [{ \"type\": \"tool_search\", \"execution\": \"client\", \"name\": \"search_tools\", \"description\": \"Search the internal tool registry for functions.\", \"parameters\": { \"type\": \"object\", \"properties\": {\"query\": {\"type\": \"string\"}}, \"required\": [\"query\"], }, }] # 当模型针对 \"search_tools\" 发出 function_call 时，\n# 在 function_result 中返回匹配的 {\"type\": \"function\", ...} schema：\nfollowup = client.interactions.create( model=\"gemini-4-hydrogen\", previous_interaction_id=interaction.id, tools=tools, input=[{ \"type\": \"function_result\", \"name\": \"search_tools\", \"call_id\": step.id, \"result\": my_registry.search(**step.arguments), }], )",
       "en": "tools = [{ \"type\": \"tool_search\", \"execution\": \"client\", \"name\": \"search_tools\", \"description\": \"Search the internal tool registry for functions.\", \"parameters\": { \"type\": \"object\", \"properties\": {\"query\": {\"type\": \"string\"}}, \"required\": [\"query\"], }, }] # When the model emits a function_call for \"search_tools\", # return matching {\"type\": \"function\", ...} schemas in function_result: followup = client.interactions.create( model=\"gemini-4-hydrogen\", previous_interaction_id=interaction.id, tools=tools, input=[{ \"type\": \"function_result\", \"name\": \"search_tools\", \"call_id\": step.id, \"result\": my_registry.search(**step.arguments), }], )"
     },
     {
       "kind": "heading",
       "text": "How pricing and supported models work",
       "id": "p15",
-      "zh": "定价和支助模型如何运作",
+      "zh": "定价与支持的模型如何运作",
       "en": "How pricing and supported models work"
     },
     {
       "kind": "paragraph",
       "text": "Tool Retrieval has no separate charge. Input and output tokens are billed at the standard rates for the model you call. Turning on tool_search adds a small, fixed block of input tokens, and each schema the model loads is billed as input for the rest of the conversation, the same as a tool declared up front. You save tokens when the schemas you never load outweigh the ones you do, which is the usual case for large libraries. Measure it against your own traffic.",
       "id": "p16",
-      "zh": "工具检索没有单独的收费.输入式和输出式符号按您调用的模型的标准费率计费.打开工具_ 搜索添加一个小,固定的输入符,每一个计划 模型负载被计费 作为其余对话的输入,和前面申报的工具一样当你的计谋从未超过你的计谋时,你省下一些符号,这对大型图书馆来说是常见的。测量一下自己的交通流量",
+      "zh": "Tool Retrieval 不单独收费。输入和输出 token 按所调用模型的标准费率计费。开启 tool_search 会增加一小块固定的输入 token，并且模型加载的每个 schema 在对话剩余部分都作为输入计费，与预先声明的工具相同。当从未加载的 schema 多于实际加载的 schema 时，你就能节省 token，这通常是大型工具库的情况。请根据自己的流量进行衡量。",
       "en": "Tool Retrieval has no separate charge. Input and output tokens are billed at the standard rates for the model you call. Turning on tool_search adds a small, fixed block of input tokens, and each schema the model loads is billed as input for the rest of the conversation, the same as a tool declared up front. You save tokens when the schemas you never load outweigh the ones you do, which is the usual case for large libraries. Measure it against your own traffic."
     },
     {
       "kind": "paragraph",
       "text": "Tool Retrieval works with Gemini 3.6 and later models, including all Gemini 4 models, in the Interactions API.",
       "id": "p17",
-      "zh": "工具检索与Gemini3.6和后来的模型合作,包括所有Gemini4型,在互动 API 中。",
+      "zh": "Tool Retrieval 在 Interactions API 中支持 Gemini 3.6 及更高版本的模型，包括所有 Gemini 4 模型。",
       "en": "Tool Retrieval works with Gemini 3.6 and later models, including all Gemini 4 models, in the Interactions API."
     },
     {
       "kind": "heading",
       "text": "How to get started",
       "id": "p18",
-      "zh": "如何开始",
+      "zh": "如何开始使用",
       "en": "How to get started"
     },
     {
       "kind": "list",
       "text": "Read the documentation — Full setup guide with examples",
       "id": "p19",
-      "zh": "阅读文档——带实例的完整设置指南",
+      "zh": "阅读文档 — 包含示例的完整设置指南",
       "en": "Read the documentation — Full setup guide with examples"
     },
     {
       "kind": "list",
       "text": "Compare Gemini models — Find the best model for your use case",
       "id": "p20",
-      "zh": "比较Gemini模型 — 为您的使用找到最佳模型",
+      "zh": "比较 Gemini 模型 — 为你的用例找到最佳模型",
       "en": "Compare Gemini models — Find the best model for your use case"
     },
     {
       "kind": "list",
       "text": "Join the discussion on Discord — Share feedback with the team",
       "id": "p21",
-      "zh": "加入关于Discord的讨论——与团队分享反馈",
+      "zh": "加入 Discord 上的讨论 — 与团队分享反馈",
       "en": "Join the discussion on Discord — Share feedback with the team"
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "今天我们要在GeminiAPI 推出工具检索在“互动” API中可预览。",
+      "zh": "今天，我们在 Gemini API 中推出 Tool Retrieval，现已在 Interactions API 中提供预览版。",
       "en": "Today we're launching Tool Retrieval in the Gemini API, available in preview in the Interactions API."
     },
     {
       "paragraphId": "p5",
-      "zh": "从 google 导入 genai 客户端 = genai.client () 工具 = [{'类型] :\"工具搜索\" , , ,{\"类型\":\"职能\",\"名曰:\" ⁇ .\"退款问题\" \"Issues_ refund\",\"叙事\"曰:\"退款命令到原付款方法。\"\"延迟加载\"(英語:Deper_loading):没错\"参数\":{\"类型\":\"目标\",\"资治通鉴\":{\"命令_id\":{'类型' :\"弦\"] , , , , ,\"甲 ⁇ \":{'类型' :\"数字\"],{\\fn华文仿宋\\fs16\\1cHD1D1D1}\"资治通鉴\":[\"命令\"],\"amount\"],(\"山\"),(\"一说\".{\\fn华文仿宋\\fs16\\1cHD1D1D1}{\\fn华文仿宋\\fs16\\1cHD1D1D1}{\\fn方正粗倩简体\\fs12\\an8\\1cHFFFF00\\b0}...50+其他延时函数(留下频繁工具未延迟)) 交互=客户端. interactions.create(模型=\"gemini-4-氢\",.输入=\"命令A-1042到达损坏.请退款40美元。",
+      "zh": "from google import genai\nclient = genai.Client()\ntools = [\n  {\"type\": \"tool_search\"},\n  {\n    \"type\": \"function\",\n    \"name\": \"issue_refund\",\n    \"description\": \"将订单退款至原始支付方式。\",\n    \"defer_loading\": True,\n    \"parameters\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"order_id\": {\"type\": \"string\"},\n        \"amount\": {\"type\": \"number\"},\n      },\n      \"required\": [\"order_id\", \"amount\"],\n    },\n  },\n  # ... 50 多个其他延迟函数（常用工具保持不延迟）\n]\ninteraction = client.interactions.create(\n  model=\"gemini-4-hydrogen\",\n  input=\"订单 A-1042 送达时已损坏。",
       "en": "from google import genai client = genai.Client() tools = [ {\"type\": \"tool_search\"}, { \"type\": \"function\", \"name\": \"issue_refund\", \"description\": \"Refund an order to the original payment method.\", \"defer_loading\": True, \"parameters\": { \"type\": \"object\", \"properties\": { \"order_id\": {\"type\": \"string\"}, \"amount\": {\"type\": \"number\"}, }, \"required\": [\"order_id\", \"amount\"], }, }, # ... 50+ other deferred functions (leave frequent tools undeferred) ] interaction = client.interactions.create( model=\"gemini-4-hydrogen\", input=\"Order A-1042 arrived damaged. Please refund 40 dollars.\", tools=tools, )"
     },
     {
       "paragraphId": "p7",
-      "zh": "\"步骤\":[{\"类型\":\"工具_搜索_呼叫\",\" id\":\" ⁇ .\"tsc_7f2a\",\" ⁇ \",\" ⁇ \".\"论语\"曰:{\"函数_名称\" :[\"问题-退款\"],\"签名\":\"...\" ) , , ),{\"类型\":“工具_搜索_结果”,\"调用_id\":\"tsc_7f2a\",\" ⁇ \",\" ⁇ \".\"结果\":[{'类型']:\"职能\",\"名曰:\" ⁇ .\"退款问题\" \"Issues_ refund\",\"参数\":{...  ⁇ },\"签名\":\"...\" ) , , ),{\"类型\":\"职能_呼叫\",\" id\":\" ⁇ .\"fc_91c3\", (中文(中国大陆) ).\"名曰:\" ⁇ .\"退款问题\" \"Issues_ refund\",\"论语\"曰:{\"顺序_id\" :\"A-1042,\"(\"A-1042\"),\" ⁇ \",\" ⁇ \",\" ⁇ \".\"甲 ⁇ \":[40] [40]",
+      "zh": "\"steps\": [ { \"type\": \"tool_search_call\", \"id\": \"tsc_7f2a\", \"arguments\": {\"function_names\": [\"issue_refund\"]}, \"signature\": \"...\" }, { \"type\": \"tool_search_result\", \"call_id\": \"tsc_7f2a\", \"result\": [{\"type\": \"function\", \"name\": \"issue_refund\", \"parameters\": {...}}], \"signature\": \"...\" }, { \"type\": \"function_call\", \"id\": \"fc_91c3\", \"name\": \"issue_refund\", \"arguments\": {\"order_id\": \"A-1042\", \"amount\": 40} } ]",
       "en": "\"steps\": [ { \"type\": \"tool_search_call\", \"id\": \"tsc_7f2a\", \"arguments\": {\"function_names\": [\"issue_refund\"]}, \"signature\": \"...\" }, { \"type\": \"tool_search_result\", \"call_id\": \"tsc_7f2a\", \"result\": [{\"type\": \"function\", \"name\": \"issue_refund\", \"parameters\": {...}}], \"signature\": \"...\" }, { \"type\": \"function_call\", \"id\": \"fc_91c3\", \"name\": \"issue_refund\", \"arguments\": {\"order_id\": \"A-1042\", \"amount\": 40} } ]"
     },
     {
       "paragraphId": "p17",
-      "zh": "工具检索与Gemini3.6和后来的模型合作,包括所有Gemini4型,在互动 API 中。",
+      "zh": "Tool Retrieval 在 Interactions API 中支持 Gemini 3.6 及更高版本的模型，包括所有 Gemini 4 模型。",
       "en": "Tool Retrieval works with Gemini 3.6 and later models, including all Gemini 4 models, in the Interactions API."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "16f59faf96af9ddc810e131b102aaa87d07426c9910dfc495fc28361a7778244"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "32c639bd22f204922ccd694ff23acd56528e6dee4fbc8691811158ef25efa812"
 }

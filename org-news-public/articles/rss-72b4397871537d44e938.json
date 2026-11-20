@@ -4,7 +4,7 @@
   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
   "sourceTitle": "Get certified as a Google Cloud Professional Agentic Architect.",
   "status": "ready",
-  "attemptedAt": "2026-11-19T11:00:59.025408+00:00",
+  "attemptedAt": "2026-11-20T05:01:59.923604+00:00",
   "fetchedAt": "2026-11-11T17:05:32.252440+00:00",
   "finalURL": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
   "language": "en",
@@ -15,69 +15,69 @@
       "kind": "paragraph",
       "text": "Today we announced Google Cloud's new Professional Agentic Architect certification: an industry-recognized certification that proves you can deploy secure, enterprise-grade agents that automate multi-step and multi-app workflows.",
       "id": "p1",
-      "zh": "今天我们宣布Google Cloud的新专业代理建筑师认证:行业认证,证明你可以部署安全,实现多步多应用工作流程自动化的企业级代理。",
+      "zh": "今天，我们宣布推出 Google Cloud 全新的 Professional Agentic Architect 认证：这是一项行业认可的认证，证明您能够部署安全、企业级的智能体，自动化多步骤和多应用工作流。",
       "en": "Today we announced Google Cloud's new Professional Agentic Architect certification: an industry-recognized certification that proves you can deploy secure, enterprise-grade agents that automate multi-step and multi-app workflows."
     },
     {
       "kind": "paragraph",
       "text": "This hybrid certification has two parts: a proctored multiple-choice exam assessing foundational knowledge in agentic architecture, and Google Skills labs to evaluate real-world, hands-on practical experience.",
       "id": "p2",
-      "zh": "这个混合认证有两个部分:一项多选择考试,评估代理建筑的基础知识,和谷歌技能实验室 来评估现实世界,实践经验。",
+      "zh": "这项混合认证包含两个部分：一项监考的多项选择题考试，评估智能体驱动架构的基础知识；以及 Google Skills labs，用于评估真实世界、动手实践经验。",
       "en": "This hybrid certification has two parts: a proctored multiple-choice exam assessing foundational knowledge in agentic architecture, and Google Skills labs to evaluate real-world, hands-on practical experience."
     },
     {
       "kind": "paragraph",
       "text": "Over the past four months, Google Cloud has trained thousands of Google Cloud forward deployed engineers and Google Cloud partners on this advanced curriculum. This certification is now available for technical professionals like developers, cloud architects, and engineers who architect, build, and deploy agents on Google Cloud.",
       "id": "p3",
-      "zh": "在过去四个月里,Google Cloud为数千名部署在Google Cloud前方的工程师和Google Cloud合作伙伴提供了这一高级课程的培训.这种认证现在可供开发人员等技术专业人员使用。云层建筑师,以及建筑师,建造,在Google Cloud上部署智能体",
+      "zh": "在过去四个月中，Google Cloud 已通过这一高级课程培训了数千名 Google Cloud 前向部署工程师和 Google Cloud 合作伙伴。该认证现已面向技术专业人员开放，例如在 Google Cloud 上架构、构建和部署智能体的开发者、云架构师和工程师。",
       "en": "Over the past four months, Google Cloud has trained thousands of Google Cloud forward deployed engineers and Google Cloud partners on this advanced curriculum. This certification is now available for technical professionals like developers, cloud architects, and engineers who architect, build, and deploy agents on Google Cloud."
     },
     {
       "kind": "paragraph",
       "text": "Our research shows more than 80% of Google Cloud certified individuals say the credential opens doors to new career opportunities and accelerates their path to promotion. Furthermore, 82% of individuals say certifications from Google Cloud help them earn higher salaries 1.",
       "id": "p4",
-      "zh": "我们的研究表明,超过80%的Google Cloud认证个人表示,证书为新的职业机会打开了大门并加快了晋升的道路.此外,82%的人说来自Google Cloud的认证帮助他们挣取更高的薪水1.",
+      "zh": "我们的研究表明，超过 80% 的 Google Cloud 认证人员表示，该认证为他们打开了新的职业机会之门，并加快了晋升之路。此外，82% 的个人表示，Google Cloud 认证帮助他们获得更高的薪资 1。",
       "en": "Our research shows more than 80% of Google Cloud certified individuals say the credential opens doors to new career opportunities and accelerates their path to promotion. Furthermore, 82% of individuals say certifications from Google Cloud help them earn higher salaries 1."
     },
     {
       "kind": "paragraph",
       "text": "Start your preparation at no cost today. Sign up for Gemini Agent Ready to claim 35 free monthly learning credits and gain access to our hands-on labs and agentic courses.",
       "id": "p5",
-      "zh": "今天免费开始你的准备注册双子星代理准备 申请35个免费月学学分 并进入我们的实践实验室和代理课程。",
+      "zh": "立即免费开始您的备考。注册 Gemini Agent Ready，即可每月领取 35 个免费学习积分，并获得我们的动手实验室和智能体驱动课程的访问权限。",
       "en": "Start your preparation at no cost today. Sign up for Gemini Agent Ready to claim 35 free monthly learning credits and gain access to our hands-on labs and agentic courses."
     },
     {
       "kind": "paragraph",
       "text": "Learn more on our Google Cloud blog.",
       "id": "p6",
-      "zh": "在我们的Google Cloud博客上学习更多内容.",
+      "zh": "在我们的 Google Cloud 博客上了解更多信息。",
       "en": "Learn more on our Google Cloud blog."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "今天我们宣布Google Cloud的新专业代理建筑师认证:行业认证,证明你可以部署安全,实现多步多应用工作流程自动化的企业级代理。",
+      "zh": "今天，我们宣布推出 Google Cloud 全新的 Professional Agentic Architect 认证：这是一项行业认可的认证，证明您能够部署安全、企业级的智能体，自动化多步骤和多应用工作流。",
       "en": "Today we announced Google Cloud's new Professional Agentic Architect certification: an industry-recognized certification that proves you can deploy secure, enterprise-grade agents that automate multi-step and multi-app workflows."
     },
     {
       "paragraphId": "p2",
-      "zh": "这个混合认证有两个部分:一项多选择考试,评估代理建筑的基础知识,和谷歌技能实验室 来评估现实世界,实践经验。",
+      "zh": "这项混合认证包含两个部分：一项监考的多项选择题考试，评估智能体驱动架构的基础知识；以及 Google Skills labs，用于评估真实世界、动手实践经验。",
       "en": "This hybrid certification has two parts: a proctored multiple-choice exam assessing foundational knowledge in agentic architecture, and Google Skills labs to evaluate real-world, hands-on practical experience."
     },
     {
       "paragraphId": "p4",
-      "zh": "我们的研究表明,超过80%的Google Cloud认证个人表示,证书为新的职业机会打开了大门并加快了晋升的道路.此外,82%的人说来自Google Cloud的认证帮助他们挣取更高的薪水1.",
+      "zh": "我们的研究表明，超过 80% 的 Google Cloud 认证人员表示，该认证为他们打开了新的职业机会之门，并加快了晋升之路。此外，82% 的个人表示，Google Cloud 认证帮助他们获得更高的薪资 1。",
       "en": "Our research shows more than 80% of Google Cloud certified individuals say the credential opens doors to new career opportunities and accelerates their path to promotion. Furthermore, 82% of individuals say certifications from Google Cloud help them earn higher salaries 1."
     },
     {
       "paragraphId": "p5",
-      "zh": "今天免费开始你的准备注册双子星代理准备 申请35个免费月学学分 并进入我们的实践实验室和代理课程。",
+      "zh": "立即免费开始您的备考。注册 Gemini Agent Ready，即可每月领取 35 个免费学习积分，并获得我们的动手实验室和智能体驱动课程的访问权限。",
       "en": "Start your preparation at no cost today. Sign up for Gemini Agent Ready to claim 35 free monthly learning credits and gain access to our hands-on labs and agentic courses."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "453cb93afe5edadddb7d57c91b2439db25f7dbe5978a88224f5327849b35650e"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "89ad3a0c09a71f69ae8cf6b98bb0f7dbea29355368df801003f2f212b61dfd04"
 }

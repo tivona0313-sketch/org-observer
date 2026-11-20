@@ -4,7 +4,7 @@
   "url": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
   "sourceTitle": "Muse Is Now Available in Australia: The World’s First Personal AI Agent Built for Everyone",
   "status": "ready",
-  "attemptedAt": "2026-11-19T10:59:45.146799+00:00",
+  "attemptedAt": "2026-11-20T05:00:26.093393+00:00",
   "fetchedAt": "2026-11-17T23:02:49.357191+00:00",
   "finalURL": "https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/",
   "language": "en",
@@ -15,146 +15,146 @@
       "kind": "heading",
       "text": "Takeaways",
       "id": "p1",
-      "zh": "外卖",
+      "zh": "要点",
       "en": "Takeaways"
     },
     {
       "kind": "list",
       "text": "Muse is a personal AI agent. It doesn’t just answer questions, it actually does the work. It helps people stay on top of things, takes tasks and projects off their plate, and turns long-term goals into action plans.",
       "id": "p2",
-      "zh": "穆斯是个人AI智能体.它不只是回答问题,它实际上做的工作。它可以帮助人们保持 在事物之上,将任务和项目从他们的盘中取出,并将长期目标转化为行动计划。",
+      "zh": "Muse 是一个个人智能体。它不仅回答问题，还能实际完成工作。它帮助人们井井有条地处理事务，接手他们的任务和项目，并将长期目标转化为行动计划。",
       "en": "Muse is a personal AI agent. It doesn’t just answer questions, it actually does the work. It helps people stay on top of things, takes tasks and projects off their plate, and turns long-term goals into action plans."
     },
     {
       "kind": "list",
       "text": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively.",
       "id": "p3",
-      "zh": "从今天起,Muse在澳大利亚可以使用,具有当地连通经验的创造力,购物,财产,健身娱乐逐步展开.",
+      "zh": "Muse 从今天起在澳大利亚上线，涵盖创意、购物、房产、健身和娱乐等本地连接器体验将逐步推出。",
       "en": "Muse is available in Australia from today, with local connector experiences across creativity, shopping, property, fitness and entertainment rolling out progressively."
     },
     {
       "kind": "list",
       "text": "Meta built Muse from the ground up to be a safe, secure, private, and widely available personal AI agent.",
       "id": "p4",
-      "zh": "梅塔从地上建造了Muse 成为一个保险箱,安全无虞,私家侦探并广泛提供个人AI代理.",
+      "zh": "Meta 从零开始打造 Muse，旨在使其成为一个安全、可靠、私密且广泛可用的个人智能体。",
       "en": "Meta built Muse from the ground up to be a safe, secure, private, and widely available personal AI agent."
     },
     {
       "kind": "list",
       "text": "Each person stays in control of their Muse and decides how much access it gets.",
       "id": "p5",
-      "zh": "每个人都在控制着他们的Muse 并且决定它获得多少访问权.",
+      "zh": "每个人都能掌控自己的 Muse，并决定它拥有多少访问权限。",
       "en": "Each person stays in control of their Muse and decides how much access it gets."
     },
     {
       "kind": "paragraph",
       "text": "Following our global announcement of Muse, we are excited to share that Muse is now available in Australia.",
       "id": "p6",
-      "zh": "我们全球宣布穆斯之后,我们很兴奋地告诉大家,Muse现在可以在澳大利亚使用。",
+      "zh": "继我们在全球发布 Muse 之后，我们很高兴地宣布 Muse 现已在澳大利亚上线。",
       "en": "Following our global announcement of Muse, we are excited to share that Muse is now available in Australia."
     },
     {
       "kind": "heading",
       "text": "What Muse can do in Australia",
       "id": "p7",
-      "zh": "缪斯在澳大利亚能做什么",
+      "zh": "Muse 在澳大利亚能做些什么",
       "en": "What Muse can do in Australia"
     },
     {
       "kind": "paragraph",
       "text": "Connectors are a big reason Muse can do so much. People in Australia can connect their Muse to apps and services they already use, such as Gmail, Google Calendar, Instagram and OpenTable, so it can help them manage emails, coordinate schedules, draw on saved content and make a restaurant reservation—all part of getting everyday tasks done.",
       "id": "p8",
-      "zh": "连接器是一个很大的原因 Muse可以做这么多。澳洲的人可以把Muse连接到他们已经使用的应用和服务上,像Gmail一样,谷歌日历,Instagram 和 OpenTable, (英语).这样可以帮助他们管理电子邮件,坐标表,利用已保存的内容,并预定餐厅,这是日常工作的一部分。",
+      "zh": "连接器是 Muse 能完成如此多任务的重要原因。澳大利亚的用户可以将 Muse 连接到他们已在使用的应用和服务，例如 Gmail、Google Calendar、Instagram 和 OpenTable，从而帮助管理电子邮件、协调日程、利用已保存的内容以及预订餐厅——这些都是完成日常任务的一部分。",
       "en": "Connectors are a big reason Muse can do so much. People in Australia can connect their Muse to apps and services they already use, such as Gmail, Google Calendar, Instagram and OpenTable, so it can help them manage emails, coordinate schedules, draw on saved content and make a restaurant reservation—all part of getting everyday tasks done."
     },
     {
       "kind": "paragraph",
       "text": "Early local connector partners in Australia include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack, and Ticketek. Connector features will roll out progressively, with some experiences becoming available after launch. Canva, the global all-in-one visual communication platform that empowers anyone to design, is also available as a connector for Muse users around the world.",
       "id": "p9",
-      "zh": "澳大利亚当地早期的连接伙伴包括Canva,域名,( 域名)科根,你好吗?MECCA, (墨西哥语)办公室工作,(原始内容存档于2018-10-21). realestate.com.au,.甜点,店头,还有车票连接器的功能将逐渐推出,发射后将获得一些经验。坎瓦岛,全球全能视觉通信平台 授权任何人设计,还可作为世界各地的Muse用户的连接器。",
+      "zh": "澳大利亚早期本地连接器合作伙伴包括 Canva、Domain、Kogan、MECCA、Officeworks、realestate.com.au、SWEAT、ShopBack 和 Ticketek。连接器功能将逐步推出，部分体验将在发布后开放。Canva 是赋能任何人进行设计的全球一体化视觉传播平台，也作为连接器面向全球 Muse 用户开放。",
       "en": "Early local connector partners in Australia include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack, and Ticketek. Connector features will roll out progressively, with some experiences becoming available after launch. Canva, the global all-in-one visual communication platform that empowers anyone to design, is also available as a connector for Muse users around the world."
     },
     {
       "kind": "paragraph",
       "text": "As these experiences become available, you could ask Muse to to design any visuals or content you need with Canva, explore property listings on Domain and realestate.com.au, or work towards fitness goals with SWEAT. You could also buy great value electronics and appliances through Kogan.com, beauty products through MECCA, school and office supplies through Officeworks, or tickets through Ticketek. With ShopBack, you could compare prices and earn cashback and rewards on flights, hotels and shopping.",
       "id": "p10",
-      "zh": "随着这些经验的出现,你可以要求Muse 设计任何你需要的视觉或内容 Canva,探索域名和地产的地产列表.com.au,.或与SWEAT合作实现健身目标。你也可以通过Kogan.com购买价值巨大的电子产品和电器,美容产品通过MECCA,* 通过办公室工作提供学校和办公用品;或者通过车票。与商店Back,你可以比较价格,赚回现金 和奖励飞行,旅馆和购物。",
+      "zh": "随着这些体验逐步开放，你可以让 Muse 使用 Canva 设计你需要的任何视觉素材或内容，在 Domain 和 realestate.com.au 上浏览房源信息，或通过 SWEAT 朝着健身目标努力。你还可以通过 Kogan.com 购买高性价比的电子产品和家电，通过 MECCA 购买美容产品，通过 Officeworks 购买学校与办公用品，或通过 Ticketek 购买门票。借助 ShopBack，你可以比较价格，并在机票、酒店和购物上赚取返现和奖励。",
       "en": "As these experiences become available, you could ask Muse to to design any visuals or content you need with Canva, explore property listings on Domain and realestate.com.au, or work towards fitness goals with SWEAT. You could also buy great value electronics and appliances through Kogan.com, beauty products through MECCA, school and office supplies through Officeworks, or tickets through Ticketek. With ShopBack, you could compare prices and earn cashback and rewards on flights, hotels and shopping."
     },
     {
       "kind": "heading",
       "text": "More ways to use Muse",
       "id": "p11",
-      "zh": "更多使用 Muse 的方法",
+      "zh": "更多使用 Muse 的方式",
       "en": "More ways to use Muse"
     },
     {
       "kind": "paragraph",
       "text": "Real time conversations with your Muse are now possible on mobile, web or Mac. With voice, you can talk through an idea with your Muse and let it take shape without worrying about the exact prompt. Just tap the phone icon in the top-right corner to start talking.",
       "id": "p12",
-      "zh": "现在可以通过手机与你的Muse实时交谈网络或Mac。带着声音你可以和你的Muse谈一个想法 让它成形 而不担心确切的瞬间把右上角的电话图标拍下来 开始说话",
+      "zh": "现在，你可以在手机、网页或 Mac 上与你的 Muse 进行实时对话。通过语音，你可以与 Muse 讨论一个想法，让它逐渐成形，而不必担心提示词是否精确。只需点击右上角的电话图标即可开始交谈。",
       "en": "Real time conversations with your Muse are now possible on mobile, web or Mac. With voice, you can talk through an idea with your Muse and let it take shape without worrying about the exact prompt. Just tap the phone icon in the top-right corner to start talking."
     },
     {
       "kind": "paragraph",
       "text": "Spaces, a custom experience you create inside Muse by describing your idea, is now also available. Spaces can help you get things done, have a little fun, or give your creative projects a home, whether it’s a shopping hub, school dashboard, wedding planner, or trip planner to name a few ideas.",
       "id": "p13",
-      "zh": "空间,你通过描述你的想法在Muse内部创造的定制体验,现在也可以使用。空间可以帮助你 完成事情,玩得开心点或以创造物为归宿,无论是购物中心,学校仪表板,婚礼策划人,或旅行计划员 提出一些想法。",
+      "zh": "Spaces 是你在 Muse 中通过描述想法来创建的定制体验，现在也已推出。Spaces 可以帮助你完成任务、带来一点乐趣，或为你的创意项目提供一个空间，无论是购物中心、学校仪表盘、婚礼策划还是旅行规划，这只是几个例子。",
       "en": "Spaces, a custom experience you create inside Muse by describing your idea, is now also available. Spaces can help you get things done, have a little fun, or give your creative projects a home, whether it’s a shopping hub, school dashboard, wedding planner, or trip planner to name a few ideas."
     },
     {
       "kind": "heading",
       "text": "Built to be private, safe and secure",
       "id": "p14",
-      "zh": "建为私事,安全无虞",
+      "zh": "以隐私、安全和保障为设计核心",
       "en": "Built to be private, safe and secure"
     },
     {
       "kind": "paragraph",
       "text": "Making this technology work for everyone requires careful design and engineering to operate more safely. That’s where most of the effort on this project went and this post explains our approach in detail. Muse runs on Muse Secure VM, a dedicated computer in the cloud that securely stores the data and credentials for the services you connect, while keeping passwords and payment methods out of the agent’s view. You choose what your Muse can access, and it checks with you before sensitive actions such as sending an email or making a purchase.",
       "id": "p15",
-      "zh": "让这种技术为所有人服务,需要精心设计和工程,以便更加安全地运作.本文详细解释了我们的做法。Muse运行在Muse Secure VM上,云中一台专用计算机,用于安全地存储您所连接的服务的数据和证书,,同时将密码和支付方法排除在代理人的视线之外。你选择你的缪斯可以访问什么,并在发送电子邮件或购买等敏感行动之前与您核对。",
+      "zh": "让这项技术为每个人服务需要精心的设计和工程，以更安全地运行。这个项目的大部分精力都投入在这方面，这篇文章详细解释了我们的做法。Muse 运行在 Muse Secure VM 上，这是云中的一台专用计算机，可安全存储你连接的服务的数据和凭据，同时让密码和支付方式不进入智能体的视野。你可以选择 Muse 可访问的内容，并且在进行发送邮件或购物等敏感操作之前，它会先征得你的同意。",
       "en": "Making this technology work for everyone requires careful design and engineering to operate more safely. That’s where most of the effort on this project went and this post explains our approach in detail. Muse runs on Muse Secure VM, a dedicated computer in the cloud that securely stores the data and credentials for the services you connect, while keeping passwords and payment methods out of the agent’s view. You choose what your Muse can access, and it checks with you before sensitive actions such as sending an email or making a purchase."
     },
     {
       "kind": "paragraph",
       "text": "Will Easton, Managing Director, Meta Australia and New Zealand, said: “With the festive season coming up, the timing couldn’t be better. From finding and buying the perfect gift to planning and booking a holiday, Muse is designed to take work off Australians’ plates. As local experiences roll out, familiar services will make Muse even more useful in everyday life. And people stay in control, including choosing what Muse can access and approving purchases before they happen.”",
       "id": "p16",
-      "zh": "威尔·伊斯顿总裁,澳大利亚和新西兰,梅塔说:“随着节日的到来,时间再好不过了。从找到和购买完美的礼物到计划 和预订一个假期,Muse的设计是为了让澳大利亚人从车牌上卸下工作。随着当地经验的推出,熟悉的服务将使Muse在日常生活中更加有用。和人们保持控制,包括选择Muse在购买之前能够获取和批准哪些物品。”",
+      "zh": "Meta 澳大利亚和新西兰董事总经理 Will Easton 表示：“随着节日季的到来，这个时机再好不过了。从寻找和购买完美礼物到规划和预订假期，Muse 旨在减轻澳大利亚人的负担。随着本地化体验的推出，熟悉的服务将使 Muse 在日常生活中更加有用。而且人们始终掌握控制权，包括选择 Muse 可访问的内容，并在购买发生前进行批准。”",
       "en": "Will Easton, Managing Director, Meta Australia and New Zealand, said: “With the festive season coming up, the timing couldn’t be better. From finding and buying the perfect gift to planning and booking a holiday, Muse is designed to take work off Australians’ plates. As local experiences roll out, familiar services will make Muse even more useful in everyday life. And people stay in control, including choosing what Muse can access and approving purchases before they happen.”"
     },
     {
       "kind": "paragraph",
       "text": "Muse is available in Australia on iOS, Android, and muse.ai, a Mac app, and coming soon to AI glasses. It’s free for most of what people need, with subscription plans for people who want to do more.",
       "id": "p17",
-      "zh": "Muse在澳大利亚有iOS,机器人,和缪斯艾,一个Mac应用软件,很快来到AI眼镜。这是人们需要的,给想做更多工作的人订了订书计划。",
+      "zh": "Muse 现已在澳大利亚的 iOS、Android 和 muse.ai（Mac 应用）上推出，并将很快登陆 AI 眼镜。对大多数人所需的功能免费，并为想要做更多事情的人提供订阅计划。",
       "en": "Muse is available in Australia on iOS, Android, and muse.ai, a Mac app, and coming soon to AI glasses. It’s free for most of what people need, with subscription plans for people who want to do more."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p2",
-      "zh": "穆斯是个人AI智能体.它不只是回答问题,它实际上做的工作。它可以帮助人们保持 在事物之上,将任务和项目从他们的盘中取出,并将长期目标转化为行动计划。",
+      "zh": "Muse 是一个个人智能体。它不仅回答问题，还能实际完成工作。",
       "en": "Muse is a personal AI agent. It doesn’t just answer questions, it actually does the work."
     },
     {
       "paragraphId": "p4",
-      "zh": "梅塔从地上建造了Muse 成为一个保险箱,安全无虞,私家侦探并广泛提供个人AI代理.",
+      "zh": "Meta 从零开始打造 Muse，旨在使其成为一个安全、可靠、私密且广泛可用的个人智能体。",
       "en": "Meta built Muse from the ground up to be a safe, secure, private, and widely available personal AI agent."
     },
     {
       "paragraphId": "p6",
-      "zh": "我们全球宣布穆斯之后,我们很兴奋地告诉大家,Muse现在可以在澳大利亚使用。",
+      "zh": "继我们在全球发布 Muse 之后，我们很高兴地宣布 Muse 现已在澳大利亚上线。",
       "en": "Following our global announcement of Muse, we are excited to share that Muse is now available in Australia."
     },
     {
       "paragraphId": "p9",
-      "zh": "澳大利亚当地早期的连接伙伴包括Canva,域名,( 域名)科根,你好吗?MECCA, (墨西哥语)办公室工作,(原始内容存档于2018-10-21). realestate.com.au,.甜点,店头,还有车票连接器的功能将逐渐推出,发射后将获得一些经验。坎瓦岛,全球全能视觉通信平台 授权任何人设计,还可作为世界各地的Muse用户的连接器。",
+      "zh": "澳大利亚早期本地连接器合作伙伴包括 Canva、Domain、Kogan、MECCA、Officeworks、realestate.com.au、SWEAT、ShopBack 和 Ticketek。连接器功能将逐步推出，部分体验将在发布后开放。",
       "en": "Early local connector partners in Australia include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack, and Ticketek. Connector features will roll out progressively, with some experiences becoming available after launch."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "b99eaac502887f5e006da6c0b1489c53a0d9beef37870fda69b56a666007b040"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "17e960eead98a976c20534b2dbdfb543378c8e7dd69d4d7ca7d014e84df5851b"
 }

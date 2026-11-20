@@ -84,6 +84,7 @@ jobs:
             python scripts/update_content.py --retranslate --retranslate-provider "${{ inputs.retranslate_provider }}"
           else
             python scripts/update_feed.py ${{ inputs.retranslate && '--retranslate' || '' }}
+          fi
       - name: Save feed history
         env:
           GIT_AUTHOR_NAME: github-actions[bot]

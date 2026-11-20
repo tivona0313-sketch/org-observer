@@ -353,6 +353,6 @@
   "translation": "Argos Open Tech 1.9 offline machine translation",
   "translationProvider": "argos-1.9",
   "contentHash": "07948aed472775f5738176599e378758e87eedb829c5ac7f165f39432d2c5fb8",
-  "lastAttempt": "2026-11-20T05:02:19.293164+00:00",
-  "lastError": "llm_http_429: {\"error\":{\"message\":\"Too many requests. Your current concurrency is 7, which exceeds your concurrency limit of 6 based on your remaining"
+  "lastAttempt": "2026-11-20T05:27:29.572505+00:00",
+  "lastError": "llm_http_402: {\"error\":{\"message\":\"Insufficient Balance (request_id: 1653cb8a-04ef-4867-90ff-a5f03ea89db7)\",\"type\":\"insufficient_balance_error\",\"param"
 }

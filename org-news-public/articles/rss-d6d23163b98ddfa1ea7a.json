@@ -4,7 +4,7 @@
   "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
   "sourceTitle": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
   "status": "ready",
-  "attemptedAt": "2026-11-19T11:00:50.467957+00:00",
+  "attemptedAt": "2026-11-20T05:27:06.829659+00:00",
   "fetchedAt": "2026-11-12T22:56:31.700679+00:00",
   "finalURL": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
   "language": "en",
@@ -15,78 +15,76 @@
       "kind": "paragraph",
       "text": "Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet.",
       "id": "p1",
-      "zh": "今天,我们...Google Search正在给Gemini4氢的每个人带来尖端的情报.这是Search最大的模型升级,现在。",
+      "zh": "今天，Google 搜索通过 Gemini 4 Hydrogen 将前沿智能带给所有人。这是 Google 搜索迄今为止最大的一次模型升级。",
       "en": "Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet."
     },
     {
       "kind": "paragraph",
       "text": "Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:",
       "id": "p2",
-      "zh": "氢气现在可在Google搜索中在全球范围内供所有用户使用,给更多的帮助,视觉上,和具有改进模型能力的直观反应:",
+      "zh": "Hydrogen 现已在 Google 搜索中面向全球所有用户推出，通过改进的模型能力提供更有帮助、更直观且更具视觉表现力的回答：",
       "en": "Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:"
     },
     {
       "kind": "list",
       "text": "Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question.",
       "id": "p3",
-      "zh": "更好地理解意图:搜索现在可以处理更细微和复杂的问题快速理解你需要的东西。只是问问你的自然思想流—— 包括多部分的问题,难以理解的字典,或非常具体的请求。有了更深入的指令 和工具呼叫,搜索更精确地跟踪你想要的,并给出针对你每个问题部分的相关回应.",
+      "zh": "更好地理解意图：Google 搜索现在可以处理更细微、更复杂的问题，快速理解你的需求。只需按照自然思路提问——包括包含多个部分的问题、难以理解的拼写错误或非常具体的要求。凭借更深入的指令遵循和工具调用，Google 搜索能更精准地遵循你的意图，并针对问题的每个部分给出相关回答。",
       "en": "Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question."
     },
     {
       "kind": "list",
       "text": "Improved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered.",
       "id": "p4",
-      "zh": "改进了查询风扇和链接:氢的高级推理 超量充电我们的查询风扇技术 在搜索,将您连接到比以前范围更广的有用链接。通过更透彻地了解你的问题,并同时对所有相关分专题进行查询,搜索帮助您找到您先前可能没有发现的站点 。",
+      "zh": "改进的查询扇出与链接：Hydrogen 的高级推理增强了我们在 Google 搜索中的查询扇出技术，使你能连接到比以往更广泛的有用链接。通过更全面地理解你的问题，并同时在所有相关子主题上执行查询，Google 搜索可帮助你发现以前可能找不到的网站。",
       "en": "Improved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered."
     },
     {
       "kind": "list",
       "text": "More visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you.",
       "id": "p5",
-      "zh": "更多视觉反应 :你变得适应性很强视觉上,和与你的需求特别相关的易扫描反应——以搜索的速度.你会看到更多画面,结构化对策,比较表,以及为你打造的自定义工具。",
+      "zh": "更多可视化回答：你将获得高度自适应、直观且易于浏览的回答，这些回答以独特方式契合你的需求——而且速度与 Google 搜索一样快。你会看到更多图片、结构化回答、对比表格以及为你构建的自定义工具。",
       "en": "More visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you."
     },
     {
       "kind": "list",
       "text": "Richer language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages.",
       "id": "p6",
-      "zh": "较丰富的语言理解:不管你问什么语言,您现在将会在支持的AI Mode语言中获得更加细致而有益的回应。",
+      "zh": "更丰富的语言理解：无论你使用哪种语言提问，现在都能在所有支持的 AI Mode 语言中获得更细腻、更有帮助的回答。",
       "en": "Richer language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages."
     },
     {
       "kind": "paragraph",
       "text": "Try out Gemini 4 Hydrogen in Search today.",
       "id": "p7",
-      "zh": "今天在搜索中试出Gemini4氢.",
+      "zh": "立即在 Google 搜索中体验 Gemini 4 Hydrogen。",
       "en": "Try out Gemini 4 Hydrogen in Search today."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p1",
-      "zh": "今天,我们...Google Search正在给Gemini4氢的每个人带来尖端的情报.这是Search最大的模型升级,现在。",
+      "zh": "今天，Google 搜索通过 Gemini 4 Hydrogen 将前沿智能带给所有人。这是 Google 搜索迄今为止最大的一次模型升级。",
       "en": "Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet."
     },
     {
       "paragraphId": "p2",
-      "zh": "氢气现在可在Google搜索中在全球范围内供所有用户使用,给更多的帮助,视觉上,和具有改进模型能力的直观反应:",
+      "zh": "Hydrogen 现已在 Google 搜索中面向全球所有用户推出，通过改进的模型能力提供更有帮助、更直观且更具视觉表现力的回答：",
       "en": "Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities:"
     },
     {
       "paragraphId": "p3",
-      "zh": "更好地理解意图:搜索现在可以处理更细微和复杂的问题快速理解你需要的东西。只是问问你的自然思想流—— 包括多部分的问题,难以理解的字典,或非常具体的请求。",
+      "zh": "更好地理解意图：Google 搜索现在可以处理更细微、更复杂的问题，快速理解你的需求。只需按照自然思路提问——包括包含多个部分的问题、难以理解的拼写错误或非常具体的要求。",
       "en": "Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests."
     },
     {
       "paragraphId": "p4",
-      "zh": "改进了查询风扇和链接:氢的高级推理 超量充电我们的查询风扇技术 在搜索,将您连接到比以前范围更广的有用链接。通过更透彻地了解你的问题,并同时对所有相关分专题进行查询,搜索帮助您找到您先前可能没有发现的站点 。",
+      "zh": "改进的查询扇出与链接：Hydrogen 的高级推理增强了我们在 Google 搜索中的查询扇出技术，使你能连接到比以往更广泛的有用链接。通过更全面地理解你的问题，并同时在所有相关子主题上执行查询，Google 搜索可帮助你发现以前可能找不到的网站。",
       "en": "Improved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "795e7d1b4694c193d82e0e1dca40d811cab7b3737b0a16f44ca27b56178d3879",
-  "lastAttempt": "2026-11-20T05:01:58.765736+00:00",
-  "lastError": "llm_http_429: {\"error\":{\"message\":\"Too many requests. Your current concurrency is 7, which exceeds your concurrency limit of 7 based on your remaining"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "4acd3cde349d31e1a57759c6489a74fa8f30103f6c2915d23eb7333610361493"
 }

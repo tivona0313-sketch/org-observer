@@ -4,7 +4,7 @@
   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
   "sourceTitle": "Gilbert + Tobin rethinks the business of law with AI",
   "status": "ready",
-  "attemptedAt": "2026-11-19T11:00:36.950352+00:00",
+  "attemptedAt": "2026-11-20T05:25:41.841226+00:00",
   "fetchedAt": "2026-11-11T05:10:22.032395+00:00",
   "finalURL": "https://openai.com/index/gilbert-tobin-sam-nickless/",
   "language": "en",
@@ -15,253 +15,251 @@
       "kind": "paragraph",
       "text": "Company size: Enterprise",
       "id": "p1",
-      "zh": "公司规模 :企业",
+      "zh": "公司规模：大型企业",
       "en": "Company size: Enterprise"
     },
     {
       "kind": "paragraph",
       "text": "Region: Asia-Pacific & Oceania",
       "id": "p2",
-      "zh": "地区 :亚太和大洋洲",
+      "zh": "地区：亚太及大洋洲",
       "en": "Region: Asia-Pacific & Oceania"
     },
     {
       "kind": "paragraph",
       "text": "Products: ChatGPT, Codex",
       "id": "p3",
-      "zh": "产品:查格普特,你觉得呢?代码",
+      "zh": "产品：ChatGPT、Codex",
       "en": "Products: ChatGPT, Codex"
     },
     {
       "kind": "paragraph",
       "text": "Industry: Services",
       "id": "p4",
-      "zh": "工业:服务",
+      "zh": "行业：服务业",
       "en": "Industry: Services"
     },
     {
       "kind": "paragraph",
       "text": "Our Executive Function series features perspectives from leaders driving transformation through AI.",
       "id": "p5",
-      "zh": "我们的\"执行职能\"系列从领导者的角度出发,通过AI推动转型.",
+      "zh": "我们的 Executive Function 系列呈现了通过 AI 推动转型的领导者的观点。",
       "en": "Our Executive Function series features perspectives from leaders driving transformation through AI."
     },
     {
       "kind": "paragraph",
       "text": "Gilbert + Tobin ⁠ is one of Australia’s leading corporate law firms, with work spanning capital markets, mergers and acquisitions, disputes, and technology. The firm operates in a profession built on specialist knowledge, careful judgement, and the secure handling of sensitive information.",
       "id": "p6",
-      "zh": "Gilbert + Tobin QQ是澳大利亚主要的公司律师事务所之一,与跨越资本市场的工作,合并和收购,争端,与技术有关的问题。公司在专业知识的基础上运作,谨慎的判断,以及敏感信息的安全处理。",
+      "zh": "Gilbert + Tobin 是澳大利亚领先的公司制律师事务所之一，业务涵盖资本市场、并购、争议解决和科技。该律所所处的行业建立在专业知识、审慎判断和安全处理敏感信息的基础之上。",
       "en": "Gilbert + Tobin ⁠ is one of Australia’s leading corporate law firms, with work spanning capital markets, mergers and acquisitions, disputes, and technology. The firm operates in a profession built on specialist knowledge, careful judgement, and the secure handling of sensitive information."
     },
     {
       "kind": "paragraph",
       "text": "Gilbert + Tobin began by giving its people room to experiment with AI, then introduced ChatGPT Enterprise, ChatGPT Work and Codex to move from individual assistance to defined, multistep agentic workflows, with people responsible for review and approval.",
       "id": "p7",
-      "zh": "Gilbert + Tobin 开始给其人空间 做AI的实验,然后引入了 ChatGPT 企业,ChatGPT Works and Codex 从个人援助转向定义,多步骤代理工作流程,与负责审查和批准的人员。",
+      "zh": "Gilbert + Tobin 起初让员工自由尝试 AI，随后引入 ChatGPT Enterprise、ChatGPT Work 和 Codex，从个人辅助转向明确的、多步骤的智能体驱动工作流，并由人员负责审核和批准。",
       "en": "Gilbert + Tobin began by giving its people room to experiment with AI, then introduced ChatGPT Enterprise, ChatGPT Work and Codex to move from individual assistance to defined, multistep agentic workflows, with people responsible for review and approval."
     },
     {
       "kind": "paragraph",
       "text": "We spoke with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin, about leading adoption from the front, where he’s seeing the value of AI, and his advice for other CEOs.",
       "id": "p8",
-      "zh": "我们和Sam Nickless谈过了吉尔伯特+托宾的合伙人兼首席执行官,关于从前线引领收养,当他看到AI的价值时,以及他对其他CEO的建议.",
+      "zh": "我们采访了 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless，探讨了如何以身作则引领 AI 应用、他所看到的 AI 价值，以及他对其他 CEO 的建议。",
       "en": "We spoke with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin, about leading adoption from the front, where he’s seeing the value of AI, and his advice for other CEOs."
     },
     {
       "kind": "heading",
       "text": "Sam, what is Gilbert + Tobin trying to achieve with AI?",
       "id": "p9",
-      "zh": "萨姆Gilbert + Tobin想用AI实现什么?",
+      "zh": "Sam，Gilbert + Tobin 希望通过 AI 实现什么目标？",
       "en": "Sam, what is Gilbert + Tobin trying to achieve with AI?"
     },
     {
       "kind": "paragraph",
       "text": "We have three objectives: to use AI to deliver better services to our clients, make Gilbert + Tobin a great place to work for our people and firmly establish ourselves as a leader in our market.",
       "id": "p10",
-      "zh": "我们有三个目标:利用AI为我们客户提供更好的服务,让吉尔伯特·多宾成为我们人民工作的好地方,并牢固地确立我们市场的领导地位.",
+      "zh": "我们有三个目标：利用 AI 为客户提供更好的服务，让 Gilbert + Tobin 成为员工工作的理想场所，并牢固确立我们在市场上的领导者地位。",
       "en": "We have three objectives: to use AI to deliver better services to our clients, make Gilbert + Tobin a great place to work for our people and firmly establish ourselves as a leader in our market."
     },
     {
       "kind": "paragraph",
       "text": "The real value we’ve seen from AI so far hasn’t been about reducing cost or needing fewer people, but freeing our people to focus on the more human side of their work, meeting with clients, coaching their teams and mentoring the future leaders of our industry.",
       "id": "p11",
-      "zh": "我们从AI至今所看到的真正价值并不是降低成本或减少人员需求,但释放我们的人民 专注于他们工作的人性方面,会见客户,指导他们的团队 指导我们行业的未来领袖",
+      "zh": "到目前为止，我们从人工智能中看到的真正价值并不在于降低成本或减少人力需求，而在于让我们的员工能够专注于工作中更具人性化的一面：与客户会面、辅导团队以及指导我们行业的未来领导者。",
       "en": "The real value we’ve seen from AI so far hasn’t been about reducing cost or needing fewer people, but freeing our people to focus on the more human side of their work, meeting with clients, coaching their teams and mentoring the future leaders of our industry."
     },
     {
       "kind": "paragraph",
       "text": "“It’s been about…freeing them up to then do the more human side of their work.”",
       "id": "p12",
-      "zh": "“这已经是... 释放他们,然后让他们做更多的人性工作。”",
+      "zh": "“关键在于……让他们得以解放，从而去从事工作中更具人性化的部分。”",
       "en": "“It’s been about…freeing them up to then do the more human side of their work.”"
     },
     {
       "kind": "paragraph",
       "text": "—Sam Nickless, Partner and Chief Executive Officer, Gilbert + Tobin",
       "id": "p13",
-      "zh": "-萨姆·尼克莱斯,合伙人兼首席执行官,吉尔伯特+托宾",
+      "zh": "——Sam Nickless，Gilbert + Tobin 合伙人兼首席执行官",
       "en": "—Sam Nickless, Partner and Chief Executive Officer, Gilbert + Tobin"
     },
     {
       "kind": "heading",
       "text": "You describe Gilbert + Tobin’s journey in three phases: experimentation, personal productivity, and organisational productivity. How did the firm get started?",
       "id": "p14",
-      "zh": "您描述吉尔伯特+托宾的旅程分为三个阶段:实验,个人生产力,以及组织生产力。律所是怎么开始的?",
+      "zh": "您将 Gilbert + Tobin 的历程描述为三个阶段：实验、个人生产力和组织生产力。该律所是如何起步的？",
       "en": "You describe Gilbert + Tobin’s journey in three phases: experimentation, personal productivity, and organisational productivity. How did the firm get started?"
     },
     {
       "kind": "paragraph",
       "text": "When ChatGPT first became available, we encouraged people to experiment with it and think about where it might create value. We were clear that no client data or confidential information should be entered. That gave people a safe, constrained environment to experiment.",
       "id": "p15",
-      "zh": "当ChatGPT首次出现时,我们鼓励人们用它来试验,并思考它能在哪里创造价值。我们明确表示,不应输入客户数据或机密信息。这给了人们一个保险箱,限制环境进行实验。",
+      "zh": "当 ChatGPT 首次推出时，我们鼓励员工进行尝试，并思考它可能在哪些方面创造价值。我们明确要求不得输入任何客户数据或机密信息。这为员工提供了一个安全、受约束的试验环境。",
       "en": "When ChatGPT first became available, we encouraged people to experiment with it and think about where it might create value. We were clear that no client data or confidential information should be entered. That gave people a safe, constrained environment to experiment."
     },
     {
       "kind": "paragraph",
       "text": "The next step was to provide a secure channel to powerful AI. We introduced ChatGPT Enterprise in a controlled environment and expanded from there. Australian data residency, contractual protections, role-based access and administrative controls gave us the confidence to scale while meeting our requirements and those of our clients.",
       "id": "p16",
-      "zh": "下一步是向强大的AI提供安全的渠道.我们在受控制的环境中引入了ChatGPT企业,并从此扩张.澳大利亚数据居住区,合同保护,基于角色的准入和行政控制使我们有信心在满足我们和客户要求的同时扩大规模。",
+      "zh": "下一步是提供一条通往强大人工智能的安全通道。我们在受控环境中引入了 ChatGPT Enterprise，并在此基础上逐步扩展。澳大利亚数据驻留、合同保护、基于角色的访问权限和管理控制让我们有信心进行规模化扩展，同时满足我们自身及客户的要求。",
       "en": "The next step was to provide a secure channel to powerful AI. We introduced ChatGPT Enterprise in a controlled environment and expanded from there. Australian data residency, contractual protections, role-based access and administrative controls gave us the confidence to scale while meeting our requirements and those of our clients."
     },
     {
       "kind": "paragraph",
       "text": "Governance should enable responsible use. Our message was simple: AI is not cheating. It is another tool people can use to apply their judgement. They still need to define the task, check the output and take responsibility for the final work.",
       "id": "p17",
-      "zh": "治理应促成负责任的利用。我们的信息很简单:AI不是作弊。这是人们可以用来运用其判断的又一工具。他们仍需要确定任务检查产出并负责最后的工作。",
+      "zh": "治理应当支持负责任的使用。我们传达的信息很简单：人工智能不是作弊。它是人们可以用来运用自身判断力的另一种工具。他们仍然需要定义任务、检查输出，并对最终工作负责。",
       "en": "Governance should enable responsible use. Our message was simple: AI is not cheating. It is another tool people can use to apply their judgement. They still need to define the task, check the output and take responsibility for the final work."
     },
     {
       "kind": "paragraph",
       "text": "Leaders have to use the technology themselves: experiment, push the boundaries and learn what works. When people see that AI matters to you, it sets the tone and encourages others to engage with it.",
       "id": "p18",
-      "zh": "领导人必须自己使用技术:实验,推出界限,学习什么是可行的。当人们看到AI对你很重要时它定下了基调,并鼓励其他人参与其中。",
+      "zh": "领导者必须亲自使用这项技术：进行试验、突破边界并了解哪些做法有效。当员工看到你重视人工智能时，这会树立基调，并鼓励其他人也积极参与。",
       "en": "Leaders have to use the technology themselves: experiment, push the boundaries and learn what works. When people see that AI matters to you, it sets the tone and encourages others to engage with it."
     },
     {
       "kind": "paragraph",
       "text": "We did not mandate usage targets. Instead, we made the technology relevant. Our business transformation team demonstrated workflows tailored to different functions, while videos, showcases, challenges and an early AI bounty surfaced ideas from across the firm.",
       "id": "p19",
-      "zh": "我们没有规定使用指标。相反,我们让技术成为有用的。我们的业务转型团队展示了适合不同职能的工作流程,和视频,显示,和早期AI的赏金 浮出整个公司的想法。",
+      "zh": "我们没有强制规定使用目标。相反，我们让这项技术变得具有相关性。我们的业务转型团队演示了针对不同职能量身定制的工作流程，而视频、展示、挑战活动和早期人工智能奖励计划则从全所范围内发掘了各种想法。",
       "en": "We did not mandate usage targets. Instead, we made the technology relevant. Our business transformation team demonstrated workflows tailored to different functions, while videos, showcases, challenges and an early AI bounty surfaced ideas from across the firm."
     },
     {
       "kind": "paragraph",
       "text": "Gilbert + Tobin has always been willing to lean into new technology. What has been most encouraging is the creativity coming from every part of the organisation – not only the technology team.",
       "id": "p20",
-      "zh": "Gilbert + Tobin 一直愿意投身于新技术.最令人鼓舞的是来自组织各个部分的创造力 — — 不仅仅是技术团队。",
+      "zh": "Gilbert + Tobin 一直愿意积极拥抱新技术。最令人鼓舞的是，创造力来自组织的各个部门——而不仅仅是技术团队。",
       "en": "Gilbert + Tobin has always been willing to lean into new technology. What has been most encouraging is the creativity coming from every part of the organisation – not only the technology team."
     },
     {
       "kind": "paragraph",
       "text": "“Getting started yourself…sets the tone and encourages others.”",
       "id": "p21",
-      "zh": "“开始...定下基调,鼓励他人。”",
+      "zh": "“自己先行动起来……会定下基调并鼓励其他人。”",
       "en": "“Getting started yourself…sets the tone and encourages others.”"
     },
     {
       "kind": "paragraph",
       "text": "—Sam Nickless, Partner and Chief Executive Officer, Gilbert + Tobin",
       "id": "p22",
-      "zh": "-萨姆·尼克莱斯,合伙人兼首席执行官,吉尔伯特+托宾",
+      "zh": "——Sam Nickless，Gilbert + Tobin 合伙人兼首席执行官",
       "en": "—Sam Nickless, Partner and Chief Executive Officer, Gilbert + Tobin"
     },
     {
       "kind": "heading",
       "text": "You have made ChatGPT central to your own work. What have you learned from what you’ve built?",
       "id": "p23",
-      "zh": "你把ChatGPT作为你自己工作的中心你从你建造的东西中学到了什么?",
+      "zh": "您已将 ChatGPT 作为自己工作的核心。您从自己构建的东西中学到了什么？",
       "en": "You have made ChatGPT central to your own work. What have you learned from what you’ve built?"
     },
     {
       "kind": "paragraph",
       "text": "To help manage my workload more effectively, I created a “digital twin” through a custom GPT (now shifting to Plugins) using examples of my writing, feedback I had received, context about the firm and the way I like to work. It started as a tool for me and became more valuable when I shared it with my direct reports.",
       "id": "p24",
-      "zh": "为了帮助更有效地管理我的工作量,我通过一个自定义的GPT(现在转向插件)创建了一个“数字双胞胎”,使用我写作的例子,我收到的反馈,公司的背景和我喜欢的工作方式它开始作为我的工具,当我与我的直接报告分享时,它变得更有价值。",
+      "zh": "为了更有效地管理我的工作量，我通过一个自定义 GPT（现在正转向插件）创建了一个“数字孪生”，使用了我写作的示例、我收到的反馈、关于律所的背景信息以及我喜欢的工作方式。它最初只是我自己的工具，当我分享给我的直接下属后，变得更有价值。",
       "en": "To help manage my workload more effectively, I created a “digital twin” through a custom GPT (now shifting to Plugins) using examples of my writing, feedback I had received, context about the firm and the way I like to work. It started as a tool for me and became more valuable when I shared it with my direct reports."
     },
     {
       "kind": "paragraph",
       "text": "My team is now able to use it to get “my feedback”, effectively, via ChatGPT. It lets them test their thinking against my context and working style before coming to me. It does not make decisions or speak for me; it helps our conversations start from a stronger place.",
       "id": "p25",
-      "zh": "我的团队现在能够用它来获取“我的反馈”,有效地,通过ChatGPT.让他们先对照我的背景和工作风格来测试他们的思维,然后再来找我。它不做决定,也不代表我说话;它有助于我们的对话 从一个更强大的地方开始。",
+      "zh": "我的团队现在能够通过 ChatGPT 有效地获得“我的反馈”。这让他们在来找我之前，可以对照我的背景和工作方式检验自己的想法。它不会做决定，也不会替我发声；它帮助我们的对话从一个更扎实的起点开始。",
       "en": "My team is now able to use it to get “my feedback”, effectively, via ChatGPT. It lets them test their thinking against my context and working style before coming to me. It does not make decisions or speak for me; it helps our conversations start from a stronger place."
     },
     {
       "kind": "paragraph",
       "text": "I also used ChatGPT Work in a confidential annual review process involving our 120 partners. I asked it to update files with data from a spreadsheet, create PDFs and bundle the finished material. It completed the work in minutes.",
       "id": "p26",
-      "zh": "我还在涉及我们120个伙伴的保密年度审查过程中利用了 \" ChatGPT工作 \" 。我要求它用电子表格的数据更新文件,创建 PDF 并捆绑成品。它在几分钟内完成了工作。",
+      "zh": "我还在涉及我们 120 位合伙人的保密年度评审流程中使用了 ChatGPT Work。我让它用电子表格中的数据更新文件、创建 PDF 并打包完成材料。它在几分钟内就完成了工作。",
       "en": "I also used ChatGPT Work in a confidential annual review process involving our 120 partners. I asked it to update files with data from a spreadsheet, create PDFs and bundle the finished material. It completed the work in minutes."
     },
     {
       "kind": "paragraph",
       "text": "With a product as powerful as ChatGPT Work, it’s important to have the right admin controls behind the scenes, and it now provides detailed, granular data on usage. When I checked the usage dashboard afterwards, the cost for that annual review work was about $62. That was a good trade for the time I saved – and for work that would otherwise have required several other people over multiple days.",
       "id": "p27",
-      "zh": "拥有像ChatGPT Work一样强大的产品,在幕后掌握正确的管理权很重要,它现在提供了详细的情况,使用量的颗粒数据。当我检查使用仪表板之后,年度审查工作的费用约为62美元。这对于我所节省的时间来说是一个很好的交易 — — 并且对于本来需要另外几个人在多日内完成的工作来说也是一个很好的交易。",
+      "zh": "对于像 ChatGPT Work 这样强大的产品，在后台拥有合适的管理控制非常重要，而且它现在提供详细、细粒度的使用数据。我之后查看使用仪表板时，那次年度评审工作的成本约为 62 美元。这对我节省的时间来说是一笔划算的交换——而且这项工作本来需要其他几个人花好几天才能完成。",
       "en": "With a product as powerful as ChatGPT Work, it’s important to have the right admin controls behind the scenes, and it now provides detailed, granular data on usage. When I checked the usage dashboard afterwards, the cost for that annual review work was about $62. That was a good trade for the time I saved – and for work that would otherwise have required several other people over multiple days."
     },
     {
       "kind": "heading",
       "text": "What advice would you give other CEOs beginning this journey?",
       "id": "p28",
-      "zh": "你会给其他CEO什么建议 开始这个旅程?",
+      "zh": "您会给其他刚开始这段旅程的 CEO 什么建议？",
       "en": "What advice would you give other CEOs beginning this journey?"
     },
     {
       "kind": "paragraph",
       "text": "Start by using the technology yourself. Experiment with real work, understand its limitations and show your people that learning matters.",
       "id": "p29",
-      "zh": "开始用技术自己。实验与真正的工作,了解它的局限性 并告诉你的人 学习很重要。",
+      "zh": "从自己使用这项技术开始。用真实工作去试验，了解它的局限性，并向你的员工表明学习很重要。",
       "en": "Start by using the technology yourself. Experiment with real work, understand its limitations and show your people that learning matters."
     },
     {
       "kind": "paragraph",
       "text": "Pair that leadership with clear governance and practical enablement. Give teams examples tailored to their roles, create safe ways to test ideas and keep people responsible for the result.",
       "id": "p30",
-      "zh": "以明确的治理和实际能力来领导这一领导。向团队提供适合其作用的实例,创造安全的方法 测试想法 并让人们对结果负责。",
+      "zh": "将这种领导方式与清晰的治理和务实的赋能结合起来。给团队提供针对其角色量身定制的示例，创造安全的方式来测试想法，并让人们对结果负责。",
       "en": "Pair that leadership with clear governance and practical enablement. Give teams examples tailored to their roles, create safe ways to test ideas and keep people responsible for the result."
     },
     {
       "kind": "paragraph",
       "text": "The opportunity is bigger than doing the same work a little more quickly. Used well, AI can raise the quality and volume of what an organisation produces – and give people more time for the complex, strategic work where their expertise and judgement create the greatest value.",
       "id": "p31",
-      "zh": "机会比做同样的工作要快一点。曾经很好,AI可以提高一个组织生产的质量和体积,并给人们更多的时间来建造这个建筑群,他们的专长和判断能创造出最大价值的战略性工作。",
+      "zh": "机遇比更快地完成同样的工作要大。使用得当，AI 能提高组织产出的质量和数量——并让人们有更多时间从事复杂、战略性的工作，在这些工作中，他们的专业知识和判断力创造最大价值。",
       "en": "The opportunity is bigger than doing the same work a little more quickly. Used well, AI can raise the quality and volume of what an organisation produces – and give people more time for the complex, strategic work where their expertise and judgement create the greatest value."
     },
     {
       "kind": "paragraph",
       "text": "Find out more about Gilbert + Tobin’s work with OpenAI through the case study here.",
       "id": "p32",
-      "zh": "更多关于Gilbert + Tobin与OpenAI的工作,",
+      "zh": "通过此处的案例研究，进一步了解 Gilbert + Tobin 与 OpenAI 的合作。",
       "en": "Find out more about Gilbert + Tobin’s work with OpenAI through the case study here."
     }
   ],
   "keyPoints": [
     {
       "paragraphId": "p7",
-      "zh": "Gilbert + Tobin 开始给其人空间 做AI的实验,然后引入了 ChatGPT 企业,ChatGPT Works and Codex 从个人援助转向定义,多步骤代理工作流程,与负责审查和批准的人员。",
+      "zh": "Gilbert + Tobin 起初让员工自由尝试 AI，随后引入 ChatGPT Enterprise、ChatGPT Work 和 Codex，从个人辅助转向明确的、多步骤的智能体驱动工作流，并由人员负责审核和批准。",
       "en": "Gilbert + Tobin began by giving its people room to experiment with AI, then introduced ChatGPT Enterprise, ChatGPT Work and Codex to move from individual assistance to defined, multistep agentic workflows, with people responsible for review and approval."
     },
     {
       "paragraphId": "p17",
-      "zh": "治理应促成负责任的利用。我们的信息很简单:AI不是作弊。",
+      "zh": "治理应当支持负责任的使用。我们传达的信息很简单：人工智能不是作弊。",
       "en": "Governance should enable responsible use. Our message was simple: AI is not cheating."
     },
     {
       "paragraphId": "p20",
-      "zh": "Gilbert + Tobin 一直愿意投身于新技术.最令人鼓舞的是来自组织各个部分的创造力 — — 不仅仅是技术团队。",
+      "zh": "Gilbert + Tobin 一直愿意积极拥抱新技术。最令人鼓舞的是，创造力来自组织的各个部门——而不仅仅是技术团队。",
       "en": "Gilbert + Tobin has always been willing to lean into new technology. What has been most encouraging is the creativity coming from every part of the organisation – not only the technology team."
     },
     {
       "paragraphId": "p30",
-      "zh": "以明确的治理和实际能力来领导这一领导。向团队提供适合其作用的实例,创造安全的方法 测试想法 并让人们对结果负责。",
+      "zh": "将这种领导方式与清晰的治理和务实的赋能结合起来。给团队提供针对其角色量身定制的示例，创造安全的方式来测试想法，并让人们对结果负责。",
       "en": "Pair that leadership with clear governance and practical enablement. Give teams examples tailored to their roles, create safe ways to test ideas and keep people responsible for the result."
     }
   ],
   "method": "defuddle-0.19.6 / extractive-key-sentences",
-  "translation": "Argos Open Tech 1.9 offline machine translation",
-  "translationProvider": "argos-1.9",
-  "contentHash": "aa32b39e09c5f3dd66986efccb705e8aee0c123ad4bb6acadf319170357ee83b",
-  "lastAttempt": "2026-11-20T05:01:48.678863+00:00",
-  "lastError": "llm_http_429: {\"error\":{\"message\":\"Too many requests. Your current concurrency is 7, which exceeds your concurrency limit of 7 based on your remaining"
+  "translation": "LLM · deepseek-v4-pro",
+  "translationProvider": "llm:deepseek-v4-pro",
+  "contentHash": "0ad5695eb595dfd448150837c80c6b026b5a60d8d9547c616a36124a5119189b"
 }

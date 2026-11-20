@@ -16,7 +16,7 @@ from pathlib import Path
 
 from translate_feed import ROOT, curated_articles
 from offline_translate import detect_language
-from translation_service import provider_id, provider_name, translate_batch
+from translation_service import provider_id, provider_name, translate_batch, translation_workers
 
 HOSTS = {
     "blog.google", "blogs.microsoft.com", "www.microsoft.com",
@@ -238,7 +238,7 @@ def update_content(directory, articles, *, force=False, extract_only=False, limi
             atomic_json(path,record)
             print(f"{identifier}: {record['status']}; {code}",flush=True)
             return record
-    with ThreadPoolExecutor(max_workers=3) as pool:
+    with ThreadPoolExecutor(max_workers=translation_workers()) as pool:
         list(pool.map(process,targets))
     index={}
     for identifier in records:

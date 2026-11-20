@@ -47,6 +47,7 @@ jobs:
       ORG_LLM_BASE_URL: ${{ vars.ORG_LLM_BASE_URL }}
       ORG_LLM_MODEL: ${{ vars.ORG_LLM_MODEL }}
       ORG_TRANSLATION_PROVIDER: ${{ secrets.ORG_LLM_API_KEY != '' && 'llm' || 'offline' }}
+      ORG_TRANSLATION_WORKERS: 8
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

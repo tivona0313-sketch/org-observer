@@ -34,6 +34,14 @@ def provider_id():
     return "llm:" + _setting("ORG_LLM_MODEL", "configured") if provider_name().startswith("LLM") else "argos-1.9"
 
 
+def translation_workers():
+    default = 8 if provider_name().startswith("LLM") else 3
+    try:
+        return max(1, min(int(_setting("ORG_TRANSLATION_WORKERS", str(default))), 12))
+    except ValueError:
+        return default
+
+
 def _json_response(raw):
     try:
         value = json.loads(raw)

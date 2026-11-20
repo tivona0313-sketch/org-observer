@@ -73,7 +73,7 @@ def cached_texts(cache):
 
 def build_bilingual(articles, cache, translator=translate_text, retranslate=False):
     originals = {a["id"]: article_fields(a) for a in articles}
-    from translation_service import provider_id, provider_name
+    from translation_service import provider_id, provider_name, translation_workers
     # Existing translation pairs remain valid when the model changes. A model
     # switch should affect new text only; full historical replacement is an
     # explicit --retranslate operation.
@@ -94,9 +94,9 @@ def build_bilingual(articles, cache, translator=translate_text, retranslate=Fals
                     required.append(text)
     required = list(dict.fromkeys(required))
     print(f"Translation cache: {len(originals)} articles; {len(required)} new or changed texts", flush=True)
-    # Keep only three translations in flight. An error stops further work and
-    # prevents either published JSON file from being overwritten.
-    with ThreadPoolExecutor(max_workers=3) as pool:
+    # High-quality APIs have separate concurrency limits from the offline
+    # runtime. An error still stops the batch before any snapshot is written.
+    with ThreadPoolExecutor(max_workers=translation_workers()) as pool:
         remaining = iter(required)
         pending = {}
         for _ in range(min(3, len(required))):
